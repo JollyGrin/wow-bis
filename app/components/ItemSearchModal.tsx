@@ -1,9 +1,9 @@
 'use client';
 
-import { useState, useCallback, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { useInfiniteQuery, useQuery } from '@tanstack/react-query';
+import { useInView } from 'react-intersection-observer';
 import { itemsAPI } from '@/app/lib/api-client';
-import { useInfiniteScroll } from '@/app/hooks/useInfiniteScroll';
 import type { Item } from '@/app/lib/items-service';
 
 interface ItemSearchModalProps {
@@ -55,12 +55,17 @@ export function ItemSearchModal({ isOpen, onClose, onSelectItem }: ItemSearchMod
     enabled: isOpen,
   });
 
-  // Infinite scroll
-  const loadMoreRef = useInfiniteScroll({
-    onLoadMore: fetchNextPage,
-    hasMore: hasNextPage || false,
-    isLoading: isFetchingNextPage,
+  // Intersection observer for infinite scroll
+  const { ref: loadMoreRef, inView } = useInView({
+    threshold: 0,
   });
+
+  // Trigger next page when scrolling into view
+  useEffect(() => {
+    if (inView && hasNextPage && !isFetchingNextPage) {
+      fetchNextPage();
+    }
+  }, [inView, hasNextPage, isFetchingNextPage, fetchNextPage]);
 
   // Reset search when modal opens
   useEffect(() => {
@@ -90,7 +95,7 @@ export function ItemSearchModal({ isOpen, onClose, onSelectItem }: ItemSearchMod
         {/* Header */}
         <div className="p-6 border-b">
           <div className="flex justify-between items-center mb-4">
-            <h2 className="text-2xl font-bold">Search Items</h2>
+            <h2 className="text-2xl font-bold text-gray-900">Search Items</h2>
             <button
               onClick={onClose}
               className="text-gray-500 hover:text-gray-700"
@@ -107,7 +112,7 @@ export function ItemSearchModal({ isOpen, onClose, onSelectItem }: ItemSearchMod
             placeholder="Search items..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
-            className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+            className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-gray-900 bg-white"
           />
 
           {/* Filters */}
@@ -115,7 +120,7 @@ export function ItemSearchModal({ isOpen, onClose, onSelectItem }: ItemSearchMod
             <select
               value={filters.slot}
               onChange={(e) => handleFilterChange('slot', e.target.value)}
-              className="px-3 py-2 border rounded-lg text-sm"
+              className="px-3 py-2 border rounded-lg text-sm text-gray-900 bg-white"
             >
               <option value="">All Slots</option>
               {metadata?.slots.map(slot => (
@@ -126,7 +131,7 @@ export function ItemSearchModal({ isOpen, onClose, onSelectItem }: ItemSearchMod
             <select
               value={filters.quality}
               onChange={(e) => handleFilterChange('quality', e.target.value)}
-              className="px-3 py-2 border rounded-lg text-sm"
+              className="px-3 py-2 border rounded-lg text-sm text-gray-900 bg-white"
             >
               <option value="">All Qualities</option>
               {metadata?.qualities.map(quality => (
@@ -137,7 +142,7 @@ export function ItemSearchModal({ isOpen, onClose, onSelectItem }: ItemSearchMod
             <select
               value={filters.class}
               onChange={(e) => handleFilterChange('class', e.target.value)}
-              className="px-3 py-2 border rounded-lg text-sm"
+              className="px-3 py-2 border rounded-lg text-sm text-gray-900 bg-white"
             >
               <option value="">All Classes</option>
               {metadata?.classes.map(cls => (
@@ -150,7 +155,7 @@ export function ItemSearchModal({ isOpen, onClose, onSelectItem }: ItemSearchMod
               placeholder="Min Level"
               value={filters.minLevel}
               onChange={(e) => handleFilterChange('minLevel', e.target.value)}
-              className="px-3 py-2 border rounded-lg text-sm"
+              className="px-3 py-2 border rounded-lg text-sm text-gray-900 bg-white"
               min="1"
               max="60"
             />
@@ -160,7 +165,7 @@ export function ItemSearchModal({ isOpen, onClose, onSelectItem }: ItemSearchMod
               placeholder="Max Level"
               value={filters.maxLevel}
               onChange={(e) => handleFilterChange('maxLevel', e.target.value)}
-              className="px-3 py-2 border rounded-lg text-sm"
+              className="px-3 py-2 border rounded-lg text-sm text-gray-900 bg-white"
               min="1"
               max="60"
             />
