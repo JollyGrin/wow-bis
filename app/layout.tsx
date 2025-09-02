@@ -25,6 +25,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};`,
+          }}
+        />
+        <script src="https://wow.zamimg.com/js/tooltips.js" />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >

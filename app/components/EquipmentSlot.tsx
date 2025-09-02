@@ -47,11 +47,12 @@ export function EquipmentSlot({ slotName, items }: EquipmentSlotProps) {
           {items.map((item) => {
             const position = ((item.requiredLevel - 1) / 59) * 100;
             return (
-              <div
+              <a
                 key={item.itemId}
+                href={`https://www.wowhead.com/classic/item=${item.itemId}`}
                 className="absolute top-1 w-10 h-10 -translate-x-1/2 cursor-pointer group"
                 style={{ left: `${position}%` }}
-                title={`${item.name} (Level ${item.requiredLevel})`}
+                data-wowhead={`item=${item.itemId}`}
               >
                 <img
                   src={`https://wow.zamimg.com/images/wow/icons/medium/${item.icon}.jpg`}
@@ -63,7 +64,7 @@ export function EquipmentSlot({ slotName, items }: EquipmentSlotProps) {
                     'border-gray-600'
                   } group-hover:scale-110 transition-transform`}
                 />
-              </div>
+              </a>
             );
           })}
         </div>
