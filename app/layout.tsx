@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { Providers } from "./providers";
+import Script from "next/script";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -25,18 +26,21 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <head>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};`,
-          }}
-        />
-        <script src="https://wow.zamimg.com/js/tooltips.js" />
-      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <Providers>{children}</Providers>
+        <Script
+          id="wowhead-config"
+          strategy="beforeInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};`,
+          }}
+        />
+        <Script
+          src="https://wow.zamimg.com/js/tooltips.js"
+          strategy="afterInteractive"
+        />
       </body>
     </html>
   );
