@@ -86,36 +86,45 @@ export default function WowModelViewerFixed({
         // Import the wow-model-viewer library
         const { generateModels } = await import("wow-model-viewer");
 
-        // Verified Classic WoW Item ID -> Display ID mappings from Wowhead XML
-        const classicDisplayIds: Record<number, number> = {
-          16963: 34215, // Helm of Wrath
-          16905: 33650, // Bloodfang Chestpiece
-          19019: 30606, // Thunderfury
-          // Add more as we verify them
+        // Function to get display ID from our API
+        const getDisplayId = async (itemId: number): Promise<number> => {
+          try {
+            const response = await fetch(`/api/item-display-id/${itemId}`);
+            if (response.ok) {
+              const data = await response.json();
+              console.log(`✅ Got display ID for item ${itemId}:`, data);
+              return data.displayId;
+            } else {
+              console.warn(`❌ Failed to get display ID for item ${itemId}`);
+              return itemId; // Fallback to item ID
+            }
+          } catch (error) {
+            console.error(`Error getting display ID for item ${itemId}:`, error);
+            return itemId; // Fallback to item ID
+          }
         };
 
-        // Convert items to display IDs using verified mappings
+        // Convert items to display IDs using our API
         const itemsArray: Array<[number, number]> = [];
-        Object.entries(items).forEach(([slot, itemId]) => {
-          if (itemId && SLOT_MAP[slot] && classicDisplayIds[itemId]) {
-            const displayId = classicDisplayIds[itemId];
+        
+        for (const [slot, itemId] of Object.entries(items)) {
+          if (itemId && SLOT_MAP[slot]) {
+            const displayId = await getDisplayId(itemId);
             const slotNum = SLOT_MAP[slot];
             
             // Special handling for weapons - try multiple slots
             if (slot === 'mainHand') {
-              console.log(`🗡️ Testing weapon in multiple slots for item ${itemId}`);
+              console.log(`🗡️ Adding weapon to multiple slots for item ${itemId} (display ID: ${displayId})`);
               itemsArray.push([15, displayId]); // Try slot 15 
               itemsArray.push([16, displayId]); // Try slot 16
-              itemsArray.push([21, displayId]); // Try slot 21 (sometimes used for main hand)
+              itemsArray.push([21, displayId]); // Try slot 21
             } else {
               itemsArray.push([slotNum, displayId]);
             }
             
             console.log(`✅ Mapped item ${itemId} -> display ID ${displayId} in slot ${slotNum}`);
-          } else if (itemId && SLOT_MAP[slot]) {
-            console.warn(`❌ No verified display ID mapping for item ${itemId}`);
           }
-        });
+        }
         
         console.log('🎯 Using verified Classic display IDs:', itemsArray);
 
