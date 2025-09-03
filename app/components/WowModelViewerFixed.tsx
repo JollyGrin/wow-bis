@@ -76,10 +76,8 @@ export default function WowModelViewerFixed({
       setError(null);
 
       try {
-        // Set up environment variables to use our Next.js proxy
-        (window as any).CONTENT_PATH = '/api/wowhead-proxy/modelviewer/live/';
-        (window as any).WOTLK_TO_RETAIL_DISPLAY_ID_API = 'https://wotlk.murlocvillage.com/api/items';
-
+        // Environment variables are now set globally in the page
+        
         // Set container ID
         containerRef.current!.id = containerId.current;
 
@@ -108,6 +106,9 @@ export default function WowModelViewerFixed({
         };
 
         console.log('Creating WoW model with character:', character);
+        console.log('Window.WH available:', !!(window as any).WH);
+        console.log('WH.debug available:', typeof (window as any).WH?.debug);
+        console.log('CONTENT_PATH:', (window as any).CONTENT_PATH);
 
         // Generate the model with aspect ratio 1.0 and container selector
         const model = await generateModels(1.0, `#${containerId.current}`, character);

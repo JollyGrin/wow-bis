@@ -51,8 +51,27 @@ A complete demo showcasing the model viewer with:
    ```
 
 3. **Script Loading**:
+   - WH mock object (inline script, loaded first)
    - jQuery 3.6.0 (via CDN)
    - ZamModelViewer (via Next.js proxy): `/api/wowhead-proxy/modelviewer/live/viewer/viewer.min.js`
+
+4. **WH Mock Object**:
+   The ZamModelViewer expects a global `WH` object with specific methods. We set this up before loading any scripts:
+   ```javascript
+   window.WH = {
+     debug: function() {},
+     getDataEnv: function() { return 'live'; },
+     Wow: {
+       Character: {
+         Races: { /* race data */ },
+         getModelOpts: function(race, gender) { /* character options */ }
+       },
+       Item: {
+         getJsonEquip: function(id) { /* item data */ }
+       }
+     }
+   };
+   ```
 
 ### How the Proxy Works
 

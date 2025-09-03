@@ -142,6 +142,55 @@ export default function ModelViewerPage() {
 	return (
 		<div className="min-h-screen bg-gray-900 text-white p-8">
 			<Script 
+				id="wh-mock-setup"
+				strategy="beforeInteractive"
+				dangerouslySetInnerHTML={{
+					__html: `
+						// Set up WH mock object before any other scripts load
+						window.WH = window.WH || {
+							debug: function() {},
+							getDataEnv: function() { return 'live'; },
+							REMOTE: false,
+							Wow: {
+								Item: {
+									getJsonEquip: function(id) { 
+										return { slotbak: 1, displayid: id };
+									}
+								},
+								Character: {
+									getModelOpts: function(race, gender) {
+										return {
+											race: race,
+											gender: gender,
+											sk: 1, ha: 1, hc: 1, fa: 1, fh: 1, fc: 1,
+											ep: 1, eq: 1, er: 1, es: 1, et: 1
+										};
+									},
+									Races: {
+										1: { Race: 1, Name: "Human", Side: 0, FileString: "human" },
+										2: { Race: 2, Name: "Orc", Side: 1, FileString: "orc" },
+										3: { Race: 3, Name: "Dwarf", Side: 0, FileString: "dwarf" },
+										4: { Race: 4, Name: "Night Elf", Side: 0, FileString: "nightelf" },
+										5: { Race: 5, Name: "Undead", Side: 1, FileString: "undead" },
+										6: { Race: 6, Name: "Tauren", Side: 1, FileString: "tauren" },
+										7: { Race: 7, Name: "Gnome", Side: 0, FileString: "gnome" },
+										8: { Race: 8, Name: "Troll", Side: 1, FileString: "troll" },
+										10: { Race: 10, Name: "Blood Elf", Side: 1, FileString: "bloodelf" },
+										11: { Race: 11, Name: "Draenei", Side: 0, FileString: "draenei" }
+									}
+								}
+							}
+						};
+						
+						// Set up environment variables
+						window.CONTENT_PATH = '/api/wowhead-proxy/modelviewer/live/';
+						window.WOTLK_TO_RETAIL_DISPLAY_ID_API = 'https://wotlk.murlocvillage.com/api/items';
+						
+						console.log('WH mock object initialized:', window.WH);
+					`
+				}}
+			/>
+			<Script 
 				src="https://code.jquery.com/jquery-3.6.0.min.js"
 				strategy="beforeInteractive"
 			/>
