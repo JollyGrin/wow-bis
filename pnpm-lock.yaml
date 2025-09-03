@@ -29,6 +29,9 @@ importers:
       react-intersection-observer:
         specifier: ^9.16.0
         version: 9.16.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      wow-model-viewer:
+        specifier: ^1.5.2
+        version: 1.5.2
     devDependencies:
       '@biomejs/biome':
         specifier: 2.2.0
@@ -753,6 +756,10 @@ packages:
   undici-types@6.21.0:
     resolution: {integrity: sha512-iwDZqg0QAGrg9Rav5H4n0M64c3mkR59cJ6wQp+7C4nI0gsmExaedaYLNO44eT4AtBBwjbTiGPMlt2Md0T9H9JQ==}
 
+  wow-model-viewer@1.5.2:
+    resolution: {integrity: sha512-5CWtG7UePWxX7a6ESx+8SaL2mBykco+UwFr77oM2xNEsEl8IcbaMLvVPSTAUqlpj+H84t8w2IzIduGhRqSs2Dw==}
+    engines: {node: '>=16.0.0 <19.0.0'}
+
   yallist@5.0.0:
     resolution: {integrity: sha512-YgvUTfwqyc7UXVMrB+SImsVYSmTS8X/tSrtdNZMImM+n7+QTriRXyXim0mBrTXNeqzVF0KWGgHPeiyViFFrNDw==}
     engines: {node: '>=18'}
@@ -1349,5 +1356,7 @@ snapshots:
   typescript@5.9.2: {}
 
   undici-types@6.21.0: {}
+
+  wow-model-viewer@1.5.2: {}
 
   yallist@5.0.0: {}
