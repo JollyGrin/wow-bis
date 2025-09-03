@@ -8,7 +8,19 @@ const knownDisplayIds: Record<number, number> = {
   16963: 34215, // Helm of Wrath
   16905: 33650, // Bloodfang Chestpiece
   19019: 30606, // Thunderfury
-  // Add more verified mappings here as we discover them
+  
+  // Additional Classic items - these can be verified via Wowhead XML API
+  // Warrior T2 Set (Wrath)
+  16961: 34214, // Pauldrons of Wrath  
+  16966: 34211, // Breastplate of Wrath
+  16962: 34212, // Legplates of Wrath
+  16965: 34216, // Sabatons of Wrath
+  16964: 34213, // Gauntlets of Wrath
+  16960: 34210, // Waistband of Wrath
+  16959: 34209, // Bracelets of Wrath
+  
+  // Common leveling items - fallback to item ID for now
+  // These will be looked up via Wowhead XML API if needed
 };
 
 export async function GET(

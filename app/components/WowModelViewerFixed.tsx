@@ -78,7 +78,17 @@ export default function WowModelViewerFixed({
       setError(null);
 
       try {
-        // Environment variables are now set globally in the page
+        // CRITICAL: Ensure environment variables are set correctly before model generation
+        // The viewer script might have overwritten these
+        (window as any).CONTENT_PATH = '/api/wowhead-proxy/modelviewer/classic/';
+        (window as any).WOTLK_TO_RETAIL_DISPLAY_ID_API = undefined;
+        (window as any).WOW_MODEL_VIEWER_PATH = '/api/wowhead-proxy/modelviewer/classic/';
+        (window as any).WOW_CONTENT_PATH = '/api/wowhead-proxy/modelviewer/classic/';
+        
+        console.log('🔧 Environment variables set in component:');
+        console.log('CONTENT_PATH:', (window as any).CONTENT_PATH);
+        console.log('WOTLK_TO_RETAIL_DISPLAY_ID_API:', (window as any).WOTLK_TO_RETAIL_DISPLAY_ID_API);
+        console.log('WOW_MODEL_VIEWER_PATH:', (window as any).WOW_MODEL_VIEWER_PATH);
 
         // Set container ID
         containerRef.current!.id = containerId.current;
