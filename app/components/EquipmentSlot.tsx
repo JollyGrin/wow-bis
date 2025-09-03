@@ -171,10 +171,28 @@ export function EquipmentSlotList({
   // Group items by slot
   const itemsBySlot = items.reduce(
     (acc, item) => {
-      if (!acc[item.slot]) {
-        acc[item.slot] = [];
+      // Special handling for One-Hand weapons: they should go in Off Hand slot
+      if (item.slot === "One-Hand") {
+        if (!acc["Off Hand"]) {
+          acc["Off Hand"] = [];
+        }
+        acc["Off Hand"]!.push(item);
+      } 
+      // Special handling for "Held In Off-hand" items: they should go in "Off Hand" slot
+      else if (item.slot === "Held In Off-hand") {
+        if (!acc["Off Hand"]) {
+          acc["Off Hand"] = [];
+        }
+        acc["Off Hand"]!.push(item);
       }
-      acc[item.slot]!.push(item);
+      else {
+        // Handle all other slots normally (Main Hand stays in Main Hand, etc.)
+        if (!acc[item.slot]) {
+          acc[item.slot] = [];
+        }
+        acc[item.slot]!.push(item);
+      }
+      
       return acc;
     },
     {} as Record<string, Item[]>,
