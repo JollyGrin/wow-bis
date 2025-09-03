@@ -2,6 +2,7 @@
 
 import { useState, useCallback } from "react";
 import { useQuery } from "@tanstack/react-query";
+import { useHotkeys } from "react-hotkeys-hook";
 import Script from "next/script";
 import dynamic from "next/dynamic";
 import { EquipmentSlotList } from "./components/EquipmentSlot";
@@ -38,6 +39,12 @@ export default function Home() {
   const [currentLevel, setCurrentLevel] = useState(30);
   const [bestItems, setBestItems] = useState<Record<string, Item>>({});
   const [scriptLoaded, setScriptLoaded] = useState(false);
+
+  // Keyboard shortcuts
+  useHotkeys('meta+k, ctrl+k', (e) => {
+    e.preventDefault();
+    setIsSearchModalOpen(true);
+  }, { enableOnFormTags: true });
 
   const handleSelectItem = (item: Item) => {
     setSelectedItems((prev) => [...prev, item]);
