@@ -80,13 +80,13 @@ export function EquipmentSlotList({ items }: { items: Item[] }) {
     if (!acc[item.slot]) {
       acc[item.slot] = [];
     }
-    acc[item.slot].push(item);
+    acc[item.slot]!.push(item);
     return acc;
   }, {} as Record<string, Item[]>);
   
   // Sort items within each slot by required level
   Object.keys(itemsBySlot).forEach(slot => {
-    itemsBySlot[slot].sort((a, b) => a.requiredLevel - b.requiredLevel);
+    itemsBySlot[slot]?.sort((a, b) => a.requiredLevel - b.requiredLevel);
   });
   
   return (

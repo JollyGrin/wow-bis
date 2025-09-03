@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "biome check",
-    "format": "biome format --write"
+    "format": "biome format --write",
+    "type-check": "tsc --noEmit",
+    "build-check": "pnpm type-check && pnpm build"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.85.9",

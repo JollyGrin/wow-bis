@@ -124,7 +124,7 @@ export function ItemSearchModal({ isOpen, onClose, onSelectItem }: ItemSearchMod
               className="px-3 py-2 border rounded-lg text-sm text-gray-900 bg-white"
             >
               <option value="">All Slots</option>
-              {metadata?.slots.map(slot => (
+              {metadata?.slots.map((slot: string) => (
                 <option key={slot} value={slot}>{slot}</option>
               ))}
             </select>
@@ -135,7 +135,7 @@ export function ItemSearchModal({ isOpen, onClose, onSelectItem }: ItemSearchMod
               className="px-3 py-2 border rounded-lg text-sm text-gray-900 bg-white"
             >
               <option value="">All Qualities</option>
-              {metadata?.qualities.map(quality => (
+              {metadata?.qualities.map((quality: string) => (
                 <option key={quality} value={quality}>{quality}</option>
               ))}
             </select>
@@ -146,7 +146,7 @@ export function ItemSearchModal({ isOpen, onClose, onSelectItem }: ItemSearchMod
               className="px-3 py-2 border rounded-lg text-sm text-gray-900 bg-white"
             >
               <option value="">All Classes</option>
-              {metadata?.classes.map(cls => (
+              {metadata?.classes.map((cls: string) => (
                 <option key={cls} value={cls}>{cls}</option>
               ))}
             </select>
