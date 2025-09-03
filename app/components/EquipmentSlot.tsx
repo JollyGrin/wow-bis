@@ -71,7 +71,6 @@ function Scrubber({
   }, [isDragging, handleMouseMove, handleMouseUp]);
 
   const position = ((level - 1) / 59) * 100;
-  console.log(`🔴 Scrubber at level ${level} positioned at ${position.toFixed(1)}%`);
 
   return (
     <div
@@ -135,7 +134,6 @@ export function EquipmentSlot({ slotName, items, scrubberLevel }: EquipmentSlotP
           {/* Item icons positioned on the bar */}
           {items.map((item, i) => {
             const position = ((item.requiredLevel - 1) / 59) * 100;
-            console.log(`📍 ${slotName} - Item "${item.name}" (Level ${item.requiredLevel}) positioned at ${position.toFixed(1)}%`);
             return (
               <a
                 key={item.itemId + "-index-" + i}
@@ -156,10 +154,6 @@ export function EquipmentSlot({ slotName, items, scrubberLevel }: EquipmentSlotP
                           : "border-gray-600"
                     } group-hover:scale-110 transition-transform`}
                 />
-                {/* Debug: Show level on item */}
-                <div className="absolute -bottom-4 left-1/2 -translate-x-1/2 text-xs bg-black text-white px-1 rounded">
-                  {item.requiredLevel}
-                </div>
               </a>
             );
           })}

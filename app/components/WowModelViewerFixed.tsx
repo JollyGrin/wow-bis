@@ -69,11 +69,15 @@ export default function WowModelViewerFixed({
   const containerId = useRef(
     `model-viewer-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`,
   );
+  
+  // Create a stable key for items to prevent unnecessary re-renders
+  const itemsKey = Object.entries(items).sort().map(([slot, itemId]) => `${slot}:${itemId}`).join('|');
 
   useEffect(() => {
     if (!containerRef.current) return;
 
     const initializeModelViewer = async () => {
+      console.log('🎮 Initializing model viewer with items:', itemsKey);
       setIsLoading(true);
       setError(null);
 
@@ -209,7 +213,7 @@ export default function WowModelViewerFixed({
         containerRef.current.innerHTML = "";
       }
     };
-  }, [race, gender, items]);
+  }, [race, gender, itemsKey]);
 
   return (
     <div
