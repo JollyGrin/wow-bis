@@ -74,13 +74,13 @@ function Scrubber({
 
   return (
     <div
-      className="absolute top-0 bottom-0 w-1 bg-red-500 cursor-col-resize z-30 hover:w-2 transition-all pointer-events-auto"
+      className="absolute top-0 bottom-0 w-1 bg-yellow-500 cursor-col-resize z-30 hover:w-2 transition-all pointer-events-auto shadow-lg"
       style={{ left: `${position}%` }}
       onMouseDown={handleMouseDown}
     >
-      <div className="absolute -top-2 -left-2 w-5 h-5 bg-red-500 rounded-full border-2 border-white shadow-md" />
-      <div className="absolute -bottom-6 -left-4 text-xs text-red-600 font-semibold bg-white px-1 rounded">
-{level}
+      <div className="absolute -top-2 -left-2 w-5 h-5 bg-gradient-to-br from-yellow-400 to-yellow-600 rounded-full border-2 border-yellow-200 shadow-lg" />
+      <div className="absolute -bottom-6 -left-4 text-xs text-yellow-300 font-bold bg-gray-800 px-2 py-1 rounded border border-yellow-500">
+        ⚡{level}
       </div>
     </div>
   );
@@ -89,26 +89,26 @@ function Scrubber({
 export function EquipmentSlot({ slotName, items, scrubberLevel }: EquipmentSlotProps) {
 
   return (
-    <div className="flex items-center gap-4 p-4 border border-gray-200 rounded-lg hover:shadow-md transition-shadow">
+    <div className="flex items-center gap-4 p-4 wow-card-light hover:shadow-lg transition-all duration-300">
       <div className="w-32 flex-shrink-0">
-        <h3 className="font-semibold text-gray-800">{slotName}</h3>
+        <h3 className="font-semibold text-yellow-300 font-cinzel text-lg">{slotName}</h3>
       </div>
 
       <div className="flex-1 relative">
-        <div className="h-12 bg-gray-100 rounded relative overflow-hidden">
+        <div className="h-12 bg-gradient-to-r from-gray-800 via-gray-700 to-gray-800 rounded relative overflow-hidden border border-yellow-600">
           
           {/* Level bar background with markers */}
           <div className="absolute inset-0 flex">
             {[...Array(6)].map((_, i) => (
               <div
                 key={i}
-                className="flex-1 border-r border-gray-300 last:border-r-0"
+                className="flex-1 border-r border-yellow-500 last:border-r-0 opacity-30"
               />
             ))}
           </div>
 
           {/* Level indicators */}
-          <div className="absolute -top-6 inset-x-0 text-xs text-gray-500">
+          <div className="absolute -top-6 inset-x-0 text-xs text-yellow-300 font-medium">
             {[1, 10, 20, 30, 40, 50, 60].map(level => {
               const position = ((level - 1) / 59) * 100;
               return (

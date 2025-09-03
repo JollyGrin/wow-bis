@@ -105,7 +105,7 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="min-h-screen bg-gray-50">
+    <main className="min-h-screen">
       <Script
         id="wh-mock-setup"
         strategy="beforeInteractive"
@@ -296,24 +296,24 @@ export default function Home() {
         }}
       />
       <div className="container mx-auto px-4 py-8">
-        <header className="mb-8">
+        <header className="mb-8 wow-card p-8">
           <div className="flex justify-between items-start">
             <div>
-              <h1 className="text-4xl font-bold text-gray-900 mb-2">
-                WoW Best-in-Slot Leveling Tool
+              <h1 className="text-4xl font-bold wow-title mb-4">
+                ⚔️ WoW Best-in-Slot Leveling Tool ⚔️
               </h1>
-              <p className="text-lg text-gray-600">
-                Track the best items for each equipment slot while leveling from
-                1-60
+              <p className="text-lg wow-subtitle">
+                Track the finest gear for each equipment slot while ascending from
+                level 1 to 60
               </p>
             </div>
             <div className="flex gap-3">
               <button
                 onClick={() => setShowScrubber(!showScrubber)}
-                className={`px-6 py-3 rounded-lg transition-colors flex items-center gap-2 ${
+                className={`px-6 py-3 rounded-lg flex items-center gap-2 ${
                   showScrubber
-                    ? "bg-red-600 text-white hover:bg-red-700"
-                    : "bg-gray-600 text-white hover:bg-gray-700"
+                    ? "wow-button-secondary"
+                    : "wow-button-secondary"
                 }`}
               >
                 <svg
@@ -329,11 +329,11 @@ export default function Home() {
                     d="M15 10l4.553-2.276A1 1 0 0121 8.618v6.764a1 1 0 01-1.447.894L15 14M5 18h8a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z"
                   />
                 </svg>
-                {showScrubber ? "Hide" : "Show"} Scrubber
+                {showScrubber ? "Hide" : "Show"} Level Scrubber
               </button>
               <button
                 onClick={() => setIsSearchModalOpen(true)}
-                className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors flex items-center gap-2"
+                className="px-6 py-3 rounded-lg flex items-center gap-2 wow-button"
               >
                 <svg
                   className="w-5 h-5"
@@ -348,7 +348,7 @@ export default function Home() {
                     d="M12 6v6m0 0v6m0-6h6m-6 0H6"
                   />
                 </svg>
-                Add Item
+                ⚡ Add Item
               </button>
             </div>
           </div>
@@ -362,18 +362,18 @@ export default function Home() {
         />
 
         {showScrubber && Object.keys(bestItems).length > 0 && (
-          <div className="sticky top-4 z-50 mb-8 bg-white rounded-lg shadow-lg border border-gray-200">
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 p-6">
+          <div className="sticky top-4 z-50 mb-8 wow-card p-6">
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
               {/* Items List */}
               <div className="lg:col-span-2">
-                <h3 className="text-xl font-semibold mb-4 text-gray-800">
-                  Best Items at Level {currentLevel}
+                <h3 className="text-xl font-semibold mb-4 wow-title">
+                  ⚡ Optimal Gear at Level {currentLevel} ⚡
                 </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   {Object.entries(bestItems).map(([slot, item]) => (
                     <div
                       key={slot}
-                      className="flex items-center gap-3 p-3 bg-gray-50 rounded-lg"
+                      className="flex items-center gap-3 p-3 wow-card-light rounded-lg"
                     >
                       <a
                         href={`https://www.wowhead.com/classic/item=${item.itemId}`}
@@ -397,9 +397,9 @@ export default function Home() {
                         />
                       </a>
                       <div>
-                        <div className="font-medium text-gray-900">{slot}</div>
-                        <div className="text-sm text-gray-600">{item.name}</div>
-                        <div className="text-xs text-gray-500">
+                        <div className="font-medium text-yellow-300 font-semibold">{slot}</div>
+                        <div className="text-sm text-gray-200">{item.name}</div>
+                        <div className="text-xs text-gray-300">
                           Level {item.requiredLevel}
                         </div>
                       </div>
@@ -410,10 +410,10 @@ export default function Home() {
 
               {/* 3D Model Viewer */}
               <div className="lg:col-span-1">
-                <h3 className="text-xl font-semibold mb-4 text-gray-800">
-                  3D Model Preview
+                <h3 className="text-xl font-semibold mb-4 wow-title">
+                  ⚔️ Champion Preview
                 </h3>
-                <div className="bg-gray-800 rounded-lg overflow-hidden">
+                <div className="bg-gradient-to-br from-gray-900 to-gray-800 rounded-lg overflow-hidden border-2 border-yellow-600">
                   {scriptLoaded ? (
                     <WowModelViewerFixed
                       race={1} // Human for now
@@ -424,8 +424,8 @@ export default function Home() {
                       className="w-full"
                     />
                   ) : (
-                    <div className="flex items-center justify-center h-96 text-gray-400">
-                      Loading 3D model viewer...
+                    <div className="flex items-center justify-center h-96 text-yellow-300">
+                      ⚡ Summoning Champion... ⚡
                     </div>
                   )}
                 </div>
