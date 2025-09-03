@@ -96,11 +96,27 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               {Object.entries(bestItems).map(([slot, item]) => (
                 <div key={slot} className="flex items-center gap-3 p-3 bg-gray-50 rounded-lg">
-                  <img
-                    src={`https://wow.zamimg.com/images/wow/icons/medium/${item.icon}.jpg`}
-                    alt=""
-                    className="w-12 h-12 rounded"
-                  />
+                  <a
+                    href={`https://www.wowhead.com/classic/item=${item.itemId}`}
+                    className="flex-shrink-0 cursor-pointer group block"
+                    data-wowhead={`item=${item.itemId}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src={`https://wow.zamimg.com/images/wow/icons/medium/${item.icon}.jpg`}
+                      alt={item.name}
+                      className={`w-12 h-12 rounded border-2 ${
+                        item.quality === "Epic"
+                          ? "border-purple-600"
+                          : item.quality === "Rare"
+                            ? "border-blue-600"
+                            : item.quality === "Uncommon"
+                              ? "border-green-600"
+                              : "border-gray-600"
+                      } group-hover:scale-110 transition-transform`}
+                    />
+                  </a>
                   <div>
                     <div className="font-medium text-gray-900">{slot}</div>
                     <div className="text-sm text-gray-600">{item.name}</div>
