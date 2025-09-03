@@ -1,24 +1,37 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useCallback } from 'react';
 import { useQuery } from '@tanstack/react-query';
 import { EquipmentSlotList } from './components/EquipmentSlot';
 import { ItemSearchModal } from './components/ItemSearchModal';
+import { BisListManager } from './components/BisListManager';
 import { itemsAPI } from './lib/api-client';
 import type { Item } from './lib/items-service';
 
 export default function Home() {
   const [isSearchModalOpen, setIsSearchModalOpen] = useState(false);
   const [selectedItems, setSelectedItems] = useState<Item[]>([]);
-  
-  const { data, isLoading, error } = useQuery({
-    queryKey: ['items', 'initial'],
-    queryFn: () => itemsAPI.search({ limit: 50 }),
-  });
 
   const handleSelectItem = (item: Item) => {
     setSelectedItems(prev => [...prev, item]);
   };
+
+  const handleLoadItems = useCallback((items: Item[]) => {
+    setSelectedItems(items);
+  }, []);
+
+  const handleItemsFromUrl = useCallback(async (itemIds: number[]) => {
+    try {
+      const items = await itemsAPI.getBatch(itemIds);
+      setSelectedItems(items);
+    } catch (error) {
+      console.error('Error loading items from URL:', error);
+    }
+  }, []);
+
+  const handleAutoSave = useCallback(() => {
+    // Auto-save is handled internally by the BisListManager component
+  }, []);
 
   return (
     <main className="min-h-screen bg-gray-50">
@@ -45,29 +58,14 @@ export default function Home() {
           </div>
         </header>
 
-        {isLoading && (
-          <div className="flex justify-center items-center h-64">
-            <div className="text-lg text-gray-600">Loading items...</div>
-          </div>
-        )}
-
-        {error && (
-          <div className="bg-red-50 border border-red-200 rounded-lg p-4 mb-4">
-            <p className="text-red-800">Error loading items: {error.message}</p>
-          </div>
-        )}
-
-        {data && (
-          <div>
-            <div className="mb-6 bg-white rounded-lg shadow-sm p-4">
-              <p className="text-sm text-gray-600">
-                Showing {data.data.length} of {data.total} items
-              </p>
-            </div>
-            
-            <EquipmentSlotList items={[...data.data, ...selectedItems]} />
-          </div>
-        )}
+        <BisListManager
+          currentItems={selectedItems}
+          onLoadList={handleLoadItems}
+          onItemsFromUrl={handleItemsFromUrl}
+          onAutoSave={handleAutoSave}
+        />
+        
+        <EquipmentSlotList items={selectedItems} />
 
         <ItemSearchModal
           isOpen={isSearchModalOpen}
