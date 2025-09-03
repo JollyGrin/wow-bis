@@ -37,7 +37,7 @@ export function ItemSearchModal({ isOpen, onClose, onSelectItem }: ItemSearchMod
     isFetchingNextPage,
     isLoading,
     refetch,
-  } = useInfiniteQuery<PaginatedResponse<Item>, Error, PaginatedResponse<Item>[], string[], number>({
+  } = useInfiniteQuery({
     queryKey: ['items-search', searchQuery, filters],
     queryFn: ({ pageParam }: { pageParam: number }) =>
       itemsAPI.search({
