@@ -56,21 +56,21 @@ A complete demo showcasing the model viewer with:
    - ZamModelViewer (via Next.js proxy): `/api/wowhead-proxy/modelviewer/live/viewer/viewer.min.js`
 
 4. **WH Mock Object**:
-   The ZamModelViewer expects a global `WH` object with specific methods. We set this up before loading any scripts:
+   The ZamModelViewer expects a global `WH` object with specific methods. Since the ZamModelViewer script can overwrite our mock, we use a persistence strategy:
+   
+   **Before scripts load:**
    ```javascript
-   window.WH = {
-     debug: function() {},
-     getDataEnv: function() { return 'live'; },
-     Wow: {
-       Character: {
-         Races: { /* race data */ },
-         getModelOpts: function(race, gender) { /* character options */ }
-       },
-       Item: {
-         getJsonEquip: function(id) { /* item data */ }
-       }
-     }
-   };
+   function createWHMock() { /* complete WH structure */ }
+   window.WH = createWHMock();
+   window._originalWHMock = createWHMock(); // Backup copy
+   ```
+   
+   **After ZamModelViewer loads:**
+   ```javascript
+   // Restore WH mock if it was overwritten
+   if (!window.WH || typeof window.WH.debug !== 'function') {
+     window.WH = window._originalWHMock;
+   }
    ```
 
 ### How the Proxy Works

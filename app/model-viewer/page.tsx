@@ -4,6 +4,15 @@ import { useState } from "react";
 import Script from "next/script";
 import WowModelViewerFixed from "../components/WowModelViewerFixed";
 
+declare global {
+  interface Window {
+    WH: any;
+    _originalWHMock: any;
+    CONTENT_PATH: string;
+    WOTLK_TO_RETAIL_DISPLAY_ID_API: string;
+  }
+}
+
 const RACES = [
 	{ id: 1, name: "Human" },
 	{ id: 2, name: "Orc" },
@@ -146,47 +155,58 @@ export default function ModelViewerPage() {
 				strategy="beforeInteractive"
 				dangerouslySetInnerHTML={{
 					__html: `
-						// Set up WH mock object before any other scripts load
-						window.WH = window.WH || {
-							debug: function() {},
-							getDataEnv: function() { return 'live'; },
-							REMOTE: false,
-							Wow: {
-								Item: {
-									getJsonEquip: function(id) { 
-										return { slotbak: 1, displayid: id };
-									}
-								},
-								Character: {
-									getModelOpts: function(race, gender) {
-										return {
-											race: race,
-											gender: gender,
-											sk: 1, ha: 1, hc: 1, fa: 1, fh: 1, fc: 1,
-											ep: 1, eq: 1, er: 1, es: 1, et: 1
-										};
+						// Create a persistent WH mock that survives script overwrites
+						function createWHMock() {
+							return {
+								debug: function() { console.log('WH.debug called with args:', arguments); },
+								getDataEnv: function() { return 'live'; },
+								REMOTE: false,
+								Wow: {
+									Item: {
+										getJsonEquip: function(id) { 
+											console.log('getJsonEquip called for item:', id);
+											return { slotbak: 1, displayid: id };
+										}
 									},
-									Races: {
-										1: { Race: 1, Name: "Human", Side: 0, FileString: "human" },
-										2: { Race: 2, Name: "Orc", Side: 1, FileString: "orc" },
-										3: { Race: 3, Name: "Dwarf", Side: 0, FileString: "dwarf" },
-										4: { Race: 4, Name: "Night Elf", Side: 0, FileString: "nightelf" },
-										5: { Race: 5, Name: "Undead", Side: 1, FileString: "undead" },
-										6: { Race: 6, Name: "Tauren", Side: 1, FileString: "tauren" },
-										7: { Race: 7, Name: "Gnome", Side: 0, FileString: "gnome" },
-										8: { Race: 8, Name: "Troll", Side: 1, FileString: "troll" },
-										10: { Race: 10, Name: "Blood Elf", Side: 1, FileString: "bloodelf" },
-										11: { Race: 11, Name: "Draenei", Side: 0, FileString: "draenei" }
+									Character: {
+										getModelOpts: function(race, gender) {
+											console.log('getModelOpts called for race:', race, 'gender:', gender);
+											return {
+												race: race,
+												gender: gender,
+												sk: 1, ha: 1, hc: 1, fa: 1, fh: 1, fc: 1,
+												ep: 1, eq: 1, er: 1, es: 1, et: 1
+											};
+										},
+										Races: {
+											1: { Race: 1, Name: "Human", Side: 0, FileString: "human" },
+											2: { Race: 2, Name: "Orc", Side: 1, FileString: "orc" },
+											3: { Race: 3, Name: "Dwarf", Side: 0, FileString: "dwarf" },
+											4: { Race: 4, Name: "Night Elf", Side: 0, FileString: "nightelf" },
+											5: { Race: 5, Name: "Undead", Side: 1, FileString: "undead" },
+											6: { Race: 6, Name: "Tauren", Side: 1, FileString: "tauren" },
+											7: { Race: 7, Name: "Gnome", Side: 0, FileString: "gnome" },
+											8: { Race: 8, Name: "Troll", Side: 1, FileString: "troll" },
+											10: { Race: 10, Name: "Blood Elf", Side: 1, FileString: "bloodelf" },
+											11: { Race: 11, Name: "Draenei", Side: 0, FileString: "draenei" }
+										}
 									}
 								}
-							}
-						};
+							};
+						}
+
+						// Initialize WH
+						window.WH = createWHMock();
+						
+						// Store our mock functions
+						window._originalWHMock = createWHMock();
 						
 						// Set up environment variables
 						window.CONTENT_PATH = '/api/wowhead-proxy/modelviewer/live/';
 						window.WOTLK_TO_RETAIL_DISPLAY_ID_API = 'https://wotlk.murlocvillage.com/api/items';
 						
 						console.log('WH mock object initialized:', window.WH);
+						console.log('WH.debug type:', typeof window.WH.debug);
 					`
 				}}
 			/>
@@ -197,7 +217,21 @@ export default function ModelViewerPage() {
 			<Script 
 				src="/api/wowhead-proxy/modelviewer/live/viewer/viewer.min.js"
 				strategy="afterInteractive"
-				onLoad={() => setScriptLoaded(true)}
+				onLoad={() => {
+					console.log('ZamModelViewer loaded, checking WH object...');
+					console.log('WH after script load:', window.WH);
+					console.log('WH.debug after script load:', typeof window.WH?.debug);
+					
+					// If WH.debug is missing, restore from our backup
+					if (!window.WH || typeof window.WH.debug !== 'function') {
+						console.log('Restoring WH mock object...');
+						window.WH = window._originalWHMock;
+						console.log('WH restored:', window.WH);
+						console.log('WH.debug restored:', typeof window.WH?.debug);
+					}
+					
+					setScriptLoaded(true);
+				}}
 			/>
 			<h1 className="text-4xl font-bold mb-8">WoW Model Viewer Demo</h1>
 
