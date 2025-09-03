@@ -34,7 +34,7 @@ export default function RootLayout({
           id="wowhead-config"
           strategy="beforeInteractive"
           dangerouslySetInnerHTML={{
-            __html: `const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};`,
+            __html: `const whTooltips = {colorLinks: true, iconizeLinks: false, renameLinks: false};`,
           }}
         />
         <Script

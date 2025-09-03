@@ -50,13 +50,13 @@ export function EquipmentSlot({ slotName, items }: EquipmentSlotProps) {
               <a
                 key={item.itemId}
                 href={`https://www.wowhead.com/classic/item=${item.itemId}`}
-                className="absolute top-1 w-10 h-10 -translate-x-1/2 cursor-pointer group"
+                className="absolute top-1 w-10 h-10 -translate-x-1/2 cursor-pointer group block"
                 style={{ left: `${position}%` }}
                 data-wowhead={`item=${item.itemId}`}
               >
                 <img
                   src={`https://wow.zamimg.com/images/wow/icons/medium/${item.icon}.jpg`}
-                  alt={item.name}
+                  alt=""
                   className={`w-full h-full rounded border-2 ${
                     item.quality === 'Epic' ? 'border-purple-600' :
                     item.quality === 'Rare' ? 'border-blue-600' :
