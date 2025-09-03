@@ -39,7 +39,7 @@ export default function Home() {
   const [currentLevel, setCurrentLevel] = useState(30);
   const [bestItems, setBestItems] = useState<Record<string, Item>>({});
   const [scriptLoaded, setScriptLoaded] = useState(false);
-  const [showChampionPreview, setShowChampionPreview] = useState(true);
+  const [showChampionPreview, setShowChampionPreview] = useState(false);
 
   // Keyboard shortcuts
   useHotkeys(
@@ -51,6 +51,15 @@ export default function Home() {
     { enableOnFormTags: true },
   );
 
+  useHotkeys(
+    "meta+j, ctrl+j",
+    (e) => {
+      e.preventDefault();
+      setShowScrubber(!showScrubber);
+    },
+    { enableOnFormTags: true },
+  );
+
   const handleSelectItem = (item: Item) => {
     setSelectedItems((prev) => [...prev, item]);
   };
@@ -58,7 +67,9 @@ export default function Home() {
   const handleRemoveItem = (itemToRemove: Item) => {
     setSelectedItems((prev) => {
       // Find the first occurrence of this item and remove it
-      const index = prev.findIndex(item => item.itemId === itemToRemove.itemId);
+      const index = prev.findIndex(
+        (item) => item.itemId === itemToRemove.itemId,
+      );
       if (index !== -1) {
         const newItems = [...prev];
         newItems.splice(index, 1);
@@ -353,6 +364,11 @@ export default function Home() {
                   />
                 </svg>
                 {showScrubber ? "Hide" : "Show"} Level Scrubber
+                <div className="flex items-center gap-1 ml-2 text-xs opacity-75">
+                  <kbd className="px-1.5 py-0.5 bg-black/10 rounded text-xs border border-current">
+                    ⌘ J
+                  </kbd>
+                </div>
               </button>
               <button
                 onClick={() => setIsSearchModalOpen(true)}
@@ -455,15 +471,25 @@ export default function Home() {
             <div className="wow-card p-4 w-80 max-h-96 overflow-hidden">
               <div className="flex items-center justify-between mb-3">
                 <h3 className="text-lg font-semibold wow-title">
-                  ⚔️ Champion Preview
+                  ⚔ Champion Preview
                 </h3>
                 <button
                   onClick={() => setShowChampionPreview(false)}
                   className="text-yellow-300 hover:text-yellow-500 transition-colors p-1"
                   title="Collapse preview"
                 >
-                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                  <svg
+                    className="w-4 h-4"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M19 9l-7 7-7-7"
+                    />
                   </svg>
                 </button>
               </div>
@@ -490,8 +516,18 @@ export default function Home() {
               className="wow-button p-3 rounded-lg shadow-lg"
               title="Show champion preview"
             >
-              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+              <svg
+                className="w-6 h-6"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
+                />
               </svg>
             </button>
           )}
