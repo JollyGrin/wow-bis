@@ -39,7 +39,7 @@ export function ItemSearchModal({ isOpen, onClose, onSelectItem }: ItemSearchMod
     refetch,
   } = useInfiniteQuery({
     queryKey: ['items-search', searchQuery, filters],
-    queryFn: ({ pageParam = 1 }) =>
+    queryFn: ({ pageParam }) =>
       itemsAPI.search({
         query: searchQuery,
         slot: filters.slot || undefined,
@@ -50,6 +50,7 @@ export function ItemSearchModal({ isOpen, onClose, onSelectItem }: ItemSearchMod
         page: pageParam,
         limit: 20,
       }),
+    initialPageParam: 1,
     getNextPageParam: (lastPage) =>
       lastPage.page < lastPage.totalPages ? lastPage.page + 1 : undefined,
     enabled: isOpen,
