@@ -1,11 +1,4 @@
-import { useEffect, useRef } from "react";
-import "wow-model-viewer";
-
-declare global {
-	interface Window {
-		generateModels: (models: ModelConfig[]) => void;
-	}
-}
+import { useEffect, useRef, useState } from "react";
 
 interface ItemSlots {
 	head?: number;
@@ -29,16 +22,6 @@ interface ItemSlots {
 	tabard?: number;
 }
 
-interface ModelConfig {
-	type: string;
-	id: string;
-	contentPath: string;
-	model: {
-		race: number;
-		gender: number;
-		items: ItemSlots;
-	};
-}
 
 interface WowModelViewerProps {
 	race: number;
@@ -58,43 +41,52 @@ export default function WowModelViewer({
 	className = "",
 }: WowModelViewerProps) {
 	const containerRef = useRef<HTMLDivElement>(null);
-	const modelId = useRef(`model-${Date.now()}-${Math.random()}`);
+	const [isLoading, setIsLoading] = useState(true);
+	const [error, setError] = useState<string | null>(null);
 
 	useEffect(() => {
-		if (!containerRef.current || !window.generateModels) {
-			console.error("WowModelViewer: Unable to initialize model viewer");
-			return;
-		}
+		if (!containerRef.current) return;
 
-		// Clear previous model
+		setIsLoading(true);
+		setError(null);
+
+		// Set the content path to use our proxy
+		(window as any).CONTENT_PATH = "/api/modelviewer/";
+
+		// Clear previous content
 		containerRef.current.innerHTML = "";
 
-		// Create container div with unique ID
-		const modelDiv = document.createElement("div");
-		modelDiv.id = modelId.current;
-		modelDiv.style.width = "100%";
-		modelDiv.style.height = "100%";
-		containerRef.current.appendChild(modelDiv);
+		// Dynamically import and use the model viewer
+		import("wow-model-viewer")
+			.then(async ({ generateModels }) => {
+				if (!containerRef.current) return;
 
-		// Generate the model
-		try {
-			window.generateModels([
-				{
-					type: "character",
-					id: modelId.current,
-					contentPath: "",
-					model: {
-						race,
-						gender,
-						items,
-					},
-				},
-			]);
-		} catch (error) {
-			console.error("WowModelViewer: Failed to generate model", error);
-		}
+				try {
+					// Create the model viewer
+					const viewer = await generateModels(
+						1.0, // aspect ratio
+						`#${containerRef.current.id}`, // selector
+						{
+							race,
+							gender,
+							...items,
+						},
+						"live" // environment
+					);
+					setIsLoading(false);
+				} catch (err) {
+					console.error("Failed to create model viewer:", err);
+					setError("Failed to load model");
+					setIsLoading(false);
+				}
+			})
+			.catch((err) => {
+				console.error("Failed to import wow-model-viewer:", err);
+				setError("Failed to load model viewer library");
+				setIsLoading(false);
+			});
 
-		// Cleanup function
+		// Cleanup
 		return () => {
 			if (containerRef.current) {
 				containerRef.current.innerHTML = "";
@@ -102,11 +94,26 @@ export default function WowModelViewer({
 		};
 	}, [race, gender, items]);
 
+	// Generate a unique ID for this instance
+	const containerId = useRef(`model-viewer-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`);
+
 	return (
-		<div
-			ref={containerRef}
-			className={`wow-model-viewer ${className}`}
-			style={{ width, height }}
-		/>
+		<div className={`wow-model-viewer ${className}`} style={{ width, height, position: 'relative' }}>
+			{isLoading && (
+				<div className="absolute inset-0 flex items-center justify-center bg-gray-800 text-gray-400">
+					Loading model...
+				</div>
+			)}
+			{error && (
+				<div className="absolute inset-0 flex items-center justify-center bg-gray-800 text-red-400">
+					{error}
+				</div>
+			)}
+			<div
+				id={containerId.current}
+				ref={containerRef}
+				style={{ width: '100%', height: '100%' }}
+			/>
+		</div>
 	);
 }
