@@ -71,6 +71,7 @@ function Scrubber({
   }, [isDragging, handleMouseMove, handleMouseUp]);
 
   const position = ((level - 1) / 59) * 100;
+  console.log(`🔴 Scrubber at level ${level} positioned at ${position.toFixed(1)}%`);
 
   return (
     <div
@@ -80,7 +81,7 @@ function Scrubber({
     >
       <div className="absolute -top-2 -left-2 w-5 h-5 bg-red-500 rounded-full border-2 border-white shadow-md" />
       <div className="absolute -bottom-6 -left-4 text-xs text-red-600 font-semibold bg-white px-1 rounded">
-        {level}
+        L{level} ({position.toFixed(1)}%)
       </div>
     </div>
   );
@@ -96,6 +97,15 @@ export function EquipmentSlot({ slotName, items, scrubberLevel }: EquipmentSlotP
 
       <div className="flex-1 relative">
         <div className="h-12 bg-gray-100 rounded relative overflow-hidden">
+          {/* Debug: Add markers at exact percentages */}
+          {[0, 25, 50, 75, 100].map(pct => (
+            <div
+              key={pct}
+              className="absolute top-0 bottom-0 w-0.5 bg-green-500 opacity-50"
+              style={{ left: `${pct}%` }}
+            />
+          ))}
+          
           {/* Level bar background with markers */}
           <div className="absolute inset-0 flex">
             {[...Array(6)].map((_, i) => (
@@ -107,19 +117,25 @@ export function EquipmentSlot({ slotName, items, scrubberLevel }: EquipmentSlotP
           </div>
 
           {/* Level indicators */}
-          <div className="absolute -top-6 inset-x-0 flex justify-between text-xs text-gray-500">
-            <span>1</span>
-            <span>10</span>
-            <span>20</span>
-            <span>30</span>
-            <span>40</span>
-            <span>50</span>
-            <span>60</span>
+          <div className="absolute -top-6 inset-x-0 text-xs text-gray-500">
+            {[1, 10, 20, 30, 40, 50, 60].map(level => {
+              const position = ((level - 1) / 59) * 100;
+              return (
+                <span 
+                  key={level}
+                  className="absolute -translate-x-1/2"
+                  style={{ left: `${position}%` }}
+                >
+                  {level}
+                </span>
+              );
+            })}
           </div>
 
           {/* Item icons positioned on the bar */}
           {items.map((item, i) => {
             const position = ((item.requiredLevel - 1) / 59) * 100;
+            console.log(`📍 ${slotName} - Item "${item.name}" (Level ${item.requiredLevel}) positioned at ${position.toFixed(1)}%`);
             return (
               <a
                 key={item.itemId + "-index-" + i}
@@ -140,6 +156,10 @@ export function EquipmentSlot({ slotName, items, scrubberLevel }: EquipmentSlotP
                           : "border-gray-600"
                     } group-hover:scale-110 transition-transform`}
                 />
+                {/* Debug: Show level on item */}
+                <div className="absolute -bottom-4 left-1/2 -translate-x-1/2 text-xs bg-black text-white px-1 rounded">
+                  {item.requiredLevel}
+                </div>
               </a>
             );
           })}
@@ -201,15 +221,22 @@ export function EquipmentSlotList({
 
   return (
     <div className="relative">
-      {/* Shared scrubber overlay */}
+      {/* Shared scrubber overlay - only spans timeline portion */}
       {showScrubber && (
-        <div ref={containerRef} className="absolute inset-0 pointer-events-none z-20">
-          <div className="relative h-full">
-            <Scrubber 
-              level={scrubberLevel} 
-              onLevelChange={handleLevelChange}
-              containerRef={containerRef}
-            />
+        <div className="absolute inset-0 pointer-events-none z-20">
+          {/* Offset by slot name width (w-32) and gap (gap-4) */}
+          <div 
+            ref={containerRef} 
+            className="absolute top-0 bottom-0 pointer-events-none"
+            style={{ left: 'calc(8rem + 1rem)', right: '1rem' }}
+          >
+            <div className="relative h-full">
+              <Scrubber 
+                level={scrubberLevel} 
+                onLevelChange={handleLevelChange}
+                containerRef={containerRef}
+              />
+            </div>
           </div>
         </div>
       )}
