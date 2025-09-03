@@ -29,6 +29,9 @@ const merriweather = Merriweather({
 export const metadata: Metadata = {
   title: "WoW BiS Leveling Tool",
   description: "Track the best-in-slot items while leveling in World of Warcraft",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
