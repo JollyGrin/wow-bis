@@ -220,11 +220,11 @@ export default function ModelViewerPage() {
 						window._originalWHMock = createWHMock();
 						
 						// Set up environment variables for Classic WoW
-						window.CONTENT_PATH = '/api/wowhead-proxy/modelviewer/classic/';
-						window.WOTLK_TO_RETAIL_DISPLAY_ID_API = undefined;
+						(window as any).CONTENT_PATH = '/api/wowhead-proxy/modelviewer/classic/';
+						(window as any).WOTLK_TO_RETAIL_DISPLAY_ID_API = undefined;
 						
 						// Make getImageExtension available globally in multiple contexts
-						window.getImageExtension = function() {
+						(window as any).getImageExtension = function() {
 							console.log('Global getImageExtension called');
 							return '.jpg';
 						};
@@ -233,17 +233,17 @@ export default function ModelViewerPage() {
 						if (!window.WH.Texture) {
 							window.WH.Texture = {};
 						}
-						window.WH.Texture.getImageExtension = window.getImageExtension;
+						window.WH.Texture.getImageExtension = (window as any).getImageExtension;
 						
 						// Some libraries expect it on a global 'g' object
 						if (!window.g) {
 							window.g = {};
 						}
-						window.g.getImageExtension = window.getImageExtension;
+						window.g.getImageExtension = (window as any).getImageExtension;
 						
 						console.log('WH mock object initialized:', window.WH);
 						console.log('WH.debug type:', typeof window.WH.debug);
-						console.log('Global getImageExtension type:', typeof window.getImageExtension);
+						console.log('Global getImageExtension type:', typeof (window as any).getImageExtension);
 					`
 				}}
 			/>
@@ -320,7 +320,7 @@ export default function ModelViewerPage() {
 					}, 2000);
 					
 					// Re-establish global getImageExtension functions
-					window.getImageExtension = function() {
+					(window as any).getImageExtension = function() {
 						console.log('Global getImageExtension called');
 						return '.jpg';
 					};
@@ -332,13 +332,13 @@ export default function ModelViewerPage() {
 					// Simple direct approach: patch the global context with all possible getImageExtension variants
 					setTimeout(() => {
 						try {
-							const imageExtensionFunc = function() {
+							const imageExtensionFunc = function(this: any) {
 								console.log('getImageExtension called on:', this?.constructor?.name || 'unknown');
 								return '.jpg';
 							};
 							
 							// Add to everything we can think of
-							window.getImageExtension = imageExtensionFunc;
+							(window as any).getImageExtension = imageExtensionFunc;
 							
 							// Patch the WH object thoroughly
 							if (window.WH) {
@@ -356,11 +356,11 @@ export default function ModelViewerPage() {
 							
 							// Patch common global objects
 							['g', 'Ga', 'texture', 'Texture', 'WH', 'THREE'].forEach(globalName => {
-								if (window[globalName]) {
+								if ((window as any)[globalName]) {
 									try {
-										window[globalName].getImageExtension = imageExtensionFunc;
-										if (window[globalName].prototype) {
-											window[globalName].prototype.getImageExtension = imageExtensionFunc;
+										(window as any)[globalName].getImageExtension = imageExtensionFunc;
+										if ((window as any)[globalName].prototype) {
+											(window as any)[globalName].prototype.getImageExtension = imageExtensionFunc;
 										}
 									} catch(e) {
 										// Ignore read-only properties
@@ -374,7 +374,7 @@ export default function ModelViewerPage() {
 							// Override property access for when objects try to access getImageExtension on undefined/null
 							const originalObjectGet = Object.getOwnPropertyDescriptor;
 							Object.defineProperty(Object.prototype, '__lookupGetter__', {
-								value: function(prop) {
+								value: function(prop: any) {
 									if (prop === 'getImageExtension') {
 										console.log('__lookupGetter__ intercepted getImageExtension');
 										return imageExtensionFunc;
@@ -386,9 +386,9 @@ export default function ModelViewerPage() {
 							});
 							
 							// Also patch Reflect.get to catch any missed accesses
-							if (window.Reflect && window.Reflect.get) {
-								const originalReflectGet = window.Reflect.get;
-								window.Reflect.get = function(target, prop, receiver) {
+							if ((window as any).Reflect && (window as any).Reflect.get) {
+								const originalReflectGet = (window as any).Reflect.get;
+								(window as any).Reflect.get = function(target: any, prop: any, receiver: any) {
 									if (prop === 'getImageExtension' && (!target || target[prop] === undefined)) {
 										console.log('Reflect.get intercepted getImageExtension on:', target);
 										return imageExtensionFunc;

@@ -70,7 +70,7 @@ export async function GET(
       // Look for displayId="XXXXX" in the XML
       const displayIdMatch = xmlText.match(/displayid="(\d+)"/i);
       
-      if (displayIdMatch) {
+      if (displayIdMatch && displayIdMatch[1]) {
         const displayId = parseInt(displayIdMatch[1]);
         
         // Cache the result
@@ -119,6 +119,7 @@ export async function GET(
   } catch (error) {
     console.error('Display ID API error:', error);
     
+    const resolvedParams = await params;
     return new NextResponse(
       JSON.stringify({ 
         error: 'Failed to get display ID', 

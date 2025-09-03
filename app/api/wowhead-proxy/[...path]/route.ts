@@ -60,11 +60,13 @@ export async function GET(
         
         // Extract the item ID and type from the path
         const pathParts = path.split('/');
-        const itemId = pathParts[pathParts.length - 1].replace('.json', '');
+        const lastPart = pathParts[pathParts.length - 1];
+        const itemId = lastPart ? lastPart.replace('.json', '') : '0';
         const itemType = pathParts.includes('armor') ? 'armor' : 
                         pathParts.includes('weapon') ? 'weapon' :
                         pathParts.includes('item') ? 'item' : 'unknown';
-        const slot = itemType === 'armor' ? parseInt(pathParts[pathParts.length - 2]) || 1 : 0;
+        const secondLastPart = pathParts[pathParts.length - 2];
+        const slot = itemType === 'armor' ? parseInt(secondLastPart || '1') || 1 : 0;
         
         // Provide a comprehensive fallback metadata structure based on item type
         const fallbackMetadata = {
@@ -226,6 +228,7 @@ export async function GET(
   } catch (error) {
     console.error('Proxy error:', error);
     
+    const resolvedParams = await params;
     return new NextResponse(
       JSON.stringify({ 
         error: 'Proxy request failed', 
