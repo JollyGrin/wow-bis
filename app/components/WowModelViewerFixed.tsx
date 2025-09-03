@@ -85,10 +85,14 @@ export default function WowModelViewerFixed({
         const { generateModels } = await import('wow-model-viewer');
 
         // Convert items to the format expected by wow-model-viewer
-        // Format: [[slot, itemId], [slot, itemId], ...]
+        // Format: [[slot, displayId], [slot, displayId], ...]
+        // Note: For Classic WoW items, item ID often equals display ID, but this isn't always true
         const itemsArray: Array<[number, number]> = [];
         Object.entries(items).forEach(([slot, itemId]) => {
           if (itemId && SLOT_MAP[slot]) {
+            // For now, use itemId as displayId (works for most Classic items)
+            // In the future, this could be enhanced to use the WOTLK_TO_RETAIL_DISPLAY_ID_API
+            // or implement a proper item ID to display ID mapping
             itemsArray.push([SLOT_MAP[slot], itemId]);
           }
         });
@@ -109,6 +113,14 @@ export default function WowModelViewerFixed({
         console.log('Window.WH available:', !!(window as any).WH);
         console.log('WH.debug available:', typeof (window as any).WH?.debug);
         console.log('CONTENT_PATH:', (window as any).CONTENT_PATH);
+        console.log('WOTLK_TO_RETAIL_DISPLAY_ID_API:', (window as any).WOTLK_TO_RETAIL_DISPLAY_ID_API);
+        
+        // Check if items array is properly formatted
+        if (itemsArray.length === 0) {
+          console.warn('No valid items found for character. Character will have no equipment.');
+        } else {
+          console.log('Items to be equipped:', itemsArray);
+        }
 
         // Generate the model with aspect ratio 1.0 and container selector
         const model = await generateModels(1.0, `#${containerId.current}`, character);

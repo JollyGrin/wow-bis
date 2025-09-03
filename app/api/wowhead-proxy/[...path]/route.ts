@@ -18,6 +18,17 @@ export async function GET(
     
     console.log('Proxying request to:', fullUrl);
     
+    // Log metadata requests specifically for debugging
+    if (path.includes('/meta/') && path.endsWith('.json')) {
+      console.log('📦 Metadata request detected:', {
+        path: path,
+        targetUrl: targetUrl,
+        isArmorMeta: path.includes('/meta/armor/'),
+        isWeaponMeta: path.includes('/meta/weapon/'),
+        isItemMeta: path.includes('/meta/item/')
+      });
+    }
+    
     // Forward the request to Wowhead with appropriate headers
     const response = await fetch(fullUrl, {
       method: 'GET',
@@ -42,6 +53,96 @@ export async function GET(
     if (!response.ok && response.status !== 304) {
       const errorText = await response.text();
       console.error('Proxy error response:', response.status, errorText);
+      
+      // Check if this is a request for item metadata that returned 404
+      if (response.status === 404 && path.includes('/meta/') && path.endsWith('.json')) {
+        console.log('Providing fallback metadata for item:', path);
+        
+        // Extract the item ID and type from the path
+        const pathParts = path.split('/');
+        const itemId = pathParts[pathParts.length - 1].replace('.json', '');
+        const itemType = pathParts.includes('armor') ? 'armor' : 
+                        pathParts.includes('weapon') ? 'weapon' :
+                        pathParts.includes('item') ? 'item' : 'unknown';
+        const slot = itemType === 'armor' ? parseInt(pathParts[pathParts.length - 2]) || 1 : 0;
+        
+        // Provide a comprehensive fallback metadata structure based on item type
+        const fallbackMetadata = {
+          id: parseInt(itemId),
+          displayid: parseInt(itemId), // Use item ID as display ID fallback
+          type: itemType,
+          slot: slot,
+          name: `${itemType.charAt(0).toUpperCase() + itemType.slice(1)} ${itemId}`,
+          description: `Fallback metadata for ${itemType} ${itemId}`,
+          
+          // Type-specific properties
+          ...(itemType === 'armor' && {
+            armor: {
+              value: 100,
+              type: 'plate' // Default armor type
+            },
+            resistances: {
+              fire: 0,
+              nature: 0,
+              frost: 0,
+              shadow: 0,
+              arcane: 0
+            }
+          }),
+          
+          ...(itemType === 'weapon' && {
+            damage: {
+              min: 10,
+              max: 20,
+              type: 'physical'
+            },
+            speed: 2.0,
+            dps: 15.0
+          }),
+          
+          // Common properties for all items
+          quality: 2, // Green quality as default
+          level: 60, // Default level
+          requiredLevel: 1,
+          
+          // Texture/model information - using item ID as fallback
+          textures: {
+            icon: `inv_misc_questionmark`,
+            model: parseInt(itemId)
+          },
+          
+          // Basic stats that might be expected
+          stats: {},
+          
+          // Model viewer specific data
+          modelViewer: {
+            hasModel: true,
+            displayId: parseInt(itemId),
+            slot: slot
+          },
+          
+          // Meta information about this fallback
+          meta: {
+            generatedFallback: true,
+            originalPath: path,
+            itemType: itemType,
+            timestamp: new Date().toISOString(),
+            note: 'This is automatically generated fallback metadata to prevent 404 errors'
+          }
+        };
+        
+        return new NextResponse(JSON.stringify(fallbackMetadata), {
+          status: 200,
+          headers: {
+            'Content-Type': 'application/json',
+            'Access-Control-Allow-Origin': '*',
+            'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS',
+            'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+            'Cache-Control': 'public, max-age=3600', // Cache for 1 hour
+            'X-Fallback-Generated': 'true', // Custom header to indicate this is fallback data
+          },
+        });
+      }
       
       return new NextResponse(errorText, {
         status: response.status,
