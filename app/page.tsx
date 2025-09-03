@@ -54,6 +54,19 @@ export default function Home() {
     setSelectedItems((prev) => [...prev, item]);
   };
 
+  const handleRemoveItem = (itemToRemove: Item) => {
+    setSelectedItems((prev) => {
+      // Find the first occurrence of this item and remove it
+      const index = prev.findIndex(item => item.itemId === itemToRemove.itemId);
+      if (index !== -1) {
+        const newItems = [...prev];
+        newItems.splice(index, 1);
+        return newItems;
+      }
+      return prev;
+    });
+  };
+
   const handleBestItemsChange = useCallback(
     (level: number, items: Record<string, Item>) => {
       setCurrentLevel(level);
@@ -454,6 +467,7 @@ export default function Home() {
           items={selectedItems}
           showScrubber={showScrubber}
           onBestItemsChange={handleBestItemsChange}
+          onRemoveItem={handleRemoveItem}
         />
 
         <ItemSearchModal
