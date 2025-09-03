@@ -1,8 +1,13 @@
-'use client';
+"use client";
 
-import { useState, useEffect } from 'react';
-import type { Item } from '../lib/items-service';
-import { BisListStorage, UrlSharingService, type BisListSummary, type BisList } from '../lib/bis-list-storage';
+import { useState, useEffect } from "react";
+import type { Item } from "../lib/items-service";
+import {
+  BisListStorage,
+  UrlSharingService,
+  type BisListSummary,
+  type BisList,
+} from "../lib/bis-list-storage";
 
 interface BisListManagerProps {
   currentItems: Item[];
@@ -11,18 +16,23 @@ interface BisListManagerProps {
   onAutoSave: (items: Item[]) => void;
 }
 
-export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAutoSave }: BisListManagerProps) {
+export function BisListManager({
+  currentItems,
+  onLoadList,
+  onItemsFromUrl,
+  onAutoSave,
+}: BisListManagerProps) {
   const [savedLists, setSavedLists] = useState<BisListSummary[]>([]);
   const [activeList, setActiveList] = useState<BisList | null>(null);
   const [showNewListDialog, setShowNewListDialog] = useState(false);
-  const [newListName, setNewListName] = useState('');
-  const [shareUrl, setShareUrl] = useState('');
+  const [newListName, setNewListName] = useState("");
+  const [shareUrl, setShareUrl] = useState("");
   const [showShareDialog, setShowShareDialog] = useState(false);
 
   useEffect(() => {
     loadSavedLists();
     loadActiveList();
-    
+
     const urlItemIds = UrlSharingService.loadBisListFromUrl();
     if (urlItemIds) {
       onItemsFromUrl(urlItemIds);
@@ -52,12 +62,12 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
 
   const handleNewList = () => {
     if (!newListName.trim()) return;
-    
+
     const id = BisListStorage.createNewList(newListName.trim());
     const newList = BisListStorage.getBisList(id);
-    
+
     setActiveList(newList);
-    setNewListName('');
+    setNewListName("");
     setShowNewListDialog(false);
     loadSavedLists();
     onLoadList([]);
@@ -72,22 +82,22 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
   };
 
   const handleDelete = (listId: string) => {
-    if (confirm('Are you sure you want to delete this BiS list?')) {
+    if (confirm("Are you sure you want to delete this BiS list?")) {
       BisListStorage.deleteBisList(listId);
-      
+
       // If we deleted the active list, clear the current state
       if (activeList?.id === listId) {
         setActiveList(null);
         onLoadList([]);
       }
-      
+
       loadSavedLists();
     }
   };
 
   const handleDeleteCurrent = () => {
     if (!activeList) return;
-    
+
     if (confirm(`Are you sure you want to delete "${activeList.name}"?`)) {
       BisListStorage.deleteBisList(activeList.id);
       setActiveList(null);
@@ -105,15 +115,15 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
   const copyToClipboard = async () => {
     try {
       await navigator.clipboard.writeText(shareUrl);
-      alert('URL copied to clipboard!');
+      alert("URL copied to clipboard!");
     } catch {
-      const textArea = document.createElement('textarea');
+      const textArea = document.createElement("textarea");
       textArea.value = shareUrl;
       document.body.appendChild(textArea);
       textArea.select();
-      document.execCommand('copy');
+      document.execCommand("copy");
       document.body.removeChild(textArea);
-      alert('URL copied to clipboard!');
+      alert("URL copied to clipboard!");
     }
   };
 
@@ -122,7 +132,9 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
       <div className="flex items-center justify-between mb-4">
         <div>
           <h3 className="text-lg font-semibold wow-title">
-            {activeList ? `📜 ${activeList.name}` : '📜 No Guild Roster Selected'}
+            {activeList
+              ? `📜 ${activeList.name}`
+              : "📜 No Gear Roster Selected"}
           </h3>
           {activeList && (
             <p className="text-sm wow-subtitle">
@@ -136,7 +148,7 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
           </div>
         )}
       </div>
-      
+
       <div className="flex flex-wrap gap-3 mb-6">
         <button
           onClick={() => setShowNewListDialog(true)}
@@ -144,7 +156,7 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
         >
           📜 New Roster
         </button>
-        
+
         <button
           onClick={handleShare}
           disabled={currentItems.length === 0}
@@ -152,33 +164,37 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
         >
           🔗 Share Roster
         </button>
-        
+
         {activeList && (
           <button
             onClick={handleDeleteCurrent}
             className="px-4 py-2 rounded-lg bg-gradient-to-r from-red-800 to-red-700 border-2 border-red-600 text-white hover:from-red-700 hover:to-red-600 transition-all"
           >
-            🗑️ Delete Current
+            🗑 Delete Current
           </button>
         )}
       </div>
 
       {savedLists.length > 0 && (
         <div>
-          <h4 className="font-medium wow-title mb-3">🏰 All Guild Rosters ({savedLists.length})</h4>
+          <h4 className="font-medium wow-title mb-3">
+            🏰 All Gear Rosters ({savedLists.length})
+          </h4>
           <div className="space-y-2">
-            {savedLists.map(list => (
-              <div 
-                key={list.id} 
+            {savedLists.map((list) => (
+              <div
+                key={list.id}
                 className={`flex items-center justify-between rounded-lg p-3 ${
-                  activeList?.id === list.id 
-                    ? 'bg-gradient-to-r from-green-900 to-green-800 border-2 border-yellow-500' 
-                    : 'wow-card-light'
+                  activeList?.id === list.id
+                    ? "bg-gradient-to-r from-green-900 to-green-800 border-2 border-yellow-500"
+                    : "wow-card-light"
                 }`}
               >
                 <div>
                   <div className="flex items-center gap-2">
-                    <span className="font-medium text-yellow-300">📜 {list.name}</span>
+                    <span className="font-medium text-yellow-300">
+                      📜 {list.name}
+                    </span>
                     {activeList?.id === list.id && (
                       <span className="text-xs bg-yellow-600 text-gray-900 px-2 py-0.5 rounded font-bold">
                         ⚡ ACTIVE
@@ -186,7 +202,8 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
                     )}
                   </div>
                   <span className="text-sm text-gray-300">
-                    {list.itemCount} items • {list.updatedAt.toLocaleDateString()}
+                    {list.itemCount} items •{" "}
+                    {list.updatedAt.toLocaleDateString()}
                   </span>
                 </div>
                 <div className="flex gap-2">
@@ -214,14 +231,16 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
       {showNewListDialog && (
         <div className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50">
           <div className="wow-card p-6 w-96">
-            <h4 className="text-lg font-semibold mb-4 wow-title">📜 Create New Guild Roster</h4>
+            <h4 className="text-lg font-semibold mb-4 wow-title">
+              📜 Create New Gear Roster
+            </h4>
             <input
               type="text"
               value={newListName}
               onChange={(e) => setNewListName(e.target.value)}
               placeholder="Enter roster name..."
               className="w-full px-3 py-2 bg-gray-800 border border-yellow-600 rounded-lg focus:ring-2 focus:ring-yellow-500 focus:border-yellow-500 mb-4 text-white placeholder-gray-400"
-              onKeyPress={(e) => e.key === 'Enter' && handleNewList()}
+              onKeyPress={(e) => e.key === "Enter" && handleNewList()}
               autoFocus
             />
             <div className="flex gap-3">
@@ -235,7 +254,7 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
               <button
                 onClick={() => {
                   setShowNewListDialog(false);
-                  setNewListName('');
+                  setNewListName("");
                 }}
                 className="px-4 py-2 rounded-lg wow-button-secondary"
               >
@@ -249,8 +268,12 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
       {showShareDialog && (
         <div className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50">
           <div className="wow-card p-6 w-96">
-            <h4 className="text-lg font-semibold mb-4 wow-title">🔗 Share Guild Roster</h4>
-            <p className="text-sm wow-subtitle mb-3">Share this URL to let other adventurers load your roster:</p>
+            <h4 className="text-lg font-semibold mb-4 wow-title">
+              🔗 Share Gear Roster
+            </h4>
+            <p className="text-sm wow-subtitle mb-3">
+              Share this URL to let other adventurers load your roster:
+            </p>
             <div className="bg-gray-800 border border-yellow-600 rounded-lg p-3 mb-4 break-all text-sm text-gray-200">
               {shareUrl}
             </div>
@@ -264,7 +287,7 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
               <button
                 onClick={() => {
                   setShowShareDialog(false);
-                  setShareUrl('');
+                  setShareUrl("");
                 }}
                 className="px-4 py-2 rounded-lg wow-button-secondary"
               >

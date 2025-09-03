@@ -1,8 +1,9 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { useInfiniteQuery, useQuery } from '@tanstack/react-query';
 import { useInView } from 'react-intersection-observer';
+import { useHotkeys } from 'react-hotkeys-hook';
 import { itemsAPI } from '@/app/lib/api-client';
 import type { Item, PaginatedResponse } from '@/app/lib/items-service';
 
@@ -21,6 +22,24 @@ export function ItemSearchModal({ isOpen, onClose, onSelectItem }: ItemSearchMod
     maxLevel: '',
     class: '',
   });
+  const searchInputRef = useRef<HTMLInputElement>(null);
+
+  // Handle Escape key to close modal
+  useHotkeys('escape', () => {
+    if (isOpen) {
+      onClose();
+    }
+  }, { enableOnFormTags: true });
+
+  // Auto-focus search input when modal opens
+  useEffect(() => {
+    if (isOpen && searchInputRef.current) {
+      // Small delay to ensure modal is fully rendered
+      setTimeout(() => {
+        searchInputRef.current?.focus();
+      }, 100);
+    }
+  }, [isOpen]);
 
   // Fetch metadata for filter options
   const { data: metadata } = useQuery({
@@ -109,6 +128,7 @@ export function ItemSearchModal({ isOpen, onClose, onSelectItem }: ItemSearchMod
 
           {/* Search Input */}
           <input
+            ref={searchInputRef}
             type="text"
             placeholder="Search for legendary artifacts..."
             value={searchQuery}

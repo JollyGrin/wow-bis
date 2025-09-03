@@ -2,6 +2,7 @@
 
 import { useState, useCallback } from "react";
 import { useQuery } from "@tanstack/react-query";
+import { useHotkeys } from "react-hotkeys-hook";
 import Script from "next/script";
 import dynamic from "next/dynamic";
 import { EquipmentSlotList } from "./components/EquipmentSlot";
@@ -38,9 +39,44 @@ export default function Home() {
   const [currentLevel, setCurrentLevel] = useState(30);
   const [bestItems, setBestItems] = useState<Record<string, Item>>({});
   const [scriptLoaded, setScriptLoaded] = useState(false);
+  const [showChampionPreview, setShowChampionPreview] = useState(false);
+
+  // Keyboard shortcuts
+  useHotkeys(
+    "meta+k, ctrl+k",
+    (e) => {
+      e.preventDefault();
+      setIsSearchModalOpen(true);
+    },
+    { enableOnFormTags: true },
+  );
+
+  useHotkeys(
+    "meta+j, ctrl+j",
+    (e) => {
+      e.preventDefault();
+      setShowScrubber(!showScrubber);
+    },
+    { enableOnFormTags: true },
+  );
 
   const handleSelectItem = (item: Item) => {
     setSelectedItems((prev) => [...prev, item]);
+  };
+
+  const handleRemoveItem = (itemToRemove: Item) => {
+    setSelectedItems((prev) => {
+      // Find the first occurrence of this item and remove it
+      const index = prev.findIndex(
+        (item) => item.itemId === itemToRemove.itemId,
+      );
+      if (index !== -1) {
+        const newItems = [...prev];
+        newItems.splice(index, 1);
+        return newItems;
+      }
+      return prev;
+    });
   };
 
   const handleBestItemsChange = useCallback(
@@ -300,20 +336,18 @@ export default function Home() {
           <div className="flex justify-between items-start">
             <div>
               <h1 className="text-4xl font-bold wow-title mb-4">
-                ⚔️ WoW Best-in-Slot Leveling Tool ⚔️
+                ⚔ WoW Best-in-Slot ⚔
               </h1>
               <p className="text-lg wow-subtitle">
-                Track the finest gear for each equipment slot while ascending from
-                level 1 to 60
+                Leveling tool to track the finest gear for each equipment slot
+                while ascending from level 1 to 60
               </p>
             </div>
             <div className="flex gap-3">
               <button
                 onClick={() => setShowScrubber(!showScrubber)}
                 className={`px-6 py-3 rounded-lg flex items-center gap-2 ${
-                  showScrubber
-                    ? "wow-button-secondary"
-                    : "wow-button-secondary"
+                  showScrubber ? "wow-button-secondary" : "wow-button-secondary"
                 }`}
               >
                 <svg
@@ -330,10 +364,15 @@ export default function Home() {
                   />
                 </svg>
                 {showScrubber ? "Hide" : "Show"} Level Scrubber
+                <div className="flex items-center gap-1 ml-2 text-xs opacity-75">
+                  <kbd className="px-1.5 py-0.5 bg-black/10 rounded text-xs border border-current">
+                    ⌘ J
+                  </kbd>
+                </div>
               </button>
               <button
                 onClick={() => setIsSearchModalOpen(true)}
-                className="px-6 py-3 rounded-lg flex items-center gap-2 wow-button"
+                className="px-6 py-3 rounded-lg flex items-center gap-1 wow-button"
               >
                 <svg
                   className="w-5 h-5"
@@ -349,6 +388,11 @@ export default function Home() {
                   />
                 </svg>
                 ⚡ Add Item
+                <div className="flex items-center gap-1 ml-2 text-xs opacity-75">
+                  <kbd className="px-1.5 py-0.5 bg-black/10 rounded text-xs border border-current">
+                    ⌘ K
+                  </kbd>
+                </div>
               </button>
             </div>
           </div>
@@ -363,73 +407,47 @@ export default function Home() {
 
         {showScrubber && Object.keys(bestItems).length > 0 && (
           <div className="sticky top-4 z-50 mb-8 wow-card p-6">
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-              {/* Items List */}
-              <div className="lg:col-span-2">
-                <h3 className="text-xl font-semibold mb-4 wow-title">
-                  ⚡ Optimal Gear at Level {currentLevel} ⚡
-                </h3>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                  {Object.entries(bestItems).map(([slot, item]) => (
-                    <div
-                      key={slot}
-                      className="flex items-center gap-3 p-3 wow-card-light rounded-lg"
-                    >
-                      <a
-                        href={`https://www.wowhead.com/classic/item=${item.itemId}`}
-                        className="flex-shrink-0 cursor-pointer group block"
-                        data-wowhead={`item=${item.itemId}`}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        <img
-                          src={`https://wow.zamimg.com/images/wow/icons/medium/${item.icon}.jpg`}
-                          alt={item.name}
-                          className={`w-12 h-12 rounded border-2 ${
-                            item.quality === "Epic"
-                              ? "border-purple-600"
-                              : item.quality === "Rare"
-                                ? "border-blue-600"
-                                : item.quality === "Uncommon"
-                                  ? "border-green-600"
-                                  : "border-gray-600"
-                          } group-hover:scale-110 transition-transform`}
-                        />
-                      </a>
-                      <div>
-                        <div className="font-medium text-yellow-300 font-semibold">{slot}</div>
-                        <div className="text-sm text-gray-200">{item.name}</div>
-                        <div className="text-xs text-gray-300">
-                          Level {item.requiredLevel}
-                        </div>
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-
-              {/* 3D Model Viewer */}
-              <div className="lg:col-span-1">
-                <h3 className="text-xl font-semibold mb-4 wow-title">
-                  ⚔️ Champion Preview
-                </h3>
-                <div className="bg-gradient-to-br from-gray-900 to-gray-800 rounded-lg overflow-hidden border-2 border-yellow-600">
-                  {scriptLoaded ? (
-                    <WowModelViewerFixed
-                      race={1} // Human for now
-                      gender={0} // Male for now
-                      items={convertToModelViewerItems(bestItems)}
-                      width={300}
-                      height={400}
-                      className="w-full"
+            <h3 className="text-xl font-semibold mb-4 wow-title">
+              ⚡ Optimal Gear at Level {currentLevel} ⚡
+            </h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {Object.entries(bestItems).map(([slot, item]) => (
+                <div
+                  key={slot}
+                  className="flex items-center gap-3 p-3 wow-card-light rounded-lg"
+                >
+                  <a
+                    href={`https://www.wowhead.com/classic/item=${item.itemId}`}
+                    className="flex-shrink-0 cursor-pointer group block"
+                    data-wowhead={`item=${item.itemId}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src={`https://wow.zamimg.com/images/wow/icons/medium/${item.icon}.jpg`}
+                      alt={item.name}
+                      className={`w-12 h-12 rounded border-2 ${
+                        item.quality === "Epic"
+                          ? "border-purple-600"
+                          : item.quality === "Rare"
+                            ? "border-blue-600"
+                            : item.quality === "Uncommon"
+                              ? "border-green-600"
+                              : "border-gray-600"
+                      } group-hover:scale-110 transition-transform`}
                     />
-                  ) : (
-                    <div className="flex items-center justify-center h-96 text-yellow-300">
-                      ⚡ Summoning Champion... ⚡
+                  </a>
+                  <div>
+                    <div className="font-medium text-yellow-300 font-semibold">
+                      {slot}
                     </div>
-                  )}
+                    <div className="text-sm text-gray-200">{item.name}</div>
+                    <div className="text-xs text-gray-300">
+                      Level {item.requiredLevel}
+                    </div>
+                  </div>
                 </div>
-              </div>
+              ))}
             </div>
           </div>
         )}
@@ -438,6 +456,7 @@ export default function Home() {
           items={selectedItems}
           showScrubber={showScrubber}
           onBestItemsChange={handleBestItemsChange}
+          onRemoveItem={handleRemoveItem}
         />
 
         <ItemSearchModal
@@ -445,6 +464,74 @@ export default function Home() {
           onClose={() => setIsSearchModalOpen(false)}
           onSelectItem={handleSelectItem}
         />
+
+        {/* Floating Champion Preview */}
+        <div className="fixed bottom-4 right-4 z-50">
+          {showChampionPreview ? (
+            <div className="wow-card p-4 w-80 max-h-96 overflow-hidden">
+              <div className="flex items-center justify-between mb-3">
+                <h3 className="text-lg font-semibold wow-title">
+                  ⚔ Champion Preview
+                </h3>
+                <button
+                  onClick={() => setShowChampionPreview(false)}
+                  className="text-yellow-300 hover:text-yellow-500 transition-colors p-1"
+                  title="Collapse preview"
+                >
+                  <svg
+                    className="w-4 h-4"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M19 9l-7 7-7-7"
+                    />
+                  </svg>
+                </button>
+              </div>
+              <div className="bg-gradient-to-br from-gray-900 to-gray-800 rounded-lg overflow-hidden border-2 border-yellow-600">
+                {scriptLoaded ? (
+                  <WowModelViewerFixed
+                    race={1} // Human for now
+                    gender={0} // Male for now
+                    items={convertToModelViewerItems(bestItems)}
+                    width={288} // Slightly smaller to fit in floating pane
+                    height={320}
+                    className="w-full"
+                  />
+                ) : (
+                  <div className="flex items-center justify-center h-80 text-yellow-300 text-sm">
+                    ⚡ Summoning Champion... ⚡
+                  </div>
+                )}
+              </div>
+            </div>
+          ) : (
+            <button
+              onClick={() => setShowChampionPreview(true)}
+              className="wow-button p-3 rounded-lg shadow-lg"
+              title="Show champion preview"
+            >
+              <svg
+                className="w-6 h-6"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
+                />
+              </svg>
+            </button>
+          )}
+        </div>
       </div>
     </main>
   );

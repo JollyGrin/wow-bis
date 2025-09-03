@@ -7,6 +7,7 @@ interface EquipmentSlotProps {
   slotName: string;
   items: Item[];
   scrubberLevel?: number;
+  onRemoveItem?: (item: Item) => void;
 }
 
 const SLOT_ORDER = [
@@ -24,7 +25,6 @@ const SLOT_ORDER = [
   "Trinket",
   "Main Hand",
   "Off Hand",
-  "Two-Hand",
   "Ranged",
 ];
 
@@ -86,7 +86,7 @@ function Scrubber({
   );
 }
 
-export function EquipmentSlot({ slotName, items, scrubberLevel }: EquipmentSlotProps) {
+export function EquipmentSlot({ slotName, items, scrubberLevel, onRemoveItem }: EquipmentSlotProps) {
 
   return (
     <div className="flex items-center gap-4 p-4 wow-card-light hover:shadow-lg transition-all duration-300">
@@ -127,26 +127,43 @@ export function EquipmentSlot({ slotName, items, scrubberLevel }: EquipmentSlotP
           {items.map((item, i) => {
             const position = ((item.requiredLevel - 1) / 59) * 100;
             return (
-              <a
+              <div
                 key={item.itemId + "-index-" + i}
-                href={`https://www.wowhead.com/classic/item=${item.itemId}`}
-                className="absolute top-1 w-10 h-10 -translate-x-1/2 cursor-pointer group block"
+                className="absolute top-1 w-10 h-10 -translate-x-1/2 group"
                 style={{ left: `${position}%` }}
-                data-wowhead={`item=${item.itemId}`}
               >
-                <img
-                  src={`https://wow.zamimg.com/images/wow/icons/medium/${item.icon}.jpg`}
-                  alt=""
-                  className={`w-full h-full rounded border-2 ${item.quality === "Epic"
-                      ? "border-purple-600"
-                      : item.quality === "Rare"
-                        ? "border-blue-600"
-                        : item.quality === "Uncommon"
-                          ? "border-green-600"
-                          : "border-gray-600"
-                    } group-hover:scale-110 transition-transform`}
-                />
-              </a>
+                <a
+                  href={`https://www.wowhead.com/classic/item=${item.itemId}`}
+                  className="cursor-pointer block w-full h-full"
+                  data-wowhead={`item=${item.itemId}`}
+                >
+                  <img
+                    src={`https://wow.zamimg.com/images/wow/icons/medium/${item.icon}.jpg`}
+                    alt=""
+                    className={`w-full h-full rounded border-2 ${item.quality === "Epic"
+                        ? "border-purple-600"
+                        : item.quality === "Rare"
+                          ? "border-blue-600"
+                          : item.quality === "Uncommon"
+                            ? "border-green-600"
+                            : "border-gray-600"
+                      } group-hover:scale-110 transition-transform`}
+                  />
+                </a>
+                {onRemoveItem && (
+                  <button
+                    onClick={(e) => {
+                      e.preventDefault();
+                      e.stopPropagation();
+                      onRemoveItem(item);
+                    }}
+                    className="absolute -top-2 -right-2 w-5 h-5 bg-red-600 hover:bg-red-700 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity text-white text-xs font-bold shadow-lg border border-red-400"
+                    title="Remove item"
+                  >
+                    ×
+                  </button>
+                )}
+              </div>
             );
           })}
 
@@ -159,11 +176,13 @@ export function EquipmentSlot({ slotName, items, scrubberLevel }: EquipmentSlotP
 export function EquipmentSlotList({ 
   items, 
   showScrubber = false,
-  onBestItemsChange 
+  onBestItemsChange,
+  onRemoveItem 
 }: { 
   items: Item[];
   showScrubber?: boolean;
   onBestItemsChange?: (level: number, bestItems: Record<string, Item>) => void;
+  onRemoveItem?: (item: Item) => void;
 }) {
   const [scrubberLevel, setScrubberLevel] = useState(30);
   const containerRef = useRef<HTMLDivElement>(null);
@@ -171,10 +190,35 @@ export function EquipmentSlotList({
   // Group items by slot
   const itemsBySlot = items.reduce(
     (acc, item) => {
-      if (!acc[item.slot]) {
-        acc[item.slot] = [];
+      // Special handling for Two-Hand weapons: they should go in Main Hand slot
+      if (item.slot === "Two-Hand") {
+        if (!acc["Main Hand"]) {
+          acc["Main Hand"] = [];
+        }
+        acc["Main Hand"]!.push(item);
       }
-      acc[item.slot]!.push(item);
+      // Special handling for One-Hand weapons: they should go in Off Hand slot
+      else if (item.slot === "One-Hand") {
+        if (!acc["Off Hand"]) {
+          acc["Off Hand"] = [];
+        }
+        acc["Off Hand"]!.push(item);
+      } 
+      // Special handling for "Held In Off-hand" items: they should go in "Off Hand" slot
+      else if (item.slot === "Held In Off-hand") {
+        if (!acc["Off Hand"]) {
+          acc["Off Hand"] = [];
+        }
+        acc["Off Hand"]!.push(item);
+      }
+      else {
+        // Handle all other slots normally (Main Hand stays in Main Hand, etc.)
+        if (!acc[item.slot]) {
+          acc[item.slot] = [];
+        }
+        acc[item.slot]!.push(item);
+      }
+      
       return acc;
     },
     {} as Record<string, Item[]>,
@@ -234,6 +278,7 @@ export function EquipmentSlotList({
             slotName={slot}
             items={itemsBySlot[slot] || []}
             scrubberLevel={showScrubber ? scrubberLevel : undefined}
+            onRemoveItem={onRemoveItem}
           />
         ))}
       </div>
