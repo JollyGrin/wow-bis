@@ -48,17 +48,17 @@ const ITEM_SLOTS = [
 	{ key: "ranged", label: "Ranged" },
 ];
 
-// Sample items for demo
+// Sample items for demo - Classic WoW items
 const SAMPLE_ITEMS = {
-	head: 18817, // Crown of Destruction
-	chest: 16905, // Bloodfang Chestpiece
-	mainHand: 19019, // Thunderfury
-	shoulder: 16544, // Warlord's Plate Shoulders
-	legs: 16962, // Legplates of Wrath
-	feet: 16965, // Sabatons of Wrath
-	hands: 16964, // Gauntlets of Wrath
-	waist: 16960, // Waistband of Wrath
-	wrists: 16959, // Bracelets of Wrath
+	head: 16963, // Helm of Wrath (T2 Warrior)
+	chest: 16905, // Bloodfang Chestpiece (T2 Rogue) 
+	mainHand: 19019, // Thunderfury (Classic legendary)
+	shoulder: 16961, // Pauldrons of Wrath (T2 Warrior)
+	legs: 16962, // Legplates of Wrath (T2 Warrior) 
+	feet: 16965, // Sabatons of Wrath (T2 Warrior)
+	hands: 16964, // Gauntlets of Wrath (T2 Warrior)
+	waist: 16960, // Waistband of Wrath (T2 Warrior)
+	wrists: 16959, // Bracelets of Wrath (T2 Warrior)
 	back: 17102, // Cloak of the Shrouded Mists
 };
 
@@ -219,9 +219,9 @@ export default function ModelViewerPage() {
 						// Store our mock functions
 						window._originalWHMock = createWHMock();
 						
-						// Set up environment variables
-						window.CONTENT_PATH = '/api/wowhead-proxy/modelviewer/live/';
-						window.WOTLK_TO_RETAIL_DISPLAY_ID_API = 'https://wotlk.murlocvillage.com/api/items';
+						// Set up environment variables for Classic WoW
+						window.CONTENT_PATH = '/api/wowhead-proxy/modelviewer/classic/';
+						window.WOTLK_TO_RETAIL_DISPLAY_ID_API = 'https://classic.wowhead.com/api/items';
 						
 						// Make getImageExtension available globally in multiple contexts
 						window.getImageExtension = function() {
@@ -252,7 +252,7 @@ export default function ModelViewerPage() {
 				strategy="beforeInteractive"
 			/>
 			<Script 
-				src="/api/wowhead-proxy/modelviewer/live/viewer/viewer.min.js"
+				src="/api/wowhead-proxy/modelviewer/classic/viewer/viewer.min.js"
 				strategy="afterInteractive"
 				onLoad={() => {
 					console.log('ZamModelViewer loaded, checking WH object...');

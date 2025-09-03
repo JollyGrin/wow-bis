@@ -110,6 +110,8 @@ export default function WowModelViewerFixed({
         };
 
         console.log('Creating WoW model with character:', character);
+        console.log('Items array:', itemsArray);
+        console.log('Items object passed in:', items);
         console.log('Window.WH available:', !!(window as any).WH);
         console.log('WH.debug available:', typeof (window as any).WH?.debug);
         console.log('CONTENT_PATH:', (window as any).CONTENT_PATH);
@@ -117,9 +119,9 @@ export default function WowModelViewerFixed({
         
         // Check if items array is properly formatted
         if (itemsArray.length === 0) {
-          console.warn('No valid items found for character. Character will have no equipment.');
+          console.warn('No items found in items array - equipment will not show');
         } else {
-          console.log('Items to be equipped:', itemsArray);
+          console.log('Items will be rendered:', itemsArray.length, 'items');
         }
 
         // Generate the model with aspect ratio 1.0 and container selector

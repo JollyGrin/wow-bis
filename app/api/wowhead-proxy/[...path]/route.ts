@@ -69,11 +69,21 @@ export async function GET(
         // Provide a comprehensive fallback metadata structure based on item type
         const fallbackMetadata = {
           id: parseInt(itemId),
-          displayid: parseInt(itemId), // Use item ID as display ID fallback
+          displayid: parseInt(itemId), // Use item ID as display ID fallback for Classic
+          displayId: parseInt(itemId), // Alternative display ID field
           type: itemType,
           slot: slot,
+          slotbak: slot, // Backup slot field for model viewer
           name: `${itemType.charAt(0).toUpperCase() + itemType.slice(1)} ${itemId}`,
           description: `Fallback metadata for ${itemType} ${itemId}`,
+          
+          // Additional fields that might be required for rendering
+          visible: 1,
+          enchant: 0,
+          gem0: 0, gem1: 0, gem2: 0, gem3: 0,
+          bonus: "",
+          upgrade: 0,
+          context: 0,
           
           // Type-specific properties
           ...(itemType === 'armor' && {
@@ -114,11 +124,20 @@ export async function GET(
           // Basic stats that might be expected
           stats: {},
           
-          // Model viewer specific data
+          // Model viewer specific data - enhanced for Classic WoW
           modelViewer: {
             hasModel: true,
             displayId: parseInt(itemId),
-            slot: slot
+            displayid: parseInt(itemId), // Lowercase version
+            slot: slot,
+            slotbak: slot, // Backup slot field
+            visible: 1, // Make sure it's visible
+            enchant: 0, // No enchants by default
+            gem0: 0, gem1: 0, gem2: 0, gem3: 0, // No gems
+            bonus: "", // No bonus IDs
+            upgrade: 0, // No upgrade level
+            context: 0, // Default context
+            transmog: 0 // No transmog
           },
           
           // Meta information about this fallback
