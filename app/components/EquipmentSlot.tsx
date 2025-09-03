@@ -24,7 +24,6 @@ const SLOT_ORDER = [
   "Trinket",
   "Main Hand",
   "Off Hand",
-  "Two-Hand",
   "Ranged",
 ];
 
@@ -171,8 +170,15 @@ export function EquipmentSlotList({
   // Group items by slot
   const itemsBySlot = items.reduce(
     (acc, item) => {
+      // Special handling for Two-Hand weapons: they should go in Main Hand slot
+      if (item.slot === "Two-Hand") {
+        if (!acc["Main Hand"]) {
+          acc["Main Hand"] = [];
+        }
+        acc["Main Hand"]!.push(item);
+      }
       // Special handling for One-Hand weapons: they should go in Off Hand slot
-      if (item.slot === "One-Hand") {
+      else if (item.slot === "One-Hand") {
         if (!acc["Off Hand"]) {
           acc["Off Hand"] = [];
         }
