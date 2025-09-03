@@ -91,14 +91,13 @@ export function EquipmentSlotList({ items }: { items: Item[] }) {
   
   return (
     <div className="space-y-4">
-      {SLOT_ORDER.filter(slot => slot !== 'Two-Hand' || !itemsBySlot['Main Hand'])
-        .map((slot) => (
-          <EquipmentSlot
-            key={slot}
-            slotName={slot}
-            items={itemsBySlot[slot] || []}
-          />
-        ))}
+      {SLOT_ORDER.map((slot) => (
+        <EquipmentSlot
+          key={slot}
+          slotName={slot}
+          items={itemsBySlot[slot] || []}
+        />
+      ))}
     </div>
   );
 }
