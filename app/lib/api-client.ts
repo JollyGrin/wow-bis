@@ -10,7 +10,20 @@ const apiClient = axios.create({
 
 export const itemsAPI = {
   search: async (params: ItemsSearchParams): Promise<PaginatedResponse<Item>> => {
-    const { data } = await apiClient.get('/items', { params });
+    // Transform params to match API expectations
+    const apiParams = {
+      q: params.query,
+      slot: params.slot,
+      quality: params.quality,
+      minLevel: params.minLevel,
+      maxLevel: params.maxLevel,
+      class: params.class,
+      subclass: params.subclass,
+      page: params.page,
+      limit: params.limit,
+    };
+    
+    const { data } = await apiClient.get('/items', { params: apiParams });
     return data;
   },
 
