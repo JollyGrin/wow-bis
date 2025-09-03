@@ -161,6 +161,10 @@ export default function ModelViewerPage() {
 								debug: function() { console.log('WH.debug called with args:', arguments); },
 								getDataEnv: function() { return 'live'; },
 								REMOTE: false,
+								getImageExtension: function() { 
+									console.log('getImageExtension called');
+									return '.jpg'; 
+								},
 								Wow: {
 									Item: {
 										getJsonEquip: function(id) { 
@@ -191,6 +195,20 @@ export default function ModelViewerPage() {
 											11: { Race: 11, Name: "Draenei", Side: 0, FileString: "draenei" }
 										}
 									}
+								},
+								// Add texture/image related functionality
+								Texture: {
+									getImageExtension: function() { 
+										console.log('Texture.getImageExtension called');
+										return '.jpg'; 
+									}
+								},
+								// Add WebP object that the viewer expects
+								WebP: {
+									getImageExtension: function() { 
+										console.log('WebP.getImageExtension called');
+										return '.jpg'; 
+									}
 								}
 							};
 						}
@@ -205,8 +223,27 @@ export default function ModelViewerPage() {
 						window.CONTENT_PATH = '/api/wowhead-proxy/modelviewer/live/';
 						window.WOTLK_TO_RETAIL_DISPLAY_ID_API = 'https://wotlk.murlocvillage.com/api/items';
 						
+						// Make getImageExtension available globally in multiple contexts
+						window.getImageExtension = function() {
+							console.log('Global getImageExtension called');
+							return '.jpg';
+						};
+						
+						// Also add it to common namespaces that might be used
+						if (!window.WH.Texture) {
+							window.WH.Texture = {};
+						}
+						window.WH.Texture.getImageExtension = window.getImageExtension;
+						
+						// Some libraries expect it on a global 'g' object
+						if (!window.g) {
+							window.g = {};
+						}
+						window.g.getImageExtension = window.getImageExtension;
+						
 						console.log('WH mock object initialized:', window.WH);
 						console.log('WH.debug type:', typeof window.WH.debug);
+						console.log('Global getImageExtension type:', typeof window.getImageExtension);
 					`
 				}}
 			/>
@@ -222,13 +259,150 @@ export default function ModelViewerPage() {
 					console.log('WH after script load:', window.WH);
 					console.log('WH.debug after script load:', typeof window.WH?.debug);
 					
-					// If WH.debug is missing, restore from our backup
-					if (!window.WH || typeof window.WH.debug !== 'function') {
-						console.log('Restoring WH mock object...');
-						window.WH = window._originalWHMock;
-						console.log('WH restored:', window.WH);
-						console.log('WH.debug restored:', typeof window.WH?.debug);
-					}
+					// Always ensure WH.debug is available - it gets called during WebGL init
+					const ensureWHDebug = () => {
+						if (!window.WH || typeof window.WH.debug !== 'function') {
+							console.log('Restoring/ensuring WH object with debug...');
+							
+							// Restore full mock if needed
+							if (!window.WH) {
+								window.WH = window._originalWHMock;
+							} else {
+								// Just add missing functions to existing WH
+								if (typeof window.WH.debug !== 'function') {
+									window.WH.debug = function() { 
+										console.log('WH.debug called with args:', arguments); 
+									};
+								}
+								if (typeof window.WH.getImageExtension !== 'function') {
+									window.WH.getImageExtension = function() { 
+										console.log('WH.getImageExtension called');
+										return '.jpg'; 
+									};
+								}
+								if (!window.WH.WebP) {
+									window.WH.WebP = {};
+								}
+								if (typeof window.WH.WebP.getImageExtension !== 'function') {
+									window.WH.WebP.getImageExtension = function() {
+										console.log('WH.WebP.getImageExtension called');
+										return '.jpg';
+									};
+								}
+								if (!window.WH.Texture) {
+									window.WH.Texture = {};
+								}
+								if (typeof window.WH.Texture.getImageExtension !== 'function') {
+									window.WH.Texture.getImageExtension = function() {
+										console.log('WH.Texture.getImageExtension called');
+										return '.jpg';
+									};
+								}
+							}
+						}
+					};
+					
+					// Ensure WH.debug is available immediately
+					ensureWHDebug();
+					
+					// Also set up a periodic check to catch any overwrites during initialization
+					const debugCheck = setInterval(() => {
+						if (!window.WH || typeof window.WH.debug !== 'function') {
+							console.log('WH.debug missing during init, restoring...');
+							ensureWHDebug();
+						}
+					}, 10);
+					
+					// Stop checking after 2 seconds
+					setTimeout(() => {
+						clearInterval(debugCheck);
+						console.log('WH.debug monitoring stopped');
+					}, 2000);
+					
+					// Re-establish global getImageExtension functions
+					window.getImageExtension = function() {
+						console.log('Global getImageExtension called');
+						return '.jpg';
+					};
+					
+					console.log('WH object ensured with debug support');
+					console.log('WH.debug type:', typeof window.WH?.debug);
+					console.log('WH.WebP.getImageExtension type:', typeof window.WH?.WebP?.getImageExtension);
+					
+					// Simple direct approach: patch the global context with all possible getImageExtension variants
+					setTimeout(() => {
+						try {
+							const imageExtensionFunc = function() {
+								console.log('getImageExtension called on:', this?.constructor?.name || 'unknown');
+								return '.jpg';
+							};
+							
+							// Add to everything we can think of
+							window.getImageExtension = imageExtensionFunc;
+							
+							// Patch the WH object thoroughly
+							if (window.WH) {
+								window.WH.getImageExtension = imageExtensionFunc;
+								if (!window.WH.Texture) window.WH.Texture = {};
+								window.WH.Texture.getImageExtension = imageExtensionFunc;
+								
+								// Also patch g, Ga, etc (common minified names)
+								['g', 'Ga', 'getImageExtension', 'texture', 'Texture'].forEach(prop => {
+									if (window.WH[prop] && typeof window.WH[prop] === 'object') {
+										window.WH[prop].getImageExtension = imageExtensionFunc;
+									}
+								});
+							}
+							
+							// Patch common global objects
+							['g', 'Ga', 'texture', 'Texture', 'WH', 'THREE'].forEach(globalName => {
+								if (window[globalName]) {
+									try {
+										window[globalName].getImageExtension = imageExtensionFunc;
+										if (window[globalName].prototype) {
+											window[globalName].prototype.getImageExtension = imageExtensionFunc;
+										}
+									} catch(e) {
+										// Ignore read-only properties
+									}
+								}
+							});
+							
+							// Add a universal fallback by patching undefined access
+							const originalPropertyAccessHandler = Object.getOwnPropertyDescriptor(Object.prototype, '__lookupGetter__');
+							
+							// Override property access for when objects try to access getImageExtension on undefined/null
+							const originalObjectGet = Object.getOwnPropertyDescriptor;
+							Object.defineProperty(Object.prototype, '__lookupGetter__', {
+								value: function(prop) {
+									if (prop === 'getImageExtension') {
+										console.log('__lookupGetter__ intercepted getImageExtension');
+										return imageExtensionFunc;
+									}
+									return originalPropertyAccessHandler ? originalPropertyAccessHandler.value.call(this, prop) : undefined;
+								},
+								configurable: true,
+								writable: true
+							});
+							
+							// Also patch Reflect.get to catch any missed accesses
+							if (window.Reflect && window.Reflect.get) {
+								const originalReflectGet = window.Reflect.get;
+								window.Reflect.get = function(target, prop, receiver) {
+									if (prop === 'getImageExtension' && (!target || target[prop] === undefined)) {
+										console.log('Reflect.get intercepted getImageExtension on:', target);
+										return imageExtensionFunc;
+									}
+									return originalReflectGet(target, prop, receiver);
+								};
+							}
+							
+							console.log('Patched global contexts for getImageExtension');
+							
+						} catch(e) {
+							console.log('Error in simple patching:', e);
+						}
+					}, 50);
 					
 					setScriptLoaded(true);
 				}}

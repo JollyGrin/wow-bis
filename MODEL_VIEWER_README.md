@@ -5,8 +5,9 @@ A React component for displaying World of Warcraft character models with equipme
 ## Current Status
 
 ✅ **Working**: Basic UI with race/gender selection and equipment input  
-✅ **Working**: CORS bypass server setup with Docker  
-🚧 **Testing**: Full 3D model integration with wow-model-viewer  
+✅ **Working**: Next.js CORS proxy (no Docker needed!)  
+✅ **Working**: WH.debug mock persistence  
+🚧 **Testing**: Texture loading functionality (`getImageExtension` error)  
 ❌ **Previous Attempts**: Direct ZamModelViewer integration failed due to CORS  
 
 ## Components
@@ -111,6 +112,22 @@ const character = {
   ]
 };
 ```
+
+## Latest Issues & Solutions
+
+### Current Issue: Missing Texture Functionality
+**Error**: `Cannot read properties of undefined (reading 'getImageExtension')`
+**Status**: 🚧 In Progress
+
+**Solution Applied**:
+- Added `WH.getImageExtension()` function to mock object
+- Added `WH.Texture.getImageExtension()` for alternate access pattern  
+- Enhanced script loading check to verify texture functions exist
+
+**Progress**:
+- ✅ `WH.debug` is now working (calls visible in console)
+- ✅ Character customization data is being processed
+- 🚧 Texture loading is the current blocker
 
 ## Previous Attempts & Issues (For Reference)
 

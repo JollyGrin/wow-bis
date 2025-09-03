@@ -2,11 +2,13 @@ import { NextRequest, NextResponse } from 'next/server';
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { path: string[] } }
+  { params }: { params: Promise<{ path: string[] }> }
 ) {
   try {
+    // Await params to fix Next.js warning
+    const resolvedParams = await params;
     // Reconstruct the full path
-    const path = params.path.join('/');
+    const path = resolvedParams.path.join('/');
     const targetUrl = `https://wow.zamimg.com/${path}`;
     
     // Get query parameters from the original request
@@ -108,7 +110,7 @@ export async function GET(
       JSON.stringify({ 
         error: 'Proxy request failed', 
         details: error instanceof Error ? error.message : 'Unknown error',
-        path: params.path.join('/') 
+        path: resolvedParams.path.join('/') 
       }), 
       {
         status: 500,
