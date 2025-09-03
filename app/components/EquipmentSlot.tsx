@@ -1,6 +1,6 @@
-'use client';
+"use client";
 
-import type { Item } from '@/app/lib/items-service';
+import type { Item } from "@/app/lib/items-service";
 
 interface EquipmentSlotProps {
   slotName: string;
@@ -8,9 +8,22 @@ interface EquipmentSlotProps {
 }
 
 const SLOT_ORDER = [
-  'Head', 'Neck', 'Shoulder', 'Back', 'Chest', 'Wrist',
-  'Hands', 'Waist', 'Legs', 'Feet', 'Finger', 'Trinket',
-  'Main Hand', 'Off Hand', 'Two-Hand', 'Ranged'
+  "Head",
+  "Neck",
+  "Shoulder",
+  "Back",
+  "Chest",
+  "Wrist",
+  "Hands",
+  "Waist",
+  "Legs",
+  "Feet",
+  "Finger",
+  "Trinket",
+  "Main Hand",
+  "Off Hand",
+  "Two-Hand",
+  "Ranged",
 ];
 
 export function EquipmentSlot({ slotName, items }: EquipmentSlotProps) {
@@ -19,7 +32,7 @@ export function EquipmentSlot({ slotName, items }: EquipmentSlotProps) {
       <div className="w-32 flex-shrink-0">
         <h3 className="font-semibold text-gray-800">{slotName}</h3>
       </div>
-      
+
       <div className="flex-1 relative">
         <div className="h-12 bg-gray-100 rounded relative overflow-hidden">
           {/* Level bar background with markers */}
@@ -31,7 +44,7 @@ export function EquipmentSlot({ slotName, items }: EquipmentSlotProps) {
               />
             ))}
           </div>
-          
+
           {/* Level indicators */}
           <div className="absolute -top-6 inset-x-0 flex justify-between text-xs text-gray-500">
             <span>1</span>
@@ -42,13 +55,13 @@ export function EquipmentSlot({ slotName, items }: EquipmentSlotProps) {
             <span>50</span>
             <span>60</span>
           </div>
-          
+
           {/* Item icons positioned on the bar */}
-          {items.map((item) => {
+          {items.map((item, i) => {
             const position = ((item.requiredLevel - 1) / 59) * 100;
             return (
               <a
-                key={item.itemId}
+                key={item.itemId + "-index-" + i}
                 href={`https://www.wowhead.com/classic/item=${item.itemId}`}
                 className="absolute top-1 w-10 h-10 -translate-x-1/2 cursor-pointer group block"
                 style={{ left: `${position}%` }}
@@ -57,38 +70,42 @@ export function EquipmentSlot({ slotName, items }: EquipmentSlotProps) {
                 <img
                   src={`https://wow.zamimg.com/images/wow/icons/medium/${item.icon}.jpg`}
                   alt=""
-                  className={`w-full h-full rounded border-2 ${
-                    item.quality === 'Epic' ? 'border-purple-600' :
-                    item.quality === 'Rare' ? 'border-blue-600' :
-                    item.quality === 'Uncommon' ? 'border-green-600' :
-                    'border-gray-600'
-                  } group-hover:scale-110 transition-transform`}
+                  className={`w-full h-full rounded border-2 ${item.quality === "Epic"
+                      ? "border-purple-600"
+                      : item.quality === "Rare"
+                        ? "border-blue-600"
+                        : item.quality === "Uncommon"
+                          ? "border-green-600"
+                          : "border-gray-600"
+                    } group-hover:scale-110 transition-transform`}
                 />
               </a>
             );
           })}
         </div>
       </div>
-      
     </div>
   );
 }
 
 export function EquipmentSlotList({ items }: { items: Item[] }) {
   // Group items by slot
-  const itemsBySlot = items.reduce((acc, item) => {
-    if (!acc[item.slot]) {
-      acc[item.slot] = [];
-    }
-    acc[item.slot]!.push(item);
-    return acc;
-  }, {} as Record<string, Item[]>);
-  
+  const itemsBySlot = items.reduce(
+    (acc, item) => {
+      if (!acc[item.slot]) {
+        acc[item.slot] = [];
+      }
+      acc[item.slot]!.push(item);
+      return acc;
+    },
+    {} as Record<string, Item[]>,
+  );
+
   // Sort items within each slot by required level
-  Object.keys(itemsBySlot).forEach(slot => {
+  Object.keys(itemsBySlot).forEach((slot) => {
     itemsBySlot[slot]?.sort((a, b) => a.requiredLevel - b.requiredLevel);
   });
-  
+
   return (
     <div className="space-y-4">
       {SLOT_ORDER.map((slot) => (
@@ -101,3 +118,4 @@ export function EquipmentSlotList({ items }: { items: Item[] }) {
     </div>
   );
 }
+
