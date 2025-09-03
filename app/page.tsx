@@ -41,10 +41,14 @@ export default function Home() {
   const [scriptLoaded, setScriptLoaded] = useState(false);
 
   // Keyboard shortcuts
-  useHotkeys('meta+k, ctrl+k', (e) => {
-    e.preventDefault();
-    setIsSearchModalOpen(true);
-  }, { enableOnFormTags: true });
+  useHotkeys(
+    "meta+k, ctrl+k",
+    (e) => {
+      e.preventDefault();
+      setIsSearchModalOpen(true);
+    },
+    { enableOnFormTags: true },
+  );
 
   const handleSelectItem = (item: Item) => {
     setSelectedItems((prev) => [...prev, item]);
@@ -307,20 +311,18 @@ export default function Home() {
           <div className="flex justify-between items-start">
             <div>
               <h1 className="text-4xl font-bold wow-title mb-4">
-                ⚔️ WoW Best-in-Slot Leveling Tool ⚔️
+                ⚔ WoW Best-in-Slot ⚔
               </h1>
               <p className="text-lg wow-subtitle">
-                Track the finest gear for each equipment slot while ascending from
-                level 1 to 60
+                Leveling tool to track the finest gear for each equipment slot
+                while ascending from level 1 to 60
               </p>
             </div>
             <div className="flex gap-3">
               <button
                 onClick={() => setShowScrubber(!showScrubber)}
                 className={`px-6 py-3 rounded-lg flex items-center gap-2 ${
-                  showScrubber
-                    ? "wow-button-secondary"
-                    : "wow-button-secondary"
+                  showScrubber ? "wow-button-secondary" : "wow-button-secondary"
                 }`}
               >
                 <svg
@@ -340,7 +342,7 @@ export default function Home() {
               </button>
               <button
                 onClick={() => setIsSearchModalOpen(true)}
-                className="px-6 py-3 rounded-lg flex items-center gap-2 wow-button"
+                className="px-6 py-3 rounded-lg flex items-center gap-1 wow-button"
               >
                 <svg
                   className="w-5 h-5"
@@ -356,6 +358,11 @@ export default function Home() {
                   />
                 </svg>
                 ⚡ Add Item
+                <div className="flex items-center gap-1 ml-2 text-xs opacity-75">
+                  <kbd className="px-1.5 py-0.5 bg-black/10 rounded text-xs border border-current">
+                    ⌘ K
+                  </kbd>
+                </div>
               </button>
             </div>
           </div>
@@ -404,7 +411,9 @@ export default function Home() {
                         />
                       </a>
                       <div>
-                        <div className="font-medium text-yellow-300 font-semibold">{slot}</div>
+                        <div className="font-medium text-yellow-300 font-semibold">
+                          {slot}
+                        </div>
                         <div className="text-sm text-gray-200">{item.name}</div>
                         <div className="text-xs text-gray-300">
                           Level {item.requiredLevel}
@@ -418,7 +427,7 @@ export default function Home() {
               {/* 3D Model Viewer */}
               <div className="lg:col-span-1">
                 <h3 className="text-xl font-semibold mb-4 wow-title">
-                  ⚔️ Champion Preview
+                  ⚔ Champion Preview
                 </h3>
                 <div className="bg-gradient-to-br from-gray-900 to-gray-800 rounded-lg overflow-hidden border-2 border-yellow-600">
                   {scriptLoaded ? (
