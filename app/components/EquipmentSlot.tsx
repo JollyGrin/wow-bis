@@ -80,7 +80,7 @@ function Scrubber({
     >
       <div className="absolute -top-2 -left-2 w-5 h-5 bg-red-500 rounded-full border-2 border-white shadow-md" />
       <div className="absolute -bottom-6 -left-4 text-xs text-red-600 font-semibold bg-white px-1 rounded">
-        L{level} ({position.toFixed(1)}%)
+{level}
       </div>
     </div>
   );
@@ -96,14 +96,6 @@ export function EquipmentSlot({ slotName, items, scrubberLevel }: EquipmentSlotP
 
       <div className="flex-1 relative">
         <div className="h-12 bg-gray-100 rounded relative overflow-hidden">
-          {/* Debug: Add markers at exact percentages */}
-          {[0, 25, 50, 75, 100].map(pct => (
-            <div
-              key={pct}
-              className="absolute top-0 bottom-0 w-0.5 bg-green-500 opacity-50"
-              style={{ left: `${pct}%` }}
-            />
-          ))}
           
           {/* Level bar background with markers */}
           <div className="absolute inset-0 flex">
