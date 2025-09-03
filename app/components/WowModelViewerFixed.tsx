@@ -86,14 +86,38 @@ export default function WowModelViewerFixed({
         // Import the wow-model-viewer library
         const { generateModels } = await import("wow-model-viewer");
 
-        // Use real Classic WoW display IDs from Wowhead XML API
-        const itemsArray: Array<[number, number]> = [
-          [1, 34215],  // Head: Helm of Wrath (display ID from Wowhead XML)
-          [5, 33650],  // Chest: Bloodfang Chestpiece (display ID from Wowhead XML)  
-          [16, 30606], // Main Hand: Thunderfury (display ID from Wowhead XML)
-        ];
+        // Verified Classic WoW Item ID -> Display ID mappings from Wowhead XML
+        const classicDisplayIds: Record<number, number> = {
+          16963: 34215, // Helm of Wrath
+          16905: 33650, // Bloodfang Chestpiece
+          19019: 30606, // Thunderfury
+          // Add more as we verify them
+        };
+
+        // Convert items to display IDs using verified mappings
+        const itemsArray: Array<[number, number]> = [];
+        Object.entries(items).forEach(([slot, itemId]) => {
+          if (itemId && SLOT_MAP[slot] && classicDisplayIds[itemId]) {
+            const displayId = classicDisplayIds[itemId];
+            const slotNum = SLOT_MAP[slot];
+            
+            // Special handling for weapons - try multiple slots
+            if (slot === 'mainHand') {
+              console.log(`🗡️ Testing weapon in multiple slots for item ${itemId}`);
+              itemsArray.push([15, displayId]); // Try slot 15 
+              itemsArray.push([16, displayId]); // Try slot 16
+              itemsArray.push([21, displayId]); // Try slot 21 (sometimes used for main hand)
+            } else {
+              itemsArray.push([slotNum, displayId]);
+            }
+            
+            console.log(`✅ Mapped item ${itemId} -> display ID ${displayId} in slot ${slotNum}`);
+          } else if (itemId && SLOT_MAP[slot]) {
+            console.warn(`❌ No verified display ID mapping for item ${itemId}`);
+          }
+        });
         
-        console.log('🎯 Testing with REAL Classic display IDs from Wowhead:', itemsArray);
+        console.log('🎯 Using verified Classic display IDs:', itemsArray);
 
         // Full character object to get the basic model working
         const character = {
@@ -104,7 +128,11 @@ export default function WowModelViewerFixed({
           hairStyle: 1,
           hairColor: 1,
           facialStyle: 0,
-          items: itemsArray, // Empty for now - just get the character back
+          items: itemsArray,
+          // Try adding weapon-specific fields that might be needed
+          ...(itemsArray.some(([slot]) => [15, 16, 21].includes(slot)) && {
+            noCharCustomization: false, // Some weapons might need this
+          }),
         };
 
         console.log("Creating WoW model with character:", character);
