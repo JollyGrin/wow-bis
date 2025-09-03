@@ -221,7 +221,7 @@ export default function ModelViewerPage() {
 						
 						// Set up environment variables for Classic WoW
 						window.CONTENT_PATH = '/api/wowhead-proxy/modelviewer/classic/';
-						window.WOTLK_TO_RETAIL_DISPLAY_ID_API = 'https://classic.wowhead.com/api/items';
+						window.WOTLK_TO_RETAIL_DISPLAY_ID_API = undefined;
 						
 						// Make getImageExtension available globally in multiple contexts
 						window.getImageExtension = function() {

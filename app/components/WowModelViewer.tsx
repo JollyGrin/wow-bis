@@ -22,7 +22,6 @@ interface ItemSlots {
 	tabard?: number;
 }
 
-
 interface WowModelViewerProps {
 	race: number;
 	gender: number;
@@ -71,7 +70,7 @@ export default function WowModelViewer({
 							gender,
 							...items,
 						},
-						"live" // environment
+						"classic", // environment
 					);
 					setIsLoading(false);
 				} catch (err) {
@@ -95,10 +94,15 @@ export default function WowModelViewer({
 	}, [race, gender, items]);
 
 	// Generate a unique ID for this instance
-	const containerId = useRef(`model-viewer-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`);
+	const containerId = useRef(
+		`model-viewer-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`,
+	);
 
 	return (
-		<div className={`wow-model-viewer ${className}`} style={{ width, height, position: 'relative' }}>
+		<div
+			className={`wow-model-viewer ${className}`}
+			style={{ width, height, position: "relative" }}
+		>
 			{isLoading && (
 				<div className="absolute inset-0 flex items-center justify-center bg-gray-800 text-gray-400">
 					Loading model...
@@ -112,7 +116,7 @@ export default function WowModelViewer({
 			<div
 				id={containerId.current}
 				ref={containerRef}
-				style={{ width: '100%', height: '100%' }}
+				style={{ width: "100%", height: "100%" }}
 			/>
 		</div>
 	);

@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState } from "react";
 
 interface ItemSlots {
   head?: number;
@@ -60,13 +60,15 @@ export default function WowModelViewerFixed({
   items,
   width = 600,
   height = 800,
-  className = '',
+  className = "",
 }: WowModelViewerFixedProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const modelRef = useRef<any>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const containerId = useRef(`model-viewer-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`);
+  const containerId = useRef(
+    `model-viewer-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`,
+  );
 
   useEffect(() => {
     if (!containerRef.current) return;
@@ -77,63 +79,73 @@ export default function WowModelViewerFixed({
 
       try {
         // Environment variables are now set globally in the page
-        
+
         // Set container ID
         containerRef.current!.id = containerId.current;
 
         // Import the wow-model-viewer library
-        const { generateModels } = await import('wow-model-viewer');
+        const { generateModels } = await import("wow-model-viewer");
 
-        // Convert items to the format expected by wow-model-viewer
-        // Format: [[slot, displayId], [slot, displayId], ...]
-        // Note: For Classic WoW items, item ID often equals display ID, but this isn't always true
-        const itemsArray: Array<[number, number]> = [];
-        Object.entries(items).forEach(([slot, itemId]) => {
-          if (itemId && SLOT_MAP[slot]) {
-            // For now, use itemId as displayId (works for most Classic items)
-            // In the future, this could be enhanced to use the WOTLK_TO_RETAIL_DISPLAY_ID_API
-            // or implement a proper item ID to display ID mapping
-            itemsArray.push([SLOT_MAP[slot], itemId]);
-          }
-        });
+        // Use real Classic WoW display IDs from Wowhead XML API
+        const itemsArray: Array<[number, number]> = [
+          [1, 34215],  // Head: Helm of Wrath (display ID from Wowhead XML)
+          [5, 33650],  // Chest: Bloodfang Chestpiece (display ID from Wowhead XML)  
+          [16, 30606], // Main Hand: Thunderfury (display ID from Wowhead XML)
+        ];
+        
+        console.log('🎯 Testing with REAL Classic display IDs from Wowhead:', itemsArray);
 
-        // Create character object as per documentation
+        // Full character object to get the basic model working
         const character = {
           race,
           gender,
-          skin: 1,      // Default skin
-          face: 0,      // Default face  
-          hairStyle: 1, // Default hair style
-          hairColor: 1, // Default hair color
-          facialStyle: 0, // Default facial style (for male characters)
-          items: itemsArray,
+          skin: 1,
+          face: 0,
+          hairStyle: 1,
+          hairColor: 1,
+          facialStyle: 0,
+          items: itemsArray, // Empty for now - just get the character back
         };
 
-        console.log('Creating WoW model with character:', character);
-        console.log('Items array:', itemsArray);
-        console.log('Items object passed in:', items);
-        console.log('Window.WH available:', !!(window as any).WH);
-        console.log('WH.debug available:', typeof (window as any).WH?.debug);
-        console.log('CONTENT_PATH:', (window as any).CONTENT_PATH);
-        console.log('WOTLK_TO_RETAIL_DISPLAY_ID_API:', (window as any).WOTLK_TO_RETAIL_DISPLAY_ID_API);
-        
+        console.log("Creating WoW model with character:", character);
+        console.log("Items array:", itemsArray);
+        console.log("Items object passed in:", items);
+        console.log("Window.WH available:", !!(window as any).WH);
+        console.log("WH.debug available:", typeof (window as any).WH?.debug);
+        console.log("CONTENT_PATH:", (window as any).CONTENT_PATH);
+        console.log(
+          "WOTLK_TO_RETAIL_DISPLAY_ID_API:",
+          (window as any).WOTLK_TO_RETAIL_DISPLAY_ID_API,
+        );
+
         // Check if items array is properly formatted
         if (itemsArray.length === 0) {
-          console.warn('No items found in items array - equipment will not show');
+          console.warn(
+            "No items found in items array - equipment will not show",
+          );
         } else {
-          console.log('Items will be rendered:', itemsArray.length, 'items');
+          console.log("Items will be rendered:", itemsArray.length, "items");
         }
 
         // Generate the model with aspect ratio 1.0 and container selector
-        const model = await generateModels(1.0, `#${containerId.current}`, character);
-        
+        // For Classic WoW, we need to pass "classic" as the 4th parameter
+        console.log("Calling generateModels with classic parameter...");
+        const model = await generateModels(
+          1.0,
+          `#${containerId.current}`,
+          character,
+          "classic",
+        );
+
         modelRef.current = model;
         setIsLoading(false);
-        
-        console.log('WoW model created successfully');
+
+        console.log("WoW model created successfully");
       } catch (err) {
-        console.error('Failed to create WoW model:', err);
-        setError(err instanceof Error ? err.message : 'Failed to load model viewer');
+        console.error("Failed to create WoW model:", err);
+        setError(
+          err instanceof Error ? err.message : "Failed to load model viewer",
+        );
         setIsLoading(false);
       }
     };
@@ -142,18 +154,21 @@ export default function WowModelViewerFixed({
 
     // Cleanup function
     return () => {
-      if (modelRef.current && typeof modelRef.current.destroy === 'function') {
+      if (modelRef.current && typeof modelRef.current.destroy === "function") {
         modelRef.current.destroy();
         modelRef.current = null;
       }
       if (containerRef.current) {
-        containerRef.current.innerHTML = '';
+        containerRef.current.innerHTML = "";
       }
     };
   }, [race, gender, items]);
 
   return (
-    <div className={`wow-model-viewer-fixed ${className}`} style={{ width, height, position: 'relative' }}>
+    <div
+      className={`wow-model-viewer-fixed ${className}`}
+      style={{ width, height, position: "relative" }}
+    >
       {isLoading && (
         <div className="absolute inset-0 flex items-center justify-center bg-gray-800 text-gray-400 rounded-lg">
           Loading 3D model...
@@ -170,9 +185,10 @@ export default function WowModelViewerFixed({
       )}
       <div
         ref={containerRef}
-        style={{ width: '100%', height: '100%' }}
+        style={{ width: "100%", height: "100%" }}
         className="rounded-lg overflow-hidden"
       />
     </div>
   );
 }
+
