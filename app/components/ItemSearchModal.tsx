@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { useInfiniteQuery, useQuery } from '@tanstack/react-query';
 import { useInView } from 'react-intersection-observer';
 import { itemsAPI } from '@/app/lib/api-client';
-import type { Item } from '@/app/lib/items-service';
+import type { Item, PaginatedResponse } from '@/app/lib/items-service';
 
 interface ItemSearchModalProps {
   isOpen: boolean;
@@ -37,9 +37,9 @@ export function ItemSearchModal({ isOpen, onClose, onSelectItem }: ItemSearchMod
     isFetchingNextPage,
     isLoading,
     refetch,
-  } = useInfiniteQuery({
+  } = useInfiniteQuery<PaginatedResponse<Item>, Error, PaginatedResponse<Item>[], string[], number>({
     queryKey: ['items-search', searchQuery, filters],
-    queryFn: ({ pageParam }) =>
+    queryFn: ({ pageParam }: { pageParam: number }) =>
       itemsAPI.search({
         query: searchQuery,
         slot: filters.slot || undefined,
