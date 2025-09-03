@@ -1,26 +1,94 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --wow-dark-blue: #0f1419;
+  --wow-medium-blue: #1a252f;
+  --wow-light-blue: #2d3748;
+  --wow-gold: #ffd700;
+  --wow-light-gold: #fff2a8;
+  --wow-bronze: #cd7f32;
+  --wow-stone: #4a5568;
+  --wow-light-stone: #718096;
+  --background: var(--wow-dark-blue);
+  --foreground: #f7fafc;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
+  --font-sans: var(--font-merriweather);
   --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --font-title: var(--font-cinzel);
 }
 
 body {
-  background: var(--background);
+  background: linear-gradient(135deg, var(--wow-dark-blue) 0%, var(--wow-medium-blue) 50%, var(--wow-dark-blue) 100%);
+  background-attachment: fixed;
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-merriweather), serif;
+  min-height: 100vh;
+}
+
+/* WoW-style card backgrounds */
+.wow-card {
+  background: linear-gradient(145deg, rgba(45, 55, 72, 0.9), rgba(26, 37, 47, 0.9));
+  border: 2px solid var(--wow-bronze);
+  border-radius: 8px;
+  box-shadow: 
+    0 4px 8px rgba(0, 0, 0, 0.3),
+    inset 0 1px 2px rgba(255, 215, 0, 0.1);
+}
+
+.wow-card-light {
+  background: linear-gradient(145deg, rgba(74, 85, 104, 0.9), rgba(113, 128, 150, 0.9));
+  border: 1px solid var(--wow-light-gold);
+  border-radius: 6px;
+  box-shadow: 
+    0 2px 4px rgba(0, 0, 0, 0.2),
+    inset 0 1px 1px rgba(255, 215, 0, 0.1);
+}
+
+/* WoW-style buttons */
+.wow-button {
+  background: linear-gradient(145deg, var(--wow-gold), var(--wow-bronze));
+  border: 2px solid var(--wow-bronze);
+  color: var(--wow-dark-blue);
+  font-weight: 600;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+  transition: all 0.2s ease;
+  font-family: var(--font-cinzel), serif;
+}
+
+.wow-button:hover {
+  background: linear-gradient(145deg, var(--wow-light-gold), var(--wow-gold));
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.wow-button-secondary {
+  background: linear-gradient(145deg, var(--wow-stone), var(--wow-light-stone));
+  border: 2px solid var(--wow-light-stone);
+  color: var(--foreground);
+  font-weight: 600;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+  transition: all 0.2s ease;
+  font-family: var(--font-cinzel), serif;
+}
+
+.wow-button-secondary:hover {
+  background: linear-gradient(145deg, var(--wow-light-stone), var(--wow-stone));
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* WoW-style text */
+.wow-title {
+  font-family: var(--font-cinzel), serif;
+  color: var(--wow-gold);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.wow-subtitle {
+  color: var(--wow-light-gold);
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.6);
 }

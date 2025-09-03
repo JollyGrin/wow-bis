@@ -118,21 +118,21 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
   };
 
   return (
-    <div className="bg-white rounded-lg shadow-sm p-6 mb-6">
+    <div className="wow-card p-6 mb-6">
       <div className="flex items-center justify-between mb-4">
         <div>
-          <h3 className="text-lg font-semibold text-gray-900">
-            {activeList ? activeList.name : 'No List Selected'}
+          <h3 className="text-lg font-semibold wow-title">
+            {activeList ? `📜 ${activeList.name}` : '📜 No Guild Roster Selected'}
           </h3>
           {activeList && (
-            <p className="text-sm text-gray-500">
-              {currentItems.length} items • Auto-saves as you work
+            <p className="text-sm wow-subtitle">
+              {currentItems.length} items • Auto-saves as you adventure
             </p>
           )}
         </div>
         {activeList && (
-          <div className="text-xs text-green-600 bg-green-50 px-2 py-1 rounded">
-            Active List
+          <div className="text-xs text-yellow-300 bg-gradient-to-r from-green-800 to-green-700 px-3 py-1 rounded border border-yellow-500">
+            ⚡ Active Roster
           </div>
         )}
       </div>
@@ -140,52 +140,52 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
       <div className="flex flex-wrap gap-3 mb-6">
         <button
           onClick={() => setShowNewListDialog(true)}
-          className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors"
+          className="px-4 py-2 rounded-lg wow-button"
         >
-          New List
+          📜 New Roster
         </button>
         
         <button
           onClick={handleShare}
           disabled={currentItems.length === 0}
-          className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 disabled:bg-gray-300 disabled:cursor-not-allowed transition-colors"
+          className="px-4 py-2 rounded-lg wow-button-secondary disabled:opacity-50 disabled:cursor-not-allowed"
         >
-          Share List
+          🔗 Share Roster
         </button>
         
         {activeList && (
           <button
             onClick={handleDeleteCurrent}
-            className="px-4 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700 transition-colors"
+            className="px-4 py-2 rounded-lg bg-gradient-to-r from-red-800 to-red-700 border-2 border-red-600 text-white hover:from-red-700 hover:to-red-600 transition-all"
           >
-            Delete Current
+            🗑️ Delete Current
           </button>
         )}
       </div>
 
       {savedLists.length > 0 && (
         <div>
-          <h4 className="font-medium text-gray-700 mb-3">All Lists ({savedLists.length})</h4>
+          <h4 className="font-medium wow-title mb-3">🏰 All Guild Rosters ({savedLists.length})</h4>
           <div className="space-y-2">
             {savedLists.map(list => (
               <div 
                 key={list.id} 
                 className={`flex items-center justify-between rounded-lg p-3 ${
                   activeList?.id === list.id 
-                    ? 'bg-green-50 border-2 border-green-200' 
-                    : 'bg-gray-50'
+                    ? 'bg-gradient-to-r from-green-900 to-green-800 border-2 border-yellow-500' 
+                    : 'wow-card-light'
                 }`}
               >
                 <div>
                   <div className="flex items-center gap-2">
-                    <span className="font-medium text-gray-900">{list.name}</span>
+                    <span className="font-medium text-yellow-300">📜 {list.name}</span>
                     {activeList?.id === list.id && (
-                      <span className="text-xs bg-green-600 text-white px-2 py-0.5 rounded">
-                        ACTIVE
+                      <span className="text-xs bg-yellow-600 text-gray-900 px-2 py-0.5 rounded font-bold">
+                        ⚡ ACTIVE
                       </span>
                     )}
                   </div>
-                  <span className="text-sm text-gray-500">
+                  <span className="text-sm text-gray-300">
                     {list.itemCount} items • {list.updatedAt.toLocaleDateString()}
                   </span>
                 </div>
@@ -193,14 +193,14 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
                   {activeList?.id !== list.id && (
                     <button
                       onClick={() => handleSwitchList(list.id)}
-                      className="px-3 py-1 text-sm bg-blue-100 text-blue-700 rounded hover:bg-blue-200 transition-colors"
+                      className="px-3 py-1 text-sm wow-button-secondary"
                     >
                       Switch To
                     </button>
                   )}
                   <button
                     onClick={() => handleDelete(list.id)}
-                    className="px-3 py-1 text-sm bg-red-100 text-red-700 rounded hover:bg-red-200 transition-colors"
+                    className="px-3 py-1 text-sm bg-gradient-to-r from-red-700 to-red-600 border border-red-500 text-white rounded hover:from-red-600 hover:to-red-500 transition-all"
                   >
                     Delete
                   </button>
@@ -212,15 +212,15 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
       )}
 
       {showNewListDialog && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
-          <div className="bg-white rounded-lg p-6 w-96">
-            <h4 className="text-lg font-semibold mb-4">Create New BiS List</h4>
+        <div className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50">
+          <div className="wow-card p-6 w-96">
+            <h4 className="text-lg font-semibold mb-4 wow-title">📜 Create New Guild Roster</h4>
             <input
               type="text"
               value={newListName}
               onChange={(e) => setNewListName(e.target.value)}
-              placeholder="Enter list name..."
-              className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent mb-4"
+              placeholder="Enter roster name..."
+              className="w-full px-3 py-2 bg-gray-800 border border-yellow-600 rounded-lg focus:ring-2 focus:ring-yellow-500 focus:border-yellow-500 mb-4 text-white placeholder-gray-400"
               onKeyPress={(e) => e.key === 'Enter' && handleNewList()}
               autoFocus
             />
@@ -228,16 +228,16 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
               <button
                 onClick={handleNewList}
                 disabled={!newListName.trim()}
-                className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 disabled:bg-gray-300 disabled:cursor-not-allowed transition-colors"
+                className="px-4 py-2 rounded-lg wow-button disabled:opacity-50 disabled:cursor-not-allowed"
               >
-                Create
+                ⚡ Create
               </button>
               <button
                 onClick={() => {
                   setShowNewListDialog(false);
                   setNewListName('');
                 }}
-                className="px-4 py-2 bg-gray-300 text-gray-700 rounded-lg hover:bg-gray-400 transition-colors"
+                className="px-4 py-2 rounded-lg wow-button-secondary"
               >
                 Cancel
               </button>
@@ -247,26 +247,26 @@ export function BisListManager({ currentItems, onLoadList, onItemsFromUrl, onAut
       )}
 
       {showShareDialog && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
-          <div className="bg-white rounded-lg p-6 w-96">
-            <h4 className="text-lg font-semibold mb-4">Share BiS List</h4>
-            <p className="text-sm text-gray-600 mb-3">Share this URL to let others load your BiS list:</p>
-            <div className="bg-gray-50 rounded-lg p-3 mb-4 break-all text-sm">
+        <div className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50">
+          <div className="wow-card p-6 w-96">
+            <h4 className="text-lg font-semibold mb-4 wow-title">🔗 Share Guild Roster</h4>
+            <p className="text-sm wow-subtitle mb-3">Share this URL to let other adventurers load your roster:</p>
+            <div className="bg-gray-800 border border-yellow-600 rounded-lg p-3 mb-4 break-all text-sm text-gray-200">
               {shareUrl}
             </div>
             <div className="flex gap-3">
               <button
                 onClick={copyToClipboard}
-                className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
+                className="px-4 py-2 rounded-lg wow-button"
               >
-                Copy URL
+                📋 Copy URL
               </button>
               <button
                 onClick={() => {
                   setShowShareDialog(false);
                   setShareUrl('');
                 }}
-                className="px-4 py-2 bg-gray-300 text-gray-700 rounded-lg hover:bg-gray-400 transition-colors"
+                className="px-4 py-2 rounded-lg wow-button-secondary"
               >
                 Close
               </button>
