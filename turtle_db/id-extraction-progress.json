@@ -141,14 +141,14 @@
       "total_ids": 377
     },
     "4.1.8": {
-      "current_page": 4,
-      "complete": false,
-      "total_ids": 250
+      "current_page": 7,
+      "complete": true,
+      "total_ids": 362
     },
     "4.1.9": {
-      "current_page": 0,
-      "complete": false,
-      "total_ids": 0
+      "current_page": 5,
+      "complete": true,
+      "total_ids": 265
     },
     "4.1.10": {
       "current_page": 0,
@@ -277,5 +277,5 @@
     }
   },
   "start_time": "2025-10-18T02:04:15.965Z",
-  "last_updated": "2025-10-18T02:40:32.876Z"
+  "last_updated": "2025-10-18T02:41:26.450Z"
 }

@@ -2103,3 +2103,57 @@
 [2025-10-18T02:40:32.876Z] 📊 Total unique cloth-feet: 250
 [2025-10-18T02:40:32.880Z] 💾 Saved 250 cloth-feet IDs to turtle_db/items-4.1.8.json
 [2025-10-18T02:40:34.430Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=4.1.8#250+1
+[2025-10-18T02:40:38.422Z] 📄 Page 6: Found 50 items (50 new)
+[2025-10-18T02:40:38.423Z] 🆔 Sample IDs: 792, 840, 860, 2438, 2569
+[2025-10-18T02:40:38.423Z] 📊 Total unique cloth-feet: 300
+[2025-10-18T02:40:38.425Z] 💾 Saved 300 cloth-feet IDs to turtle_db/items-4.1.8.json
+[2025-10-18T02:40:39.984Z] 📄 Loading page 7 with fresh browser context: https://database.turtle-wow.org/?items=4.1.8#300+1
+[2025-10-18T02:40:43.984Z] 📄 Page 7: Found 50 items (50 new)
+[2025-10-18T02:40:43.984Z] 🆔 Sample IDs: 80, 195, 202, 2117, 2156
+[2025-10-18T02:40:43.984Z] 📊 Total unique cloth-feet: 350
+[2025-10-18T02:40:43.987Z] 💾 Saved 350 cloth-feet IDs to turtle_db/items-4.1.8.json
+[2025-10-18T02:40:45.547Z] 📄 Loading page 8 with fresh browser context: https://database.turtle-wow.org/?items=4.1.8#350+1
+[2025-10-18T02:40:49.546Z] 📄 Page 8: Found 12 items (12 new)
+[2025-10-18T02:40:49.547Z] 🆔 Sample IDs: 1374, 1427, 1495, 1764, 1772
+[2025-10-18T02:40:49.547Z] 📊 Total unique cloth-feet: 362
+[2025-10-18T02:40:49.552Z] 💾 Saved 362 cloth-feet IDs to turtle_db/items-4.1.8.json
+[2025-10-18T02:40:49.552Z] 🏁 Last page detected (12 < 50 items)
+[2025-10-18T02:40:51.058Z] 💾 Saved 362 cloth-feet IDs to turtle_db/items-4.1.8.json
+[2025-10-18T02:40:51.058Z] ✅ cloth-feet (4.1.8) extraction complete: 362 total IDs
+[2025-10-18T02:40:53.060Z] 
+🎯 Starting cloth-wrist (4.1.9) ID extraction
+[2025-10-18T02:40:53.061Z] 📊 Already have 0 cloth-wrist IDs
+[2025-10-18T02:40:53.061Z] 📖 Resuming from page 1
+[2025-10-18T02:40:53.062Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.1.9
+[2025-10-18T02:40:57.155Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T02:40:57.156Z] 🆔 Sample IDs: 16438, 16538, 16799, 16804, 16819
+[2025-10-18T02:40:57.156Z] 📊 Total unique cloth-wrist: 50
+[2025-10-18T02:40:57.160Z] 💾 Saved 50 cloth-wrist IDs to turtle_db/items-4.1.9.json
+[2025-10-18T02:40:58.702Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.1.9#50+1
+[2025-10-18T02:41:02.702Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-18T02:41:02.702Z] 🆔 Sample IDs: 1974, 9433, 11766, 11962, 12546
+[2025-10-18T02:41:02.702Z] 📊 Total unique cloth-wrist: 100
+[2025-10-18T02:41:02.704Z] 💾 Saved 100 cloth-wrist IDs to turtle_db/items-4.1.9.json
+[2025-10-18T02:41:04.265Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.1.9#100+1
+[2025-10-18T02:41:08.265Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-18T02:41:08.266Z] 🆔 Sample IDs: 1216, 1351, 2032, 3647, 4043
+[2025-10-18T02:41:08.266Z] 📊 Total unique cloth-wrist: 150
+[2025-10-18T02:41:08.269Z] 💾 Saved 150 cloth-wrist IDs to turtle_db/items-4.1.9.json
+[2025-10-18T02:41:09.828Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.1.9#150+1
+[2025-10-18T02:41:13.829Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-18T02:41:13.829Z] 🆔 Sample IDs: 3645, 4036, 4045, 4545, 4990
+[2025-10-18T02:41:13.830Z] 📊 Total unique cloth-wrist: 200
+[2025-10-18T02:41:13.834Z] 💾 Saved 200 cloth-wrist IDs to turtle_db/items-4.1.9.json
+[2025-10-18T02:41:15.395Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4.1.9#200+1
+[2025-10-18T02:41:19.394Z] 📄 Page 5: Found 50 items (50 new)
+[2025-10-18T02:41:19.394Z] 🆔 Sample IDs: 710, 1183, 2326, 3224, 3323
+[2025-10-18T02:41:19.395Z] 📊 Total unique cloth-wrist: 250
+[2025-10-18T02:41:19.398Z] 💾 Saved 250 cloth-wrist IDs to turtle_db/items-4.1.9.json
+[2025-10-18T02:41:20.949Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=4.1.9#250+1
+[2025-10-18T02:41:24.943Z] 📄 Page 6: Found 15 items (15 new)
+[2025-10-18T02:41:24.944Z] 🆔 Sample IDs: 3365, 3373, 3375, 3377, 3379
+[2025-10-18T02:41:24.944Z] 📊 Total unique cloth-wrist: 265
+[2025-10-18T02:41:24.948Z] 💾 Saved 265 cloth-wrist IDs to turtle_db/items-4.1.9.json
+[2025-10-18T02:41:24.948Z] 🏁 Last page detected (15 < 50 items)
+[2025-10-18T02:41:26.454Z] 💾 Saved 265 cloth-wrist IDs to turtle_db/items-4.1.9.json
+[2025-10-18T02:41:26.454Z] ✅ cloth-wrist (4.1.9) extraction complete: 265 total IDs
