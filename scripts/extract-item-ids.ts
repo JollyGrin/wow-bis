@@ -397,8 +397,9 @@ class ItemIdExtractor {
     let currentPage = progress.subcategories[subcategoryId]?.current_page || 0;
     let hasMore = true;
     let consecutiveEmptyPages = 0;
+    let consecutiveNoNewItems = 0;
 
-    while (hasMore && consecutiveEmptyPages < 3) {
+    while (hasMore && consecutiveEmptyPages < 3 && consecutiveNoNewItems < 10) {
       const success = await this.navigateToPage(subcategoryId, currentPage);
       if (!success) {
         this.log(
@@ -413,17 +414,27 @@ class ItemIdExtractor {
 
       if (pageIds.length === 0) {
         consecutiveEmptyPages++;
+        consecutiveNoNewItems++;
         this.log(
           `📄 Page ${currentPage + 1}: No items found (${consecutiveEmptyPages}/3 empty)`,
         );
       } else {
         consecutiveEmptyPages = 0;
         const newIds = pageIds.filter((id) => !allIds.includes(id));
-        allIds.push(...newIds);
-
-        this.log(
-          `📄 Page ${currentPage + 1}: Found ${pageIds.length} items (${newIds.length} new)`,
-        );
+        
+        if (newIds.length === 0) {
+          consecutiveNoNewItems++;
+          this.log(
+            `📄 Page ${currentPage + 1}: Found ${pageIds.length} items (0 new) - ${consecutiveNoNewItems}/10 consecutive pages with no new items`,
+          );
+        } else {
+          consecutiveNoNewItems = 0;
+          allIds.push(...newIds);
+          this.log(
+            `📄 Page ${currentPage + 1}: Found ${pageIds.length} items (${newIds.length} new)`,
+          );
+        }
+        
         this.log(`🆔 Sample IDs: ${pageIds.slice(0, 5).join(", ")}`);
         this.log(`📊 Total unique ${config.name}: ${allIds.length}`);
 
@@ -454,6 +465,12 @@ class ItemIdExtractor {
     if (consecutiveEmptyPages >= 3) {
       this.log(
         `🛑 Stopping after ${consecutiveEmptyPages} consecutive empty pages`,
+      );
+    }
+    
+    if (consecutiveNoNewItems >= 10) {
+      this.log(
+        `🛑 Stopping after ${consecutiveNoNewItems} consecutive pages with no new items (likely reached end of category)`,
       );
     }
 
