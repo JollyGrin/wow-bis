@@ -1,141 +1,1616 @@
-[2025-10-18T01:37:14.612Z] 🚀 Initializing browser with anti-detection...
-[2025-10-18T01:37:14.976Z] ✅ Browser initialized with stealth mode
-[2025-10-18T01:37:14.976Z] 
+[2025-10-18T02:04:15.580Z] 🚀 Initializing browser with anti-detection...
+[2025-10-18T02:04:15.962Z] ✅ Browser initialized with stealth mode
+[2025-10-18T02:04:15.963Z] 
 🚀 Starting Item ID Extraction
 
-[2025-10-18T01:37:14.976Z] 
-🎯 Starting weapons ID extraction
-[2025-10-18T01:37:14.976Z] 📊 Already have 0 weapons IDs
-[2025-10-18T01:37:14.976Z] 📖 Resuming from page 1
-[2025-10-18T01:37:14.976Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2
-[2025-10-18T01:37:18.982Z] 📄 Page 1: Found 50 items (50 new)
-[2025-10-18T01:37:18.982Z] 🆔 Sample IDs: 811, 868, 2801, 12592, 13262
-[2025-10-18T01:37:18.983Z] 📊 Total unique weapons: 50
-[2025-10-18T01:37:18.987Z] 💾 Saved 50 weapons IDs to turtle_db/weapons-ids.json
-[2025-10-18T01:37:20.547Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=2#50+1
-[2025-10-18T01:37:24.548Z] 📄 Page 2: Found 50 items (50 new)
-[2025-10-18T01:37:24.548Z] 🆔 Sample IDs: 647, 809, 869, 1263, 2825
-[2025-10-18T01:37:24.549Z] 📊 Total unique weapons: 100
-[2025-10-18T01:37:24.552Z] 💾 Saved 100 weapons IDs to turtle_db/weapons-ids.json
-[2025-10-18T01:37:26.104Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=2#100+1
-[2025-10-18T01:37:30.057Z] 📄 Page 3: Found 50 items (50 new)
-[2025-10-18T01:37:30.058Z] 🆔 Sample IDs: 812, 870, 871, 944, 2099
-[2025-10-18T01:37:30.059Z] 📊 Total unique weapons: 150
-[2025-10-18T01:37:30.061Z] 💾 Saved 150 weapons IDs to turtle_db/weapons-ids.json
-[2025-10-18T01:37:31.620Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=2#150+1
-[2025-10-18T01:37:35.621Z] 📄 Page 4: Found 50 items (50 new)
-[2025-10-18T01:37:35.622Z] 🆔 Sample IDs: 810, 2164, 2243, 2824, 8708
-[2025-10-18T01:37:35.622Z] 📊 Total unique weapons: 200
-[2025-10-18T01:37:35.625Z] 💾 Saved 200 weapons IDs to turtle_db/weapons-ids.json
-[2025-10-18T01:37:37.179Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=2#200+1
-[2025-10-18T01:37:41.180Z] 📄 Page 5: Found 50 items (50 new)
-[2025-10-18T01:37:41.180Z] 🆔 Sample IDs: 1982, 2244, 2291, 18715, 18816
-[2025-10-18T01:37:41.181Z] 📊 Total unique weapons: 250
-[2025-10-18T01:37:41.182Z] 💾 Saved 250 weapons IDs to turtle_db/weapons-ids.json
-[2025-10-18T01:37:42.741Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=2#250+1
-[2025-10-18T01:37:46.741Z] 📄 Page 6: Found 50 items (50 new)
-[2025-10-18T01:37:46.742Z] 🆔 Sample IDs: 873, 2100, 2163, 13505, 17074
-[2025-10-18T01:37:46.742Z] 📊 Total unique weapons: 300
-[2025-10-18T01:37:46.743Z] 💾 Saved 300 weapons IDs to turtle_db/weapons-ids.json
-[2025-10-18T01:37:48.297Z] 📄 Loading page 7 with fresh browser context: https://database.turtle-wow.org/?items=2#300+1
-[2025-10-18T01:37:52.296Z] 📄 Page 7: Found 50 items (50 new)
-[2025-10-18T01:37:52.297Z] 🆔 Sample IDs: 943, 1728, 2915, 9372, 17069
-[2025-10-18T01:37:52.297Z] 📊 Total unique weapons: 350
-[2025-10-18T01:37:52.300Z] 💾 Saved 350 weapons IDs to turtle_db/weapons-ids.json
-[2025-10-18T01:37:53.853Z] 📄 Loading page 8 with fresh browser context: https://database.turtle-wow.org/?items=2#350+1
-[2025-10-18T01:38:54.565Z] 🚀 Initializing browser with anti-detection...
-[2025-10-18T01:38:54.948Z] ✅ Browser initialized with stealth mode
-[2025-10-18T01:38:54.948Z] 
-🚀 Starting Item ID Extraction
-
-[2025-10-18T01:38:54.948Z] 
-🎯 Starting weapons ID extraction
-[2025-10-18T01:38:54.948Z] 📊 Already have 350 weapons IDs
-[2025-10-18T01:38:54.948Z] 📖 Resuming from page 7
-[2025-10-18T01:38:54.980Z] 📄 Loading page 7 with fresh browser context: https://database.turtle-wow.org/?items=2#300+1
-[2025-10-18T01:38:58.987Z] 📄 Page 7: Found 50 items (0 new)
-[2025-10-18T01:38:58.988Z] 🆔 Sample IDs: 943, 1728, 2915, 9372, 17069
-[2025-10-18T01:38:58.989Z] 📊 Total unique weapons: 350
-[2025-10-18T01:38:58.994Z] 💾 Saved 350 weapons IDs to turtle_db/weapons-ids.json
-[2025-10-18T01:39:00.554Z] 📄 Loading page 8 with fresh browser context: https://database.turtle-wow.org/?items=2#350+1
-[2025-10-18T01:39:04.557Z] 📄 Page 8: Found 50 items (50 new)
-[2025-10-18T01:39:04.558Z] 🆔 Sample IDs: 937, 1454, 1935, 2236, 2878
-[2025-10-18T01:39:04.559Z] 📊 Total unique weapons: 400
-[2025-10-18T01:39:04.562Z] 💾 Saved 400 weapons IDs to turtle_db/weapons-ids.json
-[2025-10-18T01:39:06.119Z] 📄 Loading page 9 with fresh browser context: https://database.turtle-wow.org/?items=2#400+1
-[2025-10-18T01:39:10.064Z] 📄 Page 9: Found 50 items (50 new)
-[2025-10-18T01:39:10.064Z] 🆔 Sample IDs: 1292, 2299, 5423, 6830, 7683
-[2025-10-18T01:39:10.065Z] 📊 Total unique weapons: 450
-[2025-10-18T01:39:10.072Z] 💾 Saved 450 weapons IDs to turtle_db/weapons-ids.json
-[2025-10-18T01:39:11.630Z] 📄 Loading page 10 with fresh browser context: https://database.turtle-wow.org/?items=2#450+1
-[2025-10-18T01:39:15.633Z] 📄 Page 10: Found 49 items (49 new)
-[2025-10-18T01:39:15.634Z] 🆔 Sample IDs: 2044, 2815, 2877, 2912, 3414
-[2025-10-18T01:39:15.634Z] 📊 Total unique weapons: 499
-[2025-10-18T01:39:15.640Z] 💾 Saved 499 weapons IDs to turtle_db/weapons-ids.json
-[2025-10-18T01:39:15.641Z] 🏁 Last page detected (49 < 50 items)
-[2025-10-18T01:39:17.150Z] 💾 Saved 499 weapons IDs to turtle_db/weapons-ids.json
-[2025-10-18T01:39:17.150Z] ✅ weapons extraction complete: 499 total IDs
-[2025-10-18T01:39:17.151Z] 
-🎯 Starting armor ID extraction
-[2025-10-18T01:39:17.151Z] 📊 Already have 0 armor IDs
-[2025-10-18T01:39:17.151Z] 📖 Resuming from page 1
-[2025-10-18T01:39:17.151Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4
-[2025-10-18T01:39:21.255Z] 📄 Page 1: Found 50 items (50 new)
-[2025-10-18T01:39:21.256Z] 🆔 Sample IDs: 13314, 16795, 16796, 16797, 16799
-[2025-10-18T01:39:21.257Z] 📊 Total unique armor: 50
-[2025-10-18T01:39:21.261Z] 💾 Saved 50 armor IDs to turtle_db/armor-ids.json
-[2025-10-18T01:39:22.821Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4#50+1
-[2025-10-18T01:39:26.823Z] 📄 Page 2: Found 50 items (50 new)
-[2025-10-18T01:39:26.823Z] 🆔 Sample IDs: 16798, 17063, 19138, 19376, 19403
-[2025-10-18T01:39:26.824Z] 📊 Total unique armor: 100
-[2025-10-18T01:39:26.828Z] 💾 Saved 100 armor IDs to turtle_db/armor-ids.json
-[2025-10-18T01:39:28.388Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4#100+1
-[2025-10-18T01:39:32.385Z] 📄 Page 3: Found 50 items (50 new)
-[2025-10-18T01:39:32.386Z] 🆔 Sample IDs: 1169, 14550, 16864, 16906, 16910
-[2025-10-18T01:39:32.387Z] 📊 Total unique armor: 150
-[2025-10-18T01:39:32.388Z] 💾 Saved 150 armor IDs to turtle_db/armor-ids.json
-[2025-10-18T01:39:33.945Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4#150+1
-[2025-10-18T01:39:37.946Z] 📄 Page 4: Found 50 items (50 new)
-[2025-10-18T01:39:37.947Z] 🆔 Sample IDs: 13353, 14549, 16811, 16832, 16905
-[2025-10-18T01:39:37.947Z] 📊 Total unique armor: 200
-[2025-10-18T01:39:37.949Z] 💾 Saved 200 armor IDs to turtle_db/armor-ids.json
-[2025-10-18T01:39:39.509Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4#200+1
-[2025-10-18T01:39:43.512Z] 📄 Page 5: Found 50 items (50 new)
-[2025-10-18T01:39:43.513Z] 🆔 Sample IDs: 12752, 12757, 16828, 16829, 16830
-[2025-10-18T01:39:43.513Z] 📊 Total unique armor: 250
-[2025-10-18T01:39:43.515Z] 💾 Saved 250 armor IDs to turtle_db/armor-ids.json
-[2025-10-18T01:39:45.078Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=4#250+1
-[2025-10-18T01:39:49.076Z] 📄 Page 6: Found 50 items (50 new)
-[2025-10-18T01:39:49.077Z] 🆔 Sample IDs: 11808, 12895, 16813, 16833, 16835
-[2025-10-18T01:39:49.077Z] 📊 Total unique armor: 300
-[2025-10-18T01:39:49.081Z] 💾 Saved 300 armor IDs to turtle_db/armor-ids.json
-[2025-10-18T01:39:50.643Z] 📄 Loading page 7 with fresh browser context: https://database.turtle-wow.org/?items=4#300+1
-[2025-10-18T01:39:54.648Z] 📄 Page 7: Found 50 items (50 new)
-[2025-10-18T01:39:54.649Z] 🆔 Sample IDs: 3475, 14554, 16982, 17102, 18806
-[2025-10-18T01:39:54.649Z] 📊 Total unique armor: 350
-[2025-10-18T01:39:54.653Z] 💾 Saved 350 armor IDs to turtle_db/armor-ids.json
-[2025-10-18T01:39:56.216Z] 📄 Loading page 8 with fresh browser context: https://database.turtle-wow.org/?items=4#350+1
-[2025-10-18T01:40:00.215Z] 📄 Page 8: Found 50 items (50 new)
-[2025-10-18T01:40:00.215Z] 🆔 Sample IDs: 17013, 17014, 18817, 19132, 19148
-[2025-10-18T01:40:00.216Z] 📊 Total unique armor: 400
-[2025-10-18T01:40:00.219Z] 💾 Saved 400 armor IDs to turtle_db/armor-ids.json
-[2025-10-18T01:40:01.780Z] 📄 Loading page 9 with fresh browser context: https://database.turtle-wow.org/?items=4#400+1
-[2025-10-18T01:40:05.785Z] 📄 Page 9: Found 50 items (50 new)
-[2025-10-18T01:40:05.786Z] 🆔 Sample IDs: 18829, 19290, 20068, 20158, 20175
-[2025-10-18T01:40:05.786Z] 📊 Total unique armor: 450
-[2025-10-18T01:40:05.791Z] 💾 Saved 450 armor IDs to turtle_db/armor-ids.json
-[2025-10-18T01:40:07.350Z] 📄 Loading page 10 with fresh browser context: https://database.turtle-wow.org/?items=4#450+1
-[2025-10-18T01:40:11.354Z] 📄 Page 10: Found 46 items (46 new)
-[2025-10-18T01:40:11.355Z] 🆔 Sample IDs: 16935, 16936, 16937, 16938, 16939
-[2025-10-18T01:40:11.355Z] 📊 Total unique armor: 496
-[2025-10-18T01:40:11.360Z] 💾 Saved 496 armor IDs to turtle_db/armor-ids.json
-[2025-10-18T01:40:11.360Z] 🏁 Last page detected (46 < 50 items)
-[2025-10-18T01:40:12.868Z] 💾 Saved 496 armor IDs to turtle_db/armor-ids.json
-[2025-10-18T01:40:12.869Z] ✅ armor extraction complete: 496 total IDs
-[2025-10-18T01:40:12.869Z] 
-🎉 ID extraction complete!
-[2025-10-18T01:40:12.870Z] 📊 Final counts:
-[2025-10-18T01:40:12.871Z]    Weapons: 350 IDs
-[2025-10-18T01:40:12.873Z]    Armor: 0 IDs
-[2025-10-18T01:40:12.873Z]    Total: 350 IDs
-[2025-10-18T01:40:12.944Z] 🔒 Browser closed
+[2025-10-18T02:04:15.963Z] 📋 Processing 55 subcategories:
+[2025-10-18T02:04:15.963Z]    ⏳ 1h-axes (2.0)
+[2025-10-18T02:04:15.963Z]    ⏳ 2h-axes (2.1)
+[2025-10-18T02:04:15.963Z]    ⏳ bows (2.2)
+[2025-10-18T02:04:15.963Z]    ⏳ guns (2.3)
+[2025-10-18T02:04:15.963Z]    ⏳ 1h-maces (2.4)
+[2025-10-18T02:04:15.963Z]    ⏳ 2h-maces (2.5)
+[2025-10-18T02:04:15.963Z]    ⏳ polearms (2.6)
+[2025-10-18T02:04:15.963Z]    ⏳ 1h-swords (2.7)
+[2025-10-18T02:04:15.963Z]    ⏳ 2h-swords (2.8)
+[2025-10-18T02:04:15.963Z]    ⏳ staves (2.10)
+[2025-10-18T02:04:15.963Z]    ⏳ fist (2.13)
+[2025-10-18T02:04:15.963Z]    ⏳ miscellaneous (2.14)
+[2025-10-18T02:04:15.963Z]    ⏳ daggers (2.15)
+[2025-10-18T02:04:15.963Z]    ⏳ thrown (2.16)
+[2025-10-18T02:04:15.964Z]    ⏳ spears (2.17)
+[2025-10-18T02:04:15.964Z]    ⏳ crossbows (2.18)
+[2025-10-18T02:04:15.964Z]    ⏳ wands (2.19)
+[2025-10-18T02:04:15.964Z]    ⏳ fishing-poles (2.20)
+[2025-10-18T02:04:15.964Z]    ⏳ amulets (4.0.2)
+[2025-10-18T02:04:15.964Z]    ⏳ rings (4.0.11)
+[2025-10-18T02:04:15.964Z]    ⏳ trinkets (4.0.12)
+[2025-10-18T02:04:15.964Z]    ⏳ cloaks (4.1.16)
+[2025-10-18T02:04:15.964Z]    ⏳ shields (4.6.14)
+[2025-10-18T02:04:15.964Z]    ⏳ cloth-head (4.1.1)
+[2025-10-18T02:04:15.964Z]    ⏳ cloth-shoulder (4.1.3)
+[2025-10-18T02:04:15.964Z]    ⏳ cloth-chest (4.1.5)
+[2025-10-18T02:04:15.964Z]    ⏳ cloth-waist (4.1.6)
+[2025-10-18T02:04:15.964Z]    ⏳ cloth-legs (4.1.7)
+[2025-10-18T02:04:15.964Z]    ⏳ cloth-feet (4.1.8)
+[2025-10-18T02:04:15.964Z]    ⏳ cloth-wrist (4.1.9)
+[2025-10-18T02:04:15.964Z]    ⏳ cloth-hands (4.1.10)
+[2025-10-18T02:04:15.964Z]    ⏳ leather-head (4.2.1)
+[2025-10-18T02:04:15.964Z]    ⏳ leather-shoulder (4.2.3)
+[2025-10-18T02:04:15.964Z]    ⏳ leather-chest (4.2.5)
+[2025-10-18T02:04:15.964Z]    ⏳ leather-waist (4.2.6)
+[2025-10-18T02:04:15.964Z]    ⏳ leather-legs (4.2.7)
+[2025-10-18T02:04:15.964Z]    ⏳ leather-feet (4.2.8)
+[2025-10-18T02:04:15.964Z]    ⏳ leather-wrist (4.2.9)
+[2025-10-18T02:04:15.964Z]    ⏳ leather-hands (4.2.10)
+[2025-10-18T02:04:15.964Z]    ⏳ mail-head (4.3.1)
+[2025-10-18T02:04:15.964Z]    ⏳ mail-shoulder (4.3.3)
+[2025-10-18T02:04:15.964Z]    ⏳ mail-chest (4.3.5)
+[2025-10-18T02:04:15.964Z]    ⏳ mail-waist (4.3.6)
+[2025-10-18T02:04:15.964Z]    ⏳ mail-legs (4.3.7)
+[2025-10-18T02:04:15.964Z]    ⏳ mail-feet (4.3.8)
+[2025-10-18T02:04:15.964Z]    ⏳ mail-wrist (4.3.9)
+[2025-10-18T02:04:15.964Z]    ⏳ mail-hands (4.3.10)
+[2025-10-18T02:04:15.964Z]    ⏳ plate-head (4.4.1)
+[2025-10-18T02:04:15.964Z]    ⏳ plate-shoulder (4.4.3)
+[2025-10-18T02:04:15.964Z]    ⏳ plate-chest (4.4.5)
+[2025-10-18T02:04:15.964Z]    ⏳ plate-waist (4.4.6)
+[2025-10-18T02:04:15.965Z]    ⏳ plate-legs (4.4.7)
+[2025-10-18T02:04:15.965Z]    ⏳ plate-feet (4.4.8)
+[2025-10-18T02:04:15.965Z]    ⏳ plate-wrist (4.4.9)
+[2025-10-18T02:04:15.965Z]    ⏳ plate-hands (4.4.10)
+[2025-10-18T02:04:15.965Z] 
+📊 Summary: Weapons 0/18, Armor 0/37
+[2025-10-18T02:04:15.965Z] 
+🎯 Starting 1h-axes (2.0) ID extraction
+[2025-10-18T02:04:15.965Z] 📊 Already have 0 1h-axes IDs
+[2025-10-18T02:04:15.965Z] 📖 Resuming from page 1
+[2025-10-18T02:04:15.965Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.0
+[2025-10-18T02:04:19.966Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T02:04:19.967Z] 🆔 Sample IDs: 811, 871, 1292, 1454, 1481
+[2025-10-18T02:04:19.967Z] 📊 Total unique 1h-axes: 50
+[2025-10-18T02:04:19.971Z] 💾 Saved 50 1h-axes IDs to turtle_db/items-2.0.json
+[2025-10-18T02:04:21.528Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=2.0#50+1
+[2025-10-18T02:04:25.524Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-18T02:04:25.525Z] 🆔 Sample IDs: 790, 826, 863, 885, 934
+[2025-10-18T02:04:25.525Z] 📊 Total unique 1h-axes: 100
+[2025-10-18T02:04:25.531Z] 💾 Saved 100 1h-axes IDs to turtle_db/items-2.0.json
+[2025-10-18T02:04:27.076Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=2.0#100+1
+[2025-10-18T02:04:31.081Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-18T02:04:31.082Z] 🆔 Sample IDs: 21, 927, 1459, 2029, 2047
+[2025-10-18T02:04:31.082Z] 📊 Total unique 1h-axes: 150
+[2025-10-18T02:04:31.088Z] 💾 Saved 150 1h-axes IDs to turtle_db/items-2.0.json
+[2025-10-18T02:04:32.647Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=2.0#150+1
+[2025-10-18T02:04:36.650Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-18T02:04:36.650Z] 🆔 Sample IDs: 20, 37, 768, 778, 853
+[2025-10-18T02:04:36.651Z] 📊 Total unique 1h-axes: 200
+[2025-10-18T02:04:36.656Z] 💾 Saved 200 1h-axes IDs to turtle_db/items-2.0.json
+[2025-10-18T02:04:38.217Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=2.0#200+1
+[2025-10-18T02:04:42.217Z] 📄 Page 5: Found 14 items (14 new)
+[2025-10-18T02:04:42.217Z] 🆔 Sample IDs: 1416, 1516, 1816, 1910, 5598
+[2025-10-18T02:04:42.218Z] 📊 Total unique 1h-axes: 214
+[2025-10-18T02:04:42.219Z] 💾 Saved 214 1h-axes IDs to turtle_db/items-2.0.json
+[2025-10-18T02:04:42.219Z] 🏁 Last page detected (14 < 50 items)
+[2025-10-18T02:04:43.725Z] 💾 Saved 214 1h-axes IDs to turtle_db/items-2.0.json
+[2025-10-18T02:04:43.725Z] ✅ 1h-axes (2.0) extraction complete: 214 total IDs
+[2025-10-18T02:04:45.726Z] 
+🎯 Starting 2h-axes (2.1) ID extraction
+[2025-10-18T02:04:45.727Z] 📊 Already have 0 2h-axes IDs
+[2025-10-18T02:04:45.728Z] 📖 Resuming from page 1
+[2025-10-18T02:04:45.728Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.1
+[2025-10-18T02:04:49.817Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T02:04:49.818Z] 🆔 Sample IDs: 870, 872, 1263, 1318, 2291
+[2025-10-18T02:04:49.818Z] 📊 Total unique 2h-axes: 50
+[2025-10-18T02:04:49.823Z] 💾 Saved 50 2h-axes IDs to turtle_db/items-2.1.json
+[2025-10-18T02:04:51.381Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=2.1#50+1
+[2025-10-18T02:04:55.385Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-18T02:04:55.386Z] 🆔 Sample IDs: 1220, 1455, 1521, 1639, 1680
+[2025-10-18T02:04:55.387Z] 📊 Total unique 2h-axes: 100
+[2025-10-18T02:04:55.391Z] 💾 Saved 100 2h-axes IDs to turtle_db/items-2.1.json
+[2025-10-18T02:04:56.952Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=2.1#100+1
+[2025-10-18T02:05:00.955Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-18T02:05:00.956Z] 🆔 Sample IDs: 756, 926, 1196, 1386, 1417
+[2025-10-18T02:05:00.957Z] 📊 Total unique 2h-axes: 150
+[2025-10-18T02:05:00.963Z] 💾 Saved 150 2h-axes IDs to turtle_db/items-2.1.json
+[2025-10-18T02:05:02.509Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=2.1#150+1
+[2025-10-18T02:05:06.513Z] 📄 Page 4: Found 18 items (18 new)
+[2025-10-18T02:05:06.514Z] 🆔 Sample IDs: 1812, 1824, 1828, 4020, 5287
+[2025-10-18T02:05:06.514Z] 📊 Total unique 2h-axes: 168
+[2025-10-18T02:05:06.519Z] 💾 Saved 168 2h-axes IDs to turtle_db/items-2.1.json
+[2025-10-18T02:05:06.519Z] 🏁 Last page detected (18 < 50 items)
+[2025-10-18T02:05:08.026Z] 💾 Saved 168 2h-axes IDs to turtle_db/items-2.1.json
+[2025-10-18T02:05:08.026Z] ✅ 2h-axes (2.1) extraction complete: 168 total IDs
+[2025-10-18T02:05:10.027Z] 
+🎯 Starting bows (2.2) ID extraction
+[2025-10-18T02:05:10.028Z] 📊 Already have 0 bows IDs
+[2025-10-18T02:05:10.028Z] 📖 Resuming from page 1
+[2025-10-18T02:05:10.028Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.2
+[2025-10-18T02:05:14.225Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T02:05:14.227Z] 🆔 Sample IDs: 2824, 2825, 3021, 6696, 9426
+[2025-10-18T02:05:14.227Z] 📊 Total unique bows: 50
+[2025-10-18T02:05:14.230Z] 💾 Saved 50 bows IDs to turtle_db/items-2.2.json
+[2025-10-18T02:05:15.792Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=2.2#50+1
+[2025-10-18T02:05:19.792Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-18T02:05:19.792Z] 🆔 Sample IDs: 2903, 3036, 3039, 3078, 3493
+[2025-10-18T02:05:19.793Z] 📊 Total unique bows: 100
+[2025-10-18T02:05:19.799Z] 💾 Saved 100 bows IDs to turtle_db/items-2.2.json
+[2025-10-18T02:05:21.360Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=2.2#100+1
+[2025-10-18T02:05:25.360Z] 📄 Page 3: Found 43 items (43 new)
+[2025-10-18T02:05:25.360Z] 🆔 Sample IDs: 2504, 2505, 2506, 2507, 2550
+[2025-10-18T02:05:25.361Z] 📊 Total unique bows: 143
+[2025-10-18T02:05:25.364Z] 💾 Saved 143 bows IDs to turtle_db/items-2.2.json
+[2025-10-18T02:05:25.364Z] 🏁 Last page detected (43 < 50 items)
+[2025-10-18T02:05:26.871Z] 💾 Saved 143 bows IDs to turtle_db/items-2.2.json
+[2025-10-18T02:05:26.871Z] ✅ bows (2.2) extraction complete: 143 total IDs
+[2025-10-18T02:05:28.874Z] 
+🎯 Starting guns (2.3) ID extraction
+[2025-10-18T02:05:28.875Z] 📊 Already have 0 guns IDs
+[2025-10-18T02:05:28.875Z] 📖 Resuming from page 1
+[2025-10-18T02:05:28.876Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.3
+[2025-10-18T02:05:32.967Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T02:05:32.968Z] 🆔 Sample IDs: 2098, 2099, 2100, 3041, 3042
+[2025-10-18T02:05:32.969Z] 📊 Total unique guns: 50
+[2025-10-18T02:05:32.973Z] 💾 Saved 50 guns IDs to turtle_db/items-2.3.json
+[2025-10-18T02:05:34.533Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=2.3#50+1
+[2025-10-18T02:05:38.533Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-18T02:05:38.534Z] 🆔 Sample IDs: 2508, 2511, 2904, 3023, 3024
+[2025-10-18T02:05:38.534Z] 📊 Total unique guns: 100
+[2025-10-18T02:05:38.539Z] 💾 Saved 100 guns IDs to turtle_db/items-2.3.json
+[2025-10-18T02:05:40.097Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=2.3#100+1
+[2025-10-18T02:05:44.101Z] 📄 Page 3: Found 22 items (22 new)
+[2025-10-18T02:05:44.102Z] 🆔 Sample IDs: 2509, 2510, 2552, 2774, 2778
+[2025-10-18T02:05:44.103Z] 📊 Total unique guns: 122
+[2025-10-18T02:05:44.108Z] 💾 Saved 122 guns IDs to turtle_db/items-2.3.json
+[2025-10-18T02:05:44.109Z] 🏁 Last page detected (22 < 50 items)
+[2025-10-18T02:05:45.618Z] 💾 Saved 122 guns IDs to turtle_db/items-2.3.json
+[2025-10-18T02:05:45.618Z] ✅ guns (2.3) extraction complete: 122 total IDs
+[2025-10-18T02:05:47.619Z] 
+🎯 Starting 1h-maces (2.4) ID extraction
+[2025-10-18T02:05:47.620Z] 📊 Already have 0 1h-maces IDs
+[2025-10-18T02:05:47.620Z] 📖 Resuming from page 1
+[2025-10-18T02:05:47.621Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.4
+[2025-10-18T02:05:51.713Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T02:05:51.714Z] 🆔 Sample IDs: 810, 868, 2243, 3414, 8708
+[2025-10-18T02:05:51.714Z] 📊 Total unique 1h-maces: 50
+[2025-10-18T02:05:51.720Z] 💾 Saved 50 1h-maces IDs to turtle_db/items-2.4.json
+[2025-10-18T02:05:53.279Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=2.4#50+1
+[2025-10-18T02:05:57.282Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-18T02:05:57.282Z] 🆔 Sample IDs: 936, 1483, 2194, 2816, 4090
+[2025-10-18T02:05:57.282Z] 📊 Total unique 1h-maces: 100
+[2025-10-18T02:05:57.286Z] 💾 Saved 100 1h-maces IDs to turtle_db/items-2.4.json
+[2025-10-18T02:05:58.842Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=2.4#100+1
+[2025-10-18T02:06:02.840Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-18T02:06:02.841Z] 🆔 Sample IDs: 1009, 1296, 1394, 1721, 1938
+[2025-10-18T02:06:02.841Z] 📊 Total unique 1h-maces: 150
+[2025-10-18T02:06:02.844Z] 💾 Saved 150 1h-maces IDs to turtle_db/items-2.4.json
+[2025-10-18T02:06:04.403Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=2.4#150+1
+[2025-10-18T02:06:08.404Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-18T02:06:08.405Z] 🆔 Sample IDs: 865, 1207, 1214, 1440, 1457
+[2025-10-18T02:06:08.406Z] 📊 Total unique 1h-maces: 200
+[2025-10-18T02:06:08.411Z] 💾 Saved 200 1h-maces IDs to turtle_db/items-2.4.json
+[2025-10-18T02:06:09.973Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=2.4#200+1
+[2025-10-18T02:06:13.971Z] 📄 Page 5: Found 50 items (50 new)
+[2025-10-18T02:06:13.972Z] 🆔 Sample IDs: 28, 766, 781, 789, 827
+[2025-10-18T02:06:13.973Z] 📊 Total unique 1h-maces: 250
+[2025-10-18T02:06:13.978Z] 💾 Saved 250 1h-maces IDs to turtle_db/items-2.4.json
+[2025-10-18T02:06:15.535Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=2.4#250+1
+[2025-10-18T02:06:19.538Z] 📄 Page 6: Found 50 items (50 new)
+[2025-10-18T02:06:19.539Z] 🆔 Sample IDs: 36, 1117, 1415, 1510, 1823
+[2025-10-18T02:06:19.539Z] 📊 Total unique 1h-maces: 300
+[2025-10-18T02:06:19.545Z] 💾 Saved 300 1h-maces IDs to turtle_db/items-2.4.json
+[2025-10-18T02:06:21.103Z] 📄 Loading page 7 with fresh browser context: https://database.turtle-wow.org/?items=2.4#300+1
+[2025-10-18T02:06:25.104Z] 📄 Page 7: Found 14 items (14 new)
+[2025-10-18T02:06:25.105Z] 🆔 Sample IDs: 1815, 1906, 1911, 2056, 3044
+[2025-10-18T02:06:25.105Z] 📊 Total unique 1h-maces: 314
+[2025-10-18T02:06:25.108Z] 💾 Saved 314 1h-maces IDs to turtle_db/items-2.4.json
+[2025-10-18T02:06:25.109Z] 🏁 Last page detected (14 < 50 items)
+[2025-10-18T02:06:26.615Z] 💾 Saved 314 1h-maces IDs to turtle_db/items-2.4.json
+[2025-10-18T02:06:26.616Z] ✅ 1h-maces (2.4) extraction complete: 314 total IDs
+[2025-10-18T02:06:28.618Z] 
+🎯 Starting 2h-maces (2.5) ID extraction
+[2025-10-18T02:06:28.618Z] 📊 Already have 0 2h-maces IDs
+[2025-10-18T02:06:28.619Z] 📖 Resuming from page 1
+[2025-10-18T02:06:28.619Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.5
+[2025-10-18T02:06:32.712Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T02:06:32.712Z] 🆔 Sample IDs: 2915, 3194, 3203, 7730, 11608
+[2025-10-18T02:06:32.713Z] 📊 Total unique 2h-maces: 50
+[2025-10-18T02:06:32.717Z] 💾 Saved 50 2h-maces IDs to turtle_db/items-2.5.json
+[2025-10-18T02:06:34.276Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=2.5#50+1
+[2025-10-18T02:06:38.278Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-18T02:06:38.279Z] 🆔 Sample IDs: 1722, 1976, 1990, 3103, 3198
+[2025-10-18T02:06:38.280Z] 📊 Total unique 2h-maces: 100
+[2025-10-18T02:06:38.284Z] 💾 Saved 100 2h-maces IDs to turtle_db/items-2.5.json
+[2025-10-18T02:06:39.845Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=2.5#100+1
+[2025-10-18T02:06:43.845Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-18T02:06:43.845Z] 🆔 Sample IDs: 911, 1195, 1197, 1218, 1264
+[2025-10-18T02:06:43.846Z] 📊 Total unique 2h-maces: 150
+[2025-10-18T02:06:43.850Z] 💾 Saved 150 2h-maces IDs to turtle_db/items-2.5.json
+[2025-10-18T02:06:45.412Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=2.5#150+1
+[2025-10-18T02:06:49.411Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-18T02:06:49.412Z] 🆔 Sample IDs: 924, 1414, 1514, 1814, 1820
+[2025-10-18T02:06:49.412Z] 📊 Total unique 2h-maces: 200
+[2025-10-18T02:06:49.417Z] 💾 Saved 200 2h-maces IDs to turtle_db/items-2.5.json
+[2025-10-18T02:06:50.975Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=2.5#200+1
+[2025-10-18T02:06:54.977Z] 📄 Page 5: Found 3 items (3 new)
+[2025-10-18T02:06:54.978Z] 🆔 Sample IDs: 36011, 36012, 36013
+[2025-10-18T02:06:54.979Z] 📊 Total unique 2h-maces: 203
+[2025-10-18T02:06:54.983Z] 💾 Saved 203 2h-maces IDs to turtle_db/items-2.5.json
+[2025-10-18T02:06:54.984Z] 🏁 Last page detected (3 < 50 items)
+[2025-10-18T02:06:56.490Z] 💾 Saved 203 2h-maces IDs to turtle_db/items-2.5.json
+[2025-10-18T02:06:56.490Z] ✅ 2h-maces (2.5) extraction complete: 203 total IDs
+[2025-10-18T02:06:58.492Z] 
+🎯 Starting polearms (2.6) ID extraction
+[2025-10-18T02:06:58.493Z] 📊 Already have 0 polearms IDs
+[2025-10-18T02:06:58.494Z] 📖 Resuming from page 1
+[2025-10-18T02:06:58.494Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.6
+[2025-10-18T02:07:02.582Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T02:07:02.583Z] 🆔 Sample IDs: 1726, 7758, 7959, 9416, 9475
+[2025-10-18T02:07:02.583Z] 📊 Total unique polearms: 50
+[2025-10-18T02:07:02.588Z] 💾 Saved 50 polearms IDs to turtle_db/items-2.6.json
+[2025-10-18T02:07:04.147Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=2.6#50+1
+[2025-10-18T02:07:08.147Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-18T02:07:08.148Z] 🆔 Sample IDs: 1406, 1485, 1522, 2023, 3346
+[2025-10-18T02:07:08.149Z] 📊 Total unique polearms: 100
+[2025-10-18T02:07:08.153Z] 💾 Saved 100 polearms IDs to turtle_db/items-2.6.json
+[2025-10-18T02:07:09.714Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=2.6#100+1
+[2025-10-18T02:07:13.713Z] 📄 Page 3: Found 1 items (1 new)
+[2025-10-18T02:07:13.714Z] 🆔 Sample IDs: 80814
+[2025-10-18T02:07:13.715Z] 📊 Total unique polearms: 101
+[2025-10-18T02:07:13.720Z] 💾 Saved 101 polearms IDs to turtle_db/items-2.6.json
+[2025-10-18T02:07:13.720Z] 🏁 Last page detected (1 < 50 items)
+[2025-10-18T02:07:15.226Z] 💾 Saved 101 polearms IDs to turtle_db/items-2.6.json
+[2025-10-18T02:07:15.226Z] ✅ polearms (2.6) extraction complete: 101 total IDs
+[2025-10-18T02:07:17.227Z] 
+🎯 Starting 1h-swords (2.7) ID extraction
+[2025-10-18T02:07:17.228Z] 📊 Already have 0 1h-swords IDs
+[2025-10-18T02:07:17.228Z] 📖 Resuming from page 1
+[2025-10-18T02:07:17.228Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.7
+[2025-10-18T02:07:21.314Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T02:07:21.315Z] 🆔 Sample IDs: 809, 869, 1728, 2244, 9392
+[2025-10-18T02:07:21.315Z] 📊 Total unique 1h-swords: 50
+[2025-10-18T02:07:21.318Z] 💾 Saved 50 1h-swords IDs to turtle_db/items-2.7.json
+[2025-10-18T02:07:22.879Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=2.7#50+1
+[2025-10-18T02:07:26.880Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-18T02:07:26.880Z] 🆔 Sample IDs: 1493, 5191, 8190, 8223, 9380
+[2025-10-18T02:07:26.881Z] 📊 Total unique 1h-swords: 100
+[2025-10-18T02:07:26.883Z] 💾 Saved 100 1h-swords IDs to turtle_db/items-2.7.json
+[2025-10-18T02:07:28.441Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=2.7#100+1
+[2025-10-18T02:07:32.441Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-18T02:07:32.442Z] 🆔 Sample IDs: 754, 935, 1265, 1482, 1727
+[2025-10-18T02:07:32.442Z] 📊 Total unique 1h-swords: 150
+[2025-10-18T02:07:32.446Z] 💾 Saved 150 1h-swords IDs to turtle_db/items-2.7.json
+[2025-10-18T02:07:34.006Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=2.7#150+1
+[2025-10-18T02:07:38.006Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-18T02:07:38.007Z] 🆔 Sample IDs: 753, 864, 886, 1925, 1937
+[2025-10-18T02:07:38.007Z] 📊 Total unique 1h-swords: 200
+[2025-10-18T02:07:38.013Z] 💾 Saved 200 1h-swords IDs to turtle_db/items-2.7.json
+[2025-10-18T02:07:39.573Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=2.7#200+1
+[2025-10-18T02:07:43.573Z] 📄 Page 5: Found 50 items (50 new)
+[2025-10-18T02:07:43.574Z] 🆔 Sample IDs: 727, 851, 997, 1219, 1384
+[2025-10-18T02:07:43.575Z] 📊 Total unique 1h-swords: 250
+[2025-10-18T02:07:43.578Z] 💾 Saved 250 1h-swords IDs to turtle_db/items-2.7.json
+[2025-10-18T02:07:45.138Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=2.7#250+1
+[2025-10-18T02:07:49.139Z] 📄 Page 6: Found 50 items (50 new)
+[2025-10-18T02:07:49.140Z] 🆔 Sample IDs: 25, 923, 945, 948, 1008
+[2025-10-18T02:07:49.140Z] 📊 Total unique 1h-swords: 300
+[2025-10-18T02:07:49.144Z] 💾 Saved 300 1h-swords IDs to turtle_db/items-2.7.json
+[2025-10-18T02:07:50.695Z] 📄 Loading page 7 with fresh browser context: https://database.turtle-wow.org/?items=2.7#300+1
+[2025-10-18T02:07:54.694Z] 📄 Page 7: Found 40 items (40 new)
+[2025-10-18T02:07:54.695Z] 🆔 Sample IDs: 1817, 1821, 1829, 1895, 1896
+[2025-10-18T02:07:54.695Z] 📊 Total unique 1h-swords: 340
+[2025-10-18T02:07:54.699Z] 💾 Saved 340 1h-swords IDs to turtle_db/items-2.7.json
+[2025-10-18T02:07:54.699Z] 🏁 Last page detected (40 < 50 items)
+[2025-10-18T02:07:56.205Z] 💾 Saved 340 1h-swords IDs to turtle_db/items-2.7.json
+[2025-10-18T02:07:56.205Z] ✅ 1h-swords (2.7) extraction complete: 340 total IDs
+[2025-10-18T02:07:58.207Z] 
+🎯 Starting 2h-swords (2.8) ID extraction
+[2025-10-18T02:07:58.208Z] 📊 Already have 0 2h-swords IDs
+[2025-10-18T02:07:58.208Z] 📖 Resuming from page 1
+[2025-10-18T02:07:58.209Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.8
+[2025-10-18T02:08:01.856Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T02:08:01.857Z] 🆔 Sample IDs: 647, 1982, 2205, 2801, 2877
+[2025-10-18T02:08:01.857Z] 📊 Total unique 2h-swords: 50
+[2025-10-18T02:08:01.863Z] 💾 Saved 50 2h-swords IDs to turtle_db/items-2.8.json
+[2025-10-18T02:08:03.423Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=2.8#50+1
+[2025-10-18T02:08:07.424Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-18T02:08:07.424Z] 🆔 Sample IDs: 1460, 1566, 1604, 1625, 1975
+[2025-10-18T02:08:07.425Z] 📊 Total unique 2h-swords: 100
+[2025-10-18T02:08:07.429Z] 💾 Saved 100 2h-swords IDs to turtle_db/items-2.8.json
+[2025-10-18T02:08:08.987Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=2.8#100+1
+[2025-10-18T02:08:12.988Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-18T02:08:12.992Z] 🆔 Sample IDs: 913, 922, 1194, 1198, 1387
+[2025-10-18T02:08:12.992Z] 📊 Total unique 2h-swords: 150
+[2025-10-18T02:08:12.997Z] 💾 Saved 150 2h-swords IDs to turtle_db/items-2.8.json
+[2025-10-18T02:08:14.557Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=2.8#150+1
+[2025-10-18T02:08:18.557Z] 📄 Page 4: Found 46 items (46 new)
+[2025-10-18T02:08:18.558Z] 🆔 Sample IDs: 1412, 1513, 1811, 1818, 1830
+[2025-10-18T02:08:18.559Z] 📊 Total unique 2h-swords: 196
+[2025-10-18T02:08:18.562Z] 💾 Saved 196 2h-swords IDs to turtle_db/items-2.8.json
+[2025-10-18T02:08:18.563Z] 🏁 Last page detected (46 < 50 items)
+[2025-10-18T02:08:20.069Z] 💾 Saved 196 2h-swords IDs to turtle_db/items-2.8.json
+[2025-10-18T02:08:20.069Z] ✅ 2h-swords (2.8) extraction complete: 196 total IDs
+[2025-10-18T02:08:22.072Z] 
+🎯 Starting staves (2.10) ID extraction
+[2025-10-18T02:08:22.073Z] 📊 Already have 0 staves IDs
+[2025-10-18T02:08:22.073Z] 📖 Resuming from page 1
+[2025-10-18T02:08:22.074Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.10
+[2025-10-18T02:08:26.163Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T02:08:26.163Z] 🆔 Sample IDs: 812, 873, 943, 944, 13249
+[2025-10-18T02:08:26.164Z] 📊 Total unique staves: 50
+[2025-10-18T02:08:26.167Z] 💾 Saved 50 staves IDs to turtle_db/items-2.10.json
+[2025-10-18T02:08:27.714Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=2.10#50+1
+[2025-10-18T02:08:31.713Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-18T02:08:31.714Z] 🆔 Sample IDs: 791, 937, 4134, 5201, 6318
+[2025-10-18T02:08:31.714Z] 📊 Total unique staves: 100
+[2025-10-18T02:08:31.718Z] 💾 Saved 100 staves IDs to turtle_db/items-2.10.json
+[2025-10-18T02:08:33.267Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=2.10#100+1
+[2025-10-18T02:08:37.265Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-18T02:08:37.265Z] 🆔 Sample IDs: 890, 1155, 1484, 1607, 1720
+[2025-10-18T02:08:37.265Z] 📊 Total unique staves: 150
+[2025-10-18T02:08:37.267Z] 💾 Saved 150 staves IDs to turtle_db/items-2.10.json
+[2025-10-18T02:08:38.829Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=2.10#150+1
+[2025-10-18T02:08:42.829Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-18T02:08:42.830Z] 🆔 Sample IDs: 866, 1300, 1317, 1391, 1405
+[2025-10-18T02:08:42.831Z] 📊 Total unique staves: 200
+[2025-10-18T02:08:42.835Z] 💾 Saved 200 staves IDs to turtle_db/items-2.10.json
+[2025-10-18T02:08:44.395Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=2.10#200+1
+[2025-10-18T02:08:48.394Z] 📄 Page 5: Found 50 items (50 new)
+[2025-10-18T02:08:48.395Z] 🆔 Sample IDs: 35, 880, 1388, 1473, 1613
+[2025-10-18T02:08:48.396Z] 📊 Total unique staves: 250
+[2025-10-18T02:08:48.400Z] 💾 Saved 250 staves IDs to turtle_db/items-2.10.json
+[2025-10-18T02:08:49.947Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=2.10#250+1
+[2025-10-18T02:08:53.947Z] 📄 Page 6: Found 50 items (50 new)
+[2025-10-18T02:08:53.949Z] 🆔 Sample IDs: 10, 26, 767, 854, 928
+[2025-10-18T02:08:53.949Z] 📊 Total unique staves: 300
+[2025-10-18T02:08:53.954Z] 💾 Saved 300 staves IDs to turtle_db/items-2.10.json
+[2025-10-18T02:08:55.515Z] 📄 Loading page 7 with fresh browser context: https://database.turtle-wow.org/?items=2.10#300+1
+[2025-10-18T02:08:59.516Z] 📄 Page 7: Found 47 items (47 new)
+[2025-10-18T02:08:59.516Z] 🆔 Sample IDs: 1411, 1515, 1831, 2176, 2177
+[2025-10-18T02:08:59.517Z] 📊 Total unique staves: 347
+[2025-10-18T02:08:59.520Z] 💾 Saved 347 staves IDs to turtle_db/items-2.10.json
+[2025-10-18T02:08:59.520Z] 🏁 Last page detected (47 < 50 items)
+[2025-10-18T02:09:01.024Z] 💾 Saved 347 staves IDs to turtle_db/items-2.10.json
+[2025-10-18T02:09:01.025Z] ✅ staves (2.10) extraction complete: 347 total IDs
+[2025-10-18T02:09:03.026Z] 
+🎯 Starting fist (2.13) ID extraction
+[2025-10-18T02:09:03.027Z] 📊 Already have 0 fist IDs
+[2025-10-18T02:09:03.027Z] 📖 Resuming from page 1
+[2025-10-18T02:09:03.027Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.13
+[2025-10-18T02:09:07.102Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T02:09:07.102Z] 🆔 Sample IDs: 2942, 7683, 11603, 11744, 12795
+[2025-10-18T02:09:07.102Z] 📊 Total unique fist: 50
+[2025-10-18T02:09:07.105Z] 💾 Saved 50 fist IDs to turtle_db/items-2.13.json
+[2025-10-18T02:09:08.653Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=2.13#50+1
+[2025-10-18T02:09:12.649Z] 📄 Page 2: Found 24 items (24 new)
+[2025-10-18T02:09:12.650Z] 🆔 Sample IDs: 3494, 5600, 11314, 11505, 11506
+[2025-10-18T02:09:12.650Z] 📊 Total unique fist: 74
+[2025-10-18T02:09:12.653Z] 💾 Saved 74 fist IDs to turtle_db/items-2.13.json
+[2025-10-18T02:09:12.653Z] 🏁 Last page detected (24 < 50 items)
+[2025-10-18T02:09:14.158Z] 💾 Saved 74 fist IDs to turtle_db/items-2.13.json
+[2025-10-18T02:09:14.158Z] ✅ fist (2.13) extraction complete: 74 total IDs
+[2025-10-18T02:09:16.159Z] 
+🎯 Starting miscellaneous (2.14) ID extraction
+[2025-10-18T02:09:16.160Z] 📊 Already have 0 miscellaneous IDs
+[2025-10-18T02:09:16.160Z] 📖 Resuming from page 1
+[2025-10-18T02:09:16.160Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.14
+[2025-10-18T02:09:20.240Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T02:09:20.241Z] 🆔 Sample IDs: 2706, 2708, 2709, 2710, 2716
+[2025-10-18T02:09:20.241Z] 📊 Total unique miscellaneous: 50
+[2025-10-18T02:09:20.245Z] 💾 Saved 50 miscellaneous IDs to turtle_db/items-2.14.json
+[2025-10-18T02:09:21.815Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=2.14#50+1
+[2025-10-18T02:09:25.807Z] 📄 Page 2: Found 32 items (32 new)
+[2025-10-18T02:09:25.808Z] 🆔 Sample IDs: 2198, 2199, 2200, 2201, 2703
+[2025-10-18T02:09:25.808Z] 📊 Total unique miscellaneous: 82
+[2025-10-18T02:09:25.811Z] 💾 Saved 82 miscellaneous IDs to turtle_db/items-2.14.json
+[2025-10-18T02:09:25.811Z] 🏁 Last page detected (32 < 50 items)
+[2025-10-18T02:09:27.315Z] 💾 Saved 82 miscellaneous IDs to turtle_db/items-2.14.json
+[2025-10-18T02:09:27.315Z] ✅ miscellaneous (2.14) extraction complete: 82 total IDs
+[2025-10-18T02:09:29.316Z] 
+🎯 Starting daggers (2.15) ID extraction
+[2025-10-18T02:09:29.316Z] 📊 Already have 0 daggers IDs
+[2025-10-18T02:09:29.317Z] 📖 Resuming from page 1
+[2025-10-18T02:09:29.317Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.15
+[2025-10-18T02:09:33.393Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T02:09:33.393Z] 🆔 Sample IDs: 1935, 2163, 2164, 2236, 4446
+[2025-10-18T02:09:33.394Z] 📊 Total unique daggers: 50
+[2025-10-18T02:09:33.396Z] 💾 Saved 50 daggers IDs to turtle_db/items-2.15.json
+[2025-10-18T02:09:34.941Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=2.15#50+1
+[2025-10-18T02:09:38.939Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-18T02:09:38.939Z] 🆔 Sample IDs: 2567, 2912, 2941, 3413, 5616
+[2025-10-18T02:09:38.940Z] 📊 Total unique daggers: 100
+[2025-10-18T02:09:38.942Z] 💾 Saved 100 daggers IDs to turtle_db/items-2.15.json
+[2025-10-18T02:09:40.488Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=2.15#100+1
+[2025-10-18T02:09:44.488Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-18T02:09:44.489Z] 🆔 Sample IDs: 776, 4091, 4454, 5267, 5756
+[2025-10-18T02:09:44.489Z] 📊 Total unique daggers: 150
+[2025-10-18T02:09:44.492Z] 💾 Saved 150 daggers IDs to turtle_db/items-2.15.json
+[2025-10-18T02:09:46.054Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=2.15#150+1
+[2025-10-18T02:09:50.053Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-18T02:09:50.054Z] 🆔 Sample IDs: 1287, 1936, 2020, 2140, 2218
+[2025-10-18T02:09:50.055Z] 📊 Total unique daggers: 200
+[2025-10-18T02:09:50.058Z] 💾 Saved 200 daggers IDs to turtle_db/items-2.15.json
+[2025-10-18T02:09:51.617Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=2.15#200+1
+[2025-10-18T02:09:55.617Z] 📄 Page 5: Found 50 items (50 new)
+[2025-10-18T02:09:55.618Z] 🆔 Sample IDs: 816, 820, 899, 1465, 1917
+[2025-10-18T02:09:55.618Z] 📊 Total unique daggers: 250
+[2025-10-18T02:09:55.622Z] 💾 Saved 250 daggers IDs to turtle_db/items-2.15.json
+[2025-10-18T02:09:57.181Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=2.15#250+1
+[2025-10-18T02:10:01.179Z] 📄 Page 6: Found 50 items (50 new)
+[2025-10-18T02:10:01.179Z] 🆔 Sample IDs: 27, 2092, 2137, 2139, 2184
+[2025-10-18T02:10:01.179Z] 📊 Total unique daggers: 300
+[2025-10-18T02:10:01.182Z] 💾 Saved 300 daggers IDs to turtle_db/items-2.15.json
+[2025-10-18T02:10:02.749Z] 📄 Loading page 7 with fresh browser context: https://database.turtle-wow.org/?items=2.15#300+1
+[2025-10-18T02:10:06.745Z] 📄 Page 7: Found 18 items (18 new)
+[2025-10-18T02:10:06.746Z] 🆔 Sample IDs: 2138, 2764, 3786, 5280, 5282
+[2025-10-18T02:10:06.746Z] 📊 Total unique daggers: 318
+[2025-10-18T02:10:06.749Z] 💾 Saved 318 daggers IDs to turtle_db/items-2.15.json
+[2025-10-18T02:10:06.750Z] 🏁 Last page detected (18 < 50 items)
+[2025-10-18T02:10:08.254Z] 💾 Saved 318 daggers IDs to turtle_db/items-2.15.json
+[2025-10-18T02:10:08.255Z] ✅ daggers (2.15) extraction complete: 318 total IDs
+[2025-10-18T02:10:10.257Z] 
+🎯 Starting thrown (2.16) ID extraction
+[2025-10-18T02:10:10.258Z] 📊 Already have 0 thrown IDs
+[2025-10-18T02:10:10.258Z] 📖 Resuming from page 1
+[2025-10-18T02:10:10.258Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.16
+[2025-10-18T02:10:14.345Z] 📄 Page 1: Found 28 items (28 new)
+[2025-10-18T02:10:14.346Z] 🆔 Sample IDs: 2946, 2947, 3107, 3108, 3111
+[2025-10-18T02:10:14.346Z] 📊 Total unique thrown: 28
+[2025-10-18T02:10:14.349Z] 💾 Saved 28 thrown IDs to turtle_db/items-2.16.json
+[2025-10-18T02:10:14.349Z] 🏁 Last page detected (28 < 50 items)
+[2025-10-18T02:10:15.854Z] 💾 Saved 28 thrown IDs to turtle_db/items-2.16.json
+[2025-10-18T02:10:15.854Z] ✅ thrown (2.16) extraction complete: 28 total IDs
+[2025-10-18T02:10:17.855Z] 
+🎯 Starting spears (2.17) ID extraction
+[2025-10-18T02:10:17.855Z] 📊 Already have 0 spears IDs
+[2025-10-18T02:10:17.855Z] 📖 Resuming from page 1
+[2025-10-18T02:10:17.856Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.17
+[2025-10-18T02:10:21.933Z] 📄 Page 1: Found 2 items (2 new)
+[2025-10-18T02:10:21.934Z] 🆔 Sample IDs: 12986, 51812
+[2025-10-18T02:10:21.935Z] 📊 Total unique spears: 2
+[2025-10-18T02:10:21.937Z] 💾 Saved 2 spears IDs to turtle_db/items-2.17.json
+[2025-10-18T02:10:21.937Z] 🏁 Last page detected (2 < 50 items)
+[2025-10-18T02:10:23.444Z] 💾 Saved 2 spears IDs to turtle_db/items-2.17.json
+[2025-10-18T02:10:23.444Z] ✅ spears (2.17) extraction complete: 2 total IDs
+[2025-10-18T02:10:25.445Z] 
+🎯 Starting crossbows (2.18) ID extraction
+[2025-10-18T02:10:25.446Z] 📊 Already have 0 crossbows IDs
+[2025-10-18T02:10:25.446Z] 📖 Resuming from page 1
+[2025-10-18T02:10:25.446Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.18
+[2025-10-18T02:10:29.378Z] 📄 Page 1: Found 32 items (32 new)
+[2025-10-18T02:10:29.379Z] 🆔 Sample IDs: 2551, 6315, 12651, 13037, 13038
+[2025-10-18T02:10:29.379Z] 📊 Total unique crossbows: 32
+[2025-10-18T02:10:29.381Z] 💾 Saved 32 crossbows IDs to turtle_db/items-2.18.json
+[2025-10-18T02:10:29.381Z] 🏁 Last page detected (32 < 50 items)
+[2025-10-18T02:10:30.886Z] 💾 Saved 32 crossbows IDs to turtle_db/items-2.18.json
+[2025-10-18T02:10:30.886Z] ✅ crossbows (2.18) extraction complete: 32 total IDs
+[2025-10-18T02:10:32.887Z] 
+🎯 Starting wands (2.19) ID extraction
+[2025-10-18T02:10:32.887Z] 📊 Already have 0 wands IDs
+[2025-10-18T02:10:32.888Z] 📖 Resuming from page 1
+[2025-10-18T02:10:32.888Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.19
+[2025-10-18T02:10:36.633Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T02:10:36.633Z] 🆔 Sample IDs: 5198, 5243, 6806, 7001, 7513
+[2025-10-18T02:10:36.633Z] 📊 Total unique wands: 50
+[2025-10-18T02:10:36.636Z] 💾 Saved 50 wands IDs to turtle_db/items-2.19.json
+[2025-10-18T02:10:38.197Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=2.19#50+1
+[2025-10-18T02:10:42.193Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-18T02:10:42.194Z] 🆔 Sample IDs: 5069, 5212, 5215, 5241, 5242
+[2025-10-18T02:10:42.194Z] 📊 Total unique wands: 100
+[2025-10-18T02:10:42.208Z] 💾 Saved 100 wands IDs to turtle_db/items-2.19.json
+[2025-10-18T02:10:43.754Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=2.19#100+1
+[2025-10-18T02:10:47.752Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-18T02:10:47.752Z] 🆔 Sample IDs: 4547, 5071, 5092, 5207, 5208
+[2025-10-18T02:10:47.753Z] 📊 Total unique wands: 150
+[2025-10-18T02:10:47.755Z] 💾 Saved 150 wands IDs to turtle_db/items-2.19.json
+[2025-10-18T02:10:49.300Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=2.19#150+1
+[2025-10-18T02:10:53.296Z] 📄 Page 4: Found 7 items (7 new)
+[2025-10-18T02:10:53.297Z] 🆔 Sample IDs: 6231, 12941, 13290, 13291, 13292
+[2025-10-18T02:10:53.297Z] 📊 Total unique wands: 157
+[2025-10-18T02:10:53.299Z] 💾 Saved 157 wands IDs to turtle_db/items-2.19.json
+[2025-10-18T02:10:53.300Z] 🏁 Last page detected (7 < 50 items)
+[2025-10-18T02:10:54.804Z] 💾 Saved 157 wands IDs to turtle_db/items-2.19.json
+[2025-10-18T02:10:54.804Z] ✅ wands (2.19) extraction complete: 157 total IDs
+[2025-10-18T02:10:56.805Z] 
+🎯 Starting fishing-poles (2.20) ID extraction
+[2025-10-18T02:10:56.805Z] 📊 Already have 0 fishing-poles IDs
+[2025-10-18T02:10:56.805Z] 📖 Resuming from page 1
+[2025-10-18T02:10:56.806Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2.20
+[2025-10-18T02:11:00.899Z] 📄 Page 1: Found 9 items (9 new)
+[2025-10-18T02:11:00.899Z] 🆔 Sample IDs: 6256, 6365, 6366, 6367, 7010
+[2025-10-18T02:11:00.900Z] 📊 Total unique fishing-poles: 9
+[2025-10-18T02:11:00.902Z] 💾 Saved 9 fishing-poles IDs to turtle_db/items-2.20.json
+[2025-10-18T02:11:00.902Z] 🏁 Last page detected (9 < 50 items)
+[2025-10-18T02:11:02.407Z] 💾 Saved 9 fishing-poles IDs to turtle_db/items-2.20.json
+[2025-10-18T02:11:02.408Z] ✅ fishing-poles (2.20) extraction complete: 9 total IDs
+[2025-10-18T02:11:04.409Z] 
+🎯 Starting amulets (4.0.2) ID extraction
+[2025-10-18T02:11:04.409Z] 📊 Already have 0 amulets IDs
+[2025-10-18T02:11:04.409Z] 📖 Resuming from page 1
+[2025-10-18T02:11:04.410Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.0.2
+[2025-10-18T02:11:08.487Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T02:11:08.487Z] 🆔 Sample IDs: 1315, 1443, 14558, 17109, 17111
+[2025-10-18T02:11:08.487Z] 📊 Total unique amulets: 50
+[2025-10-18T02:11:08.492Z] 💾 Saved 50 amulets IDs to turtle_db/items-4.0.2.json
+[2025-10-18T02:11:10.042Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.0.2#50+1
+[2025-10-18T02:11:14.037Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-18T02:11:14.038Z] 🆔 Sample IDs: 17065, 18404, 19371, 19377, 19383
+[2025-10-18T02:11:14.038Z] 📊 Total unique amulets: 100
+[2025-10-18T02:11:14.041Z] 💾 Saved 100 amulets IDs to turtle_db/items-4.0.2.json
+[2025-10-18T02:11:15.588Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.0.2#100+1
+[2025-10-18T02:11:19.585Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-18T02:11:19.586Z] 🆔 Sample IDs: 9417, 10711, 10824, 10829, 12059
+[2025-10-18T02:11:19.586Z] 📊 Total unique amulets: 150
+[2025-10-18T02:11:19.589Z] 💾 Saved 150 amulets IDs to turtle_db/items-4.0.2.json
+[2025-10-18T02:11:21.133Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.0.2#150+1
+[2025-10-18T02:11:25.132Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-18T02:11:25.132Z] 🆔 Sample IDs: 1714, 6723, 7731, 7888, 9641
+[2025-10-18T02:11:25.132Z] 📊 Total unique amulets: 200
+[2025-10-18T02:11:25.135Z] 💾 Saved 200 amulets IDs to turtle_db/items-4.0.2.json
+[2025-10-18T02:11:26.695Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4.0.2#200+1
+[2025-10-18T02:11:30.697Z] 📄 Page 5: Found 50 items (50 new)
+[2025-10-18T02:11:30.697Z] 🆔 Sample IDs: 156, 6695, 7673, 7722, 12103
+[2025-10-18T02:11:30.698Z] 📊 Total unique amulets: 250
+[2025-10-18T02:11:30.702Z] 💾 Saved 250 amulets IDs to turtle_db/items-4.0.2.json
+[2025-10-18T02:11:32.250Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=4.0.2#250+1
+[2025-10-18T02:11:36.246Z] 📄 Page 6: Found 50 items (50 new)
+[2025-10-18T02:11:36.246Z] 🆔 Sample IDs: 4112, 4430, 5003, 5005, 7427
+[2025-10-18T02:11:36.246Z] 📊 Total unique amulets: 300
+[2025-10-18T02:11:36.249Z] 💾 Saved 300 amulets IDs to turtle_db/items-4.0.2.json
+[2025-10-18T02:11:37.795Z] 📄 Loading page 7 with fresh browser context: https://database.turtle-wow.org/?items=4.0.2#300+1
+[2025-10-18T02:11:41.791Z] 📄 Page 7: Found 50 items (50 new)
+[2025-10-18T02:11:41.792Z] 🆔 Sample IDs: 5002, 5004, 5180, 7548, 10299
+[2025-10-18T02:11:41.792Z] 📊 Total unique amulets: 350
+[2025-10-18T02:11:41.794Z] 💾 Saved 350 amulets IDs to turtle_db/items-4.0.2.json
+[2025-10-18T02:11:43.355Z] 📄 Loading page 8 with fresh browser context: https://database.turtle-wow.org/?items=4.0.2#350+1
+[2025-10-18T02:11:47.355Z] 📄 Page 8: Found 50 items (50 new)
+[2025-10-18T02:11:47.356Z] 🆔 Sample IDs: 2543, 4614, 4743, 5029, 5754
+[2025-10-18T02:11:47.356Z] 📊 Total unique amulets: 400
+[2025-10-18T02:11:47.360Z] 💾 Saved 400 amulets IDs to turtle_db/items-4.0.2.json
+[2025-10-18T02:11:48.919Z] 📄 Loading page 9 with fresh browser context: https://database.turtle-wow.org/?items=4.0.2#400+1
+[2025-10-18T02:11:52.916Z] 📄 Page 9: Found 2 items (2 new)
+[2025-10-18T02:11:52.917Z] 🆔 Sample IDs: 9333, 55004
+[2025-10-18T02:11:52.918Z] 📊 Total unique amulets: 402
+[2025-10-18T02:11:52.922Z] 💾 Saved 402 amulets IDs to turtle_db/items-4.0.2.json
+[2025-10-18T02:11:52.922Z] 🏁 Last page detected (2 < 50 items)
+[2025-10-18T02:11:54.429Z] 💾 Saved 402 amulets IDs to turtle_db/items-4.0.2.json
+[2025-10-18T02:11:54.430Z] ✅ amulets (4.0.2) extraction complete: 402 total IDs
+[2025-10-18T02:11:56.431Z] 
+🎯 Starting rings (4.0.11) ID extraction
+[2025-10-18T02:11:56.431Z] 📊 Already have 0 rings IDs
+[2025-10-18T02:11:56.432Z] 📖 Resuming from page 1
+[2025-10-18T02:11:56.432Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11
+[2025-10-18T02:12:00.537Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T02:12:00.538Z] 🆔 Sample IDs: 942, 17063, 18403, 18879, 19138
+[2025-10-18T02:12:00.538Z] 📊 Total unique rings: 50
+[2025-10-18T02:12:00.541Z] 💾 Saved 50 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:12:02.101Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#50+1
+[2025-10-18T02:12:06.105Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-18T02:12:06.106Z] 🆔 Sample IDs: 1447, 2246, 13143, 17108, 18543
+[2025-10-18T02:12:06.106Z] 📊 Total unique rings: 100
+[2025-10-18T02:12:06.110Z] 💾 Saved 100 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:12:07.671Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#100+1
+[2025-10-18T02:12:11.671Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-18T02:12:11.671Z] 🆔 Sample IDs: 1980, 6693, 17110, 19518, 19519
+[2025-10-18T02:12:11.672Z] 📊 Total unique rings: 150
+[2025-10-18T02:12:11.675Z] 💾 Saved 150 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:12:13.232Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#150+1
+[2025-10-18T02:12:17.229Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-18T02:12:17.229Z] 🆔 Sample IDs: 6332, 6440, 9461, 11118, 11824
+[2025-10-18T02:12:17.229Z] 📊 Total unique rings: 200
+[2025-10-18T02:12:17.232Z] 💾 Saved 200 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:12:18.778Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#200+1
+[2025-10-18T02:12:22.776Z] 📄 Page 5: Found 50 items (50 new)
+[2025-10-18T02:12:22.776Z] 🆔 Sample IDs: 1156, 5266, 6463, 6757, 7686
+[2025-10-18T02:12:22.776Z] 📊 Total unique rings: 250
+[2025-10-18T02:12:22.779Z] 💾 Saved 250 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:12:24.326Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#250+1
+[2025-10-18T02:12:28.324Z] 📄 Page 6: Found 50 items (50 new)
+[2025-10-18T02:12:28.325Z] 🆔 Sample IDs: 1491, 2039, 2043, 2262, 9533
+[2025-10-18T02:12:28.325Z] 📊 Total unique rings: 300
+[2025-10-18T02:12:28.327Z] 💾 Saved 300 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:12:29.888Z] 📄 Loading page 7 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#300+1
+[2025-10-18T02:12:33.884Z] 📄 Page 7: Found 50 items (50 new)
+[2025-10-18T02:12:33.884Z] 🆔 Sample IDs: 862, 2933, 2951, 6321, 6414
+[2025-10-18T02:12:33.885Z] 📊 Total unique rings: 350
+[2025-10-18T02:12:33.888Z] 💾 Saved 350 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:12:35.433Z] 📄 Loading page 8 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#350+1
+[2025-10-18T02:12:39.431Z] 📄 Page 8: Found 50 items (50 new)
+[2025-10-18T02:12:39.432Z] 🆔 Sample IDs: 3760, 4135, 4988, 4998, 4999
+[2025-10-18T02:12:39.432Z] 📊 Total unique rings: 400
+[2025-10-18T02:12:39.434Z] 💾 Saved 400 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:12:40.980Z] 📄 Loading page 9 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#400+1
+[2025-10-18T02:12:44.976Z] 📄 Page 9: Found 50 items (50 new)
+[2025-10-18T02:12:44.976Z] 🆔 Sample IDs: 1076, 1077, 4550, 5000, 5622
+[2025-10-18T02:12:44.977Z] 📊 Total unique rings: 450
+[2025-10-18T02:12:44.980Z] 💾 Saved 450 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:12:46.546Z] 📄 Loading page 10 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#450+1
+[2025-10-18T02:12:50.543Z] 📄 Page 10: Found 50 items (50 new)
+[2025-10-18T02:12:50.544Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:12:50.545Z] 📊 Total unique rings: 500
+[2025-10-18T02:12:50.550Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:12:52.112Z] 📄 Loading page 11 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#500+1
+[2025-10-18T02:12:56.111Z] 📄 Page 11: Found 50 items (0 new)
+[2025-10-18T02:12:56.112Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:12:56.112Z] 📊 Total unique rings: 500
+[2025-10-18T02:12:56.117Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:12:57.664Z] 📄 Loading page 12 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#550+1
+[2025-10-18T02:13:01.660Z] 📄 Page 12: Found 50 items (0 new)
+[2025-10-18T02:13:01.660Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:13:01.660Z] 📊 Total unique rings: 500
+[2025-10-18T02:13:01.664Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:13:03.210Z] 📄 Loading page 13 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#600+1
+[2025-10-18T02:13:07.207Z] 📄 Page 13: Found 50 items (0 new)
+[2025-10-18T02:13:07.208Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:13:07.208Z] 📊 Total unique rings: 500
+[2025-10-18T02:13:07.212Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:13:08.759Z] 📄 Loading page 14 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#650+1
+[2025-10-18T02:13:12.756Z] 📄 Page 14: Found 50 items (0 new)
+[2025-10-18T02:13:12.756Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:13:12.757Z] 📊 Total unique rings: 500
+[2025-10-18T02:13:12.760Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:13:14.318Z] 📄 Loading page 15 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#700+1
+[2025-10-18T02:13:18.314Z] 📄 Page 15: Found 50 items (0 new)
+[2025-10-18T02:13:18.315Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:13:18.315Z] 📊 Total unique rings: 500
+[2025-10-18T02:13:18.319Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:13:19.866Z] 📄 Loading page 16 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#750+1
+[2025-10-18T02:13:23.864Z] 📄 Page 16: Found 50 items (0 new)
+[2025-10-18T02:13:23.865Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:13:23.865Z] 📊 Total unique rings: 500
+[2025-10-18T02:13:23.869Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:13:25.428Z] 📄 Loading page 17 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#800+1
+[2025-10-18T02:13:29.430Z] 📄 Page 17: Found 50 items (0 new)
+[2025-10-18T02:13:29.431Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:13:29.431Z] 📊 Total unique rings: 500
+[2025-10-18T02:13:29.436Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:13:30.982Z] 📄 Loading page 18 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#850+1
+[2025-10-18T02:13:34.981Z] 📄 Page 18: Found 50 items (0 new)
+[2025-10-18T02:13:34.982Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:13:34.982Z] 📊 Total unique rings: 500
+[2025-10-18T02:13:34.987Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:13:36.544Z] 📄 Loading page 19 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#900+1
+[2025-10-18T02:13:40.542Z] 📄 Page 19: Found 50 items (0 new)
+[2025-10-18T02:13:40.543Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:13:40.543Z] 📊 Total unique rings: 500
+[2025-10-18T02:13:40.546Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:13:42.093Z] 📄 Loading page 20 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#950+1
+[2025-10-18T02:13:46.089Z] 📄 Page 20: Found 50 items (0 new)
+[2025-10-18T02:13:46.090Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:13:46.090Z] 📊 Total unique rings: 500
+[2025-10-18T02:13:46.094Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:13:47.640Z] 📄 Loading page 21 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1000+1
+[2025-10-18T02:13:51.638Z] 📄 Page 21: Found 50 items (0 new)
+[2025-10-18T02:13:51.638Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:13:51.639Z] 📊 Total unique rings: 500
+[2025-10-18T02:13:51.642Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:13:53.189Z] 📄 Loading page 22 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1050+1
+[2025-10-18T02:13:57.187Z] 📄 Page 22: Found 50 items (0 new)
+[2025-10-18T02:13:57.188Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:13:57.188Z] 📊 Total unique rings: 500
+[2025-10-18T02:13:57.193Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:13:58.752Z] 📄 Loading page 23 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1100+1
+[2025-10-18T02:14:02.752Z] 📄 Page 23: Found 50 items (0 new)
+[2025-10-18T02:14:02.752Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:14:02.752Z] 📊 Total unique rings: 500
+[2025-10-18T02:14:02.755Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:14:04.313Z] 📄 Loading page 24 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1150+1
+[2025-10-18T02:14:08.312Z] 📄 Page 24: Found 50 items (0 new)
+[2025-10-18T02:14:08.313Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:14:08.313Z] 📊 Total unique rings: 500
+[2025-10-18T02:14:08.319Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:14:09.881Z] 📄 Loading page 25 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1200+1
+[2025-10-18T02:14:13.882Z] 📄 Page 25: Found 50 items (0 new)
+[2025-10-18T02:14:13.882Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:14:13.882Z] 📊 Total unique rings: 500
+[2025-10-18T02:14:13.887Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:14:15.447Z] 📄 Loading page 26 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1250+1
+[2025-10-18T02:14:19.447Z] 📄 Page 26: Found 50 items (0 new)
+[2025-10-18T02:14:19.447Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:14:19.447Z] 📊 Total unique rings: 500
+[2025-10-18T02:14:19.451Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:14:20.997Z] 📄 Loading page 27 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1300+1
+[2025-10-18T02:14:24.997Z] 📄 Page 27: Found 50 items (0 new)
+[2025-10-18T02:14:24.997Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:14:24.997Z] 📊 Total unique rings: 500
+[2025-10-18T02:14:25.001Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:14:26.547Z] 📄 Loading page 28 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1350+1
+[2025-10-18T02:14:30.549Z] 📄 Page 28: Found 50 items (0 new)
+[2025-10-18T02:14:30.550Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:14:30.550Z] 📊 Total unique rings: 500
+[2025-10-18T02:14:30.555Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:14:32.114Z] 📄 Loading page 29 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1400+1
+[2025-10-18T02:14:36.112Z] 📄 Page 29: Found 50 items (0 new)
+[2025-10-18T02:14:36.112Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:14:36.112Z] 📊 Total unique rings: 500
+[2025-10-18T02:14:36.116Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:14:37.661Z] 📄 Loading page 30 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1450+1
+[2025-10-18T02:14:41.658Z] 📄 Page 30: Found 50 items (0 new)
+[2025-10-18T02:14:41.659Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:14:41.659Z] 📊 Total unique rings: 500
+[2025-10-18T02:14:41.663Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:14:43.225Z] 📄 Loading page 31 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1500+1
+[2025-10-18T02:14:47.223Z] 📄 Page 31: Found 50 items (0 new)
+[2025-10-18T02:14:47.224Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:14:47.224Z] 📊 Total unique rings: 500
+[2025-10-18T02:14:47.228Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:14:48.776Z] 📄 Loading page 32 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1550+1
+[2025-10-18T02:14:52.773Z] 📄 Page 32: Found 50 items (0 new)
+[2025-10-18T02:14:52.773Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:14:52.774Z] 📊 Total unique rings: 500
+[2025-10-18T02:14:52.778Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:14:54.324Z] 📄 Loading page 33 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1600+1
+[2025-10-18T02:14:58.322Z] 📄 Page 33: Found 50 items (0 new)
+[2025-10-18T02:14:58.323Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:14:58.323Z] 📊 Total unique rings: 500
+[2025-10-18T02:14:58.328Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:14:59.882Z] 📄 Loading page 34 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1650+1
+[2025-10-18T02:15:03.880Z] 📄 Page 34: Found 50 items (0 new)
+[2025-10-18T02:15:03.881Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:15:03.881Z] 📊 Total unique rings: 500
+[2025-10-18T02:15:03.884Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:15:05.453Z] 📄 Loading page 35 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1700+1
+[2025-10-18T02:15:09.447Z] 📄 Page 35: Found 50 items (0 new)
+[2025-10-18T02:15:09.448Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:15:09.448Z] 📊 Total unique rings: 500
+[2025-10-18T02:15:09.451Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:15:10.998Z] 📄 Loading page 36 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1750+1
+[2025-10-18T02:15:14.998Z] 📄 Page 36: Found 50 items (0 new)
+[2025-10-18T02:15:14.998Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:15:14.999Z] 📊 Total unique rings: 500
+[2025-10-18T02:15:15.004Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:15:16.569Z] 📄 Loading page 37 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1800+1
+[2025-10-18T02:15:20.564Z] 📄 Page 37: Found 50 items (0 new)
+[2025-10-18T02:15:20.565Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:15:20.565Z] 📊 Total unique rings: 500
+[2025-10-18T02:15:20.568Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:15:22.114Z] 📄 Loading page 38 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1850+1
+[2025-10-18T02:15:26.112Z] 📄 Page 38: Found 50 items (0 new)
+[2025-10-18T02:15:26.112Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:15:26.113Z] 📊 Total unique rings: 500
+[2025-10-18T02:15:26.116Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:15:27.664Z] 📄 Loading page 39 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1900+1
+[2025-10-18T02:15:31.660Z] 📄 Page 39: Found 50 items (0 new)
+[2025-10-18T02:15:31.660Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:15:31.661Z] 📊 Total unique rings: 500
+[2025-10-18T02:15:31.664Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:15:33.224Z] 📄 Loading page 40 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#1950+1
+[2025-10-18T02:15:37.224Z] 📄 Page 40: Found 50 items (0 new)
+[2025-10-18T02:15:37.225Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:15:37.225Z] 📊 Total unique rings: 500
+[2025-10-18T02:15:37.230Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:15:38.778Z] 📄 Loading page 41 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2000+1
+[2025-10-18T02:15:42.775Z] 📄 Page 41: Found 50 items (0 new)
+[2025-10-18T02:15:42.775Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:15:42.775Z] 📊 Total unique rings: 500
+[2025-10-18T02:15:42.779Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:15:44.323Z] 📄 Loading page 42 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2050+1
+[2025-10-18T02:15:48.319Z] 📄 Page 42: Found 50 items (0 new)
+[2025-10-18T02:15:48.319Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:15:48.320Z] 📊 Total unique rings: 500
+[2025-10-18T02:15:48.324Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:15:49.868Z] 📄 Loading page 43 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2100+1
+[2025-10-18T02:15:53.866Z] 📄 Page 43: Found 50 items (0 new)
+[2025-10-18T02:15:53.867Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:15:53.867Z] 📊 Total unique rings: 500
+[2025-10-18T02:15:53.871Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:15:55.416Z] 📄 Loading page 44 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2150+1
+[2025-10-18T02:15:59.415Z] 📄 Page 44: Found 50 items (0 new)
+[2025-10-18T02:15:59.416Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:15:59.416Z] 📊 Total unique rings: 500
+[2025-10-18T02:15:59.421Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:16:00.975Z] 📄 Loading page 45 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2200+1
+[2025-10-18T02:16:04.974Z] 📄 Page 45: Found 50 items (0 new)
+[2025-10-18T02:16:04.974Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:16:04.975Z] 📊 Total unique rings: 500
+[2025-10-18T02:16:04.980Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:16:06.540Z] 📄 Loading page 46 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2250+1
+[2025-10-18T02:16:10.537Z] 📄 Page 46: Found 50 items (0 new)
+[2025-10-18T02:16:10.538Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:16:10.538Z] 📊 Total unique rings: 500
+[2025-10-18T02:16:10.543Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:16:12.108Z] 📄 Loading page 47 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2300+1
+[2025-10-18T02:16:16.106Z] 📄 Page 47: Found 50 items (0 new)
+[2025-10-18T02:16:16.107Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:16:16.108Z] 📊 Total unique rings: 500
+[2025-10-18T02:16:16.113Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:16:17.680Z] 📄 Loading page 48 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2350+1
+[2025-10-18T02:16:21.676Z] 📄 Page 48: Found 50 items (0 new)
+[2025-10-18T02:16:21.676Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:16:21.676Z] 📊 Total unique rings: 500
+[2025-10-18T02:16:21.680Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:16:23.225Z] 📄 Loading page 49 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2400+1
+[2025-10-18T02:16:27.223Z] 📄 Page 49: Found 50 items (0 new)
+[2025-10-18T02:16:27.226Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:16:27.226Z] 📊 Total unique rings: 500
+[2025-10-18T02:16:27.230Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:16:28.790Z] 📄 Loading page 50 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2450+1
+[2025-10-18T02:16:32.791Z] 📄 Page 50: Found 50 items (0 new)
+[2025-10-18T02:16:32.792Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:16:32.792Z] 📊 Total unique rings: 500
+[2025-10-18T02:16:32.798Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:16:34.359Z] 📄 Loading page 51 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2500+1
+[2025-10-18T02:16:38.359Z] 📄 Page 51: Found 50 items (0 new)
+[2025-10-18T02:16:38.359Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:16:38.360Z] 📊 Total unique rings: 500
+[2025-10-18T02:16:38.364Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:16:39.928Z] 📄 Loading page 52 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2550+1
+[2025-10-18T02:16:43.923Z] 📄 Page 52: Found 50 items (0 new)
+[2025-10-18T02:16:43.923Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:16:43.924Z] 📊 Total unique rings: 500
+[2025-10-18T02:16:43.929Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:16:45.488Z] 📄 Loading page 53 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2600+1
+[2025-10-18T02:16:49.488Z] 📄 Page 53: Found 50 items (0 new)
+[2025-10-18T02:16:49.489Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:16:49.490Z] 📊 Total unique rings: 500
+[2025-10-18T02:16:49.494Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:16:51.055Z] 📄 Loading page 54 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2650+1
+[2025-10-18T02:16:55.052Z] 📄 Page 54: Found 50 items (0 new)
+[2025-10-18T02:16:55.053Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:16:55.053Z] 📊 Total unique rings: 500
+[2025-10-18T02:16:55.058Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:16:56.619Z] 📄 Loading page 55 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2700+1
+[2025-10-18T02:17:00.618Z] 📄 Page 55: Found 50 items (0 new)
+[2025-10-18T02:17:00.618Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:17:00.618Z] 📊 Total unique rings: 500
+[2025-10-18T02:17:00.623Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:17:02.167Z] 📄 Loading page 56 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2750+1
+[2025-10-18T02:17:06.163Z] 📄 Page 56: Found 50 items (0 new)
+[2025-10-18T02:17:06.163Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:17:06.163Z] 📊 Total unique rings: 500
+[2025-10-18T02:17:06.167Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:17:07.713Z] 📄 Loading page 57 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2800+1
+[2025-10-18T02:17:11.711Z] 📄 Page 57: Found 50 items (0 new)
+[2025-10-18T02:17:11.712Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:17:11.712Z] 📊 Total unique rings: 500
+[2025-10-18T02:17:11.716Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:17:13.285Z] 📄 Loading page 58 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2850+1
+[2025-10-18T02:17:17.281Z] 📄 Page 58: Found 50 items (0 new)
+[2025-10-18T02:17:17.282Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:17:17.283Z] 📊 Total unique rings: 500
+[2025-10-18T02:17:17.288Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:17:18.849Z] 📄 Loading page 59 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2900+1
+[2025-10-18T02:17:22.846Z] 📄 Page 59: Found 50 items (0 new)
+[2025-10-18T02:17:22.847Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:17:22.847Z] 📊 Total unique rings: 500
+[2025-10-18T02:17:22.850Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:17:24.398Z] 📄 Loading page 60 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#2950+1
+[2025-10-18T02:17:28.394Z] 📄 Page 60: Found 50 items (0 new)
+[2025-10-18T02:17:28.394Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:17:28.394Z] 📊 Total unique rings: 500
+[2025-10-18T02:17:28.398Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:17:29.944Z] 📄 Loading page 61 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3000+1
+[2025-10-18T02:17:33.945Z] 📄 Page 61: Found 50 items (0 new)
+[2025-10-18T02:17:33.946Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:17:33.946Z] 📊 Total unique rings: 500
+[2025-10-18T02:17:33.951Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:17:35.513Z] 📄 Loading page 62 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3050+1
+[2025-10-18T02:17:39.512Z] 📄 Page 62: Found 50 items (0 new)
+[2025-10-18T02:17:39.512Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:17:39.512Z] 📊 Total unique rings: 500
+[2025-10-18T02:17:39.517Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:17:41.077Z] 📄 Loading page 63 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3100+1
+[2025-10-18T02:17:45.078Z] 📄 Page 63: Found 50 items (0 new)
+[2025-10-18T02:17:45.079Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:17:45.080Z] 📊 Total unique rings: 500
+[2025-10-18T02:17:45.085Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:17:46.640Z] 📄 Loading page 64 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3150+1
+[2025-10-18T02:17:50.635Z] 📄 Page 64: Found 50 items (0 new)
+[2025-10-18T02:17:50.635Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:17:50.635Z] 📊 Total unique rings: 500
+[2025-10-18T02:17:50.639Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:17:52.186Z] 📄 Loading page 65 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3200+1
+[2025-10-18T02:17:56.182Z] 📄 Page 65: Found 50 items (0 new)
+[2025-10-18T02:17:56.183Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:17:56.183Z] 📊 Total unique rings: 500
+[2025-10-18T02:17:56.187Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:17:57.733Z] 📄 Loading page 66 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3250+1
+[2025-10-18T02:18:01.729Z] 📄 Page 66: Found 50 items (0 new)
+[2025-10-18T02:18:01.729Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:18:01.730Z] 📊 Total unique rings: 500
+[2025-10-18T02:18:01.733Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:18:03.278Z] 📄 Loading page 67 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3300+1
+[2025-10-18T02:18:07.275Z] 📄 Page 67: Found 50 items (0 new)
+[2025-10-18T02:18:07.275Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:18:07.275Z] 📊 Total unique rings: 500
+[2025-10-18T02:18:07.279Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:18:08.828Z] 📄 Loading page 68 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3350+1
+[2025-10-18T02:18:12.827Z] 📄 Page 68: Found 50 items (0 new)
+[2025-10-18T02:18:12.828Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:18:12.828Z] 📊 Total unique rings: 500
+[2025-10-18T02:18:12.833Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:18:14.396Z] 📄 Loading page 69 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3400+1
+[2025-10-18T02:18:18.395Z] 📄 Page 69: Found 50 items (0 new)
+[2025-10-18T02:18:18.395Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:18:18.395Z] 📊 Total unique rings: 500
+[2025-10-18T02:18:18.399Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:18:19.943Z] 📄 Loading page 70 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3450+1
+[2025-10-18T02:18:23.940Z] 📄 Page 70: Found 50 items (0 new)
+[2025-10-18T02:18:23.941Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:18:23.941Z] 📊 Total unique rings: 500
+[2025-10-18T02:18:23.944Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:18:25.492Z] 📄 Loading page 71 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3500+1
+[2025-10-18T02:18:29.491Z] 📄 Page 71: Found 50 items (0 new)
+[2025-10-18T02:18:29.491Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:18:29.491Z] 📊 Total unique rings: 500
+[2025-10-18T02:18:29.494Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:18:31.040Z] 📄 Loading page 72 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3550+1
+[2025-10-18T02:18:35.039Z] 📄 Page 72: Found 50 items (0 new)
+[2025-10-18T02:18:35.039Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:18:35.039Z] 📊 Total unique rings: 500
+[2025-10-18T02:18:35.044Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:18:36.589Z] 📄 Loading page 73 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3600+1
+[2025-10-18T02:18:40.588Z] 📄 Page 73: Found 50 items (0 new)
+[2025-10-18T02:18:40.589Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:18:40.589Z] 📊 Total unique rings: 500
+[2025-10-18T02:18:40.592Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:18:42.163Z] 📄 Loading page 74 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3650+1
+[2025-10-18T02:18:46.156Z] 📄 Page 74: Found 50 items (0 new)
+[2025-10-18T02:18:46.157Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:18:46.157Z] 📊 Total unique rings: 500
+[2025-10-18T02:18:46.160Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:18:47.706Z] 📄 Loading page 75 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3700+1
+[2025-10-18T02:18:51.704Z] 📄 Page 75: Found 50 items (0 new)
+[2025-10-18T02:18:51.704Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:18:51.704Z] 📊 Total unique rings: 500
+[2025-10-18T02:18:51.708Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:18:53.255Z] 📄 Loading page 76 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3750+1
+[2025-10-18T02:18:57.251Z] 📄 Page 76: Found 50 items (0 new)
+[2025-10-18T02:18:57.251Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:18:57.252Z] 📊 Total unique rings: 500
+[2025-10-18T02:18:57.255Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:18:58.803Z] 📄 Loading page 77 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3800+1
+[2025-10-18T02:19:02.799Z] 📄 Page 77: Found 50 items (0 new)
+[2025-10-18T02:19:02.799Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:19:02.799Z] 📊 Total unique rings: 500
+[2025-10-18T02:19:02.803Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:19:04.350Z] 📄 Loading page 78 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3850+1
+[2025-10-18T02:19:08.347Z] 📄 Page 78: Found 50 items (0 new)
+[2025-10-18T02:19:08.347Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:19:08.348Z] 📊 Total unique rings: 500
+[2025-10-18T02:19:08.351Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:19:09.900Z] 📄 Loading page 79 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3900+1
+[2025-10-18T02:19:13.896Z] 📄 Page 79: Found 50 items (0 new)
+[2025-10-18T02:19:13.897Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:19:13.897Z] 📊 Total unique rings: 500
+[2025-10-18T02:19:13.900Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:19:15.449Z] 📄 Loading page 80 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#3950+1
+[2025-10-18T02:19:19.445Z] 📄 Page 80: Found 50 items (0 new)
+[2025-10-18T02:19:19.445Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:19:19.446Z] 📊 Total unique rings: 500
+[2025-10-18T02:19:19.450Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:19:21.000Z] 📄 Loading page 81 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4000+1
+[2025-10-18T02:19:24.997Z] 📄 Page 81: Found 50 items (0 new)
+[2025-10-18T02:19:24.997Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:19:24.997Z] 📊 Total unique rings: 500
+[2025-10-18T02:19:25.001Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:19:26.549Z] 📄 Loading page 82 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4050+1
+[2025-10-18T02:19:30.545Z] 📄 Page 82: Found 50 items (0 new)
+[2025-10-18T02:19:30.546Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:19:30.546Z] 📊 Total unique rings: 500
+[2025-10-18T02:19:30.549Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:19:32.094Z] 📄 Loading page 83 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4100+1
+[2025-10-18T02:19:36.091Z] 📄 Page 83: Found 50 items (0 new)
+[2025-10-18T02:19:36.092Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:19:36.092Z] 📊 Total unique rings: 500
+[2025-10-18T02:19:36.097Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:19:37.642Z] 📄 Loading page 84 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4150+1
+[2025-10-18T02:19:41.639Z] 📄 Page 84: Found 50 items (0 new)
+[2025-10-18T02:19:41.640Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:19:41.640Z] 📊 Total unique rings: 500
+[2025-10-18T02:19:41.644Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:19:43.191Z] 📄 Loading page 85 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4200+1
+[2025-10-18T02:19:47.189Z] 📄 Page 85: Found 50 items (0 new)
+[2025-10-18T02:19:47.190Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:19:47.190Z] 📊 Total unique rings: 500
+[2025-10-18T02:19:47.192Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:19:48.740Z] 📄 Loading page 86 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4250+1
+[2025-10-18T02:19:52.735Z] 📄 Page 86: Found 50 items (0 new)
+[2025-10-18T02:19:52.736Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:19:52.736Z] 📊 Total unique rings: 500
+[2025-10-18T02:19:52.740Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:19:54.284Z] 📄 Loading page 87 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4300+1
+[2025-10-18T02:19:58.281Z] 📄 Page 87: Found 50 items (0 new)
+[2025-10-18T02:19:58.281Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:19:58.281Z] 📊 Total unique rings: 500
+[2025-10-18T02:19:58.284Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:19:59.829Z] 📄 Loading page 88 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4350+1
+[2025-10-18T02:20:03.827Z] 📄 Page 88: Found 50 items (0 new)
+[2025-10-18T02:20:03.828Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:20:03.829Z] 📊 Total unique rings: 500
+[2025-10-18T02:20:03.834Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:20:05.390Z] 📄 Loading page 89 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4400+1
+[2025-10-18T02:20:09.389Z] 📄 Page 89: Found 50 items (0 new)
+[2025-10-18T02:20:09.390Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:20:09.390Z] 📊 Total unique rings: 500
+[2025-10-18T02:20:09.394Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:20:10.963Z] 📄 Loading page 90 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4450+1
+[2025-10-18T02:20:14.957Z] 📄 Page 90: Found 50 items (0 new)
+[2025-10-18T02:20:14.958Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:20:14.959Z] 📊 Total unique rings: 500
+[2025-10-18T02:20:14.963Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:20:16.533Z] 📄 Loading page 91 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4500+1
+[2025-10-18T02:20:20.528Z] 📄 Page 91: Found 50 items (0 new)
+[2025-10-18T02:20:20.529Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:20:20.529Z] 📊 Total unique rings: 500
+[2025-10-18T02:20:20.534Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:20:22.094Z] 📄 Loading page 92 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4550+1
+[2025-10-18T02:20:26.103Z] 📄 Page 92: Found 50 items (0 new)
+[2025-10-18T02:20:26.104Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:20:26.104Z] 📊 Total unique rings: 500
+[2025-10-18T02:20:26.109Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:20:27.654Z] 📄 Loading page 93 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4600+1
+[2025-10-18T02:20:31.654Z] 📄 Page 93: Found 50 items (0 new)
+[2025-10-18T02:20:31.655Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:20:31.656Z] 📊 Total unique rings: 500
+[2025-10-18T02:20:31.661Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:20:33.232Z] 📄 Loading page 94 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4650+1
+[2025-10-18T02:20:37.227Z] 📄 Page 94: Found 50 items (0 new)
+[2025-10-18T02:20:37.227Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:20:37.228Z] 📊 Total unique rings: 500
+[2025-10-18T02:20:37.234Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:20:38.792Z] 📄 Loading page 95 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4700+1
+[2025-10-18T02:20:42.791Z] 📄 Page 95: Found 50 items (0 new)
+[2025-10-18T02:20:42.792Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:20:42.792Z] 📊 Total unique rings: 500
+[2025-10-18T02:20:42.797Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:20:44.358Z] 📄 Loading page 96 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4750+1
+[2025-10-18T02:20:48.358Z] 📄 Page 96: Found 50 items (0 new)
+[2025-10-18T02:20:48.358Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:20:48.358Z] 📊 Total unique rings: 500
+[2025-10-18T02:20:48.363Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:20:49.909Z] 📄 Loading page 97 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4800+1
+[2025-10-18T02:20:53.907Z] 📄 Page 97: Found 50 items (0 new)
+[2025-10-18T02:20:53.907Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:20:53.907Z] 📊 Total unique rings: 500
+[2025-10-18T02:20:53.911Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:20:55.459Z] 📄 Loading page 98 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4850+1
+[2025-10-18T02:20:59.457Z] 📄 Page 98: Found 50 items (0 new)
+[2025-10-18T02:20:59.458Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:20:59.458Z] 📊 Total unique rings: 500
+[2025-10-18T02:20:59.464Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:21:01.008Z] 📄 Loading page 99 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4900+1
+[2025-10-18T02:21:05.007Z] 📄 Page 99: Found 50 items (0 new)
+[2025-10-18T02:21:05.007Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:21:05.007Z] 📊 Total unique rings: 500
+[2025-10-18T02:21:05.011Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:21:06.557Z] 📄 Loading page 100 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#4950+1
+[2025-10-18T02:21:10.554Z] 📄 Page 100: Found 50 items (0 new)
+[2025-10-18T02:21:10.554Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:21:10.554Z] 📊 Total unique rings: 500
+[2025-10-18T02:21:10.559Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:21:12.105Z] 📄 Loading page 101 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5000+1
+[2025-10-18T02:21:16.102Z] 📄 Page 101: Found 50 items (0 new)
+[2025-10-18T02:21:16.102Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:21:16.103Z] 📊 Total unique rings: 500
+[2025-10-18T02:21:16.107Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:21:17.652Z] 📄 Loading page 102 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5050+1
+[2025-10-18T02:21:21.648Z] 📄 Page 102: Found 50 items (0 new)
+[2025-10-18T02:21:21.649Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:21:21.649Z] 📊 Total unique rings: 500
+[2025-10-18T02:21:21.655Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:21:23.202Z] 📄 Loading page 103 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5100+1
+[2025-10-18T02:21:27.197Z] 📄 Page 103: Found 50 items (0 new)
+[2025-10-18T02:21:27.197Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:21:27.198Z] 📊 Total unique rings: 500
+[2025-10-18T02:21:27.200Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:21:28.749Z] 📄 Loading page 104 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5150+1
+[2025-10-18T02:21:32.744Z] 📄 Page 104: Found 50 items (0 new)
+[2025-10-18T02:21:32.745Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:21:32.745Z] 📊 Total unique rings: 500
+[2025-10-18T02:21:32.749Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:21:34.292Z] 📄 Loading page 105 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5200+1
+[2025-10-18T02:21:38.289Z] 📄 Page 105: Found 50 items (0 new)
+[2025-10-18T02:21:38.290Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:21:38.290Z] 📊 Total unique rings: 500
+[2025-10-18T02:21:38.293Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:21:39.840Z] 📄 Loading page 106 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5250+1
+[2025-10-18T02:21:43.842Z] 📄 Page 106: Found 50 items (0 new)
+[2025-10-18T02:21:43.842Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:21:43.843Z] 📊 Total unique rings: 500
+[2025-10-18T02:21:43.847Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:21:45.408Z] 📄 Loading page 107 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5300+1
+[2025-10-18T02:21:49.406Z] 📄 Page 107: Found 50 items (0 new)
+[2025-10-18T02:21:49.406Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:21:49.407Z] 📊 Total unique rings: 500
+[2025-10-18T02:21:49.409Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:21:50.978Z] 📄 Loading page 108 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5350+1
+[2025-10-18T02:21:54.972Z] 📄 Page 108: Found 50 items (0 new)
+[2025-10-18T02:21:54.973Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:21:54.973Z] 📊 Total unique rings: 500
+[2025-10-18T02:21:54.978Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:21:56.538Z] 📄 Loading page 109 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5400+1
+[2025-10-18T02:22:00.536Z] 📄 Page 109: Found 50 items (0 new)
+[2025-10-18T02:22:00.536Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:22:00.536Z] 📊 Total unique rings: 500
+[2025-10-18T02:22:00.540Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:22:02.103Z] 📄 Loading page 110 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5450+1
+[2025-10-18T02:22:06.101Z] 📄 Page 110: Found 50 items (0 new)
+[2025-10-18T02:22:06.101Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:22:06.102Z] 📊 Total unique rings: 500
+[2025-10-18T02:22:06.107Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:22:07.668Z] 📄 Loading page 111 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5500+1
+[2025-10-18T02:22:11.665Z] 📄 Page 111: Found 50 items (0 new)
+[2025-10-18T02:22:11.666Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:22:11.666Z] 📊 Total unique rings: 500
+[2025-10-18T02:22:11.670Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:22:13.230Z] 📄 Loading page 112 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5550+1
+[2025-10-18T02:22:17.232Z] 📄 Page 112: Found 50 items (0 new)
+[2025-10-18T02:22:17.232Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:22:17.233Z] 📊 Total unique rings: 500
+[2025-10-18T02:22:17.238Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:22:18.802Z] 📄 Loading page 113 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5600+1
+[2025-10-18T02:22:22.799Z] 📄 Page 113: Found 50 items (0 new)
+[2025-10-18T02:22:22.800Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:22:22.801Z] 📊 Total unique rings: 500
+[2025-10-18T02:22:22.805Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:22:24.352Z] 📄 Loading page 114 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5650+1
+[2025-10-18T02:22:28.347Z] 📄 Page 114: Found 50 items (0 new)
+[2025-10-18T02:22:28.348Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:22:28.348Z] 📊 Total unique rings: 500
+[2025-10-18T02:22:28.351Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:22:29.896Z] 📄 Loading page 115 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5700+1
+[2025-10-18T02:22:33.895Z] 📄 Page 115: Found 50 items (0 new)
+[2025-10-18T02:22:33.895Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:22:33.895Z] 📊 Total unique rings: 500
+[2025-10-18T02:22:33.898Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:22:35.446Z] 📄 Loading page 116 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5750+1
+[2025-10-18T02:22:39.444Z] 📄 Page 116: Found 50 items (0 new)
+[2025-10-18T02:22:39.444Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:22:39.444Z] 📊 Total unique rings: 500
+[2025-10-18T02:22:39.447Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:22:40.996Z] 📄 Loading page 117 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5800+1
+[2025-10-18T02:22:44.996Z] 📄 Page 117: Found 50 items (0 new)
+[2025-10-18T02:22:44.996Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:22:44.997Z] 📊 Total unique rings: 500
+[2025-10-18T02:22:45.001Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:22:46.549Z] 📄 Loading page 118 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5850+1
+[2025-10-18T02:22:50.547Z] 📄 Page 118: Found 50 items (0 new)
+[2025-10-18T02:22:50.548Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:22:50.548Z] 📊 Total unique rings: 500
+[2025-10-18T02:22:50.553Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:22:52.100Z] 📄 Loading page 119 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5900+1
+[2025-10-18T02:22:56.100Z] 📄 Page 119: Found 50 items (0 new)
+[2025-10-18T02:22:56.101Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:22:56.101Z] 📊 Total unique rings: 500
+[2025-10-18T02:22:56.107Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:22:57.663Z] 📄 Loading page 120 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#5950+1
+[2025-10-18T02:23:01.662Z] 📄 Page 120: Found 50 items (0 new)
+[2025-10-18T02:23:01.662Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:23:01.662Z] 📊 Total unique rings: 500
+[2025-10-18T02:23:01.665Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:23:03.212Z] 📄 Loading page 121 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6000+1
+[2025-10-18T02:23:07.210Z] 📄 Page 121: Found 50 items (0 new)
+[2025-10-18T02:23:07.210Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:23:07.211Z] 📊 Total unique rings: 500
+[2025-10-18T02:23:07.215Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:23:08.761Z] 📄 Loading page 122 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6050+1
+[2025-10-18T02:23:12.758Z] 📄 Page 122: Found 50 items (0 new)
+[2025-10-18T02:23:12.758Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:23:12.758Z] 📊 Total unique rings: 500
+[2025-10-18T02:23:12.762Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:23:14.307Z] 📄 Loading page 123 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6100+1
+[2025-10-18T02:23:18.305Z] 📄 Page 123: Found 50 items (0 new)
+[2025-10-18T02:23:18.305Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:23:18.305Z] 📊 Total unique rings: 500
+[2025-10-18T02:23:18.309Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:23:19.854Z] 📄 Loading page 124 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6150+1
+[2025-10-18T02:23:23.851Z] 📄 Page 124: Found 50 items (0 new)
+[2025-10-18T02:23:23.851Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:23:23.851Z] 📊 Total unique rings: 500
+[2025-10-18T02:23:23.855Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:23:25.425Z] 📄 Loading page 125 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6200+1
+[2025-10-18T02:23:29.417Z] 📄 Page 125: Found 50 items (0 new)
+[2025-10-18T02:23:29.417Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:23:29.417Z] 📊 Total unique rings: 500
+[2025-10-18T02:23:29.421Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:23:30.965Z] 📄 Loading page 126 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6250+1
+[2025-10-18T02:23:34.962Z] 📄 Page 126: Found 50 items (0 new)
+[2025-10-18T02:23:34.963Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:23:34.963Z] 📊 Total unique rings: 500
+[2025-10-18T02:23:34.967Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:23:36.510Z] 📄 Loading page 127 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6300+1
+[2025-10-18T02:23:40.507Z] 📄 Page 127: Found 50 items (0 new)
+[2025-10-18T02:23:40.507Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:23:40.507Z] 📊 Total unique rings: 500
+[2025-10-18T02:23:40.511Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:23:42.056Z] 📄 Loading page 128 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6350+1
+[2025-10-18T02:23:46.054Z] 📄 Page 128: Found 50 items (0 new)
+[2025-10-18T02:23:46.054Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:23:46.055Z] 📊 Total unique rings: 500
+[2025-10-18T02:23:46.058Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:23:47.600Z] 📄 Loading page 129 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6400+1
+[2025-10-18T02:23:51.597Z] 📄 Page 129: Found 50 items (0 new)
+[2025-10-18T02:23:51.598Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:23:51.598Z] 📊 Total unique rings: 500
+[2025-10-18T02:23:51.601Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:23:53.148Z] 📄 Loading page 130 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6450+1
+[2025-10-18T02:23:57.144Z] 📄 Page 130: Found 50 items (0 new)
+[2025-10-18T02:23:57.145Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:23:57.145Z] 📊 Total unique rings: 500
+[2025-10-18T02:23:57.149Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:23:58.713Z] 📄 Loading page 131 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6500+1
+[2025-10-18T02:24:02.708Z] 📄 Page 131: Found 50 items (0 new)
+[2025-10-18T02:24:02.709Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:24:02.709Z] 📊 Total unique rings: 500
+[2025-10-18T02:24:02.713Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:24:04.259Z] 📄 Loading page 132 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6550+1
+[2025-10-18T02:24:08.257Z] 📄 Page 132: Found 50 items (0 new)
+[2025-10-18T02:24:08.257Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:24:08.258Z] 📊 Total unique rings: 500
+[2025-10-18T02:24:08.263Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:24:09.821Z] 📄 Loading page 133 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6600+1
+[2025-10-18T02:24:13.823Z] 📄 Page 133: Found 50 items (0 new)
+[2025-10-18T02:24:13.824Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:24:13.824Z] 📊 Total unique rings: 500
+[2025-10-18T02:24:13.829Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:24:15.392Z] 📄 Loading page 134 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6650+1
+[2025-10-18T02:24:19.387Z] 📄 Page 134: Found 50 items (0 new)
+[2025-10-18T02:24:19.388Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:24:19.388Z] 📊 Total unique rings: 500
+[2025-10-18T02:24:19.391Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:24:20.937Z] 📄 Loading page 135 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6700+1
+[2025-10-18T02:24:24.935Z] 📄 Page 135: Found 50 items (0 new)
+[2025-10-18T02:24:24.935Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:24:24.935Z] 📊 Total unique rings: 500
+[2025-10-18T02:24:24.939Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:24:26.486Z] 📄 Loading page 136 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6750+1
+[2025-10-18T02:24:30.482Z] 📄 Page 136: Found 50 items (0 new)
+[2025-10-18T02:24:30.483Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:24:30.483Z] 📊 Total unique rings: 500
+[2025-10-18T02:24:30.486Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:24:32.033Z] 📄 Loading page 137 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6800+1
+[2025-10-18T02:24:36.029Z] 📄 Page 137: Found 50 items (0 new)
+[2025-10-18T02:24:36.029Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:24:36.030Z] 📊 Total unique rings: 500
+[2025-10-18T02:24:36.033Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:24:37.578Z] 📄 Loading page 138 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6850+1
+[2025-10-18T02:24:41.575Z] 📄 Page 138: Found 50 items (0 new)
+[2025-10-18T02:24:41.576Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:24:41.576Z] 📊 Total unique rings: 500
+[2025-10-18T02:24:41.579Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:24:43.126Z] 📄 Loading page 139 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6900+1
+[2025-10-18T02:24:47.122Z] 📄 Page 139: Found 50 items (0 new)
+[2025-10-18T02:24:47.123Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:24:47.123Z] 📊 Total unique rings: 500
+[2025-10-18T02:24:47.126Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:24:48.672Z] 📄 Loading page 140 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#6950+1
+[2025-10-18T02:24:52.668Z] 📄 Page 140: Found 50 items (0 new)
+[2025-10-18T02:24:52.669Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:24:52.669Z] 📊 Total unique rings: 500
+[2025-10-18T02:24:52.673Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:24:54.218Z] 📄 Loading page 141 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7000+1
+[2025-10-18T02:24:58.216Z] 📄 Page 141: Found 50 items (0 new)
+[2025-10-18T02:24:58.216Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:24:58.216Z] 📊 Total unique rings: 500
+[2025-10-18T02:24:58.220Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:24:59.768Z] 📄 Loading page 142 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7050+1
+[2025-10-18T02:25:03.764Z] 📄 Page 142: Found 50 items (0 new)
+[2025-10-18T02:25:03.765Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:25:03.765Z] 📊 Total unique rings: 500
+[2025-10-18T02:25:03.769Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:25:05.316Z] 📄 Loading page 143 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7100+1
+[2025-10-18T02:25:09.314Z] 📄 Page 143: Found 50 items (0 new)
+[2025-10-18T02:25:09.314Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:25:09.315Z] 📊 Total unique rings: 500
+[2025-10-18T02:25:09.318Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:25:10.865Z] 📄 Loading page 144 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7150+1
+[2025-10-18T02:25:14.862Z] 📄 Page 144: Found 50 items (0 new)
+[2025-10-18T02:25:14.862Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:25:14.862Z] 📊 Total unique rings: 500
+[2025-10-18T02:25:14.864Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:25:16.409Z] 📄 Loading page 145 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7200+1
+[2025-10-18T02:25:20.406Z] 📄 Page 145: Found 50 items (0 new)
+[2025-10-18T02:25:20.407Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:25:20.407Z] 📊 Total unique rings: 500
+[2025-10-18T02:25:20.411Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:25:21.959Z] 📄 Loading page 146 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7250+1
+[2025-10-18T02:25:25.958Z] 📄 Page 146: Found 50 items (0 new)
+[2025-10-18T02:25:25.958Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:25:25.958Z] 📊 Total unique rings: 500
+[2025-10-18T02:25:25.963Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:25:27.509Z] 📄 Loading page 147 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7300+1
+[2025-10-18T02:25:31.506Z] 📄 Page 147: Found 50 items (0 new)
+[2025-10-18T02:25:31.507Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:25:31.507Z] 📊 Total unique rings: 500
+[2025-10-18T02:25:31.511Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:25:33.057Z] 📄 Loading page 148 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7350+1
+[2025-10-18T02:25:37.056Z] 📄 Page 148: Found 50 items (0 new)
+[2025-10-18T02:25:37.057Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:25:37.057Z] 📊 Total unique rings: 500
+[2025-10-18T02:25:37.061Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:25:38.608Z] 📄 Loading page 149 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7400+1
+[2025-10-18T02:25:42.604Z] 📄 Page 149: Found 50 items (0 new)
+[2025-10-18T02:25:42.604Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:25:42.604Z] 📊 Total unique rings: 500
+[2025-10-18T02:25:42.608Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:25:44.153Z] 📄 Loading page 150 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7450+1
+[2025-10-18T02:25:48.151Z] 📄 Page 150: Found 50 items (0 new)
+[2025-10-18T02:25:48.151Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:25:48.151Z] 📊 Total unique rings: 500
+[2025-10-18T02:25:48.155Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:25:49.699Z] 📄 Loading page 151 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7500+1
+[2025-10-18T02:25:53.696Z] 📄 Page 151: Found 50 items (0 new)
+[2025-10-18T02:25:53.696Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:25:53.696Z] 📊 Total unique rings: 500
+[2025-10-18T02:25:53.699Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:25:55.248Z] 📄 Loading page 152 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7550+1
+[2025-10-18T02:25:59.244Z] 📄 Page 152: Found 50 items (0 new)
+[2025-10-18T02:25:59.245Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:25:59.245Z] 📊 Total unique rings: 500
+[2025-10-18T02:25:59.249Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:26:00.794Z] 📄 Loading page 153 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7600+1
+[2025-10-18T02:26:04.792Z] 📄 Page 153: Found 50 items (0 new)
+[2025-10-18T02:26:04.793Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:26:04.793Z] 📊 Total unique rings: 500
+[2025-10-18T02:26:04.796Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:26:06.341Z] 📄 Loading page 154 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7650+1
+[2025-10-18T02:26:10.338Z] 📄 Page 154: Found 50 items (0 new)
+[2025-10-18T02:26:10.339Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:26:10.339Z] 📊 Total unique rings: 500
+[2025-10-18T02:26:10.343Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:26:11.889Z] 📄 Loading page 155 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7700+1
+[2025-10-18T02:26:15.885Z] 📄 Page 155: Found 50 items (0 new)
+[2025-10-18T02:26:15.885Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:26:15.886Z] 📊 Total unique rings: 500
+[2025-10-18T02:26:15.889Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:26:17.436Z] 📄 Loading page 156 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7750+1
+[2025-10-18T02:26:21.432Z] 📄 Page 156: Found 50 items (0 new)
+[2025-10-18T02:26:21.432Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:26:21.432Z] 📊 Total unique rings: 500
+[2025-10-18T02:26:21.437Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:26:22.984Z] 📄 Loading page 157 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7800+1
+[2025-10-18T02:26:26.983Z] 📄 Page 157: Found 50 items (0 new)
+[2025-10-18T02:26:26.984Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:26:26.984Z] 📊 Total unique rings: 500
+[2025-10-18T02:26:26.989Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:26:28.548Z] 📄 Loading page 158 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7850+1
+[2025-10-18T02:26:32.541Z] 📄 Page 158: Found 50 items (0 new)
+[2025-10-18T02:26:32.541Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:26:32.541Z] 📊 Total unique rings: 500
+[2025-10-18T02:26:32.544Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:26:34.091Z] 📄 Loading page 159 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7900+1
+[2025-10-18T02:26:38.089Z] 📄 Page 159: Found 50 items (0 new)
+[2025-10-18T02:26:38.090Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:26:38.090Z] 📊 Total unique rings: 500
+[2025-10-18T02:26:38.094Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:26:39.642Z] 📄 Loading page 160 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#7950+1
+[2025-10-18T02:26:43.638Z] 📄 Page 160: Found 50 items (0 new)
+[2025-10-18T02:26:43.639Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:26:43.639Z] 📊 Total unique rings: 500
+[2025-10-18T02:26:43.642Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:26:45.190Z] 📄 Loading page 161 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8000+1
+[2025-10-18T02:26:49.185Z] 📄 Page 161: Found 50 items (0 new)
+[2025-10-18T02:26:49.186Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:26:49.186Z] 📊 Total unique rings: 500
+[2025-10-18T02:26:49.190Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:26:50.738Z] 📄 Loading page 162 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8050+1
+[2025-10-18T02:26:54.735Z] 📄 Page 162: Found 50 items (0 new)
+[2025-10-18T02:26:54.735Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:26:54.735Z] 📊 Total unique rings: 500
+[2025-10-18T02:26:54.740Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:26:56.289Z] 📄 Loading page 163 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8100+1
+[2025-10-18T02:27:00.285Z] 📄 Page 163: Found 50 items (0 new)
+[2025-10-18T02:27:00.285Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:27:00.286Z] 📊 Total unique rings: 500
+[2025-10-18T02:27:00.289Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:27:01.834Z] 📄 Loading page 164 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8150+1
+[2025-10-18T02:27:05.832Z] 📄 Page 164: Found 50 items (0 new)
+[2025-10-18T02:27:05.833Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:27:05.833Z] 📊 Total unique rings: 500
+[2025-10-18T02:27:05.837Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:27:07.383Z] 📄 Loading page 165 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8200+1
+[2025-10-18T02:27:11.379Z] 📄 Page 165: Found 50 items (0 new)
+[2025-10-18T02:27:11.380Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:27:11.380Z] 📊 Total unique rings: 500
+[2025-10-18T02:27:11.384Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:27:12.932Z] 📄 Loading page 166 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8250+1
+[2025-10-18T02:27:16.929Z] 📄 Page 166: Found 50 items (0 new)
+[2025-10-18T02:27:16.929Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:27:16.930Z] 📊 Total unique rings: 500
+[2025-10-18T02:27:16.933Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:27:18.480Z] 📄 Loading page 167 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8300+1
+[2025-10-18T02:27:22.477Z] 📄 Page 167: Found 50 items (0 new)
+[2025-10-18T02:27:22.478Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:27:22.478Z] 📊 Total unique rings: 500
+[2025-10-18T02:27:22.483Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:27:24.043Z] 📄 Loading page 168 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8350+1
+[2025-10-18T02:27:28.042Z] 📄 Page 168: Found 50 items (0 new)
+[2025-10-18T02:27:28.042Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:27:28.043Z] 📊 Total unique rings: 500
+[2025-10-18T02:27:28.047Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:27:29.594Z] 📄 Loading page 169 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8400+1
+[2025-10-18T02:27:33.593Z] 📄 Page 169: Found 50 items (0 new)
+[2025-10-18T02:27:33.594Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:27:33.594Z] 📊 Total unique rings: 500
+[2025-10-18T02:27:33.598Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:27:35.145Z] 📄 Loading page 170 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8450+1
+[2025-10-18T02:27:39.142Z] 📄 Page 170: Found 50 items (0 new)
+[2025-10-18T02:27:39.142Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:27:39.143Z] 📊 Total unique rings: 500
+[2025-10-18T02:27:39.146Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:27:40.687Z] 📄 Loading page 171 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8500+1
+[2025-10-18T02:27:44.684Z] 📄 Page 171: Found 50 items (0 new)
+[2025-10-18T02:27:44.684Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:27:44.685Z] 📊 Total unique rings: 500
+[2025-10-18T02:27:44.688Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:27:46.235Z] 📄 Loading page 172 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8550+1
+[2025-10-18T02:27:50.232Z] 📄 Page 172: Found 50 items (0 new)
+[2025-10-18T02:27:50.232Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:27:50.232Z] 📊 Total unique rings: 500
+[2025-10-18T02:27:50.236Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:27:51.783Z] 📄 Loading page 173 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8600+1
+[2025-10-18T02:27:55.782Z] 📄 Page 173: Found 50 items (0 new)
+[2025-10-18T02:27:55.782Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:27:55.782Z] 📊 Total unique rings: 500
+[2025-10-18T02:27:55.786Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:27:57.334Z] 📄 Loading page 174 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8650+1
+[2025-10-18T02:28:01.333Z] 📄 Page 174: Found 50 items (0 new)
+[2025-10-18T02:28:01.334Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:28:01.334Z] 📊 Total unique rings: 500
+[2025-10-18T02:28:01.338Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:28:02.882Z] 📄 Loading page 175 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8700+1
+[2025-10-18T02:28:06.882Z] 📄 Page 175: Found 50 items (0 new)
+[2025-10-18T02:28:06.882Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:28:06.883Z] 📊 Total unique rings: 500
+[2025-10-18T02:28:06.887Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:28:08.448Z] 📄 Loading page 176 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8750+1
+[2025-10-18T02:28:12.445Z] 📄 Page 176: Found 50 items (0 new)
+[2025-10-18T02:28:12.445Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:28:12.446Z] 📊 Total unique rings: 500
+[2025-10-18T02:28:12.450Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:28:14.006Z] 📄 Loading page 177 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8800+1
+[2025-10-18T02:28:18.007Z] 📄 Page 177: Found 50 items (0 new)
+[2025-10-18T02:28:18.007Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:28:18.008Z] 📊 Total unique rings: 500
+[2025-10-18T02:28:18.012Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:28:19.571Z] 📄 Loading page 178 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8850+1
+[2025-10-18T02:28:23.571Z] 📄 Page 178: Found 50 items (0 new)
+[2025-10-18T02:28:23.571Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:28:23.572Z] 📊 Total unique rings: 500
+[2025-10-18T02:28:23.575Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:28:25.122Z] 📄 Loading page 179 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8900+1
+[2025-10-18T02:28:29.120Z] 📄 Page 179: Found 50 items (0 new)
+[2025-10-18T02:28:29.121Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:28:29.122Z] 📊 Total unique rings: 500
+[2025-10-18T02:28:29.126Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:28:30.687Z] 📄 Loading page 180 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#8950+1
+[2025-10-18T02:28:34.685Z] 📄 Page 180: Found 50 items (0 new)
+[2025-10-18T02:28:34.686Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:28:34.686Z] 📊 Total unique rings: 500
+[2025-10-18T02:28:34.691Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:28:36.249Z] 📄 Loading page 181 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9000+1
+[2025-10-18T02:28:40.248Z] 📄 Page 181: Found 50 items (0 new)
+[2025-10-18T02:28:40.249Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:28:40.249Z] 📊 Total unique rings: 500
+[2025-10-18T02:28:40.254Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:28:41.814Z] 📄 Loading page 182 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9050+1
+[2025-10-18T02:28:45.813Z] 📄 Page 182: Found 50 items (0 new)
+[2025-10-18T02:28:45.814Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:28:45.815Z] 📊 Total unique rings: 500
+[2025-10-18T02:28:45.820Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:28:47.371Z] 📄 Loading page 183 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9100+1
+[2025-10-18T02:28:51.372Z] 📄 Page 183: Found 50 items (0 new)
+[2025-10-18T02:28:51.373Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:28:51.373Z] 📊 Total unique rings: 500
+[2025-10-18T02:28:51.378Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:28:52.938Z] 📄 Loading page 184 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9150+1
+[2025-10-18T02:28:56.940Z] 📄 Page 184: Found 50 items (0 new)
+[2025-10-18T02:28:56.940Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:28:56.940Z] 📊 Total unique rings: 500
+[2025-10-18T02:28:56.945Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:28:58.505Z] 📄 Loading page 185 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9200+1
+[2025-10-18T02:29:02.507Z] 📄 Page 185: Found 50 items (0 new)
+[2025-10-18T02:29:02.507Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:29:02.507Z] 📊 Total unique rings: 500
+[2025-10-18T02:29:02.512Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:29:04.071Z] 📄 Loading page 186 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9250+1
+[2025-10-18T02:29:08.070Z] 📄 Page 186: Found 50 items (0 new)
+[2025-10-18T02:29:08.070Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:29:08.071Z] 📊 Total unique rings: 500
+[2025-10-18T02:29:08.075Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:29:09.635Z] 📄 Loading page 187 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9300+1
+[2025-10-18T02:29:13.636Z] 📄 Page 187: Found 50 items (0 new)
+[2025-10-18T02:29:13.637Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:29:13.637Z] 📊 Total unique rings: 500
+[2025-10-18T02:29:13.641Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:29:15.205Z] 📄 Loading page 188 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9350+1
+[2025-10-18T02:29:19.206Z] 📄 Page 188: Found 50 items (0 new)
+[2025-10-18T02:29:19.207Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:29:19.207Z] 📊 Total unique rings: 500
+[2025-10-18T02:29:19.212Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:29:20.755Z] 📄 Loading page 189 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9400+1
+[2025-10-18T02:29:24.753Z] 📄 Page 189: Found 50 items (0 new)
+[2025-10-18T02:29:24.753Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:29:24.753Z] 📊 Total unique rings: 500
+[2025-10-18T02:29:24.757Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:29:26.303Z] 📄 Loading page 190 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9450+1
+[2025-10-18T02:29:30.300Z] 📄 Page 190: Found 50 items (0 new)
+[2025-10-18T02:29:30.301Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:29:30.301Z] 📊 Total unique rings: 500
+[2025-10-18T02:29:30.306Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:29:31.851Z] 📄 Loading page 191 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9500+1
+[2025-10-18T02:29:35.849Z] 📄 Page 191: Found 50 items (0 new)
+[2025-10-18T02:29:35.849Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:29:35.849Z] 📊 Total unique rings: 500
+[2025-10-18T02:29:35.852Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:29:37.398Z] 📄 Loading page 192 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9550+1
+[2025-10-18T02:29:41.395Z] 📄 Page 192: Found 50 items (0 new)
+[2025-10-18T02:29:41.396Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:29:41.396Z] 📊 Total unique rings: 500
+[2025-10-18T02:29:41.400Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:29:42.946Z] 📄 Loading page 193 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9600+1
+[2025-10-18T02:29:46.943Z] 📄 Page 193: Found 50 items (0 new)
+[2025-10-18T02:29:46.943Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:29:46.943Z] 📊 Total unique rings: 500
+[2025-10-18T02:29:46.947Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:29:48.495Z] 📄 Loading page 194 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9650+1
+[2025-10-18T02:29:52.492Z] 📄 Page 194: Found 50 items (0 new)
+[2025-10-18T02:29:52.492Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:29:52.492Z] 📊 Total unique rings: 500
+[2025-10-18T02:29:52.496Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:29:54.043Z] 📄 Loading page 195 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9700+1
+[2025-10-18T02:29:58.041Z] 📄 Page 195: Found 50 items (0 new)
+[2025-10-18T02:29:58.042Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:29:58.042Z] 📊 Total unique rings: 500
+[2025-10-18T02:29:58.047Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:29:59.606Z] 📄 Loading page 196 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9750+1
+[2025-10-18T02:30:03.603Z] 📄 Page 196: Found 50 items (0 new)
+[2025-10-18T02:30:03.603Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:30:03.603Z] 📊 Total unique rings: 500
+[2025-10-18T02:30:03.607Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:30:05.152Z] 📄 Loading page 197 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9800+1
+[2025-10-18T02:30:09.149Z] 📄 Page 197: Found 50 items (0 new)
+[2025-10-18T02:30:09.149Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:30:09.150Z] 📊 Total unique rings: 500
+[2025-10-18T02:30:09.153Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:30:10.701Z] 📄 Loading page 198 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9850+1
+[2025-10-18T02:30:14.697Z] 📄 Page 198: Found 50 items (0 new)
+[2025-10-18T02:30:14.697Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:30:14.698Z] 📊 Total unique rings: 500
+[2025-10-18T02:30:14.701Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:30:16.246Z] 📄 Loading page 199 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9900+1
+[2025-10-18T02:30:20.247Z] 📄 Page 199: Found 50 items (0 new)
+[2025-10-18T02:30:20.248Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:30:20.248Z] 📊 Total unique rings: 500
+[2025-10-18T02:30:20.253Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:30:21.811Z] 📄 Loading page 200 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#9950+1
+[2025-10-18T02:30:25.810Z] 📄 Page 200: Found 50 items (0 new)
+[2025-10-18T02:30:25.811Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:30:25.812Z] 📊 Total unique rings: 500
+[2025-10-18T02:30:25.816Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:30:27.375Z] 📄 Loading page 201 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#10000+1
+[2025-10-18T02:30:31.376Z] 📄 Page 201: Found 50 items (0 new)
+[2025-10-18T02:30:31.377Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:30:31.377Z] 📊 Total unique rings: 500
+[2025-10-18T02:30:31.382Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:30:32.941Z] 📄 Loading page 202 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#10050+1
+[2025-10-18T02:30:36.942Z] 📄 Page 202: Found 50 items (0 new)
+[2025-10-18T02:30:36.943Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:30:36.943Z] 📊 Total unique rings: 500
+[2025-10-18T02:30:36.949Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:30:38.508Z] 📄 Loading page 203 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#10100+1
+[2025-10-18T02:30:42.507Z] 📄 Page 203: Found 50 items (0 new)
+[2025-10-18T02:30:42.507Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:30:42.508Z] 📊 Total unique rings: 500
+[2025-10-18T02:30:42.513Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:30:44.074Z] 📄 Loading page 204 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#10150+1
+[2025-10-18T02:30:48.075Z] 📄 Page 204: Found 50 items (0 new)
+[2025-10-18T02:30:48.075Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:30:48.076Z] 📊 Total unique rings: 500
+[2025-10-18T02:30:48.080Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:30:49.639Z] 📄 Loading page 205 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#10200+1
+[2025-10-18T02:30:53.638Z] 📄 Page 205: Found 50 items (0 new)
+[2025-10-18T02:30:53.638Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:30:53.638Z] 📊 Total unique rings: 500
+[2025-10-18T02:30:53.644Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:30:55.218Z] 📄 Loading page 206 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#10250+1
+[2025-10-18T02:30:59.212Z] 📄 Page 206: Found 50 items (0 new)
+[2025-10-18T02:30:59.213Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:30:59.213Z] 📊 Total unique rings: 500
+[2025-10-18T02:30:59.218Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:31:00.779Z] 📄 Loading page 207 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#10300+1
+[2025-10-18T02:31:04.780Z] 📄 Page 207: Found 50 items (0 new)
+[2025-10-18T02:31:04.781Z] 🆔 Sample IDs: 1449, 4535, 5001, 5009, 5010
+[2025-10-18T02:31:04.781Z] 📊 Total unique rings: 500
+[2025-10-18T02:31:04.786Z] 💾 Saved 500 rings IDs to turtle_db/items-4.0.11.json
+[2025-10-18T02:31:06.344Z] 📄 Loading page 208 with fresh browser context: https://database.turtle-wow.org/?items=4.0.11#10350+1
