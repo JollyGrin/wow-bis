@@ -299,22 +299,18 @@ class ItemDetailProcessor {
         
         this.log(`✅ Processed: ${item.name}`);
         
-        // Save progress every 10 items for better performance, or at the end
-        if (overallProgress % 10 === 0 || overallProgress === remainingIds.length) {
-          this.saveProgress(progress);
-          this.saveItems(category, items);
-          this.log(`💾 Saved batch: ${items.length} total items`);
-        }
+        // Save after every item to prevent data loss
+        this.saveProgress(progress);
+        this.saveItems(category, items);
+        this.log(`💾 Saved: ${items.length} total items`);
         
       } else {
         progress.subcategories[category].failed_count++;
         progress.failed_items.push(itemId);
         this.logError(`Failed to process ${category} item ${itemId} after 4 attempts`);
         
-        // Continue processing but save progress
-        if (overallProgress % 10 === 0) {
-          this.saveProgress(progress);
-        }
+        // Save progress after failure
+        this.saveProgress(progress);
       }
       
       // Rate limiting with stealth protection

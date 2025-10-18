@@ -1,2 +1,80 @@
-[]
-
+[
+  {
+    "itemId": 811,
+    "name": "Axe of the Deep Woods",
+    "icon": "",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 54123,
+    "quality": "Epic",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Axe of the Deep Woods"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "78 - 146  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:811::::::::::0|h[Axe of the Deep Woods]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "axe-of-the-deep-woods"
+  },
+  {
+    "itemId": 871,
+    "name": "Flurry Axe",
+    "icon": "",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 29627,
+    "quality": "Epic",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Flurry Axe"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "37 - 69  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:871::::::::::0|h[Flurry Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "flurry-axe"
+  }
+]

@@ -298,3 +298,112 @@
 [2025-10-18T16:21:44.027Z] 📦 Already processed: 0
 [2025-10-18T16:21:44.027Z] ⏳ Remaining to process: 2845
 [2025-10-18T16:21:44.027Z] 🔍 Processing weapons 811 (1/2850)
+[2025-10-18T17:06:10.935Z] 🚀 Initializing browser with anti-detection...
+[2025-10-18T17:06:11.805Z] ✅ Browser initialized with stealth mode
+[2025-10-18T17:06:11.805Z] 
+🚀 Starting Item Detail Processing
+
+[2025-10-18T17:06:11.805Z] 📁 Loading IDs from 18 weapons subcategories
+[2025-10-18T17:06:11.805Z]   ✅ Loaded 214 IDs from 2.0
+[2025-10-18T17:06:11.806Z]   ✅ Loaded 168 IDs from 2.1
+[2025-10-18T17:06:11.806Z]   ✅ Loaded 143 IDs from 2.2
+[2025-10-18T17:06:11.806Z]   ✅ Loaded 122 IDs from 2.3
+[2025-10-18T17:06:11.806Z]   ✅ Loaded 314 IDs from 2.4
+[2025-10-18T17:06:11.806Z]   ✅ Loaded 203 IDs from 2.5
+[2025-10-18T17:06:11.807Z]   ✅ Loaded 101 IDs from 2.6
+[2025-10-18T17:06:11.807Z]   ✅ Loaded 340 IDs from 2.7
+[2025-10-18T17:06:11.807Z]   ✅ Loaded 196 IDs from 2.8
+[2025-10-18T17:06:11.807Z]   ✅ Loaded 347 IDs from 2.10
+[2025-10-18T17:06:11.807Z]   ✅ Loaded 74 IDs from 2.13
+[2025-10-18T17:06:11.807Z]   ✅ Loaded 82 IDs from 2.14
+[2025-10-18T17:06:11.807Z]   ✅ Loaded 318 IDs from 2.15
+[2025-10-18T17:06:11.808Z]   ✅ Loaded 28 IDs from 2.16
+[2025-10-18T17:06:11.808Z]   ✅ Loaded 2 IDs from 2.17
+[2025-10-18T17:06:11.808Z]   ✅ Loaded 32 IDs from 2.18
+[2025-10-18T17:06:11.808Z]   ✅ Loaded 157 IDs from 2.19
+[2025-10-18T17:06:11.808Z]   ✅ Loaded 9 IDs from 2.20
+[2025-10-18T17:06:11.808Z] 📊 Total unique weapons IDs: 2850
+[2025-10-18T17:06:11.809Z] 📦 Loaded 0 existing weapons items
+[2025-10-18T17:06:11.809Z] 
+🎯 Processing weapons items
+[2025-10-18T17:06:11.809Z] 📊 Total IDs to process: 2850
+[2025-10-18T17:06:11.809Z] 📦 Already processed: 0
+[2025-10-18T17:06:11.809Z] ⏳ Remaining to process: 2850
+[2025-10-18T17:06:11.809Z] 🔍 Processing weapons 811 (1/2850)
+[2025-10-18T17:06:14.785Z] ✅ Processed: Axe of the Deep Woods
+[2025-10-18T17:06:16.787Z] 🔍 Processing weapons 871 (2/2850)
+[2025-10-18T17:06:19.908Z] ✅ Processed: Flurry Axe
+[2025-10-18T17:06:21.910Z] 🔍 Processing weapons 1292 (3/2850)
+[2025-10-18T17:06:25.011Z] ✅ Processed: Butcher's Cleaver
+[2025-10-18T17:08:34.006Z] 🚀 Initializing browser with anti-detection...
+[2025-10-18T17:08:34.435Z] ✅ Browser initialized with stealth mode
+[2025-10-18T17:08:34.435Z] 
+🚀 Starting Item Detail Processing
+
+[2025-10-18T17:08:34.436Z] 📁 Loading IDs from 18 weapons subcategories
+[2025-10-18T17:08:34.436Z]   ✅ Loaded 214 IDs from 2.0
+[2025-10-18T17:08:34.436Z]   ✅ Loaded 168 IDs from 2.1
+[2025-10-18T17:08:34.436Z]   ✅ Loaded 143 IDs from 2.2
+[2025-10-18T17:08:34.436Z]   ✅ Loaded 122 IDs from 2.3
+[2025-10-18T17:08:34.436Z]   ✅ Loaded 314 IDs from 2.4
+[2025-10-18T17:08:34.436Z]   ✅ Loaded 203 IDs from 2.5
+[2025-10-18T17:08:34.436Z]   ✅ Loaded 101 IDs from 2.6
+[2025-10-18T17:08:34.436Z]   ✅ Loaded 340 IDs from 2.7
+[2025-10-18T17:08:34.436Z]   ✅ Loaded 196 IDs from 2.8
+[2025-10-18T17:08:34.436Z]   ✅ Loaded 347 IDs from 2.10
+[2025-10-18T17:08:34.437Z]   ✅ Loaded 74 IDs from 2.13
+[2025-10-18T17:08:34.437Z]   ✅ Loaded 82 IDs from 2.14
+[2025-10-18T17:08:34.437Z]   ✅ Loaded 318 IDs from 2.15
+[2025-10-18T17:08:34.437Z]   ✅ Loaded 28 IDs from 2.16
+[2025-10-18T17:08:34.437Z]   ✅ Loaded 2 IDs from 2.17
+[2025-10-18T17:08:34.437Z]   ✅ Loaded 32 IDs from 2.18
+[2025-10-18T17:08:34.437Z]   ✅ Loaded 157 IDs from 2.19
+[2025-10-18T17:08:34.437Z]   ✅ Loaded 9 IDs from 2.20
+[2025-10-18T17:08:34.437Z] 📊 Total unique weapons IDs: 2850
+[2025-10-18T17:08:34.437Z] 📦 Loaded 0 existing weapons items
+[2025-10-18T17:08:34.437Z] 
+🎯 Processing weapons items
+[2025-10-18T17:08:34.437Z] 📊 Total IDs to process: 2850
+[2025-10-18T17:08:34.437Z] 📦 Already processed: 0
+[2025-10-18T17:08:34.437Z] ⏳ Remaining to process: 2850
+[2025-10-18T17:08:34.437Z] 🔍 Processing weapons 811 (1/2850)
+[2025-10-18T17:10:37.818Z] 🚀 Initializing browser with anti-detection...
+[2025-10-18T17:10:38.203Z] ✅ Browser initialized with stealth mode
+[2025-10-18T17:10:38.204Z] 
+🚀 Starting Item Detail Processing
+
+[2025-10-18T17:10:38.204Z] 📁 Loading IDs from 18 weapons subcategories
+[2025-10-18T17:10:38.204Z]   ✅ Loaded 214 IDs from 2.0
+[2025-10-18T17:10:38.204Z]   ✅ Loaded 168 IDs from 2.1
+[2025-10-18T17:10:38.204Z]   ✅ Loaded 143 IDs from 2.2
+[2025-10-18T17:10:38.204Z]   ✅ Loaded 122 IDs from 2.3
+[2025-10-18T17:10:38.204Z]   ✅ Loaded 314 IDs from 2.4
+[2025-10-18T17:10:38.204Z]   ✅ Loaded 203 IDs from 2.5
+[2025-10-18T17:10:38.205Z]   ✅ Loaded 101 IDs from 2.6
+[2025-10-18T17:10:38.205Z]   ✅ Loaded 340 IDs from 2.7
+[2025-10-18T17:10:38.205Z]   ✅ Loaded 196 IDs from 2.8
+[2025-10-18T17:10:38.205Z]   ✅ Loaded 347 IDs from 2.10
+[2025-10-18T17:10:38.205Z]   ✅ Loaded 74 IDs from 2.13
+[2025-10-18T17:10:38.205Z]   ✅ Loaded 82 IDs from 2.14
+[2025-10-18T17:10:38.205Z]   ✅ Loaded 318 IDs from 2.15
+[2025-10-18T17:10:38.205Z]   ✅ Loaded 28 IDs from 2.16
+[2025-10-18T17:10:38.205Z]   ✅ Loaded 2 IDs from 2.17
+[2025-10-18T17:10:38.205Z]   ✅ Loaded 32 IDs from 2.18
+[2025-10-18T17:10:38.205Z]   ✅ Loaded 157 IDs from 2.19
+[2025-10-18T17:10:38.205Z]   ✅ Loaded 9 IDs from 2.20
+[2025-10-18T17:10:38.205Z] 📊 Total unique weapons IDs: 2850
+[2025-10-18T17:10:38.205Z] 📦 Loaded 0 existing weapons items
+[2025-10-18T17:10:38.205Z] 
+🎯 Processing weapons items
+[2025-10-18T17:10:38.205Z] 📊 Total IDs to process: 2850
+[2025-10-18T17:10:38.205Z] 📦 Already processed: 0
+[2025-10-18T17:10:38.205Z] ⏳ Remaining to process: 2850
+[2025-10-18T17:10:38.205Z] 🔍 Processing weapons 811 (1/2850)
+[2025-10-18T17:10:41.213Z] ✅ Processed: Axe of the Deep Woods
+[2025-10-18T17:10:41.216Z] 💾 Saved 1 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:10:41.216Z] 💾 Saved: 1 total items
+[2025-10-18T17:10:43.217Z] 🔍 Processing weapons 871 (2/2850)
+[2025-10-18T17:10:46.324Z] ✅ Processed: Flurry Axe
+[2025-10-18T17:10:46.326Z] 💾 Saved 2 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:10:46.326Z] 💾 Saved: 2 total items
+[2025-10-18T17:10:48.326Z] 🔍 Processing weapons 1292 (3/2850)

@@ -1,6 +1,13 @@
 {
-  "subcategories": {},
+  "subcategories": {
+    "weapons": {
+      "processed_count": 2,
+      "failed_count": 0,
+      "last_processed_id": 871,
+      "complete": false
+    }
+  },
   "start_time": "2025-10-18T16:25:00.000Z",
-  "last_updated": "2025-10-18T16:25:00.000Z",
+  "last_updated": "2025-10-18T17:10:46.324Z",
   "failed_items": []
 }
