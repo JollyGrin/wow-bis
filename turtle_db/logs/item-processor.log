@@ -407,3 +407,50 @@
 [2025-10-18T17:10:46.326Z] 💾 Saved 2 weapons items to turtle_db/processed-weapons.json
 [2025-10-18T17:10:46.326Z] 💾 Saved: 2 total items
 [2025-10-18T17:10:48.326Z] 🔍 Processing weapons 1292 (3/2850)
+[2025-10-18T17:15:28.747Z] 🚀 Initializing browser with anti-detection...
+[2025-10-18T17:15:29.115Z] ✅ Browser initialized with stealth mode
+[2025-10-18T17:15:29.116Z] 
+🚀 Starting Item Detail Processing
+
+[2025-10-18T17:15:29.116Z] 📁 Loading IDs from 18 weapons subcategories
+[2025-10-18T17:15:29.116Z]   ✅ Loaded 214 IDs from 2.0
+[2025-10-18T17:15:29.117Z]   ✅ Loaded 168 IDs from 2.1
+[2025-10-18T17:15:29.117Z]   ✅ Loaded 143 IDs from 2.2
+[2025-10-18T17:15:29.117Z]   ✅ Loaded 122 IDs from 2.3
+[2025-10-18T17:15:29.117Z]   ✅ Loaded 314 IDs from 2.4
+[2025-10-18T17:15:29.118Z]   ✅ Loaded 203 IDs from 2.5
+[2025-10-18T17:15:29.118Z]   ✅ Loaded 101 IDs from 2.6
+[2025-10-18T17:15:29.118Z]   ✅ Loaded 340 IDs from 2.7
+[2025-10-18T17:15:29.118Z]   ✅ Loaded 196 IDs from 2.8
+[2025-10-18T17:15:29.118Z]   ✅ Loaded 347 IDs from 2.10
+[2025-10-18T17:15:29.118Z]   ✅ Loaded 74 IDs from 2.13
+[2025-10-18T17:15:29.118Z]   ✅ Loaded 82 IDs from 2.14
+[2025-10-18T17:15:29.119Z]   ✅ Loaded 318 IDs from 2.15
+[2025-10-18T17:15:29.119Z]   ✅ Loaded 28 IDs from 2.16
+[2025-10-18T17:15:29.119Z]   ✅ Loaded 2 IDs from 2.17
+[2025-10-18T17:15:29.119Z]   ✅ Loaded 32 IDs from 2.18
+[2025-10-18T17:15:29.119Z]   ✅ Loaded 157 IDs from 2.19
+[2025-10-18T17:15:29.119Z]   ✅ Loaded 9 IDs from 2.20
+[2025-10-18T17:15:29.119Z] 📊 Total unique weapons IDs: 2850
+[2025-10-18T17:15:29.119Z] 📦 Loaded 0 existing weapons items
+[2025-10-18T17:15:29.119Z] 
+🎯 Processing weapons items
+[2025-10-18T17:15:29.119Z] 📊 Total IDs to process: 2850
+[2025-10-18T17:15:29.119Z] 📦 Already processed: 0
+[2025-10-18T17:15:29.119Z] ⏳ Remaining to process: 2850
+[2025-10-18T17:15:29.119Z] 🔍 Processing weapons 811 (1/2850)
+[2025-10-18T17:15:35.120Z] ✅ Processed: Axe of the Deep Woods
+[2025-10-18T17:15:35.123Z] 💾 Saved 1 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:15:35.124Z] 💾 Saved: 1 total items
+[2025-10-18T17:15:37.124Z] 🔍 Processing weapons 871 (2/2850)
+[2025-10-18T17:15:43.127Z] ✅ Processed: Flurry Axe
+[2025-10-18T17:15:43.133Z] 💾 Saved 2 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:15:43.133Z] 💾 Saved: 2 total items
+[2025-10-18T17:15:45.134Z] 🔍 Processing weapons 1292 (3/2850)
+[2025-10-18T17:15:51.231Z] ✅ Processed: Butcher's Cleaver
+[2025-10-18T17:15:51.233Z] 💾 Saved 3 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:15:51.234Z] 💾 Saved: 3 total items
+[2025-10-18T17:15:53.235Z] 🔍 Processing weapons 1454 (4/2850)
+[2025-10-18T17:15:59.327Z] ✅ Processed: Axe of the Enforcer
+[2025-10-18T17:15:59.329Z] 💾 Saved 4 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:15:59.330Z] 💾 Saved: 4 total items

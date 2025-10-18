@@ -69,7 +69,8 @@ export class ItemExtractor {
         waitUntil: 'networkidle2', 
         timeout: 30000 
       });
-      await new Promise(resolve => setTimeout(resolve, 2000));
+      // Wait longer for images to load
+      await new Promise(resolve => setTimeout(resolve, 5000));
 
       // Check for Cloudflare protection
       const title = await page.title();
@@ -130,13 +131,35 @@ export class ItemExtractor {
           }
         }
 
-        // Get icon with better extraction logic
+        // Get icon with comprehensive extraction logic
         let icon = '';
-        const iconElem = document.querySelector('table img') || document.querySelector('img[src*="icons"]');
+        
+        // Try multiple approaches to find the icon
+        const iconElem = document.querySelector('table img') || 
+                         document.querySelector('img[src*="icons"]') ||
+                         document.querySelector('.icon img') ||
+                         document.querySelector('[class*="icon"] img') ||
+                         document.querySelector('img[alt*="icon"]') ||
+                         document.querySelector('img[src*="item"]');
+                         
         if (iconElem) {
           const iconSrc = iconElem.getAttribute('src') || '';
-          const iconMatch = iconSrc.match(/icons\/[a-z]+\/([^.]+)/i) || iconSrc.match(/([^\/]+)\.jpg$/i);
+          // Try multiple regex patterns for different icon URL formats
+          const iconMatch = iconSrc.match(/icons\/[a-z]+\/([^.]+)/i) || 
+                           iconSrc.match(/item\/([^.]+)/i) ||
+                           iconSrc.match(/([^\/]+)\.(?:jpg|png|gif)$/i) ||
+                           iconSrc.match(/\/([^\/]+)$/);
           icon = iconMatch?.[1] || '';
+        } else {
+          // If no image found, try to extract from CSS background or other sources
+          const iconDiv = document.querySelector('[style*="background"]') ||
+                          document.querySelector('.item-icon') ||
+                          document.querySelector('[class*="icon"]');
+          if (iconDiv) {
+            const style = iconDiv.getAttribute('style') || '';
+            const bgMatch = style.match(/url\(['"]?.*?icons\/[a-z]+\/([^'".\)]+)/i);
+            if (bgMatch) icon = bgMatch[1];
+          }
         }
 
         // Parse item details from the tooltip structure

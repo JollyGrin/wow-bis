@@ -54,6 +54,7 @@ async function testSellPrice() {
   
   if (result) {
     console.log(`✅ Item: ${result.name}`);
+    console.log(`🎨 Icon: "${result.icon}"`);
     console.log(`💰 Sell Price: ${result.sellPrice} copper`);
     console.log(`📊 Item Level: ${result.itemLevel}`);
     
@@ -65,6 +66,10 @@ async function testSellPrice() {
       console.log(`💰 Formatted: ${gold}g ${silver}s ${copper}c`);
     } else {
       console.log('❌ No sell price found');
+    }
+    
+    if (!result.icon || result.icon === '') {
+      console.log('❌ No icon found');
     }
   } else {
     console.log('❌ Failed to extract item');

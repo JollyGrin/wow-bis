@@ -2,7 +2,7 @@
   {
     "itemId": 811,
     "name": "Axe of the Deep Woods",
-    "icon": "",
+    "icon": "inv_axe_07",
     "class": "Weapon",
     "subclass": "Axe",
     "sellPrice": 54123,
@@ -41,7 +41,7 @@
   {
     "itemId": 871,
     "name": "Flurry Axe",
-    "icon": "",
+    "icon": "inv_axe_17",
     "class": "Weapon",
     "subclass": "Axe",
     "sellPrice": 29627,
@@ -76,5 +76,95 @@
     "itemLink": "|cffa335ee|Hitem:871::::::::::0|h[Flurry Axe]|h|r",
     "contentPhase": 1,
     "uniqueName": "flurry-axe"
+  },
+  {
+    "itemId": 1292,
+    "name": "Butcher's Cleaver",
+    "icon": "inv_axe_23",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 3300,
+    "quality": "Rare",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Butcher's Cleaver"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "23 - 32  Damage"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+2 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:1292::::::::::0|h[Butcher's Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "butchers-cleaver"
+  },
+  {
+    "itemId": 1454,
+    "name": "Axe of the Enforcer",
+    "icon": "inv_axe_21",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 3937,
+    "quality": "Rare",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Axe of the Enforcer"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "31 - 58  Damage"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:1454::::::::::0|h[Axe of the Enforcer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "axe-of-the-enforcer"
   }
 ]
