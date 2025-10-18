@@ -816,5 +816,5376 @@
     "itemLink": "|cff0070dd|Hitem:12774::::::::::0|h[Dawn's Edge]|h|r",
     "contentPhase": 1,
     "uniqueName": "dawns-edge"
+  },
+  {
+    "itemId": 12798,
+    "name": "Annihilator",
+    "icon": "inv_axe_12",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 57150,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Annihilator"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "49 - 92  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12798::::::::::0|h[Annihilator]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "annihilator"
+  },
+  {
+    "itemId": 12990,
+    "name": "Razor's Edge",
+    "icon": "inv_weapon_halberd_08",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2589,
+    "quality": "Rare",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Razor's Edge"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "25 - 48  Damage"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+2 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12990::::::::::0|h[Razor's Edge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "razors-edge"
+  },
+  {
+    "itemId": 13014,
+    "name": "Axe of Rin'ji",
+    "icon": "inv_axe_21",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 34705,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Axe of Rin'ji"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "46 - 87  Damage"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13014::::::::::0|h[Axe of Rin'ji]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "axe-of-rinji"
+  },
+  {
+    "itemId": 13015,
+    "name": "Serathil",
+    "icon": "inv_axe_08",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 53957,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Serathil"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "100 Armor"
+      },
+      {
+        "label": "53 - 99  Damage"
+      },
+      {
+        "label": "+9 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13015::::::::::0|h[Serathil]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "serathil"
+  },
+  {
+    "itemId": 13286,
+    "name": "Rivenspike",
+    "icon": "inv_pick_05",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 44106,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Rivenspike"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "77 - 144  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13286::::::::::0|h[Rivenspike]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rivenspike"
+  },
+  {
+    "itemId": 13952,
+    "name": "Iceblade Hacker",
+    "icon": "inv_axe_03",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 56683,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Iceblade Hacker"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "57 - 106  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13952::::::::::0|h[Iceblade Hacker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "iceblade-hacker"
+  },
+  {
+    "itemId": 17016,
+    "name": "Dark Iron Destroyer",
+    "icon": "inv_axe_12",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 87000,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Dark Iron Destroyer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "79 - 147  Damage"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+8 Fire"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:17016::::::::::0|h[Dark Iron Destroyer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dark-iron-destroyer"
+  },
+  {
+    "itemId": 17068,
+    "name": "Deathbringer",
+    "icon": "inv_axe_09",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 134832,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Deathbringer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "114 - 213  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:17068::::::::::0|h[Deathbringer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "deathbringer"
+  },
+  {
+    "itemId": 18498,
+    "name": "Hedgecutter",
+    "icon": "inv_axe_11",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 47443,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Hedgecutter"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "60 - 90  Damage"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+5 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18498::::::::::0|h[Hedgecutter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hedgecutter"
+  },
+  {
+    "itemId": 18737,
+    "name": "Bone Slicing Hatchet",
+    "icon": "inv_axe_11",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 52427,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Bone Slicing Hatchet"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "48 - 90  Damage"
+      },
+      {
+        "label": "+13 Agility"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18737::::::::::0|h[Bone Slicing Hatchet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bone-slicing-hatchet"
+  },
+  {
+    "itemId": 18827,
+    "name": "Grand Marshal's Handaxe",
+    "icon": "inv_axe_24",
+    "class": "Weapon",
+    "subclass": "axe",
+    "sellPrice": 50048,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Grand Marshal's Handaxe"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "156 - 224  Damage"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "+28 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18827::::::::::0|h[Grand Marshal's Handaxe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grand-marshals-handaxe"
+  },
+  {
+    "itemId": 18828,
+    "name": "High Warlord's Cleaver",
+    "icon": "inv_axe_02",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 50225,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "High Warlord's Cleaver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "156 - 224  Damage"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "+28 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18828::::::::::0|h[High Warlord's Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-warlords-cleaver"
+  },
+  {
+    "itemId": 19103,
+    "name": "Frostbite",
+    "icon": "inv_axe_22",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 63999,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Frostbite"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "80 - 150  Damage"
+      },
+      {
+        "label": "+15 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19103::::::::::0|h[Frostbite]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "frostbite"
+  },
+  {
+    "itemId": 19362,
+    "name": "Doom's Edge",
+    "icon": "inv_axe_15",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 106098,
+    "quality": "Epic",
+    "itemLevel": 70,
+    "requiredLevel": 60,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Doom's Edge"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "83 - 154  Damage"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19362::::::::::0|h[Doom's Edge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dooms-edge"
+  },
+  {
+    "itemId": 19363,
+    "name": "Crul'shorukh, Edge of Chaos",
+    "icon": "inv_axe_12",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 182148,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Crul'shorukh, Edge of Chaos"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "101 - 188  Damage"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "+36 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19363::::::::::0|h[Crul'shorukh, Edge of Chaos]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crulshorukh-edge-of-chaos"
+  },
+  {
+    "itemId": 19852,
+    "name": "Ancient Hakkari Manslayer",
+    "icon": "inv_axe_35",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 98086,
+    "quality": "Epic",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Ancient Hakkari Manslayer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "69 - 130  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19852::::::::::0|h[Ancient Hakkari Manslayer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ancient-hakkari-manslayer"
+  },
+  {
+    "itemId": 21242,
+    "name": "Blessed Qiraji War Axe",
+    "icon": "inv_axe_26",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 164024,
+    "quality": "Epic",
+    "itemLevel": 79,
+    "requiredLevel": 0,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Blessed Qiraji War Axe"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "110 - 205  Damage"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "+14 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8789,
+          "name": "Imperial Qiraji Armaments",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21242::::::::::0|h[Blessed Qiraji War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blessed-qiraji-war-axe"
+  },
+  {
+    "itemId": 21392,
+    "name": "Sickle of Unyielding Strength",
+    "icon": "inv_axe_15",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 0,
+    "quality": "Epic",
+    "itemLevel": 74,
+    "requiredLevel": 0,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Sickle of Unyielding Strength"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "81 - 151  Damage"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+6 Agility"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8558,
+          "name": "Sickle of Unyielding Strength",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21392::::::::::0|h[Sickle of Unyielding Strength]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sickle-of-unyielding-strength"
+  },
+  {
+    "itemId": 21401,
+    "name": "Scythe of the Unseen Path",
+    "icon": "inv_axe_15",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 0,
+    "quality": "Epic",
+    "itemLevel": 74,
+    "requiredLevel": 0,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Scythe of the Unseen Path"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "94 - 174  Damage"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8712,
+          "name": "Scythe of the Unseen Path",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21401::::::::::0|h[Scythe of the Unseen Path]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "scythe-of-the-unseen-path"
+  },
+  {
+    "itemId": 22816,
+    "name": "Hatchet of Sundered Bone",
+    "icon": "inv_axe_08",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 213775,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Hatchet of Sundered Bone"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "119 - 221  Damage"
+      },
+      {
+        "label": "+36 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:22816::::::::::0|h[Hatchet of Sundered Bone]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hatchet-of-sundered-bone"
+  },
+  {
+    "itemId": 51832,
+    "name": "Nathrezim Wedge",
+    "icon": "inv_axe_13",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 3013,
+    "quality": "Rare",
+    "itemLevel": 32,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Nathrezim Wedge"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "48 - 66  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 60116,
+          "name": "Paint the Roses Red",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:51832::::::::::0|h[Nathrezim Wedge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "nathrezim-wedge"
+  },
+  {
+    "itemId": 55080,
+    "name": "Bloodmoon, Sickle of the Murderous Flight",
+    "icon": "inv_bloodmoon",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 333929,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Bloodmoon, Sickle of the Murderous Flight"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "96 - 162  Damage"
+      },
+      {
+        "label": "+12 AgilityDurability"
+      },
+      {
+        "label": "+20 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55080::::::::::0|h[Bloodmoon, Sickle of the Murderous Flight]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodmoon-sickle-of-the-murderous-flight"
+  },
+  {
+    "itemId": 58194,
+    "name": "Nethershard Sickle",
+    "icon": "inv_axe_11",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 17618,
+    "quality": "Rare",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Nethershard Sickle"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "34 - 64  Damage"
+      },
+      {
+        "label": "+6 Agility"
+      },
+      {
+        "label": "+5 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:58194::::::::::0|h[Nethershard Sickle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "nethershard-sickle"
+  },
+  {
+    "itemId": 60442,
+    "name": "Hak'thalz of Legacy",
+    "icon": "inv_axe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 37108,
+    "quality": "Epic",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Hak'thalz of Legacy"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "45 Armor"
+      },
+      {
+        "label": "92 - 135  Damage"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:60442::::::::::0|h[Hak'thalz of Legacy]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hakthalz-of-legacy"
+  },
+  {
+    "itemId": 60565,
+    "name": "Hateforged Cleaver",
+    "icon": "inv_axe_14",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 41134,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Hateforged Cleaver"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "62 - 116  Damage"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60565::::::::::0|h[Hateforged Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hateforged-cleaver"
+  },
+  {
+    "itemId": 61448,
+    "name": "Axe of Dormant Slumber",
+    "icon": "inv_weapon_halberd_05",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 153401,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Axe of Dormant Slumber"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "100 Armor"
+      },
+      {
+        "label": "92 - 171  Damage"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61448::::::::::0|h[Axe of Dormant Slumber]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "axe-of-dormant-slumber"
+  },
+  {
+    "itemId": 80533,
+    "name": "Quel'dorei Guardian's Handaxe",
+    "icon": "inv_axe_30",
+    "class": "Weapon",
+    "subclass": "axe",
+    "sellPrice": 23543,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Quel'dorei Guardian's Handaxe"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "71 - 134  Damage"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+8 Agility"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80533::::::::::0|h[Quel'dorei Guardian's Handaxe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "queldorei-guardians-handaxe"
+  },
+  {
+    "itemId": 80633,
+    "name": "Revantusk Watcher's Slicer",
+    "icon": "inv_axe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 23543,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Revantusk Watcher's Slicer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "71 - 134  Damage"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+8 Agility"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80633::::::::::0|h[Revantusk Watcher's Slicer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revantusk-watchers-slicer"
+  },
+  {
+    "itemId": 80635,
+    "name": "Revantusk Defender's Deflector",
+    "icon": "inv_axe_18",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 23581,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Revantusk Defender's Deflector"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "40 Armor"
+      },
+      {
+        "label": "61 - 110  Damage"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80635::::::::::0|h[Revantusk Defender's Deflector]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revantusk-defenders-deflector"
+  },
+  {
+    "itemId": 80739,
+    "name": "Rockbiter",
+    "icon": "inv_axe_19",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 7753,
+    "quality": "Rare",
+    "itemLevel": 20,
+    "requiredLevel": 29,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Rockbiter"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "35 - 74  Damage"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80739::::::::::0|h[Rockbiter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rockbiter"
+  },
+  {
+    "itemId": 81260,
+    "name": "Lavashard Axe",
+    "icon": "inv_axe_23",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 21786,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Lavashard Axe"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "50 Armor"
+      },
+      {
+        "label": "79 - 147  Damage"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:81260::::::::::0|h[Lavashard Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lavashard-axe"
+  },
+  {
+    "itemId": 790,
+    "name": "Forester's Axe",
+    "icon": "inv_axe_14",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2020,
+    "quality": "Uncommon",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Forester's Axe"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "20 - 38  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:790::::::::::0|h[Forester's Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "foresters-axe"
+  },
+  {
+    "itemId": 826,
+    "name": "Brutish Riverpaw Axe",
+    "icon": "inv_axe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 732,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 10,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Brutish Riverpaw Axe"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "15 - 29  Damage"
+      },
+      {
+        "label": "+1 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:826::::::::::0|h[Brutish Riverpaw Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brutish-riverpaw-axe"
+  },
+  {
+    "itemId": 863,
+    "name": "Gloom Reaper",
+    "icon": "inv_axe_08",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 8964,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 32,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Gloom Reaper"
+      },
+      {
+        "label": "Requires Level 32"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "37 - 69  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:863::::::::::0|h[Gloom Reaper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gloom-reaper"
+  },
+  {
+    "itemId": 885,
+    "name": "Black Metal Axe",
+    "icon": "inv_axe_14",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2300,
+    "quality": "Uncommon",
+    "itemLevel": 24,
+    "requiredLevel": 19,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Black Metal Axe"
+      },
+      {
+        "label": "Requires Level 19"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "18 - 34  Damage"
+      },
+      {
+        "label": "+2 Stamina"
+      },
+      {
+        "label": "+2 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:885::::::::::0|h[Black Metal Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "black-metal-axe"
+  },
+  {
+    "itemId": 934,
+    "name": "Stalvan's Reaper",
+    "icon": "inv_axe_14",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 10682,
+    "quality": "Rare",
+    "itemLevel": 37,
+    "requiredLevel": 32,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Stalvan's Reaper"
+      },
+      {
+        "label": "Requires Level 32"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "50 - 94  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:934::::::::::0|h[Stalvan's Reaper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stalvans-reaper"
+  },
+  {
+    "itemId": 1602,
+    "name": "Sickle Axe",
+    "icon": "inv_axe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 11685,
+    "quality": "Rare",
+    "itemLevel": 39,
+    "requiredLevel": 34,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Sickle Axe"
+      },
+      {
+        "label": "Requires Level 34"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "48 - 90  Damage"
+      },
+      {
+        "label": "+5 Agility"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:1602::::::::::0|h[Sickle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sickle-axe"
+  },
+  {
+    "itemId": 1927,
+    "name": "Deadmines Cleaver",
+    "icon": "inv_axe_11",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 690,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 10,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Deadmines Cleaver"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "14 - 27  Damage"
+      },
+      {
+        "label": "+1 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1927::::::::::0|h[Deadmines Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "deadmines-cleaver"
+  },
+  {
+    "itemId": 1994,
+    "name": "Ebonclaw Reaver",
+    "icon": "inv_axe_16",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 16696,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Ebonclaw Reaver"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "34 - 64  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1994::::::::::0|h[Ebonclaw Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ebonclaw-reaver"
+  },
+  {
+    "itemId": 2073,
+    "name": "Dwarven Hatchet",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 742,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 10,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Dwarven Hatchet"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "10 - 20  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:2073::::::::::0|h[Dwarven Hatchet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dwarven-hatchet"
+  },
+  {
+    "itemId": 3755,
+    "name": "Fish Gutter",
+    "icon": "inv_axe_22",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 5447,
+    "quality": "Uncommon",
+    "itemLevel": 32,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Fish Gutter"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "24 - 46  Damage"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 562,
+          "name": "Stormwind Ho!",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3755::::::::::0|h[Fish Gutter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fish-gutter"
+  },
+  {
+    "itemId": 4445,
+    "name": "Flesh Carver",
+    "icon": "inv_axe_16",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2068,
+    "quality": "Uncommon",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Flesh Carver"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "18 - 35  Damage"
+      },
+      {
+        "label": "+2 Agility"
+      },
+      {
+        "label": "+2 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4445::::::::::0|h[Flesh Carver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "flesh-carver"
+  },
+  {
+    "itemId": 4824,
+    "name": "Blurred Axe",
+    "icon": "inv_axe_14",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 3371,
+    "quality": "Uncommon",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Blurred Axe"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "16 - 31  Damage"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4824::::::::::0|h[Blurred Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blurred-axe"
+  },
+  {
+    "itemId": 4825,
+    "name": "Callous Axe",
+    "icon": "inv_axe_21",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 4094,
+    "quality": "Uncommon",
+    "itemLevel": 29,
+    "requiredLevel": 24,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Callous Axe"
+      },
+      {
+        "label": "Requires Level 24"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 - 55  Damage"
+      },
+      {
+        "label": "+8 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4825::::::::::0|h[Callous Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "callous-axe"
+  },
+  {
+    "itemId": 4950,
+    "name": "Dustwrought Cleaver",
+    "icon": "inv_axe_21",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 780,
+    "quality": "Uncommon",
+    "itemLevel": 16,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Dustwrought Cleaver"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "16 - 26  Damage"
+      },
+      {
+        "label": "+1 Strength"
+      },
+      {
+        "label": "+1 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 60131,
+          "name": "Deep Blue Sea",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4950::::::::::0|h[Dustwrought Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dustwrought-cleaver"
+  },
+  {
+    "itemId": 5426,
+    "name": "Serpent's Kiss",
+    "icon": "inv_axe_23",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1686,
+    "quality": "Rare",
+    "itemLevel": 20,
+    "requiredLevel": 15,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Serpent's Kiss"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "23 - 44  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:5426::::::::::0|h[Serpent's Kiss]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "serpents-kiss"
+  },
+  {
+    "itemId": 5459,
+    "name": "Defender Axe",
+    "icon": "inv_axe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 472,
+    "quality": "Uncommon",
+    "itemLevel": 13,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Defender Axe"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "10 Armor"
+      },
+      {
+        "label": "11 - 21  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 486,
+          "name": "Ursal the Mauler",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:5459::::::::::0|h[Defender Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defender-axe"
+  },
+  {
+    "itemId": 6194,
+    "name": "Barreling Reaper",
+    "icon": "inv_axe_17",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 5308,
+    "quality": "Uncommon",
+    "itemLevel": 32,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Barreling Reaper"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "22 - 41  Damage"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 474,
+          "name": "Defeat Nek'rosh",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6194::::::::::0|h[Barreling Reaper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "barreling-reaper"
+  },
+  {
+    "itemId": 6738,
+    "name": "Bleeding Crescent",
+    "icon": "inv_axe_12",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 7040,
+    "quality": "Uncommon",
+    "itemLevel": 35,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Bleeding Crescent"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "30 - 57  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1184,
+          "name": "Parts of the Swarm",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6738::::::::::0|h[Bleeding Crescent]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bleeding-crescent"
+  },
+  {
+    "itemId": 6966,
+    "name": "Elunite Axe",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 693,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Elunite Axe"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "14 - 28  Damage"
+      },
+      {
+        "label": "+1 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1693,
+          "name": "Weapons of Elunite",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6966::::::::::0|h[Elunite Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "elunite-axe"
+  },
+  {
+    "itemId": 7761,
+    "name": "Steelclaw Reaver",
+    "icon": "inv_axe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 11290,
+    "quality": "Rare",
+    "itemLevel": 38,
+    "requiredLevel": 33,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Steelclaw Reaver"
+      },
+      {
+        "label": "Requires Level 33"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "32 - 61  Damage"
+      },
+      {
+        "label": "+3 Agility"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:7761::::::::::0|h[Steelclaw Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "steelclaw-reaver"
+  },
+  {
+    "itemId": 7942,
+    "name": "Blue Glittering Axe",
+    "icon": "inv_axe_03",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 14659,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 39,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Blue Glittering Axe"
+      },
+      {
+        "label": "Requires Level 39"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "32 - 61  Damage"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7942::::::::::0|h[Blue Glittering Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blue-glittering-axe"
+  },
+  {
+    "itemId": 9378,
+    "name": "Shovelphlange's Mining Axe",
+    "icon": "inv_pick_02",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 11380,
+    "quality": "Rare",
+    "itemLevel": 38,
+    "requiredLevel": 33,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Shovelphlange's Mining Axe"
+      },
+      {
+        "label": "Requires Level 33"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "50 - 94  Damage"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "+10 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9378::::::::::0|h[Shovelphlange's Mining Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shovelphlanges-mining-axe"
+  },
+  {
+    "itemId": 9485,
+    "name": "Vibroblade",
+    "icon": "inv_axe_14",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 5288,
+    "quality": "Rare",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Vibroblade"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "21 - 40  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9485::::::::::0|h[Vibroblade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "vibroblade"
+  },
+  {
+    "itemId": 10623,
+    "name": "Winter's Bite",
+    "icon": "inv_axe_07",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 24748,
+    "quality": "Rare",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Winter's Bite"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "47 - 88  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:10623::::::::::0|h[Winter's Bite]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "winters-bite"
+  },
+  {
+    "itemId": 10744,
+    "name": "Axe of the Ebon Drake",
+    "icon": "inv_axe_12",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 24159,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Axe of the Ebon Drake"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "40 - 75  Damage"
+      },
+      {
+        "label": "+9 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 3463,
+          "name": "Set Them Ablaze!",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:10744::::::::::0|h[Axe of the Ebon Drake]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "axe-of-the-ebon-drake"
+  },
+  {
+    "itemId": 10805,
+    "name": "Eater of the Dead",
+    "icon": "inv_axe_07",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 29661,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Eater of the Dead"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "49 - 92  Damage"
+      },
+      {
+        "label": "+30 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10805::::::::::0|h[Eater of the Dead]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "eater-of-the-dead"
+  },
+  {
+    "itemId": 10837,
+    "name": "Tooth of Eranikus",
+    "icon": "inv_axe_07",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 38801,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Tooth of Eranikus"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "62 - 116  Damage"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:10837::::::::::0|h[Tooth of Eranikus]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tooth-of-eranikus"
+  },
+  {
+    "itemId": 11920,
+    "name": "Wraith Scythe",
+    "icon": "inv_axe_13",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 40732,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Wraith Scythe"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "57 - 106  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11920::::::::::0|h[Wraith Scythe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wraith-scythe"
+  },
+  {
+    "itemId": 13408,
+    "name": "Soul Breaker",
+    "icon": "inv_weapon_halberd_05",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 44142,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Soul Breaker"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "42 - 78  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13408::::::::::0|h[Soul Breaker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "soul-breaker"
+  },
+  {
+    "itemId": 15235,
+    "name": "Crescent Edge",
+    "icon": "inv_axe_16",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 21090,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Crescent Edge"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "42 - 78  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15235::::::::::0|h[Crescent Edge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crescent-edge"
+  },
+  {
+    "itemId": 15237,
+    "name": "Corpse Harvester",
+    "icon": "inv_axe_16",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 30526,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Corpse Harvester"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "59 - 111  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15237::::::::::0|h[Corpse Harvester]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "corpse-harvester"
+  },
+  {
+    "itemId": 15239,
+    "name": "Felstone Reaver",
+    "icon": "inv_axe_10",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 42409,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Felstone Reaver"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "51 - 95  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15239::::::::::0|h[Felstone Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "felstone-reaver"
+  },
+  {
+    "itemId": 15240,
+    "name": "Demon's Claw",
+    "icon": "inv_axe_16",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 49281,
+    "quality": "Uncommon",
+    "itemLevel": 64,
+    "requiredLevel": 59,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Demon's Claw"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "61 - 115  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15240::::::::::0|h[Demon's Claw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "demons-claw"
+  },
+  {
+    "itemId": 15853,
+    "name": "Windreaper",
+    "icon": "inv_axe_08",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 51418,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Windreaper"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "63 - 118  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:15853::::::::::0|h[Windreaper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "windreaper"
+  },
+  {
+    "itemId": 15862,
+    "name": "Blitzcleaver",
+    "icon": "inv_weapon_halberd_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 28789,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 0,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Blitzcleaver"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "49 - 92  Damage"
+      },
+      {
+        "label": "+20 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 4810,
+          "name": "Return to Tinkee",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:15862::::::::::0|h[Blitzcleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blitzcleaver"
+  },
+  {
+    "itemId": 17704,
+    "name": "Edge of Winter",
+    "icon": "inv_axe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 9178,
+    "quality": "Uncommon",
+    "itemLevel": 38,
+    "requiredLevel": 33,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Edge of Winter"
+      },
+      {
+        "label": "Requires Level 33"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "30 - 56  Damage"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:17704::::::::::0|h[Edge of Winter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "edge-of-winter"
+  },
+  {
+    "itemId": 19921,
+    "name": "Zulian Hacker",
+    "icon": "inv_axe_08",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 60951,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Zulian Hacker"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "71 - 134  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19921::::::::::0|h[Zulian Hacker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "zulian-hacker"
+  },
+  {
+    "itemId": 20675,
+    "name": "Soulrender",
+    "icon": "inv_axe_13",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 52306,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Soulrender"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "71 - 133  Damage"
+      },
+      {
+        "label": "+28 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20675::::::::::0|h[Soulrender]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "soulrender"
+  },
+  {
+    "itemId": 20723,
+    "name": "Brann's Trusty Pick",
+    "icon": "inv_pick_03",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 46934,
+    "quality": "Uncommon",
+    "itemLevel": 62,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Brann's Trusty Pick"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "70 - 130  Damage"
+      },
+      {
+        "label": "+11 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8308,
+          "name": "Brann Bronzebeard's Lost Letter",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:20723::::::::::0|h[Brann's Trusty Pick]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "branns-trusty-pick"
+  },
+  {
+    "itemId": 41571,
+    "name": "Snickerclaw",
+    "icon": "inv_axe_03",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 5033,
+    "quality": "Rare",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Snickerclaw"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 - 58  Damage"
+      },
+      {
+        "label": "+5 Fire"
+      },
+      {
+        "label": "+3 Nature"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:41571::::::::::0|h[Snickerclaw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "snickerclaw"
+  },
+  {
+    "itemId": 58015,
+    "name": "Blackrock Cleaver",
+    "icon": "inv_axe_14",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 13095,
+    "quality": "Uncommon",
+    "itemLevel": 39,
+    "requiredLevel": 0,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Blackrock Cleaver"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "37 - 70  Damage"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "+10 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41646,
+          "name": "Covering All Possibilities",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:58015::::::::::0|h[Blackrock Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blackrock-cleaver"
+  },
+  {
+    "itemId": 58101,
+    "name": "Stormfang Cleaver",
+    "icon": "inv_axe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 6303,
+    "quality": "Rare",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Stormfang Cleaver"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "36 - 69  Damage"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:58101::::::::::0|h[Stormfang Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormfang-cleaver"
+  },
+  {
+    "itemId": 60124,
+    "name": "Axe of the Wildtusk",
+    "icon": "inv_axe_11",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 11250,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Axe of the Wildtusk"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "34 - 63  Damage"
+      },
+      {
+        "label": "+5 Agility"
+      },
+      {
+        "label": "+4 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40022,
+          "name": "The Witherbark Warband Leader",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60124::::::::::0|h[Axe of the Wildtusk]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "axe-of-the-wildtusk"
+  },
+  {
+    "itemId": 60719,
+    "name": "Axe of Fargosh",
+    "icon": "inv_axe_24",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 44129,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Axe of Fargosh"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "64 - 105  Damage"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+4 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40498,
+          "name": "Raider's Raid",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60719::::::::::0|h[Axe of Fargosh]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "axe-of-fargosh"
+  },
+  {
+    "itemId": 61046,
+    "name": "Shadowreaper",
+    "icon": "inv_axe_08",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 62207,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 0,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Shadowreaper"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "68 - 131  Damage"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61046::::::::::0|h[Shadowreaper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shadowreaper"
+  },
+  {
+    "itemId": 61372,
+    "name": "Bloody Pick",
+    "icon": "inv_pick_02",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 200,
+    "quality": "Uncommon",
+    "itemLevel": 10,
+    "requiredLevel": 5,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Bloody Pick"
+      },
+      {
+        "label": "Requires Level 5"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "6 - 13  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61372::::::::::0|h[Bloody Pick]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloody-pick"
+  },
+  {
+    "itemId": 61452,
+    "name": "Skycleaver",
+    "icon": "inv_axe_30",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 74690,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Skycleaver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "71 - 135  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61452::::::::::0|h[Skycleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "skycleaver"
+  },
+  {
+    "itemId": 61601,
+    "name": "Ebonmere Axe",
+    "icon": "inv_axe_20",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 16933,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 0,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Ebonmere Axe"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "48 - 83  Damage"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40966,
+          "name": "The Deed to Ravenshire",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:61601::::::::::0|h[Ebonmere Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ebonmere-axe"
+  },
+  {
+    "itemId": 61627,
+    "name": "Ebonmere Reaver",
+    "icon": "inv_axe_11",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 17966,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 0,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Ebonmere Reaver"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "45 - 79  Damage"
+      },
+      {
+        "label": "+9 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40979,
+          "name": "Ebonmere Affairs",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:61627::::::::::0|h[Ebonmere Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ebonmere-reaver"
+  },
+  {
+    "itemId": 61669,
+    "name": "Flameforged Handaxe",
+    "icon": "inv_axe_14",
+    "class": "Weapon",
+    "subclass": "axe",
+    "sellPrice": 21090,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Flameforged Handaxe"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "44 - 80  Damage"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61669::::::::::0|h[Flameforged Handaxe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "flameforged-handaxe"
+  },
+  {
+    "itemId": 21,
+    "name": "Arcanite Ripper",
+    "icon": "inv_axe_09",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Common",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Arcanite Ripper"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:21::::::::::0|h[Arcanite Ripper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "arcanite-ripper"
+  },
+  {
+    "itemId": 927,
+    "name": "Double Axe",
+    "icon": "inv_axe_21",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1390,
+    "quality": "Common",
+    "itemLevel": 24,
+    "requiredLevel": 19,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Double Axe"
+      },
+      {
+        "label": "Requires Level 19"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "19 - 36  Damage"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:927::::::::::0|h[Double Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "double-axe"
+  },
+  {
+    "itemId": 1459,
+    "name": "Shadowhide Scalper",
+    "icon": "inv_throwingaxe_03",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2380,
+    "quality": "Uncommon",
+    "itemLevel": 24,
+    "requiredLevel": 19,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Shadowhide Scalper"
+      },
+      {
+        "label": "Requires Level 19"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "25 - 47  Damage"
+      },
+      {
+        "label": "+3 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1459::::::::::0|h[Shadowhide Scalper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shadowhide-scalper"
+  },
+  {
+    "itemId": 2029,
+    "name": "Cleaver",
+    "icon": "inv_axe_23",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 883,
+    "quality": "Common",
+    "itemLevel": 20,
+    "requiredLevel": 15,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Cleaver"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "14 - 26  Damage"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2029::::::::::0|h[Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cleaver"
+  },
+  {
+    "itemId": 2047,
+    "name": "Anvilmar Hand Axe",
+    "icon": "inv_throwingaxe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 25,
+    "quality": "Common",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Anvilmar Hand Axe"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 5  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 182,
+          "name": "The Troll Cave",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:2047::::::::::0|h[Anvilmar Hand Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "anvilmar-hand-axe"
+  },
+  {
+    "itemId": 2080,
+    "name": "Hillborne Axe",
+    "icon": "inv_axe_11",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 6590,
+    "quality": "Uncommon",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Hillborne Axe"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "27 - 51  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:2080::::::::::0|h[Hillborne Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hillborne-axe"
+  },
+  {
+    "itemId": 2265,
+    "name": "Stonesplinter Axe",
+    "icon": "inv_axe_19",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 477,
+    "quality": "Uncommon",
+    "itemLevel": 13,
+    "requiredLevel": 8,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Stonesplinter Axe"
+      },
+      {
+        "label": "Requires Level 8"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "10 - 20  Damage"
+      },
+      {
+        "label": "+1 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:2265::::::::::0|h[Stonesplinter Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stonesplinter-axe"
+  },
+  {
+    "itemId": 2281,
+    "name": "Rodentia Flint Axe",
+    "icon": "inv_axe_19",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 300,
+    "quality": "Uncommon",
+    "itemLevel": 11,
+    "requiredLevel": 6,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Rodentia Flint Axe"
+      },
+      {
+        "label": "Requires Level 6"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "8 - 16  Damage"
+      },
+      {
+        "label": "+1 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:2281::::::::::0|h[Rodentia Flint Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rodentia-flint-axe"
+  },
+  {
+    "itemId": 2522,
+    "name": "Crescent Axe",
+    "icon": "inv_throwingaxe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 4509,
+    "quality": "Common",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Crescent Axe"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "31 - 58  Damage"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2522::::::::::0|h[Crescent Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crescent-axe"
+  },
+  {
+    "itemId": 2845,
+    "name": "Copper Axe",
+    "icon": "inv_axe_23",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 109,
+    "quality": "Common",
+    "itemLevel": 9,
+    "requiredLevel": 4,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Copper Axe"
+      },
+      {
+        "label": "Requires Level 4"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "5 - 10  Damage"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1578,
+          "name": "Supplying the Front",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:2845::::::::::0|h[Copper Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "copper-axe"
+  },
+  {
+    "itemId": 2849,
+    "name": "Bronze Axe",
+    "icon": "inv_axe_17",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1269,
+    "quality": "Common",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Bronze Axe"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "15 - 29  Damage"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2849::::::::::0|h[Bronze Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bronze-axe"
+  },
+  {
+    "itemId": 3154,
+    "name": "Thelsamar Axe",
+    "icon": "inv_axe_11",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1094,
+    "quality": "Uncommon",
+    "itemLevel": 18,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Thelsamar Axe"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "13 - 25  Damage"
+      },
+      {
+        "label": "+2 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 297,
+          "name": "Gathering Idols",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3154::::::::::0|h[Thelsamar Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thelsamar-axe"
+  },
+  {
+    "itemId": 3293,
+    "name": "Deadman Cleaver",
+    "icon": "inv_axe_23",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 11,
+    "quality": "Common",
+    "itemLevel": 3,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Deadman Cleaver"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3293::::::::::0|h[Deadman Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "deadman-cleaver"
+  },
+  {
+    "itemId": 3443,
+    "name": "Ceremonial Tomahawk",
+    "icon": "inv_throwingaxe_03",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 138,
+    "quality": "Common",
+    "itemLevel": 10,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Ceremonial Tomahawk"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "5 - 10  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 760,
+          "name": "Wildmane Cleansing",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:3443::::::::::0|h[Ceremonial Tomahawk]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ceremonial-tomahawk"
+  },
+  {
+    "itemId": 3489,
+    "name": "Thick War Axe",
+    "icon": "inv_throwingaxe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 937,
+    "quality": "Uncommon",
+    "itemLevel": 17,
+    "requiredLevel": 12,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Thick War Axe"
+      },
+      {
+        "label": "Requires Level 12"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "15 - 28  Damage"
+      },
+      {
+        "label": "+1 Stamina"
+      },
+      {
+        "label": "+1 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3489::::::::::0|h[Thick War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thick-war-axe"
+  },
+  {
+    "itemId": 4126,
+    "name": "Guerrilla Cleaver",
+    "icon": "inv_axe_21",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 6396,
+    "quality": "Uncommon",
+    "itemLevel": 34,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Guerrilla Cleaver"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "34 - 65  Damage"
+      },
+      {
+        "label": "+4 Stamina"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 204,
+          "name": "Bad Medicine",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4126::::::::::0|h[Guerrilla Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "guerrilla-cleaver"
+  },
+  {
+    "itemId": 4561,
+    "name": "Scalping Tomahawk",
+    "icon": "inv_axe_19",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 309,
+    "quality": "Uncommon",
+    "itemLevel": 11,
+    "requiredLevel": 6,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Scalping Tomahawk"
+      },
+      {
+        "label": "Requires Level 6"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "7 - 14  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4561::::::::::0|h[Scalping Tomahawk]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "scalping-tomahawk"
+  },
+  {
+    "itemId": 4568,
+    "name": "Grunt Axe",
+    "icon": "inv_axe_12",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1694,
+    "quality": "Uncommon",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Grunt Axe"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "17 - 32  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4568::::::::::0|h[Grunt Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grunt-axe"
+  },
+  {
+    "itemId": 4826,
+    "name": "Marauder Axe",
+    "icon": "inv_axe_23",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 3087,
+    "quality": "Uncommon",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Marauder Axe"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "18 - 35  Damage"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4826::::::::::0|h[Marauder Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "marauder-axe"
+  },
+  {
+    "itemId": 4949,
+    "name": "Orcish Cleaver",
+    "icon": "inv_axe_20",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1706,
+    "quality": "Uncommon",
+    "itemLevel": 21,
+    "requiredLevel": 13,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Orcish Cleaver"
+      },
+      {
+        "label": "Requires Level 13"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "13 - 25  Damage"
+      },
+      {
+        "label": "+1 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4949::::::::::0|h[Orcish Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "orcish-cleaver"
+  },
+  {
+    "itemId": 4965,
+    "name": "Bloodhoof Hand Axe",
+    "icon": "inv_axe_11",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 149,
+    "quality": "Common",
+    "itemLevel": 10,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Bloodhoof Hand Axe"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "8 - 16  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:4965::::::::::0|h[Bloodhoof Hand Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodhoof-hand-axe"
+  },
+  {
+    "itemId": 5196,
+    "name": "Smite's Reaver",
+    "icon": "inv_axe_22",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1830,
+    "quality": "Uncommon",
+    "itemLevel": 22,
+    "requiredLevel": 17,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Smite's Reaver"
+      },
+      {
+        "label": "Requires Level 17"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "14 - 28  Damage"
+      },
+      {
+        "label": "+2 Strength"
+      },
+      {
+        "label": "+1 Spirit"
+      },
+      {
+        "label": "+1 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:5196::::::::::0|h[Smite's Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "smites-reaver"
+  },
+  {
+    "itemId": 5255,
+    "name": "Quilboar Tomahawk",
+    "icon": "inv_throwingaxe_03",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 685,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 10,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Quilboar Tomahawk"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "13 - 26  Damage"
+      },
+      {
+        "label": "+1 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:5255::::::::::0|h[Quilboar Tomahawk]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "quilboar-tomahawk"
+  },
+  {
+    "itemId": 5344,
+    "name": "Pointed Axe",
+    "icon": "inv_throwingaxe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 562,
+    "quality": "Uncommon",
+    "itemLevel": 14,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Pointed Axe"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "9 - 18  Damage"
+      },
+      {
+        "label": "+1 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 855,
+          "name": "Centaur Bracers",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:5344::::::::::0|h[Pointed Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pointed-axe"
+  },
+  {
+    "itemId": 6978,
+    "name": "Umbral Axe",
+    "icon": "inv_axe_17",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 672,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Umbral Axe"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "14 - 28  Damage"
+      },
+      {
+        "label": "+1 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1682,
+          "name": "Grey Iron Weapons",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6978::::::::::0|h[Umbral Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "umbral-axe"
+  },
+  {
+    "itemId": 6979,
+    "name": "Haggard's Axe",
+    "icon": "inv_axe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 675,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Haggard's Axe"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "14 - 28  Damage"
+      },
+      {
+        "label": "+1 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1667,
+          "name": "Dead-tooth Jack",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6979::::::::::0|h[Haggard's Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "haggards-axe"
+  },
+  {
+    "itemId": 7115,
+    "name": "Heirloom Axe",
+    "icon": "inv_axe_17",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 683,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Heirloom Axe"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "14 - 28  Damage"
+      },
+      {
+        "label": "+1 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1822,
+          "name": "Heirloom Weapon",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:7115::::::::::0|h[Heirloom Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heirloom-axe"
+  },
+  {
+    "itemId": 7326,
+    "name": "Thun'grim's Axe",
+    "icon": "inv_axe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 696,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Thun'grim's Axe"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "14 - 28  Damage"
+      },
+      {
+        "label": "+1 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1503,
+          "name": "Forged Steel",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:7326::::::::::0|h[Thun'grim's Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thungrims-axe"
+  },
+  {
+    "itemId": 7941,
+    "name": "Heavy Mithril Axe",
+    "icon": "inv_axe_14",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 12520,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Heavy Mithril Axe"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "45 - 85  Damage"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 5284,
+          "name": "The Way of the Weaponsmith",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 5302,
+          "name": "The Way of the Weaponsmith",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:7941::::::::::0|h[Heavy Mithril Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-mithril-axe"
+  },
+  {
+    "itemId": 9608,
+    "name": "Shoni's Disarming Tool",
+    "icon": "inv_misc_wrench_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 5028,
+    "quality": "Uncommon",
+    "itemLevel": 31,
+    "requiredLevel": 0,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Shoni's Disarming Tool"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "21 - 40  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2928,
+          "name": "Gyrodrillmatic Excavationators",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:9608::::::::::0|h[Shoni's Disarming Tool]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shonis-disarming-tool"
+  },
+  {
+    "itemId": 12773,
+    "name": "Ornate Thorium Handaxe",
+    "icon": "inv_axe_12",
+    "class": "Weapon",
+    "subclass": "axe",
+    "sellPrice": 33079,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Ornate Thorium Handaxe"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "43 - 81  Damage"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12773::::::::::0|h[Ornate Thorium Handaxe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ornate-thorium-handaxe"
+  },
+  {
+    "itemId": 12779,
+    "name": "Rune Edge",
+    "icon": "inv_axe_17",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 35338,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Rune Edge"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "54 - 102  Damage"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12779::::::::::0|h[Rune Edge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rune-edge"
+  },
+  {
+    "itemId": 15230,
+    "name": "Ridge Cleaver",
+    "icon": "inv_axe_21",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2755,
+    "quality": "Uncommon",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Ridge Cleaver"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "19 - 37  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15230::::::::::0|h[Ridge Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ridge-cleaver"
+  },
+  {
+    "itemId": 15231,
+    "name": "Splitting Hatchet",
+    "icon": "inv_axe_14",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 5033,
+    "quality": "Uncommon",
+    "itemLevel": 31,
+    "requiredLevel": 26,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Splitting Hatchet"
+      },
+      {
+        "label": "Requires Level 26"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "20 - 38  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15231::::::::::0|h[Splitting Hatchet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "splitting-hatchet"
+  },
+  {
+    "itemId": 15232,
+    "name": "Hacking Cleaver",
+    "icon": "inv_weapon_shortblade_13",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 6112,
+    "quality": "Uncommon",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Hacking Cleaver"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "22 - 43  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15232::::::::::0|h[Hacking Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hacking-cleaver"
+  },
+  {
+    "itemId": 15233,
+    "name": "Savage Axe",
+    "icon": "inv_axe_08",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 10476,
+    "quality": "Uncommon",
+    "itemLevel": 39,
+    "requiredLevel": 34,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Savage Axe"
+      },
+      {
+        "label": "Requires Level 34"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "42 - 78  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15233::::::::::0|h[Savage Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "savage-axe"
+  },
+  {
+    "itemId": 15234,
+    "name": "Greater Scythe",
+    "icon": "inv_axe_03",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 11354,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Greater Scythe"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "43 - 81  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15234::::::::::0|h[Greater Scythe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "greater-scythe"
+  },
+  {
+    "itemId": 15236,
+    "name": "Moon Cleaver",
+    "icon": "inv_axe_16",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 27485,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Moon Cleaver"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "47 - 89  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15236::::::::::0|h[Moon Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "moon-cleaver"
+  },
+  {
+    "itemId": 15238,
+    "name": "Warlord's Axe",
+    "icon": "inv_axe_16",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 36496,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Warlord's Axe"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "55 - 104  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15238::::::::::0|h[Warlord's Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warlords-axe"
+  },
+  {
+    "itemId": 17002,
+    "name": "Ichor Spitter",
+    "icon": "inv_weapon_halberd_05",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 44825,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 0,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Ichor Spitter"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "61 - 114  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 6136,
+          "name": "The Corpulent One",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:17002::::::::::0|h[Ichor Spitter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ichor-spitter"
+  },
+  {
+    "itemId": 17046,
+    "name": "Gutterblade",
+    "icon": "inv_axe_23",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 4796,
+    "quality": "Uncommon",
+    "itemLevel": 31,
+    "requiredLevel": 0,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Gutterblade"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "25 - 46  Damage"
+      },
+      {
+        "label": "+3 Strength"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1046,
+          "name": "Raene's Cleansing",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:17046::::::::::0|h[Gutterblade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gutterblade"
+  },
+  {
+    "itemId": 18347,
+    "name": "Well Balanced Axe",
+    "icon": "inv_axe_11",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 43067,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Well Balanced Axe"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "48 - 90  Damage"
+      },
+      {
+        "label": "+11 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:18347::::::::::0|h[Well Balanced Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "well-balanced-axe"
   }
 ]
