@@ -1,0 +1,141 @@
+[2025-10-18T01:37:14.612Z] 🚀 Initializing browser with anti-detection...
+[2025-10-18T01:37:14.976Z] ✅ Browser initialized with stealth mode
+[2025-10-18T01:37:14.976Z] 
+🚀 Starting Item ID Extraction
+
+[2025-10-18T01:37:14.976Z] 
+🎯 Starting weapons ID extraction
+[2025-10-18T01:37:14.976Z] 📊 Already have 0 weapons IDs
+[2025-10-18T01:37:14.976Z] 📖 Resuming from page 1
+[2025-10-18T01:37:14.976Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=2
+[2025-10-18T01:37:18.982Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T01:37:18.982Z] 🆔 Sample IDs: 811, 868, 2801, 12592, 13262
+[2025-10-18T01:37:18.983Z] 📊 Total unique weapons: 50
+[2025-10-18T01:37:18.987Z] 💾 Saved 50 weapons IDs to turtle_db/weapons-ids.json
+[2025-10-18T01:37:20.547Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=2#50+1
+[2025-10-18T01:37:24.548Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-18T01:37:24.548Z] 🆔 Sample IDs: 647, 809, 869, 1263, 2825
+[2025-10-18T01:37:24.549Z] 📊 Total unique weapons: 100
+[2025-10-18T01:37:24.552Z] 💾 Saved 100 weapons IDs to turtle_db/weapons-ids.json
+[2025-10-18T01:37:26.104Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=2#100+1
+[2025-10-18T01:37:30.057Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-18T01:37:30.058Z] 🆔 Sample IDs: 812, 870, 871, 944, 2099
+[2025-10-18T01:37:30.059Z] 📊 Total unique weapons: 150
+[2025-10-18T01:37:30.061Z] 💾 Saved 150 weapons IDs to turtle_db/weapons-ids.json
+[2025-10-18T01:37:31.620Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=2#150+1
+[2025-10-18T01:37:35.621Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-18T01:37:35.622Z] 🆔 Sample IDs: 810, 2164, 2243, 2824, 8708
+[2025-10-18T01:37:35.622Z] 📊 Total unique weapons: 200
+[2025-10-18T01:37:35.625Z] 💾 Saved 200 weapons IDs to turtle_db/weapons-ids.json
+[2025-10-18T01:37:37.179Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=2#200+1
+[2025-10-18T01:37:41.180Z] 📄 Page 5: Found 50 items (50 new)
+[2025-10-18T01:37:41.180Z] 🆔 Sample IDs: 1982, 2244, 2291, 18715, 18816
+[2025-10-18T01:37:41.181Z] 📊 Total unique weapons: 250
+[2025-10-18T01:37:41.182Z] 💾 Saved 250 weapons IDs to turtle_db/weapons-ids.json
+[2025-10-18T01:37:42.741Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=2#250+1
+[2025-10-18T01:37:46.741Z] 📄 Page 6: Found 50 items (50 new)
+[2025-10-18T01:37:46.742Z] 🆔 Sample IDs: 873, 2100, 2163, 13505, 17074
+[2025-10-18T01:37:46.742Z] 📊 Total unique weapons: 300
+[2025-10-18T01:37:46.743Z] 💾 Saved 300 weapons IDs to turtle_db/weapons-ids.json
+[2025-10-18T01:37:48.297Z] 📄 Loading page 7 with fresh browser context: https://database.turtle-wow.org/?items=2#300+1
+[2025-10-18T01:37:52.296Z] 📄 Page 7: Found 50 items (50 new)
+[2025-10-18T01:37:52.297Z] 🆔 Sample IDs: 943, 1728, 2915, 9372, 17069
+[2025-10-18T01:37:52.297Z] 📊 Total unique weapons: 350
+[2025-10-18T01:37:52.300Z] 💾 Saved 350 weapons IDs to turtle_db/weapons-ids.json
+[2025-10-18T01:37:53.853Z] 📄 Loading page 8 with fresh browser context: https://database.turtle-wow.org/?items=2#350+1
+[2025-10-18T01:38:54.565Z] 🚀 Initializing browser with anti-detection...
+[2025-10-18T01:38:54.948Z] ✅ Browser initialized with stealth mode
+[2025-10-18T01:38:54.948Z] 
+🚀 Starting Item ID Extraction
+
+[2025-10-18T01:38:54.948Z] 
+🎯 Starting weapons ID extraction
+[2025-10-18T01:38:54.948Z] 📊 Already have 350 weapons IDs
+[2025-10-18T01:38:54.948Z] 📖 Resuming from page 7
+[2025-10-18T01:38:54.980Z] 📄 Loading page 7 with fresh browser context: https://database.turtle-wow.org/?items=2#300+1
+[2025-10-18T01:38:58.987Z] 📄 Page 7: Found 50 items (0 new)
+[2025-10-18T01:38:58.988Z] 🆔 Sample IDs: 943, 1728, 2915, 9372, 17069
+[2025-10-18T01:38:58.989Z] 📊 Total unique weapons: 350
+[2025-10-18T01:38:58.994Z] 💾 Saved 350 weapons IDs to turtle_db/weapons-ids.json
+[2025-10-18T01:39:00.554Z] 📄 Loading page 8 with fresh browser context: https://database.turtle-wow.org/?items=2#350+1
+[2025-10-18T01:39:04.557Z] 📄 Page 8: Found 50 items (50 new)
+[2025-10-18T01:39:04.558Z] 🆔 Sample IDs: 937, 1454, 1935, 2236, 2878
+[2025-10-18T01:39:04.559Z] 📊 Total unique weapons: 400
+[2025-10-18T01:39:04.562Z] 💾 Saved 400 weapons IDs to turtle_db/weapons-ids.json
+[2025-10-18T01:39:06.119Z] 📄 Loading page 9 with fresh browser context: https://database.turtle-wow.org/?items=2#400+1
+[2025-10-18T01:39:10.064Z] 📄 Page 9: Found 50 items (50 new)
+[2025-10-18T01:39:10.064Z] 🆔 Sample IDs: 1292, 2299, 5423, 6830, 7683
+[2025-10-18T01:39:10.065Z] 📊 Total unique weapons: 450
+[2025-10-18T01:39:10.072Z] 💾 Saved 450 weapons IDs to turtle_db/weapons-ids.json
+[2025-10-18T01:39:11.630Z] 📄 Loading page 10 with fresh browser context: https://database.turtle-wow.org/?items=2#450+1
+[2025-10-18T01:39:15.633Z] 📄 Page 10: Found 49 items (49 new)
+[2025-10-18T01:39:15.634Z] 🆔 Sample IDs: 2044, 2815, 2877, 2912, 3414
+[2025-10-18T01:39:15.634Z] 📊 Total unique weapons: 499
+[2025-10-18T01:39:15.640Z] 💾 Saved 499 weapons IDs to turtle_db/weapons-ids.json
+[2025-10-18T01:39:15.641Z] 🏁 Last page detected (49 < 50 items)
+[2025-10-18T01:39:17.150Z] 💾 Saved 499 weapons IDs to turtle_db/weapons-ids.json
+[2025-10-18T01:39:17.150Z] ✅ weapons extraction complete: 499 total IDs
+[2025-10-18T01:39:17.151Z] 
+🎯 Starting armor ID extraction
+[2025-10-18T01:39:17.151Z] 📊 Already have 0 armor IDs
+[2025-10-18T01:39:17.151Z] 📖 Resuming from page 1
+[2025-10-18T01:39:17.151Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4
+[2025-10-18T01:39:21.255Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-18T01:39:21.256Z] 🆔 Sample IDs: 13314, 16795, 16796, 16797, 16799
+[2025-10-18T01:39:21.257Z] 📊 Total unique armor: 50
+[2025-10-18T01:39:21.261Z] 💾 Saved 50 armor IDs to turtle_db/armor-ids.json
+[2025-10-18T01:39:22.821Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4#50+1
+[2025-10-18T01:39:26.823Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-18T01:39:26.823Z] 🆔 Sample IDs: 16798, 17063, 19138, 19376, 19403
+[2025-10-18T01:39:26.824Z] 📊 Total unique armor: 100
+[2025-10-18T01:39:26.828Z] 💾 Saved 100 armor IDs to turtle_db/armor-ids.json
+[2025-10-18T01:39:28.388Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4#100+1
+[2025-10-18T01:39:32.385Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-18T01:39:32.386Z] 🆔 Sample IDs: 1169, 14550, 16864, 16906, 16910
+[2025-10-18T01:39:32.387Z] 📊 Total unique armor: 150
+[2025-10-18T01:39:32.388Z] 💾 Saved 150 armor IDs to turtle_db/armor-ids.json
+[2025-10-18T01:39:33.945Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4#150+1
+[2025-10-18T01:39:37.946Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-18T01:39:37.947Z] 🆔 Sample IDs: 13353, 14549, 16811, 16832, 16905
+[2025-10-18T01:39:37.947Z] 📊 Total unique armor: 200
+[2025-10-18T01:39:37.949Z] 💾 Saved 200 armor IDs to turtle_db/armor-ids.json
+[2025-10-18T01:39:39.509Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4#200+1
+[2025-10-18T01:39:43.512Z] 📄 Page 5: Found 50 items (50 new)
+[2025-10-18T01:39:43.513Z] 🆔 Sample IDs: 12752, 12757, 16828, 16829, 16830
+[2025-10-18T01:39:43.513Z] 📊 Total unique armor: 250
+[2025-10-18T01:39:43.515Z] 💾 Saved 250 armor IDs to turtle_db/armor-ids.json
+[2025-10-18T01:39:45.078Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=4#250+1
+[2025-10-18T01:39:49.076Z] 📄 Page 6: Found 50 items (50 new)
+[2025-10-18T01:39:49.077Z] 🆔 Sample IDs: 11808, 12895, 16813, 16833, 16835
+[2025-10-18T01:39:49.077Z] 📊 Total unique armor: 300
+[2025-10-18T01:39:49.081Z] 💾 Saved 300 armor IDs to turtle_db/armor-ids.json
+[2025-10-18T01:39:50.643Z] 📄 Loading page 7 with fresh browser context: https://database.turtle-wow.org/?items=4#300+1
+[2025-10-18T01:39:54.648Z] 📄 Page 7: Found 50 items (50 new)
+[2025-10-18T01:39:54.649Z] 🆔 Sample IDs: 3475, 14554, 16982, 17102, 18806
+[2025-10-18T01:39:54.649Z] 📊 Total unique armor: 350
+[2025-10-18T01:39:54.653Z] 💾 Saved 350 armor IDs to turtle_db/armor-ids.json
+[2025-10-18T01:39:56.216Z] 📄 Loading page 8 with fresh browser context: https://database.turtle-wow.org/?items=4#350+1
+[2025-10-18T01:40:00.215Z] 📄 Page 8: Found 50 items (50 new)
+[2025-10-18T01:40:00.215Z] 🆔 Sample IDs: 17013, 17014, 18817, 19132, 19148
+[2025-10-18T01:40:00.216Z] 📊 Total unique armor: 400
+[2025-10-18T01:40:00.219Z] 💾 Saved 400 armor IDs to turtle_db/armor-ids.json
+[2025-10-18T01:40:01.780Z] 📄 Loading page 9 with fresh browser context: https://database.turtle-wow.org/?items=4#400+1
+[2025-10-18T01:40:05.785Z] 📄 Page 9: Found 50 items (50 new)
+[2025-10-18T01:40:05.786Z] 🆔 Sample IDs: 18829, 19290, 20068, 20158, 20175
+[2025-10-18T01:40:05.786Z] 📊 Total unique armor: 450
+[2025-10-18T01:40:05.791Z] 💾 Saved 450 armor IDs to turtle_db/armor-ids.json
+[2025-10-18T01:40:07.350Z] 📄 Loading page 10 with fresh browser context: https://database.turtle-wow.org/?items=4#450+1
+[2025-10-18T01:40:11.354Z] 📄 Page 10: Found 46 items (46 new)
+[2025-10-18T01:40:11.355Z] 🆔 Sample IDs: 16935, 16936, 16937, 16938, 16939
+[2025-10-18T01:40:11.355Z] 📊 Total unique armor: 496
+[2025-10-18T01:40:11.360Z] 💾 Saved 496 armor IDs to turtle_db/armor-ids.json
+[2025-10-18T01:40:11.360Z] 🏁 Last page detected (46 < 50 items)
+[2025-10-18T01:40:12.868Z] 💾 Saved 496 armor IDs to turtle_db/armor-ids.json
+[2025-10-18T01:40:12.869Z] ✅ armor extraction complete: 496 total IDs
+[2025-10-18T01:40:12.869Z] 
+🎉 ID extraction complete!
+[2025-10-18T01:40:12.870Z] 📊 Final counts:
+[2025-10-18T01:40:12.871Z]    Weapons: 350 IDs
+[2025-10-18T01:40:12.873Z]    Armor: 0 IDs
+[2025-10-18T01:40:12.873Z]    Total: 350 IDs
+[2025-10-18T01:40:12.944Z] 🔒 Browser closed

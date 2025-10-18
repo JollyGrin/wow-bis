@@ -288,21 +288,39 @@ class TurtleWowCompleteScraper {
     while (hasMore) {
       try {
         const offset = currentPage * 50;
-        // Try different pagination URL patterns
+        // Use the correct hash-based pagination format from TURTLE_ITEMS_FETCH.md
         let url: string;
         if (currentPage === 0) {
           url = `${this.baseUrl}/?items=${categoryId}`;
         } else {
-          // Try query parameter approach first
-          url = `${this.baseUrl}/?items=${categoryId}&offset=${offset}`;
+          // Use the documented hash format: #50+1, #100+1, etc.
+          url = `${this.baseUrl}/?items=${categoryId}#${offset}+1`;
         }
         
         this.log(`Extracting ${category} page ${currentPage + 1} (offset: ${offset}) - URL: ${url}`);
         
-        await this.page!.goto(url, { 
-          waitUntil: 'networkidle2', 
-          timeout: 30000 
-        });
+        if (currentPage === 0) {
+          // First page - normal navigation
+          await this.page!.goto(url, { 
+            waitUntil: 'networkidle2', 
+            timeout: 30000 
+          });
+        } else {
+          // For hash-based pagination, we need to update the URL and wait for content
+          await this.page!.evaluate((newUrl) => {
+            window.location.hash = newUrl.split('#')[1];
+          }, url);
+          
+          // Wait longer for dynamic content to load
+          await this.delay(3000);
+          
+          // Wait for the table content to update
+          await this.page!.waitForFunction(() => {
+            const links = document.querySelectorAll('a[href*="?item="]');
+            return links.length > 0;
+          }, { timeout: 10000 });
+        }
+        
         await this.delay(2000);
 
         // Extract item IDs and pagination info from the page
@@ -430,7 +448,11 @@ class TurtleWowCompleteScraper {
         const nameElem = document.querySelector('h1');
         if (!nameElem) return null;
         
-        const name = nameElem.textContent?.trim().replace(' - Items', '').trim() || '';
+        const name = nameElem.textContent?.trim().replace(' - Items', '').replace(' - Item', '').trim() || '';
+        
+        // Additional debug logging for name extraction
+        console.log(`Debug: H1 content for item ${itemId}: "${nameElem.textContent}"`);
+        console.log(`Debug: Extracted name: "${name}"`);
         
         // Get quality by checking for color classes
         let quality = 'q1'; // Default to common
