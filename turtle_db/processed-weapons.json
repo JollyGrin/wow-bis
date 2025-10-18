@@ -166,5 +166,655 @@
     "itemLink": "|cff0070dd|Hitem:1454::::::::::0|h[Axe of the Enforcer]|h|r",
     "contentPhase": 1,
     "uniqueName": "axe-of-the-enforcer"
+  },
+  {
+    "itemId": 1481,
+    "name": "Grimclaw",
+    "icon": "inv_axe_13",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 3337,
+    "quality": "Rare",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Grimclaw"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "22 - 42  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:1481::::::::::0|h[Grimclaw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grimclaw"
+  },
+  {
+    "itemId": 2044,
+    "name": "Crescent of Forlorn Spirits",
+    "icon": "inv_axe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 8826,
+    "quality": "Rare",
+    "itemLevel": 35,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Crescent of Forlorn Spirits"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "25 - 48  Damage"
+      },
+      {
+        "label": "+2 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 98,
+          "name": "The Legend of Stalvan",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:2044::::::::::0|h[Crescent of Forlorn Spirits]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crescent-of-forlorn-spirits"
+  },
+  {
+    "itemId": 2807,
+    "name": "Guillotine Axe",
+    "icon": "inv_axe_24",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2452,
+    "quality": "Rare",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Guillotine Axe"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "28 - 53  Damage"
+      },
+      {
+        "label": "+3 Agility"
+      },
+      {
+        "label": "+3 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:2807::::::::::0|h[Guillotine Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "guillotine-axe"
+  },
+  {
+    "itemId": 2815,
+    "name": "Curve-bladed Ripper",
+    "icon": "inv_axe_23",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 19778,
+    "quality": "Rare",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Curve-bladed Ripper"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "40 - 75  Damage"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:2815::::::::::0|h[Curve-bladed Ripper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "curve-bladed-ripper"
+  },
+  {
+    "itemId": 2878,
+    "name": "Bearded Boneaxe",
+    "icon": "inv_axe_14",
+    "class": "Weapon",
+    "subclass": "axe",
+    "sellPrice": 5143,
+    "quality": "Rare",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Bearded Boneaxe"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "25 - 47  Damage"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:2878::::::::::0|h[Bearded Boneaxe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bearded-boneaxe"
+  },
+  {
+    "itemId": 6692,
+    "name": "Pronged Reaver",
+    "icon": "inv_axe_18",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 9788,
+    "quality": "Rare",
+    "itemLevel": 36,
+    "requiredLevel": 31,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Pronged Reaver"
+      },
+      {
+        "label": "Requires Level 31"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "40 - 75  Damage"
+      },
+      {
+        "label": "+5 Spirit"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:6692::::::::::0|h[Pronged Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pronged-reaver"
+  },
+  {
+    "itemId": 7786,
+    "name": "Headsplitter",
+    "icon": "inv_axe_14",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 5605,
+    "quality": "Rare",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Headsplitter"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "30 - 57  Damage"
+      },
+      {
+        "label": "+3 Strength"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:7786::::::::::0|h[Headsplitter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "headsplitter"
+  },
+  {
+    "itemId": 9465,
+    "name": "Digmaster 5000",
+    "icon": "inv_pick_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 18560,
+    "quality": "Rare",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Digmaster 5000"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "38 - 71  Damage"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9465::::::::::0|h[Digmaster 5000]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "digmaster-5000"
+  },
+  {
+    "itemId": 9478,
+    "name": "Ripsaw",
+    "icon": "inv_axe_07",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 28853,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Ripsaw"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "63 - 117  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9478::::::::::0|h[Ripsaw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ripsaw"
+  },
+  {
+    "itemId": 9684,
+    "name": "Force of the Hippogryph",
+    "icon": "inv_axe_12",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 30875,
+    "quality": "Rare",
+    "itemLevel": 51,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Force of the Hippogryph"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "57 - 106  Damage"
+      },
+      {
+        "label": "+9 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 3129,
+          "name": "Weapons of Spirit",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:9684::::::::::0|h[Force of the Hippogryph]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "force-of-the-hippogryph"
+  },
+  {
+    "itemId": 10772,
+    "name": "Glutton's Cleaver",
+    "icon": "inv_axe_23",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 14604,
+    "quality": "Rare",
+    "itemLevel": 41,
+    "requiredLevel": 36,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Glutton's Cleaver"
+      },
+      {
+        "label": "Requires Level 36"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "39 - 73  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:10772::::::::::0|h[Glutton's Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gluttons-cleaver"
+  },
+  {
+    "itemId": 11702,
+    "name": "Grizzle's Skinner",
+    "icon": "inv_axe_12",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 36752,
+    "quality": "Rare",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Grizzle's Skinner"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "61 - 114  Damage"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+6 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11702::::::::::0|h[Grizzle's Skinner]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grizzles-skinner"
+  },
+  {
+    "itemId": 12527,
+    "name": "Ribsplitter",
+    "icon": "inv_axe_13",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 35332,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Ribsplitter"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "66 - 124  Damage"
+      },
+      {
+        "label": "+10 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12527::::::::::0|h[Ribsplitter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ribsplitter"
+  },
+  {
+    "itemId": 12621,
+    "name": "Demonfork",
+    "icon": "inv_weapon_halberd_11",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 45085,
+    "quality": "Rare",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Demonfork"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "76 - 142  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12621::::::::::0|h[Demonfork]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "demonfork"
+  },
+  {
+    "itemId": 12774,
+    "name": "Dawn's Edge",
+    "icon": "inv_axe_05",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 36044,
+    "quality": "Rare",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Dawn's Edge"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "53 - 100  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12774::::::::::0|h[Dawn's Edge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dawns-edge"
   }
 ]

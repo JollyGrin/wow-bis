@@ -454,3 +454,94 @@
 [2025-10-18T17:15:59.327Z] ✅ Processed: Axe of the Enforcer
 [2025-10-18T17:15:59.329Z] 💾 Saved 4 weapons items to turtle_db/processed-weapons.json
 [2025-10-18T17:15:59.330Z] 💾 Saved: 4 total items
+[2025-10-18T17:20:24.945Z] 🚀 Initializing browser with anti-detection...
+[2025-10-18T17:20:25.364Z] ✅ Browser initialized with stealth mode
+[2025-10-18T17:20:25.364Z] 
+🚀 Starting Item Detail Processing
+
+[2025-10-18T17:20:25.364Z] 📁 Loading IDs from 18 weapons subcategories
+[2025-10-18T17:20:25.365Z]   ✅ Loaded 214 IDs from 2.0
+[2025-10-18T17:20:25.365Z]   ✅ Loaded 168 IDs from 2.1
+[2025-10-18T17:20:25.365Z]   ✅ Loaded 143 IDs from 2.2
+[2025-10-18T17:20:25.366Z]   ✅ Loaded 122 IDs from 2.3
+[2025-10-18T17:20:25.366Z]   ✅ Loaded 314 IDs from 2.4
+[2025-10-18T17:20:25.366Z]   ✅ Loaded 203 IDs from 2.5
+[2025-10-18T17:20:25.366Z]   ✅ Loaded 101 IDs from 2.6
+[2025-10-18T17:20:25.366Z]   ✅ Loaded 340 IDs from 2.7
+[2025-10-18T17:20:25.367Z]   ✅ Loaded 196 IDs from 2.8
+[2025-10-18T17:20:25.367Z]   ✅ Loaded 347 IDs from 2.10
+[2025-10-18T17:20:25.367Z]   ✅ Loaded 74 IDs from 2.13
+[2025-10-18T17:20:25.367Z]   ✅ Loaded 82 IDs from 2.14
+[2025-10-18T17:20:25.367Z]   ✅ Loaded 318 IDs from 2.15
+[2025-10-18T17:20:25.367Z]   ✅ Loaded 28 IDs from 2.16
+[2025-10-18T17:20:25.367Z]   ✅ Loaded 2 IDs from 2.17
+[2025-10-18T17:20:25.367Z]   ✅ Loaded 32 IDs from 2.18
+[2025-10-18T17:20:25.367Z]   ✅ Loaded 157 IDs from 2.19
+[2025-10-18T17:20:25.367Z]   ✅ Loaded 9 IDs from 2.20
+[2025-10-18T17:20:25.368Z] 📊 Total unique weapons IDs: 2850
+[2025-10-18T17:20:25.368Z] 📦 Loaded 4 existing weapons items
+[2025-10-18T17:20:25.368Z] 
+🎯 Processing weapons items
+[2025-10-18T17:20:25.368Z] 📊 Total IDs to process: 2850
+[2025-10-18T17:20:25.368Z] 📦 Already processed: 4
+[2025-10-18T17:20:25.368Z] ⏳ Remaining to process: 2846
+[2025-10-18T17:20:25.368Z] 🔍 Processing weapons 1481 (5/2850)
+[2025-10-18T17:20:31.359Z] ✅ Processed: Grimclaw
+[2025-10-18T17:20:31.361Z] 💾 Saved 5 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:20:31.361Z] 💾 Saved: 5 total items
+[2025-10-18T17:20:33.363Z] 🔍 Processing weapons 2044 (6/2850)
+[2025-10-18T17:20:39.462Z] ✅ Processed: Crescent of Forlorn Spirits
+[2025-10-18T17:20:39.465Z] 💾 Saved 6 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:20:39.465Z] 💾 Saved: 6 total items
+[2025-10-18T17:20:41.467Z] 🔍 Processing weapons 2807 (7/2850)
+[2025-10-18T17:20:47.560Z] ✅ Processed: Guillotine Axe
+[2025-10-18T17:20:47.565Z] 💾 Saved 7 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:20:47.566Z] 💾 Saved: 7 total items
+[2025-10-18T17:20:49.568Z] 🔍 Processing weapons 2815 (8/2850)
+[2025-10-18T17:20:55.677Z] ✅ Processed: Curve-bladed Ripper
+[2025-10-18T17:20:55.678Z] 💾 Saved 8 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:20:55.678Z] 💾 Saved: 8 total items
+[2025-10-18T17:20:57.679Z] 🔍 Processing weapons 2878 (9/2850)
+[2025-10-18T17:21:03.796Z] ✅ Processed: Bearded Boneaxe
+[2025-10-18T17:21:03.801Z] 💾 Saved 9 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:21:03.801Z] 💾 Saved: 9 total items
+[2025-10-18T17:21:05.803Z] 🔍 Processing weapons 6692 (10/2850)
+[2025-10-18T17:21:11.901Z] ✅ Processed: Pronged Reaver
+[2025-10-18T17:21:11.904Z] 💾 Saved 10 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:21:11.904Z] 💾 Saved: 10 total items
+[2025-10-18T17:21:13.906Z] 🔍 Processing weapons 7786 (11/2850)
+[2025-10-18T17:21:19.995Z] ✅ Processed: Headsplitter
+[2025-10-18T17:21:19.997Z] 💾 Saved 11 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:21:19.997Z] 💾 Saved: 11 total items
+[2025-10-18T17:21:21.998Z] 🔍 Processing weapons 9465 (12/2850)
+[2025-10-18T17:21:28.084Z] ✅ Processed: Digmaster 5000
+[2025-10-18T17:21:28.087Z] 💾 Saved 12 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:21:28.087Z] 💾 Saved: 12 total items
+[2025-10-18T17:21:30.089Z] 🔍 Processing weapons 9478 (13/2850)
+[2025-10-18T17:21:36.265Z] ✅ Processed: Ripsaw
+[2025-10-18T17:21:36.267Z] 💾 Saved 13 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:21:36.267Z] 💾 Saved: 13 total items
+[2025-10-18T17:21:38.269Z] 🔍 Processing weapons 9684 (14/2850)
+[2025-10-18T17:21:44.357Z] ✅ Processed: Force of the Hippogryph
+[2025-10-18T17:21:44.359Z] 💾 Saved 14 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:21:44.359Z] 💾 Saved: 14 total items
+[2025-10-18T17:21:46.361Z] 🔍 Processing weapons 10772 (15/2850)
+[2025-10-18T17:21:52.371Z] ✅ Processed: Glutton's Cleaver
+[2025-10-18T17:21:52.373Z] 💾 Saved 15 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:21:52.373Z] 💾 Saved: 15 total items
+[2025-10-18T17:21:54.374Z] 🔍 Processing weapons 11702 (16/2850)
+[2025-10-18T17:22:00.469Z] ✅ Processed: Grizzle's Skinner
+[2025-10-18T17:22:00.472Z] 💾 Saved 16 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:22:00.473Z] 💾 Saved: 16 total items
+[2025-10-18T17:22:02.474Z] 🔍 Processing weapons 12527 (17/2850)
+[2025-10-18T17:22:08.390Z] ✅ Processed: Ribsplitter
+[2025-10-18T17:22:08.392Z] 💾 Saved 17 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:22:08.392Z] 💾 Saved: 17 total items
+[2025-10-18T17:22:10.394Z] 🔍 Processing weapons 12621 (18/2850)
+[2025-10-18T17:22:16.477Z] ✅ Processed: Demonfork
+[2025-10-18T17:22:16.479Z] 💾 Saved 18 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:22:16.480Z] 💾 Saved: 18 total items
+[2025-10-18T17:22:18.481Z] 🔍 Processing weapons 12774 (19/2850)
+[2025-10-18T17:22:24.558Z] ✅ Processed: Dawn's Edge
+[2025-10-18T17:22:24.558Z] 💾 Saved 19 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T17:22:24.559Z] 💾 Saved: 19 total items

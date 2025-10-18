@@ -46,9 +46,9 @@ async function testSellPrice() {
     window.chrome = { runtime: {} };
   });
   
-  // Test with Sulfuras which should have a high sell price
-  const itemId = 17182;
-  console.log(`🔍 Testing item ${itemId} (Sulfuras)...`);
+  // Test with item 7002 for quest source
+  const itemId = 7002;
+  console.log(`🔍 Testing item ${itemId} for quest source...`);
   
   const result = await ItemExtractor.extractItemDetails(page, itemId);
   
@@ -70,6 +70,19 @@ async function testSellPrice() {
     
     if (!result.icon || result.icon === '') {
       console.log('❌ No icon found');
+    }
+    
+    // Test quest source extraction
+    if (result.source) {
+      console.log(`🔗 Source: ${result.source.category}`);
+      if (result.source.quests) {
+        console.log(`📜 Quests found: ${result.source.quests.length}`);
+        result.source.quests.forEach((quest, idx) => {
+          console.log(`   Quest ${idx + 1}: ${quest.name} (ID: ${quest.questId}, Faction: ${quest.faction})`);
+        });
+      }
+    } else {
+      console.log('❌ No source information found');
     }
   } else {
     console.log('❌ Failed to extract item');
