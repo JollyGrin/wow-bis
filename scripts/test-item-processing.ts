@@ -80,6 +80,7 @@ async function testItemExtraction() {
         validResults.push(item);
         console.log(`✅ Successfully extracted: ${item.name}`);
         console.log(`   📊 Quality: ${item.quality}, Level: ${item.itemLevel}, Required: ${item.requiredLevel}`);
+        console.log(`   💰 Sell Price: ${item.sellPrice} copper`);
         console.log(`   🏷️  Class: ${item.class}, Subclass: ${item.subclass}, Slot: ${item.slot}`);
         console.log(`   🎨 Icon: ${item.icon}`);
         console.log(`   📜 Tooltip lines: ${item.tooltip.length}`);

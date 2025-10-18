@@ -299,11 +299,11 @@ class ItemDetailProcessor {
         
         this.log(`✅ Processed: ${item.name}`);
         
-        // Save progress after every item
-        // Save progress every 10 items instead of every item for better performance
+        // Save progress every 10 items for better performance, or at the end
         if (overallProgress % 10 === 0 || overallProgress === remainingIds.length) {
           this.saveProgress(progress);
           this.saveItems(category, items);
+          this.log(`💾 Saved batch: ${items.length} total items`);
         }
         
       } else {

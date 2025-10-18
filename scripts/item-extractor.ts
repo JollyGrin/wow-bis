@@ -151,6 +151,34 @@ export class ItemExtractor {
         // Add item name to tooltip
         tooltip.push({ label: name });
         
+        // First parse Quick Facts from infobox for itemLevel and sellPrice
+        const infobox = document.querySelector('table.infobox');
+        if (infobox) {
+          const infoboxText = infobox.textContent || '';
+          
+          // Parse item level from "Level: XX"
+          const levelMatch = infoboxText.match(/Level:\s*(\d+)/);
+          if (levelMatch) {
+            itemLevel = parseInt(levelMatch[1]);
+          }
+          
+          // Parse sell price from money spans
+          const sellsPriceSection = Array.from(infobox.querySelectorAll('li')).find(li => 
+            li.textContent?.includes('Sells for'));
+          if (sellsPriceSection) {
+            let totalCopper = 0;
+            const goldSpan = sellsPriceSection.querySelector('.moneygold');
+            const silverSpan = sellsPriceSection.querySelector('.moneysilver');
+            const copperSpan = sellsPriceSection.querySelector('.moneycopper');
+            
+            if (goldSpan) totalCopper += parseInt(goldSpan.textContent || '0') * 10000;
+            if (silverSpan) totalCopper += parseInt(silverSpan.textContent || '0') * 100;
+            if (copperSpan) totalCopper += parseInt(copperSpan.textContent || '0');
+            
+            sellPrice = totalCopper;
+          }
+        }
+        
         // Find the main item table - usually inside a tooltip div or the second table
         const tooltipDiv = document.querySelector('.tooltip') || document.querySelector('[id*="tooltip"]');
         const allTables = document.querySelectorAll('table');
