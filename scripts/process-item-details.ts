@@ -1,5 +1,6 @@
 import puppeteer, { Browser, Page } from 'puppeteer';
 import { writeFileSync, existsSync, readFileSync, mkdirSync } from 'fs';
+import { CATEGORY_CONFIG, CategoryId } from './constants';
 
 interface TooltipLine {
   label: string;
@@ -38,23 +39,20 @@ interface Item {
   uniqueName: string;
 }
 
+interface SubcategoryProcessingProgress {
+  processed_count: number;
+  failed_count: number;
+  last_processed_id: number;
+  complete: boolean;
+}
+
 interface ProcessingProgress {
-  weapons: {
-    processed_count: number;
-    failed_count: number;
-    last_processed_id: number;
-    complete: boolean;
-  };
-  armor: {
-    processed_count: number;
-    failed_count: number;
-    last_processed_id: number;
-    complete: boolean;
-  };
+  subcategories: { [subcategoryId: string]: SubcategoryProcessingProgress };
   start_time: string;
   last_updated: string;
   failed_items: number[];
 }
+
 
 class ItemDetailProcessor {
   private browser: Browser | null = null;
