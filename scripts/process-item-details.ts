@@ -34,16 +34,54 @@ class ItemDetailProcessor {
   }
 
   async initialize() {
-    this.log('🚀 Initializing browser...');
+    this.log('🚀 Initializing browser with anti-detection...');
     this.browser = await puppeteer.launch({
       headless: true,
-      args: ['--no-sandbox', '--disable-setuid-sandbox'],
+      args: [
+        '--no-sandbox',
+        '--disable-setuid-sandbox',
+        '--disable-blink-features=AutomationControlled',
+        '--disable-features=VizDisplayCompositor',
+        '--disable-web-security',
+        '--disable-dev-shm-usage',
+      ],
     });
     
     this.page = await this.browser.newPage();
-    await this.page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36');
-    await this.page.setViewport({ width: 1920, height: 1080 });
-    this.log('✅ Browser initialized');
+    await this.setupStealth(this.page);
+    this.log('✅ Browser initialized with stealth mode');
+  }
+
+  private async setupStealth(page: any) {
+    // Set realistic headers
+    await page.setUserAgent(
+      'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    );
+    await page.setExtraHTTPHeaders({
+      Accept:
+        'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+      'Accept-Language': 'en-US,en;q=0.9',
+      'Accept-Encoding': 'gzip, deflate, br',
+      Connection: 'keep-alive',
+      'Upgrade-Insecure-Requests': '1',
+      'Sec-Fetch-Dest': 'document',
+      'Sec-Fetch-Mode': 'navigate',
+      'Sec-Fetch-Site': 'none',
+    });
+
+    await page.setViewport({ width: 1920, height: 1080 });
+
+    // Remove automation indicators
+    await page.evaluateOnNewDocument(() => {
+      Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+      Object.defineProperty(navigator, 'plugins', {
+        get: () => [1, 2, 3, 4, 5],
+      });
+      Object.defineProperty(navigator, 'languages', {
+        get: () => ['en-US', 'en'],
+      });
+      window.chrome = { runtime: {} };
+    });
   }
 
   async cleanup() {
@@ -51,6 +89,12 @@ class ItemDetailProcessor {
       await this.browser.close();
       this.log('🔒 Browser closed');
     }
+  }
+
+  async restartBrowser() {
+    this.log('🔄 Restarting browser for fresh session...');
+    await this.cleanup();
+    await this.initialize();
   }
 
   private log(message: string) {
@@ -71,7 +115,16 @@ class ItemDetailProcessor {
     console.error(errorMessage, error || '');
     
     try {
-      const fullError = error ? `${errorMessage}\n${JSON.stringify(error, null, 2)}\n` : `${errorMessage}\n`;
+      let fullError = `${errorMessage}\n`;
+      if (error) {
+        if (error.message) fullError += `Message: ${error.message}\n`;
+        if (error.stack) fullError += `Stack: ${error.stack}\n`;
+        if (error.toString && error.toString() !== '[object Object]') {
+          fullError += `Error String: ${error.toString()}\n`;
+        }
+        fullError += `Full Error: ${JSON.stringify(error, null, 2)}\n`;
+      }
+      fullError += '---\n';
       writeFileSync(this.errorFile, fullError, { flag: 'a' });
     } catch (e) {
       console.error('Failed to write to error file:', e);
@@ -108,32 +161,57 @@ class ItemDetailProcessor {
   }
 
   private loadIds(category: 'weapons' | 'armor'): number[] {
-    const filename = `turtle_db/${category}-ids.json`;
-    if (!existsSync(filename)) {
-      throw new Error(`${filename} not found. Run extract-item-ids.ts first.`);
+    const allIds: number[] = [];
+    
+    // Get all subcategories for this category type
+    const subcategories = Object.entries(CATEGORY_CONFIG)
+      .filter(([_, config]) => config.type === category)
+      .map(([subcategoryId, _]) => subcategoryId);
+    
+    this.log(`📁 Loading IDs from ${subcategories.length} ${category} subcategories`);
+    
+    for (const subcategoryId of subcategories) {
+      const filename = `turtle_db/items-${subcategoryId}.json`;
+      if (existsSync(filename)) {
+        try {
+          const subcategoryIds: number[] = JSON.parse(readFileSync(filename, 'utf-8'));
+          allIds.push(...subcategoryIds);
+          this.log(`  ✅ Loaded ${subcategoryIds.length} IDs from ${subcategoryId}`);
+        } catch (e) {
+          this.log(`  ⚠️ Failed to load ${filename}: ${e}`);
+        }
+      } else {
+        this.log(`  ⚠️ Missing ${filename}`);
+      }
     }
     
-    try {
-      return JSON.parse(readFileSync(filename, 'utf-8'));
-    } catch (e) {
-      throw new Error(`Failed to load ${filename}: ${e}`);
+    if (allIds.length === 0) {
+      throw new Error(`No ${category} IDs found. Run extract-item-ids.ts first.`);
     }
+    
+    // Remove duplicates
+    const uniqueIds = [...new Set(allIds)];
+    this.log(`📊 Total unique ${category} IDs: ${uniqueIds.length}`);
+    
+    return uniqueIds;
   }
 
   private loadExistingItems(category: 'weapons' | 'armor'): Item[] {
-    const filename = `turtle_db/${category}.json`;
+    const filename = `turtle_db/processed-${category}.json`;
     if (existsSync(filename)) {
       try {
-        return JSON.parse(readFileSync(filename, 'utf-8'));
+        const items = JSON.parse(readFileSync(filename, 'utf-8'));
+        this.log(`📦 Loaded ${items.length} existing ${category} items`);
+        return items;
       } catch (e) {
-        this.log(`⚠️ Failed to load existing ${category} items`);
+        this.log(`⚠️ Failed to load existing ${category} items from ${filename}`);
       }
     }
     return [];
   }
 
   private saveItems(category: 'weapons' | 'armor', items: Item[]) {
-    const filename = `turtle_db/${category}.json`;
+    const filename = `turtle_db/processed-${category}.json`;
     try {
       const tempFile = filename + '.tmp';
       writeFileSync(tempFile, JSON.stringify(items, null, 2));
@@ -156,9 +234,10 @@ class ItemDetailProcessor {
     } catch (error) {
       this.logError(`Error scraping item ${itemId} (attempt ${retryCount + 1})`, error);
       
-      if (retryCount < 2) {
-        this.log(`🔄 Retrying item ${itemId} in 3 seconds...`);
-        await this.delay(3000);
+      if (retryCount < 3) { // Increased retry attempts
+        const waitTime = Math.min(5000 + (retryCount * 2000), 15000); // Progressive backoff
+        this.log(`🔄 Retrying item ${itemId} in ${waitTime/1000} seconds...`);
+        await this.delay(waitTime);
         return this.scrapeItemDetails(itemId, retryCount + 1);
       }
       
@@ -205,6 +284,11 @@ class ItemDetailProcessor {
       const overallProgress = i + 1;
       const totalProgress = existingItems.length + overallProgress;
       
+      // Restart browser every 100 items to prevent memory issues
+      if (overallProgress % 100 === 0) {
+        await this.restartBrowser();
+      }
+      
       this.log(`🔍 Processing ${category} ${itemId} (${totalProgress}/${ids.length})`);
       
       const item = await this.scrapeItemDetails(itemId);
@@ -216,22 +300,30 @@ class ItemDetailProcessor {
         this.log(`✅ Processed: ${item.name}`);
         
         // Save progress after every item
-        this.saveProgress(progress);
-        this.saveItems(category, items);
+        // Save progress every 10 items instead of every item for better performance
+        if (overallProgress % 10 === 0 || overallProgress === remainingIds.length) {
+          this.saveProgress(progress);
+          this.saveItems(category, items);
+        }
         
       } else {
         progress.subcategories[category].failed_count++;
         progress.failed_items.push(itemId);
-        this.saveProgress(progress);
-        this.logError(`Failed to process ${category} item ${itemId}`);
+        this.logError(`Failed to process ${category} item ${itemId} after 4 attempts`);
+        
+        // Continue processing but save progress
+        if (overallProgress % 10 === 0) {
+          this.saveProgress(progress);
+        }
       }
       
-      // Rate limiting
-      await this.delay(1500);
+      // Rate limiting with stealth protection
+      await this.delay(2000);
     }
     
     progress.subcategories[category].complete = true;
     this.saveProgress(progress);
+    this.saveItems(category, items); // Final save
     
     this.log(`✅ ${category} processing complete!`);
     this.log(`📊 Successfully processed: ${items.length}`);

@@ -4,3 +4,184 @@
 🚀 Starting Item Detail Processing
 
 [2025-10-18T15:47:05.007Z] 🔒 Browser closed
+[2025-10-18T15:50:41.078Z] 🚀 Initializing browser...
+[2025-10-18T15:50:41.454Z] ✅ Browser initialized
+[2025-10-18T15:50:41.454Z] 
+🚀 Starting Item Detail Processing
+
+[2025-10-18T15:50:41.454Z] 📁 Loading IDs from 18 weapons subcategories
+[2025-10-18T15:50:41.455Z]   ✅ Loaded 214 IDs from 2.0
+[2025-10-18T15:50:41.455Z]   ✅ Loaded 168 IDs from 2.1
+[2025-10-18T15:50:41.455Z]   ✅ Loaded 143 IDs from 2.2
+[2025-10-18T15:50:41.456Z]   ✅ Loaded 122 IDs from 2.3
+[2025-10-18T15:50:41.456Z]   ✅ Loaded 314 IDs from 2.4
+[2025-10-18T15:50:41.456Z]   ✅ Loaded 203 IDs from 2.5
+[2025-10-18T15:50:41.456Z]   ✅ Loaded 101 IDs from 2.6
+[2025-10-18T15:50:41.457Z]   ✅ Loaded 340 IDs from 2.7
+[2025-10-18T15:50:41.457Z]   ✅ Loaded 196 IDs from 2.8
+[2025-10-18T15:50:41.457Z]   ✅ Loaded 347 IDs from 2.10
+[2025-10-18T15:50:41.457Z]   ✅ Loaded 74 IDs from 2.13
+[2025-10-18T15:50:41.457Z]   ✅ Loaded 82 IDs from 2.14
+[2025-10-18T15:50:41.457Z]   ✅ Loaded 318 IDs from 2.15
+[2025-10-18T15:50:41.457Z]   ✅ Loaded 28 IDs from 2.16
+[2025-10-18T15:50:41.457Z]   ✅ Loaded 2 IDs from 2.17
+[2025-10-18T15:50:41.457Z]   ✅ Loaded 32 IDs from 2.18
+[2025-10-18T15:50:41.457Z]   ✅ Loaded 157 IDs from 2.19
+[2025-10-18T15:50:41.457Z]   ✅ Loaded 9 IDs from 2.20
+[2025-10-18T15:50:41.457Z] 📊 Total unique weapons IDs: 2850
+[2025-10-18T15:50:41.458Z] 
+🎯 Processing weapons items
+[2025-10-18T15:50:41.458Z] 📊 Total IDs to process: 2850
+[2025-10-18T15:50:41.458Z] 📦 Already processed: 0
+[2025-10-18T15:50:41.458Z] ⏳ Remaining to process: 2850
+[2025-10-18T15:50:41.458Z] 🔍 Processing weapons 811 (1/2850)
+[2025-10-18T15:50:44.448Z] ✅ Processed: Axe of the Deep Woods
+[2025-10-18T15:50:44.450Z] 💾 Saved 1 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T15:50:45.951Z] 🔍 Processing weapons 871 (2/2850)
+[2025-10-18T15:50:51.481Z] 🔍 Processing weapons 1292 (3/2850)
+[2025-10-18T15:52:28.724Z] 🚀 Initializing browser...
+[2025-10-18T15:52:29.135Z] ✅ Browser initialized
+[2025-10-18T15:52:29.135Z] 
+🚀 Starting Item Detail Processing
+
+[2025-10-18T15:52:29.135Z] 📁 Loading IDs from 18 weapons subcategories
+[2025-10-18T15:52:29.136Z]   ✅ Loaded 214 IDs from 2.0
+[2025-10-18T15:52:29.136Z]   ✅ Loaded 168 IDs from 2.1
+[2025-10-18T15:52:29.136Z]   ✅ Loaded 143 IDs from 2.2
+[2025-10-18T15:52:29.136Z]   ✅ Loaded 122 IDs from 2.3
+[2025-10-18T15:52:29.136Z]   ✅ Loaded 314 IDs from 2.4
+[2025-10-18T15:52:29.136Z]   ✅ Loaded 203 IDs from 2.5
+[2025-10-18T15:52:29.137Z]   ✅ Loaded 101 IDs from 2.6
+[2025-10-18T15:52:29.137Z]   ✅ Loaded 340 IDs from 2.7
+[2025-10-18T15:52:29.137Z]   ✅ Loaded 196 IDs from 2.8
+[2025-10-18T15:52:29.137Z]   ✅ Loaded 347 IDs from 2.10
+[2025-10-18T15:52:29.137Z]   ✅ Loaded 74 IDs from 2.13
+[2025-10-18T15:52:29.137Z]   ✅ Loaded 82 IDs from 2.14
+[2025-10-18T15:52:29.137Z]   ✅ Loaded 318 IDs from 2.15
+[2025-10-18T15:52:29.137Z]   ✅ Loaded 28 IDs from 2.16
+[2025-10-18T15:52:29.137Z]   ✅ Loaded 2 IDs from 2.17
+[2025-10-18T15:52:29.137Z]   ✅ Loaded 32 IDs from 2.18
+[2025-10-18T15:52:29.138Z]   ✅ Loaded 157 IDs from 2.19
+[2025-10-18T15:52:29.138Z]   ✅ Loaded 9 IDs from 2.20
+[2025-10-18T15:52:29.138Z] 📊 Total unique weapons IDs: 2850
+[2025-10-18T15:52:29.138Z] 📦 Loaded 1 existing weapons items
+[2025-10-18T15:52:29.138Z] 
+🎯 Processing weapons items
+[2025-10-18T15:52:29.138Z] 📊 Total IDs to process: 2850
+[2025-10-18T15:52:29.138Z] 📦 Already processed: 1
+[2025-10-18T15:52:29.138Z] ⏳ Remaining to process: 2847
+[2025-10-18T15:52:29.138Z] 🔍 Processing weapons 1454 (2/2850)
+[2025-10-18T15:52:32.138Z] ✅ Processed: Axe of the Enforcer
+[2025-10-18T15:52:32.140Z] 💾 Saved 2 weapons items to turtle_db/processed-weapons.json
+[2025-10-18T15:52:33.642Z] 🔍 Processing weapons 1481 (3/2850)
+[2025-10-18T15:52:39.275Z] 🔍 Processing weapons 2044 (4/2850)
+[2025-10-18T15:52:44.640Z] 🔍 Processing weapons 2807 (5/2850)
+[2025-10-18T15:58:18.871Z] 🚀 Initializing browser...
+[2025-10-18T15:58:19.159Z] ✅ Browser initialized
+[2025-10-18T15:58:19.159Z] 
+🚀 Starting Item Detail Processing
+
+[2025-10-18T15:58:19.160Z] 📁 Loading IDs from 18 weapons subcategories
+[2025-10-18T15:58:19.160Z]   ✅ Loaded 214 IDs from 2.0
+[2025-10-18T15:58:19.160Z]   ✅ Loaded 168 IDs from 2.1
+[2025-10-18T15:58:19.160Z]   ✅ Loaded 143 IDs from 2.2
+[2025-10-18T15:58:19.160Z]   ✅ Loaded 122 IDs from 2.3
+[2025-10-18T15:58:19.160Z]   ✅ Loaded 314 IDs from 2.4
+[2025-10-18T15:58:19.160Z]   ✅ Loaded 203 IDs from 2.5
+[2025-10-18T15:58:19.160Z]   ✅ Loaded 101 IDs from 2.6
+[2025-10-18T15:58:19.160Z]   ✅ Loaded 340 IDs from 2.7
+[2025-10-18T15:58:19.160Z]   ✅ Loaded 196 IDs from 2.8
+[2025-10-18T15:58:19.160Z]   ✅ Loaded 347 IDs from 2.10
+[2025-10-18T15:58:19.160Z]   ✅ Loaded 74 IDs from 2.13
+[2025-10-18T15:58:19.160Z]   ✅ Loaded 82 IDs from 2.14
+[2025-10-18T15:58:19.160Z]   ✅ Loaded 318 IDs from 2.15
+[2025-10-18T15:58:19.161Z]   ✅ Loaded 28 IDs from 2.16
+[2025-10-18T15:58:19.161Z]   ✅ Loaded 2 IDs from 2.17
+[2025-10-18T15:58:19.161Z]   ✅ Loaded 32 IDs from 2.18
+[2025-10-18T15:58:19.161Z]   ✅ Loaded 157 IDs from 2.19
+[2025-10-18T15:58:19.161Z]   ✅ Loaded 9 IDs from 2.20
+[2025-10-18T15:58:19.161Z] 📊 Total unique weapons IDs: 2850
+[2025-10-18T15:58:19.161Z] 📦 Loaded 2 existing weapons items
+[2025-10-18T15:58:19.161Z] 
+🎯 Processing weapons items
+[2025-10-18T15:58:19.161Z] 📊 Total IDs to process: 2850
+[2025-10-18T15:58:19.161Z] 📦 Already processed: 2
+[2025-10-18T15:58:19.161Z] ⏳ Remaining to process: 2843
+[2025-10-18T15:58:19.161Z] 🔍 Processing weapons 2815 (3/2850)
+[2025-10-18T15:58:22.165Z] ✅ Processed: Curve-bladed Ripper
+[2025-10-18T15:58:25.167Z] 🔍 Processing weapons 2878 (4/2850)
+[2025-10-18T15:58:32.204Z] 🔍 Processing weapons 6692 (5/2850)
+[2025-10-18T16:03:55.921Z] 🚀 Initializing browser...
+[2025-10-18T16:03:56.327Z] ✅ Browser initialized
+[2025-10-18T16:03:56.327Z] 
+🚀 Starting Item Detail Processing
+
+[2025-10-18T16:03:56.328Z] 📁 Loading IDs from 18 weapons subcategories
+[2025-10-18T16:03:56.328Z]   ✅ Loaded 214 IDs from 2.0
+[2025-10-18T16:03:56.328Z]   ✅ Loaded 168 IDs from 2.1
+[2025-10-18T16:03:56.328Z]   ✅ Loaded 143 IDs from 2.2
+[2025-10-18T16:03:56.329Z]   ✅ Loaded 122 IDs from 2.3
+[2025-10-18T16:03:56.329Z]   ✅ Loaded 314 IDs from 2.4
+[2025-10-18T16:03:56.329Z]   ✅ Loaded 203 IDs from 2.5
+[2025-10-18T16:03:56.329Z]   ✅ Loaded 101 IDs from 2.6
+[2025-10-18T16:03:56.330Z]   ✅ Loaded 340 IDs from 2.7
+[2025-10-18T16:03:56.330Z]   ✅ Loaded 196 IDs from 2.8
+[2025-10-18T16:03:56.330Z]   ✅ Loaded 347 IDs from 2.10
+[2025-10-18T16:03:56.330Z]   ✅ Loaded 74 IDs from 2.13
+[2025-10-18T16:03:56.330Z]   ✅ Loaded 82 IDs from 2.14
+[2025-10-18T16:03:56.330Z]   ✅ Loaded 318 IDs from 2.15
+[2025-10-18T16:03:56.330Z]   ✅ Loaded 28 IDs from 2.16
+[2025-10-18T16:03:56.330Z]   ✅ Loaded 2 IDs from 2.17
+[2025-10-18T16:03:56.330Z]   ✅ Loaded 32 IDs from 2.18
+[2025-10-18T16:03:56.330Z]   ✅ Loaded 157 IDs from 2.19
+[2025-10-18T16:03:56.330Z]   ✅ Loaded 9 IDs from 2.20
+[2025-10-18T16:03:56.331Z] 📊 Total unique weapons IDs: 2850
+[2025-10-18T16:03:56.331Z] 📦 Loaded 2 existing weapons items
+[2025-10-18T16:03:56.331Z] 
+🎯 Processing weapons items
+[2025-10-18T16:03:56.331Z] 📊 Total IDs to process: 2850
+[2025-10-18T16:03:56.331Z] 📦 Already processed: 2
+[2025-10-18T16:03:56.331Z] ⏳ Remaining to process: 2843
+[2025-10-18T16:03:56.331Z] 🔍 Processing weapons 2815 (3/2850)
+[2025-10-18T16:03:59.341Z] ✅ Processed: Curve-bladed Ripper
+[2025-10-18T16:04:09.351Z] 🔍 Processing weapons 2878 (4/2850)
+[2025-10-18T16:06:42.060Z] 🚀 Initializing browser with anti-detection...
+[2025-10-18T16:06:42.459Z] ✅ Browser initialized with stealth mode
+[2025-10-18T16:06:42.459Z] 
+🚀 Starting Item Detail Processing
+
+[2025-10-18T16:06:42.459Z] 📁 Loading IDs from 18 weapons subcategories
+[2025-10-18T16:06:42.459Z]   ✅ Loaded 214 IDs from 2.0
+[2025-10-18T16:06:42.459Z]   ✅ Loaded 168 IDs from 2.1
+[2025-10-18T16:06:42.460Z]   ✅ Loaded 143 IDs from 2.2
+[2025-10-18T16:06:42.460Z]   ✅ Loaded 122 IDs from 2.3
+[2025-10-18T16:06:42.460Z]   ✅ Loaded 314 IDs from 2.4
+[2025-10-18T16:06:42.460Z]   ✅ Loaded 203 IDs from 2.5
+[2025-10-18T16:06:42.461Z]   ✅ Loaded 101 IDs from 2.6
+[2025-10-18T16:06:42.461Z]   ✅ Loaded 340 IDs from 2.7
+[2025-10-18T16:06:42.461Z]   ✅ Loaded 196 IDs from 2.8
+[2025-10-18T16:06:42.461Z]   ✅ Loaded 347 IDs from 2.10
+[2025-10-18T16:06:42.461Z]   ✅ Loaded 74 IDs from 2.13
+[2025-10-18T16:06:42.461Z]   ✅ Loaded 82 IDs from 2.14
+[2025-10-18T16:06:42.461Z]   ✅ Loaded 318 IDs from 2.15
+[2025-10-18T16:06:42.461Z]   ✅ Loaded 28 IDs from 2.16
+[2025-10-18T16:06:42.461Z]   ✅ Loaded 2 IDs from 2.17
+[2025-10-18T16:06:42.461Z]   ✅ Loaded 32 IDs from 2.18
+[2025-10-18T16:06:42.461Z]   ✅ Loaded 157 IDs from 2.19
+[2025-10-18T16:06:42.462Z]   ✅ Loaded 9 IDs from 2.20
+[2025-10-18T16:06:42.462Z] 📊 Total unique weapons IDs: 2850
+[2025-10-18T16:06:42.462Z] 📦 Loaded 2 existing weapons items
+[2025-10-18T16:06:42.462Z] 
+🎯 Processing weapons items
+[2025-10-18T16:06:42.462Z] 📊 Total IDs to process: 2850
+[2025-10-18T16:06:42.462Z] 📦 Already processed: 2
+[2025-10-18T16:06:42.462Z] ⏳ Remaining to process: 2843
+[2025-10-18T16:06:42.462Z] 🔍 Processing weapons 2815 (3/2850)
+[2025-10-18T16:06:45.317Z] ✅ Processed: Curve-bladed Ripper
+[2025-10-18T16:06:47.319Z] 🔍 Processing weapons 2878 (4/2850)
+[2025-10-18T16:06:50.510Z] ✅ Processed: Bearded Boneaxe
+[2025-10-18T16:06:52.512Z] 🔍 Processing weapons 6692 (5/2850)
+[2025-10-18T16:06:55.654Z] ✅ Processed: Pronged Reaver
+[2025-10-18T16:06:57.656Z] 🔍 Processing weapons 7786 (6/2850)
+[2025-10-18T16:07:00.841Z] ✅ Processed: Headsplitter
+[2025-10-18T16:07:02.842Z] 🔍 Processing weapons 9465 (7/2850)

@@ -71,6 +71,27 @@ export class ItemExtractor {
       });
       await new Promise(resolve => setTimeout(resolve, 2000));
 
+      // Check for Cloudflare protection
+      const title = await page.title();
+      if (title.includes('Just a moment') || title.includes('Please wait')) {
+        console.log(`⏳ Cloudflare protection detected for item ${itemId}, waiting...`);
+        
+        // Wait for Cloudflare to complete
+        try {
+          await page.waitForFunction(() => {
+            return !document.title.includes('Just a moment') && 
+                   !document.title.includes('Please wait') &&
+                   document.title.includes('database.turtle-wow.org');
+          }, { timeout: 30000 });
+          
+          // Additional wait after Cloudflare clears
+          await new Promise(resolve => setTimeout(resolve, 5000));
+        } catch (e) {
+          console.log(`❌ Cloudflare timeout for item ${itemId}`);
+          return null;
+        }
+      }
+
       // Extract comprehensive item data
       const itemData = await page.evaluate((itemId) => {
         // Get item name and validate we're on an item page
