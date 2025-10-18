@@ -7,13 +7,22 @@ import { ItemExtractor, Item } from './item-extractor';
 async function testItemExtraction() {
   console.log('🧪 Testing comprehensive item extraction...');
   
-  // Test with 2H maces from subcategory 2.5 - should have more detailed stats
+  // Test with random items from different categories to check quality detection
   const testItems = [
-    2915,  // Early ID - likely basic item
-    18420, // Mid-range ID - likely higher level with more stats  
-    19323, // Higher ID - might be epic/quest item
-    61044, // Very high ID - custom/expansion content
-    22346  // Last item in the list
+    // From rings (4.0.11) - should have rare/epic items
+    5009,   // Ring from rings list
+    
+    // From trinkets (4.0.12) - often have higher quality  
+    13965,  // Random trinket
+    
+    // From cloth chest (4.1.5) - mix of qualities
+    7534,   // Random cloth chest
+    
+    // From 1h swords (2.7) - should have variety
+    17182,  // Sword from weapons
+    
+    // Known epic item if possible
+    19323   // The Unstoppable Force (should be epic)
   ];
   
   console.log(`📋 Testing with ${testItems.length} item IDs:`, testItems);

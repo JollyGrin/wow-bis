@@ -86,13 +86,26 @@ export class ItemExtractor {
         
         const name = rawName.replace(' - Items', '').replace(' - Item', '').trim();
         
-        // Get quality by checking for color classes
+        // Get quality by checking for color classes - check multiple locations
         let quality = 'q1'; // Default to common
         const qualityClasses = ['q0', 'q1', 'q2', 'q3', 'q4', 'q5', 'q6', 'q7'];
-        for (const qClass of qualityClasses) {
-          if (nameElem.className.includes(qClass)) {
-            quality = qClass;
-            break;
+        
+        // First check the name element in the tooltip
+        const tooltipNameElement = document.querySelector('b.q0, b.q1, b.q2, b.q3, b.q4, b.q5, b.q6, b.q7');
+        if (tooltipNameElement) {
+          for (const qClass of qualityClasses) {
+            if (tooltipNameElement.className.includes(qClass)) {
+              quality = qClass;
+              break;
+            }
+          }
+        } else {
+          // Fallback: check H1 or any element with the item name
+          for (const qClass of qualityClasses) {
+            if (nameElem.className.includes(qClass)) {
+              quality = qClass;
+              break;
+            }
           }
         }
 
@@ -105,8 +118,8 @@ export class ItemExtractor {
           icon = iconMatch?.[1] || '';
         }
 
-        // Parse item details from main content table
-        const itemTable = document.querySelector('table');
+        // Parse item details from the tooltip structure
+        const tooltip: any[] = [];
         let itemLevel = 0;
         let requiredLevel = 0;
         let sellPrice = 0;
@@ -114,13 +127,17 @@ export class ItemExtractor {
         let itemClass = '';
         let subclass = '';
         
-        const tooltip: any[] = [];
-        
         // Add item name to tooltip
         tooltip.push({ label: name });
         
+        // Find the main item table - usually inside a tooltip div or the second table
+        const tooltipDiv = document.querySelector('.tooltip') || document.querySelector('[id*="tooltip"]');
+        const allTables = document.querySelectorAll('table');
+        const itemTable = tooltipDiv?.querySelector('table') || allTables[1] || allTables[0];
+        
         if (itemTable) {
           const tableText = itemTable.textContent || '';
+          const tableHTML = itemTable.innerHTML || '';
           
           // Parse item level
           const itemLevelMatch = tableText.match(/Item Level (\d+)/i);
