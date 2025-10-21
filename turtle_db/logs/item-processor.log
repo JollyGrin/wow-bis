@@ -1073,3 +1073,47 @@
 [2025-10-18T18:11:29.441Z] 💾 Saved 142 weapons items to turtle_db/processed-weapons.json
 [2025-10-18T18:11:29.441Z] 💾 Saved: 142 total items
 [2025-10-18T18:11:31.442Z] 🔍 Processing weapons 41559 (143/2850)
+[2025-10-21T22:41:13.495Z] 🚀 Initializing browser with anti-detection...
+[2025-10-21T22:41:14.415Z] ✅ Browser initialized with stealth mode
+[2025-10-21T22:41:14.415Z] 
+🚀 Starting Item Detail Processing
+
+[2025-10-21T22:41:14.416Z] 📁 Loading IDs from 18 weapons subcategories
+[2025-10-21T22:41:14.416Z]   ✅ Loaded 214 IDs from 2.0
+[2025-10-21T22:41:14.417Z]   ✅ Loaded 168 IDs from 2.1
+[2025-10-21T22:41:14.417Z]   ✅ Loaded 143 IDs from 2.2
+[2025-10-21T22:41:14.417Z]   ✅ Loaded 122 IDs from 2.3
+[2025-10-21T22:41:14.417Z]   ✅ Loaded 314 IDs from 2.4
+[2025-10-21T22:41:14.418Z]   ✅ Loaded 203 IDs from 2.5
+[2025-10-21T22:41:14.418Z]   ✅ Loaded 101 IDs from 2.6
+[2025-10-21T22:41:14.418Z]   ✅ Loaded 340 IDs from 2.7
+[2025-10-21T22:41:14.418Z]   ✅ Loaded 196 IDs from 2.8
+[2025-10-21T22:41:14.418Z]   ✅ Loaded 347 IDs from 2.10
+[2025-10-21T22:41:14.419Z]   ✅ Loaded 74 IDs from 2.13
+[2025-10-21T22:41:14.419Z]   ✅ Loaded 82 IDs from 2.14
+[2025-10-21T22:41:14.419Z]   ✅ Loaded 318 IDs from 2.15
+[2025-10-21T22:41:14.419Z]   ✅ Loaded 28 IDs from 2.16
+[2025-10-21T22:41:14.419Z]   ✅ Loaded 2 IDs from 2.17
+[2025-10-21T22:41:14.419Z]   ✅ Loaded 32 IDs from 2.18
+[2025-10-21T22:41:14.419Z]   ✅ Loaded 157 IDs from 2.19
+[2025-10-21T22:41:14.419Z]   ✅ Loaded 9 IDs from 2.20
+[2025-10-21T22:41:14.419Z] 📊 Total unique weapons IDs: 2850
+[2025-10-21T22:41:14.421Z] 📦 Loaded 142 existing weapons items
+[2025-10-21T22:41:14.421Z] 
+🎯 Processing weapons items
+[2025-10-21T22:41:14.424Z] 📊 Total IDs to process: 2850
+[2025-10-21T22:41:14.424Z] 📦 Already processed: 142
+[2025-10-21T22:41:14.424Z] ⏳ Remaining to process: 2708
+[2025-10-21T22:41:14.424Z] 🔍 Processing weapons 41559 (143/2850)
+[2025-10-21T22:41:20.623Z] ✅ Processed: Rock Carver
+[2025-10-21T22:41:20.627Z] 💾 Saved 143 weapons items to turtle_db/processed-weapons.json
+[2025-10-21T22:41:20.627Z] 💾 Saved: 143 total items
+[2025-10-21T22:41:22.629Z] 🔍 Processing weapons 60657 (144/2850)
+[2025-10-21T22:41:28.735Z] ✅ Processed: Troll Hunter's Axe
+[2025-10-21T22:41:28.739Z] 💾 Saved 144 weapons items to turtle_db/processed-weapons.json
+[2025-10-21T22:41:28.739Z] 💾 Saved: 144 total items
+[2025-10-21T22:41:30.740Z] 🔍 Processing weapons 60939 (145/2850)
+[2025-10-21T22:41:36.824Z] ✅ Processed: Truthforge Handaxe
+[2025-10-21T22:41:36.831Z] 💾 Saved 145 weapons items to turtle_db/processed-weapons.json
+[2025-10-21T22:41:36.831Z] 💾 Saved: 145 total items
+[2025-10-21T22:41:38.833Z] 🔍 Processing weapons 61483 (146/2850)

@@ -2157,3 +2157,854 @@
 [2025-10-18T02:41:24.948Z] 🏁 Last page detected (15 < 50 items)
 [2025-10-18T02:41:26.454Z] 💾 Saved 265 cloth-wrist IDs to turtle_db/items-4.1.9.json
 [2025-10-18T02:41:26.454Z] ✅ cloth-wrist (4.1.9) extraction complete: 265 total IDs
+[2025-10-21T21:42:02.618Z] 🚀 Initializing browser with anti-detection...
+[2025-10-21T21:42:03.355Z] ✅ Browser initialized with stealth mode
+[2025-10-21T21:42:03.355Z] 
+🚀 Starting Item ID Extraction
+
+[2025-10-21T21:42:03.355Z] 📋 Processing 55 subcategories:
+[2025-10-21T21:42:03.355Z]    ✅ 1h-axes (2.0)
+[2025-10-21T21:42:03.355Z]    ✅ 2h-axes (2.1)
+[2025-10-21T21:42:03.355Z]    ✅ bows (2.2)
+[2025-10-21T21:42:03.356Z]    ✅ guns (2.3)
+[2025-10-21T21:42:03.356Z]    ✅ 1h-maces (2.4)
+[2025-10-21T21:42:03.356Z]    ✅ 2h-maces (2.5)
+[2025-10-21T21:42:03.356Z]    ✅ polearms (2.6)
+[2025-10-21T21:42:03.356Z]    ✅ 1h-swords (2.7)
+[2025-10-21T21:42:03.356Z]    ✅ 2h-swords (2.8)
+[2025-10-21T21:42:03.356Z]    ✅ staves (2.10)
+[2025-10-21T21:42:03.356Z]    ✅ fist (2.13)
+[2025-10-21T21:42:03.356Z]    ✅ miscellaneous (2.14)
+[2025-10-21T21:42:03.356Z]    ✅ daggers (2.15)
+[2025-10-21T21:42:03.356Z]    ✅ thrown (2.16)
+[2025-10-21T21:42:03.356Z]    ✅ spears (2.17)
+[2025-10-21T21:42:03.356Z]    ✅ crossbows (2.18)
+[2025-10-21T21:42:03.356Z]    ✅ wands (2.19)
+[2025-10-21T21:42:03.356Z]    ✅ fishing-poles (2.20)
+[2025-10-21T21:42:03.356Z]    ✅ amulets (4.0.2)
+[2025-10-21T21:42:03.356Z]    ✅ rings (4.0.11)
+[2025-10-21T21:42:03.356Z]    ✅ trinkets (4.0.12)
+[2025-10-21T21:42:03.356Z]    ✅ cloaks (4.1.16)
+[2025-10-21T21:42:03.356Z]    ✅ shields (4.6.14)
+[2025-10-21T21:42:03.356Z]    ✅ cloth-head (4.1.1)
+[2025-10-21T21:42:03.356Z]    ✅ cloth-shoulder (4.1.3)
+[2025-10-21T21:42:03.356Z]    ✅ cloth-chest (4.1.5)
+[2025-10-21T21:42:03.356Z]    ✅ cloth-waist (4.1.6)
+[2025-10-21T21:42:03.356Z]    ✅ cloth-legs (4.1.7)
+[2025-10-21T21:42:03.357Z]    ✅ cloth-feet (4.1.8)
+[2025-10-21T21:42:03.357Z]    ✅ cloth-wrist (4.1.9)
+[2025-10-21T21:42:03.357Z]    ⏳ cloth-hands (4.1.10)
+[2025-10-21T21:42:03.357Z]    ⏳ leather-head (4.2.1)
+[2025-10-21T21:42:03.357Z]    ⏳ leather-shoulder (4.2.3)
+[2025-10-21T21:42:03.357Z]    ⏳ leather-chest (4.2.5)
+[2025-10-21T21:42:03.357Z]    ⏳ leather-waist (4.2.6)
+[2025-10-21T21:42:03.357Z]    ⏳ leather-legs (4.2.7)
+[2025-10-21T21:42:03.357Z]    ⏳ leather-feet (4.2.8)
+[2025-10-21T21:42:03.357Z]    ⏳ leather-wrist (4.2.9)
+[2025-10-21T21:42:03.357Z]    ⏳ leather-hands (4.2.10)
+[2025-10-21T21:42:03.357Z]    ⏳ mail-head (4.3.1)
+[2025-10-21T21:42:03.357Z]    ⏳ mail-shoulder (4.3.3)
+[2025-10-21T21:42:03.357Z]    ⏳ mail-chest (4.3.5)
+[2025-10-21T21:42:03.357Z]    ⏳ mail-waist (4.3.6)
+[2025-10-21T21:42:03.357Z]    ⏳ mail-legs (4.3.7)
+[2025-10-21T21:42:03.357Z]    ⏳ mail-feet (4.3.8)
+[2025-10-21T21:42:03.357Z]    ⏳ mail-wrist (4.3.9)
+[2025-10-21T21:42:03.357Z]    ⏳ mail-hands (4.3.10)
+[2025-10-21T21:42:03.357Z]    ⏳ plate-head (4.4.1)
+[2025-10-21T21:42:03.357Z]    ⏳ plate-shoulder (4.4.3)
+[2025-10-21T21:42:03.357Z]    ⏳ plate-chest (4.4.5)
+[2025-10-21T21:42:03.357Z]    ⏳ plate-waist (4.4.6)
+[2025-10-21T21:42:03.357Z]    ⏳ plate-legs (4.4.7)
+[2025-10-21T21:42:03.357Z]    ⏳ plate-feet (4.4.8)
+[2025-10-21T21:42:03.357Z]    ⏳ plate-wrist (4.4.9)
+[2025-10-21T21:42:03.357Z]    ⏳ plate-hands (4.4.10)
+[2025-10-21T21:42:03.357Z] 
+📊 Summary: Weapons 18/18, Armor 12/37
+[2025-10-21T21:42:03.357Z] ✅ 1h-axes (2.0) already complete: 214 IDs
+[2025-10-21T21:42:03.357Z] ✅ 2h-axes (2.1) already complete: 168 IDs
+[2025-10-21T21:42:03.357Z] ✅ bows (2.2) already complete: 143 IDs
+[2025-10-21T21:42:03.357Z] ✅ guns (2.3) already complete: 122 IDs
+[2025-10-21T21:42:03.357Z] ✅ 1h-maces (2.4) already complete: 314 IDs
+[2025-10-21T21:42:03.357Z] ✅ 2h-maces (2.5) already complete: 203 IDs
+[2025-10-21T21:42:03.357Z] ✅ polearms (2.6) already complete: 101 IDs
+[2025-10-21T21:42:03.358Z] ✅ 1h-swords (2.7) already complete: 340 IDs
+[2025-10-21T21:42:03.358Z] ✅ 2h-swords (2.8) already complete: 196 IDs
+[2025-10-21T21:42:03.358Z] ✅ staves (2.10) already complete: 347 IDs
+[2025-10-21T21:42:03.358Z] ✅ fist (2.13) already complete: 74 IDs
+[2025-10-21T21:42:03.358Z] ✅ miscellaneous (2.14) already complete: 82 IDs
+[2025-10-21T21:42:03.358Z] ✅ daggers (2.15) already complete: 318 IDs
+[2025-10-21T21:42:03.358Z] ✅ thrown (2.16) already complete: 28 IDs
+[2025-10-21T21:42:03.358Z] ✅ spears (2.17) already complete: 2 IDs
+[2025-10-21T21:42:03.358Z] ✅ crossbows (2.18) already complete: 32 IDs
+[2025-10-21T21:42:03.358Z] ✅ wands (2.19) already complete: 157 IDs
+[2025-10-21T21:42:03.358Z] ✅ fishing-poles (2.20) already complete: 9 IDs
+[2025-10-21T21:42:03.358Z] ✅ amulets (4.0.2) already complete: 402 IDs
+[2025-10-21T21:42:03.358Z] ✅ rings (4.0.11) already complete: 500 IDs
+[2025-10-21T21:42:03.358Z] ✅ trinkets (4.0.12) already complete: 357 IDs
+[2025-10-21T21:42:03.358Z] ✅ cloaks (4.1.16) already complete: 498 IDs
+[2025-10-21T21:42:03.358Z] ✅ shields (4.6.14) already complete: 426 IDs
+[2025-10-21T21:42:03.358Z] ✅ cloth-head (4.1.1) already complete: 364 IDs
+[2025-10-21T21:42:03.358Z] ✅ cloth-shoulder (4.1.3) already complete: 258 IDs
+[2025-10-21T21:42:03.358Z] ✅ cloth-chest (4.1.5) already complete: 417 IDs
+[2025-10-21T21:42:03.358Z] ✅ cloth-waist (4.1.6) already complete: 284 IDs
+[2025-10-21T21:42:03.358Z] ✅ cloth-legs (4.1.7) already complete: 377 IDs
+[2025-10-21T21:42:03.358Z] ✅ cloth-feet (4.1.8) already complete: 362 IDs
+[2025-10-21T21:42:03.358Z] ✅ cloth-wrist (4.1.9) already complete: 265 IDs
+[2025-10-21T21:42:03.359Z] 
+🎯 Starting cloth-hands (4.1.10) ID extraction
+[2025-10-21T21:42:03.359Z] 📊 Already have 0 cloth-hands IDs
+[2025-10-21T21:42:03.359Z] 📖 Resuming from page 1
+[2025-10-21T21:42:03.359Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.1.10
+[2025-10-21T21:42:07.337Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:42:07.337Z] 🆔 Sample IDs: 10787, 14146, 16440, 16540, 16801
+[2025-10-21T21:42:07.338Z] 📊 Total unique cloth-hands: 50
+[2025-10-21T21:42:07.342Z] 💾 Saved 50 cloth-hands IDs to turtle_db/items-4.1.10.json
+[2025-10-21T21:42:08.891Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.1.10#50+1
+[2025-10-21T21:42:12.890Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:42:12.890Z] 🆔 Sample IDs: 9395, 9491, 10019, 10808, 11634
+[2025-10-21T21:42:12.891Z] 📊 Total unique cloth-hands: 100
+[2025-10-21T21:42:12.892Z] 💾 Saved 100 cloth-hands IDs to turtle_db/items-4.1.10.json
+[2025-10-21T21:42:14.440Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.1.10#100+1
+[2025-10-21T21:42:18.385Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:42:18.385Z] 🆔 Sample IDs: 1659, 3066, 3308, 3565, 4042
+[2025-10-21T21:42:18.386Z] 📊 Total unique cloth-hands: 150
+[2025-10-21T21:42:18.388Z] 💾 Saved 150 cloth-hands IDs to turtle_db/items-4.1.10.json
+[2025-10-21T21:42:19.933Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.1.10#150+1
+[2025-10-21T21:42:23.929Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-21T21:42:23.930Z] 🆔 Sample IDs: 892, 1304, 3759, 4040, 4121
+[2025-10-21T21:42:23.930Z] 📊 Total unique cloth-hands: 200
+[2025-10-21T21:42:23.932Z] 💾 Saved 200 cloth-hands IDs to turtle_db/items-4.1.10.json
+[2025-10-21T21:42:25.477Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4.1.10#200+1
+[2025-10-21T21:42:29.476Z] 📄 Page 5: Found 50 items (50 new)
+[2025-10-21T21:42:29.476Z] 🆔 Sample IDs: 2440, 2984, 3074, 3275, 3290
+[2025-10-21T21:42:29.477Z] 📊 Total unique cloth-hands: 250
+[2025-10-21T21:42:29.478Z] 💾 Saved 250 cloth-hands IDs to turtle_db/items-4.1.10.json
+[2025-10-21T21:42:31.028Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=4.1.10#250+1
+[2025-10-21T21:42:35.026Z] 📄 Page 6: Found 50 items (50 new)
+[2025-10-21T21:42:35.027Z] 🆔 Sample IDs: 203, 711, 719, 793, 839
+[2025-10-21T21:42:35.027Z] 📊 Total unique cloth-hands: 300
+[2025-10-21T21:42:35.029Z] 💾 Saved 300 cloth-hands IDs to turtle_db/items-4.1.10.json
+[2025-10-21T21:42:36.574Z] 📄 Loading page 7 with fresh browser context: https://database.turtle-wow.org/?items=4.1.10#300+1
+[2025-10-21T21:42:40.572Z] 📄 Page 7: Found 20 items (20 new)
+[2025-10-21T21:42:40.573Z] 🆔 Sample IDs: 1377, 1430, 1498, 1767, 1775
+[2025-10-21T21:42:40.573Z] 📊 Total unique cloth-hands: 320
+[2025-10-21T21:42:40.575Z] 💾 Saved 320 cloth-hands IDs to turtle_db/items-4.1.10.json
+[2025-10-21T21:42:40.575Z] 🏁 Last page detected (20 < 50 items)
+[2025-10-21T21:42:42.080Z] 💾 Saved 320 cloth-hands IDs to turtle_db/items-4.1.10.json
+[2025-10-21T21:42:42.080Z] ✅ cloth-hands (4.1.10) extraction complete: 320 total IDs
+[2025-10-21T21:42:44.082Z] 
+🎯 Starting leather-head (4.2.1) ID extraction
+[2025-10-21T21:42:44.082Z] 📊 Already have 0 leather-head IDs
+[2025-10-21T21:42:44.082Z] 📖 Resuming from page 1
+[2025-10-21T21:42:44.083Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.2.1
+[2025-10-21T21:42:48.187Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:42:48.187Z] 🆔 Sample IDs: 9420, 14539, 16451, 16455, 16550
+[2025-10-21T21:42:48.187Z] 📊 Total unique leather-head: 50
+[2025-10-21T21:42:48.194Z] 💾 Saved 50 leather-head IDs to turtle_db/items-4.2.1.json
+[2025-10-21T21:42:49.741Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.2.1#50+1
+[2025-10-21T21:42:53.738Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:42:53.739Z] 🆔 Sample IDs: 3020, 8174, 8345, 8348, 9375
+[2025-10-21T21:42:53.739Z] 📊 Total unique leather-head: 100
+[2025-10-21T21:42:53.741Z] 💾 Saved 100 leather-head IDs to turtle_db/items-4.2.1.json
+[2025-10-21T21:42:55.287Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.2.1#100+1
+[2025-10-21T21:42:59.286Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:42:59.287Z] 🆔 Sample IDs: 1280, 3011, 4048, 4052, 4124
+[2025-10-21T21:42:59.287Z] 📊 Total unique leather-head: 150
+[2025-10-21T21:42:59.289Z] 💾 Saved 150 leather-head IDs to turtle_db/items-4.2.1.json
+[2025-10-21T21:43:00.836Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.2.1#150+1
+[2025-10-21T21:43:04.833Z] 📄 Page 4: Found 45 items (45 new)
+[2025-10-21T21:43:04.833Z] 🆔 Sample IDs: 3392, 3890, 3893, 4543, 5753
+[2025-10-21T21:43:04.833Z] 📊 Total unique leather-head: 195
+[2025-10-21T21:43:04.835Z] 💾 Saved 195 leather-head IDs to turtle_db/items-4.2.1.json
+[2025-10-21T21:43:04.835Z] 🏁 Last page detected (45 < 50 items)
+[2025-10-21T21:43:06.337Z] 💾 Saved 195 leather-head IDs to turtle_db/items-4.2.1.json
+[2025-10-21T21:43:06.337Z] ✅ leather-head (4.2.1) extraction complete: 195 total IDs
+[2025-10-21T21:43:08.339Z] 
+🎯 Starting leather-shoulder (4.2.3) ID extraction
+[2025-10-21T21:43:08.340Z] 📊 Already have 0 leather-shoulder IDs
+[2025-10-21T21:43:08.340Z] 📖 Resuming from page 1
+[2025-10-21T21:43:08.340Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.2.3
+[2025-10-21T21:43:12.494Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:43:12.495Z] 🆔 Sample IDs: 10783, 16449, 16457, 16551, 16562
+[2025-10-21T21:43:12.495Z] 📊 Total unique leather-shoulder: 50
+[2025-10-21T21:43:12.498Z] 💾 Saved 50 leather-shoulder IDs to turtle_db/items-4.2.3.json
+[2025-10-21T21:43:14.045Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.2.3#50+1
+[2025-10-21T21:43:18.044Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:43:18.044Z] 🆔 Sample IDs: 2264, 2278, 4196, 5404, 7755
+[2025-10-21T21:43:18.044Z] 📊 Total unique leather-shoulder: 100
+[2025-10-21T21:43:18.046Z] 💾 Saved 100 leather-shoulder IDs to turtle_db/items-4.2.3.json
+[2025-10-21T21:43:19.590Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.2.3#100+1
+[2025-10-21T21:43:23.590Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:43:23.590Z] 🆔 Sample IDs: 4251, 4252, 4709, 4721, 4731
+[2025-10-21T21:43:23.590Z] 📊 Total unique leather-shoulder: 150
+[2025-10-21T21:43:23.592Z] 💾 Saved 150 leather-shoulder IDs to turtle_db/items-4.2.3.json
+[2025-10-21T21:43:25.139Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.2.3#150+1
+[2025-10-21T21:43:29.136Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-21T21:43:29.136Z] 🆔 Sample IDs: 1793, 1801, 3806, 3975, 4700
+[2025-10-21T21:43:29.137Z] 📊 Total unique leather-shoulder: 200
+[2025-10-21T21:43:29.139Z] 💾 Saved 200 leather-shoulder IDs to turtle_db/items-4.2.3.json
+[2025-10-21T21:43:30.684Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4.2.3#200+1
+[2025-10-21T21:43:34.682Z] 📄 Page 5: Found 2 items (2 new)
+[2025-10-21T21:43:34.683Z] 🆔 Sample IDs: 1809, 3967
+[2025-10-21T21:43:34.683Z] 📊 Total unique leather-shoulder: 202
+[2025-10-21T21:43:34.684Z] 💾 Saved 202 leather-shoulder IDs to turtle_db/items-4.2.3.json
+[2025-10-21T21:43:34.685Z] 🏁 Last page detected (2 < 50 items)
+[2025-10-21T21:43:36.187Z] 💾 Saved 202 leather-shoulder IDs to turtle_db/items-4.2.3.json
+[2025-10-21T21:43:36.187Z] ✅ leather-shoulder (4.2.3) extraction complete: 202 total IDs
+[2025-10-21T21:43:38.189Z] 
+🎯 Starting leather-chest (4.2.5) ID extraction
+[2025-10-21T21:43:38.190Z] 📊 Already have 0 leather-chest IDs
+[2025-10-21T21:43:38.190Z] 📖 Resuming from page 1
+[2025-10-21T21:43:38.190Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.2.5
+[2025-10-21T21:43:42.272Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:43:42.273Z] 🆔 Sample IDs: 10399, 12757, 14637, 16452, 16453
+[2025-10-21T21:43:42.273Z] 📊 Total unique leather-chest: 50
+[2025-10-21T21:43:42.274Z] 💾 Saved 50 leather-chest IDs to turtle_db/items-4.2.5.json
+[2025-10-21T21:43:43.819Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.2.5#50+1
+[2025-10-21T21:43:47.817Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:43:47.818Z] 🆔 Sample IDs: 1489, 2041, 8349, 9406, 9473
+[2025-10-21T21:43:47.818Z] 📊 Total unique leather-chest: 100
+[2025-10-21T21:43:47.819Z] 💾 Saved 100 leather-chest IDs to turtle_db/items-4.2.5.json
+[2025-10-21T21:43:49.362Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.2.5#100+1
+[2025-10-21T21:43:53.360Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:43:53.361Z] 🆔 Sample IDs: 1211, 2300, 2317, 2961, 3000
+[2025-10-21T21:43:53.361Z] 📊 Total unique leather-chest: 150
+[2025-10-21T21:43:53.364Z] 💾 Saved 150 leather-chest IDs to turtle_db/items-4.2.5.json
+[2025-10-21T21:43:54.913Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.2.5#150+1
+[2025-10-21T21:43:58.910Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-21T21:43:58.911Z] 🆔 Sample IDs: 2087, 2973, 2985, 4057, 4244
+[2025-10-21T21:43:58.911Z] 📊 Total unique leather-chest: 200
+[2025-10-21T21:43:58.913Z] 💾 Saved 200 leather-chest IDs to turtle_db/items-4.2.5.json
+[2025-10-21T21:44:00.460Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4.2.5#200+1
+[2025-10-21T21:44:04.457Z] 📄 Page 5: Found 50 items (50 new)
+[2025-10-21T21:44:04.457Z] 🆔 Sample IDs: 821, 2069, 2314, 2370, 2817
+[2025-10-21T21:44:04.457Z] 📊 Total unique leather-chest: 250
+[2025-10-21T21:44:04.459Z] 💾 Saved 250 leather-chest IDs to turtle_db/items-4.2.5.json
+[2025-10-21T21:44:06.008Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=4.2.5#250+1
+[2025-10-21T21:44:10.006Z] 📄 Page 6: Found 42 items (42 new)
+[2025-10-21T21:44:10.006Z] 🆔 Sample IDs: 60, 85, 236, 799, 846
+[2025-10-21T21:44:10.006Z] 📊 Total unique leather-chest: 292
+[2025-10-21T21:44:10.009Z] 💾 Saved 292 leather-chest IDs to turtle_db/items-4.2.5.json
+[2025-10-21T21:44:10.009Z] 🏁 Last page detected (42 < 50 items)
+[2025-10-21T21:44:11.512Z] 💾 Saved 292 leather-chest IDs to turtle_db/items-4.2.5.json
+[2025-10-21T21:44:11.513Z] ✅ leather-chest (4.2.5) extraction complete: 292 total IDs
+[2025-10-21T21:44:13.514Z] 
+🎯 Starting leather-waist (4.2.6) ID extraction
+[2025-10-21T21:44:13.514Z] 📊 Already have 0 leather-waist IDs
+[2025-10-21T21:44:13.515Z] 📖 Resuming from page 1
+[2025-10-21T21:44:13.515Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.2.6
+[2025-10-21T21:44:17.639Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:44:17.639Z] 🆔 Sample IDs: 4264, 12606, 13252, 14553, 14636
+[2025-10-21T21:44:17.639Z] 📊 Total unique leather-waist: 50
+[2025-10-21T21:44:17.641Z] 💾 Saved 50 leather-waist IDs to turtle_db/items-4.2.6.json
+[2025-10-21T21:44:19.189Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.2.6#50+1
+[2025-10-21T21:44:23.186Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:44:23.186Z] 🆔 Sample IDs: 4258, 4262, 6468, 6911, 11686
+[2025-10-21T21:44:23.186Z] 📊 Total unique leather-waist: 100
+[2025-10-21T21:44:23.188Z] 💾 Saved 100 leather-waist IDs to turtle_db/items-4.2.6.json
+[2025-10-21T21:44:24.736Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.2.6#100+1
+[2025-10-21T21:44:28.731Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:44:28.732Z] 🆔 Sample IDs: 3562, 4131, 4246, 4249, 5275
+[2025-10-21T21:44:28.732Z] 📊 Total unique leather-waist: 150
+[2025-10-21T21:44:28.734Z] 💾 Saved 150 leather-waist IDs to turtle_db/items-4.2.6.json
+[2025-10-21T21:44:30.281Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.2.6#150+1
+[2025-10-21T21:44:34.277Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-21T21:44:34.278Z] 🆔 Sample IDs: 3429, 3747, 4250, 4257, 4456
+[2025-10-21T21:44:34.278Z] 📊 Total unique leather-waist: 200
+[2025-10-21T21:44:34.280Z] 💾 Saved 200 leather-waist IDs to turtle_db/items-4.2.6.json
+[2025-10-21T21:44:35.828Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4.2.6#200+1
+[2025-10-21T21:44:39.824Z] 📄 Page 5: Found 50 items (50 new)
+[2025-10-21T21:44:39.825Z] 🆔 Sample IDs: 1215, 1835, 1849, 2122, 2142
+[2025-10-21T21:44:39.825Z] 📊 Total unique leather-waist: 250
+[2025-10-21T21:44:39.827Z] 💾 Saved 250 leather-waist IDs to turtle_db/items-4.2.6.json
+[2025-10-21T21:44:41.373Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=4.2.6#250+1
+[2025-10-21T21:44:45.369Z] 📄 Page 6: Found 22 items (22 new)
+[2025-10-21T21:44:45.370Z] 🆔 Sample IDs: 1369, 1418, 1502, 1787, 1795
+[2025-10-21T21:44:45.370Z] 📊 Total unique leather-waist: 272
+[2025-10-21T21:44:45.372Z] 💾 Saved 272 leather-waist IDs to turtle_db/items-4.2.6.json
+[2025-10-21T21:44:45.372Z] 🏁 Last page detected (22 < 50 items)
+[2025-10-21T21:44:46.875Z] 💾 Saved 272 leather-waist IDs to turtle_db/items-4.2.6.json
+[2025-10-21T21:44:46.875Z] ✅ leather-waist (4.2.6) extraction complete: 272 total IDs
+[2025-10-21T21:44:48.876Z] 
+🎯 Starting leather-legs (4.2.7) ID extraction
+[2025-10-21T21:44:48.877Z] 📊 Already have 0 leather-legs IDs
+[2025-10-21T21:44:48.877Z] 📖 Resuming from page 1
+[2025-10-21T21:44:48.877Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.2.7
+[2025-10-21T21:44:52.955Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:44:52.956Z] 🆔 Sample IDs: 1718, 12756, 12963, 16450, 16456
+[2025-10-21T21:44:52.956Z] 📊 Total unique leather-legs: 50
+[2025-10-21T21:44:52.958Z] 💾 Saved 50 leather-legs IDs to turtle_db/items-4.2.7.json
+[2025-10-21T21:44:54.504Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.2.7#50+1
+[2025-10-21T21:44:58.503Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:44:58.504Z] 🆔 Sample IDs: 7760, 9402, 9414, 9474, 9509
+[2025-10-21T21:44:58.504Z] 📊 Total unique leather-legs: 100
+[2025-10-21T21:44:58.507Z] 💾 Saved 100 leather-legs IDs to turtle_db/items-4.2.7.json
+[2025-10-21T21:45:00.051Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.2.7#100+1
+[2025-10-21T21:45:04.048Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:45:04.048Z] 🆔 Sample IDs: 1436, 2962, 3022, 3056, 3315
+[2025-10-21T21:45:04.048Z] 📊 Total unique leather-legs: 150
+[2025-10-21T21:45:04.050Z] 💾 Saved 150 leather-legs IDs to turtle_db/items-4.2.7.json
+[2025-10-21T21:45:05.598Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.2.7#150+1
+[2025-10-21T21:45:09.592Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-21T21:45:09.593Z] 🆔 Sample IDs: 2974, 2986, 3578, 4054, 4062
+[2025-10-21T21:45:09.593Z] 📊 Total unique leather-legs: 200
+[2025-10-21T21:45:09.595Z] 💾 Saved 200 leather-legs IDs to turtle_db/items-4.2.7.json
+[2025-10-21T21:45:11.152Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4.2.7#200+1
+[2025-10-21T21:45:15.147Z] 📄 Page 5: Found 50 items (50 new)
+[2025-10-21T21:45:15.147Z] 🆔 Sample IDs: 61, 209, 237, 1310, 1934
+[2025-10-21T21:45:15.148Z] 📊 Total unique leather-legs: 250
+[2025-10-21T21:45:15.150Z] 💾 Saved 250 leather-legs IDs to turtle_db/items-4.2.7.json
+[2025-10-21T21:45:16.695Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=4.2.7#250+1
+[2025-10-21T21:45:20.692Z] 📄 Page 6: Found 20 items (20 new)
+[2025-10-21T21:45:20.692Z] 🆔 Sample IDs: 153, 798, 845, 1366, 1423
+[2025-10-21T21:45:20.693Z] 📊 Total unique leather-legs: 270
+[2025-10-21T21:45:20.695Z] 💾 Saved 270 leather-legs IDs to turtle_db/items-4.2.7.json
+[2025-10-21T21:45:20.695Z] 🏁 Last page detected (20 < 50 items)
+[2025-10-21T21:45:22.199Z] 💾 Saved 270 leather-legs IDs to turtle_db/items-4.2.7.json
+[2025-10-21T21:45:22.199Z] ✅ leather-legs (4.2.7) extraction complete: 270 total IDs
+[2025-10-21T21:45:24.201Z] 
+🎯 Starting leather-feet (4.2.8) ID extraction
+[2025-10-21T21:45:24.201Z] 📊 Already have 0 leather-feet IDs
+[2025-10-21T21:45:24.201Z] 📖 Resuming from page 1
+[2025-10-21T21:45:24.201Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.2.8
+[2025-10-21T21:45:28.286Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:45:28.287Z] 🆔 Sample IDs: 16446, 16459, 16494, 16498, 16554
+[2025-10-21T21:45:28.287Z] 📊 Total unique leather-feet: 50
+[2025-10-21T21:45:28.290Z] 💾 Saved 50 leather-feet IDs to turtle_db/items-4.2.8.json
+[2025-10-21T21:45:29.837Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.2.8#50+1
+[2025-10-21T21:45:33.835Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:45:33.836Z] 🆔 Sample IDs: 1121, 7390, 7754, 10582, 13398
+[2025-10-21T21:45:33.836Z] 📊 Total unique leather-feet: 100
+[2025-10-21T21:45:33.838Z] 💾 Saved 100 leather-feet IDs to turtle_db/items-4.2.8.json
+[2025-10-21T21:45:35.380Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.2.8#100+1
+[2025-10-21T21:45:39.378Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:45:39.379Z] 🆔 Sample IDs: 2033, 2276, 2315, 4788, 5311
+[2025-10-21T21:45:39.379Z] 📊 Total unique leather-feet: 150
+[2025-10-21T21:45:39.381Z] 💾 Saved 150 leather-feet IDs to turtle_db/items-4.2.8.json
+[2025-10-21T21:45:40.927Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.2.8#150+1
+[2025-10-21T21:45:44.927Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-21T21:45:44.927Z] 🆔 Sample IDs: 2307, 2309, 2949, 2987, 3057
+[2025-10-21T21:45:44.928Z] 📊 Total unique leather-feet: 200
+[2025-10-21T21:45:44.931Z] 💾 Saved 200 leather-feet IDs to turtle_db/items-4.2.8.json
+[2025-10-21T21:45:46.475Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4.2.8#200+1
+[2025-10-21T21:45:50.473Z] 📄 Page 5: Found 50 items (50 new)
+[2025-10-21T21:45:50.474Z] 🆔 Sample IDs: 3741, 4789, 5968, 6582, 7187
+[2025-10-21T21:45:50.474Z] 📊 Total unique leather-feet: 250
+[2025-10-21T21:45:50.476Z] 💾 Saved 250 leather-feet IDs to turtle_db/items-4.2.8.json
+[2025-10-21T21:45:52.023Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=4.2.8#250+1
+[2025-10-21T21:45:56.020Z] 📄 Page 6: Found 47 items (47 new)
+[2025-10-21T21:45:56.020Z] 🆔 Sample IDs: 210, 238, 796, 843, 1173
+[2025-10-21T21:45:56.020Z] 📊 Total unique leather-feet: 297
+[2025-10-21T21:45:56.022Z] 💾 Saved 297 leather-feet IDs to turtle_db/items-4.2.8.json
+[2025-10-21T21:45:56.022Z] 🏁 Last page detected (47 < 50 items)
+[2025-10-21T21:45:57.525Z] 💾 Saved 297 leather-feet IDs to turtle_db/items-4.2.8.json
+[2025-10-21T21:45:57.525Z] ✅ leather-feet (4.2.8) extraction complete: 297 total IDs
+[2025-10-21T21:45:59.527Z] 
+🎯 Starting leather-wrist (4.2.9) ID extraction
+[2025-10-21T21:45:59.527Z] 📊 Already have 0 leather-wrist IDs
+[2025-10-21T21:45:59.528Z] 📖 Resuming from page 1
+[2025-10-21T21:45:59.528Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.2.9
+[2025-10-21T21:46:03.642Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:46:03.642Z] 🆔 Sample IDs: 12966, 13208, 14550, 16445, 16460
+[2025-10-21T21:46:03.642Z] 📊 Total unique leather-wrist: 50
+[2025-10-21T21:46:03.644Z] 💾 Saved 50 leather-wrist IDs to turtle_db/items-4.2.9.json
+[2025-10-21T21:46:05.190Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.2.9#50+1
+[2025-10-21T21:46:09.187Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:46:09.187Z] 🆔 Sample IDs: 3230, 4795, 6556, 6902, 9428
+[2025-10-21T21:46:09.188Z] 📊 Total unique leather-wrist: 100
+[2025-10-21T21:46:09.190Z] 💾 Saved 100 leather-wrist IDs to turtle_db/items-4.2.9.json
+[2025-10-21T21:46:10.736Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.2.9#100+1
+[2025-10-21T21:46:14.734Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:46:14.734Z] 🆔 Sample IDs: 897, 2017, 3202, 3204, 3205
+[2025-10-21T21:46:14.735Z] 📊 Total unique leather-wrist: 150
+[2025-10-21T21:46:14.737Z] 💾 Saved 150 leather-wrist IDs to turtle_db/items-4.2.9.json
+[2025-10-21T21:46:16.282Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.2.9#150+1
+[2025-10-21T21:46:20.279Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-21T21:46:20.280Z] 🆔 Sample IDs: 763, 1213, 1306, 1836, 1850
+[2025-10-21T21:46:20.280Z] 📊 Total unique leather-wrist: 200
+[2025-10-21T21:46:20.282Z] 💾 Saved 200 leather-wrist IDs to turtle_db/items-4.2.9.json
+[2025-10-21T21:46:21.826Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4.2.9#200+1
+[2025-10-21T21:46:25.823Z] 📄 Page 5: Found 29 items (29 new)
+[2025-10-21T21:46:25.824Z] 🆔 Sample IDs: 1370, 1420, 1504, 1789, 1797
+[2025-10-21T21:46:25.824Z] 📊 Total unique leather-wrist: 229
+[2025-10-21T21:46:25.826Z] 💾 Saved 229 leather-wrist IDs to turtle_db/items-4.2.9.json
+[2025-10-21T21:46:25.826Z] 🏁 Last page detected (29 < 50 items)
+[2025-10-21T21:46:27.329Z] 💾 Saved 229 leather-wrist IDs to turtle_db/items-4.2.9.json
+[2025-10-21T21:46:27.329Z] ✅ leather-wrist (4.2.9) extraction complete: 229 total IDs
+[2025-10-21T21:46:29.331Z] 
+🎯 Starting leather-hands (4.2.10) ID extraction
+[2025-10-21T21:46:29.331Z] 📊 Already have 0 leather-hands IDs
+[2025-10-21T21:46:29.332Z] 📖 Resuming from page 1
+[2025-10-21T21:46:29.332Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.2.10
+[2025-10-21T21:46:33.414Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:46:33.414Z] 🆔 Sample IDs: 720, 867, 10765, 10777, 12464
+[2025-10-21T21:46:33.414Z] 📊 Total unique leather-hands: 50
+[2025-10-21T21:46:33.416Z] 💾 Saved 50 leather-hands IDs to turtle_db/items-4.2.10.json
+[2025-10-21T21:46:34.966Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.2.10#50+1
+[2025-10-21T21:46:38.963Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:46:38.963Z] 🆔 Sample IDs: 888, 2564, 7690, 8346, 10760
+[2025-10-21T21:46:38.964Z] 📊 Total unique leather-hands: 100
+[2025-10-21T21:46:38.966Z] 💾 Saved 100 leather-hands IDs to turtle_db/items-4.2.10.json
+[2025-10-21T21:46:40.513Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.2.10#100+1
+[2025-10-21T21:46:44.510Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:46:44.510Z] 🆔 Sample IDs: 1302, 1978, 2036, 2167, 2312
+[2025-10-21T21:46:44.510Z] 📊 Total unique leather-hands: 150
+[2025-10-21T21:46:44.512Z] 💾 Saved 150 leather-hands IDs to turtle_db/items-4.2.10.json
+[2025-10-21T21:46:46.060Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.2.10#150+1
+[2025-10-21T21:46:50.057Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-21T21:46:50.057Z] 🆔 Sample IDs: 1314, 1944, 2976, 2988, 4063
+[2025-10-21T21:46:50.057Z] 📊 Total unique leather-hands: 200
+[2025-10-21T21:46:50.059Z] 💾 Saved 200 leather-hands IDs to turtle_db/items-4.2.10.json
+[2025-10-21T21:46:51.604Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4.2.10#200+1
+[2025-10-21T21:46:55.601Z] 📄 Page 5: Found 50 items (50 new)
+[2025-10-21T21:46:55.601Z] 🆔 Sample IDs: 1945, 2375, 2964, 3754, 4107
+[2025-10-21T21:46:55.602Z] 📊 Total unique leather-hands: 250
+[2025-10-21T21:46:55.604Z] 💾 Saved 250 leather-hands IDs to turtle_db/items-4.2.10.json
+[2025-10-21T21:46:57.151Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=4.2.10#250+1
+[2025-10-21T21:47:01.147Z] 📄 Page 6: Found 40 items (40 new)
+[2025-10-21T21:47:01.148Z] 🆔 Sample IDs: 239, 714, 797, 844, 1359
+[2025-10-21T21:47:01.148Z] 📊 Total unique leather-hands: 290
+[2025-10-21T21:47:01.150Z] 💾 Saved 290 leather-hands IDs to turtle_db/items-4.2.10.json
+[2025-10-21T21:47:01.150Z] 🏁 Last page detected (40 < 50 items)
+[2025-10-21T21:47:02.653Z] 💾 Saved 290 leather-hands IDs to turtle_db/items-4.2.10.json
+[2025-10-21T21:47:02.653Z] ✅ leather-hands (4.2.10) extraction complete: 290 total IDs
+[2025-10-21T21:47:04.655Z] 
+🎯 Starting mail-head (4.3.1) ID extraction
+[2025-10-21T21:47:04.655Z] 📊 Already have 0 mail-head IDs
+[2025-10-21T21:47:04.655Z] 📖 Resuming from page 1
+[2025-10-21T21:47:04.656Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.3.1
+[2025-10-21T21:47:08.743Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:47:08.743Z] 🆔 Sample IDs: 2245, 12549, 16465, 16521, 16526
+[2025-10-21T21:47:08.743Z] 📊 Total unique mail-head: 50
+[2025-10-21T21:47:08.745Z] 💾 Saved 50 mail-head IDs to turtle_db/items-4.3.1.json
+[2025-10-21T21:47:10.293Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.3.1#50+1
+[2025-10-21T21:47:14.290Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:47:14.290Z] 🆔 Sample IDs: 4078, 4080, 5819, 6389, 6971
+[2025-10-21T21:47:14.290Z] 📊 Total unique mail-head: 100
+[2025-10-21T21:47:14.292Z] 💾 Saved 100 mail-head IDs to turtle_db/items-4.3.1.json
+[2025-10-21T21:47:15.840Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.3.1#100+1
+[2025-10-21T21:47:19.838Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:47:19.839Z] 🆔 Sample IDs: 1282, 1624, 3836, 3837, 4077
+[2025-10-21T21:47:19.839Z] 📊 Total unique mail-head: 150
+[2025-10-21T21:47:19.841Z] 💾 Saved 150 mail-head IDs to turtle_db/items-4.3.1.json
+[2025-10-21T21:47:21.388Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.3.1#150+1
+[2025-10-21T21:47:25.384Z] 📄 Page 4: Found 8 items (8 new)
+[2025-10-21T21:47:25.385Z] 🆔 Sample IDs: 3529, 3536, 3891, 3894, 8748
+[2025-10-21T21:47:25.385Z] 📊 Total unique mail-head: 158
+[2025-10-21T21:47:25.387Z] 💾 Saved 158 mail-head IDs to turtle_db/items-4.3.1.json
+[2025-10-21T21:47:25.387Z] 🏁 Last page detected (8 < 50 items)
+[2025-10-21T21:47:26.891Z] 💾 Saved 158 mail-head IDs to turtle_db/items-4.3.1.json
+[2025-10-21T21:47:26.891Z] ✅ mail-head (4.3.1) extraction complete: 158 total IDs
+[2025-10-21T21:47:28.893Z] 
+🎯 Starting mail-shoulder (4.3.3) ID extraction
+[2025-10-21T21:47:28.893Z] 📊 Already have 0 mail-shoulder IDs
+[2025-10-21T21:47:28.894Z] 📖 Resuming from page 1
+[2025-10-21T21:47:28.894Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.3.3
+[2025-10-21T21:47:32.975Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:47:32.975Z] 🆔 Sample IDs: 12588, 15049, 15051, 16468, 16528
+[2025-10-21T21:47:32.976Z] 📊 Total unique mail-shoulder: 50
+[2025-10-21T21:47:32.978Z] 💾 Saved 50 mail-shoulder IDs to turtle_db/items-4.3.3.json
+[2025-10-21T21:47:34.522Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.3.3#50+1
+[2025-10-21T21:47:38.522Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:47:38.523Z] 🆔 Sample IDs: 3231, 3765, 3841, 4725, 4733
+[2025-10-21T21:47:38.523Z] 📊 Total unique mail-shoulder: 100
+[2025-10-21T21:47:38.525Z] 💾 Saved 100 mail-shoulder IDs to turtle_db/items-4.3.3.json
+[2025-10-21T21:47:40.071Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.3.3#100+1
+[2025-10-21T21:47:44.070Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:47:44.070Z] 🆔 Sample IDs: 3480, 3481, 3840, 4123, 4443
+[2025-10-21T21:47:44.071Z] 📊 Total unique mail-shoulder: 150
+[2025-10-21T21:47:44.073Z] 💾 Saved 150 mail-shoulder IDs to turtle_db/items-4.3.3.json
+[2025-10-21T21:47:45.621Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.3.3#150+1
+[2025-10-21T21:47:49.618Z] 📄 Page 4: Found 31 items (31 new)
+[2025-10-21T21:47:49.618Z] 🆔 Sample IDs: 1445, 1744, 1752, 1760, 3814
+[2025-10-21T21:47:49.619Z] 📊 Total unique mail-shoulder: 181
+[2025-10-21T21:47:49.621Z] 💾 Saved 181 mail-shoulder IDs to turtle_db/items-4.3.3.json
+[2025-10-21T21:47:49.621Z] 🏁 Last page detected (31 < 50 items)
+[2025-10-21T21:47:51.124Z] 💾 Saved 181 mail-shoulder IDs to turtle_db/items-4.3.3.json
+[2025-10-21T21:47:51.124Z] ✅ mail-shoulder (4.3.3) extraction complete: 181 total IDs
+[2025-10-21T21:47:53.126Z] 
+🎯 Starting mail-chest (4.3.5) ID extraction
+[2025-10-21T21:47:53.126Z] 📊 Already have 0 mail-chest IDs
+[2025-10-21T21:47:53.126Z] 📖 Resuming from page 1
+[2025-10-21T21:47:53.127Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.3.5
+[2025-10-21T21:47:57.210Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:47:57.211Z] 🆔 Sample IDs: 1488, 1981, 4508, 7759, 10784
+[2025-10-21T21:47:57.211Z] 📊 Total unique mail-chest: 50
+[2025-10-21T21:47:57.213Z] 💾 Saved 50 mail-chest IDs to turtle_db/items-4.3.5.json
+[2025-10-21T21:47:58.756Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.3.5#50+1
+[2025-10-21T21:48:02.752Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:48:02.753Z] 🆔 Sample IDs: 1715, 1717, 2870, 3416, 3844
+[2025-10-21T21:48:02.753Z] 📊 Total unique mail-chest: 100
+[2025-10-21T21:48:02.755Z] 💾 Saved 100 mail-chest IDs to turtle_db/items-4.3.5.json
+[2025-10-21T21:48:04.303Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.3.5#100+1
+[2025-10-21T21:48:08.300Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:48:08.300Z] 🆔 Sample IDs: 1273, 1275, 1677, 2016, 2989
+[2025-10-21T21:48:08.300Z] 📊 Total unique mail-chest: 150
+[2025-10-21T21:48:08.302Z] 💾 Saved 150 mail-chest IDs to turtle_db/items-4.3.5.json
+[2025-10-21T21:48:09.846Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.3.5#150+1
+[2025-10-21T21:48:13.844Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-21T21:48:13.845Z] 🆔 Sample IDs: 914, 2273, 3049, 3053, 3166
+[2025-10-21T21:48:13.845Z] 📊 Total unique mail-chest: 200
+[2025-10-21T21:48:13.846Z] 💾 Saved 200 mail-chest IDs to turtle_db/items-4.3.5.json
+[2025-10-21T21:48:15.394Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4.3.5#200+1
+[2025-10-21T21:48:19.393Z] 📄 Page 5: Found 50 items (50 new)
+[2025-10-21T21:48:19.393Z] 🆔 Sample IDs: 847, 2109, 2153, 2392, 2398
+[2025-10-21T21:48:19.394Z] 📊 Total unique mail-chest: 250
+[2025-10-21T21:48:19.395Z] 💾 Saved 250 mail-chest IDs to turtle_db/items-4.3.5.json
+[2025-10-21T21:48:20.945Z] 📄 Loading page 6 with fresh browser context: https://database.turtle-wow.org/?items=4.3.5#250+1
+[2025-10-21T21:48:24.943Z] 📄 Page 6: Found 20 items (20 new)
+[2025-10-21T21:48:24.943Z] 🆔 Sample IDs: 285, 1737, 1745, 1753, 1761
+[2025-10-21T21:48:24.943Z] 📊 Total unique mail-chest: 270
+[2025-10-21T21:48:24.945Z] 💾 Saved 270 mail-chest IDs to turtle_db/items-4.3.5.json
+[2025-10-21T21:48:24.945Z] 🏁 Last page detected (20 < 50 items)
+[2025-10-21T21:48:26.451Z] 💾 Saved 270 mail-chest IDs to turtle_db/items-4.3.5.json
+[2025-10-21T21:48:26.451Z] ✅ mail-chest (4.3.5) extraction complete: 270 total IDs
+[2025-10-21T21:48:28.453Z] 
+🎯 Starting mail-waist (4.3.6) ID extraction
+[2025-10-21T21:48:28.454Z] 📊 Already have 0 mail-waist IDs
+[2025-10-21T21:48:28.454Z] 📖 Resuming from page 1
+[2025-10-21T21:48:28.454Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.3.6
+[2025-10-21T21:48:32.540Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:48:32.540Z] 🆔 Sample IDs: 6460, 10768, 11783, 12634, 13134
+[2025-10-21T21:48:32.540Z] 📊 Total unique mail-waist: 50
+[2025-10-21T21:48:32.542Z] 💾 Saved 50 mail-waist IDs to turtle_db/items-4.3.6.json
+[2025-10-21T21:48:34.088Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.3.6#50+1
+[2025-10-21T21:48:38.086Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:48:38.086Z] 🆔 Sample IDs: 6425, 6594, 6742, 7107, 9405
+[2025-10-21T21:48:38.087Z] 📊 Total unique mail-waist: 100
+[2025-10-21T21:48:38.089Z] 💾 Saved 100 mail-waist IDs to turtle_db/items-4.3.6.json
+[2025-10-21T21:48:39.634Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.3.6#100+1
+[2025-10-21T21:48:43.632Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:48:43.632Z] 🆔 Sample IDs: 3758, 4697, 4707, 4712, 4717
+[2025-10-21T21:48:43.633Z] 📊 Total unique mail-waist: 150
+[2025-10-21T21:48:43.634Z] 💾 Saved 150 mail-waist IDs to turtle_db/items-4.3.6.json
+[2025-10-21T21:48:45.183Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.3.6#150+1
+[2025-10-21T21:48:49.179Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-21T21:48:49.179Z] 🆔 Sample IDs: 832, 1154, 1845, 2148, 2393
+[2025-10-21T21:48:49.180Z] 📊 Total unique mail-waist: 200
+[2025-10-21T21:48:49.181Z] 💾 Saved 200 mail-waist IDs to turtle_db/items-4.3.6.json
+[2025-10-21T21:48:50.727Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4.3.6#200+1
+[2025-10-21T21:48:54.726Z] 📄 Page 5: Found 24 items (24 new)
+[2025-10-21T21:48:54.726Z] 🆔 Sample IDs: 1730, 1738, 1746, 1754, 1853
+[2025-10-21T21:48:54.726Z] 📊 Total unique mail-waist: 224
+[2025-10-21T21:48:54.728Z] 💾 Saved 224 mail-waist IDs to turtle_db/items-4.3.6.json
+[2025-10-21T21:48:54.728Z] 🏁 Last page detected (24 < 50 items)
+[2025-10-21T21:48:56.231Z] 💾 Saved 224 mail-waist IDs to turtle_db/items-4.3.6.json
+[2025-10-21T21:48:56.231Z] ✅ mail-waist (4.3.6) extraction complete: 224 total IDs
+[2025-10-21T21:48:58.233Z] 
+🎯 Starting mail-legs (4.3.7) ID extraction
+[2025-10-21T21:48:58.233Z] 📊 Already have 0 mail-legs IDs
+[2025-10-21T21:48:58.234Z] 📖 Resuming from page 1
+[2025-10-21T21:48:58.234Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.3.7
+[2025-10-21T21:49:02.318Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:49:02.318Z] 🆔 Sample IDs: 12903, 12945, 16467, 16567, 16579
+[2025-10-21T21:49:02.319Z] 📊 Total unique mail-legs: 50
+[2025-10-21T21:49:02.321Z] 💾 Saved 50 mail-legs IDs to turtle_db/items-4.3.7.json
+[2025-10-21T21:49:03.863Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.3.7#50+1
+[2025-10-21T21:49:07.862Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:49:07.863Z] 🆔 Sample IDs: 6087, 9396, 9625, 10330, 11728
+[2025-10-21T21:49:07.863Z] 📊 Total unique mail-legs: 100
+[2025-10-21T21:49:07.865Z] 💾 Saved 100 mail-legs IDs to turtle_db/items-4.3.7.json
+[2025-10-21T21:49:09.409Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.3.7#100+1
+[2025-10-21T21:49:13.407Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:49:13.408Z] 🆔 Sample IDs: 1943, 2166, 2906, 2990, 3282
+[2025-10-21T21:49:13.408Z] 📊 Total unique mail-legs: 150
+[2025-10-21T21:49:13.410Z] 💾 Saved 150 mail-legs IDs to turtle_db/items-4.3.7.json
+[2025-10-21T21:49:14.955Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.3.7#150+1
+[2025-10-21T21:49:18.952Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-21T21:49:18.953Z] 🆔 Sample IDs: 2545, 2694, 2865, 3048, 3473
+[2025-10-21T21:49:18.953Z] 📊 Total unique mail-legs: 200
+[2025-10-21T21:49:18.956Z] 💾 Saved 200 mail-legs IDs to turtle_db/items-4.3.7.json
+[2025-10-21T21:49:20.502Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4.3.7#200+1
+[2025-10-21T21:49:24.499Z] 📄 Page 5: Found 35 items (35 new)
+[2025-10-21T21:49:24.500Z] 🆔 Sample IDs: 286, 848, 1735, 1743, 1751
+[2025-10-21T21:49:24.500Z] 📊 Total unique mail-legs: 235
+[2025-10-21T21:49:24.503Z] 💾 Saved 235 mail-legs IDs to turtle_db/items-4.3.7.json
+[2025-10-21T21:49:24.503Z] 🏁 Last page detected (35 < 50 items)
+[2025-10-21T21:49:26.009Z] 💾 Saved 235 mail-legs IDs to turtle_db/items-4.3.7.json
+[2025-10-21T21:49:26.009Z] ✅ mail-legs (4.3.7) extraction complete: 235 total IDs
+[2025-10-21T21:49:28.010Z] 
+🎯 Starting mail-feet (4.3.8) ID extraction
+[2025-10-21T21:49:28.011Z] 📊 Already have 0 mail-feet IDs
+[2025-10-21T21:49:28.011Z] 📖 Resuming from page 1
+[2025-10-21T21:49:28.011Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.3.8
+[2025-10-21T21:49:32.090Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:49:32.091Z] 🆔 Sample IDs: 1678, 9510, 10846, 14616, 16462
+[2025-10-21T21:49:32.091Z] 📊 Total unique mail-feet: 50
+[2025-10-21T21:49:32.093Z] 💾 Saved 50 mail-feet IDs to turtle_db/items-4.3.8.json
+[2025-10-21T21:49:33.639Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.3.8#50+1
+[2025-10-21T21:49:37.639Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:49:37.640Z] 🆔 Sample IDs: 3847, 10332, 11627, 11731, 12982
+[2025-10-21T21:49:37.640Z] 📊 Total unique mail-feet: 100
+[2025-10-21T21:49:37.642Z] 💾 Saved 100 mail-feet IDs to turtle_db/items-4.3.8.json
+[2025-10-21T21:49:39.189Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.3.8#100+1
+[2025-10-21T21:49:43.185Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:49:43.185Z] 🆔 Sample IDs: 1446, 1955, 2910, 2991, 3045
+[2025-10-21T21:49:43.185Z] 📊 Total unique mail-feet: 150
+[2025-10-21T21:49:43.187Z] 💾 Saved 150 mail-feet IDs to turtle_db/items-4.3.8.json
+[2025-10-21T21:49:44.735Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.3.8#150+1
+[2025-10-21T21:49:48.730Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-21T21:49:48.730Z] 🆔 Sample IDs: 2037, 2420, 2426, 3279, 3482
+[2025-10-21T21:49:48.731Z] 📊 Total unique mail-feet: 200
+[2025-10-21T21:49:48.733Z] 💾 Saved 200 mail-feet IDs to turtle_db/items-4.3.8.json
+[2025-10-21T21:49:50.281Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4.3.8#200+1
+[2025-10-21T21:49:54.278Z] 📄 Page 5: Found 37 items (37 new)
+[2025-10-21T21:49:54.278Z] 🆔 Sample IDs: 287, 849, 1731, 1739, 1747
+[2025-10-21T21:49:54.278Z] 📊 Total unique mail-feet: 237
+[2025-10-21T21:49:54.280Z] 💾 Saved 237 mail-feet IDs to turtle_db/items-4.3.8.json
+[2025-10-21T21:49:54.280Z] 🏁 Last page detected (37 < 50 items)
+[2025-10-21T21:49:55.784Z] 💾 Saved 237 mail-feet IDs to turtle_db/items-4.3.8.json
+[2025-10-21T21:49:55.784Z] ✅ mail-feet (4.3.8) extraction complete: 237 total IDs
+[2025-10-21T21:49:57.785Z] 
+🎯 Starting mail-wrist (4.3.9) ID extraction
+[2025-10-21T21:49:57.785Z] 📊 Already have 0 mail-wrist IDs
+[2025-10-21T21:49:57.786Z] 📖 Resuming from page 1
+[2025-10-21T21:49:57.786Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.3.9
+[2025-10-21T21:50:01.863Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:50:01.863Z] 🆔 Sample IDs: 3228, 9409, 13179, 13199, 16461
+[2025-10-21T21:50:01.864Z] 📊 Total unique mail-wrist: 50
+[2025-10-21T21:50:01.866Z] 💾 Saved 50 mail-wrist IDs to turtle_db/items-4.3.9.json
+[2025-10-21T21:50:03.413Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.3.9#50+1
+[2025-10-21T21:50:07.409Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:50:07.409Z] 🆔 Sample IDs: 3211, 4132, 4438, 6413, 6426
+[2025-10-21T21:50:07.410Z] 📊 Total unique mail-wrist: 100
+[2025-10-21T21:50:07.411Z] 💾 Saved 100 mail-wrist IDs to turtle_db/items-4.3.9.json
+[2025-10-21T21:50:08.957Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.3.9#100+1
+[2025-10-21T21:50:12.953Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:50:12.953Z] 🆔 Sample IDs: 2867, 2868, 3212, 3835, 4118
+[2025-10-21T21:50:12.953Z] 📊 Total unique mail-wrist: 150
+[2025-10-21T21:50:12.954Z] 💾 Saved 150 mail-wrist IDs to turtle_db/items-4.3.9.json
+[2025-10-21T21:50:14.503Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.3.9#150+1
+[2025-10-21T21:50:18.501Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-21T21:50:18.501Z] 🆔 Sample IDs: 1182, 1846, 1852, 2150, 2384
+[2025-10-21T21:50:18.502Z] 📊 Total unique mail-wrist: 200
+[2025-10-21T21:50:18.504Z] 💾 Saved 200 mail-wrist IDs to turtle_db/items-4.3.9.json
+[2025-10-21T21:50:20.047Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4.3.9#200+1
+[2025-10-21T21:50:24.045Z] 📄 Page 5: Found 8 items (8 new)
+[2025-10-21T21:50:24.045Z] 🆔 Sample IDs: 1732, 1740, 1748, 1756, 2643
+[2025-10-21T21:50:24.045Z] 📊 Total unique mail-wrist: 208
+[2025-10-21T21:50:24.047Z] 💾 Saved 208 mail-wrist IDs to turtle_db/items-4.3.9.json
+[2025-10-21T21:50:24.047Z] 🏁 Last page detected (8 < 50 items)
+[2025-10-21T21:50:25.551Z] 💾 Saved 208 mail-wrist IDs to turtle_db/items-4.3.9.json
+[2025-10-21T21:50:25.551Z] ✅ mail-wrist (4.3.9) extraction complete: 208 total IDs
+[2025-10-21T21:50:27.553Z] 
+🎯 Starting mail-hands (4.3.10) ID extraction
+[2025-10-21T21:50:27.553Z] 📊 Already have 0 mail-hands IDs
+[2025-10-21T21:50:27.553Z] 📖 Resuming from page 1
+[2025-10-21T21:50:27.554Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.3.10
+[2025-10-21T21:50:31.636Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:50:31.636Z] 🆔 Sample IDs: 6906, 8347, 13126, 13344, 14551
+[2025-10-21T21:50:31.637Z] 📊 Total unique mail-hands: 50
+[2025-10-21T21:50:31.639Z] 💾 Saved 50 mail-hands IDs to turtle_db/items-4.3.10.json
+[2025-10-21T21:50:33.186Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.3.10#50+1
+[2025-10-21T21:50:37.182Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:50:37.183Z] 🆔 Sample IDs: 4083, 6595, 7724, 7917, 9435
+[2025-10-21T21:50:37.183Z] 📊 Total unique mail-hands: 100
+[2025-10-21T21:50:37.185Z] 💾 Saved 100 mail-hands IDs to turtle_db/items-4.3.10.json
+[2025-10-21T21:50:38.733Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.3.10#100+1
+[2025-10-21T21:50:42.728Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:50:42.729Z] 🆔 Sample IDs: 1303, 1448, 1988, 2230, 2992
+[2025-10-21T21:50:42.729Z] 📊 Total unique mail-hands: 150
+[2025-10-21T21:50:42.731Z] 💾 Saved 150 mail-hands IDs to turtle_db/items-4.3.10.json
+[2025-10-21T21:50:44.275Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.3.10#150+1
+[2025-10-21T21:50:48.274Z] 📄 Page 4: Found 50 items (50 new)
+[2025-10-21T21:50:48.274Z] 🆔 Sample IDs: 2274, 2422, 2980, 3281, 3458
+[2025-10-21T21:50:48.275Z] 📊 Total unique mail-hands: 200
+[2025-10-21T21:50:48.276Z] 💾 Saved 200 mail-hands IDs to turtle_db/items-4.3.10.json
+[2025-10-21T21:50:49.823Z] 📄 Loading page 5 with fresh browser context: https://database.turtle-wow.org/?items=4.3.10#200+1
+[2025-10-21T21:50:53.820Z] 📄 Page 5: Found 33 items (33 new)
+[2025-10-21T21:50:53.820Z] 🆔 Sample IDs: 718, 850, 1360, 1734, 1742
+[2025-10-21T21:50:53.821Z] 📊 Total unique mail-hands: 233
+[2025-10-21T21:50:53.823Z] 💾 Saved 233 mail-hands IDs to turtle_db/items-4.3.10.json
+[2025-10-21T21:50:53.823Z] 🏁 Last page detected (33 < 50 items)
+[2025-10-21T21:50:55.325Z] 💾 Saved 233 mail-hands IDs to turtle_db/items-4.3.10.json
+[2025-10-21T21:50:55.325Z] ✅ mail-hands (4.3.10) extraction complete: 233 total IDs
+[2025-10-21T21:50:57.326Z] 
+🎯 Starting plate-head (4.4.1) ID extraction
+[2025-10-21T21:50:57.327Z] 📊 Already have 0 plate-head IDs
+[2025-10-21T21:50:57.327Z] 📖 Resuming from page 1
+[2025-10-21T21:50:57.327Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.4.1
+[2025-10-21T21:51:01.406Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:51:01.406Z] 🆔 Sample IDs: 10749, 12640, 16474, 16478, 16514
+[2025-10-21T21:51:01.406Z] 📊 Total unique plate-head: 50
+[2025-10-21T21:51:01.408Z] 💾 Saved 50 plate-head IDs to turtle_db/items-4.4.1.json
+[2025-10-21T21:51:02.953Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.4.1#50+1
+[2025-10-21T21:51:06.951Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:51:06.951Z] 🆔 Sample IDs: 8142, 8317, 9290, 9394, 9969
+[2025-10-21T21:51:06.952Z] 📊 Total unique plate-head: 100
+[2025-10-21T21:51:06.954Z] 💾 Saved 100 plate-head IDs to turtle_db/items-4.4.1.json
+[2025-10-21T21:51:08.501Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.4.1#100+1
+[2025-10-21T21:51:12.497Z] 📄 Page 3: Found 41 items (41 new)
+[2025-10-21T21:51:12.498Z] 🆔 Sample IDs: 7922, 7934, 7937, 8092, 8161
+[2025-10-21T21:51:12.498Z] 📊 Total unique plate-head: 141
+[2025-10-21T21:51:12.500Z] 💾 Saved 141 plate-head IDs to turtle_db/items-4.4.1.json
+[2025-10-21T21:51:12.500Z] 🏁 Last page detected (41 < 50 items)
+[2025-10-21T21:51:14.005Z] 💾 Saved 141 plate-head IDs to turtle_db/items-4.4.1.json
+[2025-10-21T21:51:14.005Z] ✅ plate-head (4.4.1) extraction complete: 141 total IDs
+[2025-10-21T21:51:16.006Z] 
+🎯 Starting plate-shoulder (4.4.3) ID extraction
+[2025-10-21T21:51:16.007Z] 📊 Already have 0 plate-shoulder IDs
+[2025-10-21T21:51:16.007Z] 📖 Resuming from page 1
+[2025-10-21T21:51:16.008Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.4.3
+[2025-10-21T21:51:20.092Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:51:20.092Z] 🆔 Sample IDs: 14552, 16476, 16480, 16544, 16856
+[2025-10-21T21:51:20.093Z] 📊 Total unique plate-shoulder: 50
+[2025-10-21T21:51:20.095Z] 💾 Saved 50 plate-shoulder IDs to turtle_db/items-4.4.3.json
+[2025-10-21T21:51:21.646Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.4.3#50+1
+[2025-10-21T21:51:25.640Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:51:25.640Z] 🆔 Sample IDs: 8319, 9476, 11632, 11889, 12557
+[2025-10-21T21:51:25.640Z] 📊 Total unique plate-shoulder: 100
+[2025-10-21T21:51:25.642Z] 💾 Saved 100 plate-shoulder IDs to turtle_db/items-4.4.3.json
+[2025-10-21T21:51:27.187Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.4.3#100+1
+[2025-10-21T21:51:31.184Z] 📄 Page 3: Found 46 items (46 new)
+[2025-10-21T21:51:31.184Z] 🆔 Sample IDs: 3246, 7918, 7928, 8086, 8144
+[2025-10-21T21:51:31.184Z] 📊 Total unique plate-shoulder: 146
+[2025-10-21T21:51:31.186Z] 💾 Saved 146 plate-shoulder IDs to turtle_db/items-4.4.3.json
+[2025-10-21T21:51:31.186Z] 🏁 Last page detected (46 < 50 items)
+[2025-10-21T21:51:32.690Z] 💾 Saved 146 plate-shoulder IDs to turtle_db/items-4.4.3.json
+[2025-10-21T21:51:32.690Z] ✅ plate-shoulder (4.4.3) extraction complete: 146 total IDs
+[2025-10-21T21:51:34.691Z] 
+🎯 Starting plate-chest (4.4.5) ID extraction
+[2025-10-21T21:51:34.692Z] 📊 Already have 0 plate-chest IDs
+[2025-10-21T21:51:34.692Z] 📖 Resuming from page 1
+[2025-10-21T21:51:34.692Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.4.5
+[2025-10-21T21:51:38.770Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:51:38.771Z] 🆔 Sample IDs: 10775, 11678, 12895, 16473, 16477
+[2025-10-21T21:51:38.771Z] 📊 Total unique plate-chest: 50
+[2025-10-21T21:51:38.773Z] 💾 Saved 50 plate-chest IDs to turtle_db/items-4.4.5.json
+[2025-10-21T21:51:40.319Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.4.5#50+1
+[2025-10-21T21:51:44.316Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:51:44.316Z] 🆔 Sample IDs: 7939, 8138, 8312, 9286, 9966
+[2025-10-21T21:51:44.316Z] 📊 Total unique plate-chest: 100
+[2025-10-21T21:51:44.318Z] 💾 Saved 100 plate-chest IDs to turtle_db/items-4.4.5.json
+[2025-10-21T21:51:45.865Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.4.5#100+1
+[2025-10-21T21:51:49.861Z] 📄 Page 3: Found 32 items (32 new)
+[2025-10-21T21:51:49.861Z] 🆔 Sample IDs: 7930, 7935, 8080, 8094, 8157
+[2025-10-21T21:51:49.862Z] 📊 Total unique plate-chest: 132
+[2025-10-21T21:51:49.863Z] 💾 Saved 132 plate-chest IDs to turtle_db/items-4.4.5.json
+[2025-10-21T21:51:49.863Z] 🏁 Last page detected (32 < 50 items)
+[2025-10-21T21:51:51.367Z] 💾 Saved 132 plate-chest IDs to turtle_db/items-4.4.5.json
+[2025-10-21T21:51:51.367Z] ✅ plate-chest (4.4.5) extraction complete: 132 total IDs
+[2025-10-21T21:51:53.368Z] 
+🎯 Starting plate-waist (4.4.6) ID extraction
+[2025-10-21T21:51:53.368Z] 📊 Already have 0 plate-waist IDs
+[2025-10-21T21:51:53.368Z] 📖 Resuming from page 1
+[2025-10-21T21:51:53.368Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.4.6
+[2025-10-21T21:51:57.468Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:51:57.469Z] 🆔 Sample IDs: 10798, 13142, 14620, 16470, 16482
+[2025-10-21T21:51:57.469Z] 📊 Total unique plate-waist: 50
+[2025-10-21T21:51:57.472Z] 💾 Saved 50 plate-waist IDs to turtle_db/items-4.4.6.json
+[2025-10-21T21:51:59.020Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.4.6#50+1
+[2025-10-21T21:52:03.018Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:52:03.018Z] 🆔 Sample IDs: 8140, 8315, 9288, 9968, 10278
+[2025-10-21T21:52:03.019Z] 📊 Total unique plate-waist: 100
+[2025-10-21T21:52:03.020Z] 💾 Saved 100 plate-waist IDs to turtle_db/items-4.4.6.json
+[2025-10-21T21:52:04.567Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.4.6#100+1
+[2025-10-21T21:52:08.562Z] 📄 Page 3: Found 29 items (29 new)
+[2025-10-21T21:52:08.562Z] 🆔 Sample IDs: 8081, 8088, 8159, 8277, 10088
+[2025-10-21T21:52:08.563Z] 📊 Total unique plate-waist: 129
+[2025-10-21T21:52:08.564Z] 💾 Saved 129 plate-waist IDs to turtle_db/items-4.4.6.json
+[2025-10-21T21:52:08.565Z] 🏁 Last page detected (29 < 50 items)
+[2025-10-21T21:52:10.068Z] 💾 Saved 129 plate-waist IDs to turtle_db/items-4.4.6.json
+[2025-10-21T21:52:10.068Z] ✅ plate-waist (4.4.6) extraction complete: 129 total IDs
+[2025-10-21T21:52:12.069Z] 
+🎯 Starting plate-legs (4.4.7) ID extraction
+[2025-10-21T21:52:12.069Z] 📊 Already have 0 plate-legs IDs
+[2025-10-21T21:52:12.070Z] 📖 Resuming from page 1
+[2025-10-21T21:52:12.070Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.4.7
+[2025-10-21T21:52:16.148Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:52:16.148Z] 🆔 Sample IDs: 14554, 16475, 16479, 16543, 16855
+[2025-10-21T21:52:16.148Z] 📊 Total unique plate-legs: 50
+[2025-10-21T21:52:16.150Z] 💾 Saved 50 plate-legs IDs to turtle_db/items-4.4.7.json
+[2025-10-21T21:52:17.698Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.4.7#50+1
+[2025-10-21T21:52:21.695Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:52:21.695Z] 🆔 Sample IDs: 8318, 10633, 11802, 11910, 11927
+[2025-10-21T21:52:21.695Z] 📊 Total unique plate-legs: 100
+[2025-10-21T21:52:21.697Z] 💾 Saved 100 plate-legs IDs to turtle_db/items-4.4.7.json
+[2025-10-21T21:52:23.242Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.4.7#100+1
+[2025-10-21T21:52:27.240Z] 📄 Page 3: Found 47 items (47 new)
+[2025-10-21T21:52:27.240Z] 🆔 Sample IDs: 3243, 7921, 7926, 8085, 8093
+[2025-10-21T21:52:27.240Z] 📊 Total unique plate-legs: 147
+[2025-10-21T21:52:27.242Z] 💾 Saved 147 plate-legs IDs to turtle_db/items-4.4.7.json
+[2025-10-21T21:52:27.242Z] 🏁 Last page detected (47 < 50 items)
+[2025-10-21T21:52:28.744Z] 💾 Saved 147 plate-legs IDs to turtle_db/items-4.4.7.json
+[2025-10-21T21:52:28.744Z] ✅ plate-legs (4.4.7) extraction complete: 147 total IDs
+[2025-10-21T21:52:30.746Z] 
+🎯 Starting plate-feet (4.4.8) ID extraction
+[2025-10-21T21:52:30.746Z] 📊 Already have 0 plate-feet IDs
+[2025-10-21T21:52:30.746Z] 📖 Resuming from page 1
+[2025-10-21T21:52:30.747Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.4.8
+[2025-10-21T21:52:34.830Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:52:34.830Z] 🆔 Sample IDs: 12555, 14549, 16472, 16483, 16509
+[2025-10-21T21:52:34.830Z] 📊 Total unique plate-feet: 50
+[2025-10-21T21:52:34.832Z] 💾 Saved 50 plate-feet IDs to turtle_db/items-4.4.8.json
+[2025-10-21T21:52:36.381Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.4.8#50+1
+[2025-10-21T21:52:40.379Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:52:40.380Z] 🆔 Sample IDs: 11787, 13068, 13070, 13259, 13381
+[2025-10-21T21:52:40.380Z] 📊 Total unique plate-feet: 100
+[2025-10-21T21:52:40.381Z] 💾 Saved 100 plate-feet IDs to turtle_db/items-4.4.8.json
+[2025-10-21T21:52:41.930Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.4.8#100+1
+[2025-10-21T21:52:45.925Z] 📄 Page 3: Found 50 items (50 new)
+[2025-10-21T21:52:45.925Z] 🆔 Sample IDs: 7933, 7936, 8141, 8160, 8278
+[2025-10-21T21:52:45.925Z] 📊 Total unique plate-feet: 150
+[2025-10-21T21:52:45.928Z] 💾 Saved 150 plate-feet IDs to turtle_db/items-4.4.8.json
+[2025-10-21T21:52:47.475Z] 📄 Loading page 4 with fresh browser context: https://database.turtle-wow.org/?items=4.4.8#150+1
+[2025-10-21T21:52:51.469Z] 📄 Page 4: Found 5 items (5 new)
+[2025-10-21T21:52:51.469Z] 🆔 Sample IDs: 3244, 8082, 8089, 14865, 16030
+[2025-10-21T21:52:51.469Z] 📊 Total unique plate-feet: 155
+[2025-10-21T21:52:51.472Z] 💾 Saved 155 plate-feet IDs to turtle_db/items-4.4.8.json
+[2025-10-21T21:52:51.472Z] 🏁 Last page detected (5 < 50 items)
+[2025-10-21T21:52:52.975Z] 💾 Saved 155 plate-feet IDs to turtle_db/items-4.4.8.json
+[2025-10-21T21:52:52.975Z] ✅ plate-feet (4.4.8) extraction complete: 155 total IDs
+[2025-10-21T21:52:54.976Z] 
+🎯 Starting plate-wrist (4.4.9) ID extraction
+[2025-10-21T21:52:54.977Z] 📊 Already have 0 plate-wrist IDs
+[2025-10-21T21:52:54.977Z] 📖 Resuming from page 1
+[2025-10-21T21:52:54.977Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.4.9
+[2025-10-21T21:52:59.065Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:52:59.065Z] 🆔 Sample IDs: 11767, 12936, 16469, 16481, 16546
+[2025-10-21T21:52:59.066Z] 📊 Total unique plate-wrist: 50
+[2025-10-21T21:52:59.068Z] 💾 Saved 50 plate-wrist IDs to turtle_db/items-4.4.9.json
+[2025-10-21T21:53:00.618Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.4.9#50+1
+[2025-10-21T21:53:04.613Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:53:04.615Z] 🆔 Sample IDs: 8137, 8156, 8311, 9285, 9432
+[2025-10-21T21:53:04.616Z] 📊 Total unique plate-wrist: 100
+[2025-10-21T21:53:04.618Z] 💾 Saved 100 plate-wrist IDs to turtle_db/items-4.4.9.json
+[2025-10-21T21:53:06.169Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.4.9#100+1
+[2025-10-21T21:53:10.165Z] 📄 Page 3: Found 18 items (18 new)
+[2025-10-21T21:53:10.165Z] 🆔 Sample IDs: 8083, 8090, 8273, 10127, 10171
+[2025-10-21T21:53:10.166Z] 📊 Total unique plate-wrist: 118
+[2025-10-21T21:53:10.168Z] 💾 Saved 118 plate-wrist IDs to turtle_db/items-4.4.9.json
+[2025-10-21T21:53:10.168Z] 🏁 Last page detected (18 < 50 items)
+[2025-10-21T21:53:11.671Z] 💾 Saved 118 plate-wrist IDs to turtle_db/items-4.4.9.json
+[2025-10-21T21:53:11.671Z] ✅ plate-wrist (4.4.9) extraction complete: 118 total IDs
+[2025-10-21T21:53:13.671Z] 
+🎯 Starting plate-hands (4.4.10) ID extraction
+[2025-10-21T21:53:13.671Z] 📊 Already have 0 plate-hands IDs
+[2025-10-21T21:53:13.672Z] 📖 Resuming from page 1
+[2025-10-21T21:53:13.672Z] 📄 Loading page 1 with fresh browser context: https://database.turtle-wow.org/?items=4.4.10
+[2025-10-21T21:53:17.825Z] 📄 Page 1: Found 50 items (50 new)
+[2025-10-21T21:53:17.825Z] 🆔 Sample IDs: 9410, 12637, 12639, 14525, 16471
+[2025-10-21T21:53:17.825Z] 📊 Total unique plate-hands: 50
+[2025-10-21T21:53:17.827Z] 💾 Saved 50 plate-hands IDs to turtle_db/items-4.4.10.json
+[2025-10-21T21:53:19.370Z] 📄 Loading page 2 with fresh browser context: https://database.turtle-wow.org/?items=4.4.10#50+1
+[2025-10-21T21:53:23.369Z] 📄 Page 2: Found 50 items (50 new)
+[2025-10-21T21:53:23.369Z] 🆔 Sample IDs: 7938, 8139, 8314, 9287, 9640
+[2025-10-21T21:53:23.370Z] 📊 Total unique plate-hands: 100
+[2025-10-21T21:53:23.371Z] 💾 Saved 100 plate-hands IDs to turtle_db/items-4.4.10.json
+[2025-10-21T21:53:24.915Z] 📄 Loading page 3 with fresh browser context: https://database.turtle-wow.org/?items=4.4.10#100+1
+[2025-10-21T21:53:28.915Z] 📄 Page 3: Found 35 items (35 new)
+[2025-10-21T21:53:28.915Z] 🆔 Sample IDs: 3245, 7919, 7927, 8084, 8091
+[2025-10-21T21:53:28.915Z] 📊 Total unique plate-hands: 135
+[2025-10-21T21:53:28.917Z] 💾 Saved 135 plate-hands IDs to turtle_db/items-4.4.10.json
+[2025-10-21T21:53:28.917Z] 🏁 Last page detected (35 < 50 items)
+[2025-10-21T21:53:30.422Z] 💾 Saved 135 plate-hands IDs to turtle_db/items-4.4.10.json
+[2025-10-21T21:53:30.422Z] ✅ plate-hands (4.4.10) extraction complete: 135 total IDs
+[2025-10-21T21:53:32.423Z] 
+🎉 ID extraction complete!
+[2025-10-21T21:53:32.424Z] 📊 Final counts:
+[2025-10-21T21:53:32.424Z]    Weapons: 2850 IDs (18/18 subcategories)
+[2025-10-21T21:53:32.424Z]    Armor: 9726 IDs (37/37 subcategories)
+[2025-10-21T21:53:32.425Z]    Total: 12576 IDs
+[2025-10-21T21:53:32.425Z] 📋 Summary saved to turtle_db/extraction-summary.json
+[2025-10-21T21:53:32.496Z] 🔒 Browser closed

@@ -6187,5 +6187,135 @@
     "itemLink": "|cff1eff00|Hitem:18347::::::::::0|h[Well Balanced Axe]|h|r",
     "contentPhase": 1,
     "uniqueName": "well-balanced-axe"
+  },
+  {
+    "itemId": 41559,
+    "name": "Rock Carver",
+    "icon": "inv_axe_12",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 5068,
+    "quality": "Uncommon",
+    "itemLevel": 32,
+    "requiredLevel": 27,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Rock Carver"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "31 - 55  Damage"
+      },
+      {
+        "label": "+4 Nature"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:41559::::::::::0|h[Rock Carver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rock-carver"
+  },
+  {
+    "itemId": 60657,
+    "name": "Troll Hunter's Axe",
+    "icon": "inv_axe_22",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 12416,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 0,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Troll Hunter's Axe"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "39 - 68  Damage"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40452,
+          "name": "To Strike Back : Ruins of Zul'Rasaz",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60657::::::::::0|h[Troll Hunter's Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "troll-hunters-axe"
+  },
+  {
+    "itemId": 60939,
+    "name": "Truthforge Handaxe",
+    "icon": "inv_axe_24",
+    "class": "Weapon",
+    "subclass": "axe",
+    "sellPrice": 2805,
+    "quality": "Uncommon",
+    "itemLevel": 25,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Truthforge Handaxe"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "23 - 42  Damage"
+      },
+      {
+        "label": "+4 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:60939::::::::::0|h[Truthforge Handaxe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "truthforge-handaxe"
   }
 ]
