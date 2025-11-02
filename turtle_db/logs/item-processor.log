@@ -48157,3 +48157,18 @@
 [2025-11-01T23:53:05.442Z]    Total failed: 1103
 [2025-11-01T23:53:05.442Z] ❌ Failed items: 51862, 21268, 21398, 21407, 21410, 21466, 21715, 21837, 21839, 22384...
 [2025-11-01T23:53:05.530Z] 🔒 Browser closed
+[2025-11-01T23:56:23.868Z] 🚀 Initializing browser with anti-detection...
+[2025-11-01T23:56:24.713Z] ✅ Browser initialized with stealth mode
+[2025-11-01T23:56:24.714Z] 
+🚀 Starting Item Detail Processing
+
+[2025-11-01T23:56:24.714Z] ✅ Weapons already complete
+[2025-11-01T23:56:24.714Z] ✅ Armor already complete
+[2025-11-01T23:56:24.714Z] 
+🎉 Item processing complete!
+[2025-11-01T23:56:24.714Z] 📊 Final Summary:
+[2025-11-01T23:56:24.714Z]    Weapons processed: 2805
+[2025-11-01T23:56:24.714Z]    Armor processed: 9726
+[2025-11-01T23:56:24.714Z]    Total failed: 1103
+[2025-11-01T23:56:24.714Z] ❌ Failed items: 51862, 21268, 21398, 21407, 21410, 21466, 21715, 21837, 21839, 22384...
+[2025-11-01T23:56:24.831Z] 🔒 Browser closed
