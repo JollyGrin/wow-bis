@@ -1,0 +1,6279 @@
+[
+  {
+    "itemId": 9410,
+    "name": "Cragfists",
+    "icon": "inv_gauntlets_12",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3785,
+    "quality": "Rare",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Cragfists"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "300 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9410::::::::::0|h[Cragfists]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cragfists"
+  },
+  {
+    "itemId": 12639,
+    "name": "Stronghold Gauntlets",
+    "icon": "inv_gauntlets_30",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 15271,
+    "quality": "Epic",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Stronghold Gauntlets"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "441 Armor"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:12639::::::::::0|h[Stronghold Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stronghold-gauntlets"
+  },
+  {
+    "itemId": 14525,
+    "name": "Boneclenched Gauntlets",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10561,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Boneclenched Gauntlets"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "404 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+15 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:14525::::::::::0|h[Boneclenched Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "boneclenched-gauntlets"
+  },
+  {
+    "itemId": 16471,
+    "name": "Marshal's Lamellar Gloves",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11429,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Marshal's Lamellar Gloves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "502 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+16 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16471::::::::::0|h[Marshal's Lamellar Gloves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "marshals-lamellar-gloves"
+  },
+  {
+    "itemId": 16484,
+    "name": "Marshal's Plate Gauntlets",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11135,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Marshal's Plate Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "532 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+23 StaminaDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16484::::::::::0|h[Marshal's Plate Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "marshals-plate-gauntlets"
+  },
+  {
+    "itemId": 16510,
+    "name": "Blood Guard's Plate Gloves",
+    "icon": "inv_gauntlets_26",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5931,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Blood Guard's Plate Gloves"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "410 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16510::::::::::0|h[Blood Guard's Plate Gloves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blood-guards-plate-gloves"
+  },
+  {
+    "itemId": 16548,
+    "name": "General's Plate Gauntlets",
+    "icon": "inv_gauntlets_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11598,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "General's Plate Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "532 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+23 StaminaDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16548::::::::::0|h[General's Plate Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "generals-plate-gauntlets"
+  },
+  {
+    "itemId": 16860,
+    "name": "Lawbringer Gloves",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17249,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Lawbringer Gloves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "468 Armor"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+7 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16860::::::::::0|h[Lawbringer Gloves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-gloves"
+  },
+  {
+    "itemId": 16863,
+    "name": "Gauntlets of Might",
+    "icon": "inv_gauntlets_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17917,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gauntlets of Might"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "468 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+22 Strength"
+      },
+      {
+        "label": "+7 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16863::::::::::0|h[Gauntlets of Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gauntlets-of-might"
+  },
+  {
+    "itemId": 16956,
+    "name": "Judgement Gloves",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 28422,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Judgement Gloves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "535 Armor"
+      },
+      {
+        "label": "+20 Intellect"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16956::::::::::0|h[Judgement Gloves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-gloves"
+  },
+  {
+    "itemId": 16964,
+    "name": "Gauntlets of Wrath",
+    "icon": "inv_gauntlets_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 30040,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gauntlets of Wrath"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "535 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16964::::::::::0|h[Gauntlets of Wrath]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gauntlets-of-wrath"
+  },
+  {
+    "itemId": 18722,
+    "name": "Death Grips",
+    "icon": "inv_gauntlets_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10688,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Death Grips"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "404 Armor"
+      },
+      {
+        "label": "+22 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18722::::::::::0|h[Death Grips]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "death-grips"
+  },
+  {
+    "itemId": 19164,
+    "name": "Dark Iron Gauntlets",
+    "icon": "inv_gauntlets_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 22425,
+    "quality": "Epic",
+    "itemLevel": 70,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Dark Iron Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "495 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+28 Fire"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19164::::::::::0|h[Dark Iron Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dark-iron-gauntlets"
+  },
+  {
+    "itemId": 19894,
+    "name": "Bloodsoaked Gauntlets",
+    "icon": "inv_gauntlets_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17152,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Bloodsoaked Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "460 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19894::::::::::0|h[Bloodsoaked Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodsoaked-gauntlets"
+  },
+  {
+    "itemId": 20264,
+    "name": "Peacekeeper Gauntlets",
+    "icon": "inv_gauntlets_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 19101,
+    "quality": "Epic",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Peacekeeper Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "482 Armor"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20264::::::::::0|h[Peacekeeper Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "peacekeeper-gauntlets"
+  },
+  {
+    "itemId": 20549,
+    "name": "Darkrune Gauntlets",
+    "icon": "inv_gauntlets_27",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11484,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Darkrune Gauntlets"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "410 Armor"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+20 Shadow"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20549::::::::::0|h[Darkrune Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "darkrune-gauntlets"
+  },
+  {
+    "itemId": 20630,
+    "name": "Gauntlets of the Shining Light",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 24459,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gauntlets of the Shining Light"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "535 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+16 Intellect"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20630::::::::::0|h[Gauntlets of the Shining Light]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gauntlets-of-the-shining-light"
+  },
+  {
+    "itemId": 21479,
+    "name": "Gauntlets of the Immovable",
+    "icon": "inv_gauntlets_31",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 20491,
+    "quality": "Epic",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gauntlets of the Immovable"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "482 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+15 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21479::::::::::0|h[Gauntlets of the Immovable]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gauntlets-of-the-immovable"
+  },
+  {
+    "itemId": 21486,
+    "name": "Gloves of the Swarm",
+    "icon": "inv_gauntlets_30",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 19033,
+    "quality": "Epic",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gloves of the Swarm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "482 Armor"
+      },
+      {
+        "label": "+18 Intellect"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21486::::::::::0|h[Gloves of the Swarm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gloves-of-the-swarm"
+  },
+  {
+    "itemId": 21581,
+    "name": "Gauntlets of Annihilation",
+    "icon": "inv_gauntlets_31",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 50891,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gauntlets of Annihilation"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "615 Armor"
+      },
+      {
+        "label": "+35 Strength"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21581::::::::::0|h[Gauntlets of Annihilation]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gauntlets-of-annihilation"
+  },
+  {
+    "itemId": 21623,
+    "name": "Gauntlets of the Righteous Champion",
+    "icon": "inv_gauntlets_26",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 32315,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gauntlets of the Righteous Champion"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "549 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21623::::::::::0|h[Gauntlets of the Righteous Champion]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gauntlets-of-the-righteous-champion"
+  },
+  {
+    "itemId": 21674,
+    "name": "Gauntlets of Steadfast Determination",
+    "icon": "inv_gauntlets_31",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 28340,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gauntlets of Steadfast Determination"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "535 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+18 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21674::::::::::0|h[Gauntlets of Steadfast Determination]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gauntlets-of-steadfast-determination"
+  },
+  {
+    "itemId": 21691,
+    "name": "Ooze-ridden Gauntlets",
+    "icon": "inv_gauntlets_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 26682,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Ooze-ridden Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "529 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+25 Nature"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21691::::::::::0|h[Ooze-ridden Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ooze-ridden-gauntlets"
+  },
+  {
+    "itemId": 21889,
+    "name": "Gloves of the Redeemed Prophecy",
+    "icon": "inv_gauntlets_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 27906,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gloves of the Redeemed Prophecy"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "529 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+12 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21889::::::::::0|h[Gloves of the Redeemed Prophecy]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gloves-of-the-redeemed-prophecy"
+  },
+  {
+    "itemId": 21998,
+    "name": "Gauntlets of Heroism",
+    "icon": "inv_gauntlets_26",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10074,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gauntlets of Heroism"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "427 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8937,
+          "name": "Just Compensation",
+          "faction": "Both"
+        },
+        {
+          "questId": 8944,
+          "name": "Just Compensation",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21998::::::::::0|h[Gauntlets of Heroism]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gauntlets-of-heroism"
+  },
+  {
+    "itemId": 22090,
+    "name": "Soulforge Gauntlets",
+    "icon": "inv_gauntlets_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10038,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Soulforge Gauntlets"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "427 Armor"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8933,
+          "name": "Just Compensation",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22090::::::::::0|h[Soulforge Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "soulforge-gauntlets"
+  },
+  {
+    "itemId": 22421,
+    "name": "Dreadnaught Gauntlets",
+    "icon": "inv_gauntlets_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 53974,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Dreadnaught Gauntlets"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "615 Armor"
+      },
+      {
+        "label": "+27 Stamina"
+      },
+      {
+        "label": "+17 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9040,
+          "name": "Dreadnaught Gauntlets",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22421::::::::::0|h[Dreadnaught Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadnaught-gauntlets"
+  },
+  {
+    "itemId": 22426,
+    "name": "Redemption Gloves",
+    "icon": "inv_gauntlets_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 51099,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Redemption Gloves"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "615 Armor"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+22 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9048,
+          "name": "Redemption Handguards",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22426::::::::::0|h[Redemption Gloves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-gloves"
+  },
+  {
+    "itemId": 22670,
+    "name": "Icebane Gauntlets",
+    "icon": "inv_gauntlets_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 34321,
+    "quality": "Epic",
+    "itemLevel": 80,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Icebane Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "562 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+32 Frost"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9234,
+          "name": "Icebane Gauntlets",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22670::::::::::0|h[Icebane Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "icebane-gauntlets"
+  },
+  {
+    "itemId": 22868,
+    "name": "Blood Guard's Plate Gauntlets",
+    "icon": "inv_gauntlets_26",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6357,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Blood Guard's Plate Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "429 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22868::::::::::0|h[Blood Guard's Plate Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blood-guards-plate-gauntlets"
+  },
+  {
+    "itemId": 23072,
+    "name": "Fists of the Unrelenting",
+    "icon": "inv_gauntlets_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 58039,
+    "quality": "Epic",
+    "itemLevel": 90,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Fists of the Unrelenting"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "629 Armor"
+      },
+      {
+        "label": "+26 Stamina"
+      },
+      {
+        "label": "+26 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:23072::::::::::0|h[Fists of the Unrelenting]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fists-of-the-unrelenting"
+  },
+  {
+    "itemId": 47004,
+    "name": "Lawbringer Handguards",
+    "icon": "inv_lawhands_v3",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17249,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Lawbringer Handguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "468 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+19 Stamina"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+7 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41497,
+          "name": "Lawbringer's Hands",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47004::::::::::0|h[Lawbringer Handguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-handguards"
+  },
+  {
+    "itemId": 47012,
+    "name": "Lawbringer Gauntlets",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 21561,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Lawbringer Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "468 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+6 Spirit"
+      },
+      {
+        "label": "+7 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41497,
+          "name": "Lawbringer's Hands",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47012::::::::::0|h[Lawbringer Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-gauntlets"
+  },
+  {
+    "itemId": 47020,
+    "name": "Judgement Handguards",
+    "icon": "inv_judhands_v3",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 35527,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Judgement Handguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "535 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+6 Spirit"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41489,
+          "name": "Judgement's Hands",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47020::::::::::0|h[Judgement Handguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-handguards"
+  },
+  {
+    "itemId": 47028,
+    "name": "Judgement Gauntlets",
+    "icon": "inv_judhands_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 35527,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Judgement Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "535 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+13 Agility"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+7 Intellect"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41489,
+          "name": "Judgement's Hands",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47028::::::::::0|h[Judgement Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-gauntlets"
+  },
+  {
+    "itemId": 47046,
+    "name": "Redemption Handguards",
+    "icon": "inv_gauntlets_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 63873,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Redemption Handguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "615 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+27 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9048,
+          "name": "Redemption Handguards",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47046::::::::::0|h[Redemption Handguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-handguards"
+  },
+  {
+    "itemId": 47055,
+    "name": "Redemption Gauntlets",
+    "icon": "inv_gauntlets_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 63873,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Redemption Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "615 Armor"
+      },
+      {
+        "label": "+23 Strength"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+22 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9048,
+          "name": "Redemption Handguards",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47055::::::::::0|h[Redemption Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-gauntlets"
+  },
+  {
+    "itemId": 47244,
+    "name": "Gloves of Might",
+    "icon": "inv_mighands_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 22397,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gloves of Might"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "468 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+7 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41446,
+          "name": "Hands of Might",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47244::::::::::0|h[Gloves of Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gloves-of-might"
+  },
+  {
+    "itemId": 47252,
+    "name": "Gloves of Wrath",
+    "icon": "inv_wrahands_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 37550,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gloves of Wrath"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "535 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41438,
+          "name": "Hands of Wrath",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47252::::::::::0|h[Gloves of Wrath]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gloves-of-wrath"
+  },
+  {
+    "itemId": 47265,
+    "name": "Dreadnaught Gloves",
+    "icon": "inv_gauntlets_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 67468,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Dreadnaught Gloves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "615 Armor"
+      },
+      {
+        "label": "+28 Strength"
+      },
+      {
+        "label": "+15 Agility"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+10 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9040,
+          "name": "Dreadnaught Gauntlets",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47265::::::::::0|h[Dreadnaught Gloves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadnaught-gloves"
+  },
+  {
+    "itemId": 51772,
+    "name": "Grasp of the Dark Reaver",
+    "icon": "inv_gauntlets_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4370,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Grasp of the Dark Reaver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "468 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+8 Arcane"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:51772::::::::::0|h[Grasp of the Dark Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grasp-of-the-dark-reaver"
+  },
+  {
+    "itemId": 55088,
+    "name": "Dragonclaw Gauntlets",
+    "icon": "inv_gauntlets_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 63613,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Dragonclaw Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "615 Armor"
+      },
+      {
+        "label": "+28 Strength"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+15 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55088::::::::::0|h[Dragonclaw Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dragonclaw-gauntlets"
+  },
+  {
+    "itemId": 55283,
+    "name": "Gauntlets of the Grand Crusader",
+    "icon": "inv_gauntlets_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 50652,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gauntlets of the Grand Crusader"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "582 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55283::::::::::0|h[Gauntlets of the Grand Crusader]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gauntlets-of-the-grand-crusader"
+  },
+  {
+    "itemId": 58210,
+    "name": "Grasps of Sundering Power",
+    "icon": "inv_gauntlets_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 18103,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Grasps of Sundering Power"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "468 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+15 Agility"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+7 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:58210::::::::::0|h[Grasps of Sundering Power]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grasps-of-sundering-power"
+  },
+  {
+    "itemId": 58223,
+    "name": "Molten Tempered Gloves",
+    "icon": "inv_gauntlets_32",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 39537,
+    "quality": "Epic",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Molten Tempered Gloves"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "447 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:58223::::::::::0|h[Molten Tempered Gloves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "molten-tempered-gloves"
+  },
+  {
+    "itemId": 60359,
+    "name": "Bloody Gladiator's Gauntlets",
+    "icon": "inv_gauntlets_31",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7608,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Bloody Gladiator's Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "392 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "+18 Attack"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60359::::::::::0|h[Bloody Gladiator's Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloody-gladiators-gauntlets"
+  },
+  {
+    "itemId": 61253,
+    "name": "Aetherforged Gauntlets",
+    "icon": "inv_gauntlets_30",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 18103,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Aetherforged Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "468 Armor"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61253::::::::::0|h[Aetherforged Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "aetherforged-gauntlets"
+  },
+  {
+    "itemId": 80771,
+    "name": "Dark Paladin's Gauntlets",
+    "icon": "inv_gauntlets_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4489,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Dark Paladin's Gauntlets"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "410 Armor"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80771::::::::::0|h[Dark Paladin's Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dark-paladins-gauntlets"
+  },
+  {
+    "itemId": 83485,
+    "name": "Fists of the Makers",
+    "icon": "inv_gauntlets_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 23615,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Fists of the Makers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "529 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+24 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:83485::::::::::0|h[Fists of the Makers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fists-of-the-makers"
+  },
+  {
+    "itemId": 7938,
+    "name": "Truesilver Gauntlets",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4028,
+    "quality": "Rare",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Truesilver Gauntlets"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "300 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:7938::::::::::0|h[Truesilver Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "truesilver-gauntlets"
+  },
+  {
+    "itemId": 8139,
+    "name": "Chromite Gauntlets",
+    "icon": "inv_gauntlets_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3053,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 40,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Chromite Gauntlets"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "268 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8139::::::::::0|h[Chromite Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chromite-gauntlets"
+  },
+  {
+    "itemId": 8314,
+    "name": "Alabaster Plate Gauntlets",
+    "icon": "inv_gauntlets_26",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5344,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Alabaster Plate Gauntlets"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "317 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8314::::::::::0|h[Alabaster Plate Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "alabaster-plate-gauntlets"
+  },
+  {
+    "itemId": 9287,
+    "name": "Field Plate Gauntlets",
+    "icon": "inv_gauntlets_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2406,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 40,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Field Plate Gauntlets"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "188 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9287::::::::::0|h[Field Plate Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "field-plate-gauntlets"
+  },
+  {
+    "itemId": 9640,
+    "name": "Vice Grips",
+    "icon": "inv_gauntlets_26",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4840,
+    "quality": "Rare",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Vice Grips"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "318 Armor"
+      },
+      {
+        "label": "+14 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9640::::::::::0|h[Vice Grips]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "vice-grips"
+  },
+  {
+    "itemId": 9967,
+    "name": "Embossed Plate Gauntlets",
+    "icon": "inv_gauntlets_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2900,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Embossed Plate Gauntlets"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "239 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9967::::::::::0|h[Embossed Plate Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "embossed-plate-gauntlets"
+  },
+  {
+    "itemId": 10277,
+    "name": "Emerald Gauntlets",
+    "icon": "inv_gauntlets_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6985,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Emerald Gauntlets"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "339 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10277::::::::::0|h[Emerald Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "emerald-gauntlets"
+  },
+  {
+    "itemId": 10380,
+    "name": "Commander's Gauntlets",
+    "icon": "inv_gauntlets_32",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8468,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Commander's Gauntlets"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "356 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10380::::::::::0|h[Commander's Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "commanders-gauntlets"
+  },
+  {
+    "itemId": 11745,
+    "name": "Fists of Phalanx",
+    "icon": "inv_gauntlets_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7878,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Fists of Phalanx"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "367 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11745::::::::::0|h[Fists of Phalanx]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fists-of-phalanx"
+  },
+  {
+    "itemId": 12631,
+    "name": "Fiery Plate Gauntlets",
+    "icon": "inv_gauntlets_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8919,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Fiery Plate Gauntlets"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "379 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+15 Fire"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 5124,
+          "name": "Fiery Plate Gauntlets",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:12631::::::::::0|h[Fiery Plate Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fiery-plate-gauntlets"
+  },
+  {
+    "itemId": 13071,
+    "name": "Plated Fist of Hakoo",
+    "icon": "inv_gauntlets_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4061,
+    "quality": "Rare",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Plated Fist of Hakoo"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "300 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13071::::::::::0|h[Plated Fist of Hakoo]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "plated-fist-of-hakoo"
+  },
+  {
+    "itemId": 13072,
+    "name": "Stonegrip Gauntlets",
+    "icon": "inv_gauntlets_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10426,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Stonegrip Gauntlets"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "392 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13072::::::::::0|h[Stonegrip Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stonegrip-gauntlets"
+  },
+  {
+    "itemId": 13162,
+    "name": "Reiver Claws",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10558,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Reiver Claws"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "398 Armor"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+9 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13162::::::::::0|h[Reiver Claws]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "reiver-claws"
+  },
+  {
+    "itemId": 13539,
+    "name": "Banshee's Touch",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8535,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Banshee's Touch"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "356 Armor"
+      },
+      {
+        "label": "+13 Frost"
+      },
+      {
+        "label": "+13 Arcane"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:13539::::::::::0|h[Banshee's Touch]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "banshees-touch"
+  },
+  {
+    "itemId": 14622,
+    "name": "Deathbone Gauntlets",
+    "icon": "inv_gauntlets_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10212,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Deathbone Gauntlets"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "398 Armor"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "+15 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:14622::::::::::0|h[Deathbone Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "deathbone-gauntlets"
+  },
+  {
+    "itemId": 14905,
+    "name": "Brutish Gauntlets",
+    "icon": "inv_gauntlets_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3217,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Brutish Gauntlets"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "273 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14905::::::::::0|h[Brutish Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brutish-gauntlets"
+  },
+  {
+    "itemId": 14949,
+    "name": "Bloodforged Gauntlets",
+    "icon": "inv_gauntlets_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3907,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Bloodforged Gauntlets"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "284 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14949::::::::::0|h[Bloodforged Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodforged-gauntlets"
+  },
+  {
+    "itemId": 14967,
+    "name": "Glorious Gauntlets",
+    "icon": "inv_gauntlets_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6867,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Glorious Gauntlets"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "334 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14967::::::::::0|h[Glorious Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "glorious-gauntlets"
+  },
+  {
+    "itemId": 14976,
+    "name": "Exalted Gauntlets",
+    "icon": "inv_gauntlets_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8349,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Exalted Gauntlets"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "362 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14976::::::::::0|h[Exalted Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "exalted-gauntlets"
+  },
+  {
+    "itemId": 15795,
+    "name": "Emerald Mist Gauntlets",
+    "icon": "inv_gauntlets_30",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7631,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Emerald Mist Gauntlets"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "345 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 5253,
+          "name": "The Crystal of Zin-Malor",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:15795::::::::::0|h[Emerald Mist Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "emerald-mist-gauntlets"
+  },
+  {
+    "itemId": 16406,
+    "name": "Knight-Lieutenant's Plate Gauntlets",
+    "icon": "inv_gauntlets_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5545,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Knight-Lieutenant's Plate Gauntlets"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "410 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16406::::::::::0|h[Knight-Lieutenant's Plate Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knight-lieutenants-plate-gauntlets"
+  },
+  {
+    "itemId": 16410,
+    "name": "Knight-Lieutenant's Lamellar Gauntlets",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5630,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Knight-Lieutenant's Lamellar Gauntlets"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "410 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+15 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16410::::::::::0|h[Knight-Lieutenant's Lamellar Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knight-lieutenants-lamellar-gauntlets"
+  },
+  {
+    "itemId": 16724,
+    "name": "Lightforge Gauntlets",
+    "icon": "inv_gauntlets_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9091,
+    "quality": "Rare",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Lightforge Gauntlets"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "386 Armor"
+      },
+      {
+        "label": "+14 Spirit"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16724::::::::::0|h[Lightforge Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lightforge-gauntlets"
+  },
+  {
+    "itemId": 16737,
+    "name": "Gauntlets of Valor",
+    "icon": "inv_gauntlets_26",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9794,
+    "quality": "Rare",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gauntlets of Valor"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "386 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+8 Spirit"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16737::::::::::0|h[Gauntlets of Valor]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gauntlets-of-valor"
+  },
+  {
+    "itemId": 17770,
+    "name": "Branchclaw Gauntlets",
+    "icon": "inv_gauntlets_30",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3851,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Branchclaw Gauntlets"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "284 Armor"
+      },
+      {
+        "label": "+12 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 7029,
+          "name": "Vyletongue Corruption",
+          "faction": "Horde"
+        },
+        {
+          "questId": 7041,
+          "name": "Vyletongue Corruption",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:17770::::::::::0|h[Branchclaw Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "branchclaw-gauntlets"
+  },
+  {
+    "itemId": 18326,
+    "name": "Razor Gauntlets",
+    "icon": "inv_gauntlets_31",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9036,
+    "quality": "Rare",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Razor Gauntlets"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "386 Armor"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18326::::::::::0|h[Razor Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "razor-gauntlets"
+  },
+  {
+    "itemId": 18366,
+    "name": "Gordok's Handguards",
+    "icon": "inv_gauntlets_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9805,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gordok's Handguards"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "392 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+9 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1318,
+          "name": "Unfinished Gordok Business",
+          "faction": "Both"
+        },
+        {
+          "questId": 7703,
+          "name": "Unfinished Gordok Business",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:18366::::::::::0|h[Gordok's Handguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gordoks-handguards"
+  },
+  {
+    "itemId": 18383,
+    "name": "Force Imbued Gauntlets",
+    "icon": "inv_gauntlets_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10179,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Force Imbued Gauntlets"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "538 Armor"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18383::::::::::0|h[Force Imbued Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "force-imbued-gauntlets"
+  },
+  {
+    "itemId": 19057,
+    "name": "Gloves of the Dawn",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11606,
+    "quality": "Rare",
+    "itemLevel": 64,
+    "requiredLevel": 59,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gloves of the Dawn"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "417 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+9 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19057::::::::::0|h[Gloves of the Dawn]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gloves-of-the-dawn"
+  },
+  {
+    "itemId": 20242,
+    "name": "90 Green Warrior Gauntlets",
+    "icon": "inv_gauntlets_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 34665,
+    "quality": "Uncommon",
+    "itemLevel": 90,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "90 Green Warrior Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "498 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+21 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20242::::::::::0|h[90 Green Warrior Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "90-green-warrior-gauntlets"
+  },
+  {
+    "itemId": 20284,
+    "name": "63 Green Warrior Gauntlets",
+    "icon": "inv_gauntlets_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9607,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "63 Green Warrior Gauntlets"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "355 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+14 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20284::::::::::0|h[63 Green Warrior Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "63-green-warrior-gauntlets"
+  },
+  {
+    "itemId": 20650,
+    "name": "Desert Wind Gauntlets",
+    "icon": "inv_gauntlets_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8511,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Desert Wind Gauntlets"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "356 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8321,
+          "name": "Vyral the Vile",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:20650::::::::::0|h[Desert Wind Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "desert-wind-gauntlets"
+  },
+  {
+    "itemId": 20653,
+    "name": "Abyssal Plate Gauntlets",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8602,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Abyssal Plate Gauntlets"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "356 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20653::::::::::0|h[Abyssal Plate Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "abyssal-plate-gauntlets"
+  },
+  {
+    "itemId": 22714,
+    "name": "Sacrificial Gauntlets",
+    "icon": "inv_gauntlets_31",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14936,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Sacrificial Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "441 Armor"
+      },
+      {
+        "label": "+19 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22714::::::::::0|h[Sacrificial Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sacrificial-gauntlets"
+  },
+  {
+    "itemId": 22763,
+    "name": "Ironvine Gloves",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 15806,
+    "quality": "Rare",
+    "itemLevel": 70,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Ironvine Gloves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "454 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+20 Nature"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22763::::::::::0|h[Ironvine Gloves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ironvine-gloves"
+  },
+  {
+    "itemId": 23078,
+    "name": "Gauntlets of Undead Slaying",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11912,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gauntlets of Undead Slaying"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "410 Armor"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "+60 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9094,
+          "name": "Argent Dawn Gloves",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 9333,
+          "name": "Argent Dawn Gloves",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:23078::::::::::0|h[Gauntlets of Undead Slaying]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gauntlets-of-undead-slaying"
+  },
+  {
+    "itemId": 23274,
+    "name": "Knight-Lieutenant's Lamellar Gauntlets",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6651,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Knight-Lieutenant's Lamellar Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "429 Armor"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+12 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23274::::::::::0|h[Knight-Lieutenant's Lamellar Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knight-lieutenants-lamellar-gauntlets"
+  },
+  {
+    "itemId": 23286,
+    "name": "Knight-Lieutenant's Plate Gauntlets",
+    "icon": "inv_gauntlets_26",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6945,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Knight-Lieutenant's Plate Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "429 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23286::::::::::0|h[Knight-Lieutenant's Plate Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knight-lieutenants-plate-gauntlets"
+  },
+  {
+    "itemId": 60287,
+    "name": "Rune-Etched Grips",
+    "icon": "inv_gauntlets_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11264,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 58,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Rune-Etched Grips"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "410 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+5 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60287::::::::::0|h[Rune-Etched Grips]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rune-etched-grips"
+  },
+  {
+    "itemId": 60432,
+    "name": "Gauntlets of the Elite Guard",
+    "icon": "inv_gauntlets_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4625,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gauntlets of the Elite Guard"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "424 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+8 Agility"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60432::::::::::0|h[Gauntlets of the Elite Guard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gauntlets-of-the-elite-guard"
+  },
+  {
+    "itemId": 60625,
+    "name": "Golden Gauntlets of Stormwind",
+    "icon": "inv_gauntlets_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11407,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Golden Gauntlets of Stormwind"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "421 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40427,
+          "name": "Ending Arc'Tiras",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 41139,
+          "name": "Ending Arc'Tiras",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:60625::::::::::0|h[Golden Gauntlets of Stormwind]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "golden-gauntlets-of-stormwind"
+  },
+  {
+    "itemId": 60791,
+    "name": "Skullcrushing Gauntlets",
+    "icon": "inv_gauntlets_31",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11503,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Skullcrushing Gauntlets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "421 Armor"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+11 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60791::::::::::0|h[Skullcrushing Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "skullcrushing-gauntlets"
+  },
+  {
+    "itemId": 60799,
+    "name": "Gauntlets of the Lost Crusader",
+    "icon": "inv_gauntlets_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 18363,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gauntlets of the Lost Crusader"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "410 Armor"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60799::::::::::0|h[Gauntlets of the Lost Crusader]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gauntlets-of-the-lost-crusader"
+  },
+  {
+    "itemId": 60883,
+    "name": "Gauntlets of the Khan",
+    "icon": "inv_gauntlets_30",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10635,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gauntlets of the Khan"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "402 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60883::::::::::0|h[Gauntlets of the Khan]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gauntlets-of-the-khan"
+  },
+  {
+    "itemId": 70051,
+    "name": "Gauntlets of Wrangling",
+    "icon": "inv_gauntlets_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 18033,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 55,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gauntlets of Wrangling"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "489 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:70051::::::::::0|h[Gauntlets of Wrangling]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gauntlets-of-wrangling"
+  },
+  {
+    "itemId": 70062,
+    "name": "Gauntlets of Force",
+    "icon": "inv_gauntlets_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 18033,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 55,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gauntlets of Force"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "483 Armor"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+15 Shadow"
+      },
+      {
+        "label": "+5 Arcane"
+      },
+      {
+        "label": "+30 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:70062::::::::::0|h[Gauntlets of Force]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gauntlets-of-force"
+  },
+  {
+    "itemId": 80185,
+    "name": "Grasps of the Damned",
+    "icon": "inv_gauntlets_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 0,
+    "quality": "Rare",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Grasps of the Damned"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80185::::::::::0|h[Grasps of the Damned]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grasps-of-the-damned"
+  },
+  {
+    "itemId": 80510,
+    "name": "Quel'dorei Guardian's Handguards",
+    "icon": "inv_gauntlets_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10214,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Quel'dorei Guardian's Handguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "430 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80510::::::::::0|h[Quel'dorei Guardian's Handguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "queldorei-guardians-handguards"
+  },
+  {
+    "itemId": 80610,
+    "name": "Revantusk Watcher's Handguards",
+    "icon": "inv_gauntlets_21",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10214,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Revantusk Watcher's Handguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "430 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80610::::::::::0|h[Revantusk Watcher's Handguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revantusk-watchers-handguards"
+  },
+  {
+    "itemId": 81053,
+    "name": "Grasps of the Dark Reaver",
+    "icon": "inv_gauntlets_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2762,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 60,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Grasps of the Dark Reaver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "412 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81053::::::::::0|h[Grasps of the Dark Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grasps-of-the-dark-reaver"
+  },
+  {
+    "itemId": 3245,
+    "name": "OLDMonster - Hands, Plate Silver",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 0,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "OLDMonster - Hands, Plate Silver"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "24 Armor"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3245::::::::::0|h[OLDMonster - Hands, Plate Silver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "oldmonster-hands-plate-silver"
+  },
+  {
+    "itemId": 7919,
+    "name": "Heavy Mithril Gauntlet",
+    "icon": "inv_gauntlets_27",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2476,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 40,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Heavy Mithril Gauntlet"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "268 Armor"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7919::::::::::0|h[Heavy Mithril Gauntlet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-mithril-gauntlet"
+  },
+  {
+    "itemId": 7927,
+    "name": "Ornate Mithril Gloves",
+    "icon": "inv_gauntlets_31",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2987,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 40,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Ornate Mithril Gloves"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "268 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2773,
+          "name": "The Mithril Kid",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:7927::::::::::0|h[Ornate Mithril Gloves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ornate-mithril-gloves"
+  },
+  {
+    "itemId": 8084,
+    "name": "Light Plate Gloves",
+    "icon": "inv_gauntlets_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2703,
+    "quality": "Poor",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Light Plate Gloves"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "300 Armor"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:8084::::::::::0|h[Light Plate Gloves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "light-plate-gloves"
+  },
+  {
+    "itemId": 8091,
+    "name": "Platemail Gloves",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2697,
+    "quality": "Common",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Platemail Gloves"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "285 Armor"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:8091::::::::::0|h[Platemail Gloves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "platemail-gloves"
+  },
+  {
+    "itemId": 8158,
+    "name": "Jouster's Gauntlets",
+    "icon": "inv_gauntlets_17",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2236,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 40,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Jouster's Gauntlets"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "166 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8158::::::::::0|h[Jouster's Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jousters-gauntlets"
+  },
+  {
+    "itemId": 8276,
+    "name": "Valorous Gauntlets",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3901,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Valorous Gauntlets"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "284 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+2 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8276::::::::::0|h[Valorous Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "valorous-gauntlets"
+  },
+  {
+    "itemId": 9656,
+    "name": "Granite Grips",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4251,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Granite Grips"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "295 Armor"
+      },
+      {
+        "label": "+15 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2845,
+          "name": "Wandering Shay",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:9656::::::::::0|h[Granite Grips]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "granite-grips"
+  },
+  {
+    "itemId": 10087,
+    "name": "Gothic Plate Gauntlets",
+    "icon": "inv_gauntlets_21",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3393,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Gothic Plate Gauntlets"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "278 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10087::::::::::0|h[Gothic Plate Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gothic-plate-gauntlets"
+  },
+  {
+    "itemId": 10129,
+    "name": "Revenant Gauntlets",
+    "icon": "inv_gauntlets_31",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4689,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Revenant Gauntlets"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "300 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10129::::::::::0|h[Revenant Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revenant-gauntlets"
+  },
+  {
+    "itemId": 10165,
+    "name": "Templar Gauntlets",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6240,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Templar Gauntlets"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "328 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10165::::::::::0|h[Templar Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "templar-gauntlets"
+  },
+  {
+    "itemId": 10205,
+    "name": "Overlord's Gauntlets",
+    "icon": "inv_gauntlets_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4316,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Overlord's Gauntlets"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "295 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10205::::::::::0|h[Overlord's Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "overlords-gauntlets"
+  },
+  {
+    "itemId": 10242,
+    "name": "Heavy Lamellar Gauntlets",
+    "icon": "inv_gauntlets_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5318,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Heavy Lamellar Gauntlets"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "311 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10242::::::::::0|h[Heavy Lamellar Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-lamellar-gauntlets"
+  },
+  {
+    "itemId": 10369,
+    "name": "Imbued Plate Gauntlets",
+    "icon": "inv_gauntlets_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7377,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Imbued Plate Gauntlets"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "345 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+3 Stamina"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10369::::::::::0|h[Imbued Plate Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "imbued-plate-gauntlets"
+  },
+  {
+    "itemId": 10386,
+    "name": "Hyperion Gauntlets",
+    "icon": "inv_gauntlets_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8865,
+    "quality": "Uncommon",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Hyperion Gauntlets"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "368 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10386::::::::::0|h[Hyperion Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hyperion-gauntlets"
+  },
+  {
+    "itemId": 12111,
+    "name": "Lavaplate Gauntlets",
+    "icon": "inv_gauntlets_26",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 7768,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Lavaplate Gauntlets"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "345 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 4063,
+          "name": "The Rise of the Machines",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:12111::::::::::0|h[Lavaplate Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lavaplate-gauntlets"
+  },
+  {
+    "itemId": 14826,
+    "name": "Symbolic Gauntlets",
+    "icon": "inv_gauntlets_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2311,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 40,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Symbolic Gauntlets"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "188 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14826::::::::::0|h[Symbolic Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "symbolic-gauntlets"
+  },
+  {
+    "itemId": 14833,
+    "name": "Tyrant's Gauntlets",
+    "icon": "inv_gauntlets_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2988,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 40,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Tyrant's Gauntlets"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "268 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+4 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14833::::::::::0|h[Tyrant's Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tyrants-gauntlets"
+  },
+  {
+    "itemId": 14846,
+    "name": "Sunscale Gauntlets",
+    "icon": "inv_gauntlets_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4534,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Sunscale Gauntlets"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "300 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14846::::::::::0|h[Sunscale Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sunscale-gauntlets"
+  },
+  {
+    "itemId": 14855,
+    "name": "Vanguard Gauntlets",
+    "icon": "inv_gauntlets_17",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6502,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Vanguard Gauntlets"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "328 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+6 Spirit"
+      },
+      {
+        "label": "+9 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14855::::::::::0|h[Vanguard Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "vanguard-gauntlets"
+  },
+  {
+    "itemId": 14863,
+    "name": "Warleader's Gauntlets",
+    "icon": "inv_gauntlets_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7951,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Warleader's Gauntlets"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "356 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14863::::::::::0|h[Warleader's Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warleaders-gauntlets"
+  },
+  {
+    "itemId": 14897,
+    "name": "Saltstone Gauntlets",
+    "icon": "inv_gauntlets_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2286,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 40,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Saltstone Gauntlets"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "166 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14897::::::::::0|h[Saltstone Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "saltstone-gauntlets"
+  },
+  {
+    "itemId": 14917,
+    "name": "Jade Gauntlets",
+    "icon": "inv_gauntlets_30",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3931,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Jade Gauntlets"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "289 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14917::::::::::0|h[Jade Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jade-gauntlets"
+  },
+  {
+    "itemId": 14926,
+    "name": "Lofty Gauntlets",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5598,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Lofty Gauntlets"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "317 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14926::::::::::0|h[Lofty Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lofty-gauntlets"
+  },
+  {
+    "itemId": 14933,
+    "name": "Heroic Gauntlets",
+    "icon": "inv_gauntlets_31",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7884,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Heroic Gauntlets"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "345 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14933::::::::::0|h[Heroic Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heroic-gauntlets"
+  },
+  {
+    "itemId": 14942,
+    "name": "Warbringer's Gauntlets",
+    "icon": "inv_gauntlets_27",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2524,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 40,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Warbringer's Gauntlets"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "212 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14942::::::::::0|h[Warbringer's Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warbringers-gauntlets"
+  },
+  {
+    "itemId": 14959,
+    "name": "High Chief's Gauntlets",
+    "icon": "inv_gauntlets_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5143,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "High Chief's Gauntlets"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "311 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14959::::::::::0|h[High Chief's Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-chiefs-gauntlets"
+  },
+  {
+    "itemId": 16029,
+    "name": "PVP Plate Gauntlets Alliance",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4828,
+    "quality": "Common",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "PVP Plate Gauntlets Alliance"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "338 Armor"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:16029::::::::::0|h[PVP Plate Gauntlets Alliance]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pvp-plate-gauntlets-alliance"
+  },
+  {
+    "itemId": 19126,
+    "name": "Slagplate Gauntlets",
+    "icon": "inv_gauntlets_22",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 4451,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Slagplate Gauntlets"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "295 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 7723,
+          "name": "Curse These Fat Fingers",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:19126::::::::::0|h[Slagplate Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "slagplate-gauntlets"
+  },
+  {
+    "itemId": 51761,
+    "name": "Shadowforge Runed Gauntlets",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 652,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 40,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Shadowforge Runed Gauntlets"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "212 Armor"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:51761::::::::::0|h[Shadowforge Runed Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shadowforge-runed-gauntlets"
+  },
+  {
+    "itemId": 60224,
+    "name": "Waveguard Gauntlets",
+    "icon": "inv_gauntlets_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7167,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Waveguard Gauntlets"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "341 Armor"
+      },
+      {
+        "label": "+6 Agility"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+2 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40151,
+          "name": "The Aqua Stone",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60224::::::::::0|h[Waveguard Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "waveguard-gauntlets"
+  },
+  {
+    "itemId": 60269,
+    "name": "Razzari Battle Gauntlets",
+    "icon": "inv_gauntlets_31",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8207,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 0,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Razzari Battle Gauntlets"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "351 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40195,
+          "name": "The Razzari Leaders",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60269::::::::::0|h[Razzari Battle Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "razzari-battle-gauntlets"
+  },
+  {
+    "itemId": 61376,
+    "name": "Greymane Gauntlets",
+    "icon": "inv_gauntlets_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2981,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Greymane Gauntlets"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "169 Armor"
+      },
+      {
+        "label": "+11 Agility"
+      },
+      {
+        "label": "+9 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61376::::::::::0|h[Greymane Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "greymane-gauntlets"
+  },
+  {
+    "itemId": 65007,
+    "name": "Imperial Plate Gauntlets",
+    "icon": "inv_gauntlets_30",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5326,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Imperial Plate Gauntlets"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "311 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "+28 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:65007::::::::::0|h[Imperial Plate Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "imperial-plate-gauntlets"
+  },
+  {
+    "itemId": 83411,
+    "name": "Steel Plate Gauntlets",
+    "icon": "inv_gauntlets_31",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4164,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Steel Plate Gauntlets"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "301 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "+30 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:83411::::::::::0|h[Steel Plate Gauntlets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "steel-plate-gauntlets"
+  }
+]

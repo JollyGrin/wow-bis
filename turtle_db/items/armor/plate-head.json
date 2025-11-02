@@ -1,0 +1,6810 @@
+[
+  {
+    "itemId": 10749,
+    "name": "Avenguard Helm",
+    "icon": "inv_helmet_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10554,
+    "quality": "Rare",
+    "itemLevel": 54,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Avenguard Helm"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "461 Armor"
+      },
+      {
+        "label": "+10 Spirit"
+      },
+      {
+        "label": "+5 Agility"
+      },
+      {
+        "label": "+25 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 3528,
+          "name": "The God Hakkar",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:10749::::::::::0|h[Avenguard Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "avenguard-helm"
+  },
+  {
+    "itemId": 12640,
+    "name": "Lionheart Helm",
+    "icon": "inv_helmet_36",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 21894,
+    "quality": "Epic",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Lionheart Helm"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "665 Armor"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "+24 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:12640::::::::::0|h[Lionheart Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lionheart-helm"
+  },
+  {
+    "itemId": 16474,
+    "name": "Field Marshal's Lamellar Faceguard",
+    "icon": "inv_helmet_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 20063,
+    "quality": "Epic",
+    "itemLevel": 74,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Field Marshal's Lamellar Faceguard"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "679 Armor"
+      },
+      {
+        "label": "+21 Stamina"
+      },
+      {
+        "label": "+21 Strength"
+      },
+      {
+        "label": "+20 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16474::::::::::0|h[Field Marshal's Lamellar Faceguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "field-marshals-lamellar-faceguard"
+  },
+  {
+    "itemId": 16478,
+    "name": "Field Marshal's Plate Helm",
+    "icon": "inv_helmet_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 18903,
+    "quality": "Epic",
+    "itemLevel": 74,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Field Marshal's Plate Helm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "719 Armor"
+      },
+      {
+        "label": "+34 Stamina"
+      },
+      {
+        "label": "+28 StrengthDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16478::::::::::0|h[Field Marshal's Plate Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "field-marshals-plate-helm"
+  },
+  {
+    "itemId": 16514,
+    "name": "Champion's Plate Headguard",
+    "icon": "inv_helmet_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9024,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Champion's Plate Headguard"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "534 Armor"
+      },
+      {
+        "label": "+31 Stamina"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16514::::::::::0|h[Champion's Plate Headguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "champions-plate-headguard"
+  },
+  {
+    "itemId": 16542,
+    "name": "Warlord's Plate Headpiece",
+    "icon": "inv_helmet_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 19707,
+    "quality": "Epic",
+    "itemLevel": 74,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Warlord's Plate Headpiece"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "719 Armor"
+      },
+      {
+        "label": "+34 Stamina"
+      },
+      {
+        "label": "+28 StrengthDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16542::::::::::0|h[Warlord's Plate Headpiece]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warlords-plate-headpiece"
+  },
+  {
+    "itemId": 16854,
+    "name": "Lawbringer Helm",
+    "icon": "inv_helmet_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 27956,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Lawbringer Helm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "608 Armor"
+      },
+      {
+        "label": "+26 Intellect"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16854::::::::::0|h[Lawbringer Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-helm"
+  },
+  {
+    "itemId": 16866,
+    "name": "Helm of Might",
+    "icon": "inv_helmet_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 27170,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helm of Might"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "608 Armor"
+      },
+      {
+        "label": "+35 Stamina"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16866::::::::::0|h[Helm of Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helm-of-might"
+  },
+  {
+    "itemId": 16955,
+    "name": "Judgement Helm",
+    "icon": "inv_helmet_74",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 42472,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Judgement Helm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "696 Armor"
+      },
+      {
+        "label": "+26 Intellect"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+10 Frost"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16955::::::::::0|h[Judgement Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-helm"
+  },
+  {
+    "itemId": 16963,
+    "name": "Helm of Wrath",
+    "icon": "inv_helmet_71",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 44900,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helm of Wrath"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "696 Armor"
+      },
+      {
+        "label": "+40 Stamina"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+10 Frost"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16963::::::::::0|h[Helm of Wrath]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helm-of-wrath"
+  },
+  {
+    "itemId": 19148,
+    "name": "Dark Iron Helm",
+    "icon": "inv_helmet_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 25399,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Dark Iron Helm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "758 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+35 Fire"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19148::::::::::0|h[Dark Iron Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dark-iron-helm"
+  },
+  {
+    "itemId": 19372,
+    "name": "Helm of Endless Rage",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 41178,
+    "quality": "Epic",
+    "itemLevel": 74,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helm of Endless Rage"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "679 Armor"
+      },
+      {
+        "label": "+25 Strength"
+      },
+      {
+        "label": "+25 Agility"
+      },
+      {
+        "label": "+26 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19372::::::::::0|h[Helm of Endless Rage]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helm-of-endless-rage"
+  },
+  {
+    "itemId": 21329,
+    "name": "Conqueror's Crown",
+    "icon": "inv_helmet_72",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 53037,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Conqueror's Crown"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "739 Armor"
+      },
+      {
+        "label": "+18 Agility"
+      },
+      {
+        "label": "+29 Strength"
+      },
+      {
+        "label": "+34 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8561,
+          "name": "Conqueror's Crown",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21329::::::::::0|h[Conqueror's Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "conquerors-crown"
+  },
+  {
+    "itemId": 21387,
+    "name": "Avenger's Crown",
+    "icon": "inv_helmet_72",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 58153,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Avenger's Crown"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "739 Armor"
+      },
+      {
+        "label": "+16 Agility"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+22 Intellect"
+      },
+      {
+        "label": "+23 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8628,
+          "name": "Avenger's Crown",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21387::::::::::0|h[Avenger's Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "avengers-crown"
+  },
+  {
+    "itemId": 21460,
+    "name": "Helm of Domination",
+    "icon": "inv_helmet_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 37496,
+    "quality": "Epic",
+    "itemLevel": 72,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helm of Domination"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "661 Armor"
+      },
+      {
+        "label": "+28 Stamina"
+      },
+      {
+        "label": "+22 Strength"
+      },
+      {
+        "label": "+14 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21460::::::::::0|h[Helm of Domination]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helm-of-domination"
+  },
+  {
+    "itemId": 21999,
+    "name": "Helm of Heroism",
+    "icon": "inv_helmet_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 19916,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helm of Heroism"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "556 Armor"
+      },
+      {
+        "label": "+32 Stamina"
+      },
+      {
+        "label": "+18 StrengthDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9006,
+          "name": "Saving the Best for Last",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 9013,
+          "name": "Saving the Best for Last",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21999::::::::::0|h[Helm of Heroism]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helm-of-heroism"
+  },
+  {
+    "itemId": 22091,
+    "name": "Soulforge Helm",
+    "icon": "inv_helmet_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 19845,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Soulforge Helm"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "556 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+17 Intellect"
+      },
+      {
+        "label": "+12 AgilityDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9002,
+          "name": "Saving the Best for Last",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22091::::::::::0|h[Soulforge Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "soulforge-helm"
+  },
+  {
+    "itemId": 22418,
+    "name": "Dreadnaught Helmet",
+    "icon": "inv_helmet_58",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 80096,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Dreadnaught Helmet"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "800 Armor"
+      },
+      {
+        "label": "+45 Stamina"
+      },
+      {
+        "label": "+21 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9037,
+          "name": "Dreadnaught Helmet",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22418::::::::::0|h[Dreadnaught Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadnaught-helmet"
+  },
+  {
+    "itemId": 22428,
+    "name": "Redemption Helm",
+    "icon": "inv_helmet_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 77225,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Redemption Helm"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "800 Armor"
+      },
+      {
+        "label": "+28 Stamina"
+      },
+      {
+        "label": "+26 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9045,
+          "name": "Redemption Headpiece",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22428::::::::::0|h[Redemption Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-helm"
+  },
+  {
+    "itemId": 23019,
+    "name": "Icebane Helmet",
+    "icon": "inv_helmet_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 63466,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Icebane Helmet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "757 Armor"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+44 Frost"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:23019::::::::::0|h[Icebane Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "icebane-helmet"
+  },
+  {
+    "itemId": 23244,
+    "name": "Champion's Plate Helm",
+    "icon": "inv_helmet_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13205,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Champion's Plate Helm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "598 Armor"
+      },
+      {
+        "label": "+27 Stamina"
+      },
+      {
+        "label": "+23 StrengthDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23244::::::::::0|h[Champion's Plate Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "champions-plate-helm"
+  },
+  {
+    "itemId": 47000,
+    "name": "Lawbringer Helmet",
+    "icon": "inv_lawhelm_v3",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 27956,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Lawbringer Helmet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "608 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+29 Stamina"
+      },
+      {
+        "label": "+14 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41493,
+          "name": "Lawbringer's Head",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47000::::::::::0|h[Lawbringer Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-helmet"
+  },
+  {
+    "itemId": 47008,
+    "name": "Lawbringer Crown",
+    "icon": "inv_helmet_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 34946,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Lawbringer Crown"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "608 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41493,
+          "name": "Lawbringer's Head",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47008::::::::::0|h[Lawbringer Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-crown"
+  },
+  {
+    "itemId": 47016,
+    "name": "Judgement Helmet",
+    "icon": "inv_judhead_v3",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 53090,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Judgement Helmet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "696 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+40 Stamina"
+      },
+      {
+        "label": "+14 Intellect"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41485,
+          "name": "Judgement's Head",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47016::::::::::0|h[Judgement Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-helmet"
+  },
+  {
+    "itemId": 47024,
+    "name": "Judgement Crown",
+    "icon": "inv_judhead_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 53090,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Judgement Crown"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "696 Armor"
+      },
+      {
+        "label": "+22 Strength"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+7 Spirit"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41485,
+          "name": "Judgement's Head",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47024::::::::::0|h[Judgement Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-crown"
+  },
+  {
+    "itemId": 47032,
+    "name": "Avenger's Helmet",
+    "icon": "inv_helmet_72",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 72691,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Avenger's Helmet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "739 Armor"
+      },
+      {
+        "label": "+24 Agility"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+25 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8628,
+          "name": "Avenger's Crown",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47032::::::::::0|h[Avenger's Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "avengers-helmet"
+  },
+  {
+    "itemId": 47037,
+    "name": "Avenger's Helm",
+    "icon": "inv_helmet_72",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 72691,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Avenger's Helm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "739 Armor"
+      },
+      {
+        "label": "+20 Intellect"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+26 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8628,
+          "name": "Avenger's Crown",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47037::::::::::0|h[Avenger's Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "avengers-helm"
+  },
+  {
+    "itemId": 47042,
+    "name": "Redemption Helmet",
+    "icon": "inv_helmet_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 96532,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Redemption Helmet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "800 Armor"
+      },
+      {
+        "label": "+45 Stamina"
+      },
+      {
+        "label": "+19 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9045,
+          "name": "Redemption Headpiece",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47042::::::::::0|h[Redemption Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-helmet"
+  },
+  {
+    "itemId": 47051,
+    "name": "Redemption Crown",
+    "icon": "inv_helmet_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 96532,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Redemption Crown"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "800 Armor"
+      },
+      {
+        "label": "+24 Strength"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+19 Stamina"
+      },
+      {
+        "label": "+23 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9045,
+          "name": "Redemption Headpiece",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47051::::::::::0|h[Redemption Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-crown"
+  },
+  {
+    "itemId": 47060,
+    "name": "Lionheart Headpiece",
+    "icon": "inv_lionheart_crown",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 78553,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Lionheart Headpiece"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "834 Armor"
+      },
+      {
+        "label": "+29 Stamina"
+      },
+      {
+        "label": "+31 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41626,
+          "name": "Lionheart Helm",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47060::::::::::0|h[Lionheart Headpiece]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lionheart-headpiece"
+  },
+  {
+    "itemId": 47066,
+    "name": "Lionheart Helmet",
+    "icon": "inv_lionheart_crown",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 78353,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Lionheart Helmet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "834 Armor"
+      },
+      {
+        "label": "+24 Strength"
+      },
+      {
+        "label": "+31 Stamina"
+      },
+      {
+        "label": "+26 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41626,
+          "name": "Lionheart Helm",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47066::::::::::0|h[Lionheart Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lionheart-helmet"
+  },
+  {
+    "itemId": 47072,
+    "name": "Lionheart Crown",
+    "icon": "inv_lionheart_crown",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 78553,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Lionheart Crown"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "834 Armor"
+      },
+      {
+        "label": "+26 Strength"
+      },
+      {
+        "label": "+24 Agility"
+      },
+      {
+        "label": "+19 Stamina"
+      },
+      {
+        "label": "+21 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41626,
+          "name": "Lionheart Helm",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47072::::::::::0|h[Lionheart Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lionheart-crown"
+  },
+  {
+    "itemId": 47240,
+    "name": "Crown of Might",
+    "icon": "inv_mighelm_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 33962,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Crown of Might"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "608 Armor"
+      },
+      {
+        "label": "+30 Strength"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41442,
+          "name": "Head of Might",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47240::::::::::0|h[Crown of Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crown-of-might"
+  },
+  {
+    "itemId": 47248,
+    "name": "Crown of Wrath",
+    "icon": "inv_wrahelm_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 56125,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Crown of Wrath"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "696 Armor"
+      },
+      {
+        "label": "+32 Strength"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+10 Frost"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41434,
+          "name": "Head of Wrath",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47248::::::::::0|h[Crown of Wrath]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crown-of-wrath"
+  },
+  {
+    "itemId": 47256,
+    "name": "Conqueror's Crown",
+    "icon": "inv_helmet_72",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 66296,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Conqueror's Crown"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "739 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+23 Agility"
+      },
+      {
+        "label": "+29 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:47256::::::::::0|h[Conqueror's Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "conquerors-crown"
+  },
+  {
+    "itemId": 47261,
+    "name": "Dreadnaught Crown",
+    "icon": "inv_helmet_58",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 100120,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Dreadnaught Crown"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "800 Armor"
+      },
+      {
+        "label": "+26 Strength"
+      },
+      {
+        "label": "+29 Agility"
+      },
+      {
+        "label": "+22 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9037,
+          "name": "Dreadnaught Helmet",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47261::::::::::0|h[Dreadnaught Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadnaught-crown"
+  },
+  {
+    "itemId": 47270,
+    "name": "Helmet of the Brotherhood",
+    "icon": "inv_helmet_of_the_brotherhood",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 78553,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helmet of the Brotherhood"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "834 Armor"
+      },
+      {
+        "label": "+32 Strength"
+      },
+      {
+        "label": "+28 Agility"
+      },
+      {
+        "label": "+37 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41590,
+          "name": "Helm of the Brotherhood",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47270::::::::::0|h[Helmet of the Brotherhood]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helmet-of-the-brotherhood"
+  },
+  {
+    "itemId": 51769,
+    "name": "Crown of the Dark Reaver",
+    "icon": "inv_helmet_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6361,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Crown of the Dark Reaver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "608 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+25 Stamina"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:51769::::::::::0|h[Crown of the Dark Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crown-of-the-dark-reaver"
+  },
+  {
+    "itemId": 55113,
+    "name": "Dreadslayer Horns",
+    "icon": "inv_demonhornhelmet",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 110120,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Dreadslayer Horns"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "834 Armor"
+      },
+      {
+        "label": "+33 Strength"
+      },
+      {
+        "label": "+28 Agility"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "+45 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55113::::::::::0|h[Dreadslayer Horns]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadslayer-horns"
+  },
+  {
+    "itemId": 58092,
+    "name": "Champion's Sandhelm",
+    "icon": "inv_helmet_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8802,
+    "quality": "Rare",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Champion's Sandhelm"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "418 Armor"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+12 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:58092::::::::::0|h[Champion's Sandhelm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "champions-sandhelm"
+  },
+  {
+    "itemId": 60365,
+    "name": "Bloody Gladiator's Helm",
+    "icon": "inv_helmet_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14642,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Bloody Gladiator's Helm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "683 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+30 StaminaDurability"
+      },
+      {
+        "label": "+18 Attack"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:60365::::::::::0|h[Bloody Gladiator's Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloody-gladiators-helm"
+  },
+  {
+    "itemId": 60437,
+    "name": "Righteous Crusader's Helmet",
+    "icon": "inv_helmet_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 36108,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Righteous Crusader's Helmet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "632 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:60437::::::::::0|h[Righteous Crusader's Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "righteous-crusaders-helmet"
+  },
+  {
+    "itemId": 60736,
+    "name": "Battlemaster Helm",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14935,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Battlemaster Helm"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "632 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+6 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40504,
+          "name": "Of New and Old IV",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:60736::::::::::0|h[Battlemaster Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "battlemaster-helm"
+  },
+  {
+    "itemId": 61207,
+    "name": "Jadestone Helmet",
+    "icon": "inv_helmet_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 40831,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Jadestone Helmet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "712 Armor"
+      },
+      {
+        "label": "+18 Agility"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+32 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61207::::::::::0|h[Jadestone Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jadestone-helmet"
+  },
+  {
+    "itemId": 61291,
+    "name": "Darkflame Helm",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 27230,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Darkflame Helm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "608 Armor"
+      },
+      {
+        "label": "+25 Strength"
+      },
+      {
+        "label": "+24 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61291::::::::::0|h[Darkflame Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "darkflame-helm"
+  },
+  {
+    "itemId": 70057,
+    "name": "Crown of Eternal Sacrifice",
+    "icon": "inv_helmet_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 24512,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Crown of Eternal Sacrifice"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "660 Armor"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:70057::::::::::0|h[Crown of Eternal Sacrifice]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crown-of-eternal-sacrifice"
+  },
+  {
+    "itemId": 80180,
+    "name": "Crown of the Damned",
+    "icon": "inv_helmet_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 0,
+    "quality": "Rare",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Crown of the Damned"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80180::::::::::0|h[Crown of the Damned]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crown-of-the-damned"
+  },
+  {
+    "itemId": 81262,
+    "name": "Core Forged Helmet",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6541,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Core Forged Helmet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "600 Armor"
+      },
+      {
+        "label": "+34 Stamina"
+      },
+      {
+        "label": "+14 Fire"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:81262::::::::::0|h[Core Forged Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "core-forged-helmet"
+  },
+  {
+    "itemId": 83483,
+    "name": "Crown of Divine Justice",
+    "icon": "inv_helmet_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 41115,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Crown of Divine Justice"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "670 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+16 Intellect"
+      },
+      {
+        "label": "+25 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:83483::::::::::0|h[Crown of Divine Justice]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crown-of-divine-justice"
+  },
+  {
+    "itemId": 84002,
+    "name": "Headguard of the Scarlet Bastion",
+    "icon": "inv_helmet_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 61963,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Headguard of the Scarlet Bastion"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "757 Armor"
+      },
+      {
+        "label": "+20 Agility"
+      },
+      {
+        "label": "+14 Intellect"
+      },
+      {
+        "label": "+30 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:84002::::::::::0|h[Headguard of the Scarlet Bastion]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "headguard-of-the-scarlet-bastion"
+  },
+  {
+    "itemId": 8142,
+    "name": "Chromite Barbute",
+    "icon": "inv_helmet_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4630,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 40,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Chromite Barbute"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "348 Armor"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+12 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8142::::::::::0|h[Chromite Barbute]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chromite-barbute"
+  },
+  {
+    "itemId": 8317,
+    "name": "Alabaster Plate Helmet",
+    "icon": "inv_helmet_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8595,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Alabaster Plate Helmet"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "419 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+15 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8317::::::::::0|h[Alabaster Plate Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "alabaster-plate-helmet"
+  },
+  {
+    "itemId": 9290,
+    "name": "Field Plate Helmet",
+    "icon": "inv_helmet_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3940,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 40,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Field Plate Helmet"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "276 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9290::::::::::0|h[Field Plate Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "field-plate-helmet"
+  },
+  {
+    "itemId": 9394,
+    "name": "Horned Viking Helmet",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 1372,
+    "quality": "Rare",
+    "itemLevel": 42,
+    "requiredLevel": 40,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Horned Viking Helmet"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "303 Armor"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9394::::::::::0|h[Horned Viking Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "horned-viking-helmet"
+  },
+  {
+    "itemId": 9969,
+    "name": "Embossed Plate Helmet",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3964,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Embossed Plate Helmet"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "310 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9969::::::::::0|h[Embossed Plate Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "embossed-plate-helmet"
+  },
+  {
+    "itemId": 10279,
+    "name": "Emerald Helm",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11188,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Emerald Helm"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "448 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10279::::::::::0|h[Emerald Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "emerald-helm"
+  },
+  {
+    "itemId": 10379,
+    "name": "Commander's Helm",
+    "icon": "inv_helmet_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13290,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Commander's Helm"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "471 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10379::::::::::0|h[Commander's Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "commanders-helm"
+  },
+  {
+    "itemId": 10763,
+    "name": "Icemetal Barbute",
+    "icon": "inv_helmet_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5197,
+    "quality": "Rare",
+    "itemLevel": 44,
+    "requiredLevel": 40,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Icemetal Barbute"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "383 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+10 Frost"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:10763::::::::::0|h[Icemetal Barbute]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "icemetal-barbute"
+  },
+  {
+    "itemId": 11746,
+    "name": "Golem Skull Helm",
+    "icon": "inv_helmet_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11861,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Golem Skull Helm"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "477 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+18 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11746::::::::::0|h[Golem Skull Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "golem-skull-helm"
+  },
+  {
+    "itemId": 12620,
+    "name": "Enchanted Thorium Helm",
+    "icon": "inv_helmet_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17245,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Enchanted Thorium Helm"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "526 Armor"
+      },
+      {
+        "label": "+25 Stamina"
+      },
+      {
+        "label": "+12 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12620::::::::::0|h[Enchanted Thorium Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "enchanted-thorium-helm"
+  },
+  {
+    "itemId": 12633,
+    "name": "Whitesoul Helm",
+    "icon": "inv_helmet_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14859,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Whitesoul Helm"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "629 Armor"
+      },
+      {
+        "label": "+15 Spirit"
+      },
+      {
+        "label": "+15 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12633::::::::::0|h[Whitesoul Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "whitesoul-helm"
+  },
+  {
+    "itemId": 12952,
+    "name": "Gyth's Skull",
+    "icon": "inv_helmet_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14861,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Gyth's Skull"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "509 Armor"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12952::::::::::0|h[Gyth's Skull]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gyths-skull"
+  },
+  {
+    "itemId": 13073,
+    "name": "Mugthol's Helm",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9080,
+    "quality": "Rare",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Mugthol's Helm"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "445 Armor"
+      },
+      {
+        "label": "+17 Spirit"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13073::::::::::0|h[Mugthol's Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mugthols-helm"
+  },
+  {
+    "itemId": 14907,
+    "name": "Brutish Helmet",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6123,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Brutish Helmet"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "376 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14907::::::::::0|h[Brutish Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brutish-helmet"
+  },
+  {
+    "itemId": 14952,
+    "name": "Bloodforged Helmet",
+    "icon": "inv_helmet_12",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7323,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Bloodforged Helmet"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "390 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14952::::::::::0|h[Bloodforged Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodforged-helmet"
+  },
+  {
+    "itemId": 14979,
+    "name": "Exalted Helmet",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14664,
+    "quality": "Uncommon",
+    "itemLevel": 64,
+    "requiredLevel": 59,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Exalted Helmet"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "492 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14979::::::::::0|h[Exalted Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "exalted-helmet"
+  },
+  {
+    "itemId": 16429,
+    "name": "Lieutenant Commander's Plate Helm",
+    "icon": "inv_helmet_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8641,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Lieutenant Commander's Plate Helm"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "534 Armor"
+      },
+      {
+        "label": "+31 Stamina"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16429::::::::::0|h[Lieutenant Commander's Plate Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lieutenant-commanders-plate-helm"
+  },
+  {
+    "itemId": 16434,
+    "name": "Lieutenant Commander's Lamellar Headguard",
+    "icon": "inv_helmet_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8800,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Lieutenant Commander's Lamellar Headguard"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "534 Armor"
+      },
+      {
+        "label": "+31 Stamina"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16434::::::::::0|h[Lieutenant Commander's Lamellar Headguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lieutenant-commanders-lamellar-headguard"
+  },
+  {
+    "itemId": 16727,
+    "name": "Lightforge Helm",
+    "icon": "inv_helmet_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 15968,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Lightforge Helm"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "526 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+14 Intellect"
+      },
+      {
+        "label": "+10 Spirit"
+      },
+      {
+        "label": "+6 AgilityDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16727::::::::::0|h[Lightforge Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lightforge-helm"
+  },
+  {
+    "itemId": 16731,
+    "name": "Helm of Valor",
+    "icon": "inv_helmet_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16210,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helm of Valor"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "526 Armor"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+9 Agility"
+      },
+      {
+        "label": "+8 SpiritDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16731::::::::::0|h[Helm of Valor]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helm-of-valor"
+  },
+  {
+    "itemId": 17734,
+    "name": "Helm of the Mountain",
+    "icon": "inv_helmet_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10457,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helm of the Mountain"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "683 Armor"
+      },
+      {
+        "label": "+10 Nature"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:17734::::::::::0|h[Helm of the Mountain]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helm-of-the-mountain"
+  },
+  {
+    "itemId": 18313,
+    "name": "Helm of Awareness",
+    "icon": "inv_helmet_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13694,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helm of Awareness"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "493 Armor"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18313::::::::::0|h[Helm of Awareness]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helm-of-awareness"
+  },
+  {
+    "itemId": 18718,
+    "name": "Grand Crusader's Helm",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16580,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Grand Crusader's Helm"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "584 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+15 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18718::::::::::0|h[Grand Crusader's Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grand-crusaders-helm"
+  },
+  {
+    "itemId": 20246,
+    "name": "90 Green Warrior Helm",
+    "icon": "inv_helmet_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 52788,
+    "quality": "Uncommon",
+    "itemLevel": 90,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "90 Green Warrior Helm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "681 Armor"
+      },
+      {
+        "label": "+27 Stamina"
+      },
+      {
+        "label": "+28 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20246::::::::::0|h[90 Green Warrior Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "90-green-warrior-helm"
+  },
+  {
+    "itemId": 20263,
+    "name": "Gurubashi Helm",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 18495,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Gurubashi Helm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "549 Armor"
+      },
+      {
+        "label": "+22 Strength"
+      },
+      {
+        "label": "+21 Agility"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20263::::::::::0|h[Gurubashi Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gurubashi-helm"
+  },
+  {
+    "itemId": 20286,
+    "name": "63 Green Warrior Helm",
+    "icon": "inv_helmet_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14518,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "63 Green Warrior Helm"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "485 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+19 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20286::::::::::0|h[63 Green Warrior Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "63-green-warrior-helm"
+  },
+  {
+    "itemId": 20521,
+    "name": "Fury Visor",
+    "icon": "inv_helmet_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9937,
+    "quality": "Rare",
+    "itemLevel": 52,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Fury Visor"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "445 Armor"
+      },
+      {
+        "label": "+18 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8425,
+          "name": "Voodoo Feathers",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:20521::::::::::0|h[Fury Visor]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fury-visor"
+  },
+  {
+    "itemId": 20551,
+    "name": "Darkrune Helm",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17352,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Darkrune Helm"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "534 Armor"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+25 Shadow"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20551::::::::::0|h[Darkrune Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "darkrune-helm"
+  },
+  {
+    "itemId": 21803,
+    "name": "Helm of the Holy Avenger",
+    "icon": "inv_helmet_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 21253,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helm of the Holy Avenger"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "574 Armor"
+      },
+      {
+        "label": "+18 Intellect"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:21803::::::::::0|h[Helm of the Holy Avenger]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helm-of-the-holy-avenger"
+  },
+  {
+    "itemId": 22223,
+    "name": "Foreman's Head Protector",
+    "icon": "inv_helmet_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11291,
+    "quality": "Rare",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Foreman's Head Protector"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "469 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+11 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22223::::::::::0|h[Foreman's Head Protector]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "foremans-head-protector"
+  },
+  {
+    "itemId": 22411,
+    "name": "Helm of the Executioner",
+    "icon": "inv_helmet_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16476,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helm of the Executioner"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "534 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22411::::::::::0|h[Helm of the Executioner]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helm-of-the-executioner"
+  },
+  {
+    "itemId": 23276,
+    "name": "Lieutenant Commander's Lamellar Headguard",
+    "icon": "inv_helmet_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12826,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Lieutenant Commander's Lamellar Headguard"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "598 Armor"
+      },
+      {
+        "label": "+19 Stamina"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+12 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23276::::::::::0|h[Lieutenant Commander's Lamellar Headguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lieutenant-commanders-lamellar-headguard"
+  },
+  {
+    "itemId": 23314,
+    "name": "Lieutenant Commander's Plate Helm",
+    "icon": "inv_helmet_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12729,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Lieutenant Commander's Plate Helm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "598 Armor"
+      },
+      {
+        "label": "+27 Stamina"
+      },
+      {
+        "label": "+23 StrengthDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23314::::::::::0|h[Lieutenant Commander's Plate Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lieutenant-commanders-plate-helm"
+  },
+  {
+    "itemId": 55530,
+    "name": "Reflective Helmet",
+    "icon": "inv_helmet_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 48150,
+    "quality": "Rare",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Reflective Helmet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "654 Armor"
+      },
+      {
+        "label": "+25 Stamina"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+30 Arcane"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:55530::::::::::0|h[Reflective Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "reflective-helmet"
+  },
+  {
+    "itemId": 60291,
+    "name": "Rune-Etched Crown",
+    "icon": "inv_helmet_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16674,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Rune-Etched Crown"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "534 Armor"
+      },
+      {
+        "label": "+25 Strength"
+      },
+      {
+        "label": "+5 Agility"
+      },
+      {
+        "label": "+5 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60291::::::::::0|h[Rune-Etched Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rune-etched-crown"
+  },
+  {
+    "itemId": 60451,
+    "name": "Kul Tiras Marine Helmet",
+    "icon": "inv_helmet_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14108,
+    "quality": "Rare",
+    "itemLevel": 59,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Kul Tiras Marine Helmet"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "494 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+13 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40303,
+          "name": "The Tower of Lapidis X",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:60451::::::::::0|h[Kul Tiras Marine Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "kul-tiras-marine-helmet"
+  },
+  {
+    "itemId": 60562,
+    "name": "Ragereaver's Helm",
+    "icon": "inv_helmet_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16609,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Ragereaver's Helm"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "484 Armor"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60562::::::::::0|h[Ragereaver's Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ragereavers-helm"
+  },
+  {
+    "itemId": 61003,
+    "name": "Timeskipper's Helm of Alacrity",
+    "icon": "inv_helmet_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 18553,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Timeskipper's Helm of Alacrity"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "549 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+22 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61003::::::::::0|h[Timeskipper's Helm of Alacrity]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "timeskippers-helm-of-alacrity"
+  },
+  {
+    "itemId": 61047,
+    "name": "Monolith Headguard",
+    "icon": "inv_helmet_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 18973,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Monolith Headguard"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "558 Armor"
+      },
+      {
+        "label": "+22 Strength"
+      },
+      {
+        "label": "+20 Agility"
+      },
+      {
+        "label": "+22 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61047::::::::::0|h[Monolith Headguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monolith-headguard"
+  },
+  {
+    "itemId": 61313,
+    "name": "Greymane Helmet",
+    "icon": "inv_helmet_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9103,
+    "quality": "Rare",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Greymane Helmet"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "422 Armor"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61313::::::::::0|h[Greymane Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "greymane-helmet"
+  },
+  {
+    "itemId": 61570,
+    "name": "Old Champion's Helmet",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16357,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Old Champion's Helmet"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "534 Armor"
+      },
+      {
+        "label": "+21 Stamina"
+      },
+      {
+        "label": "+17 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61570::::::::::0|h[Old Champion's Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "old-champions-helmet"
+  },
+  {
+    "itemId": 61590,
+    "name": "Helmet of the Elite Guard",
+    "icon": "inv_helmet_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16692,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helmet of the Elite Guard"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "534 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+11 Agility"
+      },
+      {
+        "label": "+24 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61590::::::::::0|h[Helmet of the Elite Guard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helmet-of-the-elite-guard"
+  },
+  {
+    "itemId": 70056,
+    "name": "Horned Helm of Ancient Kings",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 24512,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Horned Helm of Ancient Kings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "750 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+21 Strength"
+      },
+      {
+        "label": "+8 Nature"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:70056::::::::::0|h[Horned Helm of Ancient Kings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "horned-helm-of-ancient-kings"
+  },
+  {
+    "itemId": 80810,
+    "name": "Lost Defender's Helmet",
+    "icon": "inv_helmet_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 1352,
+    "quality": "Rare",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Lost Defender's Helmet"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "388 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80810::::::::::0|h[Lost Defender's Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lost-defenders-helmet"
+  },
+  {
+    "itemId": 81050,
+    "name": "Crown of the Dark Reaver",
+    "icon": "inv_helmet_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3014,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Crown of the Dark Reaver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "525 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+11 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81050::::::::::0|h[Crown of the Dark Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crown-of-the-dark-reaver"
+  },
+  {
+    "itemId": 81124,
+    "name": "Helmet of the Scarlet Avenger",
+    "icon": "inv_helmet_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5024,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helmet of the Scarlet Avenger"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "519 Armor"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81124::::::::::0|h[Helmet of the Scarlet Avenger]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helmet-of-the-scarlet-avenger"
+  },
+  {
+    "itemId": 81131,
+    "name": "Helmet of the Scarlet Avenger",
+    "icon": "inv_helmet_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5024,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helmet of the Scarlet Avenger"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "519 Armor"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81131::::::::::0|h[Helmet of the Scarlet Avenger]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helmet-of-the-scarlet-avenger"
+  },
+  {
+    "itemId": 82953,
+    "name": "X-54 Guardian Ocular Implants",
+    "icon": "inv_gizmo_newgoggles",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 25821,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "X-54 Guardian Ocular Implants"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "534 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+24 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 80605,
+          "name": "The First Opening of The Dark Portal",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:82953::::::::::0|h[X-54 Guardian Ocular Implants]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "x-54-guardian-ocular-implants"
+  },
+  {
+    "itemId": 83415,
+    "name": "Steel Plate Barbute",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9131,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Steel Plate Barbute"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "510 Armor"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "+30 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83415::::::::::0|h[Steel Plate Barbute]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "steel-plate-barbute"
+  },
+  {
+    "itemId": 83493,
+    "name": "Enforcer Captain's Hat",
+    "icon": "inv_helmet_66",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12500,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Enforcer Captain's Hat"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "389 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83493::::::::::0|h[Enforcer Captain's Hat]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "enforcer-captains-hat"
+  },
+  {
+    "itemId": 7922,
+    "name": "Steel Plate Helm",
+    "icon": "inv_helmet_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3964,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Steel Plate Helm"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "395 Armor"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2756,
+          "name": "The Old Ways",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:7922::::::::::0|h[Steel Plate Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "steel-plate-helm"
+  },
+  {
+    "itemId": 7934,
+    "name": "Heavy Mithril Helm",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5790,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Heavy Mithril Helm"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "469 Armor"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7934::::::::::0|h[Heavy Mithril Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-mithril-helm"
+  },
+  {
+    "itemId": 7937,
+    "name": "Ornate Mithril Helm",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6763,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Ornate Mithril Helm"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "383 Armor"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 5283,
+          "name": "The Art of the Armorsmith",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 5301,
+          "name": "The Art of the Armorsmith",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:7937::::::::::0|h[Ornate Mithril Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ornate-mithril-helm"
+  },
+  {
+    "itemId": 8092,
+    "name": "Platemail Helm",
+    "icon": "inv_helmet_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4062,
+    "quality": "Common",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Platemail Helm"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "371 Armor"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:8092::::::::::0|h[Platemail Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "platemail-helm"
+  },
+  {
+    "itemId": 8161,
+    "name": "Jouster's Visor",
+    "icon": "inv_helmet_57",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3390,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 40,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Jouster's Visor"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "215 Armor"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8161::::::::::0|h[Jouster's Visor]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jousters-visor"
+  },
+  {
+    "itemId": 8279,
+    "name": "Valorous Helm",
+    "icon": "inv_helmet_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5937,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Valorous Helm"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "376 Armor"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8279::::::::::0|h[Valorous Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "valorous-helm"
+  },
+  {
+    "itemId": 8755,
+    "name": "Light Plate Helmet",
+    "icon": "inv_helmet_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3728,
+    "quality": "Poor",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Light Plate Helmet"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "383 Armor"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:8755::::::::::0|h[Light Plate Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "light-plate-helmet"
+  },
+  {
+    "itemId": 9664,
+    "name": "Sentinel's Guard",
+    "icon": "inv_helmet_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5002,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Sentinel's Guard"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "355 Armor"
+      },
+      {
+        "label": "+6 Spirit"
+      },
+      {
+        "label": "+9 Agility"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2871,
+          "name": "Delivering the Relic",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:9664::::::::::0|h[Sentinel's Guard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sentinels-guard"
+  },
+  {
+    "itemId": 10090,
+    "name": "Gothic Plate Helmet",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5148,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Gothic Plate Helmet"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "362 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10090::::::::::0|h[Gothic Plate Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gothic-plate-helmet"
+  },
+  {
+    "itemId": 10132,
+    "name": "Revenant Helmet",
+    "icon": "inv_helmet_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7608,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Revenant Helmet"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "397 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10132::::::::::0|h[Revenant Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revenant-helmet"
+  },
+  {
+    "itemId": 10168,
+    "name": "Templar Crown",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10032,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Templar Crown"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "434 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10168::::::::::0|h[Templar Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "templar-crown"
+  },
+  {
+    "itemId": 10207,
+    "name": "Overlord's Crown",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6695,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Overlord's Crown"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "383 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10207::::::::::0|h[Overlord's Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "overlords-crown"
+  },
+  {
+    "itemId": 10241,
+    "name": "Heavy Lamellar Helm",
+    "icon": "inv_helmet_21",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8425,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Heavy Lamellar Helm"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "411 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10241::::::::::0|h[Heavy Lamellar Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-lamellar-helm"
+  },
+  {
+    "itemId": 10372,
+    "name": "Imbued Plate Helmet",
+    "icon": "inv_helmet_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11750,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Imbued Plate Helmet"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "456 Armor"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10372::::::::::0|h[Imbued Plate Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "imbued-plate-helmet"
+  },
+  {
+    "itemId": 10388,
+    "name": "Hyperion Helm",
+    "icon": "inv_helmet_12",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14068,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Hyperion Helm"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "485 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10388::::::::::0|h[Hyperion Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hyperion-helm"
+  },
+  {
+    "itemId": 12410,
+    "name": "Thorium Helm",
+    "icon": "inv_helmet_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10372,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Thorium Helm"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "434 Armor"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "+10 Nature"
+      },
+      {
+        "label": "+10 Frost"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "+10 Arcane"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12410::::::::::0|h[Thorium Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thorium-helm"
+  },
+  {
+    "itemId": 12427,
+    "name": "Imperial Plate Helm",
+    "icon": "inv_helmet_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12106,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Imperial Plate Helm"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "456 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "+28 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12427::::::::::0|h[Imperial Plate Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "imperial-plate-helm"
+  },
+  {
+    "itemId": 12612,
+    "name": "Runic Plate Helm",
+    "icon": "inv_helmet_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12956,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Runic Plate Helm"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "621 Armor"
+      },
+      {
+        "label": "+13 Fire"
+      },
+      {
+        "label": "+13 Nature"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12612::::::::::0|h[Runic Plate Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "runic-plate-helm"
+  },
+  {
+    "itemId": 14831,
+    "name": "Symbolic Crown",
+    "icon": "inv_crown_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4120,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Symbolic Crown"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "310 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14831::::::::::0|h[Symbolic Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "symbolic-crown"
+  },
+  {
+    "itemId": 14843,
+    "name": "Tyrant's Helm",
+    "icon": "inv_helmet_12",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5036,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Tyrant's Helm"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "362 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14843::::::::::0|h[Tyrant's Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tyrants-helm"
+  },
+  {
+    "itemId": 14849,
+    "name": "Sunscale Helmet",
+    "icon": "inv_helmet_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8271,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Sunscale Helmet"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "411 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+6 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14849::::::::::0|h[Sunscale Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sunscale-helmet"
+  },
+  {
+    "itemId": 14858,
+    "name": "Vanguard Headdress",
+    "icon": "inv_helmet_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11740,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Vanguard Headdress"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "448 Armor"
+      },
+      {
+        "label": "+21 Stamina"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14858::::::::::0|h[Vanguard Headdress]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "vanguard-headdress"
+  },
+  {
+    "itemId": 14866,
+    "name": "Warleader's Crown",
+    "icon": "inv_helmet_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13301,
+    "quality": "Uncommon",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Warleader's Crown"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "478 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14866::::::::::0|h[Warleader's Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warleaders-crown"
+  },
+  {
+    "itemId": 14899,
+    "name": "Saltstone Helm",
+    "icon": "inv_helmet_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3731,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 40,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Saltstone Helm"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "244 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14899::::::::::0|h[Saltstone Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "saltstone-helm"
+  },
+  {
+    "itemId": 14919,
+    "name": "Jade Circlet",
+    "icon": "inv_belt_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7717,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Jade Circlet"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "404 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14919::::::::::0|h[Jade Circlet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jade-circlet"
+  },
+  {
+    "itemId": 14925,
+    "name": "Lofty Helm",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10562,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Lofty Helm"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "441 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14925::::::::::0|h[Lofty Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lofty-helm"
+  },
+  {
+    "itemId": 14935,
+    "name": "Heroic Skullcap",
+    "icon": "inv_helmet_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11885,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Heroic Skullcap"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "463 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14935::::::::::0|h[Heroic Skullcap]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heroic-skullcap"
+  },
+  {
+    "itemId": 14944,
+    "name": "Warbringer's Crown",
+    "icon": "inv_belt_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4806,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Warbringer's Crown"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "355 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14944::::::::::0|h[Warbringer's Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warbringers-crown"
+  },
+  {
+    "itemId": 14961,
+    "name": "High Chief's Crown",
+    "icon": "inv_helmet_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9259,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "High Chief's Crown"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "426 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14961::::::::::0|h[High Chief's Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-chiefs-crown"
+  },
+  {
+    "itemId": 14969,
+    "name": "Glorious Headdress",
+    "icon": "inv_helmet_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12241,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Glorious Headdress"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "456 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14969::::::::::0|h[Glorious Headdress]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "glorious-headdress"
+  },
+  {
+    "itemId": 16026,
+    "name": "PVP Plate Helm Alliance",
+    "icon": "inv_helmet_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7160,
+    "quality": "Common",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "PVP Plate Helm Alliance"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "440 Armor"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:16026::::::::::0|h[PVP Plate Helm Alliance]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pvp-plate-helm-alliance"
+  },
+  {
+    "itemId": 18480,
+    "name": "Scarab Plate Helm",
+    "icon": "inv_helmet_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11860,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Scarab Plate Helm"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "463 Armor"
+      },
+      {
+        "label": "+20 Intellect"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:18480::::::::::0|h[Scarab Plate Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "scarab-plate-helm"
+  },
+  {
+    "itemId": 20640,
+    "name": "Southsea Head Bucket",
+    "icon": "inv_helmet_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4812,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Southsea Head Bucket"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "355 Armor"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8366,
+          "name": "Southsea Shakedown",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:20640::::::::::0|h[Southsea Head Bucket]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "southsea-head-bucket"
+  },
+  {
+    "itemId": 60700,
+    "name": "Scrapforged Helmet",
+    "icon": "inv_helmet_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12328,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Scrapforged Helmet"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "456 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+5 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40491,
+          "name": "Scrap Forager",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60700::::::::::0|h[Scrapforged Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "scrapforged-helmet"
+  },
+  {
+    "itemId": 60974,
+    "name": "Tel Co. Protective Helmet",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11834,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Tel Co. Protective Helmet"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "471 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+11 Agility"
+      },
+      {
+        "label": "+10 Nature"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40742,
+          "name": "The Work Must Continue",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60974::::::::::0|h[Tel Co. Protective Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tel-co-protective-helmet"
+  },
+  {
+    "itemId": 61070,
+    "name": "Kabuto of the Protector",
+    "icon": "inv_helmet_160k",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13982,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Kabuto of the Protector"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "461 Armor"
+      },
+      {
+        "label": "+21 Stamina"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+3 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61070::::::::::0|h[Kabuto of the Protector]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "kabuto-of-the-protector"
+  },
+  {
+    "itemId": 61513,
+    "name": "Savage Helmet",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6453,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Savage Helmet"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "376 Armor"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+13 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41043,
+          "name": "The Ruins of Isildien",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:61513::::::::::0|h[Savage Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "savage-helmet"
+  },
+  {
+    "itemId": 61550,
+    "name": "Sanctified Helm",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16650,
+    "quality": "Uncommon",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Sanctified Helm"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "478 Armor"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+11 Agility"
+      },
+      {
+        "label": "+15 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61550::::::::::0|h[Sanctified Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sanctified-helm"
+  },
+  {
+    "itemId": 61573,
+    "name": "Scrapmetal Helm",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6057,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Scrapmetal Helm"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "355 Armor"
+      },
+      {
+        "label": "+12 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61573::::::::::0|h[Scrapmetal Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "scrapmetal-helm"
+  },
+  {
+    "itemId": 61602,
+    "name": "Gilneas Brigade Helmet",
+    "icon": "inv_helmet_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5097,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Gilneas Brigade Helmet"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "364 Armor"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40966,
+          "name": "The Deed to Ravenshire",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:61602::::::::::0|h[Gilneas Brigade Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gilneas-brigade-helmet"
+  },
+  {
+    "itemId": 60610,
+    "name": "Ogre-Head Pauldrons",
+    "icon": "inv_shoulder_26",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12988,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Ogre-Head Pauldrons"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "417 Armor"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40424,
+          "name": "Report from a Blasted Land",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60610::::::::::0|h[Ogre-Head Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ogre-head-pauldrons"
+  },
+  {
+    "itemId": 20213,
+    "name": "Belt of Shrunken Heads",
+    "icon": "inv_belt_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16337,
+    "quality": "Rare",
+    "itemLevel": 70,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Belt of Shrunken Heads"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "408 Armor"
+      },
+      {
+        "label": "+23 Strength"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8201,
+          "name": "A Collection of Heads",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:20213::::::::::0|h[Belt of Shrunken Heads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "belt-of-shrunken-heads"
+  }
+]

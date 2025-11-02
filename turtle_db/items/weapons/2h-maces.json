@@ -1,0 +1,8231 @@
+[
+  {
+    "itemId": 2915,
+    "name": "Taran Icebreaker",
+    "icon": "inv_hammer_02",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 55289,
+    "quality": "Epic",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Taran Icebreaker"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "91 - 137  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:2915::::::::::0|h[Taran Icebreaker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "taran-icebreaker"
+  },
+  {
+    "itemId": 3194,
+    "name": "Black Malice",
+    "icon": "inv_mace_01",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2495,
+    "quality": "Rare",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Black Malice"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "48 - 73  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:3194::::::::::0|h[Black Malice]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "black-malice"
+  },
+  {
+    "itemId": 3203,
+    "name": "Dense Triangle Mace",
+    "icon": "inv_mace_13",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 5436,
+    "quality": "Rare",
+    "itemLevel": 28,
+    "requiredLevel": 23,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Dense Triangle Mace"
+      },
+      {
+        "label": "Requires Level 23"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "44 - 66  Damage"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 95 / 95"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:3203::::::::::0|h[Dense Triangle Mace]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dense-triangle-mace"
+  },
+  {
+    "itemId": 7730,
+    "name": "Cobalt Crusher",
+    "icon": "inv_hammer_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 10146,
+    "quality": "Rare",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Cobalt Crusher"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "74 - 111  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:7730::::::::::0|h[Cobalt Crusher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cobalt-crusher"
+  },
+  {
+    "itemId": 11608,
+    "name": "Dark Iron Pulverizer",
+    "icon": "inv_hammer_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 45760,
+    "quality": "Rare",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Dark Iron Pulverizer"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "140 - 211  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11608::::::::::0|h[Dark Iron Pulverizer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dark-iron-pulverizer"
+  },
+  {
+    "itemId": 11803,
+    "name": "Force of Magma",
+    "icon": "inv_hammer_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 50177,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Force of Magma"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "123 - 185  Damage"
+      },
+      {
+        "label": "+14 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11803::::::::::0|h[Force of Magma]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "force-of-magma"
+  },
+  {
+    "itemId": 12776,
+    "name": "Enchanted Battlehammer",
+    "icon": "inv_hammer_05",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 48124,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Enchanted Battlehammer"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "100 - 150  Damage"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12776::::::::::0|h[Enchanted Battlehammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "enchanted-battlehammer"
+  },
+  {
+    "itemId": 13046,
+    "name": "Blanchard's Stout",
+    "icon": "inv_hammer_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 35042,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Blanchard's Stout"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "107 - 162  Damage"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+5 Fire"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13046::::::::::0|h[Blanchard's Stout]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blanchards-stout"
+  },
+  {
+    "itemId": 13167,
+    "name": "Fist of Omokk",
+    "icon": "inv_hammer_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 59410,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Fist of Omokk"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "135 - 204  Damage"
+      },
+      {
+        "label": "+29 Strength"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13167::::::::::0|h[Fist of Omokk]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fist-of-omokk"
+  },
+  {
+    "itemId": 14531,
+    "name": "Frightskull Shaft",
+    "icon": "inv_hammer_13",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 59891,
+    "quality": "Rare",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Frightskull Shaft"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "137 - 206  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:14531::::::::::0|h[Frightskull Shaft]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "frightskull-shaft"
+  },
+  {
+    "itemId": 17073,
+    "name": "Earthshaker",
+    "icon": "inv_hammer_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 113631,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Earthshaker"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "175 - 263  Damage"
+      },
+      {
+        "label": "+22 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:17073::::::::::0|h[Earthshaker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthshaker"
+  },
+  {
+    "itemId": 17182,
+    "name": "Sulfuras, Hand of Ragnaros",
+    "icon": "inv_hammer_unique_sulfuras",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 332623,
+    "quality": "Legendary",
+    "itemLevel": 80,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Sulfuras, Hand of Ragnaros"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "223 - 372  Damage"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+30 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 145 / 145"
+      }
+    ],
+    "itemLink": "|cffff8000|Hitem:17182::::::::::0|h[Sulfuras, Hand of Ragnaros]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sulfuras-hand-of-ragnaros"
+  },
+  {
+    "itemId": 17193,
+    "name": "Sulfuron Hammer",
+    "icon": "inv_hammer_unique_sulfuras",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 122311,
+    "quality": "Epic",
+    "itemLevel": 67,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Sulfuron Hammer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "176 - 295  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:17193::::::::::0|h[Sulfuron Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sulfuron-hammer"
+  },
+  {
+    "itemId": 18420,
+    "name": "Bonecrusher",
+    "icon": "inv_mace_02",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 71236,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bonecrusher"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "129 - 194  Damage"
+      },
+      {
+        "label": "+30 StrengthDurability"
+      },
+      {
+        "label": "+42 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 7462,
+          "name": "The Treasure of the Shen'dralar",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 7877,
+          "name": "The Treasure of the Shen'dralar",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:18420::::::::::0|h[Bonecrusher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bonecrusher"
+  },
+  {
+    "itemId": 18717,
+    "name": "Hammer of the Grand Crusader",
+    "icon": "inv_hammer_06",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 68818,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Hammer of the Grand Crusader"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "116 - 175  Damage"
+      },
+      {
+        "label": "+26 Intellect"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+9 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18717::::::::::0|h[Hammer of the Grand Crusader]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hammer-of-the-grand-crusader"
+  },
+  {
+    "itemId": 18803,
+    "name": "Finkle's Lava Dredger",
+    "icon": "inv_gizmo_02",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 135594,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Finkle's Lava Dredger"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "129 - 215  Damage"
+      },
+      {
+        "label": "+25 Stamina"
+      },
+      {
+        "label": "+24 Intellect"
+      },
+      {
+        "label": "+15 Fire"
+      },
+      {
+        "label": "+210 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18803::::::::::0|h[Finkle's Lava Dredger]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "finkles-lava-dredger"
+  },
+  {
+    "itemId": 18867,
+    "name": "Grand Marshal's Battle Hammer",
+    "icon": "inv_hammer_03",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 62542,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Grand Marshal's Battle Hammer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "262 - 380  Damage"
+      },
+      {
+        "label": "+43 Stamina"
+      },
+      {
+        "label": "+28 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18867::::::::::0|h[Grand Marshal's Battle Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grand-marshals-battle-hammer"
+  },
+  {
+    "itemId": 18868,
+    "name": "High Warlord's Pulverizer",
+    "icon": "inv_hammer_10",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 62763,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "High Warlord's Pulverizer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "262 - 380  Damage"
+      },
+      {
+        "label": "+43 Stamina"
+      },
+      {
+        "label": "+28 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18868::::::::::0|h[High Warlord's Pulverizer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-warlords-pulverizer"
+  },
+  {
+    "itemId": 19323,
+    "name": "The Unstoppable Force",
+    "icon": "inv_hammer_13",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 312980,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "The Unstoppable Force"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "175 - 292  Damage"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19323::::::::::0|h[The Unstoppable Force]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-unstoppable-force"
+  },
+  {
+    "itemId": 19357,
+    "name": "Herald of Woe",
+    "icon": "inv_mace_05",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 166093,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Herald of Woe"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "199 - 300  Damage"
+      },
+      {
+        "label": "+31 Strength"
+      },
+      {
+        "label": "+20 Intellect"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+22 StaminaDurability"
+      },
+      {
+        "label": "+210 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19357::::::::::0|h[Herald of Woe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "herald-of-woe"
+  },
+  {
+    "itemId": 19358,
+    "name": "Draconic Maul",
+    "icon": "inv_mace_05",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 130638,
+    "quality": "Epic",
+    "itemLevel": 70,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Draconic Maul"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "187 - 282  Damage"
+      },
+      {
+        "label": "+27 Strength"
+      },
+      {
+        "label": "+19 StaminaDurability"
+      },
+      {
+        "label": "+140 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19358::::::::::0|h[Draconic Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "draconic-maul"
+  },
+  {
+    "itemId": 19918,
+    "name": "Jeklik's Crusher",
+    "icon": "inv_mace_19",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 111003,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Jeklik's Crusher"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "159 - 248  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19918::::::::::0|h[Jeklik's Crusher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jekliks-crusher"
+  },
+  {
+    "itemId": 20696,
+    "name": "Crystal Spiked Maul",
+    "icon": "inv_hammer_10",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 70171,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Crystal Spiked Maul"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "168 - 252  Damage"
+      },
+      {
+        "label": "+16 StrengthDurability"
+      },
+      {
+        "label": "+42 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20696::::::::::0|h[Crystal Spiked Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crystal-spiked-maul"
+  },
+  {
+    "itemId": 21188,
+    "name": "Fist of Cenarius",
+    "icon": "inv_hammer_23",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 111220,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Fist of Cenarius"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "175 - 263  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8573,
+          "name": "Champion's Battlegear",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21188::::::::::0|h[Fist of Cenarius]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fist-of-cenarius"
+  },
+  {
+    "itemId": 21703,
+    "name": "Hammer of Ji'zhi",
+    "icon": "inv_mace_21",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 162298,
+    "quality": "Epic",
+    "itemLevel": 73,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Hammer of Ji'zhi"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "198 - 297  Damage"
+      },
+      {
+        "label": "+22 Intellect"
+      },
+      {
+        "label": "+26 Stamina"
+      },
+      {
+        "label": "+16 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21703::::::::::0|h[Hammer of Ji'zhi]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hammer-of-jizhi"
+  },
+  {
+    "itemId": 21806,
+    "name": "Gavel of Qiraji Authority",
+    "icon": "inv_hammer_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 103686,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Gavel of Qiraji Authority"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "108 - 162  Damage"
+      },
+      {
+        "label": "+16 Intellect"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:21806::::::::::0|h[Gavel of Qiraji Authority]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gavel-of-qiraji-authority"
+  },
+  {
+    "itemId": 22333,
+    "name": "Hammer of Divine Might",
+    "icon": "inv_hammer_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 65383,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Hammer of Divine Might"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "89 - 134  Damage"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22333::::::::::0|h[Hammer of Divine Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hammer-of-divine-might"
+  },
+  {
+    "itemId": 22348,
+    "name": "Doomulus Prime",
+    "icon": "inv_hammer_10",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 76507,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Doomulus Prime"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "158 - 265  Damage"
+      },
+      {
+        "label": "+22 Stamina"
+      },
+      {
+        "label": "+22 StrengthDurability"
+      },
+      {
+        "label": "+70 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9023,
+          "name": "The Perfect Poison",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:22348::::::::::0|h[Doomulus Prime]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "doomulus-prime"
+  },
+  {
+    "itemId": 22798,
+    "name": "Might of Menethil",
+    "icon": "inv_mace_25",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 326465,
+    "quality": "Epic",
+    "itemLevel": 89,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Might of Menethil"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "289 - 435  Damage"
+      },
+      {
+        "label": "+46 Stamina"
+      },
+      {
+        "label": "+20 StrengthDurability"
+      },
+      {
+        "label": "+406 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:22798::::::::::0|h[Might of Menethil]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "might-of-menethil"
+  },
+  {
+    "itemId": 22809,
+    "name": "Maul of the Redeemed Crusader",
+    "icon": "inv_mace_26",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 260674,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Maul of the Redeemed Crusader"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "259 - 389  Damage"
+      },
+      {
+        "label": "+20 Intellect"
+      },
+      {
+        "label": "+29 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:22809::::::::::0|h[Maul of the Redeemed Crusader]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "maul-of-the-redeemed-crusader"
+  },
+  {
+    "itemId": 23455,
+    "name": "Grand Marshal's Demolisher",
+    "icon": "inv_hammer_23",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 57053,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Grand Marshal's Demolisher"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "262 - 380  Damage"
+      },
+      {
+        "label": "+28 Stamina"
+      },
+      {
+        "label": "+27 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:23455::::::::::0|h[Grand Marshal's Demolisher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grand-marshals-demolisher"
+  },
+  {
+    "itemId": 23465,
+    "name": "High Warlord's Destroyer",
+    "icon": "inv_mace_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 57089,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "High Warlord's Destroyer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "262 - 380  Damage"
+      },
+      {
+        "label": "+28 Stamina"
+      },
+      {
+        "label": "+27 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:23465::::::::::0|h[High Warlord's Destroyer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-warlords-destroyer"
+  },
+  {
+    "itemId": 41076,
+    "name": "Aspect of Seradane",
+    "icon": "inv_mace_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 198954,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Aspect of Seradane"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "181 - 335  Damage"
+      },
+      {
+        "label": "+28 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:41076::::::::::0|h[Aspect of Seradane]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "aspect-of-seradane"
+  },
+  {
+    "itemId": 55021,
+    "name": "Alvelo's Reinforced Bludgeon",
+    "icon": "inv_hammer_10",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 16000,
+    "quality": "Rare",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Alvelo's Reinforced Bludgeon"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "96 - 146  Damage"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:55021::::::::::0|h[Alvelo's Reinforced Bludgeon]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "alvelos-reinforced-bludgeon"
+  },
+  {
+    "itemId": 55100,
+    "name": "Checkmate",
+    "icon": "inv_checkmate",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 400399,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Checkmate"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "273 - 419  Damage"
+      },
+      {
+        "label": "+40 Agility"
+      },
+      {
+        "label": "+25 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55100::::::::::0|h[Checkmate]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "checkmate"
+  },
+  {
+    "itemId": 55504,
+    "name": "Anchor of the Wavecutter",
+    "icon": "inv_generic_anchor",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 106552,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Anchor of the Wavecutter"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "182 - 269  Damage"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+11 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55504::::::::::0|h[Anchor of the Wavecutter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "anchor-of-the-wavecutter"
+  },
+  {
+    "itemId": 60010,
+    "name": "Towerforge Demolisher",
+    "icon": "inv_hammer_19",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 113420,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Towerforge Demolisher"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "173 - 291  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:60010::::::::::0|h[Towerforge Demolisher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "towerforge-demolisher"
+  },
+  {
+    "itemId": 60099,
+    "name": "Battery-Powered Crowd Pummeler",
+    "icon": "inv_mace_14",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 0,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Battery-Powered Crowd Pummeler"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "99 - 151  Damage"
+      },
+      {
+        "label": "+21 Strength"
+      },
+      {
+        "label": "+13 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60099::::::::::0|h[Battery-Powered Crowd Pummeler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "battery-powered-crowd-pummeler"
+  },
+  {
+    "itemId": 61044,
+    "name": "Gavel of the Northwind",
+    "icon": "inv_hammer_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 76123,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Gavel of the Northwind"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "250 Armor"
+      },
+      {
+        "label": "110 - 170  Damage"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "+84 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61044::::::::::0|h[Gavel of the Northwind]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gavel-of-the-northwind"
+  },
+  {
+    "itemId": 61185,
+    "name": "Dawnstone Hammer",
+    "icon": "inv_mace_14",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 91806,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Dawnstone Hammer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "142 - 212  Damage"
+      },
+      {
+        "label": "+25 Intellect"
+      },
+      {
+        "label": "+13 Spirit"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61185::::::::::0|h[Dawnstone Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dawnstone-hammer"
+  },
+  {
+    "itemId": 61277,
+    "name": "Fist of the Forgotten Order",
+    "icon": "inv_mace_33",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 147303,
+    "quality": "Epic",
+    "itemLevel": 70,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Fist of the Forgotten Order"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "190 - 293  Damage"
+      },
+      {
+        "label": "+25 Strength"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61277::::::::::0|h[Fist of the Forgotten Order]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fist-of-the-forgotten-order"
+  },
+  {
+    "itemId": 61532,
+    "name": "Grand Slammer",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 59953,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Grand Slammer"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "141 - 231  Damage"
+      },
+      {
+        "label": "+26 Strength"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61532::::::::::0|h[Grand Slammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grand-slammer"
+  },
+  {
+    "itemId": 80781,
+    "name": "Experiment D2X3",
+    "icon": "inv_hammer_10",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 18226,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Experiment D2X3"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+9 Intellect"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80781::::::::::0|h[Experiment D2X3]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "experiment-d2x3"
+  },
+  {
+    "itemId": 81199,
+    "name": "Ancestral War Totem",
+    "icon": "inv_staff_03",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 18641,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Ancestral War Totem"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "125 - 197  Damage"
+      },
+      {
+        "label": "+15 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81199::::::::::0|h[Ancestral War Totem]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ancestral-war-totem"
+  },
+  {
+    "itemId": 83060,
+    "name": "Carved Ragetotem",
+    "icon": "ability_smash",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 64531,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 59,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Carved Ragetotem"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "50 Armor"
+      },
+      {
+        "label": "139 - 206  Damage"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83060::::::::::0|h[Carved Ragetotem]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "carved-ragetotem"
+  },
+  {
+    "itemId": 83061,
+    "name": "Carved Grimtotem",
+    "icon": "ability_smash",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 64531,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 59,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Carved Grimtotem"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "50 Armor"
+      },
+      {
+        "label": "145 - 197  Damage"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83061::::::::::0|h[Carved Grimtotem]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "carved-grimtotem"
+  },
+  {
+    "itemId": 83062,
+    "name": "Carved Runetotem",
+    "icon": "ability_smash",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 64531,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 59,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Carved Runetotem"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "50 Armor"
+      },
+      {
+        "label": "129 - 207  Damage"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+10 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83062::::::::::0|h[Carved Runetotem]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "carved-runetotem"
+  },
+  {
+    "itemId": 83063,
+    "name": "Bloodhoof Totem",
+    "icon": "ability_smash",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 64531,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 59,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bloodhoof Totem"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "50 Armor"
+      },
+      {
+        "label": "132 - 209  Damage"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83063::::::::::0|h[Bloodhoof Totem]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodhoof-totem"
+  },
+  {
+    "itemId": 83440,
+    "name": "Boneshatter Maul",
+    "icon": "inv_mace_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 76809,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Boneshatter Maul"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "156 - 250  Damage"
+      },
+      {
+        "label": "+35 StrengthDurability"
+      },
+      {
+        "label": "+70 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83440::::::::::0|h[Boneshatter Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "boneshatter-maul"
+  },
+  {
+    "itemId": 83496,
+    "name": "Enforcer's Blackjack",
+    "icon": "inv_mace_01",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 16250,
+    "quality": "Rare",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Enforcer's Blackjack"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "86 - 145  Damage"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83496::::::::::0|h[Enforcer's Blackjack]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "enforcers-blackjack"
+  },
+  {
+    "itemId": 1722,
+    "name": "Thornstone Sledgehammer",
+    "icon": "inv_hammer_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 19407,
+    "quality": "Rare",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Thornstone Sledgehammer"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "95 - 143  Damage"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+10 Nature"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:1722::::::::::0|h[Thornstone Sledgehammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thornstone-sledgehammer"
+  },
+  {
+    "itemId": 1976,
+    "name": "Slaghammer",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 6340,
+    "quality": "Rare",
+    "itemLevel": 29,
+    "requiredLevel": 24,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Slaghammer"
+      },
+      {
+        "label": "Requires Level 24"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "53 - 80  Damage"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+11 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:1976::::::::::0|h[Slaghammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "slaghammer"
+  },
+  {
+    "itemId": 1990,
+    "name": "Ballast Maul",
+    "icon": "inv_mace_06",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 10077,
+    "quality": "Uncommon",
+    "itemLevel": 36,
+    "requiredLevel": 31,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Ballast Maul"
+      },
+      {
+        "label": "Requires Level 31"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "67 - 101  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1990::::::::::0|h[Ballast Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ballast-maul"
+  },
+  {
+    "itemId": 3103,
+    "name": "Coldridge Hammer",
+    "icon": "inv_hammer_15",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 466,
+    "quality": "Uncommon",
+    "itemLevel": 12,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Coldridge Hammer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "18 - 27  Damage"
+      },
+      {
+        "label": "+1 Strength"
+      },
+      {
+        "label": "+1 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 314,
+          "name": "Protecting the Herd",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3103::::::::::0|h[Coldridge Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "coldridge-hammer"
+  },
+  {
+    "itemId": 3198,
+    "name": "Battering Hammer",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2741,
+    "quality": "Uncommon",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Battering Hammer"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "37 - 57  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3198::::::::::0|h[Battering Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "battering-hammer"
+  },
+  {
+    "itemId": 3208,
+    "name": "Conk Hammer",
+    "icon": "inv_mace_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 25378,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Conk Hammer"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "104 - 157  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3208::::::::::0|h[Conk Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "conk-hammer"
+  },
+  {
+    "itemId": 3440,
+    "name": "Bonecracker",
+    "icon": "inv_mace_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 640,
+    "quality": "Uncommon",
+    "itemLevel": 13,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bonecracker"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "23 - 35  Damage"
+      },
+      {
+        "label": "+3 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 408,
+          "name": "The Family Crypt",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3440::::::::::0|h[Bonecracker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bonecracker"
+  },
+  {
+    "itemId": 4570,
+    "name": "Birchwood Maul",
+    "icon": "inv_hammer_15",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 922,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 10,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Birchwood Maul"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "26 - 40  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4570::::::::::0|h[Birchwood Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "birchwood-maul"
+  },
+  {
+    "itemId": 5322,
+    "name": "Demolition Hammer",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 4016,
+    "quality": "Uncommon",
+    "itemLevel": 26,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Demolition Hammer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "32 - 49  Damage"
+      },
+      {
+        "label": "+9 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 893,
+          "name": "Weapons of Choice",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:5322::::::::::0|h[Demolition Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "demolition-hammer"
+  },
+  {
+    "itemId": 6205,
+    "name": "Burrowing Shovel",
+    "icon": "inv_misc_shovel_01",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 922,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 10,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Burrowing Shovel"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "18 - 28  Damage"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:6205::::::::::0|h[Burrowing Shovel]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "burrowing-shovel"
+  },
+  {
+    "itemId": 6327,
+    "name": "The Pacifier",
+    "icon": "inv_mace_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 12823,
+    "quality": "Rare",
+    "itemLevel": 37,
+    "requiredLevel": 32,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "The Pacifier"
+      },
+      {
+        "label": "Requires Level 32"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "104 - 156  Damage"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:6327::::::::::0|h[The Pacifier]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-pacifier"
+  },
+  {
+    "itemId": 6953,
+    "name": "Verigan's Fist",
+    "icon": "inv_hammer_05",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 7459,
+    "quality": "Rare",
+    "itemLevel": 31,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Verigan's Fist"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "65 - 99  Damage"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+12 Spirit"
+      },
+      {
+        "label": "+6 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1806,
+          "name": "The Test of Righteousness",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:6953::::::::::0|h[Verigan's Fist]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "verigans-fist"
+  },
+  {
+    "itemId": 6976,
+    "name": "Whirlwind Warhammer",
+    "icon": "inv_hammer_08",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 17264,
+    "quality": "Rare",
+    "itemLevel": 40,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Whirlwind Warhammer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "97 - 146  Damage"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1792,
+          "name": "Whirlwind Weapon",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:6976::::::::::0|h[Whirlwind Warhammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "whirlwind-warhammer"
+  },
+  {
+    "itemId": 7230,
+    "name": "Smite's Mighty Hammer",
+    "icon": "inv_hammer_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 3103,
+    "quality": "Rare",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Smite's Mighty Hammer"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "55 - 83  Damage"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:7230::::::::::0|h[Smite's Mighty Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "smites-mighty-hammer"
+  },
+  {
+    "itemId": 7723,
+    "name": "Mograine's Might",
+    "icon": "inv_mace_13",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 22567,
+    "quality": "Rare",
+    "itemLevel": 44,
+    "requiredLevel": 39,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Mograine's Might"
+      },
+      {
+        "label": "Requires Level 39"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "87 - 131  Damage"
+      },
+      {
+        "label": "+16 Spirit"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:7723::::::::::0|h[Mograine's Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mograines-might"
+  },
+  {
+    "itemId": 9391,
+    "name": "The Shoveler",
+    "icon": "inv_misc_shovel_02",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 12831,
+    "quality": "Rare",
+    "itemLevel": 37,
+    "requiredLevel": 32,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "The Shoveler"
+      },
+      {
+        "label": "Requires Level 32"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "88 - 133  Damage"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "+20 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9391::::::::::0|h[The Shoveler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-shoveler"
+  },
+  {
+    "itemId": 9413,
+    "name": "The Rockpounder",
+    "icon": "inv_hammer_12",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 32248,
+    "quality": "Rare",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "The Rockpounder"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "126 - 190  Damage"
+      },
+      {
+        "label": "+5 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9413::::::::::0|h[The Rockpounder]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-rockpounder"
+  },
+  {
+    "itemId": 9423,
+    "name": "The Jackhammer",
+    "icon": "inv_hammer_07",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 25463,
+    "quality": "Rare",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "The Jackhammer"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "79 - 119  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9423::::::::::0|h[The Jackhammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-jackhammer"
+  },
+  {
+    "itemId": 9449,
+    "name": "Manual Crowd Pummeler",
+    "icon": "inv_mace_14",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 9564,
+    "quality": "Rare",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Manual Crowd Pummeler"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "66 - 102  Damage"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9449::::::::::0|h[Manual Crowd Pummeler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "manual-crowd-pummeler"
+  },
+  {
+    "itemId": 10626,
+    "name": "Ragehammer",
+    "icon": "inv_hammer_06",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 36732,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Ragehammer"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "128 - 193  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:10626::::::::::0|h[Ragehammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ragehammer"
+  },
+  {
+    "itemId": 11265,
+    "name": "Cragwood Maul",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 16484,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Cragwood Maul"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "70 - 105  Damage"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1383,
+          "name": "Nothing But The Truth",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:11265::::::::::0|h[Cragwood Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cragwood-maul"
+  },
+  {
+    "itemId": 11921,
+    "name": "Impervious Giant",
+    "icon": "inv_hammer_08",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 54167,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Impervious Giant"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "30 Armor"
+      },
+      {
+        "label": "105 - 159  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11921::::::::::0|h[Impervious Giant]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "impervious-giant"
+  },
+  {
+    "itemId": 12528,
+    "name": "The Judge's Gavel",
+    "icon": "inv_hammer_07",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 37833,
+    "quality": "Rare",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "The Judge's Gavel"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "122 - 184  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12528::::::::::0|h[The Judge's Gavel]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-judges-gavel"
+  },
+  {
+    "itemId": 12796,
+    "name": "Hammer of the Titans",
+    "icon": "inv_hammer_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 70912,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Hammer of the Titans"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "163 - 246  Damage"
+      },
+      {
+        "label": "+15 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12796::::::::::0|h[Hammer of the Titans]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hammer-of-the-titans"
+  },
+  {
+    "itemId": 12969,
+    "name": "Seeping Willow",
+    "icon": "inv_hammer_17",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 70884,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Seeping Willow"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "155 - 233  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12969::::::::::0|h[Seeping Willow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "seeping-willow"
+  },
+  {
+    "itemId": 12983,
+    "name": "Rakzur Club",
+    "icon": "inv_hammer_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2362,
+    "quality": "Rare",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Rakzur Club"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "38 - 57  Damage"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+5 Spirit"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12983::::::::::0|h[Rakzur Club]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rakzur-club"
+  },
+  {
+    "itemId": 13045,
+    "name": "Viscous Hammer",
+    "icon": "inv_mace_13",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 10809,
+    "quality": "Rare",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Viscous Hammer"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "70 - 105  Damage"
+      },
+      {
+        "label": "+3 Strength"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "+34 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13045::::::::::0|h[Viscous Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "viscous-hammer"
+  },
+  {
+    "itemId": 13047,
+    "name": "Twig of the World Tree",
+    "icon": "inv_mace_13",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 56588,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Twig of the World Tree"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "147 - 221  Damage"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+12 Spirit"
+      },
+      {
+        "label": "+21 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13047::::::::::0|h[Twig of the World Tree]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "twig-of-the-world-tree"
+  },
+  {
+    "itemId": 13393,
+    "name": "Malown's Slam",
+    "icon": "inv_mace_01",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 62380,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Malown's Slam"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "158 - 238  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13393::::::::::0|h[Malown's Slam]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "malowns-slam"
+  },
+  {
+    "itemId": 15266,
+    "name": "Fierce Mauler",
+    "icon": "inv_hammer_08",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 54405,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Fierce Mauler"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "125 - 188  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15266::::::::::0|h[Fierce Mauler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fierce-mauler"
+  },
+  {
+    "itemId": 15267,
+    "name": "Brutehammer",
+    "icon": "inv_hammer_10",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 60203,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Brutehammer"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "133 - 200  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15267::::::::::0|h[Brutehammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brutehammer"
+  },
+  {
+    "itemId": 15418,
+    "name": "Shimmering Platinum Warhammer",
+    "icon": "inv_hammer_07",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 73597,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Shimmering Platinum Warhammer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "142 - 192  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 5944,
+          "name": "In Dreams",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:15418::::::::::0|h[Shimmering Platinum Warhammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shimmering-platinum-warhammer"
+  },
+  {
+    "itemId": 15464,
+    "name": "Brute Hammer",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 4504,
+    "quality": "Uncommon",
+    "itemLevel": 28,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Brute Hammer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "50 - 76  Damage"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+1 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 5088,
+          "name": "Arikara",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:15464::::::::::0|h[Brute Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brute-hammer"
+  },
+  {
+    "itemId": 17766,
+    "name": "Princess Theradras' Scepter",
+    "icon": "inv_hammer_10",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 44863,
+    "quality": "Rare",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Princess Theradras' Scepter"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "126 - 190  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:17766::::::::::0|h[Princess Theradras' Scepter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "princess-theradras-scepter"
+  },
+  {
+    "itemId": 18531,
+    "name": "Unyielding Maul",
+    "icon": "inv_hammer_22",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 65383,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Unyielding Maul"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "250 Armor"
+      },
+      {
+        "label": "135 - 204  Damage"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "+28 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18531::::::::::0|h[Unyielding Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "unyielding-maul"
+  },
+  {
+    "itemId": 22208,
+    "name": "Lavastone Hammer",
+    "icon": "inv_hammer_10",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 57079,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Lavastone Hammer"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "135 - 203  Damage"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22208::::::::::0|h[Lavastone Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lavastone-hammer"
+  },
+  {
+    "itemId": 41135,
+    "name": "Blackstone Basher",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 814,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Blackstone Basher"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "22 - 39  Damage"
+      },
+      {
+        "label": "+3 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41202,
+          "name": "A Lesson In Bruisin'",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:41135::::::::::0|h[Blackstone Basher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blackstone-basher"
+  },
+  {
+    "itemId": 50186,
+    "name": "Demoralization Club",
+    "icon": "inv_mace_01",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 140,
+    "quality": "Uncommon",
+    "itemLevel": 10,
+    "requiredLevel": 5,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Demoralization Club"
+      },
+      {
+        "label": "Requires Level 5"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "11 - 16  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:50186::::::::::0|h[Demoralization Club]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "demoralization-club"
+  },
+  {
+    "itemId": 51834,
+    "name": "Scarlet Pillar",
+    "icon": "inv_hammer_07",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 3013,
+    "quality": "Rare",
+    "itemLevel": 32,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Scarlet Pillar"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "78 - 120  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 60116,
+          "name": "Paint the Roses Red",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:51834::::::::::0|h[Scarlet Pillar]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "scarlet-pillar"
+  },
+  {
+    "itemId": 58270,
+    "name": "Totem of An'she",
+    "icon": "ability_smash",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 15636,
+    "quality": "Rare",
+    "itemLevel": 37,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Totem of An'she"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "88 - 133  Damage"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+14 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41825,
+          "name": "The Matron Will Know",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:58270::::::::::0|h[Totem of An'she]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "totem-of-anshe"
+  },
+  {
+    "itemId": 60560,
+    "name": "Steamrigged Servohammer",
+    "icon": "inv_mace_14",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 56680,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Steamrigged Servohammer"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "137 - 205  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60560::::::::::0|h[Steamrigged Servohammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "steamrigged-servohammer"
+  },
+  {
+    "itemId": 61074,
+    "name": "Enforcer's Maul",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 60202,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Enforcer's Maul"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "133 - 200  Damage"
+      },
+      {
+        "label": "+28 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40767,
+          "name": "Final Flight of the Venomflayer",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:61074::::::::::0|h[Enforcer's Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "enforcers-maul"
+  },
+  {
+    "itemId": 61087,
+    "name": "Winter Veil Branch",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 68955,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Winter Veil Branch"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "106 - 220  Damage"
+      },
+      {
+        "label": "+25 Strength"
+      },
+      {
+        "label": "+10 Frost"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40779,
+          "name": "The Terrible Krampus",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:61087::::::::::0|h[Winter Veil Branch]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "winter-veil-branch"
+  },
+  {
+    "itemId": 80531,
+    "name": "Quel'dorei Guardian's Warhammer",
+    "icon": "inv_mace_30",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 33912,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Quel'dorei Guardian's Warhammer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "136 - 243  Damage"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "+50 Attack"
+      },
+      {
+        "label": "+70 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80531::::::::::0|h[Quel'dorei Guardian's Warhammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "queldorei-guardians-warhammer"
+  },
+  {
+    "itemId": 80631,
+    "name": "Revantusk Watcher's Maul",
+    "icon": "inv_hammer_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 33912,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Revantusk Watcher's Maul"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "136 - 243  Damage"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "+50 Attack"
+      },
+      {
+        "label": "+70 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80631::::::::::0|h[Revantusk Watcher's Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revantusk-watchers-maul"
+  },
+  {
+    "itemId": 80751,
+    "name": "Thornclad Warhammer",
+    "icon": "inv_hammer_23",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 8868,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Thornclad Warhammer"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "200 Armor"
+      },
+      {
+        "label": "110 - 167  Damage"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80751::::::::::0|h[Thornclad Warhammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thornclad-warhammer"
+  },
+  {
+    "itemId": 81305,
+    "name": "Rusty Coghammer",
+    "icon": "inv_gizmo_02",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 87500,
+    "quality": "Rare",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Rusty Coghammer"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "70 Armor"
+      },
+      {
+        "label": "70 - 105  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81305::::::::::0|h[Rusty Coghammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rusty-coghammer"
+  },
+  {
+    "itemId": 83221,
+    "name": "Thornroot Maul",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 15611,
+    "quality": "Rare",
+    "itemLevel": 40,
+    "requiredLevel": 34,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Thornroot Maul"
+      },
+      {
+        "label": "Requires Level 34"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "104 - 161  Damage"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+5 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83221::::::::::0|h[Thornroot Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thornroot-maul"
+  },
+  {
+    "itemId": 911,
+    "name": "Ironwood Treebranch",
+    "icon": "inv_mace_01",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 3324,
+    "quality": "Uncommon",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Ironwood Treebranch"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "45 - 69  Damage"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+2 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:911::::::::::0|h[Ironwood Treebranch]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ironwood-treebranch"
+  },
+  {
+    "itemId": 1195,
+    "name": "Kobold Mining Shovel",
+    "icon": "inv_misc_shovel_01",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 47,
+    "quality": "Common",
+    "itemLevel": 6,
+    "requiredLevel": 3,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Kobold Mining Shovel"
+      },
+      {
+        "label": "Requires Level 3"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "6 - 10  Damage"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:1195::::::::::0|h[Kobold Mining Shovel]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "kobold-mining-shovel"
+  },
+  {
+    "itemId": 1197,
+    "name": "Giant Mace",
+    "icon": "inv_mace_02",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 533,
+    "quality": "Common",
+    "itemLevel": 15,
+    "requiredLevel": 10,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Giant Mace"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "25 - 38  Damage"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:1197::::::::::0|h[Giant Mace]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "giant-mace"
+  },
+  {
+    "itemId": 1218,
+    "name": "Heavy Gnoll War Club",
+    "icon": "inv_mace_14",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2064,
+    "quality": "Uncommon",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Heavy Gnoll War Club"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "40 - 61  Damage"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1218::::::::::0|h[Heavy Gnoll War Club]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-gnoll-war-club"
+  },
+  {
+    "itemId": 1458,
+    "name": "Shadowhide Maul",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2623,
+    "quality": "Uncommon",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Shadowhide Maul"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "36 - 55  Damage"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1458::::::::::0|h[Shadowhide Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shadowhide-maul"
+  },
+  {
+    "itemId": 1523,
+    "name": "Huge Stone Club",
+    "icon": "inv_mace_14",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 10261,
+    "quality": "Uncommon",
+    "itemLevel": 36,
+    "requiredLevel": 31,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Huge Stone Club"
+      },
+      {
+        "label": "Requires Level 31"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "71 - 107  Damage"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1523::::::::::0|h[Huge Stone Club]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "huge-stone-club"
+  },
+  {
+    "itemId": 1679,
+    "name": "Korg Bat",
+    "icon": "inv_mace_01",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 9635,
+    "quality": "Uncommon",
+    "itemLevel": 36,
+    "requiredLevel": 31,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Korg Bat"
+      },
+      {
+        "label": "Requires Level 31"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "61 - 92  Damage"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1679::::::::::0|h[Korg Bat]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "korg-bat"
+  },
+  {
+    "itemId": 1991,
+    "name": "Goblin Power Shovel",
+    "icon": "inv_misc_shovel_02",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 8357,
+    "quality": "Uncommon",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Goblin Power Shovel"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "60 - 91  Damage"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1991::::::::::0|h[Goblin Power Shovel]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "goblin-power-shovel"
+  },
+  {
+    "itemId": 2058,
+    "name": "Kazon's Maul",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 4197,
+    "quality": "Uncommon",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Kazon's Maul"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "49 - 75  Damage"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:2058::::::::::0|h[Kazon's Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "kazons-maul"
+  },
+  {
+    "itemId": 2254,
+    "name": "Icepane Warhammer",
+    "icon": "inv_hammer_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 506,
+    "quality": "Uncommon",
+    "itemLevel": 12,
+    "requiredLevel": 7,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Icepane Warhammer"
+      },
+      {
+        "label": "Requires Level 7"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "22 - 34  Damage"
+      },
+      {
+        "label": "+2 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:2254::::::::::0|h[Icepane Warhammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "icepane-warhammer"
+  },
+  {
+    "itemId": 2361,
+    "name": "Battleworn Hammer",
+    "icon": "inv_hammer_15",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 9,
+    "quality": "Common",
+    "itemLevel": 2,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Battleworn Hammer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "3 - 5  Damage"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2361::::::::::0|h[Battleworn Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "battleworn-hammer"
+  },
+  {
+    "itemId": 2480,
+    "name": "Large Club",
+    "icon": "inv_mace_06",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 14,
+    "quality": "Common",
+    "itemLevel": 3,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Large Club"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "4 - 6  Damage"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2480::::::::::0|h[Large Club]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "large-club"
+  },
+  {
+    "itemId": 3190,
+    "name": "Beatstick",
+    "icon": "inv_mace_02",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 99,
+    "quality": "Common",
+    "itemLevel": 8,
+    "requiredLevel": 3,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Beatstick"
+      },
+      {
+        "label": "Requires Level 3"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "9 - 14  Damage"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3190::::::::::0|h[Beatstick]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "beatstick"
+  },
+  {
+    "itemId": 3193,
+    "name": "Oak Mallet",
+    "icon": "inv_hammer_15",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2072,
+    "quality": "Uncommon",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Oak Mallet"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "38 - 58  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3193::::::::::0|h[Oak Mallet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "oak-mallet"
+  },
+  {
+    "itemId": 3334,
+    "name": "Farmer's Shovel",
+    "icon": "inv_misc_shovel_01",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 68,
+    "quality": "Common",
+    "itemLevel": 7,
+    "requiredLevel": 2,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Farmer's Shovel"
+      },
+      {
+        "label": "Requires Level 2"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "11 - 17  Damage"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3334::::::::::0|h[Farmer's Shovel]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "farmers-shovel"
+  },
+  {
+    "itemId": 3571,
+    "name": "Trogg Beater",
+    "icon": "inv_hammer_15",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2118,
+    "quality": "Uncommon",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Trogg Beater"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "39 - 60  Damage"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3571::::::::::0|h[Trogg Beater]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "trogg-beater"
+  },
+  {
+    "itemId": 3851,
+    "name": "Solid Iron Maul",
+    "icon": "inv_hammer_07",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 6258,
+    "quality": "Uncommon",
+    "itemLevel": 31,
+    "requiredLevel": 26,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Solid Iron Maul"
+      },
+      {
+        "label": "Requires Level 26"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "59 - 89  Damage"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2754,
+          "name": "Horns of Frenzy",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3851::::::::::0|h[Solid Iron Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "solid-iron-maul"
+  },
+  {
+    "itemId": 3852,
+    "name": "Golden Iron Destroyer",
+    "icon": "inv_hammer_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 8360,
+    "quality": "Uncommon",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Golden Iron Destroyer"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "50 - 76  Damage"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3852::::::::::0|h[Golden Iron Destroyer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "golden-iron-destroyer"
+  },
+  {
+    "itemId": 4128,
+    "name": "Silver Spade",
+    "icon": "inv_misc_shovel_02",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 14587,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Silver Spade"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "89 - 134  Damage"
+      },
+      {
+        "label": "+4 Stamina"
+      },
+      {
+        "label": "+15 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 600,
+          "name": "Venture Company Mining",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4128::::::::::0|h[Silver Spade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "silver-spade"
+  },
+  {
+    "itemId": 4548,
+    "name": "Servomechanic Sledgehammer",
+    "icon": "inv_hammer_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 15028,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Servomechanic Sledgehammer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "53 - 80  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 666,
+          "name": "Sunken Treasure",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4548::::::::::0|h[Servomechanic Sledgehammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "servomechanic-sledgehammer"
+  },
+  {
+    "itemId": 4564,
+    "name": "Spiked Club",
+    "icon": "inv_mace_14",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 610,
+    "quality": "Uncommon",
+    "itemLevel": 13,
+    "requiredLevel": 8,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Spiked Club"
+      },
+      {
+        "label": "Requires Level 8"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "22 - 34  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4564::::::::::0|h[Spiked Club]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "spiked-club"
+  },
+  {
+    "itemId": 4777,
+    "name": "Ironwood Maul",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 1408,
+    "quality": "Uncommon",
+    "itemLevel": 18,
+    "requiredLevel": 13,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Ironwood Maul"
+      },
+      {
+        "label": "Requires Level 13"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "26 - 40  Damage"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4777::::::::::0|h[Ironwood Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ironwood-maul"
+  },
+  {
+    "itemId": 4778,
+    "name": "Heavy Spiked Mace",
+    "icon": "inv_mace_01",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 1470,
+    "quality": "Uncommon",
+    "itemLevel": 19,
+    "requiredLevel": 14,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Heavy Spiked Mace"
+      },
+      {
+        "label": "Requires Level 14"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "34 - 51  Damage"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4778::::::::::0|h[Heavy Spiked Mace]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-spiked-mace"
+  },
+  {
+    "itemId": 4964,
+    "name": "Goblin Smasher",
+    "icon": "inv_hammer_15",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 503,
+    "quality": "Uncommon",
+    "itemLevel": 12,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Goblin Smasher"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "20 - 31  Damage"
+      },
+      {
+        "label": "+2 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 765,
+          "name": "Supervisor Fizsprocket",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4964::::::::::0|h[Goblin Smasher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "goblin-smasher"
+  },
+  {
+    "itemId": 4983,
+    "name": "Rock Pulverizer",
+    "icon": "inv_hammer_17",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 16837,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Rock Pulverizer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "92 - 139  Damage"
+      },
+      {
+        "label": "+34 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 739,
+          "name": "Murdaloc",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4983::::::::::0|h[Rock Pulverizer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rock-pulverizer"
+  },
+  {
+    "itemId": 5187,
+    "name": "Rhahk'Zor's Hammer",
+    "icon": "inv_hammer_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2011,
+    "quality": "Uncommon",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Rhahk'Zor's Hammer"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "75 Armor"
+      },
+      {
+        "label": "31 - 57  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:5187::::::::::0|h[Rhahk'Zor's Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rhahkzors-hammer"
+  },
+  {
+    "itemId": 5345,
+    "name": "Stonewood Hammer",
+    "icon": "inv_hammer_15",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 705,
+    "quality": "Uncommon",
+    "itemLevel": 14,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Stonewood Hammer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "24 - 37  Damage"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 855,
+          "name": "Centaur Bracers",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:5345::::::::::0|h[Stonewood Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stonewood-hammer"
+  },
+  {
+    "itemId": 5761,
+    "name": "Anvilmar Sledge",
+    "icon": "inv_hammer_15",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 30,
+    "quality": "Common",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Anvilmar Sledge"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "6 - 10  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 182,
+          "name": "The Troll Cave",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:5761::::::::::0|h[Anvilmar Sledge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "anvilmar-sledge"
+  },
+  {
+    "itemId": 5815,
+    "name": "Glacial Stone",
+    "icon": "inv_mace_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 5871,
+    "quality": "Uncommon",
+    "itemLevel": 31,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Glacial Stone"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "60 - 91  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1046,
+          "name": "Raene's Cleansing",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:5815::::::::::0|h[Glacial Stone]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "glacial-stone"
+  },
+  {
+    "itemId": 6093,
+    "name": "Orc Crusher",
+    "icon": "inv_mace_07",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 4418,
+    "quality": "Uncommon",
+    "itemLevel": 27,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Orc Crusher"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "52 - 79  Damage"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 19,
+          "name": "Tharil'zun",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6093::::::::::0|h[Orc Crusher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "orc-crusher"
+  },
+  {
+    "itemId": 6214,
+    "name": "Heavy Copper Maul",
+    "icon": "inv_hammer_18",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 595,
+    "quality": "Common",
+    "itemLevel": 16,
+    "requiredLevel": 11,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Heavy Copper Maul"
+      },
+      {
+        "label": "Requires Level 11"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "21 - 32  Damage"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1618,
+          "name": "Gearing Redridge",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 70040,
+          "name": "Reinforcing The Sepulcher",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:6214::::::::::0|h[Heavy Copper Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-copper-maul"
+  },
+  {
+    "itemId": 7956,
+    "name": "Bronze Warhammer",
+    "icon": "inv_hammer_18",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 1944,
+    "quality": "Common",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bronze Warhammer"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "37 - 57  Damage"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2752,
+          "name": "On Iron Pauldrons",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:7956::::::::::0|h[Bronze Warhammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bronze-warhammer"
+  },
+  {
+    "itemId": 9604,
+    "name": "Mechanic's Pipehammer",
+    "icon": "inv_mace_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 5632,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Mechanic's Pipehammer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "45 - 69  Damage"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+3 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2930,
+          "name": "Data Rescue",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:9604::::::::::0|h[Mechanic's Pipehammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mechanics-pipehammer"
+  },
+  {
+    "itemId": 9678,
+    "name": "Tok'kar's Murloc Basher",
+    "icon": "inv_mace_05",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 17485,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Tok'kar's Murloc Basher"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "72 - 109  Damage"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1427,
+          "name": "Threat From the Sea",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:9678::::::::::0|h[Tok'kar's Murloc Basher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tokkars-murloc-basher"
+  },
+  {
+    "itemId": 12772,
+    "name": "Inlaid Thorium Hammer",
+    "icon": "inv_hammer_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 38871,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Inlaid Thorium Hammer"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "100 - 151  Damage"
+      },
+      {
+        "label": "+23 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12772::::::::::0|h[Inlaid Thorium Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "inlaid-thorium-hammer"
+  },
+  {
+    "itemId": 15259,
+    "name": "Hefty Battlehammer",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 3306,
+    "quality": "Uncommon",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Hefty Battlehammer"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "43 - 65  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15259::::::::::0|h[Hefty Battlehammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hefty-battlehammer"
+  },
+  {
+    "itemId": 15260,
+    "name": "Stone Hammer",
+    "icon": "inv_hammer_17",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 11556,
+    "quality": "Uncommon",
+    "itemLevel": 38,
+    "requiredLevel": 33,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Stone Hammer"
+      },
+      {
+        "label": "Requires Level 33"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "64 - 96  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15260::::::::::0|h[Stone Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stone-hammer"
+  },
+  {
+    "itemId": 15261,
+    "name": "Sequoia Branch",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 13530,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Sequoia Branch"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "88 - 132  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15261::::::::::0|h[Sequoia Branch]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sequoia-branch"
+  },
+  {
+    "itemId": 15262,
+    "name": "Greater Maul",
+    "icon": "inv_hammer_19",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 21552,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Greater Maul"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "97 - 146  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15262::::::::::0|h[Greater Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "greater-maul"
+  },
+  {
+    "itemId": 15263,
+    "name": "Royal Mallet",
+    "icon": "inv_hammer_11",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 28889,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Royal Mallet"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "83 - 126  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15263::::::::::0|h[Royal Mallet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "royal-mallet"
+  },
+  {
+    "itemId": 15265,
+    "name": "Painbringer",
+    "icon": "inv_hammer_10",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 46823,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Painbringer"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "100 - 151  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15265::::::::::0|h[Painbringer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "painbringer"
+  },
+  {
+    "itemId": 18481,
+    "name": "Skullcracking Mace",
+    "icon": "inv_mace_05",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 51451,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Skullcracking Mace"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "119 - 179  Damage"
+      },
+      {
+        "label": "+22 Strength"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:18481::::::::::0|h[Skullcracking Mace]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "skullcracking-mace"
+  },
+  {
+    "itemId": 41026,
+    "name": "Deckman's Cudgel",
+    "icon": "inv_mace_01",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 30,
+    "quality": "Common",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Deckman's Cudgel"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "6 - 10  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41158,
+          "name": "Revenge of the Deep",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:41026::::::::::0|h[Deckman's Cudgel]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "deckmans-cudgel"
+  },
+  {
+    "itemId": 58007,
+    "name": "Obedient Whacker",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 13800,
+    "quality": "Uncommon",
+    "itemLevel": 38,
+    "requiredLevel": 33,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Obedient Whacker"
+      },
+      {
+        "label": "Requires Level 33"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "70 - 102  Damage"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+4 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:58007::::::::::0|h[Obedient Whacker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "obedient-whacker"
+  },
+  {
+    "itemId": 58019,
+    "name": "Mace of Devotion",
+    "icon": "inv_mace_13",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 13589,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Mace of Devotion"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "69 - 106  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41768,
+          "name": "The Messenger Of Northwind",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:58019::::::::::0|h[Mace of Devotion]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mace-of-devotion"
+  },
+  {
+    "itemId": 60629,
+    "name": "The Skull Smasher",
+    "icon": "inv_mace_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 48164,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "The Skull Smasher"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "112 - 176  Damage"
+      },
+      {
+        "label": "+14 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40430,
+          "name": "Dreadmaul Skull Bounty",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60629::::::::::0|h[The Skull Smasher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-skull-smasher"
+  },
+  {
+    "itemId": 60686,
+    "name": "Harvest Golem Arm",
+    "icon": "inv_mace_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2264,
+    "quality": "Uncommon",
+    "itemLevel": 20,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Harvest Golem Arm"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "10 Armor"
+      },
+      {
+        "label": "35 - 54  Damage"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40478,
+          "name": "The Harvest Golem Mystery",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60686::::::::::0|h[Harvest Golem Arm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "harvest-golem-arm"
+  },
+  {
+    "itemId": 61391,
+    "name": "Servocharged Wrench",
+    "icon": "inv_mace_08",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 21899,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Servocharged Wrench"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "92 - 148  Damage"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+4 Stamina"
+      },
+      {
+        "label": "+15 Nature"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40860,
+          "name": "The Dawnstone Coupler",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:61391::::::::::0|h[Servocharged Wrench]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "servocharged-wrench"
+  },
+  {
+    "itemId": 80105,
+    "name": "Bruiser Club",
+    "icon": "inv_hammer_15",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 1,
+    "quality": "Common",
+    "itemLevel": 6,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bruiser Club"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "8 - 13  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 80102,
+          "name": "Green Versus Green",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:80105::::::::::0|h[Bruiser Club]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bruiser-club"
+  },
+  {
+    "itemId": 924,
+    "name": "Maul",
+    "icon": "inv_hammer_07",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2194,
+    "quality": "Common",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Maul"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "37 - 56  Damage"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:924::::::::::0|h[Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "maul"
+  },
+  {
+    "itemId": 1414,
+    "name": "Cracked Sledge",
+    "icon": "inv_hammer_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 97,
+    "quality": "Poor",
+    "itemLevel": 9,
+    "requiredLevel": 4,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Cracked Sledge"
+      },
+      {
+        "label": "Requires Level 4"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "10 - 15  Damage"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1414::::::::::0|h[Cracked Sledge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cracked-sledge"
+  },
+  {
+    "itemId": 1514,
+    "name": "Rusty Warhammer",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 294,
+    "quality": "Poor",
+    "itemLevel": 14,
+    "requiredLevel": 9,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Rusty Warhammer"
+      },
+      {
+        "label": "Requires Level 9"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "13 - 21  Damage"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1514::::::::::0|h[Rusty Warhammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rusty-warhammer"
+  },
+  {
+    "itemId": 1814,
+    "name": "Battered Mallet",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 603,
+    "quality": "Poor",
+    "itemLevel": 19,
+    "requiredLevel": 14,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Battered Mallet"
+      },
+      {
+        "label": "Requires Level 14"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "17 - 26  Damage"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1814::::::::::0|h[Battered Mallet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "battered-mallet"
+  },
+  {
+    "itemId": 1820,
+    "name": "Wooden Maul",
+    "icon": "inv_hammer_15",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 963,
+    "quality": "Poor",
+    "itemLevel": 22,
+    "requiredLevel": 17,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Wooden Maul"
+      },
+      {
+        "label": "Requires Level 17"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "20 - 30  Damage"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1820::::::::::0|h[Wooden Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wooden-maul"
+  },
+  {
+    "itemId": 1826,
+    "name": "Rock Maul",
+    "icon": "inv_hammer_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 1765,
+    "quality": "Poor",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Rock Maul"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "25 - 38  Damage"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1826::::::::::0|h[Rock Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rock-maul"
+  },
+  {
+    "itemId": 2026,
+    "name": "Rock Hammer",
+    "icon": "inv_hammer_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 1257,
+    "quality": "Common",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Rock Hammer"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "37 - 56  Damage"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2026::::::::::0|h[Rock Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rock-hammer"
+  },
+  {
+    "itemId": 2486,
+    "name": "Large Stone Mace",
+    "icon": "inv_hammer_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 13,
+    "quality": "Common",
+    "itemLevel": 3,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Large Stone Mace"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "4 - 6  Damage"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2486::::::::::0|h[Large Stone Mace]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "large-stone-mace"
+  },
+  {
+    "itemId": 2493,
+    "name": "Wooden Mallet",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 140,
+    "quality": "Common",
+    "itemLevel": 9,
+    "requiredLevel": 4,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Wooden Mallet"
+      },
+      {
+        "label": "Requires Level 4"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "10 - 16  Damage"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2493::::::::::0|h[Wooden Mallet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wooden-mallet"
+  },
+  {
+    "itemId": 2501,
+    "name": "Wooden Warhammer",
+    "icon": "inv_hammer_15",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 144,
+    "quality": "Common",
+    "itemLevel": 9,
+    "requiredLevel": 4,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Wooden Warhammer"
+      },
+      {
+        "label": "Requires Level 4"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "12 - 18  Damage"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2501::::::::::0|h[Wooden Warhammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wooden-warhammer"
+  },
+  {
+    "itemId": 2525,
+    "name": "War Hammer",
+    "icon": "inv_hammer_03",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 5297,
+    "quality": "Common",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "War Hammer"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "62 - 94  Damage"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2525::::::::::0|h[War Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "war-hammer"
+  },
+  {
+    "itemId": 2533,
+    "name": "War Maul",
+    "icon": "inv_hammer_17",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 12221,
+    "quality": "Common",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "War Maul"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "85 - 129  Damage"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2533::::::::::0|h[War Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "war-maul"
+  },
+  {
+    "itemId": 2557,
+    "name": "Monster - Mace2H, Ornate Metal Hammer",
+    "icon": "inv_hammer_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 4,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Ornate Metal Hammer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2557::::::::::0|h[Monster - Mace2H, Ornate Metal Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-ornate-metal-hammer"
+  },
+  {
+    "itemId": 3326,
+    "name": "Monster - Mace2H, Basic Stone Hammer",
+    "icon": "inv_hammer_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 3,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Basic Stone Hammer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3326::::::::::0|h[Monster - Mace2H, Basic Stone Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-basic-stone-hammer"
+  },
+  {
+    "itemId": 3782,
+    "name": "Large War Club",
+    "icon": "inv_mace_01",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 3451,
+    "quality": "Poor",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Large War Club"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "35 - 53  Damage"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3782::::::::::0|h[Large War Club]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "large-war-club"
+  },
+  {
+    "itemId": 4022,
+    "name": "Crushing Maul",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 12059,
+    "quality": "Poor",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Crushing Maul"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "61 - 92  Damage"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:4022::::::::::0|h[Crushing Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crushing-maul"
+  },
+  {
+    "itemId": 5292,
+    "name": "Monster - Mace2H, Basic Wooden Hammer",
+    "icon": "inv_hammer_03",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Basic Wooden Hammer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 3  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:5292::::::::::0|h[Monster - Mace2H, Basic Wooden Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-basic-wooden-hammer"
+  },
+  {
+    "itemId": 5301,
+    "name": "Monster - Mace2H, Huge Wooden Maul",
+    "icon": "inv_hammer_03",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 4,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Huge Wooden Maul"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:5301::::::::::0|h[Monster - Mace2H, Huge Wooden Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-huge-wooden-maul"
+  },
+  {
+    "itemId": 5491,
+    "name": "Monster - Mace2H, Large Metal",
+    "icon": "inv_hammer_01",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 9,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Large Metal"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:5491::::::::::0|h[Monster - Mace2H, Large Metal]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-large-metal"
+  },
+  {
+    "itemId": 5579,
+    "name": "Militia Warhammer",
+    "icon": "inv_hammer_15",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 32,
+    "quality": "Common",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Militia Warhammer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "6 - 9  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 18,
+          "name": "Brotherhood of Thieves",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:5579::::::::::0|h[Militia Warhammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "militia-warhammer"
+  },
+  {
+    "itemId": 5595,
+    "name": "Thicket Hammer",
+    "icon": "inv_hammer_15",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 235,
+    "quality": "Common",
+    "itemLevel": 11,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Thicket Hammer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "16 - 24  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 935,
+          "name": "Crown of the Earth",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:5595::::::::::0|h[Thicket Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thicket-hammer"
+  },
+  {
+    "itemId": 10568,
+    "name": "Monster - Mace2H, Pacifier",
+    "icon": "inv_hammer_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Pacifier"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:10568::::::::::0|h[Monster - Mace2H, Pacifier]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-pacifier"
+  },
+  {
+    "itemId": 10685,
+    "name": "Monster - Mace2H, Kazon's Maul",
+    "icon": "inv_hammer_03",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Kazon's Maul"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:10685::::::::::0|h[Monster - Mace2H, Kazon's Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-kazons-maul"
+  },
+  {
+    "itemId": 10756,
+    "name": "Monster - Mace2H, Smite's Mighty Hammer",
+    "icon": "inv_hammer_01",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Smite's Mighty Hammer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:10756::::::::::0|h[Monster - Mace2H, Smite's Mighty Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-smites-mighty-hammer"
+  },
+  {
+    "itemId": 12901,
+    "name": "Monster - Mace2H, Golden Stone Hammer",
+    "icon": "inv_mace_14",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 3,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Golden Stone Hammer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:12901::::::::::0|h[Monster - Mace2H, Golden Stone Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-golden-stone-hammer"
+  },
+  {
+    "itemId": 12950,
+    "name": "Monster - Mace2H, Warhammer Ebony",
+    "icon": "inv_mace_14",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Warhammer Ebony"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:12950::::::::::0|h[Monster - Mace2H, Warhammer Ebony]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-warhammer-ebony"
+  },
+  {
+    "itemId": 13821,
+    "name": "Bulky Maul",
+    "icon": "inv_hammer_16",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 17993,
+    "quality": "Poor",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bulky Maul"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "76 - 115  Damage"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:13821::::::::::0|h[Bulky Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bulky-maul"
+  },
+  {
+    "itemId": 13925,
+    "name": "Monster - Mace2H, Maul B02 Silver",
+    "icon": "inv_mace_14",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Maul B02 Silver"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:13925::::::::::0|h[Monster - Mace2H, Maul B02 Silver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-maul-b02-silver"
+  },
+  {
+    "itemId": 14082,
+    "name": "Monster - Mace2H, Tirion Fordring",
+    "icon": "inv_mace_14",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Tirion Fordring"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:14082::::::::::0|h[Monster - Mace2H, Tirion Fordring]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-tirion-fordring"
+  },
+  {
+    "itemId": 14084,
+    "name": "Monster - Mace2H, Cairne Totem",
+    "icon": "inv_hammer_01",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Cairne Totem"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:14084::::::::::0|h[Monster - Mace2H, Cairne Totem]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-cairne-totem"
+  },
+  {
+    "itemId": 14527,
+    "name": "Monster - Mace2H, Horde Hammer A03 Dark",
+    "icon": "inv_hammer_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Horde Hammer A03 Dark"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:14527::::::::::0|h[Monster - Mace2H, Horde Hammer A03 Dark]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-horde-hammer-a03-dark"
+  },
+  {
+    "itemId": 14532,
+    "name": "Monster - Mace2H, Warhammer Jade",
+    "icon": "inv_mace_14",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Warhammer Jade"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:14532::::::::::0|h[Monster - Mace2H, Warhammer Jade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-warhammer-jade"
+  },
+  {
+    "itemId": 14586,
+    "name": "Monster - Mace2H, Fist of Omokk",
+    "icon": "inv_hammer_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Fist of Omokk"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:14586::::::::::0|h[Monster - Mace2H, Fist of Omokk]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-fist-of-omokk"
+  },
+  {
+    "itemId": 14818,
+    "name": "Monster - Mace2H, Horde Spiked Maul",
+    "icon": "inv_hammer_03",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Horde Spiked Maul"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 3  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:14818::::::::::0|h[Monster - Mace2H, Horde Spiked Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-horde-spiked-maul"
+  },
+  {
+    "itemId": 14820,
+    "name": "Monster - Mace2H, Horde Skull Maul",
+    "icon": "inv_hammer_03",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Horde Skull Maul"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 3  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:14820::::::::::0|h[Monster - Mace2H, Horde Skull Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-horde-skull-maul"
+  },
+  {
+    "itemId": 14822,
+    "name": "Monster - Mace2H, Horde Metal Spiked Maul",
+    "icon": "inv_hammer_03",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Horde Metal Spiked Maul"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 3  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:14822::::::::::0|h[Monster - Mace2H, Horde Metal Spiked Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-horde-metal-spiked-maul"
+  },
+  {
+    "itemId": 14823,
+    "name": "Monster - Mace2H, Horde Red Spiked Badass",
+    "icon": "inv_hammer_03",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Horde Red Spiked Badass"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 3  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:14823::::::::::0|h[Monster - Mace2H, Horde Red Spiked Badass]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-horde-red-spiked-badass"
+  },
+  {
+    "itemId": 14824,
+    "name": "Monster - Mace2H, Horde Black Spiked Badass",
+    "icon": "inv_hammer_03",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Horde Black Spiked Badass"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 3  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:14824::::::::::0|h[Monster - Mace2H, Horde Black Spiked Badass]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-horde-black-spiked-badass"
+  },
+  {
+    "itemId": 17942,
+    "name": "Monster - Mace2H, War Maul",
+    "icon": "inv_mace_02",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, War Maul"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 3  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:17942::::::::::0|h[Monster - Mace2H, War Maul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-war-maul"
+  },
+  {
+    "itemId": 18062,
+    "name": "Monster - Mace2H, Horde Hammer A03/C01Black",
+    "icon": "inv_hammer_04",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Horde Hammer A03/C01Black"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:18062::::::::::0|h[Monster - Mace2H, Horde Hammer A03/C01Black]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-horde-hammer-a03-c01black"
+  },
+  {
+    "itemId": 19623,
+    "name": "Monster - Mace2H, Horde B01/B01 Orange",
+    "icon": "inv_hammer_03",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Horde B01/B01 Orange"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 3  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:19623::::::::::0|h[Monster - Mace2H, Horde B01/B01 Orange]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-horde-b01-b01-orange"
+  },
+  {
+    "itemId": 19988,
+    "name": "Monster - Mace2H, Horde C01 Steel (Green)",
+    "icon": "inv_hammer_03",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Horde C01 Steel (Green)"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 3  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:19988::::::::::0|h[Monster - Mace2H, Horde C01 Steel (Green)]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-horde-c01-steel-green"
+  },
+  {
+    "itemId": 21555,
+    "name": "Monster - Mace2H, Alliance PvP",
+    "icon": "inv_hammer_03",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Alliance PvP"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 3  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:21555::::::::::0|h[Monster - Mace2H, Alliance PvP]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-alliance-pvp"
+  },
+  {
+    "itemId": 22346,
+    "name": "Monster - Mace2H, Unstoppable Force",
+    "icon": "inv_hammer_03",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Mace2H, Unstoppable Force"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 3  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:22346::::::::::0|h[Monster - Mace2H, Unstoppable Force]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-mace2h-unstoppable-force"
+  },
+  {
+    "itemId": 36010,
+    "name": "kazgrim test totem a",
+    "icon": "ability_smash",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 0,
+    "quality": "Poor",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "kazgrim test totem a"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:36010::::::::::0|h[kazgrim test totem a]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "kazgrim-test-totem-a"
+  },
+  {
+    "itemId": 58084,
+    "name": "Mudpaw Slammer",
+    "icon": "inv_hammer_09",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 98,
+    "quality": "Common",
+    "itemLevel": 8,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Mudpaw Slammer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "9 - 14  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41185,
+          "name": "War On Mudpaw",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:58084::::::::::0|h[Mudpaw Slammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mudpaw-slammer"
+  },
+  {
+    "itemId": 36011,
+    "name": "kazgrim test totem b",
+    "icon": "ability_smash",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 0,
+    "quality": "Poor",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "kazgrim test totem b"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:36011::::::::::0|h[kazgrim test totem b]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "kazgrim-test-totem-b"
+  },
+  {
+    "itemId": 36012,
+    "name": "kazgrim test totem c",
+    "icon": "ability_smash",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 0,
+    "quality": "Poor",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "kazgrim test totem c"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:36012::::::::::0|h[kazgrim test totem c]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "kazgrim-test-totem-c"
+  },
+  {
+    "itemId": 36013,
+    "name": "kazgrim test totem d",
+    "icon": "ability_smash",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 0,
+    "quality": "Poor",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "kazgrim test totem d"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:36013::::::::::0|h[kazgrim test totem d]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "kazgrim-test-totem-d"
+  }
+]

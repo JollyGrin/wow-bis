@@ -1,0 +1,7801 @@
+[
+  {
+    "itemId": 647,
+    "name": "Destiny",
+    "icon": "inv_sword_19",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 70024,
+    "quality": "Epic",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Destiny"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "112 - 168  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:647::::::::::0|h[Destiny]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "destiny"
+  },
+  {
+    "itemId": 1982,
+    "name": "Nightblade",
+    "icon": "inv_sword_02",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 29513,
+    "quality": "Epic",
+    "itemLevel": 44,
+    "requiredLevel": 39,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Nightblade"
+      },
+      {
+        "label": "Requires Level 39"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "97 - 146  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:1982::::::::::0|h[Nightblade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "nightblade"
+  },
+  {
+    "itemId": 2205,
+    "name": "Duskbringer",
+    "icon": "inv_sword_41",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 3961,
+    "quality": "Rare",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Duskbringer"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "57 - 86  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:2205::::::::::0|h[Duskbringer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "duskbringer"
+  },
+  {
+    "itemId": 2801,
+    "name": "Blade of Hanna",
+    "icon": "inv_sword_10",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 104729,
+    "quality": "Epic",
+    "itemLevel": 64,
+    "requiredLevel": 59,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Blade of Hanna"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "101 - 152  Damage"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+14 Intellect"
+      },
+      {
+        "label": "+14 Spirit"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+14 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:2801::::::::::0|h[Blade of Hanna]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blade-of-hanna"
+  },
+  {
+    "itemId": 2877,
+    "name": "Combatant Claymore",
+    "icon": "inv_sword_23",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 8524,
+    "quality": "Rare",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Combatant Claymore"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "64 - 97  Damage"
+      },
+      {
+        "label": "+15 Spirit"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:2877::::::::::0|h[Combatant Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "combatant-claymore"
+  },
+  {
+    "itemId": 9372,
+    "name": "Sul'thraze the Lasher",
+    "icon": "inv_sword_40",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 61936,
+    "quality": "Epic",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Sul'thraze the Lasher"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "132 - 195  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:9372::::::::::0|h[Sul'thraze the Lasher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sulthraze-the-lasher"
+  },
+  {
+    "itemId": 9385,
+    "name": "Archaic Defender",
+    "icon": "inv_sword_41",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 12280,
+    "quality": "Rare",
+    "itemLevel": 36,
+    "requiredLevel": 31,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Archaic Defender"
+      },
+      {
+        "label": "Requires Level 31"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "100 Armor"
+      },
+      {
+        "label": "77 - 117  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9385::::::::::0|h[Archaic Defender]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "archaic-defender"
+  },
+  {
+    "itemId": 9490,
+    "name": "Gizmotron Megachopper",
+    "icon": "inv_sword_37",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 6121,
+    "quality": "Rare",
+    "itemLevel": 29,
+    "requiredLevel": 24,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Gizmotron Megachopper"
+      },
+      {
+        "label": "Requires Level 24"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "61 - 92  Damage"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9490::::::::::0|h[Gizmotron Megachopper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gizmotron-megachopper"
+  },
+  {
+    "itemId": 10573,
+    "name": "Boneslasher",
+    "icon": "inv_sword_41",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 13754,
+    "quality": "Rare",
+    "itemLevel": 37,
+    "requiredLevel": 32,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Boneslasher"
+      },
+      {
+        "label": "Requires Level 32"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "70 - 106  Damage"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:10573::::::::::0|h[Boneslasher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "boneslasher"
+  },
+  {
+    "itemId": 10628,
+    "name": "Deathblow",
+    "icon": "inv_sword_31",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 29245,
+    "quality": "Rare",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Deathblow"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "94 - 141  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:10628::::::::::0|h[Deathblow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "deathblow"
+  },
+  {
+    "itemId": 12463,
+    "name": "Drakefang Butcher",
+    "icon": "inv_sword_19",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 42446,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Drakefang Butcher"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "99 - 149  Damage"
+      },
+      {
+        "label": "+15 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12463::::::::::0|h[Drakefang Butcher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "drakefang-butcher"
+  },
+  {
+    "itemId": 12592,
+    "name": "Blackblade of Shahram",
+    "icon": "inv_sword_29",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 95241,
+    "quality": "Epic",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Blackblade of Shahram"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "166 - 250  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:12592::::::::::0|h[Blackblade of Shahram]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blackblade-of-shahram"
+  },
+  {
+    "itemId": 12782,
+    "name": "Corruption",
+    "icon": "inv_sword_07",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 56808,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Corruption"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "119 - 179  Damage"
+      },
+      {
+        "label": "+30 Strength"
+      },
+      {
+        "label": "+30 Stamina"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12782::::::::::0|h[Corruption]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "corruption"
+  },
+  {
+    "itemId": 12790,
+    "name": "Arcanite Champion",
+    "icon": "inv_sword_39",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 74619,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Arcanite Champion"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "151 - 227  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12790::::::::::0|h[Arcanite Champion]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "arcanite-champion"
+  },
+  {
+    "itemId": 13041,
+    "name": "Guardian Blade",
+    "icon": "inv_sword_25",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 4516,
+    "quality": "Rare",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Guardian Blade"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "40 Armor"
+      },
+      {
+        "label": "50 - 76  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 95 / 95"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13041::::::::::0|h[Guardian Blade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "guardian-blade"
+  },
+  {
+    "itemId": 13043,
+    "name": "Blade of the Titans",
+    "icon": "inv_sword_07",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 32389,
+    "quality": "Rare",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Blade of the Titans"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "112 - 169  Damage"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13043::::::::::0|h[Blade of the Titans]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blade-of-the-titans"
+  },
+  {
+    "itemId": 13044,
+    "name": "Demonslayer",
+    "icon": "inv_sword_03",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 52800,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Demonslayer"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "121 - 182  Damage"
+      },
+      {
+        "label": "+99 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13044::::::::::0|h[Demonslayer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "demonslayer"
+  },
+  {
+    "itemId": 13049,
+    "name": "Deanship Claymore",
+    "icon": "inv_sword_46",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 6191,
+    "quality": "Rare",
+    "itemLevel": 29,
+    "requiredLevel": 26,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Deanship Claymore"
+      },
+      {
+        "label": "Requires Level 26"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "53 - 80  Damage"
+      },
+      {
+        "label": "+4 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13049::::::::::0|h[Deanship Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "deanship-claymore"
+  },
+  {
+    "itemId": 13053,
+    "name": "Doombringer",
+    "icon": "inv_sword_01",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 59186,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Doombringer"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "115 - 173  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13053::::::::::0|h[Doombringer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "doombringer"
+  },
+  {
+    "itemId": 13262,
+    "name": "Ashbringer",
+    "icon": "inv_sword_48",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 261407,
+    "quality": "Legendary",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Ashbringer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "201 - 247  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 145 / 145"
+      }
+    ],
+    "itemLink": "|cffff8000|Hitem:13262::::::::::0|h[Ashbringer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ashbringer"
+  },
+  {
+    "itemId": 13348,
+    "name": "Demonshear",
+    "icon": "inv_sword_14",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 72770,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Demonshear"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "163 - 246  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13348::::::::::0|h[Demonshear]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "demonshear"
+  },
+  {
+    "itemId": 13505,
+    "name": "Runeblade of Baron Rivendare",
+    "icon": "inv_sword_17",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 91345,
+    "quality": "Epic",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Runeblade of Baron Rivendare"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "171 - 257  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:13505::::::::::0|h[Runeblade of Baron Rivendare]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "runeblade-of-baron-rivendare"
+  },
+  {
+    "itemId": 14541,
+    "name": "Barovian Family Sword",
+    "icon": "inv_sword_03",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 68426,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Barovian Family Sword"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "87 - 132  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:14541::::::::::0|h[Barovian Family Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "barovian-family-sword"
+  },
+  {
+    "itemId": 17076,
+    "name": "Bonereaver's Edge",
+    "icon": "inv_sword_12",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 196438,
+    "quality": "Epic",
+    "itemLevel": 77,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bonereaver's Edge"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "206 - 310  Damage"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:17076::::::::::0|h[Bonereaver's Edge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bonereavers-edge"
+  },
+  {
+    "itemId": 18520,
+    "name": "Barbarous Blade",
+    "icon": "inv_sword_11",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 73101,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Barbarous Blade"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "138 - 207  Damage"
+      },
+      {
+        "label": "+60 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18520::::::::::0|h[Barbarous Blade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "barbarous-blade"
+  },
+  {
+    "itemId": 18542,
+    "name": "Typhoon",
+    "icon": "inv_sword_41",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 125278,
+    "quality": "Epic",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Typhoon"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "150 - 225  Damage"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+20 Agility"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18542::::::::::0|h[Typhoon]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "typhoon"
+  },
+  {
+    "itemId": 18822,
+    "name": "Obsidian Edged Blade",
+    "icon": "inv_sword_28",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 125768,
+    "quality": "Epic",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Obsidian Edged Blade"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "176 - 264  Damage"
+      },
+      {
+        "label": "+42 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18822::::::::::0|h[Obsidian Edged Blade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "obsidian-edged-blade"
+  },
+  {
+    "itemId": 18876,
+    "name": "Grand Marshal's Claymore",
+    "icon": "inv_sword_39",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 60118,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Grand Marshal's Claymore"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "262 - 380  Damage"
+      },
+      {
+        "label": "+43 Stamina"
+      },
+      {
+        "label": "+28 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18876::::::::::0|h[Grand Marshal's Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grand-marshals-claymore"
+  },
+  {
+    "itemId": 18877,
+    "name": "High Warlord's Greatsword",
+    "icon": "inv_sword_48",
+    "class": "Weapon",
+    "subclass": "sword",
+    "sellPrice": 60339,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "High Warlord's Greatsword"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "262 - 380  Damage"
+      },
+      {
+        "label": "+43 Stamina"
+      },
+      {
+        "label": "+28 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18877::::::::::0|h[High Warlord's Greatsword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-warlords-greatsword"
+  },
+  {
+    "itemId": 19334,
+    "name": "The Untamed Blade",
+    "icon": "inv_sword_50",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 160453,
+    "quality": "Epic",
+    "itemLevel": 73,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "The Untamed Blade"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "192 - 289  Damage"
+      },
+      {
+        "label": "+22 Agility"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19334::::::::::0|h[The Untamed Blade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-untamed-blade"
+  },
+  {
+    "itemId": 19364,
+    "name": "Ashkandi, Greatsword of the Brotherhood",
+    "icon": "inv_sword_50",
+    "class": "Weapon",
+    "subclass": "sword",
+    "sellPrice": 228517,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Ashkandi, Greatsword of the Brotherhood"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "229 - 344  Damage"
+      },
+      {
+        "label": "+33 StaminaDurability"
+      },
+      {
+        "label": "+86 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19364::::::::::0|h[Ashkandi, Greatsword of the Brotherhood]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ashkandi-greatsword-of-the-brotherhood"
+  },
+  {
+    "itemId": 19854,
+    "name": "Zin'rokh, Destroyer of Worlds",
+    "icon": "inv_sword_55",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 123502,
+    "quality": "Epic",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Zin'rokh, Destroyer of Worlds"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "196 - 295  Damage"
+      },
+      {
+        "label": "+28 StaminaDurability"
+      },
+      {
+        "label": "+72 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19854::::::::::0|h[Zin'rokh, Destroyer of Worlds]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "zinrokh-destroyer-of-worlds"
+  },
+  {
+    "itemId": 20669,
+    "name": "Darkstone Claymore",
+    "icon": "inv_sword_35",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 70120,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Darkstone Claymore"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "152 - 229  Damage"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "+54 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20669::::::::::0|h[Darkstone Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "darkstone-claymore"
+  },
+  {
+    "itemId": 21492,
+    "name": "Manslayer of the Qiraji",
+    "icon": "inv_sword_56",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 113287,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Manslayer of the Qiraji"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "180 - 270  Damage"
+      },
+      {
+        "label": "+35 Strength"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+15 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21492::::::::::0|h[Manslayer of the Qiraji]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "manslayer-of-the-qiraji"
+  },
+  {
+    "itemId": 21679,
+    "name": "Kalimdor's Revenge",
+    "icon": "inv_sword_53",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 230318,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Kalimdor's Revenge"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "209 - 315  Damage"
+      },
+      {
+        "label": "+24 Strength"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21679::::::::::0|h[Kalimdor's Revenge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "kalimdors-revenge"
+  },
+  {
+    "itemId": 22691,
+    "name": "Corrupted Ashbringer",
+    "icon": "inv_sword_2h_ashbringercorrupt",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 288527,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Corrupted Ashbringer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "259 - 389  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:22691::::::::::0|h[Corrupted Ashbringer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "corrupted-ashbringer"
+  },
+  {
+    "itemId": 22813,
+    "name": "Claymore of Unholy Might",
+    "icon": "inv_sword_46",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 239811,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Claymore of Unholy Might"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "242 - 366  Damage"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "+98 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:22813::::::::::0|h[Claymore of Unholy Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "claymore-of-unholy-might"
+  },
+  {
+    "itemId": 41564,
+    "name": "Emberclaw",
+    "icon": "gensword1h_4",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 11855,
+    "quality": "Rare",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Emberclaw"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "67 - 124  Damage"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+8 Agility"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:41564::::::::::0|h[Emberclaw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "emberclaw"
+  },
+  {
+    "itemId": 50243,
+    "name": "Pompa's Scratching Stick",
+    "icon": "inv_sword_56",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 0,
+    "quality": "Epic",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Pompa's Scratching Stick"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 1337  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:50243::::::::::0|h[Pompa's Scratching Stick]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pompas-scratching-stick"
+  },
+  {
+    "itemId": 51752,
+    "name": "Crusader's Redemption",
+    "icon": "inv_sword_39",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 15471,
+    "quality": "Rare",
+    "itemLevel": 39,
+    "requiredLevel": 39,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Crusader's Redemption"
+      },
+      {
+        "label": "Requires Level 39"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "88 - 133  Damage"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:51752::::::::::0|h[Crusader's Redemption]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crusaders-redemption"
+  },
+  {
+    "itemId": 55277,
+    "name": "The End of All Ambitions",
+    "icon": "inv_theend",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 239811,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "The End of All Ambitions"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "207 - 385  Damage"
+      },
+      {
+        "label": "+45 Strength"
+      },
+      {
+        "label": "+24 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55277::::::::::0|h[The End of All Ambitions]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-end-of-all-ambitions"
+  },
+  {
+    "itemId": 58094,
+    "name": "Gilded Blade of Razjal",
+    "icon": "inv_sword_39",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 33195,
+    "quality": "Rare",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Gilded Blade of Razjal"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "119 - 167  Damage"
+      },
+      {
+        "label": "+22 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:58094::::::::::0|h[Gilded Blade of Razjal]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gilded-blade-of-razjal"
+  },
+  {
+    "itemId": 58232,
+    "name": "Demonbane",
+    "icon": "inv_sword_08",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 55420,
+    "quality": "Epic",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Demonbane"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "178 - 262  Damage"
+      },
+      {
+        "label": "+21 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:58232::::::::::0|h[Demonbane]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "demonbane"
+  },
+  {
+    "itemId": 60808,
+    "name": "Bone Fracture",
+    "icon": "inv_sword_47",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 77500,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bone Fracture"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "103 - 209  Damage"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60808::::::::::0|h[Bone Fracture]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bone-fracture"
+  },
+  {
+    "itemId": 61049,
+    "name": "Chronobreaker",
+    "icon": "inv_sword_19",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 111603,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Chronobreaker"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "142 - 214  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61049::::::::::0|h[Chronobreaker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chronobreaker"
+  },
+  {
+    "itemId": 61247,
+    "name": "Shadowbringer",
+    "icon": "inv_sword_2h_blood_c_02",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 100000,
+    "quality": "Epic",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Shadowbringer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "170 - 258  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61247::::::::::0|h[Shadowbringer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shadowbringer"
+  },
+  {
+    "itemId": 61660,
+    "name": "Garalon's Might",
+    "icon": "inv_sword_13",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 17495,
+    "quality": "Rare",
+    "itemLevel": 45,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Garalon's Might"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "87 - 144  Damage"
+      },
+      {
+        "label": "+21 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40997,
+          "name": "Gift of the Dark Bishop",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:61660::::::::::0|h[Garalon's Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "garalons-might"
+  },
+  {
+    "itemId": 80812,
+    "name": "Gift of the Spider God",
+    "icon": "inv_spear_05",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 13440,
+    "quality": "Epic",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Gift of the Spider God"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "83 - 130  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 110 / 110"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:80812::::::::::0|h[Gift of the Spider God]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gift-of-the-spider-god"
+  },
+  {
+    "itemId": 81057,
+    "name": "Dark Reaver",
+    "icon": "inv_sword_48",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 15262,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Dark Reaver"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "167 - 251  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81057::::::::::0|h[Dark Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dark-reaver"
+  },
+  {
+    "itemId": 81060,
+    "name": "Tempered Runeblade",
+    "icon": "inv_sword_02",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 180744,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Tempered Runeblade"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "183 - 278  Damage"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+20 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40259,
+          "name": "The Dark-Rune Anvil",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:81060::::::::::0|h[Tempered Runeblade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tempered-runeblade"
+  },
+  {
+    "itemId": 1460,
+    "name": "Black Stallion",
+    "icon": "inv_sword_46",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1768,
+    "quality": "Uncommon",
+    "itemLevel": 20,
+    "requiredLevel": 15,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Black Stallion"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "30 - 46  Damage"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1460::::::::::0|h[Black Stallion]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "black-stallion"
+  },
+  {
+    "itemId": 1566,
+    "name": "Edge of the People's Militia",
+    "icon": "inv_sword_25",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1132,
+    "quality": "Uncommon",
+    "itemLevel": 17,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Edge of the People's Militia"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "26 - 39  Damage"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 14,
+          "name": "The People's Militia",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:1566::::::::::0|h[Edge of the People's Militia]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "edge-of-the-peoples-militia"
+  },
+  {
+    "itemId": 1604,
+    "name": "Chromatic Sword",
+    "icon": "inv_sword_22",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 19463,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Chromatic Sword"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "100 - 150  Damage"
+      },
+      {
+        "label": "+7 Fire"
+      },
+      {
+        "label": "+7 Nature"
+      },
+      {
+        "label": "+7 Frost"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "+7 Arcane"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1604::::::::::0|h[Chromatic Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chromatic-sword"
+  },
+  {
+    "itemId": 1625,
+    "name": "Exquisite Flamberge",
+    "icon": "inv_sword_46",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 14754,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 36,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Exquisite Flamberge"
+      },
+      {
+        "label": "Requires Level 36"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "72 - 109  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1625::::::::::0|h[Exquisite Flamberge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "exquisite-flamberge"
+  },
+  {
+    "itemId": 1975,
+    "name": "Pysan's Old Greatsword",
+    "icon": "inv_sword_25",
+    "class": "Weapon",
+    "subclass": "sword",
+    "sellPrice": 5744,
+    "quality": "Rare",
+    "itemLevel": 28,
+    "requiredLevel": 23,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Pysan's Old Greatsword"
+      },
+      {
+        "label": "Requires Level 23"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "60 - 91  Damage"
+      },
+      {
+        "label": "+13 Spirit"
+      },
+      {
+        "label": "+5 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 95 / 95"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:1975::::::::::0|h[Pysan's Old Greatsword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pysans-old-greatsword"
+  },
+  {
+    "itemId": 2000,
+    "name": "Archeus",
+    "icon": "inv_sword_08",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 8827,
+    "quality": "Uncommon",
+    "itemLevel": 35,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Archeus"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "63 - 95  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 231,
+          "name": "A Daughter's Love",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:2000::::::::::0|h[Archeus]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "archeus"
+  },
+  {
+    "itemId": 2014,
+    "name": "Black Metal Greatsword",
+    "icon": "inv_sword_15",
+    "class": "Weapon",
+    "subclass": "sword",
+    "sellPrice": 4869,
+    "quality": "Uncommon",
+    "itemLevel": 29,
+    "requiredLevel": 24,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Black Metal Greatsword"
+      },
+      {
+        "label": "Requires Level 24"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "52 - 78  Damage"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:2014::::::::::0|h[Black Metal Greatsword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "black-metal-greatsword"
+  },
+  {
+    "itemId": 2084,
+    "name": "Darksteel Bastard Sword",
+    "icon": "inv_sword_13",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 5709,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Darksteel Bastard Sword"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "52 - 79  Damage"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+7 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:2084::::::::::0|h[Darksteel Bastard Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "darksteel-bastard-sword"
+  },
+  {
+    "itemId": 2204,
+    "name": "Brashclaw's Skewer",
+    "icon": "inv_sword_20",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1133,
+    "quality": "Uncommon",
+    "itemLevel": 17,
+    "requiredLevel": 12,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Brashclaw's Skewer"
+      },
+      {
+        "label": "Requires Level 12"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 - 44  Damage"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:2204::::::::::0|h[Brashclaw's Skewer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brashclaws-skewer"
+  },
+  {
+    "itemId": 3188,
+    "name": "Coral Claymore",
+    "icon": "inv_sword_38",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 879,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 10,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Coral Claymore"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "22 - 34  Damage"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3188::::::::::0|h[Coral Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "coral-claymore"
+  },
+  {
+    "itemId": 3196,
+    "name": "Edged Bastard Sword",
+    "icon": "inv_sword_23",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1377,
+    "quality": "Uncommon",
+    "itemLevel": 18,
+    "requiredLevel": 13,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Edged Bastard Sword"
+      },
+      {
+        "label": "Requires Level 13"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 - 44  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3196::::::::::0|h[Edged Bastard Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "edged-bastard-sword"
+  },
+  {
+    "itemId": 3206,
+    "name": "Cavalier Two-hander",
+    "icon": "inv_sword_20",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 4582,
+    "quality": "Uncommon",
+    "itemLevel": 28,
+    "requiredLevel": 23,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Cavalier Two-hander"
+      },
+      {
+        "label": "Requires Level 23"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "44 - 66  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3206::::::::::0|h[Cavalier Two-hander]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cavalier-two-hander"
+  },
+  {
+    "itemId": 3209,
+    "name": "Ancient War Sword",
+    "icon": "inv_sword_10",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 6783,
+    "quality": "Uncommon",
+    "itemLevel": 32,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Ancient War Sword"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "57 - 86  Damage"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 474,
+          "name": "Defeat Nek'rosh",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3209::::::::::0|h[Ancient War Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ancient-war-sword"
+  },
+  {
+    "itemId": 3417,
+    "name": "Onyx Claymore",
+    "icon": "inv_sword_13",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 4629,
+    "quality": "Rare",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Onyx Claymore"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "48 - 73  Damage"
+      },
+      {
+        "label": "+6 Spirit"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+9 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 95 / 95"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:3417::::::::::0|h[Onyx Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "onyx-claymore"
+  },
+  {
+    "itemId": 4817,
+    "name": "Blessed Claymore",
+    "icon": "inv_sword_13",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2462,
+    "quality": "Uncommon",
+    "itemLevel": 22,
+    "requiredLevel": 17,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Blessed Claymore"
+      },
+      {
+        "label": "Requires Level 17"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 - 44  Damage"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4817::::::::::0|h[Blessed Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blessed-claymore"
+  },
+  {
+    "itemId": 4818,
+    "name": "Executioner's Sword",
+    "icon": "inv_sword_28",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2854,
+    "quality": "Uncommon",
+    "itemLevel": 24,
+    "requiredLevel": 19,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Executioner's Sword"
+      },
+      {
+        "label": "Requires Level 19"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "43 - 65  Damage"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4818::::::::::0|h[Executioner's Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "executioners-sword"
+  },
+  {
+    "itemId": 5813,
+    "name": "Emil's Brand",
+    "icon": "inv_sword_10",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 7087,
+    "quality": "Uncommon",
+    "itemLevel": 32,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Emil's Brand"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "53 - 81  Damage"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1012,
+          "name": "Insane Druids",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:5813::::::::::0|h[Emil's Brand]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "emils-brand"
+  },
+  {
+    "itemId": 6909,
+    "name": "Strike of the Hydra",
+    "icon": "inv_sword_42",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 7155,
+    "quality": "Rare",
+    "itemLevel": 31,
+    "requiredLevel": 26,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Strike of the Hydra"
+      },
+      {
+        "label": "Requires Level 26"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "67 - 102  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:6909::::::::::0|h[Strike of the Hydra]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "strike-of-the-hydra"
+  },
+  {
+    "itemId": 6977,
+    "name": "Whirlwind Sword",
+    "icon": "inv_sword_15",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 17325,
+    "quality": "Rare",
+    "itemLevel": 40,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Whirlwind Sword"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "82 - 124  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1792,
+          "name": "Whirlwind Weapon",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:6977::::::::::0|h[Whirlwind Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "whirlwind-sword"
+  },
+  {
+    "itemId": 7689,
+    "name": "Morbid Dawn",
+    "icon": "inv_sword_12",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 11124,
+    "quality": "Rare",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Morbid Dawn"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "70 - 105  Damage"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:7689::::::::::0|h[Morbid Dawn]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "morbid-dawn"
+  },
+  {
+    "itemId": 7960,
+    "name": "Truesilver Champion",
+    "icon": "inv_sword_19",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 38548,
+    "quality": "Rare",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Truesilver Champion"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "108 - 162  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:7960::::::::::0|h[Truesilver Champion]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "truesilver-champion"
+  },
+  {
+    "itemId": 8199,
+    "name": "Battlefield Destroyer",
+    "icon": "inv_sword_26",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 24661,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Battlefield Destroyer"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "90 - 136  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8199::::::::::0|h[Battlefield Destroyer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "battlefield-destroyer"
+  },
+  {
+    "itemId": 9418,
+    "name": "Stoneslayer",
+    "icon": "inv_sword_47",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 32851,
+    "quality": "Rare",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Stoneslayer"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "133 - 200  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9418::::::::::0|h[Stoneslayer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stoneslayer"
+  },
+  {
+    "itemId": 9602,
+    "name": "Brushwood Blade",
+    "icon": "inv_sword_06",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 301,
+    "quality": "Uncommon",
+    "itemLevel": 10,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Brushwood Blade"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "17 - 26  Damage"
+      },
+      {
+        "label": "+1 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9602::::::::::0|h[Brushwood Blade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brushwood-blade"
+  },
+  {
+    "itemId": 10758,
+    "name": "X'caliboar",
+    "icon": "inv_sword_45",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 20144,
+    "quality": "Rare",
+    "itemLevel": 42,
+    "requiredLevel": 35,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "X'caliboar"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "98 - 148  Damage"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:10758::::::::::0|h[X'caliboar]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "xcaliboar"
+  },
+  {
+    "itemId": 11786,
+    "name": "Stone of the Earth",
+    "icon": "inv_sword_47",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 50739,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Stone of the Earth"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "280 Armor"
+      },
+      {
+        "label": "123 - 185  Damage"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11786::::::::::0|h[Stone of the Earth]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stone-of-the-earth"
+  },
+  {
+    "itemId": 12469,
+    "name": "Mutilator",
+    "icon": "inv_sword_02",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 29179,
+    "quality": "Rare",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Mutilator"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "82 - 124  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12469::::::::::0|h[Mutilator]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mutilator"
+  },
+  {
+    "itemId": 12992,
+    "name": "Searing Blade",
+    "icon": "inv_sword_21",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 3260,
+    "quality": "Rare",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Searing Blade"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "39 - 59  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12992::::::::::0|h[Searing Blade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "searing-blade"
+  },
+  {
+    "itemId": 13042,
+    "name": "Sword of the Magistrate",
+    "icon": "inv_sword_41",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 17596,
+    "quality": "Rare",
+    "itemLevel": 41,
+    "requiredLevel": 36,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Sword of the Magistrate"
+      },
+      {
+        "label": "Requires Level 36"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "96 - 145  Damage"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+10 Spirit"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13042::::::::::0|h[Sword of the Magistrate]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sword-of-the-magistrate"
+  },
+  {
+    "itemId": 13051,
+    "name": "Witchfury",
+    "icon": "inv_sword_35",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 22911,
+    "quality": "Rare",
+    "itemLevel": 44,
+    "requiredLevel": 39,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Witchfury"
+      },
+      {
+        "label": "Requires Level 39"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "87 - 131  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13051::::::::::0|h[Witchfury]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "witchfury"
+  },
+  {
+    "itemId": 13052,
+    "name": "Warmonger",
+    "icon": "inv_sword_46",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 41677,
+    "quality": "Rare",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Warmonger"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "108 - 162  Damage"
+      },
+      {
+        "label": "+3 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13052::::::::::0|h[Warmonger]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warmonger"
+  },
+  {
+    "itemId": 13163,
+    "name": "Relentless Scythe",
+    "icon": "inv_sword_18",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 69537,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Relentless Scythe"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "140 - 210  Damage"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13163::::::::::0|h[Relentless Scythe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "relentless-scythe"
+  },
+  {
+    "itemId": 13982,
+    "name": "Warblade of Caer Darrow",
+    "icon": "inv_sword_39",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 69826,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Warblade of Caer Darrow"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "142 - 214  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 5466,
+          "name": "The Lich, Ras Frostwhisper",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:13982::::::::::0|h[Warblade of Caer Darrow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warblade-of-caer-darrow"
+  },
+  {
+    "itemId": 15254,
+    "name": "Dark Espadon",
+    "icon": "inv_sword_26",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 35584,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Dark Espadon"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "110 - 166  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15254::::::::::0|h[Dark Espadon]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dark-espadon"
+  },
+  {
+    "itemId": 15258,
+    "name": "Divine Warblade",
+    "icon": "inv_sword_26",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 64185,
+    "quality": "Uncommon",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Divine Warblade"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "109 - 164  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15258::::::::::0|h[Divine Warblade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "divine-warblade"
+  },
+  {
+    "itemId": 16039,
+    "name": "Ta'Kierthan Songblade",
+    "icon": "inv_sword_41",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 53598,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Ta'Kierthan Songblade"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "129 - 194  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16039::::::::::0|h[Ta'Kierthan Songblade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "takierthan-songblade"
+  },
+  {
+    "itemId": 20504,
+    "name": "Lightforged Blade",
+    "icon": "inv_sword_39",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 37873,
+    "quality": "Rare",
+    "itemLevel": 52,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Lightforged Blade"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "118 - 178  Damage"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "+10 Frost"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8418,
+          "name": "Forging the Mightstone",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:20504::::::::::0|h[Lightforged Blade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lightforged-blade"
+  },
+  {
+    "itemId": 51849,
+    "name": "Thunderhorn",
+    "icon": "inv_sword_17",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 891,
+    "quality": "Rare",
+    "itemLevel": 23,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Thunderhorn"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "47 - 71  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 60124,
+          "name": "Trapped in the Nightmare",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:51849::::::::::0|h[Thunderhorn]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thunderhorn"
+  },
+  {
+    "itemId": 58188,
+    "name": "Jaw of the Ancient",
+    "icon": "inv_sword_19",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 27260,
+    "quality": "Rare",
+    "itemLevel": 39,
+    "requiredLevel": 34,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Jaw of the Ancient"
+      },
+      {
+        "label": "Requires Level 34"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "116 - 180  Damage"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:58188::::::::::0|h[Jaw of the Ancient]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jaw-of-the-ancient"
+  },
+  {
+    "itemId": 60293,
+    "name": "Untempered Runeblade",
+    "icon": "inv_sword_17",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 71207,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Untempered Runeblade"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "168 - 252  Damage"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40234,
+          "name": "A New Rune-Frontier",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:60293::::::::::0|h[Untempered Runeblade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "untempered-runeblade"
+  },
+  {
+    "itemId": 60294,
+    "name": "Bloodstone Warblade",
+    "icon": "inv_sword_12",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 27106,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 41,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bloodstone Warblade"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "110 - 168  Damage"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:60294::::::::::0|h[Bloodstone Warblade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodstone-warblade"
+  },
+  {
+    "itemId": 60392,
+    "name": "Sword of Laneron",
+    "icon": "inv_sword_23",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 3259,
+    "quality": "Rare",
+    "itemLevel": 25,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Sword of Laneron"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "40 - 78  Damage"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40282,
+          "name": "Darlthos Legacy",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:60392::::::::::0|h[Sword of Laneron]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sword-of-laneron"
+  },
+  {
+    "itemId": 60947,
+    "name": "Blade of Marauder Kings",
+    "icon": "inv_sword_45",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 26815,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Blade of Marauder Kings"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "89 - 104  Damage"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40717,
+          "name": "Undoing the Curse",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60947::::::::::0|h[Blade of Marauder Kings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blade-of-marauder-kings"
+  },
+  {
+    "itemId": 61016,
+    "name": "Time-Lost Claymore",
+    "icon": "inv_sword_10",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 71193,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Time-Lost Claymore"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "150 - 219  Damage"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "+66 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61016::::::::::0|h[Time-Lost Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "time-lost-claymore"
+  },
+  {
+    "itemId": 61328,
+    "name": "Wolfblood",
+    "icon": "inv_sword_17",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 33379,
+    "quality": "Rare",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Wolfblood"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "114 - 174  Damage"
+      },
+      {
+        "label": "+18 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61328::::::::::0|h[Wolfblood]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wolfblood"
+  },
+  {
+    "itemId": 61375,
+    "name": "Crossguarded Blade",
+    "icon": "inv_sword_22",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 200,
+    "quality": "Uncommon",
+    "itemLevel": 10,
+    "requiredLevel": 5,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Crossguarded Blade"
+      },
+      {
+        "label": "Requires Level 5"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "20 Armor"
+      },
+      {
+        "label": "12 - 19  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61375::::::::::0|h[Crossguarded Blade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crossguarded-blade"
+  },
+  {
+    "itemId": 80534,
+    "name": "Quel'dorei Guardian's Battle Glaive",
+    "icon": "inv_spear_08",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 33972,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Quel'dorei Guardian's Battle Glaive"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "136 - 243  Damage"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "+50 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80534::::::::::0|h[Quel'dorei Guardian's Battle Glaive]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "queldorei-guardians-battle-glaive"
+  },
+  {
+    "itemId": 80537,
+    "name": "Quel'dorei Guardian's Twinblade",
+    "icon": "inv_sword_2h_blood_c_01",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 33978,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Quel'dorei Guardian's Twinblade"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "136 - 243  Damage"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "+50 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80537::::::::::0|h[Quel'dorei Guardian's Twinblade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "queldorei-guardians-twinblade"
+  },
+  {
+    "itemId": 80637,
+    "name": "Revantusk Watcher's Warblade",
+    "icon": "inv_sword_02",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 33978,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Revantusk Watcher's Warblade"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "136 - 243  Damage"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "+50 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80637::::::::::0|h[Revantusk Watcher's Warblade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revantusk-watchers-warblade"
+  },
+  {
+    "itemId": 913,
+    "name": "Huge Ogre Sword",
+    "icon": "inv_sword_13",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 5037,
+    "quality": "Uncommon",
+    "itemLevel": 29,
+    "requiredLevel": 24,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Huge Ogre Sword"
+      },
+      {
+        "label": "Requires Level 24"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "60 - 90  Damage"
+      },
+      {
+        "label": "+11 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:913::::::::::0|h[Huge Ogre Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "huge-ogre-sword"
+  },
+  {
+    "itemId": 922,
+    "name": "Dacian Falx",
+    "icon": "inv_sword_10",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2407,
+    "quality": "Common",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Dacian Falx"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "39 - 60  Damage"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:922::::::::::0|h[Dacian Falx]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dacian-falx"
+  },
+  {
+    "itemId": 1194,
+    "name": "Bastard Sword",
+    "icon": "inv_sword_06",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 20,
+    "quality": "Common",
+    "itemLevel": 4,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bastard Sword"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "5 - 8  Damage"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:1194::::::::::0|h[Bastard Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bastard-sword"
+  },
+  {
+    "itemId": 1198,
+    "name": "Claymore",
+    "icon": "inv_sword_40",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 535,
+    "quality": "Common",
+    "itemLevel": 15,
+    "requiredLevel": 10,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Claymore"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "23 - 35  Damage"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:1198::::::::::0|h[Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "claymore"
+  },
+  {
+    "itemId": 1387,
+    "name": "Ghoulfang",
+    "icon": "inv_sword_07",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1578,
+    "quality": "Uncommon",
+    "itemLevel": 19,
+    "requiredLevel": 14,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Ghoulfang"
+      },
+      {
+        "label": "Requires Level 14"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "36 - 54  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1387::::::::::0|h[Ghoulfang]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ghoulfang"
+  },
+  {
+    "itemId": 1986,
+    "name": "Gutrender",
+    "icon": "inv_sword_15",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 14861,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 36,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Gutrender"
+      },
+      {
+        "label": "Requires Level 36"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "62 - 94  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1986::::::::::0|h[Gutrender]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gutrender"
+  },
+  {
+    "itemId": 2024,
+    "name": "Espadon",
+    "icon": "inv_sword_43",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1215,
+    "quality": "Common",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Espadon"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 - 44  Damage"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2024::::::::::0|h[Espadon]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "espadon"
+  },
+  {
+    "itemId": 2521,
+    "name": "Flamberge",
+    "icon": "inv_sword_26",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 6179,
+    "quality": "Common",
+    "itemLevel": 36,
+    "requiredLevel": 31,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Flamberge"
+      },
+      {
+        "label": "Requires Level 31"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "59 - 89  Damage"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2521::::::::::0|h[Flamberge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "flamberge"
+  },
+  {
+    "itemId": 2822,
+    "name": "Mo'grosh Toothpick",
+    "icon": "inv_sword_45",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1402,
+    "quality": "Uncommon",
+    "itemLevel": 18,
+    "requiredLevel": 13,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Mo'grosh Toothpick"
+      },
+      {
+        "label": "Requires Level 13"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "26 - 40  Damage"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:2822::::::::::0|h[Mo'grosh Toothpick]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mogrosh-toothpick"
+  },
+  {
+    "itemId": 3192,
+    "name": "Short Bastard Sword",
+    "icon": "inv_sword_40",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 495,
+    "quality": "Uncommon",
+    "itemLevel": 12,
+    "requiredLevel": 7,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Short Bastard Sword"
+      },
+      {
+        "label": "Requires Level 7"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "20 - 30  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3192::::::::::0|h[Short Bastard Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "short-bastard-sword"
+  },
+  {
+    "itemId": 3197,
+    "name": "Stonecutter Claymore",
+    "icon": "inv_sword_47",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 9295,
+    "quality": "Uncommon",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Stonecutter Claymore"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "59 - 89  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3197::::::::::0|h[Stonecutter Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stonecutter-claymore"
+  },
+  {
+    "itemId": 3487,
+    "name": "Heavy Copper Broadsword",
+    "icon": "inv_sword_14",
+    "class": "Weapon",
+    "subclass": "sword",
+    "sellPrice": 1498,
+    "quality": "Uncommon",
+    "itemLevel": 19,
+    "requiredLevel": 14,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Heavy Copper Broadsword"
+      },
+      {
+        "label": "Requires Level 14"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "27 - 41  Damage"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3487::::::::::0|h[Heavy Copper Broadsword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-copper-broadsword"
+  },
+  {
+    "itemId": 3822,
+    "name": "Runic Darkblade",
+    "icon": "inv_sword_02",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 6481,
+    "quality": "Uncommon",
+    "itemLevel": 32,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Runic Darkblade"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "57 - 86  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 550,
+          "name": "Battle of Hillsbrad",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3822::::::::::0|h[Runic Darkblade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "runic-darkblade"
+  },
+  {
+    "itemId": 3853,
+    "name": "Moonsteel Broadsword",
+    "icon": "inv_sword_25",
+    "class": "Weapon",
+    "subclass": "sword",
+    "sellPrice": 10153,
+    "quality": "Uncommon",
+    "itemLevel": 36,
+    "requiredLevel": 31,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Moonsteel Broadsword"
+      },
+      {
+        "label": "Requires Level 31"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "55 - 83  Damage"
+      },
+      {
+        "label": "+4 Stamina"
+      },
+      {
+        "label": "+12 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8781,
+          "name": "Arms for the Field",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 1203,
+          "name": "Jarl Needs a Blade",
+          "faction": "Both"
+        },
+        {
+          "questId": 5284,
+          "name": "The Way of the Weaponsmith",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 5302,
+          "name": "The Way of the Weaponsmith",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3853::::::::::0|h[Moonsteel Broadsword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "moonsteel-broadsword"
+  },
+  {
+    "itemId": 3854,
+    "name": "Frost Tiger Blade",
+    "icon": "inv_sword_05",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 14120,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Frost Tiger Blade"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "78 - 118  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3854::::::::::0|h[Frost Tiger Blade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "frost-tiger-blade"
+  },
+  {
+    "itemId": 4567,
+    "name": "Merc Sword",
+    "icon": "inv_sword_04",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1049,
+    "quality": "Uncommon",
+    "itemLevel": 16,
+    "requiredLevel": 11,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Merc Sword"
+      },
+      {
+        "label": "Requires Level 11"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "24 - 36  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4567::::::::::0|h[Merc Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "merc-sword"
+  },
+  {
+    "itemId": 4939,
+    "name": "Steady Bastard Sword",
+    "icon": "inv_sword_34",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 395,
+    "quality": "Uncommon",
+    "itemLevel": 11,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Steady Bastard Sword"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "16 - 25  Damage"
+      },
+      {
+        "label": "+2 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 827,
+          "name": "Skull Rock",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4939::::::::::0|h[Steady Bastard Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "steady-bastard-sword"
+  },
+  {
+    "itemId": 5182,
+    "name": "Shiver Blade",
+    "icon": "inv_sword_26",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1769,
+    "quality": "Uncommon",
+    "itemLevel": 20,
+    "requiredLevel": 15,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Shiver Blade"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "30 - 46  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:5182::::::::::0|h[Shiver Blade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shiver-blade"
+  },
+  {
+    "itemId": 5614,
+    "name": "Seraph's Strike",
+    "icon": "inv_sword_27",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 6147,
+    "quality": "Uncommon",
+    "itemLevel": 31,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Seraph's Strike"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "54 - 81  Damage"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+4 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 981,
+          "name": "The Tower of Althalaxx",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:5614::::::::::0|h[Seraph's Strike]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "seraphs-strike"
+  },
+  {
+    "itemId": 5615,
+    "name": "Woodsman Sword",
+    "icon": "inv_sword_42",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1776,
+    "quality": "Uncommon",
+    "itemLevel": 20,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Woodsman Sword"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "34 - 52  Damage"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+2 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 951,
+          "name": "Mathystra Relics",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:5615::::::::::0|h[Woodsman Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "woodsman-sword"
+  },
+  {
+    "itemId": 5779,
+    "name": "Forsaken Bastard Sword",
+    "icon": "inv_sword_06",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 30,
+    "quality": "Common",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Forsaken Bastard Sword"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "7 - 11  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 381,
+          "name": "The Scarlet Crusade",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:5779::::::::::0|h[Forsaken Bastard Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "forsaken-bastard-sword"
+  },
+  {
+    "itemId": 6186,
+    "name": "Trogg Slicer",
+    "icon": "inv_sword_46",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1372,
+    "quality": "Uncommon",
+    "itemLevel": 18,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Trogg Slicer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "32 - 49  Damage"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 297,
+          "name": "Gathering Idols",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6186::::::::::0|h[Trogg Slicer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "trogg-slicer"
+  },
+  {
+    "itemId": 6641,
+    "name": "Haunting Blade",
+    "icon": "inv_sword_17",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 3675,
+    "quality": "Uncommon",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Haunting Blade"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "53 - 80  Damage"
+      },
+      {
+        "label": "+9 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:6641::::::::::0|h[Haunting Blade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "haunting-blade"
+  },
+  {
+    "itemId": 7955,
+    "name": "Copper Claymore",
+    "icon": "inv_sword_21",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 241,
+    "quality": "Common",
+    "itemLevel": 11,
+    "requiredLevel": 6,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Copper Claymore"
+      },
+      {
+        "label": "Requires Level 6"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "15 - 23  Damage"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:7955::::::::::0|h[Copper Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "copper-claymore"
+  },
+  {
+    "itemId": 7957,
+    "name": "Bronze Greatsword",
+    "icon": "inv_sword_20",
+    "class": "Weapon",
+    "subclass": "sword",
+    "sellPrice": 2205,
+    "quality": "Common",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bronze Greatsword"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "38 - 58  Damage"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2751,
+          "name": "Barbaric Battlements",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:7957::::::::::0|h[Bronze Greatsword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bronze-greatsword"
+  },
+  {
+    "itemId": 8178,
+    "name": "Training Sword",
+    "icon": "inv_sword_45",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 306,
+    "quality": "Uncommon",
+    "itemLevel": 10,
+    "requiredLevel": 5,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Training Sword"
+      },
+      {
+        "label": "Requires Level 5"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "20 - 30  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8178::::::::::0|h[Training Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "training-sword"
+  },
+  {
+    "itemId": 11854,
+    "name": "Samophlange Screwdriver",
+    "icon": "inv_sword_46",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1494,
+    "quality": "Uncommon",
+    "itemLevel": 19,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Samophlange Screwdriver"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "25 - 38  Damage"
+      },
+      {
+        "label": "+6 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 3924,
+          "name": "Samophlange Manual",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:11854::::::::::0|h[Samophlange Screwdriver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "samophlange-screwdriver"
+  },
+  {
+    "itemId": 12755,
+    "name": "Monster - Sword2H, Blackblade of Shahram",
+    "icon": "inv_sword_29",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 4,
+    "quality": "Common",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Blackblade of Shahram"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:12755::::::::::0|h[Monster - Sword2H, Blackblade of Shahram]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-blackblade-of-shahram"
+  },
+  {
+    "itemId": 12764,
+    "name": "Thorium Greatsword",
+    "icon": "inv_sword_22",
+    "class": "Weapon",
+    "subclass": "sword",
+    "sellPrice": 33621,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Thorium Greatsword"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "116 - 175  Damage"
+      },
+      {
+        "label": "+22 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12764::::::::::0|h[Thorium Greatsword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thorium-greatsword"
+  },
+  {
+    "itemId": 15248,
+    "name": "Gleaming Claymore",
+    "icon": "inv_sword_23",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1791,
+    "quality": "Uncommon",
+    "itemLevel": 20,
+    "requiredLevel": 15,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Gleaming Claymore"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "30 - 46  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15248::::::::::0|h[Gleaming Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gleaming-claymore"
+  },
+  {
+    "itemId": 15249,
+    "name": "Polished Zweihander",
+    "icon": "inv_sword_23",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 3877,
+    "quality": "Uncommon",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Polished Zweihander"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "50 - 76  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15249::::::::::0|h[Polished Zweihander]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "polished-zweihander"
+  },
+  {
+    "itemId": 15250,
+    "name": "Glimmering Flamberge",
+    "icon": "inv_sword_20",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 6894,
+    "quality": "Uncommon",
+    "itemLevel": 32,
+    "requiredLevel": 27,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Glimmering Flamberge"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "55 - 84  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15250::::::::::0|h[Glimmering Flamberge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "glimmering-flamberge"
+  },
+  {
+    "itemId": 15252,
+    "name": "Tusker Sword",
+    "icon": "inv_sword_45",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 27906,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Tusker Sword"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "112 - 169  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15252::::::::::0|h[Tusker Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tusker-sword"
+  },
+  {
+    "itemId": 15255,
+    "name": "Gallant Flamberge",
+    "icon": "inv_sword_08",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 42545,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Gallant Flamberge"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "120 - 181  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15255::::::::::0|h[Gallant Flamberge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gallant-flamberge"
+  },
+  {
+    "itemId": 15256,
+    "name": "Massacre Sword",
+    "icon": "inv_sword_26",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 47531,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Massacre Sword"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "139 - 209  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15256::::::::::0|h[Massacre Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "massacre-sword"
+  },
+  {
+    "itemId": 15257,
+    "name": "Shin Blade",
+    "icon": "inv_sword_10",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 55234,
+    "quality": "Uncommon",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Shin Blade"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "84 - 127  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15257::::::::::0|h[Shin Blade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shin-blade"
+  },
+  {
+    "itemId": 18410,
+    "name": "Sprinter's Sword",
+    "icon": "inv_sword_28",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 45516,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Sprinter's Sword"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "99 - 149  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 7441,
+          "name": "Pusillin and the Elder Azj'Tordin",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:18410::::::::::0|h[Sprinter's Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sprinters-sword"
+  },
+  {
+    "itemId": 41184,
+    "name": "Blade of the Warden",
+    "icon": "inv_sword_24",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 241,
+    "quality": "Common",
+    "itemLevel": 12,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Blade of the Warden"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "17 - 31  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41246,
+          "name": "Restless Autumn",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:41184::::::::::0|h[Blade of the Warden]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blade-of-the-warden"
+  },
+  {
+    "itemId": 41483,
+    "name": "Monster - Sword2H",
+    "icon": "inv_axe_01",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 4,
+    "quality": "Common",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:41483::::::::::0|h[Monster - Sword2H]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h"
+  },
+  {
+    "itemId": 50256,
+    "name": "Fractured Sword",
+    "icon": "inv_sword_06",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1,
+    "quality": "Common",
+    "itemLevel": 6,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Fractured Sword"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "8 - 13  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:50256::::::::::0|h[Fractured Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fractured-sword"
+  },
+  {
+    "itemId": 51040,
+    "name": "Claymore of the Templar",
+    "icon": "inv_sword_39",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 250,
+    "quality": "Common",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Claymore of the Templar"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:51040::::::::::0|h[Claymore of the Templar]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "claymore-of-the-templar"
+  },
+  {
+    "itemId": 51766,
+    "name": "Greatblade of Quel'Danil",
+    "icon": "inv_sword_2h_blood_b_01",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 7039,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Greatblade of Quel'Danil"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "88 - 147  Damage"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+9 Agility"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 80393,
+          "name": "Errand for Quel'Danil",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:51766::::::::::0|h[Greatblade of Quel'Danil]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "greatblade-of-queldanil"
+  },
+  {
+    "itemId": 58069,
+    "name": "Penny's Crabcracker",
+    "icon": "inv_sword_06",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 12815,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Penny's Crabcracker"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "62 - 90  Damage"
+      },
+      {
+        "label": "+22 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41702,
+          "name": "Tide-ying Up",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:58069::::::::::0|h[Penny's Crabcracker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pennys-crabcracker"
+  },
+  {
+    "itemId": 61346,
+    "name": "Katana of the Senshi",
+    "icon": "inv_sword_26",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 14109,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Katana of the Senshi"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "61 - 114  Damage"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61346::::::::::0|h[Katana of the Senshi]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "katana-of-the-senshi"
+  },
+  {
+    "itemId": 61538,
+    "name": "Moonsteel Zweihander",
+    "icon": "inv_sword_26",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 43143,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Moonsteel Zweihander"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "82 - 147  Damage"
+      },
+      {
+        "label": "+13 Agility"
+      },
+      {
+        "label": "+7 Intellect"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "+16 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61538::::::::::0|h[Moonsteel Zweihander]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "moonsteel-zweihander"
+  },
+  {
+    "itemId": 61612,
+    "name": "Holy Sword",
+    "icon": "inv_sword_06",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 27500,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Holy Sword"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "87 - 133  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61612::::::::::0|h[Holy Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "holy-sword"
+  },
+  {
+    "itemId": 80126,
+    "name": "Sharpened Bastard Sword",
+    "icon": "inv_sword_06",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 59,
+    "quality": "Uncommon",
+    "itemLevel": 11,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Sharpened Bastard Sword"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "19 - 27  Damage"
+      },
+      {
+        "label": "+1 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 80108,
+          "name": "Me Not Any Kind Of Orc",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:80126::::::::::0|h[Sharpened Bastard Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sharpened-bastard-sword"
+  },
+  {
+    "itemId": 80222,
+    "name": "Farstrider Lodge Protector's Sword",
+    "icon": "inv_sword_24",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1768,
+    "quality": "Uncommon",
+    "itemLevel": 20,
+    "requiredLevel": 15,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Farstrider Lodge Protector's Sword"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "30 - 46  Damage"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:80222::::::::::0|h[Farstrider Lodge Protector's Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "farstrider-lodge-protectors-sword"
+  },
+  {
+    "itemId": 80817,
+    "name": "Scorched Bastard Sword",
+    "icon": "inv_sword_21",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 179,
+    "quality": "Uncommon",
+    "itemLevel": 13,
+    "requiredLevel": 8,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Scorched Bastard Sword"
+      },
+      {
+        "label": "Requires Level 8"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "18 - 28  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:80817::::::::::0|h[Scorched Bastard Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "scorched-bastard-sword"
+  },
+  {
+    "itemId": 1412,
+    "name": "Crude Bastard Sword",
+    "icon": "inv_sword_06",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 49,
+    "quality": "Poor",
+    "itemLevel": 7,
+    "requiredLevel": 2,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Crude Bastard Sword"
+      },
+      {
+        "label": "Requires Level 2"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "7 - 12  Damage"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1412::::::::::0|h[Crude Bastard Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crude-bastard-sword"
+  },
+  {
+    "itemId": 1513,
+    "name": "Old Greatsword",
+    "icon": "inv_sword_06",
+    "class": "Weapon",
+    "subclass": "sword",
+    "sellPrice": 293,
+    "quality": "Poor",
+    "itemLevel": 14,
+    "requiredLevel": 9,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Old Greatsword"
+      },
+      {
+        "label": "Requires Level 9"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "16 - 25  Damage"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1513::::::::::0|h[Old Greatsword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "old-greatsword"
+  },
+  {
+    "itemId": 1811,
+    "name": "Blunt Claymore",
+    "icon": "inv_sword_06",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 451,
+    "quality": "Poor",
+    "itemLevel": 17,
+    "requiredLevel": 12,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Blunt Claymore"
+      },
+      {
+        "label": "Requires Level 12"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "16 - 25  Damage"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1811::::::::::0|h[Blunt Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blunt-claymore"
+  },
+  {
+    "itemId": 1818,
+    "name": "Standard Claymore",
+    "icon": "inv_sword_06",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1221,
+    "quality": "Poor",
+    "itemLevel": 24,
+    "requiredLevel": 19,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Standard Claymore"
+      },
+      {
+        "label": "Requires Level 19"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "23 - 35  Damage"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1818::::::::::0|h[Standard Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "standard-claymore"
+  },
+  {
+    "itemId": 1830,
+    "name": "Long Bastard Sword",
+    "icon": "inv_sword_06",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1783,
+    "quality": "Poor",
+    "itemLevel": 28,
+    "requiredLevel": 23,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Long Bastard Sword"
+      },
+      {
+        "label": "Requires Level 23"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 - 44  Damage"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1830::::::::::0|h[Long Bastard Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "long-bastard-sword"
+  },
+  {
+    "itemId": 1983,
+    "name": "Monster - Sword2H, Basic",
+    "icon": "inv_sword_04",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 4,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Basic"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1983::::::::::0|h[Monster - Sword2H, Basic]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-basic"
+  },
+  {
+    "itemId": 2128,
+    "name": "Scratched Claymore",
+    "icon": "inv_sword_06",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 20,
+    "quality": "Common",
+    "itemLevel": 4,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Scratched Claymore"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "4 - 7  Damage"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2128::::::::::0|h[Scratched Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "scratched-claymore"
+  },
+  {
+    "itemId": 2181,
+    "name": "Monster - Sword2H, Baron Rivendare",
+    "icon": "inv_sword_03",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 3,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Baron Rivendare"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2181::::::::::0|h[Monster - Sword2H, Baron Rivendare]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-baron-rivendare"
+  },
+  {
+    "itemId": 2489,
+    "name": "Two-handed Sword",
+    "icon": "inv_sword_14",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 68,
+    "quality": "Common",
+    "itemLevel": 7,
+    "requiredLevel": 2,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Two-handed Sword"
+      },
+      {
+        "label": "Requires Level 2"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "8 - 13  Damage"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2489::::::::::0|h[Two-handed Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "two-handed-sword"
+  },
+  {
+    "itemId": 2497,
+    "name": "Rusted Claymore",
+    "icon": "inv_sword_06",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 142,
+    "quality": "Common",
+    "itemLevel": 9,
+    "requiredLevel": 4,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Rusted Claymore"
+      },
+      {
+        "label": "Requires Level 4"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "12 - 19  Damage"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2497::::::::::0|h[Rusted Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rusted-claymore"
+  },
+  {
+    "itemId": 2529,
+    "name": "Zweihander",
+    "icon": "inv_sword_15",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 13006,
+    "quality": "Common",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Zweihander"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "75 - 113  Damage"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2529::::::::::0|h[Zweihander]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "zweihander"
+  },
+  {
+    "itemId": 2754,
+    "name": "Tarnished Bastard Sword",
+    "icon": "inv_sword_06",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 13,
+    "quality": "Common",
+    "itemLevel": 3,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Tarnished Bastard Sword"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "4 - 6  Damage"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2754::::::::::0|h[Tarnished Bastard Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tarnished-bastard-sword"
+  },
+  {
+    "itemId": 3781,
+    "name": "Broad Claymore",
+    "icon": "inv_sword_23",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 3125,
+    "quality": "Poor",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Broad Claymore"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "36 - 55  Damage"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3781::::::::::0|h[Broad Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "broad-claymore"
+  },
+  {
+    "itemId": 4018,
+    "name": "Whetted Claymore",
+    "icon": "inv_sword_39",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 6372,
+    "quality": "Poor",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Whetted Claymore"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "46 - 70  Damage"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:4018::::::::::0|h[Whetted Claymore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "whetted-claymore"
+  },
+  {
+    "itemId": 4991,
+    "name": "Monster - Sword2H, Broadsword",
+    "icon": "inv_sword_17",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Broadsword"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 3  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:4991::::::::::0|h[Monster - Sword2H, Broadsword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-broadsword"
+  },
+  {
+    "itemId": 6224,
+    "name": "Monster - Sword2H, Black Metal Hilt",
+    "icon": "inv_sword_15",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 4,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Black Metal Hilt"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:6224::::::::::0|h[Monster - Sword2H, Black Metal Hilt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-black-metal-hilt"
+  },
+  {
+    "itemId": 6741,
+    "name": "Orcish War Sword",
+    "icon": "inv_sword_13",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 3014,
+    "quality": "Common",
+    "itemLevel": 29,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Orcish War Sword"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "45 - 68  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1153,
+          "name": "A New Ore Sample",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:6741::::::::::0|h[Orcish War Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "orcish-war-sword"
+  },
+  {
+    "itemId": 8177,
+    "name": "Practice Sword",
+    "icon": "inv_sword_45",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 71,
+    "quality": "Common",
+    "itemLevel": 7,
+    "requiredLevel": 2,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Practice Sword"
+      },
+      {
+        "label": "Requires Level 2"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "9 - 15  Damage"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:8177::::::::::0|h[Practice Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "practice-sword"
+  },
+  {
+    "itemId": 11321,
+    "name": "Monster - Sword2H, Horde Massive",
+    "icon": "inv_sword_04",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Horde Massive"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:11321::::::::::0|h[Monster - Sword2H, Horde Massive]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-horde-massive"
+  },
+  {
+    "itemId": 11322,
+    "name": "Monster - Sword2H, Horde Broad",
+    "icon": "inv_sword_04",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Horde Broad"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:11322::::::::::0|h[Monster - Sword2H, Horde Broad]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-horde-broad"
+  },
+  {
+    "itemId": 11323,
+    "name": "Monster - Sword2H, Horde Jagged",
+    "icon": "inv_sword_04",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Horde Jagged"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:11323::::::::::0|h[Monster - Sword2H, Horde Jagged]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-horde-jagged"
+  },
+  {
+    "itemId": 12331,
+    "name": "Monster - Sword2H, Horde Massive Green",
+    "icon": "inv_sword_04",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Horde Massive Green"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:12331::::::::::0|h[Monster - Sword2H, Horde Massive Green]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-horde-massive-green"
+  },
+  {
+    "itemId": 12882,
+    "name": "Monster - Sword2H, Horde Curved Silver",
+    "icon": "inv_sword_04",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 3,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Horde Curved Silver"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:12882::::::::::0|h[Monster - Sword2H, Horde Curved Silver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-horde-curved-silver"
+  },
+  {
+    "itemId": 12889,
+    "name": "Monster - Sword2H, Horde Curved Black",
+    "icon": "inv_sword_04",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Horde Curved Black"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:12889::::::::::0|h[Monster - Sword2H, Horde Curved Black]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-horde-curved-black"
+  },
+  {
+    "itemId": 12902,
+    "name": "Monster - Sword2H, Luminous Evil Blade",
+    "icon": "inv_sword_04",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Luminous Evil Blade"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:12902::::::::::0|h[Monster - Sword2H, Luminous Evil Blade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-luminous-evil-blade"
+  },
+  {
+    "itemId": 13150,
+    "name": "Monster - Sword2H, Claymore Blue",
+    "icon": "inv_sword_04",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Claymore Blue"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:13150::::::::::0|h[Monster - Sword2H, Claymore Blue]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-claymore-blue"
+  },
+  {
+    "itemId": 13160,
+    "name": "Monster - Sword2H, Claymore Silver",
+    "icon": "inv_sword_04",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Claymore Silver"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:13160::::::::::0|h[Monster - Sword2H, Claymore Silver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-claymore-silver"
+  },
+  {
+    "itemId": 13316,
+    "name": "Monster - Sword2H, Claymore Silver Yellow Glow",
+    "icon": "inv_sword_04",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Claymore Silver Yellow Glow"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:13316::::::::::0|h[Monster - Sword2H, Claymore Silver Yellow Glow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-claymore-silver-yellow-glow"
+  },
+  {
+    "itemId": 13623,
+    "name": "Monster - Sword2H, Horde Skull Blue Flame",
+    "icon": "inv_sword_04",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Horde Skull Blue Flame"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:13623::::::::::0|h[Monster - Sword2H, Horde Skull Blue Flame]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-horde-skull-blue-flame"
+  },
+  {
+    "itemId": 13708,
+    "name": "Monster - Sword2H, Horde Massive Blue",
+    "icon": "inv_sword_04",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Horde Massive Blue"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:13708::::::::::0|h[Monster - Sword2H, Horde Massive Blue]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-horde-massive-blue"
+  },
+  {
+    "itemId": 13817,
+    "name": "Tapered Greatsword",
+    "icon": "inv_sword_39",
+    "class": "Weapon",
+    "subclass": "sword",
+    "sellPrice": 18796,
+    "quality": "Poor",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Tapered Greatsword"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "62 - 94  Damage"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:13817::::::::::0|h[Tapered Greatsword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tapered-greatsword"
+  },
+  {
+    "itemId": 21794,
+    "name": "Monster - Sword2H, Ahn'Qiraj",
+    "icon": "inv_sword_53",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Ahn'Qiraj"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 3  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:21794::::::::::0|h[Monster - Sword2H, Ahn'Qiraj]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-ahnqiraj"
+  },
+  {
+    "itemId": 22596,
+    "name": "Monster - Sword2H, Horde A02",
+    "icon": "inv_sword_46",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 4,
+    "quality": "Common",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Horde A02"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:22596::::::::::0|h[Monster - Sword2H, Horde A02]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-horde-a02"
+  },
+  {
+    "itemId": 22709,
+    "name": "Monster - Sword2H, Corrupted Ashbringer",
+    "icon": "inv_sword_03",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Corrupted Ashbringer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:22709::::::::::0|h[Monster - Sword2H, Corrupted Ashbringer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-corrupted-ashbringer"
+  },
+  {
+    "itemId": 23328,
+    "name": "Monster - Sword2H, Instructor Razuvious",
+    "icon": "inv_sword_03",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Instructor Razuvious"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:23328::::::::::0|h[Monster - Sword2H, Instructor Razuvious]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-instructor-razuvious"
+  },
+  {
+    "itemId": 23556,
+    "name": "Worn Thalassian Sword",
+    "icon": "inv_sword_06",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1,
+    "quality": "Common",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Worn Thalassian Sword"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "3 - 5  Damage"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:23556::::::::::0|h[Worn Thalassian Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "worn-thalassian-sword"
+  },
+  {
+    "itemId": 36015,
+    "name": "kazgrim test dk sword",
+    "icon": "inv_sword_03",
+    "class": "Weapon",
+    "subclass": "sword",
+    "sellPrice": 0,
+    "quality": "Poor",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "kazgrim test dk sword"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "sword",
+        "format": "alignRight"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:36015::::::::::0|h[kazgrim test dk sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "kazgrim-test-dk-sword"
+  },
+  {
+    "itemId": 61242,
+    "name": "Monster - Sword2H, Blackwald Sword",
+    "icon": "inv_sword_07",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 4,
+    "quality": "Common",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Sword2H, Blackwald Sword"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:61242::::::::::0|h[Monster - Sword2H, Blackwald Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-sword2h-blackwald-sword"
+  },
+  {
+    "itemId": 80206,
+    "name": "Rusted Bastard Sword",
+    "icon": "inv_sword_06",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 1,
+    "quality": "Common",
+    "itemLevel": 6,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Rusted Bastard Sword"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "8 - 13  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 80204,
+          "name": "[DEPRECATED] Gathering Intel",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:80206::::::::::0|h[Rusted Bastard Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rusted-bastard-sword"
+  },
+  {
+    "itemId": 6174,
+    "name": "Twain Random Sword",
+    "icon": "inv_sword_03",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 694,
+    "quality": "Poor",
+    "itemLevel": 20,
+    "requiredLevel": 15,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Twain Random Sword"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "50 - 100  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:6174::::::::::0|h[Twain Random Sword]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "twain-random-sword"
+  },
+  {
+    "itemId": 7170,
+    "name": "Twain Random Sword FOO",
+    "icon": "inv_sword_03",
+    "class": "Weapon",
+    "subclass": "Sword",
+    "sellPrice": 692,
+    "quality": "Poor",
+    "itemLevel": 20,
+    "requiredLevel": 15,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Twain Random Sword FOO"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Sword",
+        "format": "alignRight"
+      },
+      {
+        "label": "50 - 100  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:7170::::::::::0|h[Twain Random Sword FOO]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "twain-random-sword-foo"
+  }
+]

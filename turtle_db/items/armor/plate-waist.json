@@ -1,0 +1,6117 @@
+[
+  {
+    "itemId": 20126,
+    "name": "Highlander's Plate Girdle",
+    "icon": "inv_belt_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2058,
+    "quality": "Rare",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Highlander's Plate Girdle"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "128 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20126::::::::::0|h[Highlander's Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-plate-girdle"
+  },
+  {
+    "itemId": 20207,
+    "name": "Defiler's Plate Girdle",
+    "icon": "inv_belt_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2122,
+    "quality": "Rare",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Defiler's Plate Girdle"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "128 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20207::::::::::0|h[Defiler's Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-plate-girdle"
+  },
+  {
+    "itemId": 3247,
+    "name": "OLDMonster - Waist, Plate Silver",
+    "icon": "inv_belt_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 0,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "OLDMonster - Waist, Plate Silver"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "20 Armor"
+      },
+      {
+        "label": "Durability 16 / 16"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3247::::::::::0|h[OLDMonster - Waist, Plate Silver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "oldmonster-waist-plate-silver"
+  },
+  {
+    "itemId": 10798,
+    "name": "Atal'alarion's Tusk Ring",
+    "icon": "inv_belt_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6263,
+    "quality": "Rare",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Atal'alarion's Tusk Ring"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "302 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:10798::::::::::0|h[Atal'alarion's Tusk Ring]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "atalalarions-tusk-ring"
+  },
+  {
+    "itemId": 13142,
+    "name": "Brigam Girdle",
+    "icon": "inv_belt_33",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11642,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Brigam Girdle"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "369 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13142::::::::::0|h[Brigam Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brigam-girdle"
+  },
+  {
+    "itemId": 14620,
+    "name": "Deathbone Girdle",
+    "icon": "inv_belt_12",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10135,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Deathbone Girdle"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "358 Armor"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "+15 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:14620::::::::::0|h[Deathbone Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "deathbone-girdle"
+  },
+  {
+    "itemId": 16470,
+    "name": "Marshal's Lamellar Belt",
+    "icon": "inv_belt_27",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8497,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Marshal's Lamellar Belt"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "415 Armor"
+      },
+      {
+        "label": "+16 Spirit"
+      },
+      {
+        "label": "+16 Intellect"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16470::::::::::0|h[Marshal's Lamellar Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "marshals-lamellar-belt"
+  },
+  {
+    "itemId": 16482,
+    "name": "Marshal's Plate Girdle",
+    "icon": "inv_belt_27",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8247,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Marshal's Plate Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "415 Armor"
+      },
+      {
+        "label": "+25 Strength"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+12 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16482::::::::::0|h[Marshal's Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "marshals-plate-girdle"
+  },
+  {
+    "itemId": 16547,
+    "name": "General's Plate Girdle",
+    "icon": "inv_belt_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8624,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "General's Plate Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "415 Armor"
+      },
+      {
+        "label": "+25 Strength"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+12 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16547::::::::::0|h[General's Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "generals-plate-girdle"
+  },
+  {
+    "itemId": 16736,
+    "name": "Belt of Valor",
+    "icon": "inv_belt_34",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9295,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Belt of Valor"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "341 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+4 SpiritDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16736::::::::::0|h[Belt of Valor]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "belt-of-valor"
+  },
+  {
+    "itemId": 16858,
+    "name": "Lawbringer Belt",
+    "icon": "inv_belt_27",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17119,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Lawbringer Belt"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "421 Armor"
+      },
+      {
+        "label": "+25 Intellect"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+7 Fire"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16858::::::::::0|h[Lawbringer Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-belt"
+  },
+  {
+    "itemId": 16864,
+    "name": "Belt of Might",
+    "icon": "inv_belt_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17981,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Belt of Might"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "421 Armor"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+21 Strength"
+      },
+      {
+        "label": "+7 Fire"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16864::::::::::0|h[Belt of Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "belt-of-might"
+  },
+  {
+    "itemId": 16952,
+    "name": "Judgement Belt",
+    "icon": "inv_belt_27",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 27996,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Judgement Belt"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "482 Armor"
+      },
+      {
+        "label": "+22 Intellect"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16952::::::::::0|h[Judgement Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-belt"
+  },
+  {
+    "itemId": 16960,
+    "name": "Waistband of Wrath",
+    "icon": "inv_belt_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 29614,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Waistband of Wrath"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "482 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16960::::::::::0|h[Waistband of Wrath]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "waistband-of-wrath"
+  },
+  {
+    "itemId": 18547,
+    "name": "Unmelting Ice Girdle",
+    "icon": "inv_belt_31",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 23619,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Unmelting Ice Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "452 Armor"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+16 Frost"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18547::::::::::0|h[Unmelting Ice Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "unmelting-ice-girdle"
+  },
+  {
+    "itemId": 18702,
+    "name": "Belt of the Ordained",
+    "icon": "inv_belt_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9695,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Belt of the Ordained"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "353 Armor"
+      },
+      {
+        "label": "+8 Intellect"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18702::::::::::0|h[Belt of the Ordained]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "belt-of-the-ordained"
+  },
+  {
+    "itemId": 19137,
+    "name": "Onslaught Girdle",
+    "icon": "inv_belt_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 31469,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Onslaught Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "494 Armor"
+      },
+      {
+        "label": "+31 Strength"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19137::::::::::0|h[Onslaught Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "onslaught-girdle"
+  },
+  {
+    "itemId": 19392,
+    "name": "Girdle of the Fallen Crusader",
+    "icon": "inv_belt_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 31776,
+    "quality": "Epic",
+    "itemLevel": 77,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Girdle of the Fallen Crusader"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "488 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+17 Intellect"
+      },
+      {
+        "label": "+16 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19392::::::::::0|h[Girdle of the Fallen Crusader]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "girdle-of-the-fallen-crusader"
+  },
+  {
+    "itemId": 19823,
+    "name": "Zandalar Vindicator's Belt",
+    "icon": "inv_belt_32",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 0,
+    "quality": "Epic",
+    "itemLevel": 61,
+    "requiredLevel": 0,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Zandalar Vindicator's Belt"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "391 Armor"
+      },
+      {
+        "label": "+25 Strength"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8078,
+          "name": "Paragons of Power: The Vindicator's Belt",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:19823::::::::::0|h[Zandalar Vindicator's Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "zandalar-vindicators-belt"
+  },
+  {
+    "itemId": 19826,
+    "name": "Zandalar Freethinker's Belt",
+    "icon": "inv_belt_32",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 0,
+    "quality": "Epic",
+    "itemLevel": 61,
+    "requiredLevel": 0,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Zandalar Freethinker's Belt"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "391 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8054,
+          "name": "Paragons of Power: The Freethinker's Belt",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:19826::::::::::0|h[Zandalar Freethinker's Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "zandalar-freethinkers-belt"
+  },
+  {
+    "itemId": 20177,
+    "name": "Defiler's Lamellar Girdle",
+    "icon": "inv_belt_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11783,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Defiler's Lamellar Girdle"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "369 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20177::::::::::0|h[Defiler's Lamellar Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-lamellar-girdle"
+  },
+  {
+    "itemId": 20179,
+    "name": "Defiler's Lamellar Girdle",
+    "icon": "inv_belt_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6948,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Defiler's Lamellar Girdle"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "313 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+4 Stamina"
+      },
+      {
+        "label": "+8 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20179::::::::::0|h[Defiler's Lamellar Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-lamellar-girdle"
+  },
+  {
+    "itemId": 20180,
+    "name": "Defiler's Lamellar Girdle",
+    "icon": "inv_belt_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3448,
+    "quality": "Rare",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Defiler's Lamellar Girdle"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "236 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+6 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20180::::::::::0|h[Defiler's Lamellar Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-lamellar-girdle"
+  },
+  {
+    "itemId": 21503,
+    "name": "Belt of the Sand Reaver",
+    "icon": "inv_belt_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16334,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Belt of the Sand Reaver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "494 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+17 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:21503::::::::::0|h[Belt of the Sand Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "belt-of-the-sand-reaver"
+  },
+  {
+    "itemId": 21598,
+    "name": "Royal Qiraji Belt",
+    "icon": "inv_belt_31",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 35753,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Royal Qiraji Belt"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "512 Armor"
+      },
+      {
+        "label": "+22 Stamina"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+14 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21598::::::::::0|h[Royal Qiraji Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "royal-qiraji-belt"
+  },
+  {
+    "itemId": 21606,
+    "name": "Belt of the Fallen Emperor",
+    "icon": "inv_belt_34",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 37819,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Belt of the Fallen Emperor"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "512 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+18 Intellect"
+      },
+      {
+        "label": "+13 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21606::::::::::0|h[Belt of the Fallen Emperor]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "belt-of-the-fallen-emperor"
+  },
+  {
+    "itemId": 21692,
+    "name": "Triad Girdle",
+    "icon": "inv_belt_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 26784,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Triad Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "476 Armor"
+      },
+      {
+        "label": "+26 Strength"
+      },
+      {
+        "label": "+19 Agility"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21692::::::::::0|h[Triad Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "triad-girdle"
+  },
+  {
+    "itemId": 21994,
+    "name": "Belt of Heroism",
+    "icon": "inv_belt_34",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12476,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Belt of Heroism"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "385 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+12 AgilityDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8937,
+          "name": "Just Compensation",
+          "faction": "Both"
+        },
+        {
+          "questId": 8944,
+          "name": "Just Compensation",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21994::::::::::0|h[Belt of Heroism]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "belt-of-heroism"
+  },
+  {
+    "itemId": 22086,
+    "name": "Soulforge Belt",
+    "icon": "inv_belt_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12431,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Soulforge Belt"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "385 Armor"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8933,
+          "name": "Just Compensation",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22086::::::::::0|h[Soulforge Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "soulforge-belt"
+  },
+  {
+    "itemId": 22422,
+    "name": "Dreadnaught Waistguard",
+    "icon": "inv_belt_27",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 50334,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 0,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Dreadnaught Waistguard"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "554 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+26 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9041,
+          "name": "Dreadnaught Waistguard",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22422::::::::::0|h[Dreadnaught Waistguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadnaught-waistguard"
+  },
+  {
+    "itemId": 22431,
+    "name": "Redemption Belt",
+    "icon": "inv_belt_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 52055,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 0,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Redemption Belt"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "554 Armor"
+      },
+      {
+        "label": "+19 Stamina"
+      },
+      {
+        "label": "+29 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9049,
+          "name": "Redemption Girdle",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22431::::::::::0|h[Redemption Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-belt"
+  },
+  {
+    "itemId": 23219,
+    "name": "Girdle of the Mentor",
+    "icon": "inv_belt_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 44473,
+    "quality": "Epic",
+    "itemLevel": 85,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Girdle of the Mentor"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "536 Armor"
+      },
+      {
+        "label": "+21 Strength"
+      },
+      {
+        "label": "+21 Stamina"
+      },
+      {
+        "label": "+20 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:23219::::::::::0|h[Girdle of the Mentor]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "girdle-of-the-mentor"
+  },
+  {
+    "itemId": 23666,
+    "name": "Belt of the Grand Crusader",
+    "icon": "inv_belt_27",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 43647,
+    "quality": "Epic",
+    "itemLevel": 80,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Belt of the Grand Crusader"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "506 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+17 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:23666::::::::::0|h[Belt of the Grand Crusader]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "belt-of-the-grand-crusader"
+  },
+  {
+    "itemId": 47005,
+    "name": "Lawbringer Waistguard",
+    "icon": "inv_lawbelt_v3",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17119,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Lawbringer Waistguard"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "421 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+7 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41498,
+          "name": "Lawbringer's Waist",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47005::::::::::0|h[Lawbringer Waistguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-waistguard"
+  },
+  {
+    "itemId": 47013,
+    "name": "Lawbringer Girdle",
+    "icon": "inv_belt_27",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 21399,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Lawbringer Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "421 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+15 Agility"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+6 Intellect"
+      },
+      {
+        "label": "+7 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41498,
+          "name": "Lawbringer's Waist",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47013::::::::::0|h[Lawbringer Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-girdle"
+  },
+  {
+    "itemId": 47021,
+    "name": "Judgement Waistguard",
+    "icon": "inv_judbelt_v3",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 34995,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Judgement Waistguard"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "482 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41490,
+          "name": "Judgement's Waist",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47021::::::::::0|h[Judgement Waistguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-waistguard"
+  },
+  {
+    "itemId": 47029,
+    "name": "Judgement Girdle",
+    "icon": "inv_judbelt_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 34995,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Judgement Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "482 Armor"
+      },
+      {
+        "label": "+21 Strength"
+      },
+      {
+        "label": "+16 Agility"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+7 Spirit"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41490,
+          "name": "Judgement's Waist",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47029::::::::::0|h[Judgement Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-girdle"
+  },
+  {
+    "itemId": 47047,
+    "name": "Redemption Waistguard",
+    "icon": "inv_belt_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 65069,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Redemption Waistguard"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "554 Armor"
+      },
+      {
+        "label": "+22 Strength"
+      },
+      {
+        "label": "+26 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9049,
+          "name": "Redemption Girdle",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47047::::::::::0|h[Redemption Waistguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-waistguard"
+  },
+  {
+    "itemId": 47056,
+    "name": "Redemption Girdle",
+    "icon": "inv_belt_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 65069,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Redemption Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "554 Armor"
+      },
+      {
+        "label": "+26 Strength"
+      },
+      {
+        "label": "+24 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9049,
+          "name": "Redemption Girdle",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47056::::::::::0|h[Redemption Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-girdle"
+  },
+  {
+    "itemId": 47245,
+    "name": "Girdle of Might",
+    "icon": "inv_migbelt_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 22477,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Girdle of Might"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "421 Armor"
+      },
+      {
+        "label": "+25 Strength"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+7 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41447,
+          "name": "Waist of Might",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47245::::::::::0|h[Girdle of Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "girdle-of-might"
+  },
+  {
+    "itemId": 47253,
+    "name": "Girdle of Wrath",
+    "icon": "inv_wrabelt_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 37018,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Girdle of Wrath"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "482 Armor"
+      },
+      {
+        "label": "+26 Strength"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41439,
+          "name": "Waist of Wrath",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47253::::::::::0|h[Girdle of Wrath]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "girdle-of-wrath"
+  },
+  {
+    "itemId": 47266,
+    "name": "Dreadnaught Girdle",
+    "icon": "inv_belt_27",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 62918,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Dreadnaught Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "554 Armor"
+      },
+      {
+        "label": "+21 Strength"
+      },
+      {
+        "label": "+16 Agility"
+      },
+      {
+        "label": "+22 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9041,
+          "name": "Dreadnaught Waistguard",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47266::::::::::0|h[Dreadnaught Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadnaught-girdle"
+  },
+  {
+    "itemId": 50188,
+    "name": "Deathforge Belt",
+    "icon": "inv_belt_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12908,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Deathforge Belt"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "378 Armor"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:50188::::::::::0|h[Deathforge Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "deathforge-belt"
+  },
+  {
+    "itemId": 50428,
+    "name": "Ancient Clutch",
+    "icon": "inv_belt_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 15746,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Ancient Clutch"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "386 Armor"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+9 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:50428::::::::::0|h[Ancient Clutch]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ancient-clutch"
+  },
+  {
+    "itemId": 51773,
+    "name": "Girdle of the Dark Reaver",
+    "icon": "inv_belt_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4514,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Girdle of the Dark Reaver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "421 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+4 Shadow"
+      },
+      {
+        "label": "+6 Arcane"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:51773::::::::::0|h[Girdle of the Dark Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "girdle-of-the-dark-reaver"
+  },
+  {
+    "itemId": 55351,
+    "name": "Turalyon's Hope",
+    "icon": "inv_belt_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 63605,
+    "quality": "Epic",
+    "itemLevel": 96,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Turalyon's Hope"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "602 Armor"
+      },
+      {
+        "label": "+25 Strength"
+      },
+      {
+        "label": "+18 Agility"
+      },
+      {
+        "label": "+22 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55351::::::::::0|h[Turalyon's Hope]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "turalyons-hope"
+  },
+  {
+    "itemId": 55506,
+    "name": "Worldbreaker Girdle",
+    "icon": "inv_belt_27",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 72533,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Worldbreaker Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "578 Armor"
+      },
+      {
+        "label": "+35 Strength"
+      },
+      {
+        "label": "+25 Agility"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55506::::::::::0|h[Worldbreaker Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "worldbreaker-girdle"
+  },
+  {
+    "itemId": 60358,
+    "name": "Bloody Gladiator's Girdle",
+    "icon": "inv_belt_12",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8081,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Bloody Gladiator's Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "425 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "+16 Attack"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60358::::::::::0|h[Bloody Gladiator's Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloody-gladiators-girdle"
+  },
+  {
+    "itemId": 61062,
+    "name": "Corroded Plate Belt",
+    "icon": "inv_belt_21",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12506,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Corroded Plate Belt"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "386 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61062::::::::::0|h[Corroded Plate Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "corroded-plate-belt"
+  },
+  {
+    "itemId": 65101,
+    "name": "Dragonbone Waistguard",
+    "icon": "inv_belt_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 28031,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Dragonbone Waistguard"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "482 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:65101::::::::::0|h[Dragonbone Waistguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dragonbone-waistguard"
+  },
+  {
+    "itemId": 80845,
+    "name": "Arena Girdle",
+    "icon": "inv_belt_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 1896,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Arena Girdle"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "414 Armor"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80845::::::::::0|h[Arena Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "arena-girdle"
+  },
+  {
+    "itemId": 84034,
+    "name": "Girdle of the Insane Zealot",
+    "icon": "inv_belt_34",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 48802,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Girdle of the Insane Zealot"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "554 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+15 Agility"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:84034::::::::::0|h[Girdle of the Insane Zealot]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "girdle-of-the-insane-zealot"
+  },
+  {
+    "itemId": 8140,
+    "name": "Chromite Girdle",
+    "icon": "inv_belt_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2837,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Chromite Girdle"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "215 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8140::::::::::0|h[Chromite Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chromite-girdle"
+  },
+  {
+    "itemId": 8315,
+    "name": "Alabaster Plate Girdle",
+    "icon": "inv_belt_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5061,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Alabaster Plate Girdle"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "280 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8315::::::::::0|h[Alabaster Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "alabaster-plate-girdle"
+  },
+  {
+    "itemId": 9288,
+    "name": "Field Plate Girdle",
+    "icon": "inv_belt_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2414,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 40,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Field Plate Girdle"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "169 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9288::::::::::0|h[Field Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "field-plate-girdle"
+  },
+  {
+    "itemId": 9968,
+    "name": "Embossed Plate Girdle",
+    "icon": "inv_belt_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2695,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 40,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Embossed Plate Girdle"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "191 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9968::::::::::0|h[Embossed Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "embossed-plate-girdle"
+  },
+  {
+    "itemId": 10278,
+    "name": "Emerald Girdle",
+    "icon": "inv_belt_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6239,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Emerald Girdle"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "295 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10278::::::::::0|h[Emerald Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "emerald-girdle"
+  },
+  {
+    "itemId": 10381,
+    "name": "Commander's Girdle",
+    "icon": "inv_belt_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8094,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Commander's Girdle"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "315 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10381::::::::::0|h[Commander's Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "commanders-girdle"
+  },
+  {
+    "itemId": 10788,
+    "name": "Atal'ai Girdle",
+    "icon": "inv_belt_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5338,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Atal'ai Girdle"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "280 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10788::::::::::0|h[Atal'ai Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "atalai-girdle"
+  },
+  {
+    "itemId": 11703,
+    "name": "Stonewall Girdle",
+    "icon": "inv_belt_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7378,
+    "quality": "Rare",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Stonewall Girdle"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "484 Armor"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11703::::::::::0|h[Stonewall Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stonewall-girdle"
+  },
+  {
+    "itemId": 13077,
+    "name": "Girdle of Uther",
+    "icon": "inv_belt_32",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8226,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Girdle of Uther"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "336 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+10 Spirit"
+      },
+      {
+        "label": "+9 Intellect"
+      },
+      {
+        "label": "+9 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13077::::::::::0|h[Girdle of Uther]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "girdle-of-uther"
+  },
+  {
+    "itemId": 13145,
+    "name": "Enormous Ogre Belt",
+    "icon": "inv_belt_27",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2704,
+    "quality": "Rare",
+    "itemLevel": 40,
+    "requiredLevel": 40,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Enormous Ogre Belt"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "164 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13145::::::::::0|h[Enormous Ogre Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "enormous-ogre-belt"
+  },
+  {
+    "itemId": 13502,
+    "name": "Handcrafted Mastersmith Girdle",
+    "icon": "inv_belt_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11987,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Handcrafted Mastersmith Girdle"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "519 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13502::::::::::0|h[Handcrafted Mastersmith Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "handcrafted-mastersmith-girdle"
+  },
+  {
+    "itemId": 13959,
+    "name": "Omokk's Girth Restrainer",
+    "icon": "inv_belt_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9542,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Omokk's Girth Restrainer"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "353 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 5081,
+          "name": "Maxwell's Mission",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 4903,
+          "name": "Warlord's Command",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:13959::::::::::0|h[Omokk's Girth Restrainer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "omokks-girth-restrainer"
+  },
+  {
+    "itemId": 14906,
+    "name": "Brutish Belt",
+    "icon": "inv_belt_24",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2989,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 40,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Brutish Belt"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "241 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14906::::::::::0|h[Brutish Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brutish-belt"
+  },
+  {
+    "itemId": 14950,
+    "name": "Bloodforged Belt",
+    "icon": "inv_belt_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3630,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Bloodforged Belt"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "251 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14950::::::::::0|h[Bloodforged Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodforged-belt"
+  },
+  {
+    "itemId": 14977,
+    "name": "Exalted Girdle",
+    "icon": "inv_belt_24",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7982,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Exalted Girdle"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "320 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14977::::::::::0|h[Exalted Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "exalted-girdle"
+  },
+  {
+    "itemId": 15709,
+    "name": "Gearforge Girdle",
+    "icon": "inv_belt_33",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7270,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 0,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Gearforge Girdle"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "310 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+4 Agility"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 5242,
+          "name": "A Final Blow",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:15709::::::::::0|h[Gearforge Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gearforge-girdle"
+  },
+  {
+    "itemId": 16407,
+    "name": "Knight-Captain's Plate Girdle",
+    "icon": "inv_belt_27",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4809,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Knight-Captain's Plate Girdle"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "353 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+6 Agility"
+      },
+      {
+        "label": "+6 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16407::::::::::0|h[Knight-Captain's Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knight-captains-plate-girdle"
+  },
+  {
+    "itemId": 16411,
+    "name": "Knight-Captain's Lamellar Cinch",
+    "icon": "inv_belt_27",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5013,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Knight-Captain's Lamellar Cinch"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "353 Armor"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+9 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16411::::::::::0|h[Knight-Captain's Lamellar Cinch]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knight-captains-lamellar-cinch"
+  },
+  {
+    "itemId": 16511,
+    "name": "Legionnaire's Plate Cinch",
+    "icon": "inv_belt_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5142,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Legionnaire's Plate Cinch"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "353 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+6 Agility"
+      },
+      {
+        "label": "+6 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16511::::::::::0|h[Legionnaire's Plate Cinch]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legionnaires-plate-cinch"
+  },
+  {
+    "itemId": 16723,
+    "name": "Lightforge Belt",
+    "icon": "inv_belt_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8625,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Lightforge Belt"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "341 Armor"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+6 Spirit"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16723::::::::::0|h[Lightforge Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lightforge-belt"
+  },
+  {
+    "itemId": 18529,
+    "name": "Elemental Plate Girdle",
+    "icon": "inv_belt_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9963,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Elemental Plate Girdle"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "358 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18529::::::::::0|h[Elemental Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "elemental-plate-girdle"
+  },
+  {
+    "itemId": 19051,
+    "name": "Girdle of the Dawn",
+    "icon": "inv_belt_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9365,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Girdle of the Dawn"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "341 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+8 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19051::::::::::0|h[Girdle of the Dawn]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "girdle-of-the-dawn"
+  },
+  {
+    "itemId": 19087,
+    "name": "Frostwolf Plate Belt",
+    "icon": "inv_belt_35",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10176,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Frostwolf Plate Belt"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "353 Armor"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+5 Frost"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19087::::::::::0|h[Frostwolf Plate Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "frostwolf-plate-belt"
+  },
+  {
+    "itemId": 19091,
+    "name": "Stormpike Plate Girdle",
+    "icon": "inv_belt_35",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9488,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Stormpike Plate Girdle"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "353 Armor"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+5 Frost"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19091::::::::::0|h[Stormpike Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormpike-plate-girdle"
+  },
+  {
+    "itemId": 20041,
+    "name": "Highlander's Plate Girdle",
+    "icon": "inv_belt_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11352,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Highlander's Plate Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "414 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20041::::::::::0|h[Highlander's Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-plate-girdle"
+  },
+  {
+    "itemId": 20042,
+    "name": "Highlander's Lamellar Girdle",
+    "icon": "inv_belt_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11394,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Highlander's Lamellar Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "414 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+12 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20042::::::::::0|h[Highlander's Lamellar Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-lamellar-girdle"
+  },
+  {
+    "itemId": 20106,
+    "name": "Highlander's Lamellar Girdle",
+    "icon": "inv_belt_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6946,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Highlander's Lamellar Girdle"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "313 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+4 Stamina"
+      },
+      {
+        "label": "+8 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20106::::::::::0|h[Highlander's Lamellar Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-lamellar-girdle"
+  },
+  {
+    "itemId": 20107,
+    "name": "Highlander's Lamellar Girdle",
+    "icon": "inv_belt_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3201,
+    "quality": "Rare",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Highlander's Lamellar Girdle"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "236 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+6 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20107::::::::::0|h[Highlander's Lamellar Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-lamellar-girdle"
+  },
+  {
+    "itemId": 20124,
+    "name": "Highlander's Plate Girdle",
+    "icon": "inv_belt_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7075,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Highlander's Plate Girdle"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "313 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20124::::::::::0|h[Highlander's Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-plate-girdle"
+  },
+  {
+    "itemId": 20125,
+    "name": "Highlander's Plate Girdle",
+    "icon": "inv_belt_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3176,
+    "quality": "Rare",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Highlander's Plate Girdle"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "236 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20125::::::::::0|h[Highlander's Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-plate-girdle"
+  },
+  {
+    "itemId": 20204,
+    "name": "Defiler's Plate Girdle",
+    "icon": "inv_belt_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11229,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Defiler's Plate Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "414 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20204::::::::::0|h[Defiler's Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-plate-girdle"
+  },
+  {
+    "itemId": 20205,
+    "name": "Defiler's Plate Girdle",
+    "icon": "inv_belt_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6599,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Defiler's Plate Girdle"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "313 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20205::::::::::0|h[Defiler's Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-plate-girdle"
+  },
+  {
+    "itemId": 20206,
+    "name": "Defiler's Plate Girdle",
+    "icon": "inv_belt_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3275,
+    "quality": "Rare",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Defiler's Plate Girdle"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "236 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20206::::::::::0|h[Defiler's Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-plate-girdle"
+  },
+  {
+    "itemId": 20252,
+    "name": "90 Green Warrior Waistband",
+    "icon": "inv_belt_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 36933,
+    "quality": "Uncommon",
+    "itemLevel": 90,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "90 Green Warrior Waistband"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "471 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+21 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20252::::::::::0|h[90 Green Warrior Waistband]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "90-green-warrior-waistband"
+  },
+  {
+    "itemId": 20292,
+    "name": "63 Green Warrior Waistband",
+    "icon": "inv_belt_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9889,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "63 Green Warrior Waistband"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "336 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+14 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20292::::::::::0|h[63 Green Warrior Waistband]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "63-green-warrior-waistband"
+  },
+  {
+    "itemId": 20673,
+    "name": "Abyssal Plate Girdle",
+    "icon": "inv_belt_26",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10199,
+    "quality": "Uncommon",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Abyssal Plate Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "346 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20673::::::::::0|h[Abyssal Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "abyssal-plate-girdle"
+  },
+  {
+    "itemId": 22197,
+    "name": "Heavy Obsidian Belt",
+    "icon": "inv_belt_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14282,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Heavy Obsidian Belt"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "397 Armor"
+      },
+      {
+        "label": "+22 StaminaDurability"
+      },
+      {
+        "label": "+5 All"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22197::::::::::0|h[Heavy Obsidian Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-obsidian-belt"
+  },
+  {
+    "itemId": 22764,
+    "name": "Ironvine Belt",
+    "icon": "inv_belt_21",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 15864,
+    "quality": "Rare",
+    "itemLevel": 70,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Ironvine Belt"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "408 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+15 Nature"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22764::::::::::0|h[Ironvine Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ironvine-belt"
+  },
+  {
+    "itemId": 60730,
+    "name": "Girdle of the Warden",
+    "icon": "inv_belt_33",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 19552,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Girdle of the Warden"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "380 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60730::::::::::0|h[Girdle of the Warden]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "girdle-of-the-warden"
+  },
+  {
+    "itemId": 61290,
+    "name": "Zephyrian Girdle",
+    "icon": "inv_belt_32",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14580,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Zephyrian Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "397 Armor"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61290::::::::::0|h[Zephyrian Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "zephyrian-girdle"
+  },
+  {
+    "itemId": 61648,
+    "name": "Fury of the Timbermaw",
+    "icon": "inv_belt_21",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8860,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Fury of the Timbermaw"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "341 Armor"
+      },
+      {
+        "label": "+18 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61648::::::::::0|h[Fury of the Timbermaw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fury-of-the-timbermaw"
+  },
+  {
+    "itemId": 70052,
+    "name": "Skorgrim's Lost Belt",
+    "icon": "inv_belt_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14586,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 57,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Skorgrim's Lost Belt"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "550 Armor"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:70052::::::::::0|h[Skorgrim's Lost Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "skorgrims-lost-belt"
+  },
+  {
+    "itemId": 70063,
+    "name": "Girdle of Hope",
+    "icon": "inv_belt_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14586,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 57,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Girdle of Hope"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "416 Armor"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "+5 Arcane"
+      },
+      {
+        "label": "+39 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:70063::::::::::0|h[Girdle of Hope]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "girdle-of-hope"
+  },
+  {
+    "itemId": 80184,
+    "name": "Girdle of the Damned",
+    "icon": "inv_belt_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 0,
+    "quality": "Rare",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Girdle of the Damned"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80184::::::::::0|h[Girdle of the Damned]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "girdle-of-the-damned"
+  },
+  {
+    "itemId": 80509,
+    "name": "Quel'dorei Guardian's Girdle",
+    "icon": "inv_belt_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10281,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Quel'dorei Guardian's Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "380 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80509::::::::::0|h[Quel'dorei Guardian's Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "queldorei-guardians-girdle"
+  },
+  {
+    "itemId": 80609,
+    "name": "Revantusk Watcher's Girdle",
+    "icon": "inv_belt_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10281,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Revantusk Watcher's Girdle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "380 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80609::::::::::0|h[Revantusk Watcher's Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revantusk-watchers-girdle"
+  },
+  {
+    "itemId": 80749,
+    "name": "Pysan's Lost Girdle",
+    "icon": "inv_belt_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 1866,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 49,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Pysan's Lost Girdle"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "319 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+8 Intellect"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80749::::::::::0|h[Pysan's Lost Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pysans-lost-girdle"
+  },
+  {
+    "itemId": 81054,
+    "name": "Girdle of the Dark Reaver",
+    "icon": "inv_belt_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3183,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Girdle of the Dark Reaver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "396 Armor"
+      },
+      {
+        "label": "+23 Strength"
+      },
+      {
+        "label": "+16 Agility"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81054::::::::::0|h[Girdle of the Dark Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "girdle-of-the-dark-reaver"
+  },
+  {
+    "itemId": 81376,
+    "name": "Moontouched Girdle",
+    "icon": "inv_belt_12",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13841,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Moontouched Girdle"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "368 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+5 Frost"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81376::::::::::0|h[Moontouched Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "moontouched-girdle"
+  },
+  {
+    "itemId": 8081,
+    "name": "Light Plate Belt",
+    "icon": "inv_belt_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2834,
+    "quality": "Poor",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Light Plate Belt"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "275 Armor"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:8081::::::::::0|h[Light Plate Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "light-plate-belt"
+  },
+  {
+    "itemId": 8088,
+    "name": "Platemail Belt",
+    "icon": "inv_belt_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2667,
+    "quality": "Common",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Platemail Belt"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "257 Armor"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:8088::::::::::0|h[Platemail Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "platemail-belt"
+  },
+  {
+    "itemId": 8159,
+    "name": "Jouster's Girdle",
+    "icon": "inv_belt_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2244,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 40,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Jouster's Girdle"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "149 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8159::::::::::0|h[Jouster's Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jousters-girdle"
+  },
+  {
+    "itemId": 8277,
+    "name": "Valorous Girdle",
+    "icon": "inv_belt_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3625,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Valorous Girdle"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "251 Armor"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8277::::::::::0|h[Valorous Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "valorous-girdle"
+  },
+  {
+    "itemId": 10088,
+    "name": "Gothic Plate Girdle",
+    "icon": "inv_belt_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3154,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Gothic Plate Girdle"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "246 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10088::::::::::0|h[Gothic Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gothic-plate-girdle"
+  },
+  {
+    "itemId": 10130,
+    "name": "Revenant Girdle",
+    "icon": "inv_belt_30",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4706,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Revenant Girdle"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "270 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10130::::::::::0|h[Revenant Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revenant-girdle"
+  },
+  {
+    "itemId": 10166,
+    "name": "Templar Girdle",
+    "icon": "inv_belt_32",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5908,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Templar Girdle"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "290 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10166::::::::::0|h[Templar Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "templar-girdle"
+  },
+  {
+    "itemId": 10206,
+    "name": "Overlord's Girdle",
+    "icon": "inv_belt_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4048,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Overlord's Girdle"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "260 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10206::::::::::0|h[Overlord's Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "overlords-girdle"
+  },
+  {
+    "itemId": 10243,
+    "name": "Heavy Lamellar Girdle",
+    "icon": "inv_belt_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5035,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Heavy Lamellar Girdle"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "275 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10243::::::::::0|h[Heavy Lamellar Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-lamellar-girdle"
+  },
+  {
+    "itemId": 10370,
+    "name": "Imbued Plate Girdle",
+    "icon": "inv_belt_12",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6985,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Imbued Plate Girdle"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "305 Armor"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10370::::::::::0|h[Imbued Plate Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "imbued-plate-girdle"
+  },
+  {
+    "itemId": 10387,
+    "name": "Hyperion Girdle",
+    "icon": "inv_belt_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8475,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Hyperion Girdle"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "326 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10387::::::::::0|h[Hyperion Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hyperion-girdle"
+  },
+  {
+    "itemId": 12115,
+    "name": "Stalwart Clutch",
+    "icon": "inv_belt_34",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7012,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 0,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Stalwart Clutch"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "300 Armor"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 3907,
+          "name": "Disharmony of Fire",
+          "faction": "Horde"
+        },
+        {
+          "questId": 4263,
+          "name": "Incendius!",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:12115::::::::::0|h[Stalwart Clutch]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stalwart-clutch"
+  },
+  {
+    "itemId": 12406,
+    "name": "Thorium Belt",
+    "icon": "inv_belt_30",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4636,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Thorium Belt"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "270 Armor"
+      },
+      {
+        "label": "+6 Fire"
+      },
+      {
+        "label": "+6 Nature"
+      },
+      {
+        "label": "+6 Frost"
+      },
+      {
+        "label": "+6 Shadow"
+      },
+      {
+        "label": "+6 Arcane"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12406::::::::::0|h[Thorium Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thorium-belt"
+  },
+  {
+    "itemId": 12424,
+    "name": "Imperial Plate Belt",
+    "icon": "inv_belt_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5533,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 47,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Imperial Plate Belt"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "285 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "+28 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12424::::::::::0|h[Imperial Plate Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "imperial-plate-belt"
+  },
+  {
+    "itemId": 14827,
+    "name": "Symbolic Belt",
+    "icon": "inv_belt_31",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2320,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 40,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Symbolic Belt"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "169 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14827::::::::::0|h[Symbolic Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "symbolic-belt"
+  },
+  {
+    "itemId": 14838,
+    "name": "Tyrant's Belt",
+    "icon": "inv_belt_24",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2892,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Tyrant's Belt"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "215 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+3 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14838::::::::::0|h[Tyrant's Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tyrants-belt"
+  },
+  {
+    "itemId": 14847,
+    "name": "Sunscale Belt",
+    "icon": "inv_belt_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4254,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Sunscale Belt"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "265 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14847::::::::::0|h[Sunscale Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sunscale-belt"
+  },
+  {
+    "itemId": 14856,
+    "name": "Vanguard Girdle",
+    "icon": "inv_belt_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6156,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Vanguard Girdle"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "290 Armor"
+      },
+      {
+        "label": "+9 Spirit"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14856::::::::::0|h[Vanguard Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "vanguard-girdle"
+  },
+  {
+    "itemId": 14864,
+    "name": "Warleader's Belt",
+    "icon": "inv_belt_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7602,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Warleader's Belt"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "315 Armor"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+6 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14864::::::::::0|h[Warleader's Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warleaders-belt"
+  },
+  {
+    "itemId": 14898,
+    "name": "Saltstone Girdle",
+    "icon": "inv_belt_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2295,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 40,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Saltstone Girdle"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "149 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14898::::::::::0|h[Saltstone Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "saltstone-girdle"
+  },
+  {
+    "itemId": 14918,
+    "name": "Jade Belt",
+    "icon": "inv_belt_17",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3654,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Jade Belt"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "255 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14918::::::::::0|h[Jade Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jade-belt"
+  },
+  {
+    "itemId": 14927,
+    "name": "Lofty Belt",
+    "icon": "inv_belt_32",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5301,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Lofty Belt"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "280 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14927::::::::::0|h[Lofty Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lofty-belt"
+  },
+  {
+    "itemId": 14934,
+    "name": "Heroic Girdle",
+    "icon": "inv_belt_12",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6754,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Heroic Girdle"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "305 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14934::::::::::0|h[Heroic Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heroic-girdle"
+  },
+  {
+    "itemId": 14943,
+    "name": "Warbringer's Belt",
+    "icon": "inv_belt_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2534,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 40,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Warbringer's Belt"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "191 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14943::::::::::0|h[Warbringer's Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warbringers-belt"
+  },
+  {
+    "itemId": 14960,
+    "name": "High Chief's Belt",
+    "icon": "inv_belt_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4870,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "High Chief's Belt"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "275 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14960::::::::::0|h[High Chief's Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-chiefs-belt"
+  },
+  {
+    "itemId": 14968,
+    "name": "Glorious Belt",
+    "icon": "inv_belt_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6502,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Glorious Belt"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "295 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14968::::::::::0|h[Glorious Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "glorious-belt"
+  },
+  {
+    "itemId": 60221,
+    "name": "Tidehunter Girdle",
+    "icon": "inv_belt_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7861,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 0,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Tidehunter Girdle"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "310 Armor"
+      },
+      {
+        "label": "+6 Spirit"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40276,
+          "name": "Destroying the Deeptide",
+          "faction": "Horde"
+        },
+        {
+          "questId": 40150,
+          "name": "Drowning Deeptide",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60221::::::::::0|h[Tidehunter Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tidehunter-girdle"
+  },
+  {
+    "itemId": 60285,
+    "name": "Swampguard Girdle",
+    "icon": "inv_belt_35",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3071,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 0,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Swampguard Girdle"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "251 Armor"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+5 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40209,
+          "name": "The Hunt for Sorrowclaw",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60285::::::::::0|h[Swampguard Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "swampguard-girdle"
+  },
+  {
+    "itemId": 80466,
+    "name": "Hidden Plate Belt",
+    "icon": "inv_belt_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2277,
+    "quality": "Poor",
+    "itemLevel": 22,
+    "requiredLevel": 15,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Hidden Plate Belt"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "35 Armor"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:80466::::::::::0|h[Hidden Plate Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hidden-plate-belt"
+  }
+]

@@ -1,0 +1,5871 @@
+[
+  {
+    "itemId": 2824,
+    "name": "Hurricane",
+    "icon": "inv_weapon_bow_12",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 32032,
+    "quality": "Epic",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Hurricane"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "34 - 63  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:2824::::::::::0|h[Hurricane]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hurricane"
+  },
+  {
+    "itemId": 2825,
+    "name": "Bow of Searing Arrows",
+    "icon": "inv_weapon_bow_09",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 14722,
+    "quality": "Epic",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Bow of Searing Arrows"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "47 - 88  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:2825::::::::::0|h[Bow of Searing Arrows]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bow-of-searing-arrows"
+  },
+  {
+    "itemId": 3021,
+    "name": "Ranger Bow",
+    "icon": "inv_weapon_bow_11",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 2421,
+    "quality": "Rare",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Ranger Bow"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "23 - 45  Damage"
+      },
+      {
+        "label": "+1 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:3021::::::::::0|h[Ranger Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ranger-bow"
+  },
+  {
+    "itemId": 6696,
+    "name": "Nightstalker Bow",
+    "icon": "inv_weapon_bow_12",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 5086,
+    "quality": "Rare",
+    "itemLevel": 32,
+    "requiredLevel": 27,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Nightstalker Bow"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "19 - 36  Damage"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:6696::::::::::0|h[Nightstalker Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "nightstalker-bow"
+  },
+  {
+    "itemId": 9426,
+    "name": "Monolithic Bow",
+    "icon": "inv_weapon_bow_01",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 10275,
+    "quality": "Rare",
+    "itemLevel": 41,
+    "requiredLevel": 36,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monolithic Bow"
+      },
+      {
+        "label": "Requires Level 36"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "41 - 77  Damage"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9426::::::::::0|h[Monolithic Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monolithic-bow"
+  },
+  {
+    "itemId": 10567,
+    "name": "Quillshooter",
+    "icon": "inv_weapon_bow_01",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 8725,
+    "quality": "Rare",
+    "itemLevel": 38,
+    "requiredLevel": 33,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Quillshooter"
+      },
+      {
+        "label": "Requires Level 33"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "31 - 58  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:10567::::::::::0|h[Quillshooter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "quillshooter"
+  },
+  {
+    "itemId": 11628,
+    "name": "Houndmaster's Bow",
+    "icon": "inv_weapon_bow_04",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 24433,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Houndmaster's Bow"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "34 - 64  Damage"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11628::::::::::0|h[Houndmaster's Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "houndmasters-bow"
+  },
+  {
+    "itemId": 12653,
+    "name": "Riphook",
+    "icon": "inv_weapon_bow_08",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 36318,
+    "quality": "Rare",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Riphook"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "46 - 87  Damage"
+      },
+      {
+        "label": "+22 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12653::::::::::0|h[Riphook]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "riphook"
+  },
+  {
+    "itemId": 13019,
+    "name": "Harpyclaw Short Bow",
+    "icon": "inv_weapon_bow_11",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 4765,
+    "quality": "Rare",
+    "itemLevel": 32,
+    "requiredLevel": 27,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Harpyclaw Short Bow"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "20 - 38  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13019::::::::::0|h[Harpyclaw Short Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "harpyclaw-short-bow"
+  },
+  {
+    "itemId": 13021,
+    "name": "Needle Threader",
+    "icon": "inv_weapon_bow_08",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 16694,
+    "quality": "Rare",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Needle Threader"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "34 - 64  Damage"
+      },
+      {
+        "label": "+4 Spirit"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13021::::::::::0|h[Needle Threader]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "needle-threader"
+  },
+  {
+    "itemId": 13022,
+    "name": "Gryphonwing Long Bow",
+    "icon": "inv_weapon_bow_11",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 27990,
+    "quality": "Rare",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Gryphonwing Long Bow"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "53 - 100  Damage"
+      },
+      {
+        "label": "+8 Agility"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13022::::::::::0|h[Gryphonwing Long Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gryphonwing-long-bow"
+  },
+  {
+    "itemId": 13023,
+    "name": "Eaglehorn Long Bow",
+    "icon": "inv_weapon_bow_11",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 42703,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Eaglehorn Long Bow"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "40 - 76  Damage"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13023::::::::::0|h[Eaglehorn Long Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "eaglehorn-long-bow"
+  },
+  {
+    "itemId": 16996,
+    "name": "Gorewood Bow",
+    "icon": "inv_weapon_bow_04",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 41451,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Gorewood Bow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "55 - 104  Damage"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+3 Agility"
+      },
+      {
+        "label": "+2 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 6187,
+          "name": "Order Must Be Restored",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 6148,
+          "name": "The Scarlet Oracle, Demetria",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:16996::::::::::0|h[Gorewood Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gorewood-bow"
+  },
+  {
+    "itemId": 17069,
+    "name": "Striker's Mark",
+    "icon": "inv_weapon_bow_08",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 75746,
+    "quality": "Epic",
+    "itemLevel": 69,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Striker's Mark"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "69 - 129  Damage"
+      },
+      {
+        "label": "+22 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:17069::::::::::0|h[Striker's Mark]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "strikers-mark"
+  },
+  {
+    "itemId": 18680,
+    "name": "Ancient Bone Bow",
+    "icon": "inv_weapon_bow_08",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 37894,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Ancient Bone Bow"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "61 - 114  Damage"
+      },
+      {
+        "label": "+11 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18680::::::::::0|h[Ancient Bone Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ancient-bone-bow"
+  },
+  {
+    "itemId": 18713,
+    "name": "Rhok'delar, Longbow of the Ancient Keepers",
+    "icon": "inv_weapon_bow_01",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 0,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Rhok'delar, Longbow of the Ancient Keepers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "89 - 166  Damage"
+      },
+      {
+        "label": "+17 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18713::::::::::0|h[Rhok'delar, Longbow of the Ancient Keepers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rhokdelar-longbow-of-the-ancient-keepers"
+  },
+  {
+    "itemId": 18833,
+    "name": "Grand Marshal's Bullseye",
+    "icon": "inv_weapon_bow_12",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 34731,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Grand Marshal's Bullseye"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "74 - 109  Damage"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "+41 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18833::::::::::0|h[Grand Marshal's Bullseye]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grand-marshals-bullseye"
+  },
+  {
+    "itemId": 18835,
+    "name": "High Warlord's Recurve",
+    "icon": "inv_weapon_bow_08",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 34997,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "High Warlord's Recurve"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "74 - 109  Damage"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "+41 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18835::::::::::0|h[High Warlord's Recurve]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-warlords-recurve"
+  },
+  {
+    "itemId": 19350,
+    "name": "Heartstriker",
+    "icon": "inv_weapon_bow_09",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 104609,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Heartstriker"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "80 - 149  Damage"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "+24 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19350::::::::::0|h[Heartstriker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heartstriker"
+  },
+  {
+    "itemId": 19558,
+    "name": "Outrider's Bow",
+    "icon": "inv_weapon_bow_06",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 44011,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Outrider's Bow"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "62 - 114  Damage"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19558::::::::::0|h[Outrider's Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "outriders-bow"
+  },
+  {
+    "itemId": 19559,
+    "name": "Outrider's Bow",
+    "icon": "inv_weapon_bow_06",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 24117,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Outrider's Bow"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "46 - 86  Damage"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19559::::::::::0|h[Outrider's Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "outriders-bow"
+  },
+  {
+    "itemId": 19560,
+    "name": "Outrider's Bow",
+    "icon": "inv_weapon_bow_06",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 11924,
+    "quality": "Rare",
+    "itemLevel": 43,
+    "requiredLevel": 38,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Outrider's Bow"
+      },
+      {
+        "label": "Requires Level 38"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "38 - 71  Damage"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19560::::::::::0|h[Outrider's Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "outriders-bow"
+  },
+  {
+    "itemId": 19561,
+    "name": "Outrider's Bow",
+    "icon": "inv_weapon_bow_06",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 5132,
+    "quality": "Rare",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Outrider's Bow"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "28 - 52  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19561::::::::::0|h[Outrider's Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "outriders-bow"
+  },
+  {
+    "itemId": 19562,
+    "name": "Outrunner's Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 41191,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Outrunner's Bow"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "62 - 114  Damage"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19562::::::::::0|h[Outrunner's Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "outrunners-bow"
+  },
+  {
+    "itemId": 19563,
+    "name": "Outrunner's Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 24117,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Outrunner's Bow"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "46 - 86  Damage"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19563::::::::::0|h[Outrunner's Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "outrunners-bow"
+  },
+  {
+    "itemId": 19564,
+    "name": "Outrunner's Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 11924,
+    "quality": "Rare",
+    "itemLevel": 43,
+    "requiredLevel": 38,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Outrunner's Bow"
+      },
+      {
+        "label": "Requires Level 38"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "38 - 71  Damage"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19564::::::::::0|h[Outrunner's Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "outrunners-bow"
+  },
+  {
+    "itemId": 19565,
+    "name": "Outrunner's Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 5132,
+    "quality": "Rare",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Outrunner's Bow"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "28 - 52  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19565::::::::::0|h[Outrunner's Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "outrunners-bow"
+  },
+  {
+    "itemId": 19993,
+    "name": "Hoodoo Hunting Bow",
+    "icon": "inv_waepon_bow_zulgrub_d_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 56783,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Hoodoo Hunting Bow"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "68 - 128  Damage"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19993::::::::::0|h[Hoodoo Hunting Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hoodoo-hunting-bow"
+  },
+  {
+    "itemId": 20038,
+    "name": "Mandokir's Sting",
+    "icon": "inv_waepon_bow_zulgrub_d_01",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 64972,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Mandokir's Sting"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "68 - 127  Damage"
+      },
+      {
+        "label": "+11 Agility"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20038::::::::::0|h[Mandokir's Sting]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mandokirs-sting"
+  },
+  {
+    "itemId": 20368,
+    "name": "Bland Bow of Steadiness",
+    "icon": "inv_weapon_bow_08",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 35582,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Bland Bow of Steadiness"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "46 - 46  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20368::::::::::0|h[Bland Bow of Steadiness]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bland-bow-of-steadiness"
+  },
+  {
+    "itemId": 20437,
+    "name": "Outrider's Bow",
+    "icon": "inv_weapon_bow_06",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1825,
+    "quality": "Rare",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Outrider's Bow"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "19 - 37  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20437::::::::::0|h[Outrider's Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "outriders-bow"
+  },
+  {
+    "itemId": 20438,
+    "name": "Outrunner's Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1825,
+    "quality": "Rare",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Outrunner's Bow"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "19 - 37  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20438::::::::::0|h[Outrunner's Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "outrunners-bow"
+  },
+  {
+    "itemId": 20488,
+    "name": "Rhok'delar, Longbow of the Ancient Keepers DEP",
+    "icon": "inv_weapon_bow_01",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 0,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Rhok'delar, Longbow of the Ancient Keepers DEP"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "89 - 166  Damage"
+      },
+      {
+        "label": "+17 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20488::::::::::0|h[Rhok'delar, Longbow of the Ancient Keepers DEP]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rhokdelar-longbow-of-the-ancient-keepers-dep"
+  },
+  {
+    "itemId": 20663,
+    "name": "Deep Strike Bow",
+    "icon": "inv_weapon_bow_10",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 37336,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Deep Strike Bow"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "58 - 108  Damage"
+      },
+      {
+        "label": "+6 Agility"
+      },
+      {
+        "label": "+6 Intellect"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20663::::::::::0|h[Deep Strike Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "deep-strike-bow"
+  },
+  {
+    "itemId": 21478,
+    "name": "Bow of Taut Sinew",
+    "icon": "inv_weapon_bow_13",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 76570,
+    "quality": "Epic",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Bow of Taut Sinew"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "59 - 111  Damage"
+      },
+      {
+        "label": "+8 Nature"
+      },
+      {
+        "label": "+22 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21478::::::::::0|h[Bow of Taut Sinew]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bow-of-taut-sinew"
+  },
+  {
+    "itemId": 21616,
+    "name": "Huhuran's Stinger",
+    "icon": "inv_weapon_bow_14",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 114921,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Huhuran's Stinger"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "87 - 163  Damage"
+      },
+      {
+        "label": "+18 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21616::::::::::0|h[Huhuran's Stinger]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "huhurans-stinger"
+  },
+  {
+    "itemId": 22318,
+    "name": "Malgen's Long Bow",
+    "icon": "inv_weapon_bow_12",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 37362,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Malgen's Long Bow"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "63 - 118  Damage"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "+20 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22318::::::::::0|h[Malgen's Long Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "malgens-long-bow"
+  },
+  {
+    "itemId": 22811,
+    "name": "Soulstring",
+    "icon": "inv_weapon_bow_13",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 157520,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Soulstring"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "113 - 201  Damage"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "+18 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:22811::::::::::0|h[Soulstring]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "soulstring"
+  },
+  {
+    "itemId": 41725,
+    "name": "Dragonmaw Battle Bow",
+    "icon": "genbow_twow3f",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 4851,
+    "quality": "Rare",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Dragonmaw Battle Bow"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "22 - 58  Damage"
+      },
+      {
+        "label": "+5 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:41725::::::::::0|h[Dragonmaw Battle Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dragonmaw-battle-bow"
+  },
+  {
+    "itemId": 55346,
+    "name": "Rain of Spiders",
+    "icon": "inv_weapon_bonebow2",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 288870,
+    "quality": "Epic",
+    "itemLevel": 96,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Rain of Spiders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "144 - 255  Damage"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "+22 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55346::::::::::0|h[Rain of Spiders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rain-of-spiders"
+  },
+  {
+    "itemId": 58193,
+    "name": "Demon Hair Bow",
+    "icon": "genbow_twow3f",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 9706,
+    "quality": "Rare",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Demon Hair Bow"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "53 - 79  Damage"
+      },
+      {
+        "label": "+19 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:58193::::::::::0|h[Demon Hair Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "demon-hair-bow"
+  },
+  {
+    "itemId": 60440,
+    "name": "Bloodscalp Longbow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 24837,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Bloodscalp Longbow"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "56 - 108  Damage"
+      },
+      {
+        "label": "+6 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60440::::::::::0|h[Bloodscalp Longbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodscalp-longbow"
+  },
+  {
+    "itemId": 60882,
+    "name": "Magram Windstriker",
+    "icon": "genbow_twow3f",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 23308,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Magram Windstriker"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "71 - 92  Damage"
+      },
+      {
+        "label": "+4 IntellectDurability"
+      },
+      {
+        "label": "+12 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60882::::::::::0|h[Magram Windstriker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "magram-windstriker"
+  },
+  {
+    "itemId": 60953,
+    "name": "Brackenwall Longbow",
+    "icon": "inv_weapon_bow_07",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 8769,
+    "quality": "Rare",
+    "itemLevel": 47,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Brackenwall Longbow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "49 - 90  Damage"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40722,
+          "name": "Justice for Dustwallow",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:60953::::::::::0|h[Brackenwall Longbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brackenwall-longbow"
+  },
+  {
+    "itemId": 61525,
+    "name": "Nature's Call",
+    "icon": "inv_weapon_bow_04",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 37783,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Nature's Call"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "103 - 191  Damage"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61525::::::::::0|h[Nature's Call]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "natures-call"
+  },
+  {
+    "itemId": 80223,
+    "name": "Farstrider Lodge Protector's Bow",
+    "icon": "inv_weapon_bow_17",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1825,
+    "quality": "Rare",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Farstrider Lodge Protector's Bow"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "19 - 37  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80223::::::::::0|h[Farstrider Lodge Protector's Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "farstrider-lodge-protectors-bow"
+  },
+  {
+    "itemId": 80546,
+    "name": "Quel'dorei Ranger's Longbow",
+    "icon": "inv_weapon_bow_17",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 21783,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Quel'dorei Ranger's Longbow"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "75 - 118  Damage"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "+22 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80546::::::::::0|h[Quel'dorei Ranger's Longbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "queldorei-rangers-longbow"
+  },
+  {
+    "itemId": 80646,
+    "name": "Revantusk Shadow Hunter's Longbow",
+    "icon": "inv_weapon_bow_08",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 21783,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Revantusk Shadow Hunter's Longbow"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "75 - 118  Damage"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "+22 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80646::::::::::0|h[Revantusk Shadow Hunter's Longbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revantusk-shadow-hunters-longbow"
+  },
+  {
+    "itemId": 80825,
+    "name": "Flamestring Bow",
+    "icon": "inv_weapon_bow_09",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 4189,
+    "quality": "Rare",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Flamestring Bow"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "44 - 84  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80825::::::::::0|h[Flamestring Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "flamestring-bow"
+  },
+  {
+    "itemId": 83225,
+    "name": "Bow of the Grove",
+    "icon": "inv_weapon_bow_11",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 9103,
+    "quality": "Rare",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Bow of the Grove"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "43 - 68  Damage"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83225::::::::::0|h[Bow of the Grove]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bow-of-the-grove"
+  },
+  {
+    "itemId": 2903,
+    "name": "Daryl's Hunting Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 515,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Daryl's Hunting Bow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "9 - 18  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 257,
+          "name": "A Hunter's Boast",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:2903::::::::::0|h[Daryl's Hunting Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "daryls-hunting-bow"
+  },
+  {
+    "itemId": 3036,
+    "name": "Heavy Shortbow",
+    "icon": "inv_weapon_bow_12",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 515,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 10,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Heavy Shortbow"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "10 - 20  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3036::::::::::0|h[Heavy Shortbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-shortbow"
+  },
+  {
+    "itemId": 3039,
+    "name": "Short Ash Bow",
+    "icon": "inv_weapon_bow_03",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1610,
+    "quality": "Uncommon",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Short Ash Bow"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "12 - 23  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3039::::::::::0|h[Short Ash Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "short-ash-bow"
+  },
+  {
+    "itemId": 3078,
+    "name": "Naga Heartpiercer",
+    "icon": "inv_weapon_bow_04",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 2314,
+    "quality": "Uncommon",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Naga Heartpiercer"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "13 - 25  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3078::::::::::0|h[Naga Heartpiercer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "naga-heartpiercer"
+  },
+  {
+    "itemId": 3493,
+    "name": "Raptor's End",
+    "icon": "inv_weapon_bow_03",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 3426,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Raptor's End"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "24 - 46  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 296,
+          "name": "Ormer's Revenge",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3493::::::::::0|h[Raptor's End]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "raptors-end"
+  },
+  {
+    "itemId": 3742,
+    "name": "Bow of Plunder",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 2862,
+    "quality": "Uncommon",
+    "itemLevel": 28,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Bow of Plunder"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "20 - 39  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 567,
+          "name": "Dangerous!",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3742::::::::::0|h[Bow of Plunder]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bow-of-plunder"
+  },
+  {
+    "itemId": 4110,
+    "name": "Master Hunter's Bow",
+    "icon": "inv_weapon_bow_11",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 11999,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Master Hunter's Bow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "35 - 65  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4110::::::::::0|h[Master Hunter's Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "master-hunters-bow"
+  },
+  {
+    "itemId": 4474,
+    "name": "Ravenwood Bow",
+    "icon": "inv_weapon_bow_10",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 4207,
+    "quality": "Uncommon",
+    "itemLevel": 32,
+    "requiredLevel": 27,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Ravenwood Bow"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "17 - 32  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4474::::::::::0|h[Ravenwood Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ravenwood-bow"
+  },
+  {
+    "itemId": 4576,
+    "name": "Light Bow",
+    "icon": "inv_weapon_bow_07",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1184,
+    "quality": "Uncommon",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Light Bow"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "9 - 18  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4576::::::::::0|h[Light Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "light-bow"
+  },
+  {
+    "itemId": 4763,
+    "name": "Blackwood Recurve Bow",
+    "icon": "inv_weapon_bow_12",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 135,
+    "quality": "Uncommon",
+    "itemLevel": 9,
+    "requiredLevel": 4,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Blackwood Recurve Bow"
+      },
+      {
+        "label": "Requires Level 4"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "7 - 14  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4763::::::::::0|h[Blackwood Recurve Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blackwood-recurve-bow"
+  },
+  {
+    "itemId": 5346,
+    "name": "Orcish Battle Bow",
+    "icon": "inv_weapon_bow_08",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 425,
+    "quality": "Uncommon",
+    "itemLevel": 14,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Orcish Battle Bow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "7 - 14  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 855,
+          "name": "Centaur Bracers",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:5346::::::::::0|h[Orcish Battle Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "orcish-battle-bow"
+  },
+  {
+    "itemId": 5748,
+    "name": "Centaur Longbow",
+    "icon": "inv_weapon_bow_07",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 609,
+    "quality": "Uncommon",
+    "itemLevel": 16,
+    "requiredLevel": 11,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Centaur Longbow"
+      },
+      {
+        "label": "Requires Level 11"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "9 - 18  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:5748::::::::::0|h[Centaur Longbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "centaur-longbow"
+  },
+  {
+    "itemId": 5817,
+    "name": "Lunaris Bow",
+    "icon": "inv_weapon_bow_01",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 3226,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Lunaris Bow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "23 - 43  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1044,
+          "name": "Answered Questions",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:5817::::::::::0|h[Lunaris Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lunaris-bow"
+  },
+  {
+    "itemId": 6469,
+    "name": "Venomstrike",
+    "icon": "inv_weapon_bow_10",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 2240,
+    "quality": "Rare",
+    "itemLevel": 24,
+    "requiredLevel": 19,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Venomstrike"
+      },
+      {
+        "label": "Requires Level 19"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "16 - 30  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:6469::::::::::0|h[Venomstrike]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "venomstrike"
+  },
+  {
+    "itemId": 6739,
+    "name": "Cliffrunner's Aim",
+    "icon": "inv_weapon_bow_08",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 2991,
+    "quality": "Uncommon",
+    "itemLevel": 29,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Cliffrunner's Aim"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "19 - 36  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1197,
+          "name": "The Sacred Flame",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6739::::::::::0|h[Cliffrunner's Aim]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cliffrunners-aim"
+  },
+  {
+    "itemId": 8180,
+    "name": "Hunting Bow",
+    "icon": "inv_weapon_bow_03",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 240,
+    "quality": "Uncommon",
+    "itemLevel": 11,
+    "requiredLevel": 6,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Hunting Bow"
+      },
+      {
+        "label": "Requires Level 6"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "8 - 16  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8180::::::::::0|h[Hunting Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hunting-bow"
+  },
+  {
+    "itemId": 8183,
+    "name": "Precision Bow",
+    "icon": "inv_weapon_bow_04",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 2426,
+    "quality": "Uncommon",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Precision Bow"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "20 - 37  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8183::::::::::0|h[Precision Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "precision-bow"
+  },
+  {
+    "itemId": 10624,
+    "name": "Stinging Bow",
+    "icon": "inv_weapon_bow_08",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 17249,
+    "quality": "Rare",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Stinging Bow"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "36 - 67  Damage"
+      },
+      {
+        "label": "+3 StrengthDurability"
+      },
+      {
+        "label": "+14 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:10624::::::::::0|h[Stinging Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stinging-bow"
+  },
+  {
+    "itemId": 11303,
+    "name": "Fine Shortbow",
+    "icon": "inv_weapon_bow_07",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 636,
+    "quality": "Uncommon",
+    "itemLevel": 16,
+    "requiredLevel": 11,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Fine Shortbow"
+      },
+      {
+        "label": "Requires Level 11"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "7 - 14  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:11303::::::::::0|h[Fine Shortbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fine-shortbow"
+  },
+  {
+    "itemId": 11304,
+    "name": "Fine Longbow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 972,
+    "quality": "Uncommon",
+    "itemLevel": 19,
+    "requiredLevel": 14,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Fine Longbow"
+      },
+      {
+        "label": "Requires Level 14"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "14 - 26  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:11304::::::::::0|h[Fine Longbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fine-longbow"
+  },
+  {
+    "itemId": 11305,
+    "name": "Dense Shortbow",
+    "icon": "inv_weapon_bow_07",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 5162,
+    "quality": "Uncommon",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Dense Shortbow"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "19 - 35  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:11305::::::::::0|h[Dense Shortbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dense-shortbow"
+  },
+  {
+    "itemId": 11307,
+    "name": "Massive Longbow",
+    "icon": "genbow_twow3f",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 13590,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Massive Longbow"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "43 - 80  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:11307::::::::::0|h[Massive Longbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "massive-longbow"
+  },
+  {
+    "itemId": 13020,
+    "name": "Skystriker Bow",
+    "icon": "inv_weapon_bow_11",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 8985,
+    "quality": "Rare",
+    "itemLevel": 39,
+    "requiredLevel": 34,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Skystriker Bow"
+      },
+      {
+        "label": "Requires Level 34"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "30 - 57  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13020::::::::::0|h[Skystriker Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "skystriker-bow"
+  },
+  {
+    "itemId": 15284,
+    "name": "Long Battle Bow",
+    "icon": "inv_weapon_bow_01",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 3039,
+    "quality": "Uncommon",
+    "itemLevel": 29,
+    "requiredLevel": 24,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Long Battle Bow"
+      },
+      {
+        "label": "Requires Level 24"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "18 - 34  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15284::::::::::0|h[Long Battle Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "long-battle-bow"
+  },
+  {
+    "itemId": 15285,
+    "name": "Archer's Longbow",
+    "icon": "inv_weapon_bow_03",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 4061,
+    "quality": "Uncommon",
+    "itemLevel": 32,
+    "requiredLevel": 27,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Archer's Longbow"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "23 - 44  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15285::::::::::0|h[Archer's Longbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "archers-longbow"
+  },
+  {
+    "itemId": 15286,
+    "name": "Long Redwood Bow",
+    "icon": "inv_weapon_bow_10",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 5568,
+    "quality": "Uncommon",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Long Redwood Bow"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "28 - 52  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15286::::::::::0|h[Long Redwood Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "long-redwood-bow"
+  },
+  {
+    "itemId": 15287,
+    "name": "Crusader Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 12516,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Crusader Bow"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "32 - 60  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15287::::::::::0|h[Crusader Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crusader-bow"
+  },
+  {
+    "itemId": 15288,
+    "name": "Blasthorn Bow",
+    "icon": "inv_weapon_bow_07",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 33743,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Blasthorn Bow"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "51 - 96  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15288::::::::::0|h[Blasthorn Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blasthorn-bow"
+  },
+  {
+    "itemId": 15289,
+    "name": "Archstrike Bow",
+    "icon": "inv_weapon_bow_06",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 41161,
+    "quality": "Uncommon",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Archstrike Bow"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "48 - 91  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15289::::::::::0|h[Archstrike Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "archstrike-bow"
+  },
+  {
+    "itemId": 15291,
+    "name": "Harpy Needler",
+    "icon": "inv_weapon_bow_08",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 19591,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Harpy Needler"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "44 - 84  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15291::::::::::0|h[Harpy Needler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "harpy-needler"
+  },
+  {
+    "itemId": 15295,
+    "name": "Quillfire Bow",
+    "icon": "inv_weapon_bow_10",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 22712,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Quillfire Bow"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "41 - 77  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15295::::::::::0|h[Quillfire Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "quillfire-bow"
+  },
+  {
+    "itemId": 15296,
+    "name": "Hawkeye Bow",
+    "icon": "inv_weapon_bow_12",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 34657,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Hawkeye Bow"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "35 - 65  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15296::::::::::0|h[Hawkeye Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hawkeye-bow"
+  },
+  {
+    "itemId": 17686,
+    "name": "Master Hunter's Bow",
+    "icon": "inv_weapon_bow_11",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 9937,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Master Hunter's Bow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "32 - 61  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 208,
+          "name": "Big Game Hunter",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:17686::::::::::0|h[Master Hunter's Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "master-hunters-bow"
+  },
+  {
+    "itemId": 17753,
+    "name": "Verdant Keeper's Aim",
+    "icon": "inv_weapon_bow_03",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 26046,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Verdant Keeper's Aim"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "53 - 100  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 7064,
+          "name": "Corruption of Earth and Seed",
+          "faction": "Horde"
+        },
+        {
+          "questId": 7065,
+          "name": "Corruption of Earth and Seed",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:17753::::::::::0|h[Verdant Keeper's Aim]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "verdant-keepers-aim"
+  },
+  {
+    "itemId": 18323,
+    "name": "Satyr's Bow",
+    "icon": "inv_weapon_bow_03",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 32988,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Satyr's Bow"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "50 - 93  Damage"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18323::::::::::0|h[Satyr's Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "satyrs-bow"
+  },
+  {
+    "itemId": 18482,
+    "name": "Ogre Toothpick Shooter",
+    "icon": "inv_weapon_bow_05",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 30986,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Ogre Toothpick Shooter"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "61 - 62  Damage"
+      },
+      {
+        "label": "+6 Agility"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:18482::::::::::0|h[Ogre Toothpick Shooter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ogre-toothpick-shooter"
+  },
+  {
+    "itemId": 18729,
+    "name": "Screeching Bow",
+    "icon": "inv_weapon_bow_12",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 38302,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Screeching Bow"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "70 - 71  Damage"
+      },
+      {
+        "label": "+3 Stamina"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18729::::::::::0|h[Screeching Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "screeching-bow"
+  },
+  {
+    "itemId": 19114,
+    "name": "Highland Bow",
+    "icon": "inv_weapon_bow_08",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 17887,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Highland Bow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "41 - 77  Damage"
+      },
+      {
+        "label": "+5 Agility"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 7847,
+          "name": "Return to Primal Torntusk",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:19114::::::::::0|h[Highland Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highland-bow"
+  },
+  {
+    "itemId": 20299,
+    "name": "90 Green Rogue Bow",
+    "icon": "inv_weapon_bow_04",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 128465,
+    "quality": "Uncommon",
+    "itemLevel": 90,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "90 Green Rogue Bow"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "81 - 151  Damage"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20299::::::::::0|h[90 Green Rogue Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "90-green-rogue-bow"
+  },
+  {
+    "itemId": 20313,
+    "name": "63 Green Rogue Bow",
+    "icon": "inv_weapon_bow_04",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 37212,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "63 Green Rogue Bow"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "51 - 96  Damage"
+      },
+      {
+        "label": "+4 Stamina"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20313::::::::::0|h[63 Green Rogue Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "63-green-rogue-bow"
+  },
+  {
+    "itemId": 20646,
+    "name": "Sandstrider's Mark",
+    "icon": "inv_weapon_bow_03",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 29963,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Sandstrider's Mark"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "44 - 82  Damage"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8283,
+          "name": "Wanted - Deathclasp, Terror of the Sands",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:20646::::::::::0|h[Sandstrider's Mark]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sandstriders-mark"
+  },
+  {
+    "itemId": 41190,
+    "name": "Bow of Alah'Thalas",
+    "icon": "inv_weapon_bow_01",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 241,
+    "quality": "Uncommon",
+    "itemLevel": 13,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Bow of Alah'Thalas"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "9 - 18  Damage"
+      },
+      {
+        "label": "+1 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41251,
+          "name": "Rommath, the Saviour",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:41190::::::::::0|h[Bow of Alah'Thalas]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bow-of-alahthalas"
+  },
+  {
+    "itemId": 51768,
+    "name": "Bow of Quel'Danil",
+    "icon": "inv_weapon_bow_16",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 3983,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Bow of Quel'Danil"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "32 - 59  Damage"
+      },
+      {
+        "label": "+4 Agility"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 80393,
+          "name": "Errand for Quel'Danil",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:51768::::::::::0|h[Bow of Quel'Danil]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bow-of-queldanil"
+  },
+  {
+    "itemId": 58016,
+    "name": "Ashwood Bow",
+    "icon": "inv_weapon_bow_11",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 7777,
+    "quality": "Uncommon",
+    "itemLevel": 39,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Ashwood Bow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 - 50  Damage"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41646,
+          "name": "Covering All Possibilities",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:58016::::::::::0|h[Ashwood Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ashwood-bow"
+  },
+  {
+    "itemId": 60309,
+    "name": "'Jadewood' Longbow",
+    "icon": "inv_weapon_bow_08",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 8409,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "'Jadewood' Longbow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "23 - 45  Damage"
+      },
+      {
+        "label": "+6 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40226,
+          "name": "Wally Wisecrack",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60309::::::::::0|h['Jadewood' Longbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jadewood-longbow"
+  },
+  {
+    "itemId": 60339,
+    "name": "High Elven Rotten Bow",
+    "icon": "inv_weapon_bow_11",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 515,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "High Elven Rotten Bow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "9 - 18  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40263,
+          "name": "A Demonstration of Skill",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60339::::::::::0|h[High Elven Rotten Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-elven-rotten-bow"
+  },
+  {
+    "itemId": 61165,
+    "name": "Bow of the Night Huntress",
+    "icon": "inv_weapon_bow_01",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 6965,
+    "quality": "Uncommon",
+    "itemLevel": 35,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Bow of the Night Huntress"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "22 - 41  Damage"
+      },
+      {
+        "label": "+5 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40806,
+          "name": "Kaldorei Relics",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 40812,
+          "name": "Kaldorei Weaponry",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:61165::::::::::0|h[Bow of the Night Huntress]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bow-of-the-night-huntress"
+  },
+  {
+    "itemId": 61569,
+    "name": "Time Frozen Bow",
+    "icon": "inv_weapon_bow_09",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 54398,
+    "quality": "Rare",
+    "itemLevel": 64,
+    "requiredLevel": 59,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Time Frozen Bow"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "76 - 139  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61569::::::::::0|h[Time Frozen Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "time-frozen-bow"
+  },
+  {
+    "itemId": 80820,
+    "name": "Quilflinger",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 95,
+    "quality": "Uncommon",
+    "itemLevel": 13,
+    "requiredLevel": 8,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Quilflinger"
+      },
+      {
+        "label": "Requires Level 8"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "7 - 14  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:80820::::::::::0|h[Quilflinger]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "quilflinger"
+  },
+  {
+    "itemId": 83452,
+    "name": "Windbreaker",
+    "icon": "inv_weapon_bow_01",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 46108,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Windbreaker"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "44 - 96  Damage"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+5 Frost"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83452::::::::::0|h[Windbreaker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "windbreaker"
+  },
+  {
+    "itemId": 2504,
+    "name": "Worn Shortbow",
+    "icon": "inv_weapon_bow_05",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 5,
+    "quality": "Common",
+    "itemLevel": 2,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Worn Shortbow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 5  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2504::::::::::0|h[Worn Shortbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "worn-shortbow"
+  },
+  {
+    "itemId": 2505,
+    "name": "Polished Shortbow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 12,
+    "quality": "Common",
+    "itemLevel": 4,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Polished Shortbow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 5  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2505::::::::::0|h[Polished Shortbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "polished-shortbow"
+  },
+  {
+    "itemId": 2506,
+    "name": "Hornwood Recurve Bow",
+    "icon": "inv_weapon_bow_11",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 57,
+    "quality": "Common",
+    "itemLevel": 8,
+    "requiredLevel": 3,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Hornwood Recurve Bow"
+      },
+      {
+        "label": "Requires Level 3"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "3 - 7  Damage"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2506::::::::::0|h[Hornwood Recurve Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hornwood-recurve-bow"
+  },
+  {
+    "itemId": 2507,
+    "name": "Laminated Recurve Bow",
+    "icon": "inv_weapon_bow_01",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 350,
+    "quality": "Common",
+    "itemLevel": 16,
+    "requiredLevel": 11,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Laminated Recurve Bow"
+      },
+      {
+        "label": "Requires Level 11"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "10 - 20  Damage"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2507::::::::::0|h[Laminated Recurve Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "laminated-recurve-bow"
+  },
+  {
+    "itemId": 2550,
+    "name": "Monster - Bow, Short",
+    "icon": "inv_weapon_bow_05",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Bow, Short"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2550::::::::::0|h[Monster - Bow, Short]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-bow-short"
+  },
+  {
+    "itemId": 2773,
+    "name": "Cracked Shortbow",
+    "icon": "inv_weapon_bow_05",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 39,
+    "quality": "Poor",
+    "itemLevel": 8,
+    "requiredLevel": 3,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Cracked Shortbow"
+      },
+      {
+        "label": "Requires Level 3"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "3 - 6  Damage"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2773::::::::::0|h[Cracked Shortbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cracked-shortbow"
+  },
+  {
+    "itemId": 2777,
+    "name": "Feeble Shortbow",
+    "icon": "inv_weapon_bow_05",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 146,
+    "quality": "Poor",
+    "itemLevel": 13,
+    "requiredLevel": 8,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Feeble Shortbow"
+      },
+      {
+        "label": "Requires Level 8"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "4 - 8  Damage"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2777::::::::::0|h[Feeble Shortbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "feeble-shortbow"
+  },
+  {
+    "itemId": 2780,
+    "name": "Light Hunting Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 374,
+    "quality": "Poor",
+    "itemLevel": 19,
+    "requiredLevel": 14,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Light Hunting Bow"
+      },
+      {
+        "label": "Requires Level 14"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "5 - 10  Damage"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2780::::::::::0|h[Light Hunting Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "light-hunting-bow"
+  },
+  {
+    "itemId": 2782,
+    "name": "Mishandled Recurve Bow",
+    "icon": "inv_weapon_bow_03",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 751,
+    "quality": "Poor",
+    "itemLevel": 24,
+    "requiredLevel": 19,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Mishandled Recurve Bow"
+      },
+      {
+        "label": "Requires Level 19"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "9 - 18  Damage"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2782::::::::::0|h[Mishandled Recurve Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mishandled-recurve-bow"
+  },
+  {
+    "itemId": 2785,
+    "name": "Stiff Recurve Bow",
+    "icon": "inv_weapon_bow_05",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1062,
+    "quality": "Poor",
+    "itemLevel": 28,
+    "requiredLevel": 23,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Stiff Recurve Bow"
+      },
+      {
+        "label": "Requires Level 23"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "13 - 25  Damage"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2785::::::::::0|h[Stiff Recurve Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stiff-recurve-bow"
+  },
+  {
+    "itemId": 3026,
+    "name": "Reinforced Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 762,
+    "quality": "Common",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Reinforced Bow"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "11 - 22  Damage"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3026::::::::::0|h[Reinforced Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "reinforced-bow"
+  },
+  {
+    "itemId": 3027,
+    "name": "Heavy Recurve Bow",
+    "icon": "inv_weapon_bow_01",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1269,
+    "quality": "Common",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Heavy Recurve Bow"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "15 - 29  Damage"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3027::::::::::0|h[Heavy Recurve Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-recurve-bow"
+  },
+  {
+    "itemId": 3028,
+    "name": "Longbow",
+    "icon": "inv_weapon_bow_07",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 3086,
+    "quality": "Common",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Longbow"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "21 - 39  Damage"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3028::::::::::0|h[Longbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "longbow"
+  },
+  {
+    "itemId": 3037,
+    "name": "Whipwood Recurve Bow",
+    "icon": "inv_weapon_bow_12",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 4814,
+    "quality": "Uncommon",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Whipwood Recurve Bow"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "17 - 32  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3037::::::::::0|h[Whipwood Recurve Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "whipwood-recurve-bow"
+  },
+  {
+    "itemId": 3778,
+    "name": "Taut Compound Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1541,
+    "quality": "Poor",
+    "itemLevel": 31,
+    "requiredLevel": 26,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Taut Compound Bow"
+      },
+      {
+        "label": "Requires Level 26"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "13 - 25  Damage"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3778::::::::::0|h[Taut Compound Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "taut-compound-bow"
+  },
+  {
+    "itemId": 4025,
+    "name": "Balanced Long Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 5070,
+    "quality": "Poor",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Balanced Long Bow"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "15 - 29  Damage"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:4025::::::::::0|h[Balanced Long Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "balanced-long-bow"
+  },
+  {
+    "itemId": 4087,
+    "name": "Trueshot Bow",
+    "icon": "inv_weapon_bow_10",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 8722,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 36,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Trueshot Bow"
+      },
+      {
+        "label": "Requires Level 36"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "24 - 45  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4087::::::::::0|h[Trueshot Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "trueshot-bow"
+  },
+  {
+    "itemId": 4931,
+    "name": "Hickory Shortbow",
+    "icon": "inv_weapon_bow_05",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 134,
+    "quality": "Common",
+    "itemLevel": 11,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Hickory Shortbow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "5 - 10  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 835,
+          "name": "Securing the Lines",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:4931::::::::::0|h[Hickory Shortbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hickory-shortbow"
+  },
+  {
+    "itemId": 5258,
+    "name": "Monster - Bow, Black",
+    "icon": "inv_weapon_bow_05",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Bow, Black"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:5258::::::::::0|h[Monster - Bow, Black]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-bow-black"
+  },
+  {
+    "itemId": 5259,
+    "name": "Monster - Bow, Red",
+    "icon": "inv_weapon_bow_05",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Bow, Red"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:5259::::::::::0|h[Monster - Bow, Red]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-bow-red"
+  },
+  {
+    "itemId": 5260,
+    "name": "Monster - Bow, Brown",
+    "icon": "inv_weapon_bow_05",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Bow, Brown"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:5260::::::::::0|h[Monster - Bow, Brown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-bow-brown"
+  },
+  {
+    "itemId": 5261,
+    "name": "Monster - Bow, Gray",
+    "icon": "inv_weapon_bow_05",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Bow, Gray"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:5261::::::::::0|h[Monster - Bow, Gray]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-bow-gray"
+  },
+  {
+    "itemId": 5262,
+    "name": "Monster - Bow, Dark Brown",
+    "icon": "inv_weapon_bow_05",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Bow, Dark Brown"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:5262::::::::::0|h[Monster - Bow, Dark Brown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-bow-dark-brown"
+  },
+  {
+    "itemId": 5596,
+    "name": "Ashwood Bow",
+    "icon": "inv_weapon_bow_01",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 141,
+    "quality": "Common",
+    "itemLevel": 11,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Ashwood Bow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "5 - 11  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 935,
+          "name": "Crown of the Earth",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:5596::::::::::0|h[Ashwood Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ashwood-bow"
+  },
+  {
+    "itemId": 8179,
+    "name": "Cadet's Bow",
+    "icon": "inv_weapon_bow_05",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 28,
+    "quality": "Common",
+    "itemLevel": 6,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Cadet's Bow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "3 - 6  Damage"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:8179::::::::::0|h[Cadet's Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cadets-bow"
+  },
+  {
+    "itemId": 9400,
+    "name": "Baelog's Shortbow",
+    "icon": "inv_weapon_bow_11",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 8722,
+    "quality": "Common",
+    "itemLevel": 41,
+    "requiredLevel": 36,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Baelog's Shortbow"
+      },
+      {
+        "label": "Requires Level 36"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 - 55  Damage"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:9400::::::::::0|h[Baelog's Shortbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "baelogs-shortbow"
+  },
+  {
+    "itemId": 11306,
+    "name": "Sturdy Recurve",
+    "icon": "inv_weapon_bow_07",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 3893,
+    "quality": "Uncommon",
+    "itemLevel": 32,
+    "requiredLevel": 27,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Sturdy Recurve"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "20 - 37  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:11306::::::::::0|h[Sturdy Recurve]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sturdy-recurve"
+  },
+  {
+    "itemId": 11308,
+    "name": "Sylvan Shortbow",
+    "icon": "inv_weapon_bow_07",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 15765,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Sylvan Shortbow"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "32 - 59  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:11308::::::::::0|h[Sylvan Shortbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sylvan-shortbow"
+  },
+  {
+    "itemId": 12447,
+    "name": "Thistlewood Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 19,
+    "quality": "Common",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Thistlewood Bow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "3 - 7  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:12447::::::::::0|h[Thistlewood Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thistlewood-bow"
+  },
+  {
+    "itemId": 12449,
+    "name": "Primitive Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 19,
+    "quality": "Common",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Primitive Bow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "4 - 8  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:12449::::::::::0|h[Primitive Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "primitive-bow"
+  },
+  {
+    "itemId": 13147,
+    "name": "Monster - Bow, White",
+    "icon": "inv_weapon_bow_05",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Bow, White"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:13147::::::::::0|h[Monster - Bow, White]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-bow-white"
+  },
+  {
+    "itemId": 13175,
+    "name": "Voone's Twitchbow",
+    "icon": "inv_weapon_bow_10",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 30619,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Voone's Twitchbow"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "31 - 58  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:13175::::::::::0|h[Voone's Twitchbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "voones-twitchbow"
+  },
+  {
+    "itemId": 13824,
+    "name": "Recurve Long Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 9015,
+    "quality": "Poor",
+    "itemLevel": 55,
+    "requiredLevel": 45,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Recurve Long Bow"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "26 - 50  Damage"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:13824::::::::::0|h[Recurve Long Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "recurve-long-bow"
+  },
+  {
+    "itemId": 14105,
+    "name": "Monster - Bow, C01/B02 White",
+    "icon": "inv_weapon_bow_05",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Bow, C01/B02 White"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:14105::::::::::0|h[Monster - Bow, C01/B02 White]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-bow-c01-b02-white"
+  },
+  {
+    "itemId": 14118,
+    "name": "Monster - Bow, C02/B02 Black",
+    "icon": "inv_weapon_bow_05",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Bow, C02/B02 Black"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:14118::::::::::0|h[Monster - Bow, C02/B02 Black]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-bow-c02-b02-black"
+  },
+  {
+    "itemId": 14394,
+    "name": "Durability Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 2,
+    "quality": "Common",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Durability Bow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 3  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:14394::::::::::0|h[Durability Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "durability-bow"
+  },
+  {
+    "itemId": 15294,
+    "name": "Siege Bow",
+    "icon": "inv_weapon_bow_07",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 20135,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Siege Bow"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "48 - 90  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15294::::::::::0|h[Siege Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "siege-bow"
+  },
+  {
+    "itemId": 16622,
+    "name": "Thornflinger",
+    "icon": "inv_weapon_bow_06",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 27307,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Thornflinger"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "52 - 97  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 4902,
+          "name": "Wildkin of Elune",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:16622::::::::::0|h[Thornflinger]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thornflinger"
+  },
+  {
+    "itemId": 21550,
+    "name": "Monster - Bow, Kaldorei",
+    "icon": "inv_weapon_bow_05",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Bow, Kaldorei"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:21550::::::::::0|h[Monster - Bow, Kaldorei]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-bow-kaldorei"
+  },
+  {
+    "itemId": 80207,
+    "name": "Worn Wooden Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 1,
+    "quality": "Common",
+    "itemLevel": 6,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Worn Wooden Bow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "5 - 9  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 80204,
+          "name": "[DEPRECATED] Gathering Intel",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:80207::::::::::0|h[Worn Wooden Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "worn-wooden-bow"
+  },
+  {
+    "itemId": 80503,
+    "name": "Well-balanced Short Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 100,
+    "quality": "Uncommon",
+    "itemLevel": 16,
+    "requiredLevel": 10,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Well-balanced Short Bow"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "8 - 15  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:80503::::::::::0|h[Well-balanced Short Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "well-balanced-short-bow"
+  },
+  {
+    "itemId": 80603,
+    "name": "Sturdy Short Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 100,
+    "quality": "Uncommon",
+    "itemLevel": 16,
+    "requiredLevel": 10,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Sturdy Short Bow"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "7 - 14  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:80603::::::::::0|h[Sturdy Short Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sturdy-short-bow"
+  },
+  {
+    "itemId": 80876,
+    "name": "Silvermoon Bow",
+    "icon": "inv_weapon_bow_02",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 5,
+    "quality": "Common",
+    "itemLevel": 2,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Silvermoon Bow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 5  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:80876::::::::::0|h[Silvermoon Bow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "silvermoon-bow"
+  }
+]

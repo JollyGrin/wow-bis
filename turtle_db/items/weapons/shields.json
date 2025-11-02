@@ -1,0 +1,582 @@
+[
+  {
+    "itemId": 60782,
+    "name": "Shieldbreaker Arbalest",
+    "icon": "inv_weapon_crossbow_15",
+    "class": "Armor",
+    "subclass": "Shield",
+    "sellPrice": 49103,
+    "quality": "Epic",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Shield",
+    "tooltip": [
+      {
+        "label": "Shieldbreaker Arbalest"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Shield"
+      },
+      {
+        "label": "Shield",
+        "format": "alignRight"
+      },
+      {
+        "label": "73 - 133  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:60782::::::::::0|h[Shieldbreaker Arbalest]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shieldbreaker-arbalest"
+  },
+  {
+    "itemId": 2210,
+    "name": "Battered Buckler",
+    "icon": "inv_shield_09",
+    "class": "Weapon",
+    "subclass": "Shield",
+    "sellPrice": 3,
+    "quality": "Poor",
+    "itemLevel": 2,
+    "requiredLevel": 0,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Battered Buckler"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Shield",
+        "format": "alignRight"
+      },
+      {
+        "label": "12 Armor"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2210::::::::::0|h[Battered Buckler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "battered-buckler"
+  },
+  {
+    "itemId": 2212,
+    "name": "Cracked Buckler",
+    "icon": "inv_shield_09",
+    "class": "Weapon",
+    "subclass": "Shield",
+    "sellPrice": 16,
+    "quality": "Poor",
+    "itemLevel": 6,
+    "requiredLevel": 0,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Cracked Buckler"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Shield",
+        "format": "alignRight"
+      },
+      {
+        "label": "61 Armor"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2212::::::::::0|h[Cracked Buckler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cracked-buckler"
+  },
+  {
+    "itemId": 3648,
+    "name": "Warrior's Buckler",
+    "icon": "inv_shield_09",
+    "class": "Weapon",
+    "subclass": "Shield",
+    "sellPrice": 73,
+    "quality": "Common",
+    "itemLevel": 9,
+    "requiredLevel": 4,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Warrior's Buckler"
+      },
+      {
+        "label": "Requires Level 4"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Shield",
+        "format": "alignRight"
+      },
+      {
+        "label": "135 Armor"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3648::::::::::0|h[Warrior's Buckler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warriors-buckler"
+  },
+  {
+    "itemId": 3649,
+    "name": "Tribal Buckler",
+    "icon": "inv_shield_09",
+    "class": "Weapon",
+    "subclass": "Shield",
+    "sellPrice": 115,
+    "quality": "Common",
+    "itemLevel": 11,
+    "requiredLevel": 6,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Tribal Buckler"
+      },
+      {
+        "label": "Requires Level 6"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Shield",
+        "format": "alignRight"
+      },
+      {
+        "label": "189 Armor"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3649::::::::::0|h[Tribal Buckler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tribal-buckler"
+  },
+  {
+    "itemId": 3987,
+    "name": "Deflecting Tower",
+    "icon": "inv_shield_11",
+    "class": "Weapon",
+    "subclass": "Shield",
+    "sellPrice": 6837,
+    "quality": "Poor",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Deflecting Tower"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Shield",
+        "format": "alignRight"
+      },
+      {
+        "label": "1442 Armor"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3987::::::::::0|h[Deflecting Tower]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "deflecting-tower"
+  },
+  {
+    "itemId": 3989,
+    "name": "Blocking Targe",
+    "icon": "inv_shield_09",
+    "class": "Weapon",
+    "subclass": "Shield",
+    "sellPrice": 3154,
+    "quality": "Poor",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Blocking Targe"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Shield",
+        "format": "alignRight"
+      },
+      {
+        "label": "1015 Armor"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3989::::::::::0|h[Blocking Targe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blocking-targe"
+  },
+  {
+    "itemId": 3990,
+    "name": "Crested Buckler",
+    "icon": "inv_shield_10",
+    "class": "Weapon",
+    "subclass": "Shield",
+    "sellPrice": 8237,
+    "quality": "Poor",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Crested Buckler"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Shield",
+        "format": "alignRight"
+      },
+      {
+        "label": "1517 Armor"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3990::::::::::0|h[Crested Buckler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crested-buckler"
+  },
+  {
+    "itemId": 4911,
+    "name": "Thick Bark Buckler",
+    "icon": "inv_shield_09",
+    "class": "Weapon",
+    "subclass": "Shield",
+    "sellPrice": 15,
+    "quality": "Common",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Thick Bark Buckler"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Shield",
+        "format": "alignRight"
+      },
+      {
+        "label": "55 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 781,
+          "name": "Attack on Camp Narache",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:4911::::::::::0|h[Thick Bark Buckler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thick-bark-buckler"
+  },
+  {
+    "itemId": 9444,
+    "name": "Techbot CPU Shell",
+    "icon": "inv_shield_09",
+    "class": "Weapon",
+    "subclass": "Shield",
+    "sellPrice": 1120,
+    "quality": "Common",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Techbot CPU Shell"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Shield",
+        "format": "alignRight"
+      },
+      {
+        "label": "475 Armor"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:9444::::::::::0|h[Techbot CPU Shell]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "techbot-cpu-shell"
+  },
+  {
+    "itemId": 876,
+    "name": "Worn Wooden Buckler",
+    "icon": "inv_shield_09",
+    "class": "Weapon",
+    "subclass": "Shield",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Worn Wooden Buckler"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Shield",
+        "format": "alignRight"
+      },
+      {
+        "label": "5 Armor"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:876::::::::::0|h[Worn Wooden Buckler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "worn-wooden-buckler"
+  },
+  {
+    "itemId": 2214,
+    "name": "Wooden Buckler",
+    "icon": "inv_shield_09",
+    "class": "Weapon",
+    "subclass": "Shield",
+    "sellPrice": 182,
+    "quality": "Poor",
+    "itemLevel": 15,
+    "requiredLevel": 10,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Wooden Buckler"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Shield",
+        "format": "alignRight"
+      },
+      {
+        "label": "282 Armor"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2214::::::::::0|h[Wooden Buckler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wooden-buckler"
+  },
+  {
+    "itemId": 2216,
+    "name": "Simple Buckler",
+    "icon": "inv_shield_09",
+    "class": "Weapon",
+    "subclass": "Shield",
+    "sellPrice": 210,
+    "quality": "Poor",
+    "itemLevel": 16,
+    "requiredLevel": 11,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Simple Buckler"
+      },
+      {
+        "label": "Requires Level 11"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Shield",
+        "format": "alignRight"
+      },
+      {
+        "label": "297 Armor"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2216::::::::::0|h[Simple Buckler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "simple-buckler"
+  },
+  {
+    "itemId": 3816,
+    "name": "Reflective Heater",
+    "icon": "inv_shield_04",
+    "class": "Weapon",
+    "subclass": "Shield",
+    "sellPrice": 2102,
+    "quality": "Poor",
+    "itemLevel": 36,
+    "requiredLevel": 31,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Reflective Heater"
+      },
+      {
+        "label": "Requires Level 31"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Shield",
+        "format": "alignRight"
+      },
+      {
+        "label": "583 Armor"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3816::::::::::0|h[Reflective Heater]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "reflective-heater"
+  },
+  {
+    "itemId": 3817,
+    "name": "Reinforced Buckler",
+    "icon": "inv_shield_09",
+    "class": "Weapon",
+    "subclass": "Shield",
+    "sellPrice": 1585,
+    "quality": "Poor",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Reinforced Buckler"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Shield",
+        "format": "alignRight"
+      },
+      {
+        "label": "540 Armor"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3817::::::::::0|h[Reinforced Buckler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "reinforced-buckler"
+  },
+  {
+    "itemId": 3986,
+    "name": "Protective Pavise",
+    "icon": "inv_shield_06",
+    "class": "Weapon",
+    "subclass": "Shield",
+    "sellPrice": 5332,
+    "quality": "Poor",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Protective Pavise"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Shield",
+        "format": "alignRight"
+      },
+      {
+        "label": "1317 Armor"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3986::::::::::0|h[Protective Pavise]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "protective-pavise"
+  }
+]

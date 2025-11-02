@@ -1,0 +1,2218 @@
+[
+  {
+    "itemId": 80797,
+    "name": "Pendant of Troll Regeneration",
+    "icon": "inv_jewelry_necklace_02",
+    "class": "Weapon",
+    "subclass": "spear",
+    "sellPrice": 1336,
+    "quality": "Rare",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Neck",
+    "tooltip": [
+      {
+        "label": "Pendant of Troll Regeneration"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Neck"
+      },
+      {
+        "label": "spear",
+        "format": "alignRight"
+      },
+      {
+        "label": "+7 StaminaRequires"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80797::::::::::0|h[Pendant of Troll Regeneration]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pendant-of-troll-regeneration"
+  },
+  {
+    "itemId": 61512,
+    "name": "Feralkin Necklace",
+    "icon": "inv_jewelry_necklace_09",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 5423,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 0,
+    "slot": "Neck",
+    "tooltip": [
+      {
+        "label": "Feralkin Necklace"
+      },
+      {
+        "label": "Neck"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41048,
+          "name": "Essence of Zalmos",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:61512::::::::::0|h[Feralkin Necklace]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "feralkin-necklace"
+  },
+  {
+    "itemId": 70003,
+    "name": "Hawkspear's Necklace",
+    "icon": "inv_jewelry_necklace_04",
+    "class": "Weapon",
+    "subclass": "spear",
+    "sellPrice": 1253,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 0,
+    "slot": "Neck",
+    "tooltip": [
+      {
+        "label": "Hawkspear's Necklace"
+      },
+      {
+        "label": "Neck"
+      },
+      {
+        "label": "spear",
+        "format": "alignRight"
+      },
+      {
+        "label": "+3 Agility"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 70022,
+          "name": "Norvok of the Spear",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:70003::::::::::0|h[Hawkspear's Necklace]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hawkspears-necklace"
+  },
+  {
+    "itemId": 21405,
+    "name": "Band of Veiled Shadows",
+    "icon": "inv_jewelry_ring_ahnqiraj_03",
+    "class": "Weapon",
+    "subclass": "Dagger",
+    "sellPrice": 0,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 0,
+    "slot": "Finger",
+    "tooltip": [
+      {
+        "label": "Band of Veiled Shadows"
+      },
+      {
+        "label": "Finger"
+      },
+      {
+        "label": "Dagger",
+        "format": "alignRight"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8701,
+          "name": "Band of Veiled Shadows",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21405::::::::::0|h[Band of Veiled Shadows]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "band-of-veiled-shadows"
+  },
+  {
+    "itemId": 55066,
+    "name": "Master Kang's Inner Focus",
+    "icon": "spell_frost_windwalkon",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 3750,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Trinket",
+    "tooltip": [
+      {
+        "label": "Master Kang's Inner Focus"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Trinket"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "+16 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:55066::::::::::0|h[Master Kang's Inner Focus]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "master-kangs-inner-focus"
+  },
+  {
+    "itemId": 80806,
+    "name": "Healing Ward",
+    "icon": "inv_banner_01",
+    "class": "Weapon",
+    "subclass": "spear",
+    "sellPrice": 1163,
+    "quality": "Rare",
+    "itemLevel": 41,
+    "requiredLevel": 36,
+    "slot": "Trinket",
+    "tooltip": [
+      {
+        "label": "Healing Ward"
+      },
+      {
+        "label": "Requires Level 36"
+      },
+      {
+        "label": "Trinket"
+      },
+      {
+        "label": "spear",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80806::::::::::0|h[Healing Ward]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "healing-ward"
+  },
+  {
+    "itemId": 41801,
+    "name": "Energized Relic Mechanism",
+    "icon": "inv_misc_pocketwatch_03",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 2851,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 0,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Energized Relic Mechanism"
+      },
+      {
+        "label": "Relic"
+      },
+      {
+        "label": "+3 All"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41733,
+          "name": "Rebuilding the Relic",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:41801::::::::::0|h[Energized Relic Mechanism]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "energized-relic-mechanism"
+  },
+  {
+    "itemId": 2919,
+    "name": "Relic of the Ancients",
+    "icon": "inv_jewelry_talisman_05",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 1000,
+    "quality": "Common",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Relic of the Ancients"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Relic"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2919::::::::::0|h[Relic of the Ancients]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "relic-of-the-ancients"
+  },
+  {
+    "itemId": 2921,
+    "name": "Blessed Relic",
+    "icon": "inv_misc_rune_01",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 125,
+    "quality": "Common",
+    "itemLevel": 15,
+    "requiredLevel": 10,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Blessed Relic"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Relic"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2921::::::::::0|h[Blessed Relic]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blessed-relic"
+  },
+  {
+    "itemId": 2923,
+    "name": "Relic of Righteousness",
+    "icon": "inv_jewelry_talisman_01",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 500,
+    "quality": "Common",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Relic of Righteousness"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Relic"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2923::::::::::0|h[Relic of Righteousness]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "relic-of-righteousness"
+  },
+  {
+    "itemId": 3002,
+    "name": "Relic Horn of Justice",
+    "icon": "inv_misc_horn_03",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 1000,
+    "quality": "Common",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Relic Horn of Justice"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Relic"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3002::::::::::0|h[Relic Horn of Justice]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "relic-horn-of-justice"
+  },
+  {
+    "itemId": 3004,
+    "name": "Relic of the Dead",
+    "icon": "inv_misc_urn_01",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 125,
+    "quality": "Common",
+    "itemLevel": 15,
+    "requiredLevel": 10,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Relic of the Dead"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Relic"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3004::::::::::0|h[Relic of the Dead]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "relic-of-the-dead"
+  },
+  {
+    "itemId": 3005,
+    "name": "Relic of Truth",
+    "icon": "inv_jewelry_talisman_02",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 250,
+    "quality": "Common",
+    "itemLevel": 20,
+    "requiredLevel": 15,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Relic of Truth"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Relic"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3005::::::::::0|h[Relic of Truth]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "relic-of-truth"
+  },
+  {
+    "itemId": 3006,
+    "name": "Holy Relic Shard",
+    "icon": "inv_misc_gem_diamond_02",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 500,
+    "quality": "Common",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Holy Relic Shard"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Relic"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3006::::::::::0|h[Holy Relic Shard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "holy-relic-shard"
+  },
+  {
+    "itemId": 3789,
+    "name": "Relic Stone of Piety",
+    "icon": "inv_misc_orb_03",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 2000,
+    "quality": "Common",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Relic Stone of Piety"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Relic"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3789::::::::::0|h[Relic Stone of Piety]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "relic-stone-of-piety"
+  },
+  {
+    "itemId": 3790,
+    "name": "Consecrated Relic Parchment",
+    "icon": "inv_scroll_02",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 2000,
+    "quality": "Common",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Consecrated Relic Parchment"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Relic"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3790::::::::::0|h[Consecrated Relic Parchment]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "consecrated-relic-parchment"
+  },
+  {
+    "itemId": 4030,
+    "name": "Holy Relic Water",
+    "icon": "inv_potion_01",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 4000,
+    "quality": "Common",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Holy Relic Water"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Relic"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:4030::::::::::0|h[Holy Relic Water]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "holy-relic-water"
+  },
+  {
+    "itemId": 4031,
+    "name": "Hallowed Relic Charm",
+    "icon": "inv_jewelry_talisman_06",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 4000,
+    "quality": "Common",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Hallowed Relic Charm"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Relic"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:4031::::::::::0|h[Hallowed Relic Charm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hallowed-relic-charm"
+  },
+  {
+    "itemId": 4032,
+    "name": "Radiant Relic Hammer",
+    "icon": "inv_hammer_02",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 5000,
+    "quality": "Common",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Radiant Relic Hammer"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Relic"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:4032::::::::::0|h[Radiant Relic Hammer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "radiant-relic-hammer"
+  },
+  {
+    "itemId": 2920,
+    "name": "Sacred Relic",
+    "icon": "inv_misc_candle_01",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 50,
+    "quality": "Common",
+    "itemLevel": 10,
+    "requiredLevel": 5,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Sacred Relic"
+      },
+      {
+        "label": "Requires Level 5"
+      },
+      {
+        "label": "Relic"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2920::::::::::0|h[Sacred Relic]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sacred-relic"
+  },
+  {
+    "itemId": 2922,
+    "name": "Spirit Relic",
+    "icon": "inv_misc_orb_01",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 250,
+    "quality": "Common",
+    "itemLevel": 20,
+    "requiredLevel": 15,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Spirit Relic"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Relic"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2922::::::::::0|h[Spirit Relic]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "spirit-relic"
+  },
+  {
+    "itemId": 3003,
+    "name": "Relic of the Eye",
+    "icon": "inv_misc_eye_01",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 50,
+    "quality": "Common",
+    "itemLevel": 10,
+    "requiredLevel": 5,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Relic of the Eye"
+      },
+      {
+        "label": "Requires Level 5"
+      },
+      {
+        "label": "Relic"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3003::::::::::0|h[Relic of the Eye]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "relic-of-the-eye"
+  },
+  {
+    "itemId": 3788,
+    "name": "Soul Crystal Relic",
+    "icon": "inv_misc_gem_crystal_01",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 3000,
+    "quality": "Common",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Soul Crystal Relic"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Relic"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3788::::::::::0|h[Soul Crystal Relic]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "soul-crystal-relic"
+  },
+  {
+    "itemId": 3791,
+    "name": "Relic of the Light",
+    "icon": "inv_misc_lantern_01",
+    "class": "Weapon",
+    "subclass": "Weapon",
+    "sellPrice": 3000,
+    "quality": "Common",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Relic of the Light"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Relic"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3791::::::::::0|h[Relic of the Light]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "relic-of-the-light"
+  },
+  {
+    "itemId": 10108,
+    "name": "Wanderer's Cloak",
+    "icon": "inv_misc_cape_10",
+    "class": "Weapon",
+    "subclass": "Wand",
+    "sellPrice": 8203,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Back",
+    "tooltip": [
+      {
+        "label": "Wanderer's Cloak"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Back"
+      },
+      {
+        "label": "Wand",
+        "format": "alignRight"
+      },
+      {
+        "label": "34 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10108::::::::::0|h[Wanderer's Cloak]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wanderers-cloak"
+  },
+  {
+    "itemId": 5443,
+    "name": "Gold-plated Buckler",
+    "icon": "inv_shield_02",
+    "class": "Weapon",
+    "subclass": "plate",
+    "sellPrice": 1067,
+    "quality": "Rare",
+    "itemLevel": 20,
+    "requiredLevel": 15,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Gold-plated Buckler"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "471 Armor"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+2 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:5443::::::::::0|h[Gold-plated Buckler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gold-plated-buckler"
+  },
+  {
+    "itemId": 4129,
+    "name": "Collection Plate",
+    "icon": "inv_shield_06",
+    "class": "Weapon",
+    "subclass": "Plate",
+    "sellPrice": 9444,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 0,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Collection Plate"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "1380 Armor"
+      },
+      {
+        "label": "+2 Strength"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 613,
+          "name": "Cracking Maury's Foot",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4129::::::::::0|h[Collection Plate]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "collection-plate"
+  },
+  {
+    "itemId": 4290,
+    "name": "Dust Bowl",
+    "icon": "inv_shield_09",
+    "class": "Weapon",
+    "subclass": "Bow",
+    "sellPrice": 715,
+    "quality": "Uncommon",
+    "itemLevel": 18,
+    "requiredLevel": 13,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Dust Bowl"
+      },
+      {
+        "label": "Requires Level 13"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "378 Armor"
+      },
+      {
+        "label": "+2 Strength"
+      },
+      {
+        "label": "+2 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4290::::::::::0|h[Dust Bowl]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dust-bowl"
+  },
+  {
+    "itemId": 15621,
+    "name": "Gryphon Mail Buckler",
+    "icon": "inv_shield_02",
+    "class": "Weapon",
+    "subclass": "Mail",
+    "sellPrice": 15766,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Gryphon Mail Buckler"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "1578 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15621::::::::::0|h[Gryphon Mail Buckler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gryphon-mail-buckler"
+  },
+  {
+    "itemId": 3160,
+    "name": "Ironplate Buckler",
+    "icon": "inv_shield_10",
+    "class": "Weapon",
+    "subclass": "plate",
+    "sellPrice": 470,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 0,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Ironplate Buckler"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "328 Armor"
+      },
+      {
+        "label": "+2 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 307,
+          "name": "Filthy Paws",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3160::::::::::0|h[Ironplate Buckler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ironplate-buckler"
+  },
+  {
+    "itemId": 61617,
+    "name": "Iron-plated Defender",
+    "icon": "inv_shield_06",
+    "class": "Weapon",
+    "subclass": "plate",
+    "sellPrice": 17508,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Off Hand",
+    "tooltip": [
+      {
+        "label": "Iron-plated Defender"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Off Hand"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "1428 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61617::::::::::0|h[Iron-plated Defender]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "iron-plated-defender"
+  },
+  {
+    "itemId": 22742,
+    "name": "Bloodsail Shirt",
+    "icon": "inv_shirt_08",
+    "class": "Armor",
+    "subclass": "Cloth",
+    "sellPrice": 1,
+    "quality": "Common",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Shirt",
+    "tooltip": [
+      {
+        "label": "Bloodsail Shirt"
+      },
+      {
+        "label": "Shirt"
+      },
+      {
+        "label": "Cloth",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:22742::::::::::0|h[Bloodsail Shirt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodsail-shirt"
+  },
+  {
+    "itemId": 51052,
+    "name": "Blue Summer Shirt",
+    "icon": "inv_shirt_blue_01",
+    "class": "Armor",
+    "subclass": "Cloth",
+    "sellPrice": 0,
+    "quality": "Common",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Shirt",
+    "tooltip": [
+      {
+        "label": "Blue Summer Shirt"
+      },
+      {
+        "label": "Shirt"
+      },
+      {
+        "label": "Cloth",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:51052::::::::::0|h[Blue Summer Shirt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blue-summer-shirt"
+  },
+  {
+    "itemId": 81113,
+    "name": "Blue Summer Shirt",
+    "icon": "inv_shirt_05",
+    "class": "Armor",
+    "subclass": "Cloth",
+    "sellPrice": 1632,
+    "quality": "Common",
+    "itemLevel": 27,
+    "requiredLevel": 0,
+    "slot": "Shirt",
+    "tooltip": [
+      {
+        "label": "Blue Summer Shirt"
+      },
+      {
+        "label": "Shirt"
+      },
+      {
+        "label": "Cloth",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 80383,
+          "name": "Sharks Are Friends, Not Food",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:81113::::::::::0|h[Blue Summer Shirt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blue-summer-shirt"
+  },
+  {
+    "itemId": 81114,
+    "name": "Red Summer Shirt",
+    "icon": "inv_chest_cloth_40",
+    "class": "Armor",
+    "subclass": "Cloth",
+    "sellPrice": 1632,
+    "quality": "Common",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Shirt",
+    "tooltip": [
+      {
+        "label": "Red Summer Shirt"
+      },
+      {
+        "label": "Shirt"
+      },
+      {
+        "label": "Cloth",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 80383,
+          "name": "Sharks Are Friends, Not Food",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:81114::::::::::0|h[Red Summer Shirt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "red-summer-shirt"
+  },
+  {
+    "itemId": 55284,
+    "name": "Dragunovi's Sash of Domination",
+    "icon": "inv_belt_08",
+    "class": "Weapon",
+    "subclass": "gun",
+    "sellPrice": 52408,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Dragunovi's Sash of Domination"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "70 Armor"
+      },
+      {
+        "label": "+14 Intellect"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+15 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55284::::::::::0|h[Dragunovi's Sash of Domination]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dragunovis-sash-of-domination"
+  },
+  {
+    "itemId": 11936,
+    "name": "Relic Hunter Belt",
+    "icon": "inv_belt_23",
+    "class": "Weapon",
+    "subclass": "Cloth",
+    "sellPrice": 284,
+    "quality": "Uncommon",
+    "itemLevel": 20,
+    "requiredLevel": 0,
+    "slot": "Relic",
+    "tooltip": [
+      {
+        "label": "Relic Hunter Belt"
+      },
+      {
+        "label": "Relic"
+      },
+      {
+        "label": "Cloth",
+        "format": "alignRight"
+      },
+      {
+        "label": "19 Armor"
+      },
+      {
+        "label": "+2 Strength"
+      },
+      {
+        "label": "+4 Intellect"
+      },
+      {
+        "label": "+2 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 741,
+          "name": "The Absent Minded Prospector",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:11936::::::::::0|h[Relic Hunter Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "relic-hunter-belt"
+  },
+  {
+    "itemId": 50377,
+    "name": "Wanderer's Pants",
+    "icon": "",
+    "class": "Weapon",
+    "subclass": "Wand",
+    "sellPrice": 0,
+    "quality": "Common",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Wanderer's Pants"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Wand",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:50377::::::::::0|h[Wanderer's Pants]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wanderers-pants"
+  },
+  {
+    "itemId": 21810,
+    "name": "Treads of the Wandering Nomad",
+    "icon": "inv_boots_cloth_05",
+    "class": "Weapon",
+    "subclass": "Wand",
+    "sellPrice": 25259,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Treads of the Wandering Nomad"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Wand",
+        "format": "alignRight"
+      },
+      {
+        "label": "69 Armor"
+      },
+      {
+        "label": "+18 Intellect"
+      },
+      {
+        "label": "+11 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:21810::::::::::0|h[Treads of the Wandering Nomad]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "treads-of-the-wandering-nomad"
+  },
+  {
+    "itemId": 4137,
+    "name": "Darkspear Shoes",
+    "icon": "inv_boots_05",
+    "class": "Weapon",
+    "subclass": "spear",
+    "sellPrice": 4010,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 0,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Darkspear Shoes"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "spear",
+        "format": "alignRight"
+      },
+      {
+        "label": "38 Armor"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+3 Spirit"
+      },
+      {
+        "label": "+3 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 598,
+          "name": "Split Bone Necklace",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4137::::::::::0|h[Darkspear Shoes]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "darkspear-shoes"
+  },
+  {
+    "itemId": 6095,
+    "name": "Wandering Boots",
+    "icon": "inv_boots_05",
+    "class": "Weapon",
+    "subclass": "Wand",
+    "sellPrice": 688,
+    "quality": "Uncommon",
+    "itemLevel": 24,
+    "requiredLevel": 0,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Wandering Boots"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Wand",
+        "format": "alignRight"
+      },
+      {
+        "label": "26 Armor"
+      },
+      {
+        "label": "+4 Stamina"
+      },
+      {
+        "label": "+4 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 346,
+          "name": "Return to Kristoff",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6095::::::::::0|h[Wandering Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wandering-boots"
+  },
+  {
+    "itemId": 4133,
+    "name": "Darkspear Cuffs",
+    "icon": "inv_bracer_10",
+    "class": "Weapon",
+    "subclass": "spear",
+    "sellPrice": 1794,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Darkspear Cuffs"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "spear",
+        "format": "alignRight"
+      },
+      {
+        "label": "21 Armor"
+      },
+      {
+        "label": "+3 Stamina"
+      },
+      {
+        "label": "+7 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 582,
+          "name": "Headhunting",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4133::::::::::0|h[Darkspear Cuffs]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "darkspear-cuffs"
+  },
+  {
+    "itemId": 70014,
+    "name": "Hawkspear's Ceremonial Headdress",
+    "icon": "inv_helmet_17",
+    "class": "Weapon",
+    "subclass": "spear",
+    "sellPrice": 1781,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Hawkspear's Ceremonial Headdress"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "spear",
+        "format": "alignRight"
+      },
+      {
+        "label": "76 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 70034,
+          "name": "Hawk's Beak",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:70014::::::::::0|h[Hawkspear's Ceremonial Headdress]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hawkspears-ceremonial-headdress"
+  },
+  {
+    "itemId": 10111,
+    "name": "Wanderer's Hat",
+    "icon": "inv_helmet_50",
+    "class": "Weapon",
+    "subclass": "Wand",
+    "sellPrice": 13444,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Wanderer's Hat"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Wand",
+        "format": "alignRight"
+      },
+      {
+        "label": "120 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10111::::::::::0|h[Wanderer's Hat]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wanderers-hat"
+  },
+  {
+    "itemId": 10113,
+    "name": "Wanderer's Shoulders",
+    "icon": "inv_shoulder_08",
+    "class": "Weapon",
+    "subclass": "Wand",
+    "sellPrice": 13541,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Wanderer's Shoulders"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Wand",
+        "format": "alignRight"
+      },
+      {
+        "label": "111 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10113::::::::::0|h[Wanderer's Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wanderers-shoulders"
+  },
+  {
+    "itemId": 36018,
+    "name": "Draenic Wanderer Harness",
+    "icon": "inv_chest_leather_01",
+    "class": "Weapon",
+    "subclass": "Wand",
+    "sellPrice": 7054,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Chest",
+    "tooltip": [
+      {
+        "label": "Draenic Wanderer Harness"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Chest"
+      },
+      {
+        "label": "Wand",
+        "format": "alignRight"
+      },
+      {
+        "label": "115 Armor"
+      },
+      {
+        "label": "+15 Agility"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:36018::::::::::0|h[Draenic Wanderer Harness]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "draenic-wanderer-harness"
+  },
+  {
+    "itemId": 10105,
+    "name": "Wanderer's Armor",
+    "icon": "inv_chest_leather_10",
+    "class": "Weapon",
+    "subclass": "Wand",
+    "sellPrice": 19942,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Chest",
+    "tooltip": [
+      {
+        "label": "Wanderer's Armor"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Chest"
+      },
+      {
+        "label": "Wand",
+        "format": "alignRight"
+      },
+      {
+        "label": "154 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10105::::::::::0|h[Wanderer's Armor]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wanderers-armor"
+  },
+  {
+    "itemId": 10109,
+    "name": "Wanderer's Belt",
+    "icon": "inv_belt_11",
+    "class": "Weapon",
+    "subclass": "Wand",
+    "sellPrice": 7273,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Wanderer's Belt"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "Wand",
+        "format": "alignRight"
+      },
+      {
+        "label": "80 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10109::::::::::0|h[Wanderer's Belt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wanderers-belt"
+  },
+  {
+    "itemId": 10112,
+    "name": "Wanderer's Leggings",
+    "icon": "inv_pants_06",
+    "class": "Weapon",
+    "subclass": "Wand",
+    "sellPrice": 19071,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Wanderer's Leggings"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Wand",
+        "format": "alignRight"
+      },
+      {
+        "label": "131 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10112::::::::::0|h[Wanderer's Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wanderers-leggings"
+  },
+  {
+    "itemId": 10106,
+    "name": "Wanderer's Boots",
+    "icon": "inv_boots_07",
+    "class": "Weapon",
+    "subclass": "Wand",
+    "sellPrice": 12120,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Wanderer's Boots"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Wand",
+        "format": "alignRight"
+      },
+      {
+        "label": "100 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10106::::::::::0|h[Wanderer's Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wanderers-boots"
+  },
+  {
+    "itemId": 10748,
+    "name": "Wanderlust Boots",
+    "icon": "inv_boots_07",
+    "class": "Weapon",
+    "subclass": "Wand",
+    "sellPrice": 4380,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 0,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Wanderlust Boots"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Wand",
+        "format": "alignRight"
+      },
+      {
+        "label": "77 Armor"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1364,
+          "name": "Mazen's Behest",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:10748::::::::::0|h[Wanderlust Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wanderlust-boots"
+  },
+  {
+    "itemId": 10107,
+    "name": "Wanderer's Bracers",
+    "icon": "inv_bracer_05",
+    "class": "Weapon",
+    "subclass": "Wand",
+    "sellPrice": 7218,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Wanderer's Bracers"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Wand",
+        "format": "alignRight"
+      },
+      {
+        "label": "62 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10107::::::::::0|h[Wanderer's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wanderers-bracers"
+  },
+  {
+    "itemId": 10110,
+    "name": "Wanderer's Gloves",
+    "icon": "inv_gauntlets_24",
+    "class": "Weapon",
+    "subclass": "Wand",
+    "sellPrice": 7947,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Hands",
+    "tooltip": [
+      {
+        "label": "Wanderer's Gloves"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Hands"
+      },
+      {
+        "label": "Wand",
+        "format": "alignRight"
+      },
+      {
+        "label": "90 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10110::::::::::0|h[Wanderer's Gloves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wanderers-gloves"
+  },
+  {
+    "itemId": 41916,
+    "name": "Dune Wanderer's Hauberk",
+    "icon": "inv_chest_samurai",
+    "class": "Weapon",
+    "subclass": "Wand",
+    "sellPrice": 19802,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 0,
+    "slot": "Chest",
+    "tooltip": [
+      {
+        "label": "Dune Wanderer's Hauberk"
+      },
+      {
+        "label": "Chest"
+      },
+      {
+        "label": "Wand",
+        "format": "alignRight"
+      },
+      {
+        "label": "254 Armor"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+3 Intellect"
+      },
+      {
+        "label": "+6 Nature"
+      },
+      {
+        "label": "+31 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41811,
+          "name": "The Farraki Ancient",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:41916::::::::::0|h[Dune Wanderer's Hauberk]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dune-wanderers-hauberk"
+  },
+  {
+    "itemId": 4136,
+    "name": "Darkspear Boots",
+    "icon": "inv_boots_01",
+    "class": "Weapon",
+    "subclass": "spear",
+    "sellPrice": 6021,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 0,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Darkspear Boots"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "spear",
+        "format": "alignRight"
+      },
+      {
+        "label": "164 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+8 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 598,
+          "name": "Split Bone Necklace",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4136::::::::::0|h[Darkspear Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "darkspear-boots"
+  },
+  {
+    "itemId": 4132,
+    "name": "Darkspear Armsplints",
+    "icon": "inv_bracer_09",
+    "class": "Weapon",
+    "subclass": "spear",
+    "sellPrice": 2681,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Darkspear Armsplints"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "spear",
+        "format": "alignRight"
+      },
+      {
+        "label": "96 Armor"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+2 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 582,
+          "name": "Headhunting",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4132::::::::::0|h[Darkspear Armsplints]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "darkspear-armsplints"
+  },
+  {
+    "itemId": 13384,
+    "name": "Rainbow Girdle",
+    "icon": "inv_belt_30",
+    "class": "Weapon",
+    "subclass": "bow",
+    "sellPrice": 8988,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Waist",
+    "tooltip": [
+      {
+        "label": "Rainbow Girdle"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Waist"
+      },
+      {
+        "label": "bow",
+        "format": "alignRight"
+      },
+      {
+        "label": "341 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+9 Spirit"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+9 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13384::::::::::0|h[Rainbow Girdle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rainbow-girdle"
+  },
+  {
+    "itemId": 5202,
+    "name": "Corsair's Overshirt",
+    "icon": "inv_shirt_08",
+    "class": "Armor",
+    "subclass": "Cloth",
+    "sellPrice": 1147,
+    "quality": "Rare",
+    "itemLevel": 24,
+    "requiredLevel": 19,
+    "slot": "shirt",
+    "tooltip": [
+      {
+        "label": "Corsair's Overshirt"
+      },
+      {
+        "label": "Requires Level 19"
+      },
+      {
+        "label": "shirt"
+      },
+      {
+        "label": "Cloth",
+        "format": "alignRight"
+      },
+      {
+        "label": "42 Armor"
+      },
+      {
+        "label": "+11 Spirit"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:5202::::::::::0|h[Corsair's Overshirt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "corsairs-overshirt"
+  }
+]

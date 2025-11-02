@@ -1,0 +1,5514 @@
+[
+  {
+    "itemId": 50348,
+    "name": "Dun Morogh Mountaineer Armplates",
+    "icon": "inv_jewelry_ring_02",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 0,
+    "quality": "Common",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Dun Morogh Mountaineer Armplates"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:50348::::::::::0|h[Dun Morogh Mountaineer Armplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dun-morogh-mountaineer-armplates"
+  },
+  {
+    "itemId": 11767,
+    "name": "Emberplate Armguards",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 8637,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Emberplate Armguards"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "261 Armor"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11767::::::::::0|h[Emberplate Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "emberplate-armguards"
+  },
+  {
+    "itemId": 12936,
+    "name": "Battleborn Armbraces",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11640,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Battleborn Armbraces"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "287 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12936::::::::::0|h[Battleborn Armbraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "battleborn-armbraces"
+  },
+  {
+    "itemId": 16469,
+    "name": "Marshal's Lamellar Armguards",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8466,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Marshal's Lamellar Armguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "323 Armor"
+      },
+      {
+        "label": "+19 Stamina"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+4 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16469::::::::::0|h[Marshal's Lamellar Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "marshals-lamellar-armguards"
+  },
+  {
+    "itemId": 16481,
+    "name": "Marshal's Plate Bracers",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8216,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Marshal's Plate Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "323 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16481::::::::::0|h[Marshal's Plate Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "marshals-plate-bracers"
+  },
+  {
+    "itemId": 16546,
+    "name": "General's Plate Armguards",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8593,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "General's Plate Armguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "323 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16546::::::::::0|h[General's Plate Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "generals-plate-armguards"
+  },
+  {
+    "itemId": 16735,
+    "name": "Bracers of Valor",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8738,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bracers of Valor"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "261 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+3 Agility"
+      },
+      {
+        "label": "+2 SpiritDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16735::::::::::0|h[Bracers of Valor]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bracers-of-valor"
+  },
+  {
+    "itemId": 16857,
+    "name": "Lawbringer Bracers",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17054,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Lawbringer Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "328 Armor"
+      },
+      {
+        "label": "+8 Intellect"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16857::::::::::0|h[Lawbringer Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-bracers"
+  },
+  {
+    "itemId": 16861,
+    "name": "Bracers of Might",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17786,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bracers of Might"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "328 Armor"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+11 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16861::::::::::0|h[Bracers of Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bracers-of-might"
+  },
+  {
+    "itemId": 16951,
+    "name": "Judgement Bracers",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 27889,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Judgement Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "375 Armor"
+      },
+      {
+        "label": "+21 Intellect"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16951::::::::::0|h[Judgement Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-bracers"
+  },
+  {
+    "itemId": 16959,
+    "name": "Bracelets of Wrath",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 29507,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bracelets of Wrath"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "375 Armor"
+      },
+      {
+        "label": "+27 Stamina"
+      },
+      {
+        "label": "+13 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16959::::::::::0|h[Bracelets of Wrath]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bracelets-of-wrath"
+  },
+  {
+    "itemId": 17014,
+    "name": "Dark Iron Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13643,
+    "quality": "Epic",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Dark Iron Bracers"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "343 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+18 Fire"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:17014::::::::::0|h[Dark Iron Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dark-iron-bracers"
+  },
+  {
+    "itemId": 18712,
+    "name": "Arena Vambraces",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5821,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Arena Vambraces"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "371 Armor"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18712::::::::::0|h[Arena Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "arena-vambraces"
+  },
+  {
+    "itemId": 18754,
+    "name": "Fel Hardened Bracers",
+    "icon": "inv_bracer_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10461,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Fel Hardened Bracers"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "283 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18754::::::::::0|h[Fel Hardened Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fel-hardened-bracers"
+  },
+  {
+    "itemId": 19578,
+    "name": "Berserker Bracers",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17699,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Berserker Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "351 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+11 Agility"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19578::::::::::0|h[Berserker Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "berserker-bracers"
+  },
+  {
+    "itemId": 19580,
+    "name": "Berserker Bracers",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9635,
+    "quality": "Epic",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Berserker Bracers"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "275 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19580::::::::::0|h[Berserker Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "berserker-bracers"
+  },
+  {
+    "itemId": 19581,
+    "name": "Berserker Bracers",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4945,
+    "quality": "Epic",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Berserker Bracers"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "229 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+6 Agility"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19581::::::::::0|h[Berserker Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "berserker-bracers"
+  },
+  {
+    "itemId": 19824,
+    "name": "Zandalar Vindicator's Armguards",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 0,
+    "quality": "Epic",
+    "itemLevel": 61,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Zandalar Vindicator's Armguards"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "304 Armor"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+13 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8058,
+          "name": "Paragons of Power: The Vindicator's Armguards",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:19824::::::::::0|h[Zandalar Vindicator's Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "zandalar-vindicators-armguards"
+  },
+  {
+    "itemId": 19827,
+    "name": "Zandalar Freethinker's Armguards",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 0,
+    "quality": "Epic",
+    "itemLevel": 61,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Zandalar Freethinker's Armguards"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "304 Armor"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+6 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8053,
+          "name": "Paragons of Power: The Freethinker's Armguards",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:19827::::::::::0|h[Zandalar Freethinker's Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "zandalar-freethinkers-armguards"
+  },
+  {
+    "itemId": 20616,
+    "name": "Dragonbone Wristguards",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 21638,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Dragonbone Wristguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "370 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20616::::::::::0|h[Dragonbone Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dragonbone-wristguards"
+  },
+  {
+    "itemId": 20687,
+    "name": "Abyssal Plate Vambraces",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14019,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Abyssal Plate Vambraces"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "309 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20687::::::::::0|h[Abyssal Plate Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "abyssal-plate-vambraces"
+  },
+  {
+    "itemId": 21184,
+    "name": "Deeprock Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14425,
+    "quality": "Epic",
+    "itemLevel": 62,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Deeprock Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "309 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8574,
+          "name": "Stalwart's Battlegear",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21184::::::::::0|h[Deeprock Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "deeprock-bracers"
+  },
+  {
+    "itemId": 21457,
+    "name": "Bracers of Brutality",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 24104,
+    "quality": "Epic",
+    "itemLevel": 72,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bracers of Brutality"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "356 Armor"
+      },
+      {
+        "label": "+21 Strength"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21457::::::::::0|h[Bracers of Brutality]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bracers-of-brutality"
+  },
+  {
+    "itemId": 21587,
+    "name": "Wristguards of Castigation",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 53413,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Wristguards of Castigation"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "431 Armor"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21587::::::::::0|h[Wristguards of Castigation]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wristguards-of-castigation"
+  },
+  {
+    "itemId": 21618,
+    "name": "Hive Defiler Wristguards",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 31727,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Hive Defiler Wristguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "384 Armor"
+      },
+      {
+        "label": "+23 Strength"
+      },
+      {
+        "label": "+18 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21618::::::::::0|h[Hive Defiler Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hive-defiler-wristguards"
+  },
+  {
+    "itemId": 21996,
+    "name": "Bracers of Heroism",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12568,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bracers of Heroism"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "299 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8912,
+          "name": "An Earnest Proposition",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 8920,
+          "name": "An Earnest Proposition",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21996::::::::::0|h[Bracers of Heroism]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bracers-of-heroism"
+  },
+  {
+    "itemId": 22088,
+    "name": "Soulforge Bracers",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12524,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Soulforge Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "299 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+9 Intellect"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+9 AgilityDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8908,
+          "name": "An Earnest Proposition",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22088::::::::::0|h[Soulforge Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "soulforge-bracers"
+  },
+  {
+    "itemId": 22205,
+    "name": "Black Steel Bindings",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8522,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Black Steel Bindings"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "261 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22205::::::::::0|h[Black Steel Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "black-steel-bindings"
+  },
+  {
+    "itemId": 22423,
+    "name": "Dreadnaught Bracers",
+    "icon": "inv_bracer_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 50527,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Dreadnaught Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "431 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+28 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9042,
+          "name": "Dreadnaught Bracers",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22423::::::::::0|h[Dreadnaught Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadnaught-bracers"
+  },
+  {
+    "itemId": 22424,
+    "name": "Redemption Bracers",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 50719,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Redemption Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "431 Armor"
+      },
+      {
+        "label": "+22 Stamina"
+      },
+      {
+        "label": "+15 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9050,
+          "name": "Redemption Wristguards",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22424::::::::::0|h[Redemption Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-bracers"
+  },
+  {
+    "itemId": 22671,
+    "name": "Icebane Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 34452,
+    "quality": "Epic",
+    "itemLevel": 80,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Icebane Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "393 Armor"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+24 Frost"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9235,
+          "name": "Icebane Bracers",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22671::::::::::0|h[Icebane Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "icebane-bracers"
+  },
+  {
+    "itemId": 22936,
+    "name": "Wristguards of Vengeance",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 40803,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Wristguards of Vengeance"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "407 Armor"
+      },
+      {
+        "label": "+24 Strength"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:22936::::::::::0|h[Wristguards of Vengeance]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wristguards-of-vengeance"
+  },
+  {
+    "itemId": 23090,
+    "name": "Bracers of Undead Slaying",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11572,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bracers of Undead Slaying"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "287 Armor"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "+45 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23090::::::::::0|h[Bracers of Undead Slaying]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bracers-of-undead-slaying"
+  },
+  {
+    "itemId": 47003,
+    "name": "Lawbringer Wristguards",
+    "icon": "inv_lawwrist_v3",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17054,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Lawbringer Wristguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "328 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+9 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41496,
+          "name": "Lawbringer's Wrists",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47003::::::::::0|h[Lawbringer Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-wristguards"
+  },
+  {
+    "itemId": 47011,
+    "name": "Lawbringer Bindings",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 21317,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Lawbringer Bindings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "328 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41496,
+          "name": "Lawbringer's Wrists",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47011::::::::::0|h[Lawbringer Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-bindings"
+  },
+  {
+    "itemId": 47019,
+    "name": "Judgement Wristguards",
+    "icon": "inv_judwrist_v3",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 34861,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Judgement Wristguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "375 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+21 Stamina"
+      },
+      {
+        "label": "+12 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41488,
+          "name": "Judgement's Wrists",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47019::::::::::0|h[Judgement Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-wristguards"
+  },
+  {
+    "itemId": 47027,
+    "name": "Judgement Bindings",
+    "icon": "inv_judwrist_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 34861,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Judgement Bindings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "375 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+13 Agility"
+      },
+      {
+        "label": "+9 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41488,
+          "name": "Judgement's Wrists",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47027::::::::::0|h[Judgement Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-bindings"
+  },
+  {
+    "itemId": 47045,
+    "name": "Redemption Wristguards",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 63399,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Redemption Wristguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "431 Armor"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+24 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9050,
+          "name": "Redemption Wristguards",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47045::::::::::0|h[Redemption Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-wristguards"
+  },
+  {
+    "itemId": 47054,
+    "name": "Redemption Bindings",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 63399,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Redemption Bindings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "431 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9050,
+          "name": "Redemption Wristguards",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47054::::::::::0|h[Redemption Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-bindings"
+  },
+  {
+    "itemId": 47243,
+    "name": "Bracers of Might",
+    "icon": "inv_migwrist_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 22233,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bracers of Might"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "328 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41445,
+          "name": "Wrists of Might",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47243::::::::::0|h[Bracers of Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bracers-of-might"
+  },
+  {
+    "itemId": 47251,
+    "name": "Bindings of Wrath",
+    "icon": "inv_wrawrist_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 36884,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bindings of Wrath"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "375 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+16 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41437,
+          "name": "Wrists of Wrath",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47251::::::::::0|h[Bindings of Wrath]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bindings-of-wrath"
+  },
+  {
+    "itemId": 47264,
+    "name": "Dreadnaught Bindings",
+    "icon": "inv_bracer_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 63158,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Dreadnaught Bindings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "431 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9042,
+          "name": "Dreadnaught Bracers",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47264::::::::::0|h[Dreadnaught Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadnaught-bindings"
+  },
+  {
+    "itemId": 55356,
+    "name": "Netherwrought Bracers",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 71281,
+    "quality": "Epic",
+    "itemLevel": 96,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Netherwrought Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "459 Armor"
+      },
+      {
+        "label": "+24 Strength"
+      },
+      {
+        "label": "+20 Agility"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55356::::::::::0|h[Netherwrought Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "netherwrought-bracers"
+  },
+  {
+    "itemId": 55500,
+    "name": "Barnacle Vambraces",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 66200,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Barnacle Vambraces"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "328 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+12 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55500::::::::::0|h[Barnacle Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "barnacle-vambraces"
+  },
+  {
+    "itemId": 60362,
+    "name": "Bloody Gladiator's Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8102,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bloody Gladiator's Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "349 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "+14 Attack"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60362::::::::::0|h[Bloody Gladiator's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloody-gladiators-bracers"
+  },
+  {
+    "itemId": 60429,
+    "name": "Arcanite Shackles",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11458,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Arcanite Shackles"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "291 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+12 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60429::::::::::0|h[Arcanite Shackles]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "arcanite-shackles"
+  },
+  {
+    "itemId": 61257,
+    "name": "Cloudplate Wristguards",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 24353,
+    "quality": "Epic",
+    "itemLevel": 70,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Cloudplate Wristguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "246 Armor"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61257::::::::::0|h[Cloudplate Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cloudplate-wristguards"
+  },
+  {
+    "itemId": 61366,
+    "name": "Dreamsteel Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17608,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Dreamsteel Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "318 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "+18 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61366::::::::::0|h[Dreamsteel Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreamsteel-bracers"
+  },
+  {
+    "itemId": 80774,
+    "name": "Arcanite Shackles",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2865,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Arcanite Shackles"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "357 Armor"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80774::::::::::0|h[Arcanite Shackles]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "arcanite-shackles"
+  },
+  {
+    "itemId": 80851,
+    "name": "Earthclad Bracers",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10416,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Earthclad Bracers"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "279 Armor"
+      },
+      {
+        "label": "+12 StaminaRequires"
+      },
+      {
+        "label": "+5 All"
+      },
+      {
+        "label": "Binds when equipped"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80851::::::::::0|h[Earthclad Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthclad-bracers"
+  },
+  {
+    "itemId": 83459,
+    "name": "Consumer Shackles",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12934,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Consumer Shackles"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "291 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83459::::::::::0|h[Consumer Shackles]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "consumer-shackles"
+  },
+  {
+    "itemId": 8137,
+    "name": "Chromite Bracers",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2807,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Chromite Bracers"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "167 Armor"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8137::::::::::0|h[Chromite Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chromite-bracers"
+  },
+  {
+    "itemId": 8156,
+    "name": "Jouster's Wristguards",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2219,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 40,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Jouster's Wristguards"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "116 Armor"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+2 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8156::::::::::0|h[Jouster's Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jousters-wristguards"
+  },
+  {
+    "itemId": 8311,
+    "name": "Alabaster Plate Vambraces",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5844,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Alabaster Plate Vambraces"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "222 Armor"
+      },
+      {
+        "label": "+3 Strength"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+2 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8311::::::::::0|h[Alabaster Plate Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "alabaster-plate-vambraces"
+  },
+  {
+    "itemId": 9285,
+    "name": "Field Plate Vambraces",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2388,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 40,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Field Plate Vambraces"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "131 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9285::::::::::0|h[Field Plate Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "field-plate-vambraces"
+  },
+  {
+    "itemId": 9432,
+    "name": "Skullplate Bracers",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 3027,
+    "quality": "Rare",
+    "itemLevel": 42,
+    "requiredLevel": 40,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Skullplate Bracers"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "163 Armor"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9432::::::::::0|h[Skullplate Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "skullplate-bracers"
+  },
+  {
+    "itemId": 9972,
+    "name": "Embossed Plate Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2475,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 40,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Embossed Plate Bracers"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "148 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9972::::::::::0|h[Embossed Plate Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "embossed-plate-bracers"
+  },
+  {
+    "itemId": 10094,
+    "name": "Gothic Plate Vambraces",
+    "icon": "inv_bracer_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3311,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Gothic Plate Vambraces"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "191 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10094::::::::::0|h[Gothic Plate Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gothic-plate-vambraces"
+  },
+  {
+    "itemId": 10239,
+    "name": "Heavy Lamellar Vambraces",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4962,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Heavy Lamellar Vambraces"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "214 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10239::::::::::0|h[Heavy Lamellar Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-lamellar-vambraces"
+  },
+  {
+    "itemId": 10282,
+    "name": "Emerald Vambraces",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6712,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Emerald Vambraces"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "234 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10282::::::::::0|h[Emerald Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "emerald-vambraces"
+  },
+  {
+    "itemId": 10375,
+    "name": "Imbued Plate Vambraces",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7116,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Imbued Plate Vambraces"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "237 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+4 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10375::::::::::0|h[Imbued Plate Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "imbued-plate-vambraces"
+  },
+  {
+    "itemId": 10377,
+    "name": "Commander's Vambraces",
+    "icon": "inv_bracer_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7978,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Commander's Vambraces"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "245 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10377::::::::::0|h[Commander's Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "commanders-vambraces"
+  },
+  {
+    "itemId": 10391,
+    "name": "Hyperion Vambraces",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8193,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Hyperion Vambraces"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "249 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10391::::::::::0|h[Hyperion Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hyperion-vambraces"
+  },
+  {
+    "itemId": 12425,
+    "name": "Imperial Plate Bracers",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6044,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Imperial Plate Bracers"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "225 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "+28 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12425::::::::::0|h[Imperial Plate Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "imperial-plate-bracers"
+  },
+  {
+    "itemId": 12550,
+    "name": "Runed Golem Shackles",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6464,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Runed Golem Shackles"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "244 Armor"
+      },
+      {
+        "label": "+14 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12550::::::::::0|h[Runed Golem Shackles]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "runed-golem-shackles"
+  },
+  {
+    "itemId": 13076,
+    "name": "Giantslayer Bracers",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4715,
+    "quality": "Rare",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Giantslayer Bracers"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "223 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+5 Agility"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13076::::::::::0|h[Giantslayer Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "giantslayer-bracers"
+  },
+  {
+    "itemId": 13400,
+    "name": "Vambraces of the Sadist",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9296,
+    "quality": "Rare",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Vambraces of the Sadist"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "270 Armor"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13400::::::::::0|h[Vambraces of the Sadist]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "vambraces-of-the-sadist"
+  },
+  {
+    "itemId": 13951,
+    "name": "Vigorsteel Vambraces",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11005,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Vigorsteel Vambraces"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "283 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13951::::::::::0|h[Vigorsteel Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "vigorsteel-vambraces"
+  },
+  {
+    "itemId": 14910,
+    "name": "Brutish Armguards",
+    "icon": "inv_bracer_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3033,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 40,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Brutish Armguards"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "187 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14910::::::::::0|h[Brutish Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brutish-armguards"
+  },
+  {
+    "itemId": 14914,
+    "name": "Jade Bracers",
+    "icon": "inv_bracer_12",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3590,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Jade Bracers"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "195 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14914::::::::::0|h[Jade Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jade-bracers"
+  },
+  {
+    "itemId": 14923,
+    "name": "Lofty Armguards",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4604,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Lofty Armguards"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "210 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14923::::::::::0|h[Lofty Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lofty-armguards"
+  },
+  {
+    "itemId": 14938,
+    "name": "Heroic Bracers",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6470,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Heroic Bracers"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "234 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14938::::::::::0|h[Heroic Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heroic-bracers"
+  },
+  {
+    "itemId": 14956,
+    "name": "Bloodforged Bindings",
+    "icon": "inv_bracer_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3108,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bloodforged Bindings"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "191 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14956::::::::::0|h[Bloodforged Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodforged-bindings"
+  },
+  {
+    "itemId": 14965,
+    "name": "High Chief's Bindings",
+    "icon": "inv_bracer_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4450,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "High Chief's Bindings"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "206 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14965::::::::::0|h[High Chief's Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-chiefs-bindings"
+  },
+  {
+    "itemId": 14974,
+    "name": "Glorious Bindings",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6009,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Glorious Bindings"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "229 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14974::::::::::0|h[Glorious Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "glorious-bindings"
+  },
+  {
+    "itemId": 14983,
+    "name": "Exalted Armsplints",
+    "icon": "inv_bracer_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7985,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Exalted Armsplints"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "245 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14983::::::::::0|h[Exalted Armsplints]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "exalted-armsplints"
+  },
+  {
+    "itemId": 15860,
+    "name": "Blinkstrike Armguards",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7907,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Blinkstrike Armguards"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "249 Armor"
+      },
+      {
+        "label": "+3 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 4765,
+          "name": "Delivery to Ridgewell",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 4768,
+          "name": "The Darkstone Tablet",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:15860::::::::::0|h[Blinkstrike Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blinkstrike-armguards"
+  },
+  {
+    "itemId": 16404,
+    "name": "Knight-Captain's Plate Wristguards",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4754,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Knight-Captain's Plate Wristguards"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "274 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16404::::::::::0|h[Knight-Captain's Plate Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knight-captains-plate-wristguards"
+  },
+  {
+    "itemId": 16412,
+    "name": "Knight-Captain's Lamellar Armsplints",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5031,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Knight-Captain's Lamellar Armsplints"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "274 Armor"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+7 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16412::::::::::0|h[Knight-Captain's Lamellar Armsplints]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knight-captains-lamellar-armsplints"
+  },
+  {
+    "itemId": 16512,
+    "name": "Legionnaire's Plate Bracers",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5160,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Legionnaire's Plate Bracers"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "274 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16512::::::::::0|h[Legionnaire's Plate Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legionnaires-plate-bracers"
+  },
+  {
+    "itemId": 16722,
+    "name": "Lightforge Bracers",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8105,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Lightforge Bracers"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "261 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+8 Spirit"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16722::::::::::0|h[Lightforge Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lightforge-bracers"
+  },
+  {
+    "itemId": 17746,
+    "name": "Noxxion's Shackles",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5723,
+    "quality": "Rare",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Noxxion's Shackles"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "235 Armor"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+15 Nature"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:17746::::::::::0|h[Noxxion's Shackles]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "noxxions-shackles"
+  },
+  {
+    "itemId": 18351,
+    "name": "Magically Sealed Bracers",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8740,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Magically Sealed Bracers"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "383 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:18351::::::::::0|h[Magically Sealed Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "magically-sealed-bracers"
+  },
+  {
+    "itemId": 18429,
+    "name": "First Sergeant's Plate Bracers",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5889,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "First Sergeant's Plate Bracers"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "287 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18429::::::::::0|h[First Sergeant's Plate Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "first-sergeants-plate-bracers"
+  },
+  {
+    "itemId": 18430,
+    "name": "First Sergeant's Plate Bracers",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2878,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "First Sergeant's Plate Bracers"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "231 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18430::::::::::0|h[First Sergeant's Plate Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "first-sergeants-plate-bracers"
+  },
+  {
+    "itemId": 18445,
+    "name": "Sergeant Major's Plate Wristguards",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5804,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Sergeant Major's Plate Wristguards"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "287 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18445::::::::::0|h[Sergeant Major's Plate Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sergeant-majors-plate-wristguards"
+  },
+  {
+    "itemId": 18447,
+    "name": "Sergeant Major's Plate Wristguards",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2847,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Sergeant Major's Plate Wristguards"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "231 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18447::::::::::0|h[Sergeant Major's Plate Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sergeant-majors-plate-wristguards"
+  },
+  {
+    "itemId": 18459,
+    "name": "Gallant's Wristguards",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7907,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Gallant's Wristguards"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "249 Armor"
+      },
+      {
+        "label": "+14 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:18459::::::::::0|h[Gallant's Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gallants-wristguards"
+  },
+  {
+    "itemId": 18533,
+    "name": "Gordok Bracers of Power",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10984,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Gordok Bracers of Power"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "287 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18533::::::::::0|h[Gordok Bracers of Power]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gordok-bracers-of-power"
+  },
+  {
+    "itemId": 18741,
+    "name": "Morlune's Bracer",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10416,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Morlune's Bracer"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "279 Armor"
+      },
+      {
+        "label": "+7 Intellect"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18741::::::::::0|h[Morlune's Bracer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "morlunes-bracer"
+  },
+  {
+    "itemId": 19112,
+    "name": "Frozen Steel Vambraces",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10984,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Frozen Steel Vambraces"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "287 Armor"
+      },
+      {
+        "label": "+11 Agility"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+12 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19112::::::::::0|h[Frozen Steel Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "frozen-steel-vambraces"
+  },
+  {
+    "itemId": 20239,
+    "name": "90 Green Warrior Bracelets",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 34271,
+    "quality": "Uncommon",
+    "itemLevel": 90,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "90 Green Warrior Bracelets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "367 Armor"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+16 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20239::::::::::0|h[90 Green Warrior Bracelets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "90-green-warrior-bracelets"
+  },
+  {
+    "itemId": 20281,
+    "name": "63 Green Warrior Bracelets",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9247,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "63 Green Warrior Bracelets"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "261 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20281::::::::::0|h[63 Green Warrior Bracelets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "63-green-warrior-bracelets"
+  },
+  {
+    "itemId": 55181,
+    "name": "Moonlit Gemchains",
+    "icon": "inv_misc_questionmark",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2875,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Moonlit Gemchains"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "116 Armor"
+      },
+      {
+        "label": "+7 Intellect"
+      },
+      {
+        "label": "+2 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:55181::::::::::0|h[Moonlit Gemchains]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "moonlit-gemchains"
+  },
+  {
+    "itemId": 55182,
+    "name": "Ogre Rings of Might",
+    "icon": "inv_misc_questionmark",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8750,
+    "quality": "Rare",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Ogre Rings of Might"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "230 Armor"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+6 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:55182::::::::::0|h[Ogre Rings of Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ogre-rings-of-might"
+  },
+  {
+    "itemId": 60395,
+    "name": "Bloodfist Vambraces",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7638,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bloodfist Vambraces"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "237 Armor"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40283,
+          "name": "Azsharan Front",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60395::::::::::0|h[Bloodfist Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodfist-vambraces"
+  },
+  {
+    "itemId": 60438,
+    "name": "Vambraces of Kin'Tozo",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5934,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Vambraces of Kin'Tozo"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "232 Armor"
+      },
+      {
+        "label": "+3 Strength"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60438::::::::::0|h[Vambraces of Kin'Tozo]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "vambraces-of-kintozo"
+  },
+  {
+    "itemId": 60673,
+    "name": "Cuffs of Justice",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7258,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Cuffs of Justice"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "227 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+5 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40468,
+          "name": "Miners Union Mutiny II",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60673::::::::::0|h[Cuffs of Justice]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cuffs-of-justice"
+  },
+  {
+    "itemId": 60928,
+    "name": "Bogplate Shackles",
+    "icon": "inv_bracer_13",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 4682,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bogplate Shackles"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "212 Armor"
+      },
+      {
+        "label": "+11 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40690,
+          "name": "Blackhorn Village",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60928::::::::::0|h[Bogplate Shackles]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bogplate-shackles"
+  },
+  {
+    "itemId": 61379,
+    "name": "Greymane Vambraces",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3042,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Greymane Vambraces"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "170 Armor"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+4 Spirit"
+      },
+      {
+        "label": "+2 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61379::::::::::0|h[Greymane Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "greymane-vambraces"
+  },
+  {
+    "itemId": 61630,
+    "name": "Ebonmere Vambraces",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3618,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Ebonmere Vambraces"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "198 Armor"
+      },
+      {
+        "label": "+3 Strength"
+      },
+      {
+        "label": "+2 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40979,
+          "name": "Ebonmere Affairs",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:61630::::::::::0|h[Ebonmere Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ebonmere-vambraces"
+  },
+  {
+    "itemId": 8083,
+    "name": "Light Plate Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2261,
+    "quality": "Poor",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Light Plate Bracers"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "199 Armor"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:8083::::::::::0|h[Light Plate Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "light-plate-bracers"
+  },
+  {
+    "itemId": 8090,
+    "name": "Platemail Bracers",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2687,
+    "quality": "Common",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Platemail Bracers"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "200 Armor"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:8090::::::::::0|h[Platemail Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "platemail-bracers"
+  },
+  {
+    "itemId": 8273,
+    "name": "Valorous Wristguards",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3574,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Valorous Wristguards"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "195 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8273::::::::::0|h[Valorous Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "valorous-wristguards"
+  },
+  {
+    "itemId": 10127,
+    "name": "Revenant Bracers",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4350,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Revenant Bracers"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "206 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10127::::::::::0|h[Revenant Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revenant-bracers"
+  },
+  {
+    "itemId": 10171,
+    "name": "Templar Bracers",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6018,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Templar Bracers"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "225 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10171::::::::::0|h[Templar Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "templar-bracers"
+  },
+  {
+    "itemId": 10202,
+    "name": "Overlord's Vambraces",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3988,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Overlord's Vambraces"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "202 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10202::::::::::0|h[Overlord's Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "overlords-vambraces"
+  },
+  {
+    "itemId": 10746,
+    "name": "Runesteel Vambraces",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4549,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Runesteel Vambraces"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "210 Armor"
+      },
+      {
+        "label": "+2 Strength"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 3378,
+          "name": "Prayer to Elune",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:10746::::::::::0|h[Runesteel Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "runesteel-vambraces"
+  },
+  {
+    "itemId": 12408,
+    "name": "Thorium Bracers",
+    "icon": "inv_bracer_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4998,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Thorium Bracers"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "214 Armor"
+      },
+      {
+        "label": "+5 Fire"
+      },
+      {
+        "label": "+5 Nature"
+      },
+      {
+        "label": "+5 Frost"
+      },
+      {
+        "label": "+5 Shadow"
+      },
+      {
+        "label": "+5 Arcane"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12408::::::::::0|h[Thorium Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thorium-bracers"
+  },
+  {
+    "itemId": 14832,
+    "name": "Symbolic Vambraces",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2363,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 40,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Symbolic Vambraces"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "131 Armor"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+4 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14832::::::::::0|h[Symbolic Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "symbolic-vambraces"
+  },
+  {
+    "itemId": 14834,
+    "name": "Tyrant's Armguards",
+    "icon": "inv_bracer_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2777,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Tyrant's Armguards"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "167 Armor"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+4 Spirit"
+      },
+      {
+        "label": "+4 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14834::::::::::0|h[Tyrant's Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tyrants-armguards"
+  },
+  {
+    "itemId": 14853,
+    "name": "Sunscale Wristguards",
+    "icon": "inv_bracer_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4174,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Sunscale Wristguards"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "202 Armor"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+2 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14853::::::::::0|h[Sunscale Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sunscale-wristguards"
+  },
+  {
+    "itemId": 14861,
+    "name": "Vanguard Vambraces",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5045,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Vanguard Vambraces"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "218 Armor"
+      },
+      {
+        "label": "+4 Spirit"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14861::::::::::0|h[Vanguard Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "vanguard-vambraces"
+  },
+  {
+    "itemId": 14869,
+    "name": "Warleader's Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7577,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Warleader's Bracers"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "241 Armor"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+2 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14869::::::::::0|h[Warleader's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warleaders-bracers"
+  },
+  {
+    "itemId": 14903,
+    "name": "Saltstone Armsplints",
+    "icon": "inv_bracer_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2173,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 40,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Saltstone Armsplints"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "116 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14903::::::::::0|h[Saltstone Armsplints]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "saltstone-armsplints"
+  },
+  {
+    "itemId": 14941,
+    "name": "Warbringer's Armsplints",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2515,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 40,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Warbringer's Armsplints"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "148 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14941::::::::::0|h[Warbringer's Armsplints]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warbringers-armsplints"
+  },
+  {
+    "itemId": 15797,
+    "name": "Shining Armplates",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 7530,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Shining Armplates"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "245 Armor"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+2 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 4883,
+          "name": "Guarding Secrets",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:15797::::::::::0|h[Shining Armplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shining-armplates"
+  },
+  {
+    "itemId": 16033,
+    "name": "PVP Plate Wrist Alliance",
+    "icon": "inv_jewelry_ring_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4901,
+    "quality": "Common",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "PVP Plate Wrist Alliance"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "237 Armor"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:16033::::::::::0|h[PVP Plate Wrist Alliance]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pvp-plate-wrist-alliance"
+  },
+  {
+    "itemId": 61584,
+    "name": "Ogre Fighter's Bracers",
+    "icon": "inv_bracer_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4166,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Ogre Fighter's Bracers"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "195 Armor"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61584::::::::::0|h[Ogre Fighter's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ogre-fighters-bracers"
+  }
+]

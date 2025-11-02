@@ -1,0 +1,3231 @@
+[
+  {
+    "itemId": 7758,
+    "name": "Ruthless Shiv",
+    "icon": "inv_spear_08",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 15074,
+    "quality": "Rare",
+    "itemLevel": 39,
+    "requiredLevel": 34,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Ruthless Shiv"
+      },
+      {
+        "label": "Requires Level 34"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "75 - 113  Damage"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+19 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:7758::::::::::0|h[Ruthless Shiv]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ruthless-shiv"
+  },
+  {
+    "itemId": 7959,
+    "name": "Blight",
+    "icon": "inv_spear_07",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 33857,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Blight"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "93 - 141  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:7959::::::::::0|h[Blight]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blight"
+  },
+  {
+    "itemId": 9416,
+    "name": "Grimlok's Charge",
+    "icon": "inv_spear_08",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 28218,
+    "quality": "Rare",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Grimlok's Charge"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "88 - 133  Damage"
+      },
+      {
+        "label": "+15 Agility"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9416::::::::::0|h[Grimlok's Charge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grimloks-charge"
+  },
+  {
+    "itemId": 9475,
+    "name": "Diabolic Skiver",
+    "icon": "inv_spear_01",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 33346,
+    "quality": "Rare",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Diabolic Skiver"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "99 - 149  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9475::::::::::0|h[Diabolic Skiver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "diabolic-skiver"
+  },
+  {
+    "itemId": 9480,
+    "name": "Eyegouger",
+    "icon": "inv_spear_05",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 31725,
+    "quality": "Rare",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Eyegouger"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "100 - 151  Damage"
+      },
+      {
+        "label": "+23 Agility"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9480::::::::::0|h[Eyegouger]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "eyegouger"
+  },
+  {
+    "itemId": 11809,
+    "name": "Flame Wrath",
+    "icon": "inv_spear_01",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 51287,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Flame Wrath"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "127 - 191  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11809::::::::::0|h[Flame Wrath]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "flame-wrath"
+  },
+  {
+    "itemId": 12583,
+    "name": "Blackhand Doomsaw",
+    "icon": "inv_weapon_halberd_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 74346,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Blackhand Doomsaw"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "151 - 227  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12583::::::::::0|h[Blackhand Doomsaw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blackhand-doomsaw"
+  },
+  {
+    "itemId": 12989,
+    "name": "Gargoyle's Bite",
+    "icon": "inv_spear_05",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 2854,
+    "quality": "Rare",
+    "itemLevel": 22,
+    "requiredLevel": 18,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Gargoyle's Bite"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "60 Armor"
+      },
+      {
+        "label": "44 - 66  Damage"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12989::::::::::0|h[Gargoyle's Bite]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gargoyles-bite"
+  },
+  {
+    "itemId": 13054,
+    "name": "Grim Reaper",
+    "icon": "inv_spear_02",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 15805,
+    "quality": "Rare",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Grim Reaper"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "88 - 133  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13054::::::::::0|h[Grim Reaper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grim-reaper"
+  },
+  {
+    "itemId": 13055,
+    "name": "Bonechewer",
+    "icon": "inv_spear_06",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 29367,
+    "quality": "Rare",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bonechewer"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "94 - 141  Damage"
+      },
+      {
+        "label": "+23 Strength"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13055::::::::::0|h[Bonechewer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bonechewer"
+  },
+  {
+    "itemId": 13056,
+    "name": "Frenzied Striker",
+    "icon": "inv_spear_07",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 48330,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Frenzied Striker"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "108 - 162  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13056::::::::::0|h[Frenzied Striker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "frenzied-striker"
+  },
+  {
+    "itemId": 13057,
+    "name": "Bloodpike",
+    "icon": "inv_spear_02",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 5382,
+    "quality": "Rare",
+    "itemLevel": 28,
+    "requiredLevel": 23,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bloodpike"
+      },
+      {
+        "label": "Requires Level 23"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "59 - 89  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 95 / 95"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13057::::::::::0|h[Bloodpike]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodpike"
+  },
+  {
+    "itemId": 13058,
+    "name": "Khoo's Point",
+    "icon": "inv_spear_02",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 21833,
+    "quality": "Rare",
+    "itemLevel": 44,
+    "requiredLevel": 39,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Khoo's Point"
+      },
+      {
+        "label": "Requires Level 39"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "77 - 117  Damage"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+10 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13058::::::::::0|h[Khoo's Point]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "khoos-point"
+  },
+  {
+    "itemId": 13148,
+    "name": "Chillpike",
+    "icon": "inv_spear_05",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 62629,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Chillpike"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "117 - 176  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13148::::::::::0|h[Chillpike]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chillpike"
+  },
+  {
+    "itemId": 17074,
+    "name": "Shadowstrike",
+    "icon": "inv_spear_08",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 98514,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Shadowstrike"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "163 - 247  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:17074::::::::::0|h[Shadowstrike]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shadowstrike"
+  },
+  {
+    "itemId": 17223,
+    "name": "Thunderstrike",
+    "icon": "inv_spear_08",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 97074,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Thunderstrike"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "163 - 247  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:17223::::::::::0|h[Thunderstrike]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thunderstrike"
+  },
+  {
+    "itemId": 18502,
+    "name": "Monstrous Glaive",
+    "icon": "inv_weapon_halberd_09",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 70127,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monstrous Glaive"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "123 - 185  Damage"
+      },
+      {
+        "label": "+24 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18502::::::::::0|h[Monstrous Glaive]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monstrous-glaive"
+  },
+  {
+    "itemId": 18725,
+    "name": "Peacemaker",
+    "icon": "inv_spear_07",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 59927,
+    "quality": "Rare",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Peacemaker"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "137 - 206  Damage"
+      },
+      {
+        "label": "+56 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18725::::::::::0|h[Peacemaker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "peacemaker"
+  },
+  {
+    "itemId": 18869,
+    "name": "Grand Marshal's Glaive",
+    "icon": "inv_spear_08",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 56993,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Grand Marshal's Glaive"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "262 - 380  Damage"
+      },
+      {
+        "label": "+43 Stamina"
+      },
+      {
+        "label": "+28 StrengthDurability"
+      },
+      {
+        "label": "+322 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18869::::::::::0|h[Grand Marshal's Glaive]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grand-marshals-glaive"
+  },
+  {
+    "itemId": 18871,
+    "name": "High Warlord's Pig Sticker",
+    "icon": "inv_spear_01",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 59017,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "High Warlord's Pig Sticker"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "262 - 380  Damage"
+      },
+      {
+        "label": "+43 Stamina"
+      },
+      {
+        "label": "+28 StrengthDurability"
+      },
+      {
+        "label": "+322 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18871::::::::::0|h[High Warlord's Pig Sticker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-warlords-pig-sticker"
+  },
+  {
+    "itemId": 19167,
+    "name": "Blackfury",
+    "icon": "inv_spear_08",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 116531,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Blackfury"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "155 - 238  Damage"
+      },
+      {
+        "label": "+35 Strength"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "+84 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19167::::::::::0|h[Blackfury]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blackfury"
+  },
+  {
+    "itemId": 19874,
+    "name": "Halberd of Smiting",
+    "icon": "inv_weapon_halberd_12",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 112009,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Halberd of Smiting"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "175 - 263  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19874::::::::::0|h[Halberd of Smiting]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "halberd-of-smiting"
+  },
+  {
+    "itemId": 19963,
+    "name": "Pitchfork of Madness",
+    "icon": "inv_spear_03",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 91276,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Pitchfork of Madness"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "163 - 246  Damage"
+      },
+      {
+        "label": "+117 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19963::::::::::0|h[Pitchfork of Madness]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pitchfork-of-madness"
+  },
+  {
+    "itemId": 21635,
+    "name": "Barb of the Sand Reaver",
+    "icon": "inv_weapon_halberd_ahnqiraj",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 186728,
+    "quality": "Epic",
+    "itemLevel": 77,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Barb of the Sand Reaver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "225 - 338  Damage"
+      },
+      {
+        "label": "+41 Agility"
+      },
+      {
+        "label": "+31 StaminaDurability"
+      },
+      {
+        "label": "+238 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21635::::::::::0|h[Barb of the Sand Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "barb-of-the-sand-reaver"
+  },
+  {
+    "itemId": 22314,
+    "name": "Huntsman's Harpoon",
+    "icon": "inv_spear_06",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 64398,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Huntsman's Harpoon"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "150 - 226  Damage"
+      },
+      {
+        "label": "+35 AgilityDurability"
+      },
+      {
+        "label": "+14 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22314::::::::::0|h[Huntsman's Harpoon]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "huntsmans-harpoon"
+  },
+  {
+    "itemId": 23039,
+    "name": "The Eye of Nerub",
+    "icon": "inv_spear_09",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 264392,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "The Eye of Nerub"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "251 - 378  Damage"
+      },
+      {
+        "label": "+45 Agility"
+      },
+      {
+        "label": "+22 StaminaDurability"
+      },
+      {
+        "label": "+322 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:23039::::::::::0|h[The Eye of Nerub]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-eye-of-nerub"
+  },
+  {
+    "itemId": 41562,
+    "name": "Flamescale Pike",
+    "icon": "inv_weapon_halberd_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 10968,
+    "quality": "Rare",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Flamescale Pike"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "75 Armor"
+      },
+      {
+        "label": "47 - 121  Damage"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+15 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:41562::::::::::0|h[Flamescale Pike]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "flamescale-pike"
+  },
+  {
+    "itemId": 55381,
+    "name": "Phytolance",
+    "icon": "inv_spear_02",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 3179,
+    "quality": "Rare",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Phytolance"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "41 - 76  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:55381::::::::::0|h[Phytolance]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "phytolance"
+  },
+  {
+    "itemId": 55495,
+    "name": "Zandalar Predator's Glaive",
+    "icon": "inv_spear_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 104132,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Zandalar Predator's Glaive"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "175 - 263  Damage"
+      },
+      {
+        "label": "+23 StaminaDurability"
+      },
+      {
+        "label": "+36 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55495::::::::::0|h[Zandalar Predator's Glaive]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "zandalar-predators-glaive"
+  },
+  {
+    "itemId": 58058,
+    "name": "Harpoon of Ahab",
+    "icon": "inv_spear_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 21802,
+    "quality": "Rare",
+    "itemLevel": 43,
+    "requiredLevel": 38,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Harpoon of Ahab"
+      },
+      {
+        "label": "Requires Level 38"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "92 - 144  Damage"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+14 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:58058::::::::::0|h[Harpoon of Ahab]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "harpoon-of-ahab"
+  },
+  {
+    "itemId": 60498,
+    "name": "Halberd of the Bronze Defender",
+    "icon": "inv_spear_01",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 90614,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Halberd of the Bronze Defender"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "162 - 258  Damage"
+      },
+      {
+        "label": "+24 Strength"
+      },
+      {
+        "label": "+8 Agility"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "+70 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40342,
+          "name": "The Bronze Betrayal",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:60498::::::::::0|h[Halberd of the Bronze Defender]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "halberd-of-the-bronze-defender"
+  },
+  {
+    "itemId": 60787,
+    "name": "Scythe of the Harvest",
+    "icon": "inv_weapon_shortblade_23",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 43568,
+    "quality": "Epic",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Scythe of the Harvest"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "98 - 147  Damage"
+      },
+      {
+        "label": "+16 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:60787::::::::::0|h[Scythe of the Harvest]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "scythe-of-the-harvest"
+  },
+  {
+    "itemId": 60818,
+    "name": "Garran's Pike",
+    "icon": "inv_spear_05",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 16705,
+    "quality": "Rare",
+    "itemLevel": 47,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Garran's Pike"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "84 - 156  Damage"
+      },
+      {
+        "label": "+20 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40565,
+          "name": "And Justice for All",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:60818::::::::::0|h[Garran's Pike]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "garrans-pike"
+  },
+  {
+    "itemId": 60951,
+    "name": "Krog's Pike",
+    "icon": "inv_spear_02",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 16705,
+    "quality": "Rare",
+    "itemLevel": 47,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Krog's Pike"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "90 - 167  Damage"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40722,
+          "name": "Justice for Dustwallow",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:60951::::::::::0|h[Krog's Pike]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "krogs-pike"
+  },
+  {
+    "itemId": 61534,
+    "name": "Fisher's Harpoon",
+    "icon": "inv_spear_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 51688,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Fisher's Harpoon"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "125 - 219  Damage"
+      },
+      {
+        "label": "+18 Agility"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61534::::::::::0|h[Fisher's Harpoon]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fishers-harpoon"
+  },
+  {
+    "itemId": 61596,
+    "name": "Defender's Glaive",
+    "icon": "inv_weapon_halberd_09",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 29323,
+    "quality": "Rare",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Defender's Glaive"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "80 Armor"
+      },
+      {
+        "label": "82 - 124  Damage"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61596::::::::::0|h[Defender's Glaive]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defenders-glaive"
+  },
+  {
+    "itemId": 61650,
+    "name": "Jadestone Skewer",
+    "icon": "inv_spear_02",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 140033,
+    "quality": "Epic",
+    "itemLevel": 74,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Jadestone Skewer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "158 - 294  Damage"
+      },
+      {
+        "label": "+39 Agility"
+      },
+      {
+        "label": "+27 StaminaDurability"
+      },
+      {
+        "label": "+196 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41038,
+          "name": "The Claw of Erennius",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:61650::::::::::0|h[Jadestone Skewer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jadestone-skewer"
+  },
+  {
+    "itemId": 80638,
+    "name": "Revantusk Shadow Hunter's Striker",
+    "icon": "inv_spear_02",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 33941,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Revantusk Shadow Hunter's Striker"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "136 - 243  Damage"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "+50 Attack"
+      },
+      {
+        "label": "+70 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80638::::::::::0|h[Revantusk Shadow Hunter's Striker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revantusk-shadow-hunters-striker"
+  },
+  {
+    "itemId": 81369,
+    "name": "Blade of the Blademaster",
+    "icon": "inv_weapon_halberd_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 97271,
+    "quality": "Epic",
+    "itemLevel": 64,
+    "requiredLevel": 59,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Blade of the Blademaster"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "122 - 227  Damage"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "+56 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:81369::::::::::0|h[Blade of the Blademaster]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blade-of-the-blademaster"
+  },
+  {
+    "itemId": 83461,
+    "name": "Cryptkeeper's Pike",
+    "icon": "inv_spear_06",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 75106,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Cryptkeeper's Pike"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "160 - 245  Damage"
+      },
+      {
+        "label": "+25 Strength"
+      },
+      {
+        "label": "+18 SpiritDurability"
+      },
+      {
+        "label": "+70 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83461::::::::::0|h[Cryptkeeper's Pike]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cryptkeepers-pike"
+  },
+  {
+    "itemId": 83562,
+    "name": "Skaldrenox's Rage",
+    "icon": "inv_spear_01",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 123605,
+    "quality": "Epic",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Skaldrenox's Rage"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "196 - 295  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:83562::::::::::0|h[Skaldrenox's Rage]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "skaldrenoxs-rage"
+  },
+  {
+    "itemId": 1485,
+    "name": "Pitchfork",
+    "icon": "inv_spear_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 1410,
+    "quality": "Poor",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Pitchfork"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 - 45  Damage"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1485::::::::::0|h[Pitchfork]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pitchfork"
+  },
+  {
+    "itemId": 3346,
+    "name": "Monster, Shovel",
+    "icon": "inv_misc_shovel_01",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 3,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster, Shovel"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3346::::::::::0|h[Monster, Shovel]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-shovel"
+  },
+  {
+    "itemId": 3367,
+    "name": "Farmer's Pitchfork",
+    "icon": "inv_spear_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 2,
+    "quality": "Common",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Farmer's Pitchfork"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "5 - 7  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3367::::::::::0|h[Farmer's Pitchfork]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "farmers-pitchfork"
+  },
+  {
+    "itemId": 3432,
+    "name": "Monster - Glaive - 1 Blade Basic",
+    "icon": "inv_spear_05",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Glaive - 1 Blade Basic"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3432::::::::::0|h[Monster - Glaive - 1 Blade Basic]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-glaive-1-blade-basic"
+  },
+  {
+    "itemId": 5200,
+    "name": "Impaling Harpoon",
+    "icon": "inv_spear_07",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 2323,
+    "quality": "Uncommon",
+    "itemLevel": 22,
+    "requiredLevel": 17,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Impaling Harpoon"
+      },
+      {
+        "label": "Requires Level 17"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "27 - 42  Damage"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:5200::::::::::0|h[Impaling Harpoon]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "impaling-harpoon"
+  },
+  {
+    "itemId": 5745,
+    "name": "Monster - Trident, Wood Handle",
+    "icon": "inv_spear_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Trident, Wood Handle"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:5745::::::::::0|h[Monster - Trident, Wood Handle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-trident-wood-handle"
+  },
+  {
+    "itemId": 5746,
+    "name": "Monster - Trident, Copper",
+    "icon": "inv_spear_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Trident, Copper"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:5746::::::::::0|h[Monster - Trident, Copper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-trident-copper"
+  },
+  {
+    "itemId": 5747,
+    "name": "Monster - Trident, Ornate",
+    "icon": "inv_spear_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Trident, Ornate"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:5747::::::::::0|h[Monster - Trident, Ornate]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-trident-ornate"
+  },
+  {
+    "itemId": 6679,
+    "name": "Armor Piercer",
+    "icon": "inv_spear_05",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 4852,
+    "quality": "Uncommon",
+    "itemLevel": 29,
+    "requiredLevel": 24,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Armor Piercer"
+      },
+      {
+        "label": "Requires Level 24"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "41 - 62  Damage"
+      },
+      {
+        "label": "+11 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:6679::::::::::0|h[Armor Piercer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "armor-piercer"
+  },
+  {
+    "itemId": 11838,
+    "name": "Monster - Trident, Flame Wrath",
+    "icon": "inv_spear_08",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Trident, Flame Wrath"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:11838::::::::::0|h[Monster - Trident, Flame Wrath]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-trident-flame-wrath"
+  },
+  {
+    "itemId": 12063,
+    "name": "Monster - Trident, Wicked",
+    "icon": "inv_spear_01",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Trident, Wicked"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:12063::::::::::0|h[Monster - Trident, Wicked]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-trident-wicked"
+  },
+  {
+    "itemId": 12243,
+    "name": "Smoldering Claw",
+    "icon": "inv_weapon_halberd_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 45980,
+    "quality": "Rare",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Smoldering Claw"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "108 - 162  Damage"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12243::::::::::0|h[Smoldering Claw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "smoldering-claw"
+  },
+  {
+    "itemId": 12338,
+    "name": "Monster - Polearm, Rend Blackhand",
+    "icon": "inv_sword_20",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 3,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Polearm, Rend Blackhand"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:12338::::::::::0|h[Monster - Polearm, Rend Blackhand]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-polearm-rend-blackhand"
+  },
+  {
+    "itemId": 12403,
+    "name": "Monster - Polearm, Black",
+    "icon": "inv_sword_20",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Polearm, Black"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:12403::::::::::0|h[Monster - Polearm, Black]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-polearm-black"
+  },
+  {
+    "itemId": 13059,
+    "name": "Stoneraven",
+    "icon": "inv_spear_07",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 38719,
+    "quality": "Rare",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Stoneraven"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "118 - 178  Damage"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+13 Agility"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+9 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13059::::::::::0|h[Stoneraven]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stoneraven"
+  },
+  {
+    "itemId": 13060,
+    "name": "The Needler",
+    "icon": "inv_spear_08",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 60784,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "The Needler"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "90 - 136  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13060::::::::::0|h[The Needler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-needler"
+  },
+  {
+    "itemId": 14879,
+    "name": "Monster - Polearm, Blademaster",
+    "icon": "inv_weapon_halberd_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 3,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Polearm, Blademaster"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:14879::::::::::0|h[Monster - Polearm, Blademaster]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-polearm-blademaster"
+  },
+  {
+    "itemId": 15910,
+    "name": "Monster - Trident, Dark Ornate",
+    "icon": "inv_spear_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Trident, Dark Ornate"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:15910::::::::::0|h[Monster - Trident, Dark Ornate]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-trident-dark-ornate"
+  },
+  {
+    "itemId": 19946,
+    "name": "Tigule's Harpoon",
+    "icon": "inv_spear_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 89871,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Tigule's Harpoon"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "154 - 232  Damage"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "+60 Attack"
+      },
+      {
+        "label": "+112 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19946::::::::::0|h[Tigule's Harpoon]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tigules-harpoon"
+  },
+  {
+    "itemId": 20412,
+    "name": "Monster - Polearm, PVPAlliance_A01",
+    "icon": "inv_sword_20",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Polearm, PVPAlliance_A01"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:20412::::::::::0|h[Monster - Polearm, PVPAlliance_A01]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-polearm-pvpalliance-a01"
+  },
+  {
+    "itemId": 20660,
+    "name": "Stonecutting Glaive",
+    "icon": "inv_spear_06",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 61543,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Stonecutting Glaive"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "152 - 228  Damage"
+      },
+      {
+        "label": "+29 Strength"
+      },
+      {
+        "label": "+12 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20660::::::::::0|h[Stonecutting Glaive]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stonecutting-glaive"
+  },
+  {
+    "itemId": 40080,
+    "name": "Thunderforge Lance",
+    "icon": "inv_spear_02",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 48330,
+    "quality": "Rare",
+    "itemLevel": 55,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Thunderforge Lance"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "115 - 214  Damage"
+      },
+      {
+        "label": "+5 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41143,
+          "name": "Thunderforge Mastery",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:40080::::::::::0|h[Thunderforge Lance]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thunderforge-lance"
+  },
+  {
+    "itemId": 51790,
+    "name": "Stormpike",
+    "icon": "inv_spear_08",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 1496,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Stormpike"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "51 - 78  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:51790::::::::::0|h[Stormpike]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormpike"
+  },
+  {
+    "itemId": 58037,
+    "name": "Ozuk's Piercer",
+    "icon": "inv_spear_06",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 10455,
+    "quality": "Uncommon",
+    "itemLevel": 36,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Ozuk's Piercer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "61 - 92  Damage"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+6 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41676,
+          "name": "Orcs by Our Borders",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 41683,
+          "name": "Scum Should Stay Scum",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:58037::::::::::0|h[Ozuk's Piercer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ozuks-piercer"
+  },
+  {
+    "itemId": 58098,
+    "name": "The Chainsplitter",
+    "icon": "inv_weapon_halberd_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 10700,
+    "quality": "Rare",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "The Chainsplitter"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "82 - 127  Damage"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:58098::::::::::0|h[The Chainsplitter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-chainsplitter"
+  },
+  {
+    "itemId": 58263,
+    "name": "Wolfbrother",
+    "icon": "inv_spear_07",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 9096,
+    "quality": "Uncommon",
+    "itemLevel": 33,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Wolfbrother"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "50 - 75  Damage"
+      },
+      {
+        "label": "+11 Agility"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41818,
+          "name": "We are not Born Equal",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:58263::::::::::0|h[Wolfbrother]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wolfbrother"
+  },
+  {
+    "itemId": 60138,
+    "name": "Rethress Myrmidon Trident",
+    "icon": "inv_spear_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 48761,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Rethress Myrmidon Trident"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "121 - 177  Damage"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+5 Frost"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40036,
+          "name": "A Broken Oath",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60138::::::::::0|h[Rethress Myrmidon Trident]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rethress-myrmidon-trident"
+  },
+  {
+    "itemId": 60413,
+    "name": "The Cruel Blade",
+    "icon": "inv_weapon_halberd_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 18923,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "The Cruel Blade"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "107 - 182  Damage"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60413::::::::::0|h[The Cruel Blade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-cruel-blade"
+  },
+  {
+    "itemId": 60475,
+    "name": "Bronze Naga Trident",
+    "icon": "inv_spear_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 14933,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bronze Naga Trident"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "81 - 113  Damage"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40328,
+          "name": "Naga Tridents",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60475::::::::::0|h[Bronze Naga Trident]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bronze-naga-trident"
+  },
+  {
+    "itemId": 60656,
+    "name": "Livingstone Pitchfork",
+    "icon": "inv_spear_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 10977,
+    "quality": "Uncommon",
+    "itemLevel": 36,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Livingstone Pitchfork"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "62 - 86  Damage"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40449,
+          "name": "Protecting the Crops!",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60656::::::::::0|h[Livingstone Pitchfork]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "livingstone-pitchfork"
+  },
+  {
+    "itemId": 61595,
+    "name": "Sharpened Iron Bar",
+    "icon": "inv_spear_05",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 92495,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Sharpened Iron Bar"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "155 - 233  Damage"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61595::::::::::0|h[Sharpened Iron Bar]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sharpened-iron-bar"
+  },
+  {
+    "itemId": 61610,
+    "name": "Old Farmer's Pitchfork",
+    "icon": "inv_spear_04",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 15558,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Old Farmer's Pitchfork"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "94 - 175  Damage"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+14 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61610::::::::::0|h[Old Farmer's Pitchfork]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "old-farmers-pitchfork"
+  },
+  {
+    "itemId": 61621,
+    "name": "Ceremonial Gilnean Pike",
+    "icon": "inv_spear_06",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 31758,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Ceremonial Gilnean Pike"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "75 Armor"
+      },
+      {
+        "label": "69 - 147  Damage"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40975,
+          "name": "The Judge and the Phantom",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:61621::::::::::0|h[Ceremonial Gilnean Pike]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ceremonial-gilnean-pike"
+  },
+  {
+    "itemId": 80705,
+    "name": "Satyr Poker",
+    "icon": "inv_spear_08",
+    "class": "Weapon",
+    "subclass": "Polearm",
+    "sellPrice": 1264,
+    "quality": "Uncommon",
+    "itemLevel": 18,
+    "requiredLevel": 13,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Satyr Poker"
+      },
+      {
+        "label": "Requires Level 13"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Polearm",
+        "format": "alignRight"
+      },
+      {
+        "label": "23 - 47  Damage"
+      },
+      {
+        "label": "+10 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:80705::::::::::0|h[Satyr Poker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "satyr-poker"
+  }
+]

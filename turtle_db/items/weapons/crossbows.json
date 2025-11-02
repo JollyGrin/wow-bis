@@ -1,0 +1,1285 @@
+[
+  {
+    "itemId": 2551,
+    "name": "Monster - Crossbow",
+    "icon": "inv_weapon_crossbow_02",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Crossbow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2551::::::::::0|h[Monster - Crossbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-crossbow"
+  },
+  {
+    "itemId": 6315,
+    "name": "Steelarrow Crossbow",
+    "icon": "inv_weapon_crossbow_01",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 2546,
+    "quality": "Uncommon",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Steelarrow Crossbow"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 - 45  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:6315::::::::::0|h[Steelarrow Crossbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "steelarrow-crossbow"
+  },
+  {
+    "itemId": 12651,
+    "name": "Blackcrow",
+    "icon": "inv_weapon_crossbow_04",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 36055,
+    "quality": "Rare",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Blackcrow"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "77 - 117  Damage"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12651::::::::::0|h[Blackcrow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blackcrow"
+  },
+  {
+    "itemId": 13037,
+    "name": "Crystalpine Stinger",
+    "icon": "inv_weapon_crossbow_04",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 4729,
+    "quality": "Rare",
+    "itemLevel": 32,
+    "requiredLevel": 27,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Crystalpine Stinger"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "35 - 54  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13037::::::::::0|h[Crystalpine Stinger]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crystalpine-stinger"
+  },
+  {
+    "itemId": 13038,
+    "name": "Swiftwind",
+    "icon": "inv_weapon_crossbow_04",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 9630,
+    "quality": "Rare",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Swiftwind"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "34 - 51  Damage"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13038::::::::::0|h[Swiftwind]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "swiftwind"
+  },
+  {
+    "itemId": 13039,
+    "name": "Skull Splitting Crossbow",
+    "icon": "inv_weapon_crossbow_04",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 17892,
+    "quality": "Rare",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Skull Splitting Crossbow"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "52 - 79  Damage"
+      },
+      {
+        "label": "+3 StrengthDurability"
+      },
+      {
+        "label": "+14 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13039::::::::::0|h[Skull Splitting Crossbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "skull-splitting-crossbow"
+  },
+  {
+    "itemId": 13040,
+    "name": "Heartseeking Crossbow",
+    "icon": "inv_weapon_crossbow_04",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 29444,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Heartseeking Crossbow"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "71 - 108  Damage"
+      },
+      {
+        "label": "+9 Agility"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13040::::::::::0|h[Heartseeking Crossbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heartseeking-crossbow"
+  },
+  {
+    "itemId": 15807,
+    "name": "Light Crossbow",
+    "icon": "inv_weapon_crossbow_02",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 58,
+    "quality": "Common",
+    "itemLevel": 8,
+    "requiredLevel": 3,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Light Crossbow"
+      },
+      {
+        "label": "Requires Level 3"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "6 - 7  Damage"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:15807::::::::::0|h[Light Crossbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "light-crossbow"
+  },
+  {
+    "itemId": 15808,
+    "name": "Fine Light Crossbow",
+    "icon": "inv_weapon_crossbow_02",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 728,
+    "quality": "Common",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Fine Light Crossbow"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "20 - 20  Damage"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:15808::::::::::0|h[Fine Light Crossbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fine-light-crossbow"
+  },
+  {
+    "itemId": 15809,
+    "name": "Heavy Crossbow",
+    "icon": "inv_weapon_crossbow_03",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 2938,
+    "quality": "Common",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Heavy Crossbow"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "36 - 37  Damage"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:15809::::::::::0|h[Heavy Crossbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-crossbow"
+  },
+  {
+    "itemId": 18388,
+    "name": "Stoneshatter",
+    "icon": "inv_weapon_crossbow_08",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 41928,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Stoneshatter"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "73 - 111  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18388::::::::::0|h[Stoneshatter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stoneshatter"
+  },
+  {
+    "itemId": 18738,
+    "name": "Carapace Spine Crossbow",
+    "icon": "inv_weapon_crossbow_04",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 37593,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Carapace Spine Crossbow"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "82 - 124  Damage"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18738::::::::::0|h[Carapace Spine Crossbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "carapace-spine-crossbow"
+  },
+  {
+    "itemId": 18836,
+    "name": "Grand Marshal's Repeater",
+    "icon": "inv_weapon_crossbow_04",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 35130,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Grand Marshal's Repeater"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "120 - 175  Damage"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "+41 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18836::::::::::0|h[Grand Marshal's Repeater]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grand-marshals-repeater"
+  },
+  {
+    "itemId": 18837,
+    "name": "High Warlord's Crossbow",
+    "icon": "inv_weapon_crossbow_10",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 35259,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "High Warlord's Crossbow"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "120 - 175  Damage"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "+41 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18837::::::::::0|h[High Warlord's Crossbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-warlords-crossbow"
+  },
+  {
+    "itemId": 19107,
+    "name": "Bloodseeker",
+    "icon": "inv_weapon_crossbow_07",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 44171,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Bloodseeker"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "85 - 128  Damage"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8272,
+          "name": "Hero of the Frostwolf",
+          "faction": "Horde"
+        },
+        {
+          "questId": 8271,
+          "name": "Hero of the Stormpike",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 7202,
+          "name": "Korrak the Bloodrager",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 7181,
+          "name": "The Legend of Korrak",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:19107::::::::::0|h[Bloodseeker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodseeker"
+  },
+  {
+    "itemId": 19361,
+    "name": "Ashjre'thul, Crossbow of Smiting",
+    "icon": "inv_weapon_crossbow_09",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 111546,
+    "quality": "Epic",
+    "itemLevel": 77,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Ashjre'thul, Crossbow of Smiting"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "124 - 186  Damage"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "+36 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19361::::::::::0|h[Ashjre'thul, Crossbow of Smiting]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ashjrethul-crossbow-of-smiting"
+  },
+  {
+    "itemId": 20599,
+    "name": "Polished Ironwood Crossbow",
+    "icon": "inv_weapon_crossbow_11",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 81672,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Polished Ironwood Crossbow"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "101 - 177  Damage"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+7 Nature"
+      },
+      {
+        "label": "+26 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20599::::::::::0|h[Polished Ironwood Crossbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "polished-ironwood-crossbow"
+  },
+  {
+    "itemId": 21459,
+    "name": "Crossbow of Imminent Doom",
+    "icon": "inv_weapon_crossbow_06",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 93411,
+    "quality": "Epic",
+    "itemLevel": 72,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Crossbow of Imminent Doom"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "103 - 155  Damage"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+5 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21459::::::::::0|h[Crossbow of Imminent Doom]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crossbow-of-imminent-doom"
+  },
+  {
+    "itemId": 22347,
+    "name": "Fahrad's Reloading Repeater",
+    "icon": "inv_weapon_crossbow_04",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 45728,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Fahrad's Reloading Repeater"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "85 - 128  Damage"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9023,
+          "name": "The Perfect Poison",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:22347::::::::::0|h[Fahrad's Reloading Repeater]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fahrads-reloading-repeater"
+  },
+  {
+    "itemId": 22812,
+    "name": "Nerubian Slavemaker",
+    "icon": "inv_weapon_crossbow_12",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 211849,
+    "quality": "Epic",
+    "itemLevel": 89,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Nerubian Slavemaker"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "128 - 238  Damage"
+      },
+      {
+        "label": "+24 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:22812::::::::::0|h[Nerubian Slavemaker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "nerubian-slavemaker"
+  },
+  {
+    "itemId": 51844,
+    "name": "Stunning Crossbow",
+    "icon": "inv_weapon_crossbow_08",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 2600,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Stunning Crossbow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "40 - 73  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 60119,
+          "name": "Wayne Manners",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:51844::::::::::0|h[Stunning Crossbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stunning-crossbow"
+  },
+  {
+    "itemId": 55028,
+    "name": "Kavdan's Patient Watch",
+    "icon": "inv_weapon_crossbow_04",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 81375,
+    "quality": "Epic",
+    "itemLevel": 62,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Kavdan's Patient Watch"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "81 - 151  Damage"
+      },
+      {
+        "label": "+8 StaminaRequires"
+      },
+      {
+        "label": "+22 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55028::::::::::0|h[Kavdan's Patient Watch]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "kavdans-patient-watch"
+  },
+  {
+    "itemId": 55096,
+    "name": "Phase-shifting Crossbow",
+    "icon": "inv_weapon_crossbow_18",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 238821,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Phase-shifting Crossbow"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "111 - 203  Damage"
+      },
+      {
+        "label": "+9 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55096::::::::::0|h[Phase-shifting Crossbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "phase-shifting-crossbow"
+  },
+  {
+    "itemId": 60338,
+    "name": "Lordaeron Rusty Crossbow",
+    "icon": "inv_weapon_crossbow_01",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 516,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Lordaeron Rusty Crossbow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "12 - 23  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40263,
+          "name": "A Demonstration of Skill",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60338::::::::::0|h[Lordaeron Rusty Crossbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lordaeron-rusty-crossbow"
+  },
+  {
+    "itemId": 60506,
+    "name": "Vigilance",
+    "icon": "inv_weapon_crossbow_05",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 45811,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Vigilance"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "72 - 114  Damage"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60506::::::::::0|h[Vigilance]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "vigilance"
+  },
+  {
+    "itemId": 60821,
+    "name": "Theramore Arbalest",
+    "icon": "inv_weapon_crossbow_02",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 9805,
+    "quality": "Rare",
+    "itemLevel": 47,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Theramore Arbalest"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "57 - 106  Damage"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40565,
+          "name": "And Justice for All",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:60821::::::::::0|h[Theramore Arbalest]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "theramore-arbalest"
+  },
+  {
+    "itemId": 61683,
+    "name": "Battered Arbalest",
+    "icon": "inv_weapon_crossbow_02",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 5235,
+    "quality": "Poor",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Battered Arbalest"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "19 - 35  Damage"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:61683::::::::::0|h[Battered Arbalest]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "battered-arbalest"
+  },
+  {
+    "itemId": 70049,
+    "name": "Worn Crossbow",
+    "icon": "inv_weapon_crossbow_02",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 1,
+    "quality": "Common",
+    "itemLevel": 2,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Worn Crossbow"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "3 - 6  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:70049::::::::::0|h[Worn Crossbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "worn-crossbow"
+  },
+  {
+    "itemId": 80745,
+    "name": "Abomination Crossbow",
+    "icon": "inv_weapon_crossbow_04",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 12270,
+    "quality": "Rare",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Abomination Crossbow"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "47 - 87  Damage"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80745::::::::::0|h[Abomination Crossbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "abomination-crossbow"
+  },
+  {
+    "itemId": 83517,
+    "name": "Balanced Light Crossbow",
+    "icon": "inv_weapon_crossbow_01",
+    "class": "Weapon",
+    "subclass": "Crossbow",
+    "sellPrice": 352,
+    "quality": "Common",
+    "itemLevel": 16,
+    "requiredLevel": 11,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Balanced Light Crossbow"
+      },
+      {
+        "label": "Requires Level 11"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Crossbow",
+        "format": "alignRight"
+      },
+      {
+        "label": "12 - 21  Damage"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:83517::::::::::0|h[Balanced Light Crossbow]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "balanced-light-crossbow"
+  }
+]

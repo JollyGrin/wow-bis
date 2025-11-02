@@ -1,0 +1,9299 @@
+[
+  {
+    "itemId": 55562,
+    "name": "Unused AQ40 Mail Bracers Test",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1,
+    "quality": "Common",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Unused AQ40 Mail Bracers Test"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:55562::::::::::0|h[Unused AQ40 Mail Bracers Test]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "unused-aq40-mail-bracers-test"
+  },
+  {
+    "itemId": 3228,
+    "name": "Jimmied Handcuffs",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1098,
+    "quality": "Rare",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Jimmied Handcuffs"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "89 Armor"
+      },
+      {
+        "label": "+3 Strength"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:3228::::::::::0|h[Jimmied Handcuffs]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jimmied-handcuffs"
+  },
+  {
+    "itemId": 9409,
+    "name": "Ironaya's Bracers",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4490,
+    "quality": "Rare",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Ironaya's Bracers"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "165 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9409::::::::::0|h[Ironaya's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ironayas-bracers"
+  },
+  {
+    "itemId": 13179,
+    "name": "Brazecore Armguards",
+    "icon": "inv_bracer_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 14916,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Brazecore Armguards"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "155 Armor"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13179::::::::::0|h[Brazecore Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brazecore-armguards"
+  },
+  {
+    "itemId": 13199,
+    "name": "Crushridge Bindings",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4398,
+    "quality": "Rare",
+    "itemLevel": 41,
+    "requiredLevel": 36,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Crushridge Bindings"
+      },
+      {
+        "label": "Requires Level 36"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "113 Armor"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13199::::::::::0|h[Crushridge Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crushridge-bindings"
+  },
+  {
+    "itemId": 16461,
+    "name": "Marshal's Chain Bracers",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 12326,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Marshal's Chain Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "182 Armor"
+      },
+      {
+        "label": "+20 Agility"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+7 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16461::::::::::0|h[Marshal's Chain Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "marshals-chain-bracers"
+  },
+  {
+    "itemId": 16532,
+    "name": "First Sergeant's Mail Wristguards",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 8960,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "First Sergeant's Mail Wristguards"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "162 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+7 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16532::::::::::0|h[First Sergeant's Mail Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "first-sergeants-mail-wristguards"
+  },
+  {
+    "itemId": 16570,
+    "name": "General's Chain Wristguards",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 13073,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "General's Chain Wristguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "182 Armor"
+      },
+      {
+        "label": "+20 Agility"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+7 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16570::::::::::0|h[General's Chain Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "generals-chain-wristguards"
+  },
+  {
+    "itemId": 16576,
+    "name": "General's Mail Bracers",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 12420,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "General's Mail Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "182 Armor"
+      },
+      {
+        "label": "+19 Stamina"
+      },
+      {
+        "label": "+10 Spirit"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16576::::::::::0|h[General's Mail Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "generals-mail-bracers"
+  },
+  {
+    "itemId": 16671,
+    "name": "Bindings of Elements",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 12586,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bindings of Elements"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "148 Armor"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+10 Spirit"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16671::::::::::0|h[Bindings of Elements]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bindings-of-elements"
+  },
+  {
+    "itemId": 16681,
+    "name": "Beaststalker's Bindings",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 13055,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Beaststalker's Bindings"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "148 Armor"
+      },
+      {
+        "label": "+15 Agility"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16681::::::::::0|h[Beaststalker's Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "beaststalkers-bindings"
+  },
+  {
+    "itemId": 16840,
+    "name": "Earthfury Bracers",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 25879,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Earthfury Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "185 Armor"
+      },
+      {
+        "label": "+17 Intellect"
+      },
+      {
+        "label": "+11 Spirit"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16840::::::::::0|h[Earthfury Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthfury-bracers"
+  },
+  {
+    "itemId": 16850,
+    "name": "Giantstalker's Bracers",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 27564,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Giantstalker's Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "185 Armor"
+      },
+      {
+        "label": "+20 Agility"
+      },
+      {
+        "label": "+6 Intellect"
+      },
+      {
+        "label": "+5 Spirit"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16850::::::::::0|h[Giantstalker's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "giantstalkers-bracers"
+  },
+  {
+    "itemId": 16935,
+    "name": "Dragonstalker's Bracers",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 42481,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Dragonstalker's Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "211 Armor"
+      },
+      {
+        "label": "+23 Agility"
+      },
+      {
+        "label": "+6 Intellect"
+      },
+      {
+        "label": "+6 Spirit"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16935::::::::::0|h[Dragonstalker's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dragonstalkers-bracers"
+  },
+  {
+    "itemId": 16943,
+    "name": "Bindings of Ten Storms",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 44904,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bindings of Ten Storms"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "211 Armor"
+      },
+      {
+        "label": "+18 Intellect"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16943::::::::::0|h[Bindings of Ten Storms]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bindings-of-ten-storms"
+  },
+  {
+    "itemId": 17714,
+    "name": "Bracers of the Stone Princess",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 10225,
+    "quality": "Rare",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bracers of the Stone Princess"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "141 Armor"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+5 IntellectDurability"
+      },
+      {
+        "label": "+30 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:17714::::::::::0|h[Bracers of the Stone Princess]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bracers-of-the-stone-princess"
+  },
+  {
+    "itemId": 18394,
+    "name": "Demon Howl Wristguards",
+    "icon": "inv_bracer_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 17133,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Demon Howl Wristguards"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "160 Armor"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "+14 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18394::::::::::0|h[Demon Howl Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "demon-howl-wristguards"
+  },
+  {
+    "itemId": 18432,
+    "name": "First Sergeant's Mail Wristguards",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4348,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "First Sergeant's Mail Wristguards"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "131 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+6 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18432::::::::::0|h[First Sergeant's Mail Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "first-sergeants-mail-wristguards"
+  },
+  {
+    "itemId": 18711,
+    "name": "Arena Bands",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 8700,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Arena Bands"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "131 Armor"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "+28 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18711::::::::::0|h[Arena Bands]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "arena-bands"
+  },
+  {
+    "itemId": 18812,
+    "name": "Wristguards of True Flight",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 32458,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Wristguards of True Flight"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "198 Armor"
+      },
+      {
+        "label": "+19 Agility"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+6 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18812::::::::::0|h[Wristguards of True Flight]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wristguards-of-true-flight"
+  },
+  {
+    "itemId": 19582,
+    "name": "Windtalker's Wristguards",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 24220,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Windtalker's Wristguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "198 Armor"
+      },
+      {
+        "label": "+9 Intellect"
+      },
+      {
+        "label": "+8 Agility"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "+38 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19582::::::::::0|h[Windtalker's Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "windtalkers-wristguards"
+  },
+  {
+    "itemId": 19583,
+    "name": "Windtalker's Wristguards",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 14452,
+    "quality": "Epic",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Windtalker's Wristguards"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "156 Armor"
+      },
+      {
+        "label": "+6 Intellect"
+      },
+      {
+        "label": "+6 Spirit"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "+34 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19583::::::::::0|h[Windtalker's Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "windtalkers-wristguards"
+  },
+  {
+    "itemId": 19584,
+    "name": "Windtalker's Wristguards",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7418,
+    "quality": "Epic",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Windtalker's Wristguards"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "130 Armor"
+      },
+      {
+        "label": "+6 Intellect"
+      },
+      {
+        "label": "+5 Spirit"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "+28 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19584::::::::::0|h[Windtalker's Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "windtalkers-wristguards"
+  },
+  {
+    "itemId": 19830,
+    "name": "Zandalar Augur's Bracers",
+    "icon": "inv_bracer_15",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 0,
+    "quality": "Epic",
+    "itemLevel": 61,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Zandalar Augur's Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "172 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+11 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8056,
+          "name": "Paragons of Power: The Augur's Bracers",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:19830::::::::::0|h[Zandalar Augur's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "zandalar-augurs-bracers"
+  },
+  {
+    "itemId": 19833,
+    "name": "Zandalar Predator's Bracers",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 0,
+    "quality": "Epic",
+    "itemLevel": 61,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Zandalar Predator's Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "172 Armor"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "+34 ranged"
+      },
+      {
+        "label": "+20 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8062,
+          "name": "Paragons of Power: The Predator's Bracers",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:19833::::::::::0|h[Zandalar Predator's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "zandalar-predators-bracers"
+  },
+  {
+    "itemId": 20684,
+    "name": "Abyssal Mail Armguards",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 21028,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Abyssal Mail Armguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "174 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20684::::::::::0|h[Abyssal Mail Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "abyssal-mail-armguards"
+  },
+  {
+    "itemId": 21584,
+    "name": "Bracers of Eternal Reckoning",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 77194,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bracers of Eternal Reckoning"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "242 Armor"
+      },
+      {
+        "label": "+26 Agility"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21584::::::::::0|h[Bracers of Eternal Reckoning]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bracers-of-eternal-reckoning"
+  },
+  {
+    "itemId": 21588,
+    "name": "Wristguards of Elemental Fury",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 80408,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Wristguards of Elemental Fury"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "242 Armor"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21588::::::::::0|h[Wristguards of Elemental Fury]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wristguards-of-elemental-fury"
+  },
+  {
+    "itemId": 22011,
+    "name": "Beastmaster's Bindings",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 18500,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Beastmaster's Bindings"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "169 Armor"
+      },
+      {
+        "label": "+18 Agility"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+7 IntellectDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8906,
+          "name": "An Earnest Proposition",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 8914,
+          "name": "An Earnest Proposition",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22011::::::::::0|h[Beastmaster's Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "beastmasters-bindings"
+  },
+  {
+    "itemId": 22095,
+    "name": "Bindings of The Five Thunders",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 19275,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bindings of The Five Thunders"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "169 Armor"
+      },
+      {
+        "label": "+9 Intellect"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8918,
+          "name": "An Earnest Proposition",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22095::::::::::0|h[Bindings of The Five Thunders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bindings-of-the-five-thunders"
+  },
+  {
+    "itemId": 22443,
+    "name": "Cryptstalker Wristguards",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 75782,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Cryptstalker Wristguards"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "242 Armor"
+      },
+      {
+        "label": "+26 Agility"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9061,
+          "name": "Cryptstalker Wristguards",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22443::::::::::0|h[Cryptstalker Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cryptstalker-wristguards"
+  },
+  {
+    "itemId": 22471,
+    "name": "Earthshatter Wristguards",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 80127,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Earthshatter Wristguards"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "242 Armor"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+16 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9075,
+          "name": "Earthshatter Wristguards",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22471::::::::::0|h[Earthshatter Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthshatter-wristguards"
+  },
+  {
+    "itemId": 22665,
+    "name": "Icy Scale Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 50516,
+    "quality": "Epic",
+    "itemLevel": 80,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Icy Scale Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "221 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+20 Frost"
+      },
+      {
+        "label": "+32 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9244,
+          "name": "Icy Scale Bracers",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22665::::::::::0|h[Icy Scale Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "icy-scale-bracers"
+  },
+  {
+    "itemId": 41833,
+    "name": "Cuffs of Burning Rage",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2758,
+    "quality": "Rare",
+    "itemLevel": 32,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Cuffs of Burning Rage"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "99 Armor"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+4 Spirit"
+      },
+      {
+        "label": "+5 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41751,
+          "name": "The Dragonmaw Brood",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:41833::::::::::0|h[Cuffs of Burning Rage]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cuffs-of-burning-rage"
+  },
+  {
+    "itemId": 47123,
+    "name": "Earthfury Bracelets",
+    "icon": "inv_ertwrist_v2",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 25879,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Earthfury Bracelets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "185 Armor"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+8 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41512,
+          "name": "Earthfury Wrists",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47123::::::::::0|h[Earthfury Bracelets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthfury-bracelets"
+  },
+  {
+    "itemId": 47131,
+    "name": "Earthfury Bindings",
+    "icon": "inv_ertwrist_v3",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 25879,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Earthfury Bindings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "185 Armor"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41512,
+          "name": "Earthfury Wrists",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47131::::::::::0|h[Earthfury Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthfury-bindings"
+  },
+  {
+    "itemId": 47139,
+    "name": "Bracelets of Ten Storms",
+    "icon": "inv_tenwrist_v3",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 44904,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bracelets of Ten Storms"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "211 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+6 Agility"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41504,
+          "name": "Wrists of Ten Storms",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47139::::::::::0|h[Bracelets of Ten Storms]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bracelets-of-ten-storms"
+  },
+  {
+    "itemId": 47147,
+    "name": "Bracers of Ten Storms",
+    "icon": "inv_tenwrist_v2",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 44904,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bracers of Ten Storms"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "211 Armor"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41504,
+          "name": "Wrists of Ten Storms",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47147::::::::::0|h[Bracers of Ten Storms]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bracers-of-ten-storms"
+  },
+  {
+    "itemId": 47165,
+    "name": "Earthshatter Bracelets",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 80127,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Earthshatter Bracelets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "242 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9075,
+          "name": "Earthshatter Wristguards",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47165::::::::::0|h[Earthshatter Bracelets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthshatter-bracelets"
+  },
+  {
+    "itemId": 47174,
+    "name": "Earthshatter Bindings",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 80127,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Earthshatter Bindings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "242 Armor"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9075,
+          "name": "Earthshatter Wristguards",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47174::::::::::0|h[Earthshatter Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthshatter-bindings"
+  },
+  {
+    "itemId": 58119,
+    "name": "Bracers of the Bloodbound",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 9056,
+    "quality": "Rare",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bracers of the Bloodbound"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "126 Armor"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "+17 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:58119::::::::::0|h[Bracers of the Bloodbound]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bracers-of-the-bloodbound"
+  },
+  {
+    "itemId": 58287,
+    "name": "Bracers of the Binding Rune",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2284,
+    "quality": "Rare",
+    "itemLevel": 38,
+    "requiredLevel": 33,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bracers of the Binding Rune"
+      },
+      {
+        "label": "Requires Level 33"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "107 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+5 Arcane"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:58287::::::::::0|h[Bracers of the Binding Rune]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bracers-of-the-binding-rune"
+  },
+  {
+    "itemId": 60354,
+    "name": "Bloody Gladiator's Wristguards",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7785,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bloody Gladiator's Wristguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "214 Armor"
+      },
+      {
+        "label": "+8 Intellect"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "+18 Attack"
+      },
+      {
+        "label": "+20 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60354::::::::::0|h[Bloody Gladiator's Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloody-gladiators-wristguards"
+  },
+  {
+    "itemId": 61052,
+    "name": "Infinite Scale Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 28305,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Infinite Scale Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "167 Armor"
+      },
+      {
+        "label": "+6 Agility"
+      },
+      {
+        "label": "+8 Intellect"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61052::::::::::0|h[Infinite Scale Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "infinite-scale-bracers"
+  },
+  {
+    "itemId": 61280,
+    "name": "Granitized Bracers",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 21050,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Granitized Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "174 Armor"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "+20 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61280::::::::::0|h[Granitized Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "granitized-bracers"
+  },
+  {
+    "itemId": 61528,
+    "name": "Aquis' Bindings",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 12322,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Aquis' Bindings"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "+13 Nature"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61528::::::::::0|h[Aquis' Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "aquis-bindings"
+  },
+  {
+    "itemId": 61592,
+    "name": "Arcanic Bracers",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 20286,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Arcanic Bracers"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "162 Armor"
+      },
+      {
+        "label": "+8 Agility"
+      },
+      {
+        "label": "+15 Arcane"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61592::::::::::0|h[Arcanic Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "arcanic-bracers"
+  },
+  {
+    "itemId": 81368,
+    "name": "Blackshackle Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 17487,
+    "quality": "Rare",
+    "itemLevel": 64,
+    "requiredLevel": 59,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Blackshackle Bracers"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "170 Armor"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+6 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81368::::::::::0|h[Blackshackle Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blackshackle-bracers"
+  },
+  {
+    "itemId": 83267,
+    "name": "Bracers of the Demonic Hunt",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 18742,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bracers of the Demonic Hunt"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "160 Armor"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+3 Stamina"
+      },
+      {
+        "label": "+3 Fire"
+      },
+      {
+        "label": "+3 Shadow"
+      },
+      {
+        "label": "+14 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83267::::::::::0|h[Bracers of the Demonic Hunt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bracers-of-the-demonic-hunt"
+  },
+  {
+    "itemId": 84505,
+    "name": "Infused Wildthorn Bracers",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 40572,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Infused Wildthorn Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "198 Armor"
+      },
+      {
+        "label": "+11 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:84505::::::::::0|h[Infused Wildthorn Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "infused-wildthorn-bracers"
+  },
+  {
+    "itemId": 84604,
+    "name": "Aurastone Bracers",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 18500,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Aurastone Bracers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "167 Armor"
+      },
+      {
+        "label": "+5 Agility"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+5 Intellect"
+      },
+      {
+        "label": "+5 Spirit"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:84604::::::::::0|h[Aurastone Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "aurastone-bracers"
+  },
+  {
+    "itemId": 3211,
+    "name": "Burnished Bracers",
+    "icon": "inv_bracer_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 373,
+    "quality": "Uncommon",
+    "itemLevel": 19,
+    "requiredLevel": 14,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Burnished Bracers"
+      },
+      {
+        "label": "Requires Level 14"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "72 Armor"
+      },
+      {
+        "label": "+2 Strength"
+      },
+      {
+        "label": "+2 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3211::::::::::0|h[Burnished Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "burnished-bracers"
+  },
+  {
+    "itemId": 4438,
+    "name": "Pugilist Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1692,
+    "quality": "Rare",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Pugilist Bracers"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "95 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:4438::::::::::0|h[Pugilist Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pugilist-bracers"
+  },
+  {
+    "itemId": 6413,
+    "name": "Chief Brigadier Bracers",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2497,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 32,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Chief Brigadier Bracers"
+      },
+      {
+        "label": "Requires Level 32"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "96 Armor"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+3 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:6413::::::::::0|h[Chief Brigadier Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chief-brigadier-bracers"
+  },
+  {
+    "itemId": 6426,
+    "name": "Blackforge Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4162,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 38,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Blackforge Bracers"
+      },
+      {
+        "label": "Requires Level 38"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "106 Armor"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+3 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:6426::::::::::0|h[Blackforge Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blackforge-bracers"
+  },
+  {
+    "itemId": 6574,
+    "name": "Defender Bracers",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 568,
+    "quality": "Uncommon",
+    "itemLevel": 22,
+    "requiredLevel": 17,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Defender Bracers"
+      },
+      {
+        "label": "Requires Level 17"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "76 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:6574::::::::::0|h[Defender Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defender-bracers"
+  },
+  {
+    "itemId": 6591,
+    "name": "Battleforge Wristguards",
+    "icon": "inv_bracer_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1007,
+    "quality": "Uncommon",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Battleforge Wristguards"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "83 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:6591::::::::::0|h[Battleforge Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "battleforge-wristguards"
+  },
+  {
+    "itemId": 6722,
+    "name": "Beastial Manacles",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1331,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Beastial Manacles"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "87 Armor"
+      },
+      {
+        "label": "+1 Strength"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1035,
+          "name": "Fallen Sky Lake",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6722::::::::::0|h[Beastial Manacles]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "beastial-manacles"
+  },
+  {
+    "itemId": 6793,
+    "name": "Auric Bracers",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3157,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Auric Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "101 Armor"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+3 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1467,
+          "name": "Reagents for Reclaimers Inc.",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6793::::::::::0|h[Auric Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "auric-bracers"
+  },
+  {
+    "itemId": 7003,
+    "name": "Beetle Clasps",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 981,
+    "quality": "Uncommon",
+    "itemLevel": 27,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Beetle Clasps"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "83 Armor"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+2 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1275,
+          "name": "Researching the Corruption",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:7003::::::::::0|h[Beetle Clasps]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "beetle-clasps"
+  },
+  {
+    "itemId": 7493,
+    "name": "Captain's Bracers",
+    "icon": "inv_bracer_12",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3268,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Captain's Bracers"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "101 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7493::::::::::0|h[Captain's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "captains-bracers"
+  },
+  {
+    "itemId": 7545,
+    "name": "Champion's Bracers",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4658,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Champion's Bracers"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "109 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7545::::::::::0|h[Champion's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "champions-bracers"
+  },
+  {
+    "itemId": 8264,
+    "name": "Ebonhold Wristguards",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7857,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Ebonhold Wristguards"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "124 Armor"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+3 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8264::::::::::0|h[Ebonhold Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ebonhold-wristguards"
+  },
+  {
+    "itemId": 9638,
+    "name": "Chelonian Cuffs",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6875,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Chelonian Cuffs"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "119 Armor"
+      },
+      {
+        "label": "+4 Stamina"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1560,
+          "name": "Tooga's Quest",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:9638::::::::::0|h[Chelonian Cuffs]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chelonian-cuffs"
+  },
+  {
+    "itemId": 9837,
+    "name": "Banded Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1287,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Banded Bracers"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "87 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9837::::::::::0|h[Banded Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "banded-bracers"
+  },
+  {
+    "itemId": 9927,
+    "name": "Brigade Bracers",
+    "icon": "inv_bracer_13",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3927,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Brigade Bracers"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "104 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9927::::::::::0|h[Brigade Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brigade-bracers"
+  },
+  {
+    "itemId": 10191,
+    "name": "Crusader's Armguards",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7777,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Crusader's Armguards"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "122 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10191::::::::::0|h[Crusader's Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crusaders-armguards"
+  },
+  {
+    "itemId": 10229,
+    "name": "Engraved Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 10331,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Engraved Bracers"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "132 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10229::::::::::0|h[Engraved Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "engraved-bracers"
+  },
+  {
+    "itemId": 10358,
+    "name": "Duracin Bracers",
+    "icon": "inv_bracer_04",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2421,
+    "quality": "Uncommon",
+    "itemLevel": 36,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Duracin Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "95 Armor"
+      },
+      {
+        "label": "+3 Stamina"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2418,
+          "name": "Power Stones",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:10358::::::::::0|h[Duracin Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "duracin-bracers"
+  },
+  {
+    "itemId": 10632,
+    "name": "Slimescale Bracers",
+    "icon": "inv_jewelry_ring_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7624,
+    "quality": "Rare",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Slimescale Bracers"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "129 Armor"
+      },
+      {
+        "label": "+13 Spirit"
+      },
+      {
+        "label": "+4 Intellect"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:10632::::::::::0|h[Slimescale Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "slimescale-bracers"
+  },
+  {
+    "itemId": 11679,
+    "name": "Rubicund Armguards",
+    "icon": "inv_bracer_13",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 11738,
+    "quality": "Rare",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Rubicund Armguards"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "143 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11679::::::::::0|h[Rubicund Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rubicund-armguards"
+  },
+  {
+    "itemId": 11765,
+    "name": "Pyremail Wristguards",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "mail",
+    "sellPrice": 12525,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Pyremail Wristguards"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "148 Armor"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11765::::::::::0|h[Pyremail Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pyremail-wristguards"
+  },
+  {
+    "itemId": 12112,
+    "name": "Crypt Demon Bracers",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 10406,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Crypt Demon Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "132 Armor"
+      },
+      {
+        "label": "+14 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 3907,
+          "name": "Disharmony of Fire",
+          "faction": "Horde"
+        },
+        {
+          "questId": 4263,
+          "name": "Incendius!",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:12112::::::::::0|h[Crypt Demon Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crypt-demon-bracers"
+  },
+  {
+    "itemId": 13012,
+    "name": "Yorgen Bracers",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1241,
+    "quality": "Rare",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Yorgen Bracers"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "91 Armor"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+3 Agility"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13012::::::::::0|h[Yorgen Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "yorgen-bracers"
+  },
+  {
+    "itemId": 13135,
+    "name": "Lordly Armguards",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 14001,
+    "quality": "Rare",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Lordly Armguards"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "153 Armor"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+8 Spirit"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+7 Intellect"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13135::::::::::0|h[Lordly Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lordly-armguards"
+  },
+  {
+    "itemId": 13211,
+    "name": "Slashclaw Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 14474,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Slashclaw Bracers"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "155 Armor"
+      },
+      {
+        "label": "+6 Spirit"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13211::::::::::0|h[Slashclaw Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "slashclaw-bracers"
+  },
+  {
+    "itemId": 13969,
+    "name": "Loomguard Armbraces",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 16019,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Loomguard Armbraces"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "157 Armor"
+      },
+      {
+        "label": "+7 Intellect"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13969::::::::::0|h[Loomguard Armbraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "loomguard-armbraces"
+  },
+  {
+    "itemId": 14147,
+    "name": "Cavedweller Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 311,
+    "quality": "Uncommon",
+    "itemLevel": 18,
+    "requiredLevel": 13,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Cavedweller Bracers"
+      },
+      {
+        "label": "Requires Level 13"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "71 Armor"
+      },
+      {
+        "label": "+1 Strength"
+      },
+      {
+        "label": "+2 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14147::::::::::0|h[Cavedweller Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cavedweller-bracers"
+  },
+  {
+    "itemId": 14759,
+    "name": "Enduring Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2009,
+    "quality": "Uncommon",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Enduring Bracers"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "92 Armor"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+3 Strength"
+      },
+      {
+        "label": "+2 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14759::::::::::0|h[Enduring Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "enduring-bracers"
+  },
+  {
+    "itemId": 14807,
+    "name": "Bloodlust Bracelets",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 8211,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bloodlust Bracelets"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "126 Armor"
+      },
+      {
+        "label": "+11 Agility"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14807::::::::::0|h[Bloodlust Bracelets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodlust-bracelets"
+  },
+  {
+    "itemId": 15495,
+    "name": "Bloodspattered Wristbands",
+    "icon": "inv_bracer_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 220,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 10,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bloodspattered Wristbands"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "63 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15495::::::::::0|h[Bloodspattered Wristbands]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodspattered-wristbands"
+  },
+  {
+    "itemId": 15600,
+    "name": "Ancient Vambraces",
+    "icon": "inv_bracer_15",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3787,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Ancient Vambraces"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "104 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15600::::::::::0|h[Ancient Vambraces]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ancient-vambraces"
+  },
+  {
+    "itemId": 15610,
+    "name": "Bonelink Bracers",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4354,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 38,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bonelink Bracers"
+      },
+      {
+        "label": "Requires Level 38"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "106 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15610::::::::::0|h[Bonelink Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bonelink-bracers"
+  },
+  {
+    "itemId": 16402,
+    "name": "Knight-Captain's Chain Armguards",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7823,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Knight-Captain's Chain Armguards"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "155 Armor"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+5 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16402::::::::::0|h[Knight-Captain's Chain Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knight-captains-chain-armguards"
+  },
+  {
+    "itemId": 16517,
+    "name": "Legionnaire's Chain Bracers",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7131,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Legionnaire's Chain Bracers"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "155 Armor"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+5 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16517::::::::::0|h[Legionnaire's Chain Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legionnaires-chain-bracers"
+  },
+  {
+    "itemId": 18296,
+    "name": "Marksman Bands",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 12322,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Marksman Bands"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "146 Armor"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18296::::::::::0|h[Marksman Bands]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "marksman-bands"
+  },
+  {
+    "itemId": 18448,
+    "name": "Sergeant Major's Chain Armguards",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 8801,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Sergeant Major's Chain Armguards"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "162 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+7 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18448::::::::::0|h[Sergeant Major's Chain Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sergeant-majors-chain-armguards"
+  },
+  {
+    "itemId": 18449,
+    "name": "Sergeant Major's Chain Armguards",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4301,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Sergeant Major's Chain Armguards"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "131 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+6 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18449::::::::::0|h[Sergeant Major's Chain Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sergeant-majors-chain-armguards"
+  },
+  {
+    "itemId": 18508,
+    "name": "Swift Flight Bracers",
+    "icon": "inv_bracer_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 17194,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Swift Flight Bracers"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "160 Armor"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "+41 ranged"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18508::::::::::0|h[Swift Flight Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "swift-flight-bracers"
+  },
+  {
+    "itemId": 20476,
+    "name": "Sandstalker Bracers",
+    "icon": "inv_bracer_12",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 16401,
+    "quality": "Rare",
+    "itemLevel": 70,
+    "requiredLevel": 57,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Sandstalker Bracers"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "179 Armor"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+15 Nature"
+      },
+      {
+        "label": "+16 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20476::::::::::0|h[Sandstalker Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sandstalker-bracers"
+  },
+  {
+    "itemId": 20481,
+    "name": "Spitfire Bracers",
+    "icon": "inv_bracer_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 17139,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 57,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Spitfire Bracers"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "174 Armor"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20481::::::::::0|h[Spitfire Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "spitfire-bracers"
+  },
+  {
+    "itemId": 21502,
+    "name": "Sand Reaver Wristguards",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 24409,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Sand Reaver Wristguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "181 Armor"
+      },
+      {
+        "label": "+16 Agility"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+7 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:21502::::::::::0|h[Sand Reaver Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sand-reaver-wristguards"
+  },
+  {
+    "itemId": 23092,
+    "name": "Wristguards of Undead Slaying",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 16476,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Wristguards of Undead Slaying"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "162 Armor"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "+45 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23092::::::::::0|h[Wristguards of Undead Slaying]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wristguards-of-undead-slaying"
+  },
+  {
+    "itemId": 41126,
+    "name": "Energized Shackles",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 10406,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Energized Shackles"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "132 Armor"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41200,
+          "name": "The Wrath Of The Light Fall Upon Thee",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:41126::::::::::0|h[Energized Shackles]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "energized-shackles"
+  },
+  {
+    "itemId": 58040,
+    "name": "Cavernweb Cuffs",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1228,
+    "quality": "Uncommon",
+    "itemLevel": 29,
+    "requiredLevel": 24,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Cavernweb Cuffs"
+      },
+      {
+        "label": "Requires Level 24"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "85 Armor"
+      },
+      {
+        "label": "+5 Intellect"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:58040::::::::::0|h[Cavernweb Cuffs]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cavernweb-cuffs"
+  },
+  {
+    "itemId": 58065,
+    "name": "Clasps of Subterfuge",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2606,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Clasps of Subterfuge"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "96 Armor"
+      },
+      {
+        "label": "+5 Agility"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+3 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41761,
+          "name": "Into The Hornet's Nest",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:58065::::::::::0|h[Clasps of Subterfuge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "clasps-of-subterfuge"
+  },
+  {
+    "itemId": 58219,
+    "name": "Magmascale Shackles",
+    "icon": "inv_bracer_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 20595,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Magmascale Shackles"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "162 Armor"
+      },
+      {
+        "label": "+15 Fire"
+      },
+      {
+        "label": "+20 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:58219::::::::::0|h[Magmascale Shackles]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "magmascale-shackles"
+  },
+  {
+    "itemId": 60388,
+    "name": "Mariner's Cuffs",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 21468,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Mariner's Cuffs"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "166 Armor"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60388::::::::::0|h[Mariner's Cuffs]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mariners-cuffs"
+  },
+  {
+    "itemId": 61723,
+    "name": "Bearbane Cuffs",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4488,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Bearbane Cuffs"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "104 Armor"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+4 Spirit"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41034,
+          "name": "A Vile Mantle",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:61723::::::::::0|h[Bearbane Cuffs]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bearbane-cuffs"
+  },
+  {
+    "itemId": 80784,
+    "name": "Unbroken Prisoner's Cuffs",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2189,
+    "quality": "Rare",
+    "itemLevel": 36,
+    "requiredLevel": 31,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Unbroken Prisoner's Cuffs"
+      },
+      {
+        "label": "Requires Level 31"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "105 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+6 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80784::::::::::0|h[Unbroken Prisoner's Cuffs]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "unbroken-prisoners-cuffs"
+  },
+  {
+    "itemId": 2867,
+    "name": "Rough Bronze Bracers",
+    "icon": "inv_bracer_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 629,
+    "quality": "Uncommon",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Rough Bronze Bracers"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "77 Armor"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:2867::::::::::0|h[Rough Bronze Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rough-bronze-bracers"
+  },
+  {
+    "itemId": 2868,
+    "name": "Patterned Bronze Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 807,
+    "quality": "Uncommon",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Patterned Bronze Bracers"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "80 Armor"
+      },
+      {
+        "label": "+5 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2751,
+          "name": "Barbaric Battlements",
+          "faction": "Horde"
+        },
+        {
+          "questId": 716,
+          "name": "Stone Is Better than Cloth",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:2868::::::::::0|h[Patterned Bronze Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "patterned-bronze-bracers"
+  },
+  {
+    "itemId": 3212,
+    "name": "Lambent Scale Bracers",
+    "icon": "inv_bracer_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 929,
+    "quality": "Uncommon",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Lambent Scale Bracers"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "81 Armor"
+      },
+      {
+        "label": "+4 Stamina"
+      },
+      {
+        "label": "+2 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3212::::::::::0|h[Lambent Scale Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lambent-scale-bracers"
+  },
+  {
+    "itemId": 3835,
+    "name": "Green Iron Bracers",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1771,
+    "quality": "Uncommon",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Green Iron Bracers"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "91 Armor"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 7891,
+          "name": "Green Iron Bracers",
+          "faction": "Both"
+        },
+        {
+          "questId": 2753,
+          "name": "Trampled Under Foot",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3835::::::::::0|h[Green Iron Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "green-iron-bracers"
+  },
+  {
+    "itemId": 4118,
+    "name": "Poobah's Nose Ring",
+    "icon": "inv_jewelry_ring_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7313,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Poobah's Nose Ring"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "119 Armor"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 630,
+          "name": "Message in a Bottle",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4118::::::::::0|h[Poobah's Nose Ring]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "poobahs-nose-ring"
+  },
+  {
+    "itemId": 5943,
+    "name": "Rift Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 840,
+    "quality": "Uncommon",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Rift Bracers"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "80 Armor"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:5943::::::::::0|h[Rift Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rift-bracers"
+  },
+  {
+    "itemId": 6040,
+    "name": "Golden Scale Bracers",
+    "icon": "inv_bracer_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2497,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 32,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Golden Scale Bracers"
+      },
+      {
+        "label": "Requires Level 32"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "96 Armor"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2758,
+          "name": "The Origins of Smithing",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6040::::::::::0|h[Golden Scale Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "golden-scale-bracers"
+  },
+  {
+    "itemId": 6387,
+    "name": "Glimmering Mail Bracers",
+    "icon": "inv_bracer_19",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1228,
+    "quality": "Uncommon",
+    "itemLevel": 29,
+    "requiredLevel": 24,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Glimmering Mail Bracers"
+      },
+      {
+        "label": "Requires Level 24"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "85 Armor"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+2 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:6387::::::::::0|h[Glimmering Mail Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "glimmering-mail-bracers"
+  },
+  {
+    "itemId": 6403,
+    "name": "Mail Combat Armguards",
+    "icon": "inv_bracer_04",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1771,
+    "quality": "Uncommon",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Mail Combat Armguards"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "91 Armor"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+2 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:6403::::::::::0|h[Mail Combat Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mail-combat-armguards"
+  },
+  {
+    "itemId": 6665,
+    "name": "Hexed Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 895,
+    "quality": "Uncommon",
+    "itemLevel": 26,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Hexed Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "81 Armor"
+      },
+      {
+        "label": "+4 Stamina"
+      },
+      {
+        "label": "+2 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1058,
+          "name": "Jin'Zil's Forest Magic",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6665::::::::::0|h[Hexed Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hexed-bracers"
+  },
+  {
+    "itemId": 7416,
+    "name": "Phalanx Bracers",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1442,
+    "quality": "Uncommon",
+    "itemLevel": 31,
+    "requiredLevel": 26,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Phalanx Bracers"
+      },
+      {
+        "label": "Requires Level 26"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "88 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7416::::::::::0|h[Phalanx Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "phalanx-bracers"
+  },
+  {
+    "itemId": 7461,
+    "name": "Knight's Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2429,
+    "quality": "Uncommon",
+    "itemLevel": 36,
+    "requiredLevel": 31,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Knight's Bracers"
+      },
+      {
+        "label": "Requires Level 31"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "95 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7461::::::::::0|h[Knight's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knights-bracers"
+  },
+  {
+    "itemId": 7924,
+    "name": "Mithril Scale Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4103,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 38,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Mithril Scale Bracers"
+      },
+      {
+        "label": "Requires Level 38"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "106 Armor"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7924::::::::::0|h[Mithril Scale Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mithril-scale-bracers"
+  },
+  {
+    "itemId": 8125,
+    "name": "Myrmidon's Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6367,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Myrmidon's Bracers"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "115 Armor"
+      },
+      {
+        "label": "+5 Agility"
+      },
+      {
+        "label": "+5 Intellect"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8125::::::::::0|h[Myrmidon's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "myrmidons-bracers"
+  },
+  {
+    "itemId": 8302,
+    "name": "Hero's Bracers",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 11060,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Hero's Bracers"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "137 Armor"
+      },
+      {
+        "label": "+4 Agility"
+      },
+      {
+        "label": "+12 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8302::::::::::0|h[Hero's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heros-bracers"
+  },
+  {
+    "itemId": 9388,
+    "name": "Revelosh's Armguards",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3196,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Revelosh's Armguards"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "101 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9388::::::::::0|h[Revelosh's Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "reveloshs-armguards"
+  },
+  {
+    "itemId": 9535,
+    "name": "Fire-welded Bracers",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1406,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Fire-welded Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "87 Armor"
+      },
+      {
+        "label": "+1 Stamina"
+      },
+      {
+        "label": "+6 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2904,
+          "name": "A Fine Mess",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:9535::::::::::0|h[Fire-welded Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fire-welded-bracers"
+  },
+  {
+    "itemId": 9785,
+    "name": "Raider's Bracers",
+    "icon": "inv_bracer_13",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 268,
+    "quality": "Uncommon",
+    "itemLevel": 17,
+    "requiredLevel": 12,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Raider's Bracers"
+      },
+      {
+        "label": "Requires Level 12"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "69 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9785::::::::::0|h[Raider's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "raiders-bracers"
+  },
+  {
+    "itemId": 9811,
+    "name": "Fortified Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 725,
+    "quality": "Uncommon",
+    "itemLevel": 24,
+    "requiredLevel": 19,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Fortified Bracers"
+      },
+      {
+        "label": "Requires Level 19"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "79 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9811::::::::::0|h[Fortified Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fortified-bracers"
+  },
+  {
+    "itemId": 9865,
+    "name": "Renegade Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1942,
+    "quality": "Uncommon",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Renegade Bracers"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "92 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9865::::::::::0|h[Renegade Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "renegade-bracers"
+  },
+  {
+    "itemId": 9896,
+    "name": "Jazeraint Bracers",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2913,
+    "quality": "Uncommon",
+    "itemLevel": 39,
+    "requiredLevel": 34,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Jazeraint Bracers"
+      },
+      {
+        "label": "Requires Level 34"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "99 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9896::::::::::0|h[Jazeraint Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jazeraint-bracers"
+  },
+  {
+    "itemId": 10076,
+    "name": "Lord's Armguards",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6571,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Lord's Armguards"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "117 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10076::::::::::0|h[Lord's Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lords-armguards"
+  },
+  {
+    "itemId": 10126,
+    "name": "Ornate Bracers",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 8865,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Ornate Bracers"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "128 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10126::::::::::0|h[Ornate Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ornate-bracers"
+  },
+  {
+    "itemId": 10156,
+    "name": "Mercurial Bracers",
+    "icon": "inv_bracer_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 12794,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Mercurial Bracers"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "141 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10156::::::::::0|h[Mercurial Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mercurial-bracers"
+  },
+  {
+    "itemId": 10265,
+    "name": "Masterwork Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 13904,
+    "quality": "Uncommon",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Masterwork Bracers"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "145 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10265::::::::::0|h[Masterwork Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "masterwork-bracers"
+  },
+  {
+    "itemId": 14743,
+    "name": "Hulking Bands",
+    "icon": "inv_bracer_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 583,
+    "quality": "Uncommon",
+    "itemLevel": 22,
+    "requiredLevel": 17,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Hulking Bands"
+      },
+      {
+        "label": "Requires Level 17"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "76 Armor"
+      },
+      {
+        "label": "+3 Stamina"
+      },
+      {
+        "label": "+2 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14743::::::::::0|h[Hulking Bands]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hulking-bands"
+  },
+  {
+    "itemId": 14770,
+    "name": "Ravager's Armguards",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3172,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Ravager's Armguards"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "101 Armor"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14770::::::::::0|h[Ravager's Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ravagers-armguards"
+  },
+  {
+    "itemId": 14778,
+    "name": "Khan's Bindings",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4933,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Khan's Bindings"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "109 Armor"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+5 Spirit"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14778::::::::::0|h[Khan's Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "khans-bindings"
+  },
+  {
+    "itemId": 14788,
+    "name": "Protector Armguards",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6408,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Protector Armguards"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "117 Armor"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+3 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14788::::::::::0|h[Protector Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "protector-armguards"
+  },
+  {
+    "itemId": 15077,
+    "name": "Heavy Scorpid Bracers",
+    "icon": "inv_bracer_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7615,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Heavy Scorpid Bracers"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "130 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15077::::::::::0|h[Heavy Scorpid Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-scorpid-bracers"
+  },
+  {
+    "itemId": 15459,
+    "name": "Grimtoll Wristguards",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1142,
+    "quality": "Uncommon",
+    "itemLevel": 28,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Grimtoll Wristguards"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "84 Armor"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+2 Stamina"
+      },
+      {
+        "label": "+1 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 5064,
+          "name": "Grimtotem Spying",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:15459::::::::::0|h[Grimtoll Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grimtoll-wristguards"
+  },
+  {
+    "itemId": 15499,
+    "name": "Outrunner's Cuffs",
+    "icon": "inv_bracer_13",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 307,
+    "quality": "Uncommon",
+    "itemLevel": 18,
+    "requiredLevel": 13,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Outrunner's Cuffs"
+      },
+      {
+        "label": "Requires Level 13"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "71 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15499::::::::::0|h[Outrunner's Cuffs]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "outrunners-cuffs"
+  },
+  {
+    "itemId": 15507,
+    "name": "Grunt's Bracers",
+    "icon": "inv_bracer_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 364,
+    "quality": "Uncommon",
+    "itemLevel": 19,
+    "requiredLevel": 14,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Grunt's Bracers"
+      },
+      {
+        "label": "Requires Level 14"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "72 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15507::::::::::0|h[Grunt's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grunts-bracers"
+  },
+  {
+    "itemId": 15556,
+    "name": "Pillager's Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1697,
+    "quality": "Uncommon",
+    "itemLevel": 32,
+    "requiredLevel": 27,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Pillager's Bracers"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "89 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15556::::::::::0|h[Pillager's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pillagers-bracers"
+  },
+  {
+    "itemId": 15566,
+    "name": "Marauder's Bracers",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2178,
+    "quality": "Uncommon",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Marauder's Bracers"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "93 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15566::::::::::0|h[Marauder's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "marauders-bracers"
+  },
+  {
+    "itemId": 15620,
+    "name": "Gryphon Mail Bracelets",
+    "icon": "inv_bracer_13",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 5564,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Gryphon Mail Bracelets"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "113 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15620::::::::::0|h[Gryphon Mail Bracelets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gryphon-mail-bracelets"
+  },
+  {
+    "itemId": 15629,
+    "name": "Formidable Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6374,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Formidable Bracers"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "115 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15629::::::::::0|h[Formidable Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "formidable-bracers"
+  },
+  {
+    "itemId": 15639,
+    "name": "Ironhide Bracers",
+    "icon": "inv_bracer_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7040,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Ironhide Bracers"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "119 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15639::::::::::0|h[Ironhide Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ironhide-bracers"
+  },
+  {
+    "itemId": 15649,
+    "name": "Merciless Bracers",
+    "icon": "inv_bracer_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7808,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Merciless Bracers"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "122 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15649::::::::::0|h[Merciless Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "merciless-bracers"
+  },
+  {
+    "itemId": 15659,
+    "name": "Impenetrable Bindings",
+    "icon": "inv_bracer_15",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 9508,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Impenetrable Bindings"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "130 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15659::::::::::0|h[Impenetrable Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "impenetrable-bindings"
+  },
+  {
+    "itemId": 15668,
+    "name": "Magnificent Bracers",
+    "icon": "inv_bracer_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 11697,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Magnificent Bracers"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "137 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15668::::::::::0|h[Magnificent Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "magnificent-bracers"
+  },
+  {
+    "itemId": 16664,
+    "name": "Ornate Bracers",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 9234,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Ornate Bracers"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "128 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:16664::::::::::0|h[Ornate Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ornate-bracers"
+  },
+  {
+    "itemId": 16794,
+    "name": "Gripsteel Wristguards",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2705,
+    "quality": "Uncommon",
+    "itemLevel": 38,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Gripsteel Wristguards"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "98 Armor"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 5581,
+          "name": "Portals of the Legion",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:16794::::::::::0|h[Gripsteel Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gripsteel-wristguards"
+  },
+  {
+    "itemId": 18458,
+    "name": "Modest Armguards",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 12212,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Modest Armguards"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "141 Armor"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:18458::::::::::0|h[Modest Armguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "modest-armguards"
+  },
+  {
+    "itemId": 41828,
+    "name": "Mosschain Bracers",
+    "icon": "inv_bracer_12",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 822,
+    "quality": "Uncommon",
+    "itemLevel": 26,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Mosschain Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "80 Armor"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+5 Nature"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41749,
+          "name": "Stone Golem Salvage",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:41828::::::::::0|h[Mosschain Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mosschain-bracers"
+  },
+  {
+    "itemId": 55179,
+    "name": "Luminescent Cufflinks",
+    "icon": "inv_misc_questionmark",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4000,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Luminescent Cufflinks"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "101 Armor"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "+12 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:55179::::::::::0|h[Luminescent Cufflinks]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "luminescent-cufflinks"
+  },
+  {
+    "itemId": 60591,
+    "name": "Hallister's Cuffs",
+    "icon": "inv_bracer_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4688,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Hallister's Cuffs"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "109 Armor"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "+12 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40407,
+          "name": "Mannoroc Demonic Sigil",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60591::::::::::0|h[Hallister's Cuffs]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hallisters-cuffs"
+  },
+  {
+    "itemId": 61304,
+    "name": "Gilneas Shackles",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4982,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Gilneas Shackles"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "113 Armor"
+      },
+      {
+        "label": "+8 Agility"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+3 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61304::::::::::0|h[Gilneas Shackles]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gilneas-shackles"
+  },
+  {
+    "itemId": 80721,
+    "name": "Heavy Prison Cuffs",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 751,
+    "quality": "Uncommon",
+    "itemLevel": 28,
+    "requiredLevel": 23,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Heavy Prison Cuffs"
+      },
+      {
+        "label": "Requires Level 23"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "84 Armor"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:80721::::::::::0|h[Heavy Prison Cuffs]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-prison-cuffs"
+  },
+  {
+    "itemId": 83256,
+    "name": "Explorer's League Wristprotectors",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 811,
+    "quality": "Uncommon",
+    "itemLevel": 25,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Explorer's League Wristprotectors"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "80 Armor"
+      },
+      {
+        "label": "+3 Strength"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:83256::::::::::0|h[Explorer's League Wristprotectors]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "explorers-league-wristprotectors"
+  },
+  {
+    "itemId": 1182,
+    "name": "Brass-studded Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 44,
+    "quality": "Common",
+    "itemLevel": 10,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Brass-studded Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "45 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 88,
+          "name": "Princess Must Die!",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:1182::::::::::0|h[Brass-studded Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brass-studded-bracers"
+  },
+  {
+    "itemId": 1846,
+    "name": "Chainmail Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "mail",
+    "sellPrice": 176,
+    "quality": "Common",
+    "itemLevel": 17,
+    "requiredLevel": 12,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Chainmail Bracers"
+      },
+      {
+        "label": "Requires Level 12"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "66 Armor"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:1846::::::::::0|h[Chainmail Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chainmail-bracers"
+  },
+  {
+    "itemId": 1852,
+    "name": "Scalemail Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "mail",
+    "sellPrice": 336,
+    "quality": "Common",
+    "itemLevel": 22,
+    "requiredLevel": 17,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Scalemail Bracers"
+      },
+      {
+        "label": "Requires Level 17"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "72 Armor"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:1852::::::::::0|h[Scalemail Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "scalemail-bracers"
+  },
+  {
+    "itemId": 2150,
+    "name": "Polished Scale Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 586,
+    "quality": "Common",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Polished Scale Bracers"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "79 Armor"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2150::::::::::0|h[Polished Scale Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "polished-scale-bracers"
+  },
+  {
+    "itemId": 2384,
+    "name": "Tarnished Chain Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7,
+    "quality": "Common",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Tarnished Chain Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 Armor"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2384::::::::::0|h[Tarnished Chain Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tarnished-chain-bracers"
+  },
+  {
+    "itemId": 2390,
+    "name": "Rusted Chain Bracers",
+    "icon": "inv_bracer_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7,
+    "quality": "Common",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Rusted Chain Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 Armor"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2390::::::::::0|h[Rusted Chain Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rusted-chain-bracers"
+  },
+  {
+    "itemId": 2396,
+    "name": "Light Mail Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 43,
+    "quality": "Common",
+    "itemLevel": 10,
+    "requiredLevel": 5,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Light Mail Bracers"
+      },
+      {
+        "label": "Requires Level 5"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "45 Armor"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2396::::::::::0|h[Light Mail Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "light-mail-bracers"
+  },
+  {
+    "itemId": 2402,
+    "name": "Light Chain Bracers",
+    "icon": "inv_bracer_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 43,
+    "quality": "Common",
+    "itemLevel": 10,
+    "requiredLevel": 5,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Light Chain Bracers"
+      },
+      {
+        "label": "Requires Level 5"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "45 Armor"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2402::::::::::0|h[Light Chain Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "light-chain-bracers"
+  },
+  {
+    "itemId": 2421,
+    "name": "Augmented Chain Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1590,
+    "quality": "Common",
+    "itemLevel": 37,
+    "requiredLevel": 32,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Augmented Chain Bracers"
+      },
+      {
+        "label": "Requires Level 32"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "91 Armor"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2421::::::::::0|h[Augmented Chain Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "augmented-chain-bracers"
+  },
+  {
+    "itemId": 2427,
+    "name": "Brigandine Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4029,
+    "quality": "Common",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Brigandine Bracers"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "113 Armor"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2427::::::::::0|h[Brigandine Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brigandine-bracers"
+  },
+  {
+    "itemId": 2651,
+    "name": "Flimsy Chain Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3,
+    "quality": "Poor",
+    "itemLevel": 4,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Flimsy Chain Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "25 Armor"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2651::::::::::0|h[Flimsy Chain Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "flimsy-chain-bracers"
+  },
+  {
+    "itemId": 2853,
+    "name": "Copper Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 17,
+    "quality": "Common",
+    "itemLevel": 7,
+    "requiredLevel": 2,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Copper Bracers"
+      },
+      {
+        "label": "Requires Level 2"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "35 Armor"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2853::::::::::0|h[Copper Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "copper-bracers"
+  },
+  {
+    "itemId": 2854,
+    "name": "Runed Copper Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 373,
+    "quality": "Uncommon",
+    "itemLevel": 19,
+    "requiredLevel": 14,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Runed Copper Bracers"
+      },
+      {
+        "label": "Requires Level 14"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "72 Armor"
+      },
+      {
+        "label": "+2 Strength"
+      },
+      {
+        "label": "+2 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:2854::::::::::0|h[Runed Copper Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "runed-copper-bracers"
+  },
+  {
+    "itemId": 3213,
+    "name": "Veteran Bracers",
+    "icon": "inv_bracer_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 89,
+    "quality": "Common",
+    "itemLevel": 13,
+    "requiredLevel": 8,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Veteran Bracers"
+      },
+      {
+        "label": "Requires Level 8"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "54 Armor"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3213::::::::::0|h[Veteran Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "veteran-bracers"
+  },
+  {
+    "itemId": 3214,
+    "name": "Warrior's Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 33,
+    "quality": "Common",
+    "itemLevel": 9,
+    "requiredLevel": 4,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Warrior's Bracers"
+      },
+      {
+        "label": "Requires Level 4"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "42 Armor"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3214::::::::::0|h[Warrior's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warriors-bracers"
+  },
+  {
+    "itemId": 3280,
+    "name": "Battle Chain Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 33,
+    "quality": "Common",
+    "itemLevel": 9,
+    "requiredLevel": 4,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Battle Chain Bracers"
+      },
+      {
+        "label": "Requires Level 4"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "42 Armor"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3280::::::::::0|h[Battle Chain Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "battle-chain-bracers"
+  },
+  {
+    "itemId": 3303,
+    "name": "Brackwater Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 70,
+    "quality": "Common",
+    "itemLevel": 12,
+    "requiredLevel": 7,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Brackwater Bracers"
+      },
+      {
+        "label": "Requires Level 7"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "51 Armor"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3303::::::::::0|h[Brackwater Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brackwater-bracers"
+  },
+  {
+    "itemId": 3810,
+    "name": "Double Mail Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1145,
+    "quality": "Poor",
+    "itemLevel": 38,
+    "requiredLevel": 33,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Double Mail Bracers"
+      },
+      {
+        "label": "Requires Level 33"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "88 Armor"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3810::::::::::0|h[Double Mail Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "double-mail-bracers"
+  },
+  {
+    "itemId": 4534,
+    "name": "Steel-clasped Bracers",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1173,
+    "quality": "Uncommon",
+    "itemLevel": 29,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Steel-clasped Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "85 Armor"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+1 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1013,
+          "name": "The Book of Ur",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4534::::::::::0|h[Steel-clasped Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "steel-clasped-bracers"
+  },
+  {
+    "itemId": 4745,
+    "name": "War Rider Bracers",
+    "icon": "inv_bracer_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3230,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "War Rider Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "101 Armor"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 685,
+          "name": "Wanted!  Otto and Falconcrest",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4745::::::::::0|h[War Rider Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "war-rider-bracers"
+  },
+  {
+    "itemId": 4969,
+    "name": "Fortified Bindings",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 42,
+    "quality": "Common",
+    "itemLevel": 10,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Fortified Bindings"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "45 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 746,
+          "name": "Dwarven Digging",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:4969::::::::::0|h[Fortified Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fortified-bindings"
+  },
+  {
+    "itemId": 6061,
+    "name": "Graystone Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 23,
+    "quality": "Common",
+    "itemLevel": 8,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Graystone Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "39 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 919,
+          "name": "Timberling Sprouts",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:6061::::::::::0|h[Graystone Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "graystone-bracers"
+  },
+  {
+    "itemId": 6177,
+    "name": "Ironwrought Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 69,
+    "quality": "Common",
+    "itemLevel": 12,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Ironwrought Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "51 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 312,
+          "name": "Tundra MacGrann's Stolen Stash",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:6177::::::::::0|h[Ironwrought Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ironwrought-bracers"
+  },
+  {
+    "itemId": 6507,
+    "name": "Infantry Bracers",
+    "icon": "inv_bracer_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 44,
+    "quality": "Common",
+    "itemLevel": 10,
+    "requiredLevel": 5,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Infantry Bracers"
+      },
+      {
+        "label": "Requires Level 5"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "45 Armor"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:6507::::::::::0|h[Infantry Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "infantry-bracers"
+  },
+  {
+    "itemId": 6550,
+    "name": "Soldier's Wristguards",
+    "icon": "inv_bracer_12",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 204,
+    "quality": "Uncommon",
+    "itemLevel": 15,
+    "requiredLevel": 10,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Soldier's Wristguards"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "63 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:6550::::::::::0|h[Soldier's Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "soldiers-wristguards"
+  },
+  {
+    "itemId": 6675,
+    "name": "Tempered Bracers",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1048,
+    "quality": "Uncommon",
+    "itemLevel": 27,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Tempered Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "83 Armor"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+1 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1059,
+          "name": "Reclaiming the Charred Vale",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6675::::::::::0|h[Tempered Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tempered-bracers"
+  },
+  {
+    "itemId": 8198,
+    "name": "Turtle Scale Bracers",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4013,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Turtle Scale Bracers"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "204 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2852,
+          "name": "Wild Leather Leggings",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 2859,
+          "name": "Wild Leather Leggings",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:8198::::::::::0|h[Turtle Scale Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "turtle-scale-bracers"
+  },
+  {
+    "itemId": 8205,
+    "name": "Tough Scorpid Bracers",
+    "icon": "inv_bracer_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4346,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 39,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Tough Scorpid Bracers"
+      },
+      {
+        "label": "Requires Level 39"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "107 Armor"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8205::::::::::0|h[Tough Scorpid Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tough-scorpid-bracers"
+  },
+  {
+    "itemId": 9760,
+    "name": "Cadet Bracers",
+    "icon": "inv_bracer_12",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 73,
+    "quality": "Common",
+    "itemLevel": 12,
+    "requiredLevel": 7,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Cadet Bracers"
+      },
+      {
+        "label": "Requires Level 7"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "51 Armor"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:9760::::::::::0|h[Cadet Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cadet-bracers"
+  },
+  {
+    "itemId": 9956,
+    "name": "Warmonger's Bracers",
+    "icon": "inv_bracer_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 5130,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Warmonger's Bracers"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "111 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9956::::::::::0|h[Warmonger's Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warmongers-bracers"
+  },
+  {
+    "itemId": 10333,
+    "name": "Scarlet Wristguards",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2314,
+    "quality": "Uncommon",
+    "itemLevel": 36,
+    "requiredLevel": 31,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Scarlet Wristguards"
+      },
+      {
+        "label": "Requires Level 31"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "95 Armor"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "+15 Shadow"
+      },
+      {
+        "label": "+30 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10333::::::::::0|h[Scarlet Wristguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "scarlet-wristguards"
+  },
+  {
+    "itemId": 11849,
+    "name": "Rustmetal Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7,
+    "quality": "Common",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Rustmetal Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 3902,
+          "name": "Scavenging Deathknell",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:11849::::::::::0|h[Rustmetal Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rustmetal-bracers"
+  },
+  {
+    "itemId": 13528,
+    "name": "Twilight Void Bracers",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 13198,
+    "quality": "Uncommon",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Twilight Void Bracers"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "145 Armor"
+      },
+      {
+        "label": "+15 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:13528::::::::::0|h[Twilight Void Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "twilight-void-bracers"
+  },
+  {
+    "itemId": 14723,
+    "name": "War Paint Bindings",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 290,
+    "quality": "Uncommon",
+    "itemLevel": 17,
+    "requiredLevel": 12,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "War Paint Bindings"
+      },
+      {
+        "label": "Requires Level 12"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "69 Armor"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14723::::::::::0|h[War Paint Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "war-paint-bindings"
+  },
+  {
+    "itemId": 14750,
+    "name": "Slayer's Cuffs",
+    "icon": "inv_bracer_11",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1068,
+    "quality": "Uncommon",
+    "itemLevel": 28,
+    "requiredLevel": 23,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Slayer's Cuffs"
+      },
+      {
+        "label": "Requires Level 23"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "84 Armor"
+      },
+      {
+        "label": "+4 Stamina"
+      },
+      {
+        "label": "+4 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14750::::::::::0|h[Slayer's Cuffs]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "slayers-cuffs"
+  },
+  {
+    "itemId": 14810,
+    "name": "Warstrike Armsplints",
+    "icon": "inv_bracer_04",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 11669,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Warstrike Armsplints"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "139 Armor"
+      },
+      {
+        "label": "+13 Spirit"
+      },
+      {
+        "label": "+3 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14810::::::::::0|h[Warstrike Armsplints]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warstrike-armsplints"
+  },
+  {
+    "itemId": 15400,
+    "name": "Clamshell Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 109,
+    "quality": "Common",
+    "itemLevel": 14,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Clamshell Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "57 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 4681,
+          "name": "Washed Ashore",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:15400::::::::::0|h[Clamshell Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "clamshell-bracers"
+  },
+  {
+    "itemId": 15474,
+    "name": "Charger's Bindings",
+    "icon": "inv_bracer_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 23,
+    "quality": "Common",
+    "itemLevel": 8,
+    "requiredLevel": 3,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Charger's Bindings"
+      },
+      {
+        "label": "Requires Level 3"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "39 Armor"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:15474::::::::::0|h[Charger's Bindings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chargers-bindings"
+  },
+  {
+    "itemId": 15482,
+    "name": "War Torn Bands",
+    "icon": "inv_bracer_08",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 54,
+    "quality": "Common",
+    "itemLevel": 11,
+    "requiredLevel": 6,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "War Torn Bands"
+      },
+      {
+        "label": "Requires Level 6"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "48 Armor"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:15482::::::::::0|h[War Torn Bands]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "war-torn-bands"
+  },
+  {
+    "itemId": 15517,
+    "name": "Spiked Chain Wristbands",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 850,
+    "quality": "Uncommon",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Spiked Chain Wristbands"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "80 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15517::::::::::0|h[Spiked Chain Wristbands]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "spiked-chain-wristbands"
+  },
+  {
+    "itemId": 15532,
+    "name": "Sentry's Armsplints",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 944,
+    "quality": "Uncommon",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Sentry's Armsplints"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "81 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15532::::::::::0|h[Sentry's Armsplints]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sentrys-armsplints"
+  },
+  {
+    "itemId": 15535,
+    "name": "Wicked Chain Bracers",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1270,
+    "quality": "Uncommon",
+    "itemLevel": 29,
+    "requiredLevel": 24,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Wicked Chain Bracers"
+      },
+      {
+        "label": "Requires Level 24"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "85 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15535::::::::::0|h[Wicked Chain Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wicked-chain-bracers"
+  },
+  {
+    "itemId": 15545,
+    "name": "Thick Scale Bracelets",
+    "icon": "inv_bracer_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1348,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Thick Scale Bracelets"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "87 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15545::::::::::0|h[Thick Scale Bracelets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thick-scale-bracelets"
+  },
+  {
+    "itemId": 15577,
+    "name": "Sparkleshell Bracers",
+    "icon": "inv_bracer_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2317,
+    "quality": "Uncommon",
+    "itemLevel": 36,
+    "requiredLevel": 31,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Sparkleshell Bracers"
+      },
+      {
+        "label": "Requires Level 31"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "95 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15577::::::::::0|h[Sparkleshell Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sparkleshell-bracers"
+  },
+  {
+    "itemId": 15590,
+    "name": "Steadfast Bracelets",
+    "icon": "inv_bracer_13",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2674,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 32,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Steadfast Bracelets"
+      },
+      {
+        "label": "Requires Level 32"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "96 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15590::::::::::0|h[Steadfast Bracelets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "steadfast-bracelets"
+  },
+  {
+    "itemId": 15679,
+    "name": "Triumphant Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 13108,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Triumphant Bracers"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "143 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15679::::::::::0|h[Triumphant Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "triumphant-bracers"
+  },
+  {
+    "itemId": 15796,
+    "name": "Seaspray Bracers",
+    "icon": "inv_bracer_17",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 12063,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Seaspray Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "139 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+4 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 4883,
+          "name": "Guarding Secrets",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:15796::::::::::0|h[Seaspray Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "seaspray-bracers"
+  },
+  {
+    "itemId": 41014,
+    "name": "Ash Covered Shackles",
+    "icon": "inv_bracer_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7,
+    "quality": "Common",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Ash Covered Shackles"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41150,
+          "name": "Defunct Mainframes",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:41014::::::::::0|h[Ash Covered Shackles]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ash-covered-shackles"
+  },
+  {
+    "itemId": 41148,
+    "name": "Sootstone Shackles",
+    "icon": "inv_bracer_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 566,
+    "quality": "Uncommon",
+    "itemLevel": 22,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Sootstone Shackles"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "74 Armor"
+      },
+      {
+        "label": "+4 Agility"
+      },
+      {
+        "label": "+2 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41213,
+          "name": "Venture Co. Expansion",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:41148::::::::::0|h[Sootstone Shackles]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sootstone-shackles"
+  },
+  {
+    "itemId": 41182,
+    "name": "Withered Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 70,
+    "quality": "Common",
+    "itemLevel": 12,
+    "requiredLevel": 0,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Withered Bracers"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "51 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41243,
+          "name": "A Thirst of Hope",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:41182::::::::::0|h[Withered Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "withered-bracers"
+  },
+  {
+    "itemId": 1732,
+    "name": "Worn Mail Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 73,
+    "quality": "Poor",
+    "itemLevel": 14,
+    "requiredLevel": 9,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Worn Mail Bracers"
+      },
+      {
+        "label": "Requires Level 9"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "54 Armor"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1732::::::::::0|h[Worn Mail Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "worn-mail-bracers"
+  },
+  {
+    "itemId": 1740,
+    "name": "Laced Mail Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 97,
+    "quality": "Poor",
+    "itemLevel": 16,
+    "requiredLevel": 11,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Laced Mail Bracers"
+      },
+      {
+        "label": "Requires Level 11"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "60 Armor"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1740::::::::::0|h[Laced Mail Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "laced-mail-bracers"
+  },
+  {
+    "itemId": 1748,
+    "name": "Linked Chain Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 232,
+    "quality": "Poor",
+    "itemLevel": 22,
+    "requiredLevel": 17,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Linked Chain Bracers"
+      },
+      {
+        "label": "Requires Level 17"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "68 Armor"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1748::::::::::0|h[Linked Chain Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "linked-chain-bracers"
+  },
+  {
+    "itemId": 1756,
+    "name": "Reinforced Chain Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 438,
+    "quality": "Poor",
+    "itemLevel": 28,
+    "requiredLevel": 23,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Reinforced Chain Bracers"
+      },
+      {
+        "label": "Requires Level 23"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "76 Armor"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1756::::::::::0|h[Reinforced Chain Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "reinforced-chain-bracers"
+  },
+  {
+    "itemId": 2643,
+    "name": "Loose Chain Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 28,
+    "quality": "Poor",
+    "itemLevel": 10,
+    "requiredLevel": 5,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Loose Chain Bracers"
+      },
+      {
+        "label": "Requires Level 5"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "42 Armor"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2643::::::::::0|h[Loose Chain Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "loose-chain-bracers"
+  },
+  {
+    "itemId": 3994,
+    "name": "Laminated Scale Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4404,
+    "quality": "Poor",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Laminated Scale Bracers"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "123 Armor"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3994::::::::::0|h[Laminated Scale Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "laminated-scale-bracers"
+  },
+  {
+    "itemId": 4002,
+    "name": "Overlinked Chain Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2463,
+    "quality": "Poor",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Overlinked Chain Bracers"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "104 Armor"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:4002::::::::::0|h[Overlinked Chain Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "overlinked-chain-bracers"
+  },
+  {
+    "itemId": 4010,
+    "name": "Sterling Chain Bracers",
+    "icon": "inv_bracer_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6409,
+    "quality": "Poor",
+    "itemLevel": 66,
+    "requiredLevel": 61,
+    "slot": "Wrist",
+    "tooltip": [
+      {
+        "label": "Sterling Chain Bracers"
+      },
+      {
+        "label": "Requires Level 61"
+      },
+      {
+        "label": "Wrist"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "139 Armor"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:4010::::::::::0|h[Sterling Chain Bracers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sterling-chain-bracers"
+  }
+]

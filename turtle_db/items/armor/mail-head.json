@@ -1,0 +1,7553 @@
+[
+  {
+    "itemId": 55556,
+    "name": "Unused AQ40 Mail Helm Test",
+    "icon": "inv_helmet_73",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1,
+    "quality": "Common",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Unused AQ40 Mail Helm Test"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:55556::::::::::0|h[Unused AQ40 Mail Helm Test]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "unused-aq40-mail-helm-test"
+  },
+  {
+    "itemId": 2245,
+    "name": "Helm of Narv",
+    "icon": "inv_helmet_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 27636,
+    "quality": "Epic",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helm of Narv"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "309 Armor"
+      },
+      {
+        "label": "+13 Agility"
+      },
+      {
+        "label": "+18 Spirit"
+      },
+      {
+        "label": "+32 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:2245::::::::::0|h[Helm of Narv]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helm-of-narv"
+  },
+  {
+    "itemId": 12549,
+    "name": "Braincage",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 13669,
+    "quality": "Rare",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Braincage"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "253 Armor"
+      },
+      {
+        "label": "+25 Intellect"
+      },
+      {
+        "label": "+9 Spirit"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12549::::::::::0|h[Braincage]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "braincage"
+  },
+  {
+    "itemId": 16465,
+    "name": "Field Marshal's Chain Helm",
+    "icon": "inv_helmet_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 29117,
+    "quality": "Epic",
+    "itemLevel": 74,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Field Marshal's Chain Helm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "432 Armor"
+      },
+      {
+        "label": "+28 Stamina"
+      },
+      {
+        "label": "+34 Agility"
+      },
+      {
+        "label": "+12 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16465::::::::::0|h[Field Marshal's Chain Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "field-marshals-chain-helm"
+  },
+  {
+    "itemId": 16521,
+    "name": "Champion's Mail Helm",
+    "icon": "inv_helmet_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 12572,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Champion's Mail Helm"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "301 Armor"
+      },
+      {
+        "label": "+25 Stamina"
+      },
+      {
+        "label": "+9 Intellect"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16521::::::::::0|h[Champion's Mail Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "champions-mail-helm"
+  },
+  {
+    "itemId": 16526,
+    "name": "Champion's Chain Headguard",
+    "icon": "inv_helmet_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 13154,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Champion's Chain Headguard"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "301 Armor"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+15 Agility"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "+12 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16526::::::::::0|h[Champion's Chain Headguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "champions-chain-headguard"
+  },
+  {
+    "itemId": 16566,
+    "name": "Warlord's Chain Helmet",
+    "icon": "inv_helmet_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 29991,
+    "quality": "Epic",
+    "itemLevel": 74,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Warlord's Chain Helmet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "432 Armor"
+      },
+      {
+        "label": "+34 Agility"
+      },
+      {
+        "label": "+28 Stamina"
+      },
+      {
+        "label": "+12 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16566::::::::::0|h[Warlord's Chain Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warlords-chain-helmet"
+  },
+  {
+    "itemId": 16578,
+    "name": "Warlord's Mail Helm",
+    "icon": "inv_helmet_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 29117,
+    "quality": "Epic",
+    "itemLevel": 74,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Warlord's Mail Helm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "382 Armor"
+      },
+      {
+        "label": "+35 Stamina"
+      },
+      {
+        "label": "+19 Intellect"
+      },
+      {
+        "label": "+11 StrengthDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16578::::::::::0|h[Warlord's Mail Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warlords-mail-helm"
+  },
+  {
+    "itemId": 16667,
+    "name": "Coif of Elements",
+    "icon": "inv_helmet_04",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 25778,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Coif of Elements"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "297 Armor"
+      },
+      {
+        "label": "+23 Intellect"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+12 Spirit"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16667::::::::::0|h[Coif of Elements]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "coif-of-elements"
+  },
+  {
+    "itemId": 16677,
+    "name": "Beaststalker's Cap",
+    "icon": "inv_helmet_24",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 24868,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Beaststalker's Cap"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "297 Armor"
+      },
+      {
+        "label": "+20 Agility"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+6 SpiritDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16677::::::::::0|h[Beaststalker's Cap]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "beaststalkers-cap"
+  },
+  {
+    "itemId": 16842,
+    "name": "Earthfury Helmet",
+    "icon": "inv_helmet_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 39111,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Earthfury Helmet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "343 Armor"
+      },
+      {
+        "label": "+23 Intellect"
+      },
+      {
+        "label": "+13 Spirit"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16842::::::::::0|h[Earthfury Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthfury-helmet"
+  },
+  {
+    "itemId": 16846,
+    "name": "Giantstalker's Helmet",
+    "icon": "inv_helmet_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 40759,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Giantstalker's Helmet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "343 Armor"
+      },
+      {
+        "label": "+23 Agility"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+8 Spirit"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16846::::::::::0|h[Giantstalker's Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "giantstalkers-helmet"
+  },
+  {
+    "itemId": 16939,
+    "name": "Dragonstalker's Helm",
+    "icon": "inv_helmet_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 64672,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Dragonstalker's Helm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "392 Armor"
+      },
+      {
+        "label": "+27 Agility"
+      },
+      {
+        "label": "+16 Intellect"
+      },
+      {
+        "label": "+8 Spirit"
+      },
+      {
+        "label": "+26 Stamina"
+      },
+      {
+        "label": "+10 Frost"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16939::::::::::0|h[Dragonstalker's Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dragonstalkers-helm"
+  },
+  {
+    "itemId": 16947,
+    "name": "Visor of Ten Storms",
+    "icon": "inv_helmet_69",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 68314,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Visor of Ten Storms"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "392 Armor"
+      },
+      {
+        "label": "+23 Intellect"
+      },
+      {
+        "label": "+22 Stamina"
+      },
+      {
+        "label": "+10 Frost"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16947::::::::::0|h[Visor of Ten Storms]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "visor-of-ten-storms"
+  },
+  {
+    "itemId": 17767,
+    "name": "Bloomsprout Headpiece",
+    "icon": "inv_helmet_17",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 13610,
+    "quality": "Rare",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Bloomsprout Headpiece"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "249 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+10 Nature"
+      },
+      {
+        "label": "+36 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:17767::::::::::0|h[Bloomsprout Headpiece]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloomsprout-headpiece"
+  },
+  {
+    "itemId": 18546,
+    "name": "Infernal Headcage",
+    "icon": "inv_helmet_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 48035,
+    "quality": "Epic",
+    "itemLevel": 69,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Infernal Headcage"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "358 Armor"
+      },
+      {
+        "label": "+25 Intellect"
+      },
+      {
+        "label": "+14 Spirit"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18546::::::::::0|h[Infernal Headcage]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "infernal-headcage"
+  },
+  {
+    "itemId": 18817,
+    "name": "Crown of Destruction",
+    "icon": "inv_crown_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 63975,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Crown of Destruction"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "392 Armor"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+9 Intellect"
+      },
+      {
+        "label": "+9 Spirit"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "+44 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18817::::::::::0|h[Crown of Destruction]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crown-of-destruction"
+  },
+  {
+    "itemId": 18870,
+    "name": "Helm of the Lifegiver",
+    "icon": "inv_helmet_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 31384,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 57,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helm of the Lifegiver"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "324 Armor"
+      },
+      {
+        "label": "+30 Intellect"
+      },
+      {
+        "label": "+19 Stamina"
+      },
+      {
+        "label": "+14 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18870::::::::::0|h[Helm of the Lifegiver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helm-of-the-lifegiver"
+  },
+  {
+    "itemId": 19875,
+    "name": "Bloodstained Coif",
+    "icon": "inv_helmet_39",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 38739,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Bloodstained Coif"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "337 Armor"
+      },
+      {
+        "label": "+14 Intellect"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "+28 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19875::::::::::0|h[Bloodstained Coif]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodstained-coif"
+  },
+  {
+    "itemId": 20134,
+    "name": "Skyfury Helm",
+    "icon": "inv_helmet_57",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 32440,
+    "quality": "Epic",
+    "itemLevel": 62,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Skyfury Helm"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "324 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+12 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8258,
+          "name": "The Darkreaver Menace",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:20134::::::::::0|h[Skyfury Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "skyfury-helm"
+  },
+  {
+    "itemId": 21366,
+    "name": "Striker's Diadem",
+    "icon": "inv_helmet_73",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 86939,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Striker's Diadem"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "416 Armor"
+      },
+      {
+        "label": "+29 Agility"
+      },
+      {
+        "label": "+18 Intellect"
+      },
+      {
+        "label": "+26 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8657,
+          "name": "Striker's Diadem",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21366::::::::::0|h[Striker's Diadem]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "strikers-diadem"
+  },
+  {
+    "itemId": 21372,
+    "name": "Stormcaller's Diadem",
+    "icon": "inv_helmet_73",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 80445,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Stormcaller's Diadem"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "416 Armor"
+      },
+      {
+        "label": "+24 Intellect"
+      },
+      {
+        "label": "+24 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8623,
+          "name": "Stormcaller's Diadem",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21372::::::::::0|h[Stormcaller's Diadem]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormcallers-diadem"
+  },
+  {
+    "itemId": 21804,
+    "name": "Coif of Elemental Fury",
+    "icon": "inv_helmet_24",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 31999,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Coif of Elemental Fury"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "323 Armor"
+      },
+      {
+        "label": "+18 Intellect"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:21804::::::::::0|h[Coif of Elemental Fury]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "coif-of-elemental-fury"
+  },
+  {
+    "itemId": 22013,
+    "name": "Beastmaster's Cap",
+    "icon": "inv_helmet_24",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 29212,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Beastmaster's Cap"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "314 Armor"
+      },
+      {
+        "label": "+22 Agility"
+      },
+      {
+        "label": "+21 Stamina"
+      },
+      {
+        "label": "+12 IntellectDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9000,
+          "name": "Saving the Best for Last",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 9008,
+          "name": "Saving the Best for Last",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22013::::::::::0|h[Beastmaster's Cap]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "beastmasters-cap"
+  },
+  {
+    "itemId": 22097,
+    "name": "Coif of The Five Thunders",
+    "icon": "inv_helmet_04",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 30427,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Coif of The Five Thunders"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "314 Armor"
+      },
+      {
+        "label": "+16 Intellect"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9011,
+          "name": "Saving the Best for Last",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22097::::::::::0|h[Coif of The Five Thunders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "coif-of-the-five-thunders"
+  },
+  {
+    "itemId": 22438,
+    "name": "Cryptstalker Headpiece",
+    "icon": "inv_helmet_15",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 111521,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Cryptstalker Headpiece"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "449 Armor"
+      },
+      {
+        "label": "+31 Agility"
+      },
+      {
+        "label": "+30 Stamina"
+      },
+      {
+        "label": "+12 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9056,
+          "name": "Cryptstalker Headpiece",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22438::::::::::0|h[Cryptstalker Headpiece]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cryptstalker-headpiece"
+  },
+  {
+    "itemId": 22466,
+    "name": "Earthshatter Headpiece",
+    "icon": "inv_helmet_15",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 114949,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Earthshatter Headpiece"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "449 Armor"
+      },
+      {
+        "label": "+26 Stamina"
+      },
+      {
+        "label": "+28 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9070,
+          "name": "Earthshatter Headpiece",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22466::::::::::0|h[Earthshatter Headpiece]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthshatter-headpiece"
+  },
+  {
+    "itemId": 23033,
+    "name": "Icy Scale Coif",
+    "icon": "inv_helmet_20",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 93164,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Icy Scale Coif"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "425 Armor"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+18 Agility"
+      },
+      {
+        "label": "+44 Frost"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:23033::::::::::0|h[Icy Scale Coif]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "icy-scale-coif"
+  },
+  {
+    "itemId": 23251,
+    "name": "Champion's Chain Helm",
+    "icon": "inv_helmet_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 18384,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Champion's Chain Helm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "337 Armor"
+      },
+      {
+        "label": "+18 Agility"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+9 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23251::::::::::0|h[Champion's Chain Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "champions-chain-helm"
+  },
+  {
+    "itemId": 23259,
+    "name": "Champion's Mail Headguard",
+    "icon": "inv_helmet_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 19454,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Champion's Mail Headguard"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "337 Armor"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+16 Intellect"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23259::::::::::0|h[Champion's Mail Headguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "champions-mail-headguard"
+  },
+  {
+    "itemId": 47120,
+    "name": "Earthfury Crown",
+    "icon": "inv_erthelm_v2",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 39111,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Earthfury Crown"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "343 Armor"
+      },
+      {
+        "label": "+20 Agility"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+11 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41509,
+          "name": "Earthfury Head",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47120::::::::::0|h[Earthfury Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthfury-crown"
+  },
+  {
+    "itemId": 47128,
+    "name": "Earthfury Visor",
+    "icon": "inv_erthelm_v3",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 39189,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Earthfury Visor"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "343 Armor"
+      },
+      {
+        "label": "+20 Intellect"
+      },
+      {
+        "label": "+21 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41509,
+          "name": "Earthfury Head",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47128::::::::::0|h[Earthfury Visor]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthfury-visor"
+  },
+  {
+    "itemId": 47136,
+    "name": "Crown of Ten Storms",
+    "icon": "inv_tenhead_v3",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 68314,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Crown of Ten Storms"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "392 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+9 Agility"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+10 Frost"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41501,
+          "name": "Head of Ten Storms",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47136::::::::::0|h[Crown of Ten Storms]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crown-of-ten-storms"
+  },
+  {
+    "itemId": 47144,
+    "name": "Helmet of Ten Storms",
+    "icon": "inv_tenhead_v2",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 68314,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helmet of Ten Storms"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "392 Armor"
+      },
+      {
+        "label": "+22 Intellect"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+10 Frost"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41501,
+          "name": "Head of Ten Storms",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47144::::::::::0|h[Helmet of Ten Storms]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helmet-of-ten-storms"
+  },
+  {
+    "itemId": 47152,
+    "name": "Stormcaller's Crown",
+    "icon": "inv_helmet_73",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 80445,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Stormcaller's Crown"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "416 Armor"
+      },
+      {
+        "label": "+24 Agility"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+36 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8623,
+          "name": "Stormcaller's Diadem",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47152::::::::::0|h[Stormcaller's Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormcallers-crown"
+  },
+  {
+    "itemId": 47157,
+    "name": "Stormcaller's Helmet",
+    "icon": "inv_helmet_73",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 80445,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Stormcaller's Helmet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "416 Armor"
+      },
+      {
+        "label": "+24 Intellect"
+      },
+      {
+        "label": "+26 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8623,
+          "name": "Stormcaller's Diadem",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47157::::::::::0|h[Stormcaller's Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormcallers-helmet"
+  },
+  {
+    "itemId": 47162,
+    "name": "Earthshatter Crown",
+    "icon": "inv_helmet_15",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 114849,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Earthshatter Crown"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "449 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+16 Agility"
+      },
+      {
+        "label": "+19 Intellect"
+      },
+      {
+        "label": "+22 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9070,
+          "name": "Earthshatter Headpiece",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47162::::::::::0|h[Earthshatter Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthshatter-crown"
+  },
+  {
+    "itemId": 47171,
+    "name": "Earthshatter Helmet",
+    "icon": "inv_helmet_15",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 114949,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Earthshatter Helmet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "449 Armor"
+      },
+      {
+        "label": "+24 Intellect"
+      },
+      {
+        "label": "+25 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9070,
+          "name": "Earthshatter Headpiece",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47171::::::::::0|h[Earthshatter Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthshatter-helmet"
+  },
+  {
+    "itemId": 47180,
+    "name": "Stormhowl Crown",
+    "icon": "inv_stormhowl_crown",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 145005,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Stormhowl Crown"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "469 Armor"
+      },
+      {
+        "label": "+22 Strength"
+      },
+      {
+        "label": "+26 Agility"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+17 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41614,
+          "name": "Stormhowl Helm",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47180::::::::::0|h[Stormhowl Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormhowl-crown"
+  },
+  {
+    "itemId": 47186,
+    "name": "Stormhowl Helmet",
+    "icon": "inv_stormhowl_crown",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 145005,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Stormhowl Helmet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "469 Armor"
+      },
+      {
+        "label": "+25 Intellect"
+      },
+      {
+        "label": "+25 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41614,
+          "name": "Stormhowl Helm",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47186::::::::::0|h[Stormhowl Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormhowl-helmet"
+  },
+  {
+    "itemId": 47192,
+    "name": "Stormhowl Headpiece",
+    "icon": "inv_stormhowl_crown",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 145005,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Stormhowl Headpiece"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "469 Armor"
+      },
+      {
+        "label": "+32 Intellect"
+      },
+      {
+        "label": "+27 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41614,
+          "name": "Stormhowl Helm",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47192::::::::::0|h[Stormhowl Headpiece]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormhowl-headpiece"
+  },
+  {
+    "itemId": 47318,
+    "name": "Ravenstalker Headpiece",
+    "icon": "inv_ravenstalker_headpiece",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 144936,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Ravenstalker Headpiece"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "469 Armor"
+      },
+      {
+        "label": "+35 Agility"
+      },
+      {
+        "label": "+28 Stamina"
+      },
+      {
+        "label": "+21 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41608,
+          "name": "Ravenstalker Helm",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47318::::::::::0|h[Ravenstalker Headpiece]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ravenstalker-headpiece"
+  },
+  {
+    "itemId": 55083,
+    "name": "Crown of the Wildpack",
+    "icon": "inv_helmet_24",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 143687,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Crown of the Wildpack"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "449 Armor"
+      },
+      {
+        "label": "+40 Agility"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+11 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55083::::::::::0|h[Crown of the Wildpack]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crown-of-the-wildpack"
+  },
+  {
+    "itemId": 60007,
+    "name": "Towerforge Crown",
+    "icon": "inv_helmet_37",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 39228,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Towerforge Crown"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "343 Armor"
+      },
+      {
+        "label": "+25 Strength"
+      },
+      {
+        "label": "+27 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:60007::::::::::0|h[Towerforge Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "towerforge-crown"
+  },
+  {
+    "itemId": 60357,
+    "name": "Bloody Gladiator's Helmet",
+    "icon": "inv_helmet_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 14614,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Bloody Gladiator's Helmet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "393 Armor"
+      },
+      {
+        "label": "+14 Intellect"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "+38 Attack"
+      },
+      {
+        "label": "+20 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:60357::::::::::0|h[Bloody Gladiator's Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloody-gladiators-helmet"
+  },
+  {
+    "itemId": 60946,
+    "name": "Crown of Corthan",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 11608,
+    "quality": "Rare",
+    "itemLevel": 46,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Crown of Corthan"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "238 Armor"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "+36 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40717,
+          "name": "Undoing the Curse",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:60946::::::::::0|h[Crown of Corthan]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crown-of-corthan"
+  },
+  {
+    "itemId": 83216,
+    "name": "Blood-Spattered Helm",
+    "icon": "inv_helmet_17",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6443,
+    "quality": "Rare",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Blood-Spattered Helm"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "206 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83216::::::::::0|h[Blood-Spattered Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blood-spattered-helm"
+  },
+  {
+    "itemId": 83258,
+    "name": "Coif of the Lost Soul",
+    "icon": "inv_helmet_39",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 36815,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Coif of the Lost Soul"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "324 Armor"
+      },
+      {
+        "label": "+19 Stamina"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "+30 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83258::::::::::0|h[Coif of the Lost Soul]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "coif-of-the-lost-soul"
+  },
+  {
+    "itemId": 83565,
+    "name": "Blackstone Crown",
+    "icon": "inv_helmet_19",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 44873,
+    "quality": "Epic",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Blackstone Crown"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "473 Armor"
+      },
+      {
+        "label": "+15 Agility"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+34 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:83565::::::::::0|h[Blackstone Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blackstone-crown"
+  },
+  {
+    "itemId": 84005,
+    "name": "Blindfold of the Scarlet Marksman",
+    "icon": "inv_misc_bandana_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 91152,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Blindfold of the Scarlet Marksman"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "425 Armor"
+      },
+      {
+        "label": "+30 Agility"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:84005::::::::::0|h[Blindfold of the Scarlet Marksman]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blindfold-of-the-scarlet-marksman"
+  },
+  {
+    "itemId": 4078,
+    "name": "Chief Brigadier Coif",
+    "icon": "inv_helmet_29",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4672,
+    "quality": "Uncommon",
+    "itemLevel": 39,
+    "requiredLevel": 34,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Chief Brigadier Coif"
+      },
+      {
+        "label": "Requires Level 34"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "184 Armor"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4078::::::::::0|h[Chief Brigadier Coif]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chief-brigadier-coif"
+  },
+  {
+    "itemId": 4080,
+    "name": "Blackforge Cowl",
+    "icon": "inv_helmet_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7469,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Blackforge Cowl"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "202 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+7 Intellect"
+      },
+      {
+        "label": "+7 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4080::::::::::0|h[Blackforge Cowl]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blackforge-cowl"
+  },
+  {
+    "itemId": 5819,
+    "name": "Sunblaze Coif",
+    "icon": "inv_helmet_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3201,
+    "quality": "Rare",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Sunblaze Coif"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "185 Armor"
+      },
+      {
+        "label": "+10 Spirit"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:5819::::::::::0|h[Sunblaze Coif]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sunblaze-coif"
+  },
+  {
+    "itemId": 6389,
+    "name": "Glimmering Mail Coif",
+    "icon": "inv_helmet_39",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2245,
+    "quality": "Uncommon",
+    "itemLevel": 31,
+    "requiredLevel": 26,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Glimmering Mail Coif"
+      },
+      {
+        "label": "Requires Level 26"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "163 Armor"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+6 Agility"
+      },
+      {
+        "label": "+6 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:6389::::::::::0|h[Glimmering Mail Coif]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "glimmering-mail-coif"
+  },
+  {
+    "itemId": 6971,
+    "name": "Fire Hardened Coif",
+    "icon": "inv_helmet_39",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2221,
+    "quality": "Uncommon",
+    "itemLevel": 31,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Fire Hardened Coif"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "163 Armor"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1706,
+          "name": "Grimand's Armor",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6971::::::::::0|h[Fire Hardened Coif]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fire-hardened-coif"
+  },
+  {
+    "itemId": 7130,
+    "name": "Brutal Helm",
+    "icon": "inv_helmet_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2328,
+    "quality": "Uncommon",
+    "itemLevel": 31,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Brutal Helm"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "163 Armor"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1845,
+          "name": "Brutal Helm",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:7130::::::::::0|h[Brutal Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brutal-helm"
+  },
+  {
+    "itemId": 7488,
+    "name": "Captain's Circlet",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6038,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Captain's Circlet"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "193 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7488::::::::::0|h[Captain's Circlet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "captains-circlet"
+  },
+  {
+    "itemId": 7540,
+    "name": "Champion's Helmet",
+    "icon": "inv_helmet_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 8845,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Champion's Helmet"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "210 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7540::::::::::0|h[Champion's Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "champions-helmet"
+  },
+  {
+    "itemId": 7719,
+    "name": "Raging Berserker's Helm",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6863,
+    "quality": "Rare",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Raging Berserker's Helm"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "213 Armor"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+13 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:7719::::::::::0|h[Raging Berserker's Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "raging-berserkers-helm"
+  },
+  {
+    "itemId": 7915,
+    "name": "Barbaric Iron Helm",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3337,
+    "quality": "Uncommon",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Barbaric Iron Helm"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "173 Armor"
+      },
+      {
+        "label": "+9 Agility"
+      },
+      {
+        "label": "+9 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7915::::::::::0|h[Barbaric Iron Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "barbaric-iron-helm"
+  },
+  {
+    "itemId": 8270,
+    "name": "Ebonhold Helmet",
+    "icon": "inv_helmet_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 14351,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Ebonhold Helmet"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "242 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+15 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8270::::::::::0|h[Ebonhold Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ebonhold-helmet"
+  },
+  {
+    "itemId": 9932,
+    "name": "Brigade Circlet",
+    "icon": "inv_helmet_11",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6995,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 39,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Brigade Circlet"
+      },
+      {
+        "label": "Requires Level 39"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "199 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9932::::::::::0|h[Brigade Circlet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brigade-circlet"
+  },
+  {
+    "itemId": 10198,
+    "name": "Crusader's Helm",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 12167,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Crusader's Helm"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "234 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10198::::::::::0|h[Crusader's Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crusaders-helm"
+  },
+  {
+    "itemId": 10235,
+    "name": "Engraved Helm",
+    "icon": "inv_helmet_08",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 16896,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Engraved Helm"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "258 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10235::::::::::0|h[Engraved Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "engraved-helm"
+  },
+  {
+    "itemId": 10408,
+    "name": "Banded Helm",
+    "icon": "inv_helmet_36",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2390,
+    "quality": "Uncommon",
+    "itemLevel": 32,
+    "requiredLevel": 27,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Banded Helm"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "166 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10408::::::::::0|h[Banded Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "banded-helm"
+  },
+  {
+    "itemId": 10542,
+    "name": "Goblin Mining Helmet",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 5255,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Goblin Mining Helmet"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "190 Armor"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10542::::::::::0|h[Goblin Mining Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "goblin-mining-helmet"
+  },
+  {
+    "itemId": 10743,
+    "name": "Drakefire Headguard",
+    "icon": "inv_helmet_17",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 10830,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Drakefire Headguard"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "226 Armor"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+9 Intellect"
+      },
+      {
+        "label": "+15 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 3463,
+          "name": "Set Them Ablaze!",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:10743::::::::::0|h[Drakefire Headguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "drakefire-headguard"
+  },
+  {
+    "itemId": 10833,
+    "name": "Horns of Eranikus",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 8597,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Horns of Eranikus"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "271 Armor"
+      },
+      {
+        "label": "+11 Spirit"
+      },
+      {
+        "label": "+27 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:10833::::::::::0|h[Horns of Eranikus]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "horns-of-eranikus"
+  },
+  {
+    "itemId": 11124,
+    "name": "Helm of Exile",
+    "icon": "inv_helmet_21",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 16980,
+    "quality": "Rare",
+    "itemLevel": 55,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helm of Exile"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "266 Armor"
+      },
+      {
+        "label": "+18 Spirit"
+      },
+      {
+        "label": "+18 Intellect"
+      },
+      {
+        "label": "+11 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1446,
+          "name": "Jammal'an the Prophet",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:11124::::::::::0|h[Helm of Exile]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helm-of-exile"
+  },
+  {
+    "itemId": 11729,
+    "name": "Savage Gladiator Helm",
+    "icon": "inv_helmet_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 19073,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Savage Gladiator Helm"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "275 Armor"
+      },
+      {
+        "label": "+28 Stamina"
+      },
+      {
+        "label": "+12 AgilityDurability"
+      },
+      {
+        "label": "+30 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11729::::::::::0|h[Savage Gladiator Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "savage-gladiator-helm"
+  },
+  {
+    "itemId": 11913,
+    "name": "Clayridge Helm",
+    "icon": "inv_helmet_56",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 14044,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Clayridge Helm"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "242 Armor"
+      },
+      {
+        "label": "+16 Agility"
+      },
+      {
+        "label": "+15 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 4491,
+          "name": "A Little Help From My Friends",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:11913::::::::::0|h[Clayridge Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "clayridge-helm"
+  },
+  {
+    "itemId": 12018,
+    "name": "Conservator Helm",
+    "icon": "inv_helmet_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 13842,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Conservator Helm"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "238 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+15 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 4242,
+          "name": "Abandoned Hope",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:12018::::::::::0|h[Conservator Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "conservator-helm"
+  },
+  {
+    "itemId": 12636,
+    "name": "Helm of the Great Chief",
+    "icon": "inv_helmet_24",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 24285,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helm of the Great Chief"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "362 Armor"
+      },
+      {
+        "label": "+26 Stamina"
+      },
+      {
+        "label": "+12 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12636::::::::::0|h[Helm of the Great Chief]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helm-of-the-great-chief"
+  },
+  {
+    "itemId": 12953,
+    "name": "Dragoneye Coif",
+    "icon": "inv_helmet_39",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 22374,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Dragoneye Coif"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "288 Armor"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "+38 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12953::::::::::0|h[Dragoneye Coif]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dragoneye-coif"
+  },
+  {
+    "itemId": 13127,
+    "name": "Frostreaver Crown",
+    "icon": "inv_helmet_24",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3021,
+    "quality": "Rare",
+    "itemLevel": 32,
+    "requiredLevel": 27,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Frostreaver Crown"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "182 Armor"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+4 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13127::::::::::0|h[Frostreaver Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "frostreaver-crown"
+  },
+  {
+    "itemId": 13128,
+    "name": "High Bergg Helm",
+    "icon": "inv_helmet_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 10543,
+    "quality": "Rare",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "High Bergg Helm"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "231 Armor"
+      },
+      {
+        "label": "+15 Spirit"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+15 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13128::::::::::0|h[High Bergg Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-bergg-helm"
+  },
+  {
+    "itemId": 13359,
+    "name": "Crown of Tyranny",
+    "icon": "inv_helmet_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 25336,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Crown of Tyranny"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "301 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13359::::::::::0|h[Crown of Tyranny]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crown-of-tyranny"
+  },
+  {
+    "itemId": 14765,
+    "name": "Enduring Circlet",
+    "icon": "inv_crown_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4427,
+    "quality": "Uncommon",
+    "itemLevel": 38,
+    "requiredLevel": 33,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Enduring Circlet"
+      },
+      {
+        "label": "Requires Level 33"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "181 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14765::::::::::0|h[Enduring Circlet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "enduring-circlet"
+  },
+  {
+    "itemId": 14804,
+    "name": "Bloodlust Helm",
+    "icon": "inv_helmet_08",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 16296,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Bloodlust Helm"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "254 Armor"
+      },
+      {
+        "label": "+18 Intellect"
+      },
+      {
+        "label": "+14 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14804::::::::::0|h[Bloodlust Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodlust-helm"
+  },
+  {
+    "itemId": 15602,
+    "name": "Ancient Crown",
+    "icon": "inv_helmet_11",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7211,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Ancient Crown"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "202 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15602::::::::::0|h[Ancient Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ancient-crown"
+  },
+  {
+    "itemId": 15615,
+    "name": "Bonelink Helmet",
+    "icon": "inv_helmet_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7584,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Bonelink Helmet"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "206 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15615::::::::::0|h[Bonelink Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bonelink-helmet"
+  },
+  {
+    "itemId": 15634,
+    "name": "Formidable Circlet",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 11441,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Formidable Circlet"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "230 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15634::::::::::0|h[Formidable Circlet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "formidable-circlet"
+  },
+  {
+    "itemId": 16428,
+    "name": "Lieutenant Commander's Chain Helmet",
+    "icon": "inv_helmet_21",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 12914,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Lieutenant Commander's Chain Helmet"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "301 Armor"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+15 Agility"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "+12 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16428::::::::::0|h[Lieutenant Commander's Chain Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lieutenant-commanders-chain-helmet"
+  },
+  {
+    "itemId": 18319,
+    "name": "Fervent Helm",
+    "icon": "inv_helmet_38",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 20989,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Fervent Helm"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "279 Armor"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18319::::::::::0|h[Fervent Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fervent-helm"
+  },
+  {
+    "itemId": 18479,
+    "name": "Carrion Scorpid Helm",
+    "icon": "inv_helmet_11",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 17791,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Carrion Scorpid Helm"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "262 Armor"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:18479::::::::::0|h[Carrion Scorpid Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "carrion-scorpid-helm"
+  },
+  {
+    "itemId": 18807,
+    "name": "Helm of Latent Power",
+    "icon": "inv_helmet_24",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 25796,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helm of Latent Power"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "297 Armor"
+      },
+      {
+        "label": "+14 Intellect"
+      },
+      {
+        "label": "+12 Spirit"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8258,
+          "name": "The Darkreaver Menace",
+          "faction": "Horde"
+        },
+        {
+          "questId": 7668,
+          "name": "The Darkreaver Menace",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:18807::::::::::0|h[Helm of Latent Power]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helm-of-latent-power"
+  },
+  {
+    "itemId": 23306,
+    "name": "Lieutenant Commander's Chain Helm",
+    "icon": "inv_helmet_21",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 18533,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Lieutenant Commander's Chain Helm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "337 Armor"
+      },
+      {
+        "label": "+18 Agility"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+9 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23306::::::::::0|h[Lieutenant Commander's Chain Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lieutenant-commanders-chain-helm"
+  },
+  {
+    "itemId": 55054,
+    "name": "Prismatic Scale Barbute",
+    "icon": "inv_helmet_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 33250,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Prismatic Scale Barbute"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "311 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+12 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:55054::::::::::0|h[Prismatic Scale Barbute]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "prismatic-scale-barbute"
+  },
+  {
+    "itemId": 55526,
+    "name": "Otherworldly Coif",
+    "icon": "inv_helmet_20",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 44300,
+    "quality": "Rare",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Otherworldly Coif"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "372 Armor"
+      },
+      {
+        "label": "+22 Stamina"
+      },
+      {
+        "label": "+16 Intellect"
+      },
+      {
+        "label": "+30 Arcane"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:55526::::::::::0|h[Otherworldly Coif]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "otherworldly-coif"
+  },
+  {
+    "itemId": 58272,
+    "name": "Kor'kron Crown",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 5646,
+    "quality": "Rare",
+    "itemLevel": 40,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Kor'kron Crown"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "206 Armor"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41834,
+          "name": "Storm's End",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:58272::::::::::0|h[Kor'kron Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "korkron-crown"
+  },
+  {
+    "itemId": 58295,
+    "name": "Fel-Touched Crown",
+    "icon": "inv_helmet_11",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6218,
+    "quality": "Rare",
+    "itemLevel": 39,
+    "requiredLevel": 34,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Fel-Touched Crown"
+      },
+      {
+        "label": "Requires Level 34"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "173 Armor"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:58295::::::::::0|h[Fel-Touched Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fel-touched-crown"
+  },
+  {
+    "itemId": 60428,
+    "name": "Felguard's Visage",
+    "icon": "ability_ambush",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 0,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Felguard's Visage"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "301 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "+18 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60428::::::::::0|h[Felguard's Visage]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "felguards-visage"
+  },
+  {
+    "itemId": 60566,
+    "name": "Visor of Command",
+    "icon": "inv_helmet_11",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 8707,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Visor of Command"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "271 Armor"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60566::::::::::0|h[Visor of Command]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "visor-of-command"
+  },
+  {
+    "itemId": 60573,
+    "name": "Hateforge Helmet",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 19407,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Hateforge Helmet"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "279 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+19 StaminaDurability"
+      },
+      {
+        "label": "+20 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60573::::::::::0|h[Hateforge Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hateforge-helmet"
+  },
+  {
+    "itemId": 60694,
+    "name": "Crown of Grobi",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 23242,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Crown of Grobi"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "302 Armor"
+      },
+      {
+        "label": "+30 Agility"
+      },
+      {
+        "label": "+7 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40489,
+          "name": "Assaulting Hateforge",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:60694::::::::::0|h[Crown of Grobi]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crown-of-grobi"
+  },
+  {
+    "itemId": 60901,
+    "name": "Centaur Skullcap",
+    "icon": "inv_helmet_36",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6087,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 38,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Centaur Skullcap"
+      },
+      {
+        "label": "Requires Level 38"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "198 Armor"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+4 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:60901::::::::::0|h[Centaur Skullcap]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "centaur-skullcap"
+  },
+  {
+    "itemId": 61053,
+    "name": "Timeloop Headguard",
+    "icon": "inv_helmet_24",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 30372,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Timeloop Headguard"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "317 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61053::::::::::0|h[Timeloop Headguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "timeloop-headguard"
+  },
+  {
+    "itemId": 82952,
+    "name": "X-53 Ranger Ocular Implants",
+    "icon": "inv_gizmo_newgoggles",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 25821,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "X-53 Ranger Ocular Implants"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "301 Armor"
+      },
+      {
+        "label": "+15 Agility"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 80605,
+          "name": "The First Opening of The Dark Portal",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:82952::::::::::0|h[X-53 Ranger Ocular Implants]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "x-53-ranger-ocular-implants"
+  },
+  {
+    "itemId": 83443,
+    "name": "The Crown of Shattering",
+    "icon": "inv_helmet_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 27681,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "The Crown of Shattering"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "311 Armor"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83443::::::::::0|h[The Crown of Shattering]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-crown-of-shattering"
+  },
+  {
+    "itemId": 83492,
+    "name": "Raider Captain's Hat",
+    "icon": "inv_helmet_66",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 12500,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Raider Captain's Hat"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "243 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "+22 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83492::::::::::0|h[Raider Captain's Hat]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "raider-captains-hat"
+  },
+  {
+    "itemId": 1282,
+    "name": "Sparkmetal Coif",
+    "icon": "inv_helmet_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2825,
+    "quality": "Uncommon",
+    "itemLevel": 33,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Sparkmetal Coif"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "168 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+8 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 55,
+          "name": "Morbent Fel",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:1282::::::::::0|h[Sparkmetal Coif]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sparkmetal-coif"
+  },
+  {
+    "itemId": 1624,
+    "name": "Skullsplitter Helm",
+    "icon": "inv_helmet_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6172,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 38,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Skullsplitter Helm"
+      },
+      {
+        "label": "Requires Level 38"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "196 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+11 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1624::::::::::0|h[Skullsplitter Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "skullsplitter-helm"
+  },
+  {
+    "itemId": 3836,
+    "name": "Green Iron Helm",
+    "icon": "inv_helmet_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3053,
+    "quality": "Uncommon",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Green Iron Helm"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "171 Armor"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+5 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2753,
+          "name": "Trampled Under Foot",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3836::::::::::0|h[Green Iron Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "green-iron-helm"
+  },
+  {
+    "itemId": 3837,
+    "name": "Golden Scale Coif",
+    "icon": "inv_helmet_36",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4405,
+    "quality": "Uncommon",
+    "itemLevel": 38,
+    "requiredLevel": 33,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Golden Scale Coif"
+      },
+      {
+        "label": "Requires Level 33"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "181 Armor"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3837::::::::::0|h[Golden Scale Coif]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "golden-scale-coif"
+  },
+  {
+    "itemId": 4077,
+    "name": "Mail Combat Headguard",
+    "icon": "inv_crown_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3298,
+    "quality": "Uncommon",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Mail Combat Headguard"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "173 Armor"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+9 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4077::::::::::0|h[Mail Combat Headguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mail-combat-headguard"
+  },
+  {
+    "itemId": 6686,
+    "name": "Tusken Helm",
+    "icon": "inv_helmet_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2627,
+    "quality": "Uncommon",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Tusken Helm"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "168 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:6686::::::::::0|h[Tusken Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tusken-helm"
+  },
+  {
+    "itemId": 7420,
+    "name": "Phalanx Headguard",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2658,
+    "quality": "Uncommon",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Phalanx Headguard"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "168 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7420::::::::::0|h[Phalanx Headguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "phalanx-headguard"
+  },
+  {
+    "itemId": 7456,
+    "name": "Knight's Headguard",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4139,
+    "quality": "Uncommon",
+    "itemLevel": 38,
+    "requiredLevel": 33,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Knight's Headguard"
+      },
+      {
+        "label": "Requires Level 33"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "181 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7456::::::::::0|h[Knight's Headguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knights-headguard"
+  },
+  {
+    "itemId": 7931,
+    "name": "Mithril Coif",
+    "icon": "inv_helmet_35",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7955,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Mithril Coif"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "206 Armor"
+      },
+      {
+        "label": "+13 Spirit"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2771,
+          "name": "A Good Head On Your Shoulders",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:7931::::::::::0|h[Mithril Coif]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mithril-coif"
+  },
+  {
+    "itemId": 8131,
+    "name": "Myrmidon's Helm",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 10115,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Myrmidon's Helm"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "222 Armor"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+14 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8131::::::::::0|h[Myrmidon's Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "myrmidons-helm"
+  },
+  {
+    "itemId": 8191,
+    "name": "Turtle Scale Helm",
+    "icon": "inv_helmet_40",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7780,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Turtle Scale Helm"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "206 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+10 Spirit"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2852,
+          "name": "Wild Leather Leggings",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 2859,
+          "name": "Wild Leather Leggings",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:8191::::::::::0|h[Turtle Scale Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "turtle-scale-helm"
+  },
+  {
+    "itemId": 8208,
+    "name": "Tough Scorpid Helm",
+    "icon": "inv_helmet_20",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 10272,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Tough Scorpid Helm"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "222 Armor"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8208::::::::::0|h[Tough Scorpid Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tough-scorpid-helm"
+  },
+  {
+    "itemId": 8308,
+    "name": "Hero's Band",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 18703,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Hero's Band"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "262 Armor"
+      },
+      {
+        "label": "+9 Agility"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+17 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8308::::::::::0|h[Hero's Band]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heros-band"
+  },
+  {
+    "itemId": 9870,
+    "name": "Renegade Circlet",
+    "icon": "inv_crown_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3686,
+    "quality": "Uncommon",
+    "itemLevel": 36,
+    "requiredLevel": 31,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Renegade Circlet"
+      },
+      {
+        "label": "Requires Level 31"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "176 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9870::::::::::0|h[Renegade Circlet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "renegade-circlet"
+  },
+  {
+    "itemId": 9902,
+    "name": "Jazeraint Helm",
+    "icon": "inv_helmet_37",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 5357,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 36,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Jazeraint Helm"
+      },
+      {
+        "label": "Requires Level 36"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "190 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9902::::::::::0|h[Jazeraint Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jazeraint-helm"
+  },
+  {
+    "itemId": 9963,
+    "name": "Warmonger's Circlet",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 9211,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Warmonger's Circlet"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "214 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9963::::::::::0|h[Warmonger's Circlet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warmongers-circlet"
+  },
+  {
+    "itemId": 10083,
+    "name": "Lord's Crown",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 10745,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Lord's Crown"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "226 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10083::::::::::0|h[Lord's Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lords-crown"
+  },
+  {
+    "itemId": 10123,
+    "name": "Ornate Circlet",
+    "icon": "inv_crown_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 15239,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Ornate Circlet"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "250 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10123::::::::::0|h[Ornate Circlet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ornate-circlet"
+  },
+  {
+    "itemId": 10160,
+    "name": "Mercurial Circlet",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 19948,
+    "quality": "Uncommon",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Mercurial Circlet"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "270 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10160::::::::::0|h[Mercurial Circlet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mercurial-circlet"
+  },
+  {
+    "itemId": 10272,
+    "name": "Masterwork Circlet",
+    "icon": "inv_jewelry_ring_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 20865,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Masterwork Circlet"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "274 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10272::::::::::0|h[Masterwork Circlet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "masterwork-circlet"
+  },
+  {
+    "itemId": 12417,
+    "name": "Radiant Circlet",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 17034,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Radiant Circlet"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "258 Armor"
+      },
+      {
+        "label": "+18 Frost"
+      },
+      {
+        "label": "+18 Shadow"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9183,
+          "name": "Craftsman's Writ - Radiant Circlet",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:12417::::::::::0|h[Radiant Circlet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "radiant-circlet"
+  },
+  {
+    "itemId": 14753,
+    "name": "Slayer's Skullcap",
+    "icon": "inv_helmet_59",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2610,
+    "quality": "Uncommon",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Slayer's Skullcap"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "168 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14753::::::::::0|h[Slayer's Skullcap]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "slayers-skullcap"
+  },
+  {
+    "itemId": 14774,
+    "name": "Ravager's Crown",
+    "icon": "inv_helmet_19",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6252,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 38,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Ravager's Crown"
+      },
+      {
+        "label": "Requires Level 38"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "196 Armor"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14774::::::::::0|h[Ravager's Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ravagers-crown"
+  },
+  {
+    "itemId": 14785,
+    "name": "Khan's Helmet",
+    "icon": "inv_helmet_12",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 9558,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Khan's Helmet"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "214 Armor"
+      },
+      {
+        "label": "+16 Intellect"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+3 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14785::::::::::0|h[Khan's Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "khans-helmet"
+  },
+  {
+    "itemId": 14795,
+    "name": "Protector Helm",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 12690,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Protector Helm"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "234 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+7 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14795::::::::::0|h[Protector Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "protector-helm"
+  },
+  {
+    "itemId": 14814,
+    "name": "Warstrike Helmet",
+    "icon": "inv_helmet_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 21593,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Warstrike Helmet"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "274 Armor"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+3 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14814::::::::::0|h[Warstrike Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warstrike-helmet"
+  },
+  {
+    "itemId": 15080,
+    "name": "Heavy Scorpid Helm",
+    "icon": "inv_helmet_20",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 18230,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Heavy Scorpid Helm"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "258 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+11 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15080::::::::::0|h[Heavy Scorpid Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-scorpid-helm"
+  },
+  {
+    "itemId": 15533,
+    "name": "Sentry's Headdress",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2290,
+    "quality": "Uncommon",
+    "itemLevel": 31,
+    "requiredLevel": 26,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Sentry's Headdress"
+      },
+      {
+        "label": "Requires Level 26"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "163 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15533::::::::::0|h[Sentry's Headdress]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sentrys-headdress"
+  },
+  {
+    "itemId": 15540,
+    "name": "Wicked Chain Helmet",
+    "icon": "inv_helmet_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2827,
+    "quality": "Uncommon",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Wicked Chain Helmet"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "171 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15540::::::::::0|h[Wicked Chain Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wicked-chain-helmet"
+  },
+  {
+    "itemId": 15550,
+    "name": "Thick Scale Crown",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3316,
+    "quality": "Uncommon",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Thick Scale Crown"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "173 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15550::::::::::0|h[Thick Scale Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thick-scale-crown"
+  },
+  {
+    "itemId": 15558,
+    "name": "Pillager's Crown",
+    "icon": "inv_crown_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4128,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 32,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Pillager's Crown"
+      },
+      {
+        "label": "Requires Level 32"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "178 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15558::::::::::0|h[Pillager's Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pillagers-crown"
+  },
+  {
+    "itemId": 15572,
+    "name": "Marauder's Circlet",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4714,
+    "quality": "Uncommon",
+    "itemLevel": 39,
+    "requiredLevel": 34,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Marauder's Circlet"
+      },
+      {
+        "label": "Requires Level 34"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "184 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15572::::::::::0|h[Marauder's Circlet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "marauders-circlet"
+  },
+  {
+    "itemId": 15580,
+    "name": "Sparkleshell Headwrap",
+    "icon": "inv_helmet_39",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4871,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Sparkleshell Headwrap"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "187 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15580::::::::::0|h[Sparkleshell Headwrap]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sparkleshell-headwrap"
+  },
+  {
+    "itemId": 15593,
+    "name": "Steadfast Coronet",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 5532,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Steadfast Coronet"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "193 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15593::::::::::0|h[Steadfast Coronet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "steadfast-coronet"
+  },
+  {
+    "itemId": 15623,
+    "name": "Gryphon Mail Crown",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 10715,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Gryphon Mail Crown"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "222 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15623::::::::::0|h[Gryphon Mail Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gryphon-mail-crown"
+  },
+  {
+    "itemId": 15645,
+    "name": "Ironhide Helmet",
+    "icon": "inv_helmet_08",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 14577,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Ironhide Helmet"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "242 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15645::::::::::0|h[Ironhide Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ironhide-helmet"
+  },
+  {
+    "itemId": 15651,
+    "name": "Merciless Crown",
+    "icon": "inv_crown_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 15785,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Merciless Crown"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "246 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15651::::::::::0|h[Merciless Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "merciless-crown"
+  },
+  {
+    "itemId": 15664,
+    "name": "Impenetrable Helmet",
+    "icon": "inv_helmet_13",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 19071,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Impenetrable Helmet"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "262 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15664::::::::::0|h[Impenetrable Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "impenetrable-helmet"
+  },
+  {
+    "itemId": 15670,
+    "name": "Magnificent Helmet",
+    "icon": "inv_helmet_12",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 20455,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Magnificent Helmet"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "266 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15670::::::::::0|h[Magnificent Helmet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "magnificent-helmet"
+  },
+  {
+    "itemId": 15684,
+    "name": "Triumphant Skullcap",
+    "icon": "inv_helmet_12",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 23178,
+    "quality": "Uncommon",
+    "itemLevel": 64,
+    "requiredLevel": 59,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Triumphant Skullcap"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "278 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15684::::::::::0|h[Triumphant Skullcap]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "triumphant-skullcap"
+  },
+  {
+    "itemId": 41955,
+    "name": "Helmet of Dun Kithas",
+    "icon": "inv_helmet_04",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 5738,
+    "quality": "Uncommon",
+    "itemLevel": 35,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helmet of Dun Kithas"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "176 Armor"
+      },
+      {
+        "label": "+3 Intellect"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41856,
+          "name": "Reclaiming Sal'Galaz",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:41955::::::::::0|h[Helmet of Dun Kithas]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helmet-of-dun-kithas"
+  },
+  {
+    "itemId": 58002,
+    "name": "Honeypot",
+    "icon": "inv_helmet_36",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6403,
+    "quality": "Uncommon",
+    "itemLevel": 39,
+    "requiredLevel": 34,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Honeypot"
+      },
+      {
+        "label": "Requires Level 34"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "184 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+8 SpiritDurability"
+      },
+      {
+        "label": "+14 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:58002::::::::::0|h[Honeypot]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "honeypot"
+  },
+  {
+    "itemId": 60636,
+    "name": "Helm of Nethergarde",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 15877,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Helm of Nethergarde"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "251 Armor"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+6 Intellect"
+      },
+      {
+        "label": "+5 Shadow"
+      },
+      {
+        "label": "+14 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40434,
+          "name": "Suppressing the Dreadweavers",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60636::::::::::0|h[Helm of Nethergarde]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "helm-of-nethergarde"
+  },
+  {
+    "itemId": 60748,
+    "name": "Sentinel's Crown",
+    "icon": "inv_helmet_19",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 502,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Sentinel's Crown"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "160 Armor"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "+16 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:60748::::::::::0|h[Sentinel's Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sentinels-crown"
+  },
+  {
+    "itemId": 60888,
+    "name": "Whelpling Tiara",
+    "icon": "inv_belt_31",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7015,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Whelpling Tiara"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "202 Armor"
+      },
+      {
+        "label": "+8 Agility"
+      },
+      {
+        "label": "+6 Intellect"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40648,
+          "name": "Roses are Red, Dragons are Blue...",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60888::::::::::0|h[Whelpling Tiara]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "whelpling-tiara"
+  },
+  {
+    "itemId": 61069,
+    "name": "Kabuto of the Senshi",
+    "icon": "inv_helmet_160k",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 16982,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Kabuto of the Senshi"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "259 Armor"
+      },
+      {
+        "label": "+17 Intellect"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61069::::::::::0|h[Kabuto of the Senshi]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "kabuto-of-the-senshi"
+  },
+  {
+    "itemId": 61481,
+    "name": "Vagrant Coif",
+    "icon": "inv_helmet_29",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6277,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Vagrant Coif"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "192 Armor"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40938,
+          "name": "Nighthowl Neutralizing",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:61481::::::::::0|h[Vagrant Coif]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "vagrant-coif"
+  },
+  {
+    "itemId": 61580,
+    "name": "Wolf's Skull",
+    "icon": "ability_mount_whitedirewolf",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7583,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Wolf's Skull"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "193 Armor"
+      },
+      {
+        "label": "+11 Agility"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "+12 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61580::::::::::0|h[Wolf's Skull]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wolfs-skull"
+  },
+  {
+    "itemId": 81217,
+    "name": "Protective Orcish Helm",
+    "icon": "inv_helmet_08",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 558,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Protective Orcish Helm"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "162 Armor"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:81217::::::::::0|h[Protective Orcish Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "protective-orcish-helm"
+  },
+  {
+    "itemId": 81402,
+    "name": "Mountain Watcher's Crown",
+    "icon": "inv_helmet_25",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2114,
+    "quality": "Uncommon",
+    "itemLevel": 31,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Mountain Watcher's Crown"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "161 Armor"
+      },
+      {
+        "label": "+1 Stamina"
+      },
+      {
+        "label": "+3 Strength"
+      },
+      {
+        "label": "+4 Agility"
+      },
+      {
+        "label": "+5 Frost"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 55201,
+          "name": "Retaking The Roadways",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:81402::::::::::0|h[Mountain Watcher's Crown]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mountain-watchers-crown"
+  },
+  {
+    "itemId": 3529,
+    "name": "Black Night Elf Helm",
+    "icon": "inv_helmet_04",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1,
+    "quality": "Common",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Black Night Elf Helm"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "30 Armor"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3529::::::::::0|h[Black Night Elf Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "black-night-elf-helm"
+  },
+  {
+    "itemId": 3536,
+    "name": "Demon Hunter Blindfold",
+    "icon": "inv_helmet_04",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1,
+    "quality": "Common",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Demon Hunter Blindfold"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "30 Armor"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3536::::::::::0|h[Demon Hunter Blindfold]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "demon-hunter-blindfold"
+  },
+  {
+    "itemId": 3891,
+    "name": "Augmented Chain Helm",
+    "icon": "inv_helmet_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2456,
+    "quality": "Common",
+    "itemLevel": 37,
+    "requiredLevel": 32,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Augmented Chain Helm"
+      },
+      {
+        "label": "Requires Level 32"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "169 Armor"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3891::::::::::0|h[Augmented Chain Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "augmented-chain-helm"
+  },
+  {
+    "itemId": 3894,
+    "name": "Brigandine Helm",
+    "icon": "inv_helmet_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 5997,
+    "quality": "Common",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Brigandine Helm"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "211 Armor"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3894::::::::::0|h[Brigandine Helm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brigandine-helm"
+  },
+  {
+    "itemId": 8748,
+    "name": "Double Mail Coif",
+    "icon": "inv_helmet_39",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 774,
+    "quality": "Poor",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Double Mail Coif"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "145 Armor"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:8748::::::::::0|h[Double Mail Coif]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "double-mail-coif"
+  },
+  {
+    "itemId": 8751,
+    "name": "Overlinked Coif",
+    "icon": "inv_helmet_39",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2618,
+    "quality": "Poor",
+    "itemLevel": 44,
+    "requiredLevel": 39,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Overlinked Coif"
+      },
+      {
+        "label": "Requires Level 39"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "179 Armor"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:8751::::::::::0|h[Overlinked Coif]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "overlinked-coif"
+  },
+  {
+    "itemId": 8752,
+    "name": "Laminated Scale Circlet",
+    "icon": "inv_crown_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 5217,
+    "quality": "Poor",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Laminated Scale Circlet"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "214 Armor"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:8752::::::::::0|h[Laminated Scale Circlet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "laminated-scale-circlet"
+  },
+  {
+    "itemId": 61420,
+    "name": "Wreath of Worgen Blood",
+    "icon": "inv_helmet_29",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6897,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Wreath of Worgen Blood"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "194 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+5 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40880,
+          "name": "We Take It From The Living",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:61420::::::::::0|h[Wreath of Worgen Blood]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wreath-of-worgen-blood"
+  },
+  {
+    "itemId": 20215,
+    "name": "Belt of Shriveled Heads",
+    "icon": "inv_belt_12",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 24684,
+    "quality": "Rare",
+    "itemLevel": 70,
+    "requiredLevel": 0,
+    "slot": "Head",
+    "tooltip": [
+      {
+        "label": "Belt of Shriveled Heads"
+      },
+      {
+        "label": "Head"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "230 Armor"
+      },
+      {
+        "label": "+7 Spirit"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+11 Agility"
+      },
+      {
+        "label": "+11 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8201,
+          "name": "A Collection of Heads",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:20215::::::::::0|h[Belt of Shriveled Heads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "belt-of-shriveled-heads"
+  }
+]
