@@ -3173,3 +3173,1018 @@
 [2025-11-03T09:52:35.983Z]    Files completed: 52/56
 [2025-11-03T09:52:35.983Z] ❌ Failed quest IDs: 697, 6381, 41150, 33, 932, 437, 788, 170, 4681, 60148...
 [2025-11-03T09:52:36.064Z] 🔒 Browser closed
+[2025-11-03T09:59:07.268Z] 🚀 Initializing browser with anti-detection...
+[2025-11-03T09:59:07.903Z] ✅ Browser initialized with stealth mode
+[2025-11-03T09:59:07.903Z] 
+🔄 Starting Failed Quest Retry Process
+
+[2025-11-03T09:59:07.903Z] 📊 Found 246 failed quests to retry
+[2025-11-03T09:59:07.903Z] 
+🎯 Retrying quest 697 (1/246)
+[2025-11-03T09:59:11.894Z] ✅ Quest 697: Required level 30
+[2025-11-03T09:59:11.894Z] ✅ Successfully fetched quest 697: level 30
+[2025-11-03T09:59:13.897Z] 
+🎯 Retrying quest 6381 (2/246)
+[2025-11-03T09:59:17.987Z] ✅ Quest 6381: Required level 17
+[2025-11-03T09:59:17.987Z] ✅ Successfully fetched quest 6381: level 17
+[2025-11-03T09:59:19.989Z] 
+🎯 Retrying quest 41150 (3/246)
+[2025-11-03T09:59:24.086Z] ✅ Quest 41150: Required level 1
+[2025-11-03T09:59:24.086Z] ✅ Successfully fetched quest 41150: level 1
+[2025-11-03T09:59:26.087Z] 
+🎯 Retrying quest 33 (4/246)
+[2025-11-03T09:59:30.182Z] ✅ Quest 33: Required level 1
+[2025-11-03T09:59:30.182Z] ✅ Successfully fetched quest 33: level 1
+[2025-11-03T09:59:32.184Z] 
+🎯 Retrying quest 932 (5/246)
+[2025-11-03T09:59:36.282Z] ✅ Quest 932: Required level 4
+[2025-11-03T09:59:36.282Z] ✅ Successfully fetched quest 932: level 4
+[2025-11-03T09:59:38.284Z] 
+🎯 Retrying quest 437 (6/246)
+[2025-11-03T09:59:42.438Z] ✅ Quest 437: Required level 10
+[2025-11-03T09:59:42.439Z] ✅ Successfully fetched quest 437: level 10
+[2025-11-03T09:59:44.441Z] 
+🎯 Retrying quest 788 (7/246)
+[2025-11-03T09:59:48.529Z] ✅ Quest 788: Required level 1
+[2025-11-03T09:59:48.530Z] ✅ Successfully fetched quest 788: level 1
+[2025-11-03T09:59:50.531Z] 
+🎯 Retrying quest 170 (8/246)
+[2025-11-03T09:59:54.628Z] ✅ Quest 170: Required level 1
+[2025-11-03T09:59:54.629Z] ✅ Successfully fetched quest 170: level 1
+[2025-11-03T09:59:56.631Z] 
+🎯 Retrying quest 4681 (9/246)
+[2025-11-03T10:00:00.720Z] ✅ Quest 4681: Required level 11
+[2025-11-03T10:00:00.720Z] ✅ Successfully fetched quest 4681: level 11
+[2025-11-03T10:00:02.722Z] 
+🎯 Retrying quest 60148 (10/246)
+[2025-11-03T10:00:06.801Z] ✅ Quest 60148: Required level 4
+[2025-11-03T10:00:06.801Z] ✅ Successfully fetched quest 60148: level 4
+[2025-11-03T10:00:08.803Z] 
+🎯 Retrying quest 6187 (11/246)
+[2025-11-03T10:00:12.861Z] ✅ Quest 6187: Required level 56
+[2025-11-03T10:00:12.861Z] ✅ Successfully fetched quest 6187: level 56
+[2025-11-03T10:00:14.865Z] 
+🎯 Retrying quest 6148 (12/246)
+[2025-11-03T10:00:19.008Z] ✅ Quest 6148: Required level 56
+[2025-11-03T10:00:19.009Z] ✅ Successfully fetched quest 6148: level 56
+[2025-11-03T10:00:21.010Z] 
+🎯 Retrying quest 40722 (13/246)
+[2025-11-03T10:00:25.099Z] ✅ Quest 40722: Required level 30
+[2025-11-03T10:00:25.099Z] ✅ Successfully fetched quest 40722: level 30
+[2025-11-03T10:00:27.100Z] 
+🎯 Retrying quest 257 (14/246)
+[2025-11-03T10:00:31.190Z] ✅ Quest 257: Required level 11
+[2025-11-03T10:00:31.190Z] ✅ Successfully fetched quest 257: level 11
+[2025-11-03T10:00:33.192Z] 
+🎯 Retrying quest 296 (15/246)
+[2025-11-03T10:00:37.284Z] ✅ Quest 296: Required level 22
+[2025-11-03T10:00:37.285Z] ✅ Successfully fetched quest 296: level 22
+[2025-11-03T10:00:39.286Z] 
+🎯 Retrying quest 855 (16/246)
+[2025-11-03T10:00:43.377Z] ✅ Quest 855: Required level 9
+[2025-11-03T10:00:43.378Z] ✅ Successfully fetched quest 855: level 9
+[2025-11-03T10:00:45.379Z] 
+🎯 Retrying quest 1044 (17/246)
+[2025-11-03T10:00:49.470Z] ✅ Quest 1044: Required level 25
+[2025-11-03T10:00:49.471Z] ✅ Successfully fetched quest 1044: level 25
+[2025-11-03T10:00:51.472Z] 
+🎯 Retrying quest 1197 (18/246)
+[2025-11-03T10:00:55.561Z] ✅ Quest 1197: Required level 20
+[2025-11-03T10:00:55.561Z] ✅ Successfully fetched quest 1197: level 20
+[2025-11-03T10:00:57.562Z] 
+🎯 Retrying quest 208 (19/246)
+[2025-11-03T10:01:01.658Z] ✅ Quest 208: Required level 28
+[2025-11-03T10:01:01.658Z] ✅ Successfully fetched quest 208: level 28
+[2025-11-03T10:01:03.660Z] 
+🎯 Retrying quest 7064 (20/246)
+[2025-11-03T10:01:07.747Z] ✅ Quest 7064: Required level 45
+[2025-11-03T10:01:07.747Z] ✅ Successfully fetched quest 7064: level 45
+[2025-11-03T10:01:09.748Z] 
+🎯 Retrying quest 7065 (21/246)
+[2025-11-03T10:01:13.834Z] ✅ Quest 7065: Required level 45
+[2025-11-03T10:01:13.834Z] ✅ Successfully fetched quest 7065: level 45
+[2025-11-03T10:01:15.838Z] 
+🎯 Retrying quest 7847 (22/246)
+[2025-11-03T10:01:19.897Z] ✅ Quest 7847: Required level 46
+[2025-11-03T10:01:19.898Z] ✅ Successfully fetched quest 7847: level 46
+[2025-11-03T10:01:21.899Z] 
+🎯 Retrying quest 8283 (23/246)
+[2025-11-03T10:01:25.900Z] ✅ Quest 8283: Required level 54
+[2025-11-03T10:01:25.901Z] ✅ Successfully fetched quest 8283: level 54
+[2025-11-03T10:01:27.902Z] 
+🎯 Retrying quest 80393 (24/246)
+[2025-11-03T10:01:31.903Z] ✅ Quest 80393: Required level 40
+[2025-11-03T10:01:31.904Z] ✅ Successfully fetched quest 80393: level 40
+[2025-11-03T10:01:33.905Z] 
+🎯 Retrying quest 41646 (25/246)
+[2025-11-03T10:01:37.579Z] ✅ Quest 41646: Required level 34
+[2025-11-03T10:01:37.579Z] ✅ Successfully fetched quest 41646: level 34
+[2025-11-03T10:01:39.581Z] 
+🎯 Retrying quest 40226 (26/246)
+[2025-11-03T10:01:43.681Z] ✅ Quest 40226: Required level 25
+[2025-11-03T10:01:43.682Z] ✅ Successfully fetched quest 40226: level 25
+[2025-11-03T10:01:45.682Z] 
+🎯 Retrying quest 40263 (27/246)
+[2025-11-03T10:01:49.777Z] ✅ Quest 40263: Required level 10
+[2025-11-03T10:01:49.777Z] ✅ Successfully fetched quest 40263: level 10
+[2025-11-03T10:01:51.778Z] 
+🎯 Retrying quest 40806 (28/246)
+[2025-11-03T10:01:55.870Z] ✅ Quest 40806: Required level 25
+[2025-11-03T10:01:55.870Z] ✅ Successfully fetched quest 40806: level 25
+[2025-11-03T10:01:57.872Z] 
+🎯 Retrying quest 40812 (29/246)
+[2025-11-03T10:02:01.919Z] ✅ Quest 40812: Required level 25
+[2025-11-03T10:02:01.920Z] ✅ Successfully fetched quest 40812: level 25
+[2025-11-03T10:02:03.921Z] 
+🎯 Retrying quest 835 (30/246)
+[2025-11-03T10:02:07.919Z] ✅ Quest 835: Required level 7
+[2025-11-03T10:02:07.919Z] ✅ Successfully fetched quest 835: level 7
+[2025-11-03T10:02:09.921Z] 
+🎯 Retrying quest 935 (31/246)
+[2025-11-03T10:02:13.924Z] ✅ Quest 935: Required level 1
+[2025-11-03T10:02:13.925Z] ✅ Successfully fetched quest 935: level 1
+[2025-11-03T10:02:15.928Z] 
+🎯 Retrying quest 80204 (32/246)
+[2025-11-03T10:02:19.929Z] ✅ Quest 80204: Required level 2
+[2025-11-03T10:02:19.930Z] ✅ Successfully fetched quest 80204: level 2
+[2025-11-03T10:02:21.932Z] 
+🎯 Retrying quest 40565 (33/246)
+[2025-11-03T10:02:25.933Z] ✅ Quest 40565: Required level 30
+[2025-11-03T10:02:25.934Z] ✅ Successfully fetched quest 40565: level 30
+[2025-11-03T10:02:27.935Z] 
+🎯 Retrying quest 41038 (34/246)
+[2025-11-03T10:02:31.937Z] ✅ Quest 41038: Required level 55
+[2025-11-03T10:02:31.938Z] ✅ Successfully fetched quest 41038: level 55
+[2025-11-03T10:02:33.939Z] 
+🎯 Retrying quest 41143 (35/246)
+[2025-11-03T10:02:37.944Z] ✅ Quest 41143: Required level 40
+[2025-11-03T10:02:37.945Z] ✅ Successfully fetched quest 41143: level 40
+[2025-11-03T10:02:39.946Z] 
+🎯 Retrying quest 40036 (36/246)
+[2025-11-03T10:02:43.945Z] ✅ Quest 40036: Required level 45
+[2025-11-03T10:02:43.945Z] ✅ Successfully fetched quest 40036: level 45
+[2025-11-03T10:02:45.947Z] 
+🎯 Retrying quest 40328 (37/246)
+[2025-11-03T10:02:49.733Z] ✅ Quest 40328: Required level 38
+[2025-11-03T10:02:49.733Z] ✅ Successfully fetched quest 40328: level 38
+[2025-11-03T10:02:51.734Z] 
+🎯 Retrying quest 40449 (38/246)
+[2025-11-03T10:02:55.823Z] ✅ Quest 40449: Required level 27
+[2025-11-03T10:02:55.823Z] ✅ Successfully fetched quest 40449: level 27
+[2025-11-03T10:02:57.824Z] 
+🎯 Retrying quest 40975 (39/246)
+[2025-11-03T10:03:01.911Z] ✅ Quest 40975: Required level 35
+[2025-11-03T10:03:01.911Z] ✅ Successfully fetched quest 40975: level 35
+[2025-11-03T10:03:03.912Z] 
+🎯 Retrying quest 7509 (40/246)
+[2025-11-03T10:03:07.958Z] ✅ Quest 7509: Required level 60
+[2025-11-03T10:03:07.958Z] ✅ Successfully fetched quest 7509: level 60
+[2025-11-03T10:03:09.959Z] 
+🎯 Retrying quest 7787 (41/246)
+[2025-11-03T10:03:13.959Z] ✅ Quest 7787: Required level 60
+[2025-11-03T10:03:13.959Z] ✅ Successfully fetched quest 7787: level 60
+[2025-11-03T10:03:15.963Z] 
+🎯 Retrying quest 8711 (42/246)
+[2025-11-03T10:03:19.964Z] ✅ Quest 8711: Required level 60
+[2025-11-03T10:03:19.965Z] ✅ Successfully fetched quest 8711: level 60
+[2025-11-03T10:03:21.966Z] 
+🎯 Retrying quest 8707 (43/246)
+[2025-11-03T10:03:25.968Z] ✅ Quest 8707: Required level 60
+[2025-11-03T10:03:25.968Z] ✅ Successfully fetched quest 8707: level 60
+[2025-11-03T10:03:27.969Z] 
+🎯 Retrying quest 8745 (44/246)
+[2025-11-03T10:03:31.971Z] ✅ Quest 8745: Required level 60
+[2025-11-03T10:03:31.972Z] ✅ Successfully fetched quest 8745: level 60
+[2025-11-03T10:03:33.973Z] 
+🎯 Retrying quest 5265 (45/246)
+[2025-11-03T10:03:37.975Z] ✅ Quest 5265: Required level 55
+[2025-11-03T10:03:37.976Z] ✅ Successfully fetched quest 5265: level 55
+[2025-11-03T10:03:39.976Z] 
+🎯 Retrying quest 41814 (46/246)
+[2025-11-03T10:03:43.979Z] ✅ Quest 41814: Required level 28
+[2025-11-03T10:03:43.979Z] ✅ Successfully fetched quest 41814: level 28
+[2025-11-03T10:03:45.980Z] 
+🎯 Retrying quest 40401 (47/246)
+[2025-11-03T10:03:49.983Z] ✅ Quest 40401: Required level 47
+[2025-11-03T10:03:49.984Z] ✅ Successfully fetched quest 40401: level 47
+[2025-11-03T10:03:51.986Z] 
+🎯 Retrying quest 41026 (48/246)
+[2025-11-03T10:03:55.987Z] ✅ Quest 41026: Required level 55
+[2025-11-03T10:03:55.988Z] ✅ Successfully fetched quest 41026: level 55
+[2025-11-03T10:03:57.989Z] 
+🎯 Retrying quest 914 (49/246)
+[2025-11-03T10:04:01.774Z] ✅ Quest 914: Required level 10
+[2025-11-03T10:04:01.774Z] ✅ Successfully fetched quest 914: level 10
+[2025-11-03T10:04:03.776Z] 
+🎯 Retrying quest 1053 (50/246)
+[2025-11-03T10:04:07.868Z] ✅ Quest 1053: Required level 34
+[2025-11-03T10:04:07.868Z] ✅ Successfully fetched quest 1053: level 34
+[2025-11-03T10:04:09.870Z] 
+🎯 Retrying quest 5056 (51/246)
+[2025-11-03T10:04:09.871Z] 🔄 Restarting browser for fresh session...
+[2025-11-03T10:04:10.005Z] 🔒 Browser closed
+[2025-11-03T10:04:10.006Z] 🚀 Initializing browser with anti-detection...
+[2025-11-03T10:04:10.422Z] ✅ Browser initialized with stealth mode
+[2025-11-03T10:04:14.415Z] ✅ Quest 5056: Required level 53
+[2025-11-03T10:04:14.416Z] ✅ Successfully fetched quest 5056: level 53
+[2025-11-03T10:04:16.420Z] 
+🎯 Retrying quest 5384 (52/246)
+[2025-11-03T10:04:20.560Z] ✅ Quest 5384: Required level 55
+[2025-11-03T10:04:20.561Z] ✅ Successfully fetched quest 5384: level 55
+[2025-11-03T10:04:22.561Z] 
+🎯 Retrying quest 909 (53/246)
+[2025-11-03T10:04:26.650Z] ✅ Quest 909: Required level 25
+[2025-11-03T10:04:26.650Z] ✅ Successfully fetched quest 909: level 25
+[2025-11-03T10:04:28.652Z] 
+🎯 Retrying quest 6922 (54/246)
+[2025-11-03T10:04:32.790Z] ✅ Quest 6922: Required level 21
+[2025-11-03T10:04:32.790Z] ✅ Successfully fetched quest 6922: level 21
+[2025-11-03T10:04:34.792Z] 
+🎯 Retrying quest 9023 (55/246)
+[2025-11-03T10:04:38.879Z] ✅ Quest 9023: Required level 60
+[2025-11-03T10:04:38.879Z] ✅ Successfully fetched quest 9023: level 60
+[2025-11-03T10:04:40.880Z] 
+🎯 Retrying quest 80411 (56/246)
+[2025-11-03T10:04:44.971Z] ✅ Quest 80411: Required level 60
+[2025-11-03T10:04:44.972Z] ✅ Successfully fetched quest 80411: level 60
+[2025-11-03T10:04:46.974Z] 
+🎯 Retrying quest 386 (57/246)
+[2025-11-03T10:04:51.061Z] ✅ Quest 386: Required level 22
+[2025-11-03T10:04:51.061Z] ✅ Successfully fetched quest 386: level 22
+[2025-11-03T10:04:53.062Z] 
+🎯 Retrying quest 258 (58/246)
+[2025-11-03T10:04:57.146Z] ✅ Quest 258: Required level 11
+[2025-11-03T10:04:57.147Z] ✅ Successfully fetched quest 258: level 11
+[2025-11-03T10:04:59.148Z] 
+🎯 Retrying quest 762 (59/246)
+[2025-11-03T10:05:03.232Z] ✅ Quest 762: Required level 35
+[2025-11-03T10:05:03.233Z] ✅ Successfully fetched quest 762: level 35
+[2025-11-03T10:05:05.234Z] 
+🎯 Retrying quest 876 (60/246)
+[2025-11-03T10:05:09.323Z] ✅ Quest 876: Required level 12
+[2025-11-03T10:05:09.323Z] ✅ Successfully fetched quest 876: level 12
+[2025-11-03T10:05:11.325Z] 
+🎯 Retrying quest 1693 (61/246)
+[2025-11-03T10:05:15.410Z] ✅ Quest 1693: Required level 10
+[2025-11-03T10:05:15.410Z] ✅ Successfully fetched quest 1693: level 10
+[2025-11-03T10:05:17.414Z] 
+🎯 Retrying quest 1667 (62/246)
+[2025-11-03T10:05:21.500Z] ✅ Quest 1667: Required level 10
+[2025-11-03T10:05:21.500Z] ✅ Successfully fetched quest 1667: level 10
+[2025-11-03T10:05:23.501Z] 
+🎯 Retrying quest 1822 (63/246)
+[2025-11-03T10:05:27.420Z] ✅ Quest 1822: Required level 10
+[2025-11-03T10:05:27.421Z] ✅ Successfully fetched quest 1822: level 10
+[2025-11-03T10:05:29.422Z] 
+🎯 Retrying quest 3625 (64/246)
+[2025-11-03T10:05:33.554Z] ✅ Quest 3625: Required level 45
+[2025-11-03T10:05:33.555Z] ✅ Successfully fetched quest 3625: level 45
+[2025-11-03T10:05:35.555Z] 
+🎯 Retrying quest 3962 (65/246)
+[2025-11-03T10:05:39.693Z] ✅ Quest 3962: Required level 47
+[2025-11-03T10:05:39.694Z] ✅ Successfully fetched quest 3962: level 47
+[2025-11-03T10:05:41.695Z] 
+🎯 Retrying quest 4322 (66/246)
+[2025-11-03T10:05:45.829Z] ✅ Quest 4322: Required level 50
+[2025-11-03T10:05:45.829Z] ✅ Successfully fetched quest 4322: level 50
+[2025-11-03T10:05:47.831Z] 
+🎯 Retrying quest 4813 (67/246)
+[2025-11-03T10:05:51.917Z] ✅ Quest 4813: Required level 12
+[2025-11-03T10:05:51.918Z] ✅ Successfully fetched quest 4813: level 12
+[2025-11-03T10:05:53.918Z] 
+🎯 Retrying quest 6024 (68/246)
+[2025-11-03T10:05:57.999Z] ✅ Quest 6024: Required level 54
+[2025-11-03T10:05:58.000Z] ✅ Successfully fetched quest 6024: level 54
+[2025-11-03T10:06:00.001Z] 
+🎯 Retrying quest 6284 (69/246)
+[2025-11-03T10:06:04.093Z] ✅ Quest 6284: Required level 15
+[2025-11-03T10:06:04.094Z] ✅ Successfully fetched quest 6284: level 15
+[2025-11-03T10:06:06.095Z] 
+🎯 Retrying quest 2561 (70/246)
+[2025-11-03T10:06:10.184Z] ✅ Quest 2561: Required level 3
+[2025-11-03T10:06:10.185Z] ✅ Successfully fetched quest 2561: level 3
+[2025-11-03T10:06:12.186Z] 
+🎯 Retrying quest 41768 (71/246)
+[2025-11-03T10:06:16.280Z] ✅ Quest 41768: Required level 26
+[2025-11-03T10:06:16.281Z] ✅ Successfully fetched quest 41768: level 26
+[2025-11-03T10:06:18.285Z] 
+🎯 Retrying quest 40602 (72/246)
+[2025-11-03T10:06:22.375Z] ✅ Quest 40602: Required level 15
+[2025-11-03T10:06:22.376Z] ✅ Successfully fetched quest 40602: level 15
+[2025-11-03T10:06:24.376Z] 
+🎯 Retrying quest 55051 (73/246)
+[2025-11-03T10:06:28.470Z] ✅ Quest 55051: Required level 30
+[2025-11-03T10:06:28.470Z] ✅ Successfully fetched quest 55051: level 30
+[2025-11-03T10:06:30.471Z] 
+🎯 Retrying quest 214 (74/246)
+[2025-11-03T10:06:34.437Z] ✅ Quest 214: Required level 14
+[2025-11-03T10:06:34.438Z] ✅ Successfully fetched quest 214: level 14
+[2025-11-03T10:06:36.439Z] 
+🎯 Retrying quest 381 (75/246)
+[2025-11-03T10:06:40.570Z] ✅ Quest 381: Required level 2
+[2025-11-03T10:06:40.570Z] ✅ Successfully fetched quest 381: level 2
+[2025-11-03T10:06:42.571Z] 
+🎯 Retrying quest 435 (76/246)
+[2025-11-03T10:06:46.439Z] ✅ Quest 435: Required level 10
+[2025-11-03T10:06:46.440Z] ✅ Successfully fetched quest 435: level 10
+[2025-11-03T10:06:48.440Z] 
+🎯 Retrying quest 442 (77/246)
+[2025-11-03T10:06:52.522Z] ✅ Quest 442: Required level 10
+[2025-11-03T10:06:52.522Z] ✅ Successfully fetched quest 442: level 10
+[2025-11-03T10:06:54.524Z] 
+🎯 Retrying quest 41260 (78/246)
+[2025-11-03T10:06:58.444Z] ✅ Quest 41260: Required level 10
+[2025-11-03T10:06:58.444Z] ✅ Successfully fetched quest 41260: level 10
+[2025-11-03T10:07:00.446Z] 
+🎯 Retrying quest 1682 (79/246)
+[2025-11-03T10:07:04.554Z] ✅ Quest 1682: Required level 10
+[2025-11-03T10:07:04.555Z] ✅ Successfully fetched quest 1682: level 10
+[2025-11-03T10:07:06.556Z] 
+🎯 Retrying quest 1503 (80/246)
+[2025-11-03T10:07:10.446Z] ✅ Quest 1503: Required level 10
+[2025-11-03T10:07:10.447Z] ✅ Successfully fetched quest 1503: level 10
+[2025-11-03T10:07:12.448Z] 
+🎯 Retrying quest 5385 (81/246)
+[2025-11-03T10:07:16.380Z] ✅ Quest 5385: Required level 49
+[2025-11-03T10:07:16.381Z] ✅ Successfully fetched quest 5385: level 49
+[2025-11-03T10:07:18.384Z] 
+🎯 Retrying quest 6544 (82/246)
+[2025-11-03T10:07:22.453Z] ✅ Quest 6544: Required level 20
+[2025-11-03T10:07:22.453Z] ✅ Successfully fetched quest 6544: level 20
+[2025-11-03T10:07:24.455Z] 
+🎯 Retrying quest 7003 (83/246)
+[2025-11-03T10:07:28.640Z] ✅ Quest 7003: Required level 45
+[2025-11-03T10:07:28.641Z] ✅ Successfully fetched quest 7003: level 45
+[2025-11-03T10:07:30.642Z] 
+🎯 Retrying quest 41158 (84/246)
+[2025-11-03T10:07:34.455Z] ✅ Quest 41158: Required level 1
+[2025-11-03T10:07:34.455Z] ✅ Successfully fetched quest 41158: level 1
+[2025-11-03T10:07:36.457Z] 
+🎯 Retrying quest 80409 (85/246)
+[2025-11-03T10:07:40.540Z] ✅ Quest 80409: Required level 40
+[2025-11-03T10:07:40.541Z] ✅ Successfully fetched quest 80409: level 40
+[2025-11-03T10:07:42.542Z] 
+🎯 Retrying quest 40075 (86/246)
+[2025-11-03T10:07:46.455Z] ✅ Quest 40075: Required level 30
+[2025-11-03T10:07:46.456Z] ✅ Successfully fetched quest 40075: level 30
+[2025-11-03T10:07:48.456Z] 
+🎯 Retrying quest 46 (87/246)
+[2025-11-03T10:07:52.186Z] ✅ Quest 46: Required level 7
+[2025-11-03T10:07:52.186Z] ✅ Successfully fetched quest 46: level 7
+[2025-11-03T10:07:54.187Z] 
+🎯 Retrying quest 18 (88/246)
+[2025-11-03T10:07:58.275Z] ✅ Quest 18: Required level 2
+[2025-11-03T10:07:58.275Z] ✅ Successfully fetched quest 18: level 2
+[2025-11-03T10:08:00.275Z] 
+🎯 Retrying quest 916 (89/246)
+[2025-11-03T10:08:04.361Z] ✅ Quest 916: Required level 3
+[2025-11-03T10:08:04.362Z] ✅ Successfully fetched quest 916: level 3
+[2025-11-03T10:08:06.363Z] 
+🎯 Retrying quest 41192 (90/246)
+[2025-11-03T10:08:10.448Z] ✅ Quest 41192: Required level 3
+[2025-11-03T10:08:10.448Z] ✅ Successfully fetched quest 41192: level 3
+[2025-11-03T10:08:12.450Z] 
+🎯 Retrying quest 41217 (91/246)
+[2025-11-03T10:08:16.456Z] ✅ Quest 41217: Required level 4
+[2025-11-03T10:08:16.456Z] ✅ Successfully fetched quest 41217: level 4
+[2025-11-03T10:08:18.459Z] 
+🎯 Retrying quest 8790 (92/246)
+[2025-11-03T10:08:22.463Z] ✅ Quest 8790: Required level 60
+[2025-11-03T10:08:22.464Z] ✅ Successfully fetched quest 8790: level 60
+[2025-11-03T10:08:24.465Z] 
+🎯 Retrying quest 9270 (93/246)
+[2025-11-03T10:08:28.554Z] ✅ Quest 9270: Required level 60
+[2025-11-03T10:08:28.554Z] ✅ Successfully fetched quest 9270: level 60
+[2025-11-03T10:08:30.555Z] 
+🎯 Retrying quest 9271 (94/246)
+[2025-11-03T10:08:34.466Z] ✅ Quest 9271: Required level 60
+[2025-11-03T10:08:34.466Z] ✅ Successfully fetched quest 9271: level 60
+[2025-11-03T10:08:36.467Z] 
+🎯 Retrying quest 9257 (95/246)
+[2025-11-03T10:08:40.551Z] ✅ Quest 9257: Required level 60
+[2025-11-03T10:08:40.551Z] ✅ Successfully fetched quest 9257: level 60
+[2025-11-03T10:08:42.552Z] 
+🎯 Retrying quest 9269 (96/246)
+[2025-11-03T10:08:46.469Z] ✅ Quest 9269: Required level 60
+[2025-11-03T10:08:46.469Z] ✅ Successfully fetched quest 9269: level 60
+[2025-11-03T10:08:48.470Z] 
+🎯 Retrying quest 40254 (97/246)
+[2025-11-03T10:08:52.565Z] ✅ Quest 40254: Required level 45
+[2025-11-03T10:08:52.565Z] ✅ Successfully fetched quest 40254: level 45
+[2025-11-03T10:08:54.566Z] 
+🎯 Retrying quest 1958 (98/246)
+[2025-11-03T10:08:58.474Z] ✅ Quest 1958: Required level 35
+[2025-11-03T10:08:58.474Z] ✅ Successfully fetched quest 1958: level 35
+[2025-11-03T10:09:00.474Z] 
+🎯 Retrying quest 4771 (99/246)
+[2025-11-03T10:09:04.352Z] ✅ Quest 4771: Required level 57
+[2025-11-03T10:09:04.358Z] ✅ Successfully fetched quest 4771: level 57
+[2025-11-03T10:09:06.359Z] 
+🎯 Retrying quest 9053 (100/246)
+[2025-11-03T10:09:10.445Z] ✅ Quest 9053: Required level 50
+[2025-11-03T10:09:10.446Z] ✅ Successfully fetched quest 9053: level 50
+[2025-11-03T10:09:12.447Z] 
+🎯 Retrying quest 60116 (101/246)
+[2025-11-03T10:09:12.447Z] 🔄 Restarting browser for fresh session...
+[2025-11-03T10:09:12.571Z] 🔒 Browser closed
+[2025-11-03T10:09:12.571Z] 🚀 Initializing browser with anti-detection...
+[2025-11-03T10:09:12.980Z] ✅ Browser initialized with stealth mode
+[2025-11-03T10:09:16.968Z] ✅ Quest 60116: Required level 27
+[2025-11-03T10:09:16.969Z] ✅ Successfully fetched quest 60116: level 27
+[2025-11-03T10:09:18.972Z] 
+🎯 Retrying quest 40214 (102/246)
+[2025-11-03T10:09:23.089Z] ✅ Quest 40214: Required level 40
+[2025-11-03T10:09:23.089Z] ✅ Successfully fetched quest 40214: level 40
+[2025-11-03T10:09:25.090Z] 
+🎯 Retrying quest 41257 (103/246)
+[2025-11-03T10:09:29.176Z] ✅ Quest 41257: Required level 10
+[2025-11-03T10:09:29.176Z] ✅ Successfully fetched quest 41257: level 10
+[2025-11-03T10:09:31.177Z] 
+🎯 Retrying quest 1880 (104/246)
+[2025-11-03T10:09:35.257Z] ✅ Quest 1880: Required level 10
+[2025-11-03T10:09:35.258Z] ✅ Successfully fetched quest 1880: level 10
+[2025-11-03T10:09:37.259Z] 
+🎯 Retrying quest 1882 (105/246)
+[2025-11-03T10:09:41.348Z] ✅ Quest 1882: Required level 10
+[2025-11-03T10:09:41.349Z] ✅ Successfully fetched quest 1882: level 10
+[2025-11-03T10:09:43.349Z] 
+🎯 Retrying quest 3129 (106/246)
+[2025-11-03T10:09:47.449Z] ✅ Quest 3129: Required level 40
+[2025-11-03T10:09:47.450Z] ✅ Successfully fetched quest 3129: level 40
+[2025-11-03T10:09:49.451Z] 
+🎯 Retrying quest 8422 (107/246)
+[2025-11-03T10:09:53.530Z] ✅ Quest 8422: Required level 50
+[2025-11-03T10:09:53.531Z] ✅ Successfully fetched quest 8422: level 50
+[2025-11-03T10:09:55.532Z] 
+🎯 Retrying quest 8413 (108/246)
+[2025-11-03T10:09:59.621Z] ✅ Quest 8413: Required level 50
+[2025-11-03T10:09:59.621Z] ✅ Successfully fetched quest 8413: level 50
+[2025-11-03T10:10:01.623Z] 
+🎯 Retrying quest 80312 (109/246)
+[2025-11-03T10:10:05.709Z] ✅ Quest 80312: Required level 14
+[2025-11-03T10:10:05.709Z] ✅ Successfully fetched quest 80312: level 14
+[2025-11-03T10:10:07.710Z] 
+🎯 Retrying quest 408 (110/246)
+[2025-11-03T10:10:11.805Z] ✅ Quest 408: Required level 7
+[2025-11-03T10:10:11.805Z] ✅ Successfully fetched quest 408: level 7
+[2025-11-03T10:10:13.807Z] 
+🎯 Retrying quest 480 (111/246)
+[2025-11-03T10:10:17.955Z] ✅ Quest 480: Required level 10
+[2025-11-03T10:10:17.956Z] ✅ Successfully fetched quest 480: level 10
+[2025-11-03T10:10:19.959Z] 
+🎯 Retrying quest 853 (112/246)
+[2025-11-03T10:10:24.141Z] ✅ Quest 853: Required level 10
+[2025-11-03T10:10:24.141Z] ✅ Successfully fetched quest 853: level 10
+[2025-11-03T10:10:26.142Z] 
+🎯 Retrying quest 41182 (113/246)
+[2025-11-03T10:10:30.229Z] ✅ Quest 41182: Required level 10
+[2025-11-03T10:10:30.229Z] ✅ Successfully fetched quest 41182: level 10
+[2025-11-03T10:10:32.231Z] 
+🎯 Retrying quest 1884 (114/246)
+[2025-11-03T10:10:36.316Z] ✅ Quest 1884: Required level 10
+[2025-11-03T10:10:36.316Z] ✅ Successfully fetched quest 1884: level 10
+[2025-11-03T10:10:38.318Z] 
+🎯 Retrying quest 1861 (115/246)
+[2025-11-03T10:10:42.406Z] ✅ Quest 1861: Required level 10
+[2025-11-03T10:10:42.406Z] ✅ Successfully fetched quest 1861: level 10
+[2025-11-03T10:10:44.408Z] 
+🎯 Retrying quest 8306 (116/246)
+[2025-11-03T10:10:48.542Z] ✅ Quest 8306: Required level 58
+[2025-11-03T10:10:48.542Z] ✅ Successfully fetched quest 8306: level 58
+[2025-11-03T10:10:50.544Z] 
+🎯 Retrying quest 40121 (117/246)
+[2025-11-03T10:10:54.631Z] ✅ Quest 40121: Required level 21
+[2025-11-03T10:10:54.631Z] ✅ Successfully fetched quest 40121: level 21
+[2025-11-03T10:10:56.632Z] 
+🎯 Retrying quest 40339 (118/246)
+[2025-11-03T10:11:00.776Z] ✅ Quest 40339: Required level 10
+[2025-11-03T10:11:00.776Z] ✅ Successfully fetched quest 40339: level 10
+[2025-11-03T10:11:02.779Z] 
+🎯 Retrying quest 40876 (119/246)
+[2025-11-03T10:11:06.894Z] ✅ Quest 40876: Required level 55
+[2025-11-03T10:11:06.894Z] ✅ Successfully fetched quest 40876: level 55
+[2025-11-03T10:11:08.897Z] 
+🎯 Retrying quest 40908 (120/246)
+[2025-11-03T10:11:12.988Z] ✅ Quest 40908: Required level 40
+[2025-11-03T10:11:12.989Z] ✅ Successfully fetched quest 40908: level 40
+[2025-11-03T10:11:14.990Z] 
+🎯 Retrying quest 70028 (121/246)
+[2025-11-03T10:11:19.002Z] ✅ Quest 70028: Required level 25
+[2025-11-03T10:11:19.002Z] ✅ Successfully fetched quest 70028: level 25
+[2025-11-03T10:11:21.006Z] 
+🎯 Retrying quest 80108 (122/246)
+[2025-11-03T10:11:25.008Z] ✅ Quest 80108: Required level 4
+[2025-11-03T10:11:25.009Z] ✅ Successfully fetched quest 80108: level 4
+[2025-11-03T10:11:27.011Z] 
+🎯 Retrying quest 760 (123/246)
+[2025-11-03T10:11:31.013Z] ✅ Quest 760: Required level 4
+[2025-11-03T10:11:31.013Z] ✅ Successfully fetched quest 760: level 4
+[2025-11-03T10:11:33.015Z] 
+🎯 Retrying quest 913 (124/246)
+[2025-11-03T10:11:37.017Z] ✅ Quest 913: Required level 10
+[2025-11-03T10:11:37.018Z] ✅ Successfully fetched quest 913: level 10
+[2025-11-03T10:11:39.020Z] 
+🎯 Retrying quest 973 (125/246)
+[2025-11-03T10:11:42.706Z] ✅ Quest 973: Required level 13
+[2025-11-03T10:11:42.706Z] ✅ Successfully fetched quest 973: level 13
+[2025-11-03T10:11:44.707Z] 
+🎯 Retrying quest 2846 (126/246)
+[2025-11-03T10:11:48.789Z] ✅ Quest 2846: Required level 40
+[2025-11-03T10:11:48.790Z] ✅ Successfully fetched quest 2846: level 40
+[2025-11-03T10:11:50.791Z] 
+🎯 Retrying quest 3161 (127/246)
+[2025-11-03T10:11:54.877Z] ✅ Quest 3161: Required level 43
+[2025-11-03T10:11:54.878Z] ✅ Successfully fetched quest 3161: level 43
+[2025-11-03T10:11:56.879Z] 
+🎯 Retrying quest 4266 (128/246)
+[2025-11-03T10:12:00.968Z] ✅ Quest 4266: Required level 40
+[2025-11-03T10:12:00.968Z] ✅ Successfully fetched quest 4266: level 40
+[2025-11-03T10:12:02.970Z] 
+🎯 Retrying quest 4975 (129/246)
+[2025-11-03T10:12:07.034Z] ✅ Quest 4975: Required level 35
+[2025-11-03T10:12:07.035Z] ✅ Successfully fetched quest 4975: level 35
+[2025-11-03T10:12:09.036Z] 
+🎯 Retrying quest 4964 (130/246)
+[2025-11-03T10:12:13.036Z] ✅ Quest 4964: Required level 35
+[2025-11-03T10:12:13.037Z] ✅ Successfully fetched quest 4964: level 35
+[2025-11-03T10:12:15.037Z] 
+🎯 Retrying quest 1740 (131/246)
+[2025-11-03T10:12:19.040Z] ✅ Quest 1740: Required level 20
+[2025-11-03T10:12:19.041Z] ✅ Successfully fetched quest 1740: level 20
+[2025-11-03T10:12:21.044Z] 
+🎯 Retrying quest 5730 (132/246)
+[2025-11-03T10:12:25.043Z] ✅ Quest 5730: Required level 9
+[2025-11-03T10:12:25.044Z] ✅ Successfully fetched quest 5730: level 9
+[2025-11-03T10:12:27.044Z] 
+🎯 Retrying quest 6136 (133/246)
+[2025-11-03T10:12:31.046Z] ✅ Quest 6136: Required level 56
+[2025-11-03T10:12:31.046Z] ✅ Successfully fetched quest 6136: level 56
+[2025-11-03T10:12:33.047Z] 
+🎯 Retrying quest 41292 (134/246)
+[2025-11-03T10:12:37.050Z] ✅ Quest 41292: Required level 34
+[2025-11-03T10:12:37.051Z] ✅ Successfully fetched quest 41292: level 34
+[2025-11-03T10:12:39.053Z] 
+🎯 Retrying quest 41637 (135/246)
+[2025-11-03T10:12:43.053Z] ✅ Quest 41637: Required level 24
+[2025-11-03T10:12:43.053Z] ✅ Successfully fetched quest 41637: level 24
+[2025-11-03T10:12:45.055Z] 
+🎯 Retrying quest 41037 (136/246)
+[2025-11-03T10:12:49.055Z] ✅ Quest 41037: Required level 38
+[2025-11-03T10:12:49.055Z] ✅ Successfully fetched quest 41037: level 38
+[2025-11-03T10:12:51.057Z] 
+🎯 Retrying quest 320 (137/246)
+[2025-11-03T10:12:54.846Z] ✅ Quest 320: Required level 2
+[2025-11-03T10:12:54.846Z] ✅ Successfully fetched quest 320: level 2
+[2025-11-03T10:12:56.848Z] 
+🎯 Retrying quest 382 (138/246)
+[2025-11-03T10:13:00.977Z] ✅ Quest 382: Required level 2
+[2025-11-03T10:13:00.977Z] ✅ Successfully fetched quest 382: level 2
+[2025-11-03T10:13:02.978Z] 
+🎯 Retrying quest 218 (139/246)
+[2025-11-03T10:13:07.061Z] ✅ Quest 218: Required level 1
+[2025-11-03T10:13:07.061Z] ✅ Successfully fetched quest 218: level 1
+[2025-11-03T10:13:09.062Z] 
+🎯 Retrying quest 757 (140/246)
+[2025-11-03T10:13:13.067Z] ✅ Quest 757: Required level 1
+[2025-11-03T10:13:13.067Z] ✅ Successfully fetched quest 757: level 1
+[2025-11-03T10:13:15.068Z] 
+🎯 Retrying quest 1499 (141/246)
+[2025-11-03T10:13:19.072Z] ✅ Quest 1499: Required level 1
+[2025-11-03T10:13:19.073Z] ✅ Successfully fetched quest 1499: level 1
+[2025-11-03T10:13:21.076Z] 
+🎯 Retrying quest 792 (142/246)
+[2025-11-03T10:13:25.072Z] ✅ Quest 792: Required level 2
+[2025-11-03T10:13:25.072Z] ✅ Successfully fetched quest 792: level 2
+[2025-11-03T10:13:27.074Z] 
+🎯 Retrying quest 41185 (143/246)
+[2025-11-03T10:13:30.758Z] ✅ Quest 41185: Required level 3
+[2025-11-03T10:13:30.758Z] ✅ Successfully fetched quest 41185: level 3
+[2025-11-03T10:13:32.760Z] 
+🎯 Retrying quest 80102 (144/246)
+[2025-11-03T10:13:36.850Z] ✅ Quest 80102: Required level 2
+[2025-11-03T10:13:36.851Z] ✅ Successfully fetched quest 80102: level 2
+[2025-11-03T10:13:38.852Z] 
+🎯 Retrying quest 8573 (145/246)
+[2025-11-03T10:13:43.028Z] ✅ Quest 8573: Required level 60
+[2025-11-03T10:13:43.028Z] ✅ Successfully fetched quest 8573: level 60
+[2025-11-03T10:13:45.029Z] 
+🎯 Retrying quest 893 (146/246)
+[2025-11-03T10:13:49.084Z] ✅ Quest 893: Required level 17
+[2025-11-03T10:13:49.084Z] ✅ Successfully fetched quest 893: level 17
+[2025-11-03T10:13:51.085Z] 
+🎯 Retrying quest 1806 (147/246)
+[2025-11-03T10:13:55.088Z] ✅ Quest 1806: Required level 20
+[2025-11-03T10:13:55.088Z] ✅ Successfully fetched quest 1806: level 20
+[2025-11-03T10:13:57.090Z] 
+🎯 Retrying quest 1792 (148/246)
+[2025-11-03T10:14:01.090Z] ✅ Quest 1792: Required level 30
+[2025-11-03T10:14:01.091Z] ✅ Successfully fetched quest 1792: level 30
+[2025-11-03T10:14:03.091Z] 
+🎯 Retrying quest 1383 (149/246)
+[2025-11-03T10:14:07.096Z] ✅ Quest 1383: Required level 37
+[2025-11-03T10:14:07.096Z] ✅ Successfully fetched quest 1383: level 37
+[2025-11-03T10:14:09.098Z] 
+🎯 Retrying quest 5088 (150/246)
+[2025-11-03T10:14:13.097Z] ✅ Quest 5088: Required level 24
+[2025-11-03T10:14:13.098Z] ✅ Successfully fetched quest 5088: level 24
+[2025-11-03T10:14:15.099Z] 
+🎯 Retrying quest 41202 (151/246)
+[2025-11-03T10:14:15.100Z] 🔄 Restarting browser for fresh session...
+[2025-11-03T10:14:15.220Z] 🔒 Browser closed
+[2025-11-03T10:14:15.220Z] 🚀 Initializing browser with anti-detection...
+[2025-11-03T10:14:15.622Z] ✅ Browser initialized with stealth mode
+[2025-11-03T10:14:19.616Z] ✅ Quest 41202: Required level 10
+[2025-11-03T10:14:19.617Z] ✅ Successfully fetched quest 41202: level 10
+[2025-11-03T10:14:21.619Z] 
+🎯 Retrying quest 41825 (152/246)
+[2025-11-03T10:14:25.716Z] ✅ Quest 41825: Required level 29
+[2025-11-03T10:14:25.716Z] ✅ Successfully fetched quest 41825: level 29
+[2025-11-03T10:14:27.718Z] 
+🎯 Retrying quest 40767 (153/246)
+[2025-11-03T10:14:31.811Z] ✅ Quest 40767: Required level 50
+[2025-11-03T10:14:31.811Z] ✅ Successfully fetched quest 40767: level 50
+[2025-11-03T10:14:33.813Z] 
+🎯 Retrying quest 2754 (154/246)
+[2025-11-03T10:14:37.938Z] ✅ Quest 2754: Required level 32
+[2025-11-03T10:14:37.938Z] ✅ Successfully fetched quest 2754: level 32
+[2025-11-03T10:14:39.939Z] 
+🎯 Retrying quest 600 (155/246)
+[2025-11-03T10:14:44.034Z] ✅ Quest 600: Required level 30
+[2025-11-03T10:14:44.034Z] ✅ Successfully fetched quest 600: level 30
+[2025-11-03T10:14:46.036Z] 
+🎯 Retrying quest 666 (156/246)
+[2025-11-03T10:14:50.128Z] ✅ Quest 666: Required level 35
+[2025-11-03T10:14:50.128Z] ✅ Successfully fetched quest 666: level 35
+[2025-11-03T10:14:52.129Z] 
+🎯 Retrying quest 765 (157/246)
+[2025-11-03T10:14:56.230Z] ✅ Quest 765: Required level 5
+[2025-11-03T10:14:56.230Z] ✅ Successfully fetched quest 765: level 5
+[2025-11-03T10:14:58.231Z] 
+🎯 Retrying quest 739 (158/246)
+[2025-11-03T10:15:02.320Z] ✅ Quest 739: Required level 30
+[2025-11-03T10:15:02.321Z] ✅ Successfully fetched quest 739: level 30
+[2025-11-03T10:15:04.321Z] 
+🎯 Retrying quest 182 (159/246)
+[2025-11-03T10:15:08.415Z] ✅ Quest 182: Required level 1
+[2025-11-03T10:15:08.415Z] ✅ Successfully fetched quest 182: level 1
+[2025-11-03T10:15:10.417Z] 
+🎯 Retrying quest 1046 (160/246)
+[2025-11-03T10:15:14.510Z] ✅ Quest 1046: Required level 18
+[2025-11-03T10:15:14.511Z] ✅ Successfully fetched quest 1046: level 18
+[2025-11-03T10:15:16.512Z] 
+🎯 Retrying quest 19 (161/246)
+[2025-11-03T10:15:20.607Z] ✅ Quest 19: Required level 18
+[2025-11-03T10:15:20.608Z] ✅ Successfully fetched quest 19: level 18
+[2025-11-03T10:15:22.612Z] 
+🎯 Retrying quest 1618 (162/246)
+[2025-11-03T10:15:26.707Z] ✅ Quest 1618: Required level 1
+[2025-11-03T10:15:26.708Z] ✅ Successfully fetched quest 1618: level 1
+[2025-11-03T10:15:28.709Z] 
+🎯 Retrying quest 70040 (163/246)
+[2025-11-03T10:15:32.617Z] ✅ Quest 70040: Required level 14
+[2025-11-03T10:15:32.617Z] ✅ Successfully fetched quest 70040: level 14
+[2025-11-03T10:15:34.618Z] 
+🎯 Retrying quest 2752 (164/246)
+[2025-11-03T10:15:38.759Z] ✅ Quest 2752: Required level 32
+[2025-11-03T10:15:38.760Z] ✅ Successfully fetched quest 2752: level 32
+[2025-11-03T10:15:40.761Z] 
+🎯 Retrying quest 2930 (165/246)
+[2025-11-03T10:15:44.847Z] ✅ Quest 2930: Required level 25
+[2025-11-03T10:15:44.847Z] ✅ Successfully fetched quest 2930: level 25
+[2025-11-03T10:15:46.848Z] 
+🎯 Retrying quest 1427 (166/246)
+[2025-11-03T10:15:50.959Z] ✅ Quest 1427: Required level 35
+[2025-11-03T10:15:50.960Z] ✅ Successfully fetched quest 1427: level 35
+[2025-11-03T10:15:52.961Z] 
+🎯 Retrying quest 40430 (167/246)
+[2025-11-03T10:15:57.126Z] ✅ Quest 40430: Required level 45
+[2025-11-03T10:15:57.126Z] ✅ Successfully fetched quest 40430: level 45
+[2025-11-03T10:15:59.127Z] 
+🎯 Retrying quest 40478 (168/246)
+[2025-11-03T10:16:03.220Z] ✅ Quest 40478: Required level 15
+[2025-11-03T10:16:03.221Z] ✅ Successfully fetched quest 40478: level 15
+[2025-11-03T10:16:05.222Z] 
+🎯 Retrying quest 40860 (169/246)
+[2025-11-03T10:16:09.312Z] ✅ Quest 40860: Required level 35
+[2025-11-03T10:16:09.313Z] ✅ Successfully fetched quest 40860: level 35
+[2025-11-03T10:16:11.314Z] 
+🎯 Retrying quest 8272 (170/246)
+[2025-11-03T10:16:15.407Z] ✅ Quest 8272: Required level 51
+[2025-11-03T10:16:15.408Z] ✅ Successfully fetched quest 8272: level 51
+[2025-11-03T10:16:17.408Z] 
+🎯 Retrying quest 8271 (171/246)
+[2025-11-03T10:16:21.509Z] ✅ Quest 8271: Required level 51
+[2025-11-03T10:16:21.509Z] ✅ Successfully fetched quest 8271: level 51
+[2025-11-03T10:16:23.512Z] 
+🎯 Retrying quest 7202 (172/246)
+[2025-11-03T10:16:27.598Z] ✅ Quest 7202: Required level 51
+[2025-11-03T10:16:27.598Z] ✅ Successfully fetched quest 7202: level 51
+[2025-11-03T10:16:29.600Z] 
+🎯 Retrying quest 7181 (173/246)
+[2025-11-03T10:16:33.696Z] ✅ Quest 7181: Required level 51
+[2025-11-03T10:16:33.697Z] ✅ Successfully fetched quest 7181: level 51
+[2025-11-03T10:16:35.698Z] 
+🎯 Retrying quest 60119 (174/246)
+[2025-11-03T10:16:39.637Z] ✅ Quest 60119: Required level 30
+[2025-11-03T10:16:39.637Z] ✅ Successfully fetched quest 60119: level 30
+[2025-11-03T10:16:41.638Z] 
+🎯 Retrying quest 40259 (175/246)
+[2025-11-03T10:16:45.733Z] ✅ Quest 40259: Required level 55
+[2025-11-03T10:16:45.733Z] ✅ Successfully fetched quest 40259: level 55
+[2025-11-03T10:16:47.735Z] 
+🎯 Retrying quest 14 (176/246)
+[2025-11-03T10:16:51.640Z] ✅ Quest 14: Required level 9
+[2025-11-03T10:16:51.641Z] ✅ Successfully fetched quest 14: level 9
+[2025-11-03T10:16:53.642Z] 
+🎯 Retrying quest 231 (177/246)
+[2025-11-03T10:16:57.741Z] ✅ Quest 231: Required level 28
+[2025-11-03T10:16:57.741Z] ✅ Successfully fetched quest 231: level 28
+[2025-11-03T10:16:59.742Z] 
+🎯 Retrying quest 474 (178/246)
+[2025-11-03T10:17:03.643Z] ✅ Quest 474: Required level 23
+[2025-11-03T10:17:03.643Z] ✅ Successfully fetched quest 474: level 23
+[2025-11-03T10:17:05.645Z] 
+🎯 Retrying quest 1012 (179/246)
+[2025-11-03T10:17:09.742Z] ✅ Quest 1012: Required level 24
+[2025-11-03T10:17:09.742Z] ✅ Successfully fetched quest 1012: level 24
+[2025-11-03T10:17:11.744Z] 
+🎯 Retrying quest 8418 (180/246)
+[2025-11-03T10:17:15.648Z] ✅ Quest 8418: Required level 50
+[2025-11-03T10:17:15.648Z] ✅ Successfully fetched quest 8418: level 50
+[2025-11-03T10:17:17.649Z] 
+🎯 Retrying quest 40234 (181/246)
+[2025-11-03T10:17:21.539Z] ✅ Quest 40234: Required level 55
+[2025-11-03T10:17:21.539Z] ✅ Successfully fetched quest 40234: level 55
+[2025-11-03T10:17:23.541Z] 
+🎯 Retrying quest 40282 (182/246)
+[2025-11-03T10:17:27.634Z] ✅ Quest 40282: Required level 15
+[2025-11-03T10:17:27.634Z] ✅ Successfully fetched quest 40282: level 15
+[2025-11-03T10:17:29.636Z] 
+🎯 Retrying quest 8781 (183/246)
+[2025-11-03T10:17:33.720Z] ✅ Quest 8781: Required level 60
+[2025-11-03T10:17:33.721Z] ✅ Successfully fetched quest 8781: level 60
+[2025-11-03T10:17:35.722Z] 
+🎯 Retrying quest 5284 (184/246)
+[2025-11-03T10:17:39.654Z] ✅ Quest 5284: Required level 40
+[2025-11-03T10:17:39.654Z] ✅ Successfully fetched quest 5284: level 40
+[2025-11-03T10:17:41.656Z] 
+🎯 Retrying quest 5302 (185/246)
+[2025-11-03T10:17:45.805Z] ✅ Quest 5302: Required level 40
+[2025-11-03T10:17:45.805Z] ✅ Successfully fetched quest 5302: level 40
+[2025-11-03T10:17:47.806Z] 
+🎯 Retrying quest 827 (186/246)
+[2025-11-03T10:17:51.656Z] ✅ Quest 827: Required level 4
+[2025-11-03T10:17:51.657Z] ✅ Successfully fetched quest 827: level 4
+[2025-11-03T10:17:53.658Z] 
+🎯 Retrying quest 951 (187/246)
+[2025-11-03T10:17:57.456Z] ✅ Quest 951: Required level 12
+[2025-11-03T10:17:57.457Z] ✅ Successfully fetched quest 951: level 12
+[2025-11-03T10:17:59.457Z] 
+🎯 Retrying quest 297 (188/246)
+[2025-11-03T10:18:03.552Z] ✅ Quest 297: Required level 13
+[2025-11-03T10:18:03.552Z] ✅ Successfully fetched quest 297: level 13
+[2025-11-03T10:18:05.553Z] 
+🎯 Retrying quest 2751 (189/246)
+[2025-11-03T10:18:09.696Z] ✅ Quest 2751: Required level 32
+[2025-11-03T10:18:09.696Z] ✅ Successfully fetched quest 2751: level 32
+[2025-11-03T10:18:11.698Z] 
+🎯 Retrying quest 3924 (190/246)
+[2025-11-03T10:18:15.664Z] ✅ Quest 3924: Required level 10
+[2025-11-03T10:18:15.664Z] ✅ Successfully fetched quest 3924: level 10
+[2025-11-03T10:18:17.666Z] 
+🎯 Retrying quest 41246 (191/246)
+[2025-11-03T10:18:21.764Z] ✅ Quest 41246: Required level 5
+[2025-11-03T10:18:21.764Z] ✅ Successfully fetched quest 41246: level 5
+[2025-11-03T10:18:23.767Z] 
+🎯 Retrying quest 1153 (192/246)
+[2025-11-03T10:18:27.669Z] ✅ Quest 1153: Required level 25
+[2025-11-03T10:18:27.669Z] ✅ Successfully fetched quest 1153: level 25
+[2025-11-03T10:18:29.671Z] 
+🎯 Retrying quest 8789 (193/246)
+[2025-11-03T10:18:33.378Z] ✅ Quest 8789: Required level 60
+[2025-11-03T10:18:33.378Z] ✅ Successfully fetched quest 8789: level 60
+[2025-11-03T10:18:35.379Z] 
+🎯 Retrying quest 8709 (194/246)
+[2025-11-03T10:18:39.479Z] ✅ Quest 8709: Required level 60
+[2025-11-03T10:18:39.479Z] ✅ Successfully fetched quest 8709: level 60
+[2025-11-03T10:18:41.481Z] 
+🎯 Retrying quest 8710 (195/246)
+[2025-11-03T10:18:45.605Z] ✅ Quest 8710: Required level 60
+[2025-11-03T10:18:45.605Z] ✅ Successfully fetched quest 8710: level 60
+[2025-11-03T10:18:47.606Z] 
+🎯 Retrying quest 7488 (196/246)
+[2025-11-03T10:18:51.675Z] ✅ Quest 7488: Required level 54
+[2025-11-03T10:18:51.675Z] ✅ Successfully fetched quest 7488: level 54
+[2025-11-03T10:18:53.677Z] 
+🎯 Retrying quest 7489 (197/246)
+[2025-11-03T10:18:57.766Z] ✅ Quest 7489: Required level 54
+[2025-11-03T10:18:57.767Z] ✅ Successfully fetched quest 7489: level 54
+[2025-11-03T10:18:59.768Z] 
+🎯 Retrying quest 41787 (198/246)
+[2025-11-03T10:19:03.678Z] ✅ Quest 41787: Required level 32
+[2025-11-03T10:19:03.678Z] ✅ Successfully fetched quest 41787: level 32
+[2025-11-03T10:19:05.679Z] 
+🎯 Retrying quest 40659 (199/246)
+[2025-11-03T10:19:09.777Z] ✅ Quest 40659: Required level 30
+[2025-11-03T10:19:09.777Z] ✅ Successfully fetched quest 40659: level 30
+[2025-11-03T10:19:11.779Z] 
+🎯 Retrying quest 417 (200/246)
+[2025-11-03T10:19:15.683Z] ✅ Quest 417: Required level 8
+[2025-11-03T10:19:15.684Z] ✅ Successfully fetched quest 417: level 8
+[2025-11-03T10:19:17.686Z] 
+🎯 Retrying quest 60034 (201/246)
+[2025-11-03T10:19:17.686Z] 🔄 Restarting browser for fresh session...
+[2025-11-03T10:19:17.795Z] 🔒 Browser closed
+[2025-11-03T10:19:17.795Z] 🚀 Initializing browser with anti-detection...
+[2025-11-03T10:19:18.171Z] ✅ Browser initialized with stealth mode
+[2025-11-03T10:19:22.194Z] ✅ Quest 60034: Required level 50
+[2025-11-03T10:19:22.194Z] ✅ Successfully fetched quest 60034: level 50
+[2025-11-03T10:19:24.197Z] 
+🎯 Retrying quest 2242 (202/246)
+[2025-11-03T10:19:28.328Z] ✅ Quest 2242: Required level 10
+[2025-11-03T10:19:28.328Z] ✅ Successfully fetched quest 2242: level 10
+[2025-11-03T10:19:30.329Z] 
+🎯 Retrying quest 41262 (203/246)
+[2025-11-03T10:19:34.415Z] ✅ Quest 41262: Required level 10
+[2025-11-03T10:19:34.415Z] ✅ Successfully fetched quest 41262: level 10
+[2025-11-03T10:19:36.417Z] 
+🎯 Retrying quest 2239 (204/246)
+[2025-11-03T10:19:40.608Z] ✅ Quest 2239: Required level 10
+[2025-11-03T10:19:40.608Z] ✅ Successfully fetched quest 2239: level 10
+[2025-11-03T10:19:42.609Z] 
+🎯 Retrying quest 2206 (205/246)
+[2025-11-03T10:19:46.742Z] ✅ Quest 2206: Required level 10
+[2025-11-03T10:19:46.743Z] ✅ Successfully fetched quest 2206: level 10
+[2025-11-03T10:19:48.744Z] 
+🎯 Retrying quest 1978 (206/246)
+[2025-11-03T10:19:52.835Z] ✅ Quest 1978: Required level 10
+[2025-11-03T10:19:52.836Z] ✅ Successfully fetched quest 1978: level 10
+[2025-11-03T10:19:54.837Z] 
+🎯 Retrying quest 1858 (207/246)
+[2025-11-03T10:19:58.921Z] ✅ Quest 1858: Required level 10
+[2025-11-03T10:19:58.921Z] ✅ Successfully fetched quest 1858: level 10
+[2025-11-03T10:20:00.922Z] 
+🎯 Retrying quest 283 (208/246)
+[2025-11-03T10:20:05.047Z] ✅ Quest 283: Required level 16
+[2025-11-03T10:20:05.047Z] ✅ Successfully fetched quest 283: level 16
+[2025-11-03T10:20:07.048Z] 
+🎯 Retrying quest 679 (209/246)
+[2025-11-03T10:20:11.128Z] ✅ Quest 679: Required level 30
+[2025-11-03T10:20:11.129Z] ✅ Successfully fetched quest 679: level 30
+[2025-11-03T10:20:13.129Z] 
+🎯 Retrying quest 41870 (210/246)
+[2025-11-03T10:20:17.220Z] ✅ Quest 41870: Required level 28
+[2025-11-03T10:20:17.220Z] ✅ Successfully fetched quest 41870: level 28
+[2025-11-03T10:20:19.221Z] 
+🎯 Retrying quest 41687 (211/246)
+[2025-11-03T10:20:23.159Z] ✅ Quest 41687: Required level 28
+[2025-11-03T10:20:23.159Z] ✅ Successfully fetched quest 41687: level 28
+[2025-11-03T10:20:25.161Z] 
+🎯 Retrying quest 41828 (212/246)
+[2025-11-03T10:20:29.240Z] ✅ Quest 41828: Required level 24
+[2025-11-03T10:20:29.240Z] ✅ Successfully fetched quest 41828: level 24
+[2025-11-03T10:20:31.241Z] 
+🎯 Retrying quest 38 (213/246)
+[2025-11-03T10:20:35.166Z] ✅ Quest 38: Required level 9
+[2025-11-03T10:20:35.166Z] ✅ Successfully fetched quest 38: level 9
+[2025-11-03T10:20:37.167Z] 
+🎯 Retrying quest 372 (214/246)
+[2025-11-03T10:20:41.249Z] ✅ Quest 372: Required level 5
+[2025-11-03T10:20:41.249Z] ✅ Successfully fetched quest 372: level 5
+[2025-11-03T10:20:43.250Z] 
+🎯 Retrying quest 1173 (215/246)
+[2025-11-03T10:20:47.176Z] ✅ Quest 1173: Required level 38
+[2025-11-03T10:20:47.176Z] ✅ Successfully fetched quest 1173: level 38
+[2025-11-03T10:20:49.177Z] 
+🎯 Retrying quest 923 (216/246)
+[2025-11-03T10:20:53.179Z] ✅ Quest 923: Required level 4
+[2025-11-03T10:20:53.179Z] ✅ Successfully fetched quest 923: level 4
+[2025-11-03T10:20:55.180Z] 
+🎯 Retrying quest 41172 (217/246)
+[2025-11-03T10:20:59.183Z] ✅ Quest 41172: Required level 3
+[2025-11-03T10:20:59.183Z] ✅ Successfully fetched quest 41172: level 3
+[2025-11-03T10:21:01.183Z] 
+🎯 Retrying quest 39999 (218/246)
+[2025-11-03T10:21:05.188Z] ✅ Quest 39999: Required level 15
+[2025-11-03T10:21:05.188Z] ✅ Successfully fetched quest 39999: level 15
+[2025-11-03T10:21:07.189Z] 
+🎯 Retrying quest 99 (219/246)
+[2025-11-03T10:21:11.189Z] ✅ Quest 99: Required level 9
+[2025-11-03T10:21:11.189Z] ✅ Successfully fetched quest 99: level 9
+[2025-11-03T10:21:13.190Z] 
+🎯 Retrying quest 8786 (220/246)
+[2025-11-03T10:21:17.195Z] ✅ Quest 8786: Required level 60
+[2025-11-03T10:21:17.195Z] ✅ Successfully fetched quest 8786: level 60
+[2025-11-03T10:21:19.197Z] 
+🎯 Retrying quest 2240 (221/246)
+[2025-11-03T10:21:23.201Z] ✅ Quest 2240: Required level 35
+[2025-11-03T10:21:23.201Z] ✅ Successfully fetched quest 2240: level 35
+[2025-11-03T10:21:25.204Z] 
+🎯 Retrying quest 4301 (222/246)
+[2025-11-03T10:21:29.283Z] ✅ Quest 4301: Required level 50
+[2025-11-03T10:21:29.283Z] ✅ Successfully fetched quest 4301: level 50
+[2025-11-03T10:21:31.284Z] 
+🎯 Retrying quest 4126 (223/246)
+[2025-11-03T10:21:35.364Z] ✅ Quest 4126: Required level 50
+[2025-11-03T10:21:35.364Z] ✅ Successfully fetched quest 4126: level 50
+[2025-11-03T10:21:37.366Z] 
+🎯 Retrying quest 4134 (224/246)
+[2025-11-03T10:21:41.447Z] ✅ Quest 4134: Required level 50
+[2025-11-03T10:21:41.447Z] ✅ Successfully fetched quest 4134: level 50
+[2025-11-03T10:21:43.448Z] 
+🎯 Retrying quest 9182 (225/246)
+[2025-11-03T10:21:47.536Z] ✅ Quest 9182: Required level 55
+[2025-11-03T10:21:47.537Z] ✅ Successfully fetched quest 9182: level 55
+[2025-11-03T10:21:49.537Z] 
+🎯 Retrying quest 41665 (226/246)
+[2025-11-03T10:21:53.636Z] ✅ Quest 41665: Required level 25
+[2025-11-03T10:21:53.636Z] ✅ Successfully fetched quest 41665: level 25
+[2025-11-03T10:21:55.638Z] 
+🎯 Retrying quest 41641 (227/246)
+[2025-11-03T10:21:59.727Z] ✅ Quest 41641: Required level 18
+[2025-11-03T10:21:59.728Z] ✅ Successfully fetched quest 41641: level 18
+[2025-11-03T10:22:01.729Z] 
+🎯 Retrying quest 55005 (228/246)
+[2025-11-03T10:22:05.806Z] ✅ Quest 55005: Required level 16
+[2025-11-03T10:22:05.806Z] ✅ Successfully fetched quest 55005: level 16
+[2025-11-03T10:22:07.807Z] 
+🎯 Retrying quest 167 (229/246)
+[2025-11-03T10:22:11.887Z] ✅ Quest 167: Required level 15
+[2025-11-03T10:22:11.887Z] ✅ Successfully fetched quest 167: level 15
+[2025-11-03T10:22:13.888Z] 
+🎯 Retrying quest 943 (230/246)
+[2025-11-03T10:22:17.971Z] ✅ Quest 943: Required level 15
+[2025-11-03T10:22:17.971Z] ✅ Successfully fetched quest 943: level 15
+[2025-11-03T10:22:19.973Z] 
+🎯 Retrying quest 40196 (231/246)
+[2025-11-03T10:22:24.061Z] ✅ Quest 40196: Required level 45
+[2025-11-03T10:22:24.062Z] ✅ Successfully fetched quest 40196: level 45
+[2025-11-03T10:22:26.064Z] 
+🎯 Retrying quest 1273 (232/246)
+[2025-11-03T10:22:30.143Z] ✅ Quest 1273: Required level 30
+[2025-11-03T10:22:30.143Z] ✅ Successfully fetched quest 1273: level 30
+[2025-11-03T10:22:32.144Z] 
+🎯 Retrying quest 40762 (233/246)
+[2025-11-03T10:22:36.231Z] ✅ Quest 40762: Required level 55
+[2025-11-03T10:22:36.232Z] ✅ Successfully fetched quest 40762: level 55
+[2025-11-03T10:22:38.233Z] 
+🎯 Retrying quest 40856 (234/246)
+[2025-11-03T10:22:42.235Z] ✅ Quest 40856: Required level 25
+[2025-11-03T10:22:42.235Z] ✅ Successfully fetched quest 40856: level 25
+[2025-11-03T10:22:44.237Z] 
+🎯 Retrying quest 770 (235/246)
+[2025-11-03T10:22:48.240Z] ✅ Quest 770: Required level 6
+[2025-11-03T10:22:48.240Z] ✅ Successfully fetched quest 770: level 6
+[2025-11-03T10:22:50.242Z] 
+🎯 Retrying quest 150 (236/246)
+[2025-11-03T10:22:54.242Z] ✅ Quest 150: Required level 20
+[2025-11-03T10:22:54.243Z] ✅ Successfully fetched quest 150: level 20
+[2025-11-03T10:22:56.244Z] 
+🎯 Retrying quest 705 (237/246)
+[2025-11-03T10:23:00.249Z] ✅ Quest 705: Required level 30
+[2025-11-03T10:23:00.250Z] ✅ Successfully fetched quest 705: level 30
+[2025-11-03T10:23:02.251Z] 
+🎯 Retrying quest 202 (238/246)
+[2025-11-03T10:23:05.940Z] ✅ Quest 202: Required level 30
+[2025-11-03T10:23:05.941Z] ✅ Successfully fetched quest 202: level 30
+[2025-11-03T10:23:07.942Z] 
+🎯 Retrying quest 6581 (239/246)
+[2025-11-03T10:23:12.026Z] ✅ Quest 6581: Required level 22
+[2025-11-03T10:23:12.026Z] ✅ Successfully fetched quest 6581: level 22
+[2025-11-03T10:23:14.028Z] 
+🎯 Retrying quest 5060 (240/246)
+[2025-11-03T10:23:18.120Z] ✅ Quest 5060: Required level 52
+[2025-11-03T10:23:18.120Z] ✅ Successfully fetched quest 5060: level 52
+[2025-11-03T10:23:20.121Z] 
+🎯 Retrying quest 5321 (241/246)
+[2025-11-03T10:23:24.212Z] ✅ Quest 5321: Required level 17
+[2025-11-03T10:23:24.212Z] ✅ Successfully fetched quest 5321: level 17
+[2025-11-03T10:23:26.215Z] 
+🎯 Retrying quest 5943 (242/246)
+[2025-11-03T10:23:30.264Z] ✅ Quest 5943: Required level 32
+[2025-11-03T10:23:30.264Z] ✅ Successfully fetched quest 5943: level 32
+[2025-11-03T10:23:32.264Z] 
+🎯 Retrying quest 6041 (243/246)
+[2025-11-03T10:23:36.267Z] ✅ Quest 6041: Required level 54
+[2025-11-03T10:23:36.267Z] ✅ Successfully fetched quest 6041: level 54
+[2025-11-03T10:23:38.268Z] 
+🎯 Retrying quest 6521 (244/246)
+[2025-11-03T10:23:42.272Z] ✅ Quest 6521: Required level 28
+[2025-11-03T10:23:42.273Z] ✅ Successfully fetched quest 6521: level 28
+[2025-11-03T10:23:44.274Z] 
+🎯 Retrying quest 40068 (245/246)
+[2025-11-03T10:23:48.275Z] ✅ Quest 40068: Required level 40
+[2025-11-03T10:23:48.276Z] ✅ Successfully fetched quest 40068: level 40
+[2025-11-03T10:23:50.276Z] 
+🎯 Retrying quest 60134 (246/246)
+[2025-11-03T10:23:54.278Z] ✅ Quest 60134: Required level 15
+[2025-11-03T10:23:54.278Z] ✅ Successfully fetched quest 60134: level 15
+[2025-11-03T10:23:56.281Z] 
+🎉 Retry process complete!
+[2025-11-03T10:23:56.281Z] 📊 Results:
+[2025-11-03T10:23:56.281Z]    Successfully retried: 246
+[2025-11-03T10:23:56.281Z]    Still failed: 0
+[2025-11-03T10:23:56.281Z]    Total processed quests: 2664
+[2025-11-03T10:23:56.281Z]    Total failed quests: 0
+[2025-11-03T10:23:56.281Z] 💾 Saved 246 newly successful quest IDs
+[2025-11-03T10:23:56.376Z] 🔒 Browser closed
