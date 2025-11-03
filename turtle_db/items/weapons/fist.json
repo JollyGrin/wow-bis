@@ -734,7 +734,7 @@
     "sellPrice": 10548,
     "quality": "Uncommon",
     "itemLevel": 37,
-    "requiredLevel": 0,
+    "requiredLevel": 29,
     "slot": "Main Hand",
     "tooltip": [
       {
@@ -766,7 +766,8 @@
         {
           "questId": 41842,
           "name": "Antiquities",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 29
         }
       ]
     },

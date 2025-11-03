@@ -1535,7 +1535,7 @@
     "sellPrice": 2903,
     "quality": "Rare",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 23,
     "slot": "Feet",
     "tooltip": [
       {
@@ -1573,7 +1573,8 @@
         {
           "questId": 41757,
           "name": "Blackheart's Demise",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 23
         }
       ]
     },
@@ -2298,7 +2299,7 @@
     "sellPrice": 1257,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Feet",
     "tooltip": [
       {
@@ -2333,7 +2334,8 @@
         {
           "questId": 126,
           "name": "Howling in the Hills",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -2572,7 +2574,7 @@
     "sellPrice": 7178,
     "quality": "Uncommon",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Feet",
     "tooltip": [
       {
@@ -2607,7 +2609,8 @@
         {
           "questId": 733,
           "name": "Scrounging",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 35
         }
       ]
     },
@@ -2624,7 +2627,7 @@
     "sellPrice": 331,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Feet",
     "tooltip": [
       {
@@ -2656,7 +2659,8 @@
         {
           "questId": 153,
           "name": "Red Leather Bandanas",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 10
         }
       ]
     },
@@ -2841,7 +2845,7 @@
     "sellPrice": 830,
     "quality": "Uncommon",
     "itemLevel": 22,
-    "requiredLevel": 0,
+    "requiredLevel": 17,
     "slot": "Feet",
     "tooltip": [
       {
@@ -2876,7 +2880,8 @@
         {
           "questId": 1092,
           "name": "Gerenzo's Orders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 17
         }
       ]
     },
@@ -3379,7 +3384,7 @@
     "sellPrice": 7536,
     "quality": "Uncommon",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Feet",
     "tooltip": [
       {
@@ -3414,7 +3419,8 @@
         {
           "questId": 1172,
           "name": "The Brood of Onyxia",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 38
         }
       ]
     },
@@ -3656,7 +3662,7 @@
     "sellPrice": 402,
     "quality": "Uncommon",
     "itemLevel": 17,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Feet",
     "tooltip": [
       {
@@ -3688,7 +3694,8 @@
         {
           "questId": 1138,
           "name": "Fruit of the Sea",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -4323,7 +4330,7 @@
     "sellPrice": 469,
     "quality": "Uncommon",
     "itemLevel": 18,
-    "requiredLevel": 0,
+    "requiredLevel": 14,
     "slot": "Feet",
     "tooltip": [
       {
@@ -4358,7 +4365,8 @@
         {
           "questId": 168,
           "name": "Collecting Memories",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 14
         }
       ]
     },
@@ -4483,7 +4491,7 @@
     "sellPrice": 1317,
     "quality": "Uncommon",
     "itemLevel": 26,
-    "requiredLevel": 21,
+    "requiredLevel": 32,
     "slot": "Feet",
     "tooltip": [
       {
@@ -4524,7 +4532,8 @@
         {
           "questId": 2754,
           "name": "Horns of Frenzy",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 32
         }
       ]
     },
@@ -4673,7 +4682,7 @@
     "sellPrice": 372,
     "quality": "Uncommon",
     "itemLevel": 16,
-    "requiredLevel": 0,
+    "requiredLevel": 9,
     "slot": "Feet",
     "tooltip": [
       {
@@ -4708,7 +4717,8 @@
         {
           "questId": 888,
           "name": "Stolen Booty",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 9
         }
       ]
     },
@@ -4725,7 +4735,7 @@
     "sellPrice": 305,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Feet",
     "tooltip": [
       {
@@ -4757,7 +4767,8 @@
         {
           "questId": 309,
           "name": "Protecting the Shipment",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 10
         }
       ]
     },
@@ -5299,7 +5310,7 @@
     "sellPrice": 1249,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Feet",
     "tooltip": [
       {
@@ -5331,12 +5342,14 @@
         {
           "questId": 3369,
           "name": "In Nightmares",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 10
         },
         {
           "questId": 3370,
           "name": "In Nightmares",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 10
         }
       ]
     },
@@ -6184,7 +6197,7 @@
     "sellPrice": 10,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Feet",
     "tooltip": [
       {
@@ -6213,7 +6226,8 @@
         {
           "questId": 41153,
           "name": "Foreman Pipelatch",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 1
         }
       ]
     },
@@ -6230,7 +6244,7 @@
     "sellPrice": 923,
     "quality": "Uncommon",
     "itemLevel": 23,
-    "requiredLevel": 0,
+    "requiredLevel": 16,
     "slot": "Feet",
     "tooltip": [
       {
@@ -6268,7 +6282,8 @@
         {
           "questId": 60125,
           "name": "Serpentbloom",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 16
         }
       ]
     },
@@ -6285,7 +6300,7 @@
     "sellPrice": 17261,
     "quality": "Uncommon",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Feet",
     "tooltip": [
       {
@@ -6323,12 +6338,14 @@
         {
           "questId": 40276,
           "name": "Destroying the Deeptide",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         },
         {
           "questId": 40150,
           "name": "Drowning Deeptide",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 44
         }
       ]
     },
@@ -6390,7 +6407,7 @@
     "sellPrice": 1128,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 12,
     "slot": "Feet",
     "tooltip": [
       {
@@ -6425,7 +6442,8 @@
         {
           "questId": 40693,
           "name": "The Ornate Windshear Gemstone",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 12
         }
       ]
     },
@@ -6946,7 +6964,7 @@
     "sellPrice": 10,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Feet",
     "tooltip": [
       {
@@ -6975,7 +6993,8 @@
         {
           "questId": 21,
           "name": "Skirmish at Echo Ridge",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 1
         }
       ]
     },
@@ -7100,7 +7119,7 @@
     "sellPrice": 34,
     "quality": "Common",
     "itemLevel": 8,
-    "requiredLevel": 0,
+    "requiredLevel": 6,
     "slot": "Feet",
     "tooltip": [
       {
@@ -7129,7 +7148,8 @@
         {
           "questId": 426,
           "name": "The Mills Overrun",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 6
         }
       ]
     },
@@ -7326,7 +7346,7 @@
     "sellPrice": 67,
     "quality": "Common",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 4,
     "slot": "Feet",
     "tooltip": [
       {
@@ -7355,7 +7375,8 @@
         {
           "questId": 826,
           "name": "Zalazane",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 4
         }
       ]
     },
@@ -7372,7 +7393,7 @@
     "sellPrice": 64,
     "quality": "Common",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Feet",
     "tooltip": [
       {
@@ -7401,7 +7422,8 @@
         {
           "questId": 766,
           "name": "Mazzranache",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 5
         }
       ]
     },
@@ -7418,7 +7440,7 @@
     "sellPrice": 11,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Feet",
     "tooltip": [
       {
@@ -7447,7 +7469,8 @@
         {
           "questId": 459,
           "name": "The Woodland Protector",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 1
         }
       ]
     },
@@ -7608,7 +7631,7 @@
     "sellPrice": 11,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 2,
     "slot": "Feet",
     "tooltip": [
       {
@@ -7637,7 +7660,8 @@
         {
           "questId": 41190,
           "name": "Thalassian Goulash",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 2
         }
       ]
     },
@@ -7684,7 +7708,7 @@
     "sellPrice": 5,
     "quality": "Common",
     "itemLevel": 9,
-    "requiredLevel": 0,
+    "requiredLevel": 4,
     "slot": "Feet",
     "tooltip": [
       {
@@ -7713,7 +7737,8 @@
         {
           "questId": 60147,
           "name": "Stalking the Felstalkers",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 4
         }
       ]
     },
@@ -7730,7 +7755,7 @@
     "sellPrice": 5,
     "quality": "Common",
     "itemLevel": 9,
-    "requiredLevel": 0,
+    "requiredLevel": 4,
     "slot": "Feet",
     "tooltip": [
       {
@@ -7759,7 +7784,8 @@
         {
           "questId": 60148,
           "name": "Mother of the Hollow",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 4
         }
       ]
     },
@@ -7776,7 +7802,7 @@
     "sellPrice": 3,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 3,
     "slot": "Feet",
     "tooltip": [
       {
@@ -7805,7 +7831,8 @@
         {
           "questId": 60150,
           "name": "Bristleback Aggression",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 3
         }
       ]
     },
@@ -7822,7 +7849,7 @@
     "sellPrice": 3,
     "quality": "Common",
     "itemLevel": 9,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Feet",
     "tooltip": [
       {
@@ -7851,7 +7878,8 @@
         {
           "questId": 80104,
           "name": "The Other White Mech",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 1
         }
       ]
     },
@@ -7868,7 +7896,7 @@
     "sellPrice": 3,
     "quality": "Common",
     "itemLevel": 9,
-    "requiredLevel": 0,
+    "requiredLevel": 4,
     "slot": "Feet",
     "tooltip": [
       {
@@ -7897,7 +7925,8 @@
         {
           "questId": 80207,
           "name": "Dark Iron Scrapping",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 4
         }
       ]
     },
@@ -8901,7 +8930,7 @@
     "sellPrice": 75168,
     "quality": "Epic",
     "itemLevel": 78,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Feet",
     "tooltip": [
       {
@@ -8939,7 +8968,8 @@
         {
           "questId": 8626,
           "name": "Striker's Footguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8956,7 +8986,7 @@
     "sellPrice": 70067,
     "quality": "Epic",
     "itemLevel": 78,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Feet",
     "tooltip": [
       {
@@ -8991,7 +9021,8 @@
         {
           "questId": 8621,
           "name": "Stormcaller's Footguards",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9200,7 +9231,7 @@
     "sellPrice": 31009,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Feet",
     "tooltip": [
       {
@@ -9241,12 +9272,14 @@
         {
           "questId": 8952,
           "name": "Anthion's Parting Words",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 9017,
           "name": "Anthion's Parting Words",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -9263,7 +9296,7 @@
     "sellPrice": 30451,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Feet",
     "tooltip": [
       {
@@ -9301,7 +9334,8 @@
         {
           "questId": 8957,
           "name": "Anthion's Parting Words",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -9318,7 +9352,7 @@
     "sellPrice": 102391,
     "quality": "Epic",
     "itemLevel": 86,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Feet",
     "tooltip": [
       {
@@ -9356,7 +9390,8 @@
         {
           "questId": 9058,
           "name": "Cryptstalker Boots",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9373,7 +9408,7 @@
     "sellPrice": 105504,
     "quality": "Epic",
     "itemLevel": 86,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Feet",
     "tooltip": [
       {
@@ -9408,7 +9443,8 @@
         {
           "questId": 9072,
           "name": "Earthshatter Boots",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9568,7 +9604,8 @@
         {
           "questId": 41516,
           "name": "Earthfury Boots",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9626,7 +9663,8 @@
         {
           "questId": 41516,
           "name": "Earthfury Boots",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9690,7 +9728,8 @@
         {
           "questId": 41508,
           "name": "Boots of Ten Storms",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9748,7 +9787,8 @@
         {
           "questId": 41508,
           "name": "Boots of Ten Storms",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9806,7 +9846,8 @@
         {
           "questId": 8621,
           "name": "Stormcaller's Footguards",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9861,7 +9902,8 @@
         {
           "questId": 8621,
           "name": "Stormcaller's Footguards",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9922,7 +9964,8 @@
         {
           "questId": 9072,
           "name": "Earthshatter Boots",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9977,7 +10020,8 @@
         {
           "questId": 9072,
           "name": "Earthshatter Boots",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9994,7 +10038,7 @@
     "sellPrice": 132004,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Feet",
     "tooltip": [
       {
@@ -10038,7 +10082,8 @@
         {
           "questId": 41618,
           "name": "Stormhowl Boots",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -10055,7 +10100,7 @@
     "sellPrice": 132004,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Feet",
     "tooltip": [
       {
@@ -10093,7 +10138,8 @@
         {
           "questId": 41618,
           "name": "Stormhowl Boots",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -10110,7 +10156,7 @@
     "sellPrice": 132004,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Feet",
     "tooltip": [
       {
@@ -10148,7 +10194,8 @@
         {
           "questId": 41618,
           "name": "Stormhowl Boots",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -10165,7 +10212,7 @@
     "sellPrice": 131959,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Feet",
     "tooltip": [
       {
@@ -10206,7 +10253,8 @@
         {
           "questId": 41612,
           "name": "Ravenstalker Boots",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },

@@ -1301,7 +1301,7 @@
     "sellPrice": 90614,
     "quality": "Rare",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -1342,7 +1342,8 @@
         {
           "questId": 40342,
           "name": "The Bronze Betrayal",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2698,7 +2699,7 @@
     "sellPrice": 10455,
     "quality": "Uncommon",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -2733,12 +2734,14 @@
         {
           "questId": 41676,
           "name": "Orcs by Our Borders",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         },
         {
           "questId": 41683,
           "name": "Scum Should Stay Scum",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 29
         }
       ]
     },
@@ -2800,7 +2803,7 @@
     "sellPrice": 9096,
     "quality": "Uncommon",
     "itemLevel": 33,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -2835,7 +2838,8 @@
         {
           "questId": 41818,
           "name": "We are not Born Equal",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 25
         }
       ]
     },

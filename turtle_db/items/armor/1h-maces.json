@@ -47,7 +47,7 @@
     "sellPrice": 13572,
     "quality": "Uncommon",
     "itemLevel": 51,
-    "requiredLevel": 0,
+    "requiredLevel": 42,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -66,7 +66,8 @@
         {
           "questId": 60073,
           "name": "Decimate Their Ranks",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 42
         }
       ]
     },

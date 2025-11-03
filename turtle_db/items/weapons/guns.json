@@ -1424,7 +1424,7 @@
     "sellPrice": 47443,
     "quality": "Epic",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Ranged",
     "tooltip": [
       {
@@ -1453,22 +1453,26 @@
         {
           "questId": 9228,
           "name": "Epic Armaments of Battle - Exalted Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9222,
           "name": "Epic Armaments of Battle - Friend of the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9224,
           "name": "Epic Armaments of Battle - Honored Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9225,
           "name": "Epic Armaments of Battle - Revered Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -2922,7 +2926,7 @@
     "sellPrice": 1038,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 13,
     "slot": "Ranged",
     "tooltip": [
       {
@@ -2951,7 +2955,8 @@
         {
           "questId": 891,
           "name": "The Guns of Northwatch",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 13
         }
       ]
     },
@@ -3800,7 +3805,7 @@
     "sellPrice": 16,
     "quality": "Common",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 3,
     "slot": "Ranged",
     "tooltip": [
       {
@@ -3829,7 +3834,8 @@
         {
           "questId": 60115,
           "name": "Preventive Strike",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 3
         }
       ]
     },
@@ -3943,7 +3949,7 @@
     "sellPrice": 12809,
     "quality": "Uncommon",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Ranged",
     "tooltip": [
       {
@@ -3975,7 +3981,8 @@
         {
           "questId": 40927,
           "name": "Securing Gilneas II",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 35
         }
       ]
     },
@@ -3992,7 +3999,7 @@
     "sellPrice": 12209,
     "quality": "Uncommon",
     "itemLevel": 46,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Ranged",
     "tooltip": [
       {
@@ -4027,7 +4034,8 @@
         {
           "questId": 40979,
           "name": "Ebonmere Affairs",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 35
         }
       ]
     },

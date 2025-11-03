@@ -8,7 +8,7 @@
     "sellPrice": 10554,
     "quality": "Rare",
     "itemLevel": 54,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Head",
     "tooltip": [
       {
@@ -46,7 +46,8 @@
         {
           "questId": 3528,
           "name": "The God Hakkar",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -591,7 +592,7 @@
     "sellPrice": 53037,
     "quality": "Epic",
     "itemLevel": 81,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -629,7 +630,8 @@
         {
           "questId": 8561,
           "name": "Conqueror's Crown",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -646,7 +648,7 @@
     "sellPrice": 58153,
     "quality": "Epic",
     "itemLevel": 81,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -687,7 +689,8 @@
         {
           "questId": 8628,
           "name": "Avenger's Crown",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         }
       ]
     },
@@ -752,7 +755,7 @@
     "sellPrice": 19916,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -793,12 +796,14 @@
         {
           "questId": 9006,
           "name": "Saving the Best for Last",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 9013,
           "name": "Saving the Best for Last",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -815,7 +820,7 @@
     "sellPrice": 19845,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -862,7 +867,8 @@
         {
           "questId": 9002,
           "name": "Saving the Best for Last",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         }
       ]
     },
@@ -879,7 +885,7 @@
     "sellPrice": 80096,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -914,7 +920,8 @@
         {
           "questId": 9037,
           "name": "Dreadnaught Helmet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -931,7 +938,7 @@
     "sellPrice": 77225,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -966,7 +973,8 @@
         {
           "questId": 9045,
           "name": "Redemption Headpiece",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1120,7 +1128,8 @@
         {
           "questId": 41493,
           "name": "Lawbringer's Head",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1184,7 +1193,8 @@
         {
           "questId": 41493,
           "name": "Lawbringer's Head",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1245,7 +1255,8 @@
         {
           "questId": 41485,
           "name": "Judgement's Head",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1309,7 +1320,8 @@
         {
           "questId": 41485,
           "name": "Judgement's Head",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1367,7 +1379,8 @@
         {
           "questId": 8628,
           "name": "Avenger's Crown",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1425,7 +1438,8 @@
         {
           "questId": 8628,
           "name": "Avenger's Crown",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1480,7 +1494,8 @@
         {
           "questId": 9045,
           "name": "Redemption Headpiece",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1541,7 +1556,8 @@
         {
           "questId": 9045,
           "name": "Redemption Headpiece",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1558,7 +1574,7 @@
     "sellPrice": 78553,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -1596,7 +1612,8 @@
         {
           "questId": 41626,
           "name": "Lionheart Helm",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1613,7 +1630,7 @@
     "sellPrice": 78353,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -1654,7 +1671,8 @@
         {
           "questId": 41626,
           "name": "Lionheart Helm",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1671,7 +1689,7 @@
     "sellPrice": 78553,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -1715,7 +1733,8 @@
         {
           "questId": 41626,
           "name": "Lionheart Helm",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1776,7 +1795,8 @@
         {
           "questId": 41442,
           "name": "Head of Might",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1837,7 +1857,8 @@
         {
           "questId": 41434,
           "name": "Head of Wrath",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1943,7 +1964,8 @@
         {
           "questId": 9037,
           "name": "Dreadnaught Helmet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1960,7 +1982,7 @@
     "sellPrice": 78553,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -2001,7 +2023,8 @@
         {
           "questId": 41590,
           "name": "Helm of the Brotherhood",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2264,7 +2287,7 @@
     "sellPrice": 14935,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Head",
     "tooltip": [
       {
@@ -2299,7 +2322,8 @@
         {
           "questId": 40504,
           "name": "Of New and Old IV",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },
@@ -3798,7 +3822,7 @@
     "sellPrice": 9937,
     "quality": "Rare",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Head",
     "tooltip": [
       {
@@ -3830,7 +3854,8 @@
         {
           "questId": 8425,
           "name": "Voodoo Feathers",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -4222,7 +4247,7 @@
     "sellPrice": 14108,
     "quality": "Rare",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Head",
     "tooltip": [
       {
@@ -4260,7 +4285,8 @@
         {
           "questId": 40303,
           "name": "The Tower of Lapidis X",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 45
         }
       ]
     },
@@ -4784,7 +4810,7 @@
     "sellPrice": 25821,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -4819,7 +4845,8 @@
         {
           "questId": 80605,
           "name": "The First Opening of The Dark Portal",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -4964,7 +4991,8 @@
         {
           "questId": 2756,
           "name": "The Old Ways",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 40
         }
       ]
     },
@@ -5023,7 +5051,7 @@
     "sellPrice": 6763,
     "quality": "Uncommon",
     "itemLevel": 49,
-    "requiredLevel": 44,
+    "requiredLevel": 40,
     "slot": "Head",
     "tooltip": [
       {
@@ -5058,12 +5086,14 @@
         {
           "questId": 5283,
           "name": "The Art of the Armorsmith",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         },
         {
           "questId": 5301,
           "name": "The Art of the Armorsmith",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 40
         }
       ]
     },
@@ -5242,7 +5272,7 @@
     "sellPrice": 5002,
     "quality": "Uncommon",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Head",
     "tooltip": [
       {
@@ -5280,7 +5310,8 @@
         {
           "questId": 2871,
           "name": "Delivering the Relic",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         }
       ]
     },
@@ -6308,7 +6339,7 @@
     "sellPrice": 4812,
     "quality": "Uncommon",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Head",
     "tooltip": [
       {
@@ -6343,7 +6374,8 @@
         {
           "questId": 8366,
           "name": "Southsea Shakedown",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -6360,7 +6392,7 @@
     "sellPrice": 12328,
     "quality": "Uncommon",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 47,
     "slot": "Head",
     "tooltip": [
       {
@@ -6398,7 +6430,8 @@
         {
           "questId": 40491,
           "name": "Scrap Forager",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 47
         }
       ]
     },
@@ -6415,7 +6448,7 @@
     "sellPrice": 11834,
     "quality": "Uncommon",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Head",
     "tooltip": [
       {
@@ -6453,7 +6486,8 @@
         {
           "questId": 40742,
           "name": "The Work Must Continue",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 48
         }
       ]
     },
@@ -6515,7 +6549,7 @@
     "sellPrice": 6453,
     "quality": "Uncommon",
     "itemLevel": 48,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Head",
     "tooltip": [
       {
@@ -6550,7 +6584,8 @@
         {
           "questId": 41043,
           "name": "The Ruins of Isildien",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 38
         }
       ]
     },
@@ -6657,7 +6692,7 @@
     "sellPrice": 5097,
     "quality": "Uncommon",
     "itemLevel": 46,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Head",
     "tooltip": [
       {
@@ -6692,7 +6727,8 @@
         {
           "questId": 40966,
           "name": "The Deed to Ravenshire",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 38
         }
       ]
     },
@@ -6709,7 +6745,7 @@
     "sellPrice": 12988,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Head",
     "tooltip": [
       {
@@ -6744,7 +6780,8 @@
         {
           "questId": 40424,
           "name": "Report from a Blasted Land",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },
@@ -6761,7 +6798,7 @@
     "sellPrice": 16337,
     "quality": "Rare",
     "itemLevel": 70,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -6799,7 +6836,8 @@
         {
           "questId": 8201,
           "name": "A Collection of Heads",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },

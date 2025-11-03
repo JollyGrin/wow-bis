@@ -962,7 +962,7 @@
     "sellPrice": 32440,
     "quality": "Epic",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -1000,7 +1000,8 @@
         {
           "questId": 8258,
           "name": "The Darkreaver Menace",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1017,7 +1018,7 @@
     "sellPrice": 86939,
     "quality": "Epic",
     "itemLevel": 81,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -1055,7 +1056,8 @@
         {
           "questId": 8657,
           "name": "Striker's Diadem",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1072,7 +1074,7 @@
     "sellPrice": 80445,
     "quality": "Epic",
     "itemLevel": 81,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -1107,7 +1109,8 @@
         {
           "questId": 8623,
           "name": "Stormcaller's Diadem",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1169,7 +1172,7 @@
     "sellPrice": 29212,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -1213,12 +1216,14 @@
         {
           "questId": 9000,
           "name": "Saving the Best for Last",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 9008,
           "name": "Saving the Best for Last",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1235,7 +1240,7 @@
     "sellPrice": 30427,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -1273,7 +1278,8 @@
         {
           "questId": 9011,
           "name": "Saving the Best for Last",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1290,7 +1296,7 @@
     "sellPrice": 111521,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -1328,7 +1334,8 @@
         {
           "questId": 9056,
           "name": "Cryptstalker Headpiece",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1345,7 +1352,7 @@
     "sellPrice": 114949,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -1380,7 +1387,8 @@
         {
           "questId": 9070,
           "name": "Earthshatter Headpiece",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1588,7 +1596,8 @@
         {
           "questId": 41509,
           "name": "Earthfury Head",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1646,7 +1655,8 @@
         {
           "questId": 41509,
           "name": "Earthfury Head",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1713,7 +1723,8 @@
         {
           "questId": 41501,
           "name": "Head of Ten Storms",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1774,7 +1785,8 @@
         {
           "questId": 41501,
           "name": "Head of Ten Storms",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1832,7 +1844,8 @@
         {
           "questId": 8623,
           "name": "Stormcaller's Diadem",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1887,7 +1900,8 @@
         {
           "questId": 8623,
           "name": "Stormcaller's Diadem",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1948,7 +1962,8 @@
         {
           "questId": 9070,
           "name": "Earthshatter Headpiece",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2003,7 +2018,8 @@
         {
           "questId": 9070,
           "name": "Earthshatter Headpiece",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2020,7 +2036,7 @@
     "sellPrice": 145005,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -2064,7 +2080,8 @@
         {
           "questId": 41614,
           "name": "Stormhowl Helm",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2081,7 +2098,7 @@
     "sellPrice": 145005,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -2119,7 +2136,8 @@
         {
           "questId": 41614,
           "name": "Stormhowl Helm",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2136,7 +2154,7 @@
     "sellPrice": 145005,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -2174,7 +2192,8 @@
         {
           "questId": 41614,
           "name": "Stormhowl Helm",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2191,7 +2210,7 @@
     "sellPrice": 144936,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -2232,7 +2251,8 @@
         {
           "questId": 41608,
           "name": "Ravenstalker Helm",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2393,7 +2413,7 @@
     "sellPrice": 11608,
     "quality": "Rare",
     "itemLevel": 46,
-    "requiredLevel": 0,
+    "requiredLevel": 34,
     "slot": "Head",
     "tooltip": [
       {
@@ -2431,7 +2451,8 @@
         {
           "questId": 40717,
           "name": "Undoing the Curse",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 34
         }
       ]
     },
@@ -2826,7 +2847,7 @@
     "sellPrice": 2221,
     "quality": "Uncommon",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Head",
     "tooltip": [
       {
@@ -2861,7 +2882,8 @@
         {
           "questId": 1706,
           "name": "Grimand's Armor",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },
@@ -2878,7 +2900,7 @@
     "sellPrice": 2328,
     "quality": "Uncommon",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Head",
     "tooltip": [
       {
@@ -2913,7 +2935,8 @@
         {
           "questId": 1845,
           "name": "Brutal Helm",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 20
         }
       ]
     },
@@ -3338,7 +3361,7 @@
     "sellPrice": 10830,
     "quality": "Uncommon",
     "itemLevel": 51,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Head",
     "tooltip": [
       {
@@ -3376,7 +3399,8 @@
         {
           "questId": 3463,
           "name": "Set Them Ablaze!",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -3438,7 +3462,7 @@
     "sellPrice": 16980,
     "quality": "Rare",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Head",
     "tooltip": [
       {
@@ -3476,7 +3500,8 @@
         {
           "questId": 1446,
           "name": "Jammal'an the Prophet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 38
         }
       ]
     },
@@ -3541,7 +3566,7 @@
     "sellPrice": 14044,
     "quality": "Uncommon",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Head",
     "tooltip": [
       {
@@ -3576,7 +3601,8 @@
         {
           "questId": 4491,
           "name": "A Little Help From My Friends",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -3593,7 +3619,7 @@
     "sellPrice": 13842,
     "quality": "Uncommon",
     "itemLevel": 54,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Head",
     "tooltip": [
       {
@@ -3628,7 +3654,8 @@
         {
           "questId": 4242,
           "name": "Abandoned Hope",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 48
         }
       ]
     },
@@ -4221,7 +4248,7 @@
     "sellPrice": 25796,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -4259,12 +4286,14 @@
         {
           "questId": 8258,
           "name": "The Darkreaver Menace",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         },
         {
           "questId": 7668,
           "name": "The Darkreaver Menace",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -4425,7 +4454,7 @@
     "sellPrice": 5646,
     "quality": "Rare",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 32,
     "slot": "Head",
     "tooltip": [
       {
@@ -4463,7 +4492,8 @@
         {
           "questId": 41834,
           "name": "Storm's End",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 32
         }
       ]
     },
@@ -4663,7 +4693,7 @@
     "sellPrice": 23242,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Head",
     "tooltip": [
       {
@@ -4698,7 +4728,8 @@
         {
           "questId": 40489,
           "name": "Assaulting Hateforge",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 45
         }
       ]
     },
@@ -4808,7 +4839,7 @@
     "sellPrice": 25821,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -4846,7 +4877,8 @@
         {
           "questId": 80605,
           "name": "The First Opening of The Dark Portal",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -4956,7 +4988,7 @@
     "sellPrice": 2825,
     "quality": "Uncommon",
     "itemLevel": 33,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Head",
     "tooltip": [
       {
@@ -4991,7 +5023,8 @@
         {
           "questId": 55,
           "name": "Morbent Fel",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },
@@ -5053,7 +5086,7 @@
     "sellPrice": 3053,
     "quality": "Uncommon",
     "itemLevel": 34,
-    "requiredLevel": 29,
+    "requiredLevel": 32,
     "slot": "Head",
     "tooltip": [
       {
@@ -5091,7 +5124,8 @@
         {
           "questId": 2753,
           "name": "Trampled Under Foot",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 32
         }
       ]
     },
@@ -5318,7 +5352,7 @@
     "sellPrice": 7955,
     "quality": "Uncommon",
     "itemLevel": 46,
-    "requiredLevel": 41,
+    "requiredLevel": 40,
     "slot": "Head",
     "tooltip": [
       {
@@ -5356,7 +5390,8 @@
         {
           "questId": 2771,
           "name": "A Good Head On Your Shoulders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -5421,7 +5456,7 @@
     "sellPrice": 7780,
     "quality": "Uncommon",
     "itemLevel": 46,
-    "requiredLevel": 41,
+    "requiredLevel": 30,
     "slot": "Head",
     "tooltip": [
       {
@@ -5462,12 +5497,14 @@
         {
           "questId": 2852,
           "name": "Wild Leather Leggings",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         },
         {
           "questId": 2859,
           "name": "Wild Leather Leggings",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -5850,7 +5887,7 @@
     "sellPrice": 17034,
     "quality": "Uncommon",
     "itemLevel": 59,
-    "requiredLevel": 54,
+    "requiredLevel": 55,
     "slot": "Head",
     "tooltip": [
       {
@@ -5888,7 +5925,8 @@
         {
           "questId": 9183,
           "name": "Craftsman's Writ - Radiant Circlet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -6691,7 +6729,7 @@
     "sellPrice": 5738,
     "quality": "Uncommon",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Head",
     "tooltip": [
       {
@@ -6729,7 +6767,8 @@
         {
           "questId": 41856,
           "name": "Reclaiming Sal'Galaz",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -6794,7 +6833,7 @@
     "sellPrice": 15877,
     "quality": "Uncommon",
     "itemLevel": 57,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Head",
     "tooltip": [
       {
@@ -6835,7 +6874,8 @@
         {
           "questId": 40434,
           "name": "Suppressing the Dreadweavers",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 45
         }
       ]
     },
@@ -6897,7 +6937,7 @@
     "sellPrice": 7015,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 37,
     "slot": "Head",
     "tooltip": [
       {
@@ -6935,7 +6975,8 @@
         {
           "questId": 40648,
           "name": "Roses are Red, Dragons are Blue...",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 37
         }
       ]
     },
@@ -6997,7 +7038,7 @@
     "sellPrice": 6277,
     "quality": "Uncommon",
     "itemLevel": 43,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Head",
     "tooltip": [
       {
@@ -7035,7 +7076,8 @@
         {
           "questId": 40938,
           "name": "Nighthowl Neutralizing",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 35
         }
       ]
     },
@@ -7145,7 +7187,7 @@
     "sellPrice": 2114,
     "quality": "Uncommon",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Head",
     "tooltip": [
       {
@@ -7186,7 +7228,8 @@
         {
           "questId": 55201,
           "name": "Retaking The Roadways",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },
@@ -7449,7 +7492,7 @@
     "sellPrice": 6897,
     "quality": "Uncommon",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Head",
     "tooltip": [
       {
@@ -7484,7 +7527,8 @@
         {
           "questId": 40880,
           "name": "We Take It From The Living",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 35
         }
       ]
     },
@@ -7501,7 +7545,7 @@
     "sellPrice": 24684,
     "quality": "Rare",
     "itemLevel": 70,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -7542,7 +7586,8 @@
         {
           "questId": 8201,
           "name": "A Collection of Heads",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },

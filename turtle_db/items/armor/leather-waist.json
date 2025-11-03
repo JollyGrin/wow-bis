@@ -896,7 +896,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Waist",
     "tooltip": [
       {
@@ -934,7 +934,8 @@
         {
           "questId": 8064,
           "name": "Paragons of Power: The Haruspex's Belt",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1272,7 +1273,7 @@
     "sellPrice": 16061,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Waist",
     "tooltip": [
       {
@@ -1316,12 +1317,14 @@
         {
           "questId": 8935,
           "name": "Just Compensation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         },
         {
           "questId": 8941,
           "name": "Just Compensation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1338,7 +1341,7 @@
     "sellPrice": 15536,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Waist",
     "tooltip": [
       {
@@ -1379,12 +1382,14 @@
         {
           "questId": 8926,
           "name": "Just Compensation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         },
         {
           "questId": 8927,
           "name": "Just Compensation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1446,7 +1451,7 @@
     "sellPrice": 62892,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Waist",
     "tooltip": [
       {
@@ -1484,7 +1489,8 @@
         {
           "questId": 9083,
           "name": "Bonescythe Waistguard",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1501,7 +1507,7 @@
     "sellPrice": 67481,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Waist",
     "tooltip": [
       {
@@ -1539,7 +1545,8 @@
         {
           "questId": 9092,
           "name": "Dreamwalker Girdle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1648,7 +1655,8 @@
         {
           "questId": 41413,
           "name": "Cenarion Waist",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1712,7 +1720,8 @@
         {
           "questId": 41413,
           "name": "Cenarion Waist",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1773,7 +1782,8 @@
         {
           "questId": 41405,
           "name": "Stormrage Waist",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1834,7 +1844,8 @@
         {
           "questId": 41405,
           "name": "Stormrage Waist",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1889,7 +1900,8 @@
         {
           "questId": 9092,
           "name": "Dreamwalker Girdle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1947,7 +1959,8 @@
         {
           "questId": 9092,
           "name": "Dreamwalker Girdle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2723,7 +2736,7 @@
     "sellPrice": 9819,
     "quality": "Rare",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Waist",
     "tooltip": [
       {
@@ -2761,7 +2774,8 @@
         {
           "questId": 4201,
           "name": "The Love Potion",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -2919,7 +2933,7 @@
     "sellPrice": 12064,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Waist",
     "tooltip": [
       {
@@ -2954,12 +2968,14 @@
         {
           "questId": 5081,
           "name": "Maxwell's Mission",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 55
         },
         {
           "questId": 4903,
           "name": "Warlord's Command",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 55
         }
       ]
     },
@@ -4329,7 +4345,7 @@
     "sellPrice": 4587,
     "quality": "Rare",
     "itemLevel": 43,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Waist",
     "tooltip": [
       {
@@ -4367,7 +4383,8 @@
         {
           "questId": 40233,
           "name": "The Orb of Kaladus",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -4516,7 +4533,7 @@
     "sellPrice": 12208,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Waist",
     "tooltip": [
       {
@@ -4551,7 +4568,8 @@
         {
           "questId": 40779,
           "name": "The Terrible Krampus",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -4760,7 +4778,7 @@
     "sellPrice": 823,
     "quality": "Uncommon",
     "itemLevel": 27,
-    "requiredLevel": 0,
+    "requiredLevel": 22,
     "slot": "Waist",
     "tooltip": [
       {
@@ -4795,7 +4813,8 @@
         {
           "questId": 378,
           "name": "The Fury Runs Deep",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 22
         }
       ]
     },
@@ -4812,7 +4831,7 @@
     "sellPrice": 3815,
     "quality": "Uncommon",
     "itemLevel": 44,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Waist",
     "tooltip": [
       {
@@ -4847,7 +4866,8 @@
         {
           "questId": 621,
           "name": "Zanzil's Secret",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 35
         }
       ]
     },
@@ -4954,7 +4974,7 @@
     "sellPrice": 175,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 9,
     "slot": "Waist",
     "tooltip": [
       {
@@ -4986,7 +5006,8 @@
         {
           "questId": 872,
           "name": "The Disruption Ends",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 9
         }
       ]
     },
@@ -5003,7 +5024,7 @@
     "sellPrice": 947,
     "quality": "Uncommon",
     "itemLevel": 28,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Waist",
     "tooltip": [
       {
@@ -5038,7 +5059,8 @@
         {
           "questId": 873,
           "name": "Isha Awak",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 10
         }
       ]
     },
@@ -5316,7 +5338,7 @@
     "sellPrice": 1000,
     "quality": "Uncommon",
     "itemLevel": 29,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Waist",
     "tooltip": [
       {
@@ -5351,7 +5373,8 @@
         {
           "questId": 1197,
           "name": "The Sacred Flame",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 20
         }
       ]
     },
@@ -5494,7 +5517,7 @@
     "sellPrice": 1554,
     "quality": "Uncommon",
     "itemLevel": 33,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Waist",
     "tooltip": [
       {
@@ -5529,7 +5552,8 @@
         {
           "questId": 1440,
           "name": "Return to Vahlarriel",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -5831,7 +5855,7 @@
     "sellPrice": 8267,
     "quality": "Uncommon",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 49,
     "slot": "Waist",
     "tooltip": [
       {
@@ -5866,7 +5890,8 @@
         {
           "questId": 3882,
           "name": "Roll the Bones",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 49
         }
       ]
     },
@@ -6174,7 +6199,7 @@
     "sellPrice": 151,
     "quality": "Uncommon",
     "itemLevel": 14,
-    "requiredLevel": 0,
+    "requiredLevel": 11,
     "slot": "Waist",
     "tooltip": [
       {
@@ -6206,7 +6231,8 @@
         {
           "questId": 4681,
           "name": "Washed Ashore",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 11
         }
       ]
     },
@@ -6223,7 +6249,7 @@
     "sellPrice": 193,
     "quality": "Uncommon",
     "itemLevel": 16,
-    "requiredLevel": 0,
+    "requiredLevel": 16,
     "slot": "Waist",
     "tooltip": [
       {
@@ -6258,12 +6284,14 @@
         {
           "questId": 5061,
           "name": "Aquatic Form",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 16
         },
         {
           "questId": 31,
           "name": "Aquatic Form",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 16
         }
       ]
     },
@@ -6280,7 +6308,7 @@
     "sellPrice": 856,
     "quality": "Uncommon",
     "itemLevel": 27,
-    "requiredLevel": 0,
+    "requiredLevel": 23,
     "slot": "Waist",
     "tooltip": [
       {
@@ -6318,7 +6346,8 @@
         {
           "questId": 824,
           "name": "Je'neu of the Earthen Ring",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 23
         }
       ]
     },
@@ -6518,7 +6547,7 @@
     "sellPrice": 8024,
     "quality": "Uncommon",
     "itemLevel": 56,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Waist",
     "tooltip": [
       {
@@ -6556,7 +6585,8 @@
         {
           "questId": 41200,
           "name": "The Wrath Of The Light Fall Upon Thee",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -6573,7 +6603,7 @@
     "sellPrice": 1197,
     "quality": "Uncommon",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 22,
     "slot": "Waist",
     "tooltip": [
       {
@@ -6605,7 +6635,8 @@
         {
           "questId": 41755,
           "name": "The Redbrand Lie",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 22
         }
       ]
     },
@@ -6667,7 +6698,7 @@
     "sellPrice": 2140,
     "quality": "Uncommon",
     "itemLevel": 33,
-    "requiredLevel": 0,
+    "requiredLevel": 24,
     "slot": "Waist",
     "tooltip": [
       {
@@ -6702,7 +6733,8 @@
         {
           "questId": 41783,
           "name": "Forgotten Stories",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 24
         }
       ]
     },
@@ -6767,7 +6799,7 @@
     "sellPrice": 4826,
     "quality": "Uncommon",
     "itemLevel": 50,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Waist",
     "tooltip": [
       {
@@ -6802,7 +6834,8 @@
         {
           "questId": 40592,
           "name": "The Gusting Vortex",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -6819,7 +6852,7 @@
     "sellPrice": 108,
     "quality": "Uncommon",
     "itemLevel": 13,
-    "requiredLevel": 0,
+    "requiredLevel": 8,
     "slot": "Waist",
     "tooltip": [
       {
@@ -6854,7 +6887,8 @@
         {
           "questId": 40865,
           "name": "Chemical Betrayal!",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 8
         }
       ]
     },
@@ -7096,7 +7130,7 @@
     "sellPrice": 1092,
     "quality": "Uncommon",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 24,
     "slot": "Waist",
     "tooltip": [
       {
@@ -7131,7 +7165,8 @@
         {
           "questId": 515,
           "name": "Elixir of Agony",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 24
         }
       ]
     },
@@ -7505,7 +7540,7 @@
     "sellPrice": 3331,
     "quality": "Uncommon",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Waist",
     "tooltip": [
       {
@@ -7540,7 +7575,8 @@
         {
           "questId": 1381,
           "name": "Khan Hratha",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -7557,7 +7593,7 @@
     "sellPrice": 650,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Waist",
     "tooltip": [
       {
@@ -7592,7 +7628,8 @@
         {
           "questId": 1199,
           "name": "Twilight Falls",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },
@@ -7732,7 +7769,7 @@
     "sellPrice": 3831,
     "quality": "Uncommon",
     "itemLevel": 44,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Waist",
     "tooltip": [
       {
@@ -7767,7 +7804,8 @@
         {
           "questId": 1430,
           "name": "Fresh Meat",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 35
         }
       ]
     },
@@ -8645,7 +8683,7 @@
     "sellPrice": 1822,
     "quality": "Uncommon",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 31,
     "slot": "Waist",
     "tooltip": [
       {
@@ -8680,7 +8718,8 @@
         {
           "questId": 6142,
           "name": "Clam Bait",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 31
         }
       ]
     },
@@ -8697,7 +8736,7 @@
     "sellPrice": 4506,
     "quality": "Uncommon",
     "itemLevel": 47,
-    "requiredLevel": 0,
+    "requiredLevel": 41,
     "slot": "Waist",
     "tooltip": [
       {
@@ -8729,12 +8768,14 @@
         {
           "questId": 7029,
           "name": "Vyletongue Corruption",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 41
         },
         {
           "questId": 7041,
           "name": "Vyletongue Corruption",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 41
         }
       ]
     },
@@ -8796,7 +8837,7 @@
     "sellPrice": 146,
     "quality": "Uncommon",
     "itemLevel": 12,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Waist",
     "tooltip": [
       {
@@ -8831,7 +8872,8 @@
         {
           "questId": 41233,
           "name": "Where Is Your Heart?",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 5
         }
       ]
     },
@@ -8848,7 +8890,7 @@
     "sellPrice": 782,
     "quality": "Uncommon",
     "itemLevel": 26,
-    "requiredLevel": 0,
+    "requiredLevel": 22,
     "slot": "Waist",
     "tooltip": [
       {
@@ -8883,7 +8925,8 @@
         {
           "questId": 41749,
           "name": "Stone Golem Salvage",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 22
         }
       ]
     },
@@ -9368,7 +9411,7 @@
     "sellPrice": 6,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 2,
     "slot": "Waist",
     "tooltip": [
       {
@@ -9397,7 +9440,8 @@
         {
           "questId": 376,
           "name": "The Damned",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 2
         }
       ]
     },
@@ -9414,7 +9458,7 @@
     "sellPrice": 6,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Waist",
     "tooltip": [
       {
@@ -9443,7 +9487,8 @@
         {
           "questId": 21,
           "name": "Skirmish at Echo Ridge",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 1
         }
       ]
     },
@@ -9538,7 +9583,7 @@
     "sellPrice": 1635,
     "quality": "Uncommon",
     "itemLevel": 34,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Waist",
     "tooltip": [
       {
@@ -9573,7 +9618,8 @@
         {
           "questId": 564,
           "name": "Costly Menace",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -9698,7 +9744,7 @@
     "sellPrice": 6,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Waist",
     "tooltip": [
       {
@@ -9727,7 +9773,8 @@
         {
           "questId": 747,
           "name": "The Hunt Begins",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 1
         }
       ]
     },
@@ -9744,7 +9791,7 @@
     "sellPrice": 447,
     "quality": "Uncommon",
     "itemLevel": 22,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Waist",
     "tooltip": [
       {
@@ -9779,7 +9826,8 @@
         {
           "questId": 994,
           "name": "Escape Through Force",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 10
         }
       ]
     },
@@ -9796,7 +9844,7 @@
     "sellPrice": 19,
     "quality": "Common",
     "itemLevel": 8,
-    "requiredLevel": 0,
+    "requiredLevel": 4,
     "slot": "Waist",
     "tooltip": [
       {
@@ -9825,7 +9873,8 @@
         {
           "questId": 768,
           "name": "Gathering Leather",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 4
         }
       ]
     },
@@ -9842,7 +9891,7 @@
     "sellPrice": 6,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Waist",
     "tooltip": [
       {
@@ -9871,7 +9920,8 @@
         {
           "questId": 457,
           "name": "The Balance of Nature",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 1
         }
       ]
     },
@@ -9963,7 +10013,7 @@
     "sellPrice": 1097,
     "quality": "Uncommon",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Waist",
     "tooltip": [
       {
@@ -9998,7 +10048,8 @@
         {
           "questId": 1135,
           "name": "Highperch Venom",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 25
         }
       ]
     },
@@ -10144,7 +10195,7 @@
     "sellPrice": 5333,
     "quality": "Uncommon",
     "itemLevel": 49,
-    "requiredLevel": 0,
+    "requiredLevel": 44,
     "slot": "Waist",
     "tooltip": [
       {
@@ -10179,7 +10230,8 @@
         {
           "questId": 2845,
           "name": "Wandering Shay",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 44
         }
       ]
     },
@@ -10196,7 +10248,7 @@
     "sellPrice": 3586,
     "quality": "Uncommon",
     "itemLevel": 43,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Waist",
     "tooltip": [
       {
@@ -10228,7 +10280,8 @@
         {
           "questId": 1168,
           "name": "Army of the Black Dragon",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 38
         }
       ]
     },
@@ -10607,7 +10660,8 @@
         {
           "questId": 9186,
           "name": "Craftsman's Writ - Wicked Leather Belt",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -10816,7 +10870,7 @@
     "sellPrice": 1009,
     "quality": "Uncommon",
     "itemLevel": 29,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Waist",
     "tooltip": [
       {
@@ -10851,7 +10905,8 @@
         {
           "questId": 4904,
           "name": "Free at Last",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 25
         }
       ]
     },
@@ -10868,7 +10923,7 @@
     "sellPrice": 884,
     "quality": "Uncommon",
     "itemLevel": 27,
-    "requiredLevel": 0,
+    "requiredLevel": 18,
     "slot": "Waist",
     "tooltip": [
       {
@@ -10909,7 +10964,8 @@
         {
           "questId": 6283,
           "name": "Bloodfury Bloodline",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 18
         }
       ]
     },
@@ -11013,7 +11069,7 @@
     "sellPrice": 3407,
     "quality": "Uncommon",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Waist",
     "tooltip": [
       {
@@ -11048,7 +11104,8 @@
         {
           "questId": 40198,
           "name": "Smuggling Ale",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -11065,7 +11122,7 @@
     "sellPrice": 291,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Waist",
     "tooltip": [
       {
@@ -11103,7 +11160,8 @@
         {
           "questId": 40478,
           "name": "The Harvest Golem Mystery",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -11120,7 +11178,7 @@
     "sellPrice": 9342,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Waist",
     "tooltip": [
       {
@@ -11155,7 +11213,8 @@
         {
           "questId": 40498,
           "name": "Raider's Raid",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 50
         }
       ]
     },
@@ -11619,7 +11678,7 @@
     "sellPrice": 57,
     "quality": "Common",
     "itemLevel": 12,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Waist",
     "tooltip": [
       {
@@ -11648,7 +11707,8 @@
         {
           "questId": 425,
           "name": "Ivar the Foul",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 10
         }
       ]
     },
@@ -11878,7 +11938,7 @@
     "sellPrice": 961,
     "quality": "Poor",
     "itemLevel": 38,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Waist",
     "tooltip": [
       {
@@ -11907,7 +11967,8 @@
         {
           "questId": 738,
           "name": "Find Agmond",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -11960,7 +12021,7 @@
     "sellPrice": 6,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 3,
     "slot": "Waist",
     "tooltip": [
       {
@@ -11989,7 +12050,8 @@
         {
           "questId": 41196,
           "name": "Maddening Hunger",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 3
         }
       ]
     },
@@ -12006,7 +12068,7 @@
     "sellPrice": 5,
     "quality": "Common",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 4,
     "slot": "Waist",
     "tooltip": [
       {
@@ -12035,7 +12097,8 @@
         {
           "questId": 80107,
           "name": "Shadow On The Plateau",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 4
         }
       ]
     },

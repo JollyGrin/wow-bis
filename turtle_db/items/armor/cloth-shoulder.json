@@ -626,7 +626,7 @@
     "sellPrice": 46868,
     "quality": "Epic",
     "itemLevel": 78,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -661,7 +661,8 @@
         {
           "questId": 8664,
           "name": "Doomcaller's Mantle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -678,7 +679,7 @@
     "sellPrice": 49895,
     "quality": "Epic",
     "itemLevel": 78,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -716,7 +717,8 @@
         {
           "questId": 8625,
           "name": "Enigma Shoulderpads",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -733,7 +735,7 @@
     "sellPrice": 45983,
     "quality": "Epic",
     "itemLevel": 78,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -771,7 +773,8 @@
         {
           "questId": 8594,
           "name": "Mantle of the Oracle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -833,7 +836,7 @@
     "sellPrice": 18788,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -874,12 +877,14 @@
         {
           "questId": 8953,
           "name": "Anthion's Parting Words",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 9018,
           "name": "Anthion's Parting Words",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -896,7 +901,7 @@
     "sellPrice": 19138,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -934,12 +939,14 @@
         {
           "questId": 8958,
           "name": "Anthion's Parting Words",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 9021,
           "name": "Anthion's Parting Words",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -956,7 +963,7 @@
     "sellPrice": 67669,
     "quality": "Epic",
     "itemLevel": 86,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -994,7 +1001,8 @@
         {
           "questId": 9098,
           "name": "Frostfire Shoulderpads",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1011,7 +1019,7 @@
     "sellPrice": 71623,
     "quality": "Epic",
     "itemLevel": 86,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -1046,7 +1054,8 @@
         {
           "questId": 9106,
           "name": "Plagueheart Shoulderpads",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1063,7 +1072,7 @@
     "sellPrice": 73703,
     "quality": "Epic",
     "itemLevel": 86,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -1101,7 +1110,8 @@
         {
           "questId": 9114,
           "name": "Shoulderpads of Faith",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1249,7 +1259,8 @@
         {
           "questId": 41477,
           "name": "Arcanist's Shoulders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1310,7 +1321,8 @@
         {
           "questId": 41468,
           "name": "Netherwind Shoulders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1368,7 +1380,8 @@
         {
           "questId": 8625,
           "name": "Enigma Shoulderpads",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1426,7 +1439,8 @@
         {
           "questId": 9098,
           "name": "Frostfire Shoulderpads",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1443,7 +1457,7 @@
     "sellPrice": 88372,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -1481,7 +1495,8 @@
         {
           "questId": 41621,
           "name": "Shoulders of the Guardian",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1498,7 +1513,7 @@
     "sellPrice": 88578,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -1539,7 +1554,8 @@
         {
           "questId": 41621,
           "name": "Shoulders of the Guardian",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1600,7 +1616,8 @@
         {
           "questId": 41460,
           "name": "Shoulder of Prophecy",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1661,7 +1678,8 @@
         {
           "questId": 41452,
           "name": "Shoulders of Transcendence",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1716,7 +1734,8 @@
         {
           "questId": 9114,
           "name": "Shoulderpads of Faith",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1733,7 +1752,7 @@
     "sellPrice": 77458,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -1774,7 +1793,8 @@
         {
           "questId": 41597,
           "name": "Shoulderguards of Pestilence",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1791,7 +1811,7 @@
     "sellPrice": 77308,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -1829,7 +1849,8 @@
         {
           "questId": 41597,
           "name": "Shoulderguards of Pestilence",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1887,7 +1908,8 @@
         {
           "questId": 41426,
           "name": "Felheart Shoulders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1945,7 +1967,8 @@
         {
           "questId": 41418,
           "name": "Nemesis Shoulders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2000,7 +2023,8 @@
         {
           "questId": 8664,
           "name": "Doomcaller's Mantle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2055,7 +2079,8 @@
         {
           "questId": 9106,
           "name": "Plagueheart Shoulderpads",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2072,7 +2097,7 @@
     "sellPrice": 95310,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -2110,7 +2135,8 @@
         {
           "questId": 41585,
           "name": "Nathrezim Shoulderguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2127,7 +2153,7 @@
     "sellPrice": 95310,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -2165,7 +2191,8 @@
         {
           "questId": 41585,
           "name": "Nathrezim Shoulderguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2653,7 +2680,7 @@
     "sellPrice": 2765,
     "quality": "Rare",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 29,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -2691,12 +2718,14 @@
         {
           "questId": 1102,
           "name": "A Vengeful Fate",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 29
         },
         {
           "questId": 1101,
           "name": "The Crone of the Kraul",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 29
         }
       ]
     },
@@ -3718,7 +3747,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 68,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -3756,7 +3785,8 @@
         {
           "questId": 8071,
           "name": "Paragons of Power: The Confessor's Mantle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -3773,7 +3803,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -3811,7 +3841,8 @@
         {
           "questId": 8068,
           "name": "Paragons of Power: The Illusionist's Mantle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -3828,7 +3859,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -3863,7 +3894,8 @@
         {
           "questId": 8076,
           "name": "Paragons of Power: The Demoniac's Mantle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -3967,7 +3999,7 @@
     "sellPrice": 19769,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -4008,12 +4040,14 @@
         {
           "questId": 8955,
           "name": "Anthion's Parting Words",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 9019,
           "name": "Anthion's Parting Words",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -4437,7 +4471,8 @@
         {
           "questId": 8594,
           "name": "Mantle of the Oracle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -4544,7 +4579,7 @@
     "sellPrice": 4106,
     "quality": "Rare",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 32,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -4582,7 +4617,8 @@
         {
           "questId": 40091,
           "name": "The Crescent Grove",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 32
         }
       ]
     },
@@ -5043,7 +5079,7 @@
     "sellPrice": 1622,
     "quality": "Uncommon",
     "itemLevel": 32,
-    "requiredLevel": 0,
+    "requiredLevel": 26,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -5078,7 +5114,8 @@
         {
           "questId": 1031,
           "name": "The Branch of Cenarius",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 26
         }
       ]
     },
@@ -5674,7 +5711,7 @@
     "sellPrice": 11569,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -5709,7 +5746,8 @@
         {
           "questId": 4063,
           "name": "The Rise of the Machines",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 52
         }
       ]
     },
@@ -6284,7 +6322,7 @@
     "sellPrice": 1134,
     "quality": "Uncommon",
     "itemLevel": 28,
-    "requiredLevel": 0,
+    "requiredLevel": 24,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -6319,7 +6357,8 @@
         {
           "questId": 5064,
           "name": "Grimtotem Spying",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 24
         }
       ]
     },
@@ -6336,7 +6375,7 @@
     "sellPrice": 11541,
     "quality": "Uncommon",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -6371,7 +6410,8 @@
         {
           "questId": 5121,
           "name": "High Chief Winterfall",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 52
         }
       ]
     },
@@ -6967,7 +7007,7 @@
     "sellPrice": 3516,
     "quality": "Uncommon",
     "itemLevel": 43,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -7005,7 +7045,8 @@
         {
           "questId": 55040,
           "name": "Returning Property",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 25
         }
       ]
     },
@@ -7115,7 +7156,7 @@
     "sellPrice": 1153,
     "quality": "Uncommon",
     "itemLevel": 28,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -7150,7 +7191,8 @@
         {
           "questId": 299,
           "name": "Uncovering the Past",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 25
         }
       ]
     },
@@ -7167,7 +7209,7 @@
     "sellPrice": 1119,
     "quality": "Uncommon",
     "itemLevel": 28,
-    "requiredLevel": 0,
+    "requiredLevel": 18,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -7202,7 +7244,8 @@
         {
           "questId": 1098,
           "name": "Deathstalkers in Shadowfang",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 18
         }
       ]
     },
@@ -7219,7 +7262,7 @@
     "sellPrice": 2102,
     "quality": "Uncommon",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -7254,7 +7297,8 @@
         {
           "questId": 253,
           "name": "Bride of the Embalmer",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },
@@ -7271,7 +7315,7 @@
     "sellPrice": 1875,
     "quality": "Uncommon",
     "itemLevel": 34,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -7306,7 +7350,8 @@
         {
           "questId": 204,
           "name": "Bad Medicine",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -7491,7 +7536,7 @@
     "sellPrice": 1003,
     "quality": "Uncommon",
     "itemLevel": 27,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -7526,7 +7571,8 @@
         {
           "questId": 249,
           "name": "Morganth",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },
@@ -7792,7 +7838,7 @@
     "sellPrice": 1712,
     "quality": "Uncommon",
     "itemLevel": 33,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -7827,7 +7873,8 @@
         {
           "questId": 1051,
           "name": "Vorrel's Revenge",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 25
         }
       ]
     },
@@ -7934,7 +7981,7 @@
     "sellPrice": 1411,
     "quality": "Uncommon",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -7969,7 +8016,8 @@
         {
           "questId": 2904,
           "name": "A Fine Mess",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 20
         }
       ]
     },
@@ -8382,7 +8430,7 @@
     "sellPrice": 933,
     "quality": "Uncommon",
     "itemLevel": 26,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -8417,12 +8465,14 @@
         {
           "questId": 3369,
           "name": "In Nightmares",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 10
         },
         {
           "questId": 3370,
           "name": "In Nightmares",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 10
         }
       ]
     },
@@ -8439,7 +8489,7 @@
     "sellPrice": 1846,
     "quality": "Uncommon",
     "itemLevel": 33,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -8474,7 +8524,8 @@
         {
           "questId": 1440,
           "name": "Return to Vahlarriel",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -9037,7 +9088,7 @@
     "sellPrice": 9574,
     "quality": "Uncommon",
     "itemLevel": 56,
-    "requiredLevel": 0,
+    "requiredLevel": 53,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -9078,7 +9129,8 @@
         {
           "questId": 4971,
           "name": "A Matter of Time",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 53
         }
       ]
     },
@@ -9095,7 +9147,7 @@
     "sellPrice": 1313,
     "quality": "Uncommon",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -9133,7 +9185,8 @@
         {
           "questId": 1035,
           "name": "Fallen Sky Lake",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },
@@ -9192,7 +9245,7 @@
     "sellPrice": 2596,
     "quality": "Uncommon",
     "itemLevel": 37,
-    "requiredLevel": 0,
+    "requiredLevel": 21,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -9230,7 +9283,8 @@
         {
           "questId": 41761,
           "name": "Into The Hornet's Nest",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 21
         }
       ]
     },
@@ -9247,7 +9301,7 @@
     "sellPrice": 2275,
     "quality": "Uncommon",
     "itemLevel": 33,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -9285,7 +9339,8 @@
         {
           "questId": 41822,
           "name": "Grim Sunlight",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 25
         }
       ]
     },
@@ -9500,7 +9555,7 @@
     "sellPrice": 892,
     "quality": "Uncommon",
     "itemLevel": 26,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -9535,7 +9590,8 @@
         {
           "questId": 1058,
           "name": "Jin'Zil's Forest Magic",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 20
         }
       ]
     },
@@ -10017,7 +10073,7 @@
     "sellPrice": 1,
     "quality": "Common",
     "itemLevel": 1,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -10046,7 +10102,8 @@
         {
           "questId": 9323,
           "name": "Wild Fires in the Eastern Kingdoms",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 1
         }
       ]
     },

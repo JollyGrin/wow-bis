@@ -776,7 +776,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -814,7 +814,8 @@
         {
           "questId": 8058,
           "name": "Paragons of Power: The Vindicator's Armguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -831,7 +832,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -872,7 +873,8 @@
         {
           "questId": 8053,
           "name": "Paragons of Power: The Freethinker's Armguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -973,7 +975,7 @@
     "sellPrice": 14425,
     "quality": "Epic",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -1011,7 +1013,8 @@
         {
           "questId": 8574,
           "name": "Stalwart's Battlegear",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1169,7 +1172,7 @@
     "sellPrice": 12568,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -1213,12 +1216,14 @@
         {
           "questId": 8912,
           "name": "An Earnest Proposition",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 8920,
           "name": "An Earnest Proposition",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1235,7 +1240,7 @@
     "sellPrice": 12524,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -1282,7 +1287,8 @@
         {
           "questId": 8908,
           "name": "An Earnest Proposition",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1347,7 +1353,7 @@
     "sellPrice": 50527,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -1382,7 +1388,8 @@
         {
           "questId": 9042,
           "name": "Dreadnaught Bracers",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1399,7 +1406,7 @@
     "sellPrice": 50719,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -1434,7 +1441,8 @@
         {
           "questId": 9050,
           "name": "Redemption Wristguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1492,7 +1500,8 @@
         {
           "questId": 9235,
           "name": "Icebane Bracers",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1640,7 +1649,8 @@
         {
           "questId": 41496,
           "name": "Lawbringer's Wrists",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1701,7 +1711,8 @@
         {
           "questId": 41496,
           "name": "Lawbringer's Wrists",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1759,7 +1770,8 @@
         {
           "questId": 41488,
           "name": "Judgement's Wrists",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1817,7 +1829,8 @@
         {
           "questId": 41488,
           "name": "Judgement's Wrists",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1872,7 +1885,8 @@
         {
           "questId": 9050,
           "name": "Redemption Wristguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1927,7 +1941,8 @@
         {
           "questId": 9050,
           "name": "Redemption Wristguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1985,7 +2000,8 @@
         {
           "questId": 41445,
           "name": "Wrists of Might",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2040,7 +2056,8 @@
         {
           "questId": 41437,
           "name": "Wrists of Wrath",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2095,7 +2112,8 @@
         {
           "questId": 9042,
           "name": "Dreadnaught Bracers",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -3573,7 +3591,7 @@
     "sellPrice": 7907,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 57,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -3605,12 +3623,14 @@
         {
           "questId": 4765,
           "name": "Delivery to Ridgewell",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 57
         },
         {
           "questId": 4768,
           "name": "The Darkstone Tablet",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 57
         }
       ]
     },
@@ -4449,7 +4469,7 @@
     "sellPrice": 7638,
     "quality": "Uncommon",
     "itemLevel": 57,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -4481,7 +4501,8 @@
         {
           "questId": 40283,
           "name": "Azsharan Front",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 40
         }
       ]
     },
@@ -4543,7 +4564,7 @@
     "sellPrice": 7258,
     "quality": "Uncommon",
     "itemLevel": 57,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -4578,7 +4599,8 @@
         {
           "questId": 40468,
           "name": "Miners Union Mutiny II",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -4595,7 +4617,7 @@
     "sellPrice": 4682,
     "quality": "Uncommon",
     "itemLevel": 44,
-    "requiredLevel": 0,
+    "requiredLevel": 34,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -4627,7 +4649,8 @@
         {
           "questId": 40690,
           "name": "Blackhorn Village",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 34
         }
       ]
     },
@@ -4692,7 +4715,7 @@
     "sellPrice": 3618,
     "quality": "Uncommon",
     "itemLevel": 46,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -4727,7 +4750,8 @@
         {
           "questId": 40979,
           "name": "Ebonmere Affairs",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 35
         }
       ]
     },
@@ -4978,7 +5002,7 @@
     "sellPrice": 4549,
     "quality": "Uncommon",
     "itemLevel": 50,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -5013,7 +5037,8 @@
         {
           "questId": 3378,
           "name": "Prayer to Elune",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         }
       ]
     },
@@ -5393,7 +5418,7 @@
     "sellPrice": 7530,
     "quality": "Uncommon",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -5428,7 +5453,8 @@
         {
           "questId": 4883,
           "name": "Guarding Secrets",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 52
         }
       ]
     },

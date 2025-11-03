@@ -554,7 +554,7 @@
     "sellPrice": 71236,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 57,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -589,12 +589,14 @@
         {
           "questId": 7462,
           "name": "The Treasure of the Shen'dralar",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 57
         },
         {
           "questId": 7877,
           "name": "The Treasure of the Shen'dralar",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 57
         }
       ]
     },
@@ -2392,7 +2394,7 @@
     "sellPrice": 466,
     "quality": "Uncommon",
     "itemLevel": 12,
-    "requiredLevel": 0,
+    "requiredLevel": 6,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -2427,7 +2429,8 @@
         {
           "questId": 314,
           "name": "Protecting the Herd",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 6
         }
       ]
     },
@@ -3622,7 +3625,7 @@
     "sellPrice": 73597,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -3651,7 +3654,8 @@
         {
           "questId": 5944,
           "name": "In Dreams",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 52
         }
       ]
     },
@@ -4129,7 +4133,7 @@
     "sellPrice": 68955,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -4164,7 +4168,8 @@
         {
           "questId": 40779,
           "name": "The Terrible Krampus",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },

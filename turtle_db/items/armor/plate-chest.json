@@ -158,7 +158,7 @@
     "sellPrice": 35192,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 57,
     "slot": "Chest",
     "tooltip": [
       {
@@ -193,7 +193,8 @@
         {
           "questId": 5068,
           "name": "Breastplate of Bloodthirst",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 57
         }
       ]
     },
@@ -315,7 +316,7 @@
     "sellPrice": 165232,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Chest",
     "tooltip": [
       {
@@ -350,7 +351,8 @@
         {
           "questId": 9077,
           "name": "Bonescythe Breastplate",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -367,7 +369,7 @@
     "sellPrice": 216433,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Chest",
     "tooltip": [
       {
@@ -408,7 +410,8 @@
         {
           "questId": 41604,
           "name": "Trickster Chest",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -944,7 +947,7 @@
     "sellPrice": 16938,
     "quality": "Uncommon",
     "itemLevel": 57,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Chest",
     "tooltip": [
       {
@@ -982,12 +985,14 @@
         {
           "questId": 793,
           "name": "Broken Alliances",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         },
         {
           "questId": 717,
           "name": "Tremors of the Earth",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         }
       ]
     },
@@ -1178,7 +1183,7 @@
     "sellPrice": 2209,
     "quality": "Uncommon",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 26,
     "slot": "Chest",
     "tooltip": [
       {
@@ -1216,7 +1221,8 @@
         {
           "questId": 547,
           "name": "Humbert's Sword",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 26
         }
       ]
     },
@@ -1838,7 +1844,8 @@
         {
           "questId": 9246,
           "name": "Icy Scale Breastplate",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1902,7 +1909,8 @@
         {
           "questId": 41511,
           "name": "Earthfury Chest",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1969,7 +1977,8 @@
         {
           "questId": 41503,
           "name": "Chest of Ten Storms",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2027,7 +2036,8 @@
         {
           "questId": 8622,
           "name": "Stormcaller's Hauberk",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2088,7 +2098,8 @@
         {
           "questId": 9068,
           "name": "Earthshatter Tunic",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2105,7 +2116,7 @@
     "sellPrice": 252439,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Chest",
     "tooltip": [
       {
@@ -2149,7 +2160,8 @@
         {
           "questId": 41616,
           "name": "Stormhowl Chest",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2346,7 +2358,7 @@
     "sellPrice": 29461,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 57,
     "slot": "Chest",
     "tooltip": [
       {
@@ -2387,7 +2399,8 @@
         {
           "questId": 5166,
           "name": "Breastplates of the Chromatic Flight",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 57
         }
       ]
     },
@@ -3202,7 +3215,7 @@
     "sellPrice": 1418,
     "quality": "Uncommon",
     "itemLevel": 24,
-    "requiredLevel": 0,
+    "requiredLevel": 19,
     "slot": "Chest",
     "tooltip": [
       {
@@ -3240,7 +3253,8 @@
         {
           "questId": 976,
           "name": "Supplies to Auberdine",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 19
         }
       ]
     },
@@ -3509,7 +3523,7 @@
     "sellPrice": 195,
     "quality": "Uncommon",
     "itemLevel": 12,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Chest",
     "tooltip": [
       {
@@ -3541,7 +3555,8 @@
         {
           "questId": 41249,
           "name": "Leaders of the Reefscale",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 5
         }
       ]
     },
@@ -3558,7 +3573,7 @@
     "sellPrice": 11961,
     "quality": "Uncommon",
     "itemLevel": 43,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Chest",
     "tooltip": [
       {
@@ -3596,7 +3611,8 @@
         {
           "questId": 40971,
           "name": "Crystalvein Delivery",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 35
         }
       ]
     },
@@ -3613,7 +3629,7 @@
     "sellPrice": 12637,
     "quality": "Uncommon",
     "itemLevel": 50,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Chest",
     "tooltip": [
       {
@@ -3651,7 +3667,8 @@
         {
           "questId": 40975,
           "name": "The Judge and the Phantom",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 35
         }
       ]
     },
@@ -4337,7 +4354,7 @@
     "sellPrice": 22592,
     "quality": "Uncommon",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Chest",
     "tooltip": [
       {
@@ -4372,12 +4389,14 @@
         {
           "questId": 4701,
           "name": "Put Her Down",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 55
         },
         {
           "questId": 4724,
           "name": "The Pack Mistress",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 55
         }
       ]
     },
@@ -4565,7 +4584,7 @@
     "sellPrice": 6488,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 35,
+    "requiredLevel": 40,
     "slot": "Chest",
     "tooltip": [
       {
@@ -4597,7 +4616,8 @@
         {
           "questId": 2756,
           "name": "The Old Ways",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 40
         }
       ]
     },
@@ -4614,7 +4634,7 @@
     "sellPrice": 7567,
     "quality": "Uncommon",
     "itemLevel": 42,
-    "requiredLevel": 37,
+    "requiredLevel": 30,
     "slot": "Chest",
     "tooltip": [
       {
@@ -4655,12 +4675,14 @@
         {
           "questId": 2849,
           "name": "Wild Leather Vest",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         },
         {
           "questId": 2856,
           "name": "Wild Leather Vest",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -4677,7 +4699,7 @@
     "sellPrice": 8628,
     "quality": "Uncommon",
     "itemLevel": 44,
-    "requiredLevel": 39,
+    "requiredLevel": 40,
     "slot": "Chest",
     "tooltip": [
       {
@@ -4715,12 +4737,14 @@
         {
           "questId": 5141,
           "name": "Dragonscale Leatherworking",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         },
         {
           "questId": 5145,
           "name": "Dragonscale Leatherworking",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 40
         }
       ]
     },
@@ -5067,7 +5091,7 @@
     "sellPrice": 29461,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 57,
     "slot": "Chest",
     "tooltip": [
       {
@@ -5108,7 +5132,8 @@
         {
           "questId": 5166,
           "name": "Breastplates of the Chromatic Flight",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 57
         }
       ]
     },
@@ -5530,7 +5555,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Chest",
     "tooltip": [
       {
@@ -5568,7 +5593,8 @@
         {
           "questId": 8079,
           "name": "Paragons of Power: The Vindicator's Breastplate",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -5585,7 +5611,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Chest",
     "tooltip": [
       {
@@ -5626,7 +5652,8 @@
         {
           "questId": 8055,
           "name": "Paragons of Power: The Freethinker's Breastplate",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -5643,7 +5670,7 @@
     "sellPrice": 100263,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Chest",
     "tooltip": [
       {
@@ -5681,7 +5708,8 @@
         {
           "questId": 8562,
           "name": "Conqueror's Breastplate",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -5698,7 +5726,7 @@
     "sellPrice": 99463,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Chest",
     "tooltip": [
       {
@@ -5739,7 +5767,8 @@
         {
           "questId": 8627,
           "name": "Avenger's Breastplate",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         }
       ]
     },
@@ -5852,7 +5881,7 @@
     "sellPrice": 26359,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Chest",
     "tooltip": [
       {
@@ -5896,12 +5925,14 @@
         {
           "questId": 9006,
           "name": "Saving the Best for Last",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 9013,
           "name": "Saving the Best for Last",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -5918,7 +5949,7 @@
     "sellPrice": 26266,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Chest",
     "tooltip": [
       {
@@ -5965,7 +5996,8 @@
         {
           "questId": 9002,
           "name": "Saving the Best for Last",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         }
       ]
     },
@@ -6027,7 +6059,7 @@
     "sellPrice": 128887,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Chest",
     "tooltip": [
       {
@@ -6062,7 +6094,8 @@
         {
           "questId": 9034,
           "name": "Dreadnaught Breastplate",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6079,7 +6112,7 @@
     "sellPrice": 123767,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Chest",
     "tooltip": [
       {
@@ -6114,7 +6147,8 @@
         {
           "questId": 9043,
           "name": "Redemption Tunic",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6172,7 +6206,8 @@
         {
           "questId": 9236,
           "name": "Icebane Breastplate",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6323,7 +6358,8 @@
         {
           "questId": 41495,
           "name": "Lawbringer's Chest",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6387,7 +6423,8 @@
         {
           "questId": 41495,
           "name": "Lawbringer's Chest",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6448,7 +6485,8 @@
         {
           "questId": 41487,
           "name": "Judgement's Chest",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6512,7 +6550,8 @@
         {
           "questId": 41487,
           "name": "Judgement's Chest",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6570,7 +6609,8 @@
         {
           "questId": 8627,
           "name": "Avenger's Breastplate",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6628,7 +6668,8 @@
         {
           "questId": 8627,
           "name": "Avenger's Breastplate",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6683,7 +6724,8 @@
         {
           "questId": 9043,
           "name": "Redemption Tunic",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6741,7 +6783,8 @@
         {
           "questId": 9043,
           "name": "Redemption Tunic",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6758,7 +6801,7 @@
     "sellPrice": 159353,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Chest",
     "tooltip": [
       {
@@ -6796,7 +6839,8 @@
         {
           "questId": 41628,
           "name": "Lionheart Chest",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -6813,7 +6857,7 @@
     "sellPrice": 159353,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Chest",
     "tooltip": [
       {
@@ -6854,7 +6898,8 @@
         {
           "questId": 41628,
           "name": "Lionheart Chest",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -6871,7 +6916,7 @@
     "sellPrice": 159353,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Chest",
     "tooltip": [
       {
@@ -6912,7 +6957,8 @@
         {
           "questId": 41628,
           "name": "Lionheart Chest",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -6970,7 +7016,8 @@
         {
           "questId": 41444,
           "name": "Chest of Might",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -7031,7 +7078,8 @@
         {
           "questId": 41436,
           "name": "Chest of Wrath",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -7134,7 +7182,8 @@
         {
           "questId": 9034,
           "name": "Dreadnaught Breastplate",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -7151,7 +7200,7 @@
     "sellPrice": 159353,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Chest",
     "tooltip": [
       {
@@ -7192,7 +7241,8 @@
         {
           "questId": 41592,
           "name": "Chest of the Brotherhood",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -7260,7 +7310,7 @@
     "sellPrice": 17841,
     "quality": "Rare",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Chest",
     "tooltip": [
       {
@@ -7301,7 +7351,8 @@
         {
           "questId": 40127,
           "name": "The Dampening Must End",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         }
       ]
     },
@@ -8584,7 +8635,7 @@
     "sellPrice": 22519,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Chest",
     "tooltip": [
       {
@@ -8616,7 +8667,8 @@
         {
           "questId": 5944,
           "name": "In Dreams",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 52
         }
       ]
     },
@@ -9437,7 +9489,7 @@
     "sellPrice": 17800,
     "quality": "Uncommon",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Chest",
     "tooltip": [
       {
@@ -9472,7 +9524,8 @@
         {
           "questId": 40769,
           "name": "Chillwind Armor",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 48
         }
       ]
     },
@@ -9579,7 +9632,7 @@
     "sellPrice": 24688,
     "quality": "Rare",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Chest",
     "tooltip": [
       {
@@ -9614,7 +9667,8 @@
         {
           "questId": 40990,
           "name": "The Runestone Scepter",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -9769,7 +9823,7 @@
     "sellPrice": 16822,
     "quality": "Rare",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 46,
     "slot": "Chest",
     "tooltip": [
       {
@@ -9807,7 +9861,8 @@
         {
           "questId": 55018,
           "name": "The Big Energy Project",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 46
         }
       ]
     },
@@ -9917,7 +9972,7 @@
     "sellPrice": 7045,
     "quality": "Uncommon",
     "itemLevel": 46,
-    "requiredLevel": 41,
+    "requiredLevel": 40,
     "slot": "Chest",
     "tooltip": [
       {
@@ -9952,7 +10007,8 @@
         {
           "questId": 2773,
           "name": "The Mithril Kid",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -9969,7 +10025,7 @@
     "sellPrice": 8368,
     "quality": "Uncommon",
     "itemLevel": 48,
-    "requiredLevel": 43,
+    "requiredLevel": 40,
     "slot": "Chest",
     "tooltip": [
       {
@@ -10001,12 +10057,14 @@
         {
           "questId": 5283,
           "name": "The Art of the Armorsmith",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         },
         {
           "questId": 5301,
           "name": "The Art of the Armorsmith",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 40
         }
       ]
     },
@@ -10467,7 +10525,7 @@
     "sellPrice": 13655,
     "quality": "Uncommon",
     "itemLevel": 57,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Chest",
     "tooltip": [
       {
@@ -10502,12 +10560,14 @@
         {
           "questId": 793,
           "name": "Broken Alliances",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         },
         {
           "questId": 717,
           "name": "Tremors of the Earth",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         }
       ]
     },
@@ -10619,7 +10679,8 @@
         {
           "questId": 9179,
           "name": "Craftsman's Writ - Imperial Plate Chest",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -11179,7 +11240,7 @@
     "sellPrice": 15108,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Chest",
     "tooltip": [
       {
@@ -11211,7 +11272,8 @@
         {
           "questId": 8464,
           "name": "Winterfall Activity",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },

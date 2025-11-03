@@ -2378,7 +2378,7 @@
     "sellPrice": 2862,
     "quality": "Uncommon",
     "itemLevel": 28,
-    "requiredLevel": 0,
+    "requiredLevel": 19,
     "slot": "Ranged",
     "tooltip": [
       {
@@ -2407,7 +2407,8 @@
         {
           "questId": 567,
           "name": "Dangerous!",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 19
         }
       ]
     },
@@ -3882,7 +3883,7 @@
     "sellPrice": 241,
     "quality": "Uncommon",
     "itemLevel": 13,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Ranged",
     "tooltip": [
       {
@@ -3914,7 +3915,8 @@
         {
           "questId": 41251,
           "name": "Rommath, the Saviour",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 5
         }
       ]
     },
@@ -5641,7 +5643,7 @@
     "sellPrice": 27307,
     "quality": "Uncommon",
     "itemLevel": 57,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Ranged",
     "tooltip": [
       {
@@ -5670,7 +5672,8 @@
         {
           "questId": 4902,
           "name": "Wildkin of Elune",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 52
         }
       ]
     },

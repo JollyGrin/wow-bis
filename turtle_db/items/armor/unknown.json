@@ -44,7 +44,7 @@
     "sellPrice": 5423,
     "quality": "Uncommon",
     "itemLevel": 48,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Neck",
     "tooltip": [
       {
@@ -67,7 +67,8 @@
         {
           "questId": 41048,
           "name": "Essence of Zalmos",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 38
         }
       ]
     },
@@ -84,7 +85,7 @@
     "sellPrice": 1253,
     "quality": "Uncommon",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Neck",
     "tooltip": [
       {
@@ -110,7 +111,8 @@
         {
           "questId": 70022,
           "name": "Norvok of the Spear",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 28
         }
       ]
     },
@@ -127,7 +129,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -156,7 +158,8 @@
         {
           "questId": 8701,
           "name": "Band of Veiled Shadows",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -242,7 +245,7 @@
     "sellPrice": 2851,
     "quality": "Uncommon",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Relic",
     "tooltip": [
       {
@@ -264,7 +267,8 @@
         {
           "questId": 41733,
           "name": "Rebuilding the Relic",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -804,7 +808,7 @@
     "sellPrice": 9444,
     "quality": "Uncommon",
     "itemLevel": 44,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -839,7 +843,8 @@
         {
           "questId": 613,
           "name": "Cracking Maury's Foot",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -940,7 +945,7 @@
     "sellPrice": 470,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 9,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -972,7 +977,8 @@
         {
           "questId": 307,
           "name": "Filthy Paws",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 9
         }
       ]
     },
@@ -1088,7 +1094,7 @@
     "sellPrice": 1632,
     "quality": "Common",
     "itemLevel": 27,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Shirt",
     "tooltip": [
       {
@@ -1111,7 +1117,8 @@
         {
           "questId": 80383,
           "name": "Sharks Are Friends, Not Food",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 35
         }
       ]
     },
@@ -1128,7 +1135,7 @@
     "sellPrice": 1632,
     "quality": "Common",
     "itemLevel": 0,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Shirt",
     "tooltip": [
       {
@@ -1151,7 +1158,8 @@
         {
           "questId": 80383,
           "name": "Sharks Are Friends, Not Food",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 35
         }
       ]
     },
@@ -1216,7 +1224,7 @@
     "sellPrice": 284,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Relic",
     "tooltip": [
       {
@@ -1254,7 +1262,8 @@
         {
           "questId": 741,
           "name": "The Absent Minded Prospector",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -1346,7 +1355,7 @@
     "sellPrice": 4010,
     "quality": "Uncommon",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Feet",
     "tooltip": [
       {
@@ -1384,7 +1393,8 @@
         {
           "questId": 598,
           "name": "Split Bone Necklace",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -1401,7 +1411,7 @@
     "sellPrice": 688,
     "quality": "Uncommon",
     "itemLevel": 24,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Feet",
     "tooltip": [
       {
@@ -1436,7 +1446,8 @@
         {
           "questId": 346,
           "name": "Return to Kristoff",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },
@@ -1453,7 +1464,7 @@
     "sellPrice": 1794,
     "quality": "Uncommon",
     "itemLevel": 37,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -1488,7 +1499,8 @@
         {
           "questId": 582,
           "name": "Headhunting",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -1505,7 +1517,7 @@
     "sellPrice": 1781,
     "quality": "Uncommon",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 24,
     "slot": "Head",
     "tooltip": [
       {
@@ -1534,7 +1546,8 @@
         {
           "questId": 70034,
           "name": "Hawk's Beak",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 24
         }
       ]
     },
@@ -1833,7 +1846,7 @@
     "sellPrice": 4380,
     "quality": "Uncommon",
     "itemLevel": 41,
-    "requiredLevel": 0,
+    "requiredLevel": 37,
     "slot": "Feet",
     "tooltip": [
       {
@@ -1868,7 +1881,8 @@
         {
           "questId": 1364,
           "name": "Mazen's Behest",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 37
         }
       ]
     },
@@ -1963,7 +1977,7 @@
     "sellPrice": 19802,
     "quality": "Uncommon",
     "itemLevel": 46,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Chest",
     "tooltip": [
       {
@@ -2004,7 +2018,8 @@
         {
           "questId": 41811,
           "name": "The Farraki Ancient",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -2021,7 +2036,7 @@
     "sellPrice": 6021,
     "quality": "Uncommon",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Feet",
     "tooltip": [
       {
@@ -2056,7 +2071,8 @@
         {
           "questId": 598,
           "name": "Split Bone Necklace",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -2073,7 +2089,7 @@
     "sellPrice": 2681,
     "quality": "Uncommon",
     "itemLevel": 37,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -2108,7 +2124,8 @@
         {
           "questId": 582,
           "name": "Headhunting",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },

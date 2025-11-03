@@ -2612,7 +2612,7 @@
     "sellPrice": 35315,
     "quality": "Rare",
     "itemLevel": 54,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "One-hand",
     "tooltip": [
       {
@@ -2644,7 +2644,8 @@
         {
           "questId": 3528,
           "name": "The God Hakkar",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -3072,7 +3073,7 @@
     "sellPrice": 57806,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 57,
     "slot": "One-hand",
     "tooltip": [
       {
@@ -3101,7 +3102,8 @@
         {
           "questId": 5466,
           "name": "The Lich, Ras Frostwhisper",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 57
         }
       ]
     },
@@ -3385,7 +3387,7 @@
     "sellPrice": 30651,
     "quality": "Rare",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "One-hand",
     "tooltip": [
       {
@@ -3417,7 +3419,8 @@
         {
           "questId": 8253,
           "name": "Destroy Morphaz",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -5418,7 +5421,7 @@
     "sellPrice": 64512,
     "quality": "Rare",
     "itemLevel": 66,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Main Hand",
     "tooltip": [
       {
@@ -5453,22 +5456,26 @@
         {
           "questId": 9227,
           "name": "Superior Armaments of Battle - Exalted Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9221,
           "name": "Superior Armaments of Battle - Friend of the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9223,
           "name": "Superior Armaments of Battle - Honored Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9226,
           "name": "Superior Armaments of Battle - Revered Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -5569,7 +5576,7 @@
     "sellPrice": 10933,
     "quality": "Rare",
     "itemLevel": 32,
-    "requiredLevel": 0,
+    "requiredLevel": 24,
     "slot": "Main Hand",
     "tooltip": [
       {
@@ -5607,7 +5614,8 @@
         {
           "questId": 41751,
           "name": "The Dragonmaw Brood",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 24
         }
       ]
     },
@@ -7607,7 +7615,7 @@
     "sellPrice": 1046,
     "quality": "Uncommon",
     "itemLevel": 18,
-    "requiredLevel": 0,
+    "requiredLevel": 12,
     "slot": "One-hand",
     "tooltip": [
       {
@@ -7642,7 +7650,8 @@
         {
           "questId": 491,
           "name": "Wand to Bethor",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 12
         }
       ]
     },
@@ -8791,7 +8800,7 @@
     "sellPrice": 29068,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Main Hand",
     "tooltip": [
       {
@@ -8826,7 +8835,8 @@
         {
           "questId": 41767,
           "name": "Rise of the Venture Co.",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },
@@ -8941,7 +8951,7 @@
     "sellPrice": 2088,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 18,
     "slot": "One-hand",
     "tooltip": [
       {
@@ -8976,7 +8986,8 @@
         {
           "questId": 40571,
           "name": "Strange Bedfellows",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 18
         }
       ]
     },
@@ -11403,7 +11414,7 @@
     "sellPrice": 425,
     "quality": "Uncommon",
     "itemLevel": 14,
-    "requiredLevel": 0,
+    "requiredLevel": 7,
     "slot": "One-hand",
     "tooltip": [
       {
@@ -11435,7 +11446,8 @@
         {
           "questId": 60111,
           "name": "A Decisive Blow",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 7
         }
       ]
     },
@@ -11452,7 +11464,7 @@
     "sellPrice": 46189,
     "quality": "Uncommon",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Main Hand",
     "tooltip": [
       {
@@ -11484,7 +11496,8 @@
         {
           "questId": 40493,
           "name": "Fueling the Blood Fury",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },
@@ -11501,7 +11514,7 @@
     "sellPrice": 15873,
     "quality": "Uncommon",
     "itemLevel": 44,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "One-hand",
     "tooltip": [
       {
@@ -11536,7 +11549,8 @@
         {
           "questId": 40924,
           "name": "Signet of Silverlaine",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 38
         }
       ]
     },
@@ -11553,7 +11567,7 @@
     "sellPrice": 16408,
     "quality": "Uncommon",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "One-hand",
     "tooltip": [
       {
@@ -11591,7 +11605,8 @@
         {
           "questId": 40982,
           "name": "In Memory of Franklin",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 35
         }
       ]
     },

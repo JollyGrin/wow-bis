@@ -1970,7 +1970,7 @@
     "sellPrice": 17495,
     "quality": "Rare",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -2002,7 +2002,8 @@
         {
           "questId": 40997,
           "name": "Gift of the Dark Bishop",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 38
         }
       ]
     },
@@ -3546,7 +3547,7 @@
     "sellPrice": 69826,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 57,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -3575,7 +3576,8 @@
         {
           "questId": 5466,
           "name": "The Lich, Ras Frostwhisper",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 57
         }
       ]
     },
@@ -3770,7 +3772,7 @@
     "sellPrice": 891,
     "quality": "Rare",
     "itemLevel": 23,
-    "requiredLevel": 0,
+    "requiredLevel": 16,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -3799,7 +3801,8 @@
         {
           "questId": 60124,
           "name": "Trapped in the Nightmare",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 16
         }
       ]
     },
@@ -4013,7 +4016,7 @@
     "sellPrice": 26815,
     "quality": "Uncommon",
     "itemLevel": 46,
-    "requiredLevel": 0,
+    "requiredLevel": 34,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -4048,7 +4051,8 @@
         {
           "questId": 40717,
           "name": "Undoing the Curse",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 34
         }
       ]
     },
@@ -4788,7 +4792,7 @@
     "sellPrice": 6481,
     "quality": "Uncommon",
     "itemLevel": 32,
-    "requiredLevel": 0,
+    "requiredLevel": 19,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -4817,7 +4821,8 @@
         {
           "questId": 550,
           "name": "Battle of Hillsbrad",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 19
         }
       ]
     },
@@ -4834,7 +4839,7 @@
     "sellPrice": 10153,
     "quality": "Uncommon",
     "itemLevel": 36,
-    "requiredLevel": 31,
+    "requiredLevel": 30,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -4877,7 +4882,8 @@
         {
           "questId": 1203,
           "name": "Jarl Needs a Blade",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         },
         {
           "questId": 5284,
@@ -5070,7 +5076,7 @@
     "sellPrice": 6147,
     "quality": "Uncommon",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 13,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -5105,7 +5111,8 @@
         {
           "questId": 981,
           "name": "The Tower of Althalaxx",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 13
         }
       ]
     },
@@ -5832,7 +5839,7 @@
     "sellPrice": 45516,
     "quality": "Uncommon",
     "itemLevel": 57,
-    "requiredLevel": 0,
+    "requiredLevel": 54,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -5861,7 +5868,8 @@
         {
           "questId": 7441,
           "name": "Pusillin and the Elder Azj'Tordin",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 54
         }
       ]
     },
@@ -6084,7 +6092,7 @@
     "sellPrice": 12815,
     "quality": "Uncommon",
     "itemLevel": 37,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -6116,7 +6124,8 @@
         {
           "questId": 41702,
           "name": "Tide-ying Up",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 25
         }
       ]
     },

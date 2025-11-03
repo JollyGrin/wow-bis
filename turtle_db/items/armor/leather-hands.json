@@ -1481,7 +1481,7 @@
     "sellPrice": 12034,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Hands",
     "tooltip": [
       {
@@ -1525,12 +1525,14 @@
         {
           "questId": 8935,
           "name": "Just Compensation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         },
         {
           "questId": 8941,
           "name": "Just Compensation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1547,7 +1549,7 @@
     "sellPrice": 12546,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Hands",
     "tooltip": [
       {
@@ -1588,12 +1590,14 @@
         {
           "questId": 8926,
           "name": "Just Compensation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         },
         {
           "questId": 8927,
           "name": "Just Compensation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1610,7 +1614,7 @@
     "sellPrice": 62658,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Hands",
     "tooltip": [
       {
@@ -1645,7 +1649,8 @@
         {
           "questId": 9082,
           "name": "Bonescythe Gauntlets",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1662,7 +1667,7 @@
     "sellPrice": 67240,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Hands",
     "tooltip": [
       {
@@ -1700,7 +1705,8 @@
         {
           "questId": 9091,
           "name": "Dreamwalker Handguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1758,7 +1764,8 @@
         {
           "questId": 9242,
           "name": "Polar Gloves",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1921,7 +1928,8 @@
         {
           "questId": 41412,
           "name": "Cenarion Hands",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1979,7 +1987,8 @@
         {
           "questId": 41412,
           "name": "Cenarion Hands",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2040,7 +2049,8 @@
         {
           "questId": 41404,
           "name": "Stormrage Hands",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2101,7 +2111,8 @@
         {
           "questId": 41404,
           "name": "Stormrage Hands",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2159,7 +2170,8 @@
         {
           "questId": 9091,
           "name": "Dreamwalker Handguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2217,7 +2229,8 @@
         {
           "questId": 9091,
           "name": "Dreamwalker Handguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2465,7 +2478,7 @@
     "sellPrice": 5988,
     "quality": "Rare",
     "itemLevel": 47,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Hands",
     "tooltip": [
       {
@@ -2503,7 +2516,8 @@
         {
           "questId": 40849,
           "name": "Genn Greymane Must Die!",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 40
         }
       ]
     },
@@ -3459,7 +3473,7 @@
     "sellPrice": 12348,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Hands",
     "tooltip": [
       {
@@ -3497,12 +3511,14 @@
         {
           "questId": 1318,
           "name": "Unfinished Gordok Business",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         },
         {
           "questId": 7703,
           "name": "Unfinished Gordok Business",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -3705,7 +3721,7 @@
     "sellPrice": 14231,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Hands",
     "tooltip": [
       {
@@ -3737,7 +3753,8 @@
         {
           "questId": 8548,
           "name": "Volunteer's Battlegear",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -3847,7 +3864,7 @@
     "sellPrice": 13989,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Hands",
     "tooltip": [
       {
@@ -3882,12 +3899,14 @@
         {
           "questId": 9094,
           "name": "Argent Dawn Gloves",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 50
         },
         {
           "questId": 9333,
           "name": "Argent Dawn Gloves",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 50
         }
       ]
     },
@@ -4006,7 +4025,7 @@
     "sellPrice": 5760,
     "quality": "Rare",
     "itemLevel": 48,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Hands",
     "tooltip": [
       {
@@ -4041,7 +4060,8 @@
         {
           "questId": 41809,
           "name": "Smell of Dragonfire",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -4427,7 +4447,7 @@
     "sellPrice": 867,
     "quality": "Rare",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Hands",
     "tooltip": [
       {
@@ -4465,7 +4485,8 @@
         {
           "questId": 40485,
           "name": "The Harvest Golem Mystery",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -4617,7 +4638,7 @@
     "sellPrice": 5988,
     "quality": "Rare",
     "itemLevel": 47,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Hands",
     "tooltip": [
       {
@@ -4655,7 +4676,8 @@
         {
           "questId": 40956,
           "name": "The Fall and Rise of Greymane",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 35
         }
       ]
     },
@@ -5056,7 +5078,7 @@
     "sellPrice": 262,
     "quality": "Uncommon",
     "itemLevel": 18,
-    "requiredLevel": 0,
+    "requiredLevel": 14,
     "slot": "Hands",
     "tooltip": [
       {
@@ -5091,7 +5113,8 @@
         {
           "questId": 122,
           "name": "Underbelly Scales",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 14
         }
       ]
     },
@@ -5156,7 +5179,7 @@
     "sellPrice": 258,
     "quality": "Uncommon",
     "itemLevel": 18,
-    "requiredLevel": 0,
+    "requiredLevel": 14,
     "slot": "Hands",
     "tooltip": [
       {
@@ -5191,7 +5214,8 @@
         {
           "questId": 168,
           "name": "Collecting Memories",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 14
         }
       ]
     },
@@ -5502,7 +5526,7 @@
     "sellPrice": 2031,
     "quality": "Uncommon",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Hands",
     "tooltip": [
       {
@@ -5537,7 +5561,8 @@
         {
           "questId": 1366,
           "name": "Centaur Bounty",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -5878,7 +5903,7 @@
     "sellPrice": 182,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 12,
     "slot": "Hands",
     "tooltip": [
       {
@@ -5913,7 +5938,8 @@
         {
           "questId": 2038,
           "name": "Bingles' Missing Supplies",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 12
         }
       ]
     },
@@ -6188,7 +6214,7 @@
     "sellPrice": 8965,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Hands",
     "tooltip": [
       {
@@ -6226,7 +6252,8 @@
         {
           "questId": 5242,
           "name": "A Final Blow",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 48
         }
       ]
     },
@@ -6294,7 +6321,7 @@
     "sellPrice": 2254,
     "quality": "Uncommon",
     "itemLevel": 38,
-    "requiredLevel": 0,
+    "requiredLevel": 32,
     "slot": "Hands",
     "tooltip": [
       {
@@ -6332,7 +6359,8 @@
         {
           "questId": 5581,
           "name": "Portals of the Legion",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 32
         }
       ]
     },
@@ -6349,7 +6377,7 @@
     "sellPrice": 9884,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 56,
     "slot": "Hands",
     "tooltip": [
       {
@@ -6387,7 +6415,8 @@
         {
           "questId": 6135,
           "name": "Duskwing, Oh How I Hate Thee...",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 56
         }
       ]
     },
@@ -6761,7 +6790,7 @@
     "sellPrice": 102,
     "quality": "Uncommon",
     "itemLevel": 13,
-    "requiredLevel": 0,
+    "requiredLevel": 6,
     "slot": "Hands",
     "tooltip": [
       {
@@ -6796,7 +6825,8 @@
         {
           "questId": 40517,
           "name": "Back to Nel'doriel",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 6
         }
       ]
     },
@@ -6813,7 +6843,7 @@
     "sellPrice": 12094,
     "quality": "Uncommon",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Hands",
     "tooltip": [
       {
@@ -6851,7 +6881,8 @@
         {
           "questId": 40724,
           "name": "The Ape Bounty",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 48
         }
       ]
     },
@@ -7360,7 +7391,7 @@
     "sellPrice": 359,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Hands",
     "tooltip": [
       {
@@ -7395,7 +7426,8 @@
         {
           "questId": 913,
           "name": "Cry of the Thunderhawk",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 10
         }
       ]
     },
@@ -7412,7 +7444,7 @@
     "sellPrice": 347,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Hands",
     "tooltip": [
       {
@@ -7447,7 +7479,8 @@
         {
           "questId": 741,
           "name": "The Absent Minded Prospector",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -7596,7 +7629,7 @@
     "sellPrice": 2421,
     "quality": "Uncommon",
     "itemLevel": 38,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Hands",
     "tooltip": [
       {
@@ -7631,7 +7664,8 @@
         {
           "questId": 1137,
           "name": "News for Fizzle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 28
         }
       ]
     },
@@ -7897,7 +7931,7 @@
     "sellPrice": 1899,
     "quality": "Uncommon",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 32,
     "slot": "Hands",
     "tooltip": [
       {
@@ -7929,7 +7963,8 @@
         {
           "questId": 1177,
           "name": "Hungry!",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 32
         }
       ]
     },
@@ -7946,7 +7981,7 @@
     "sellPrice": 3883,
     "quality": "Uncommon",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Hands",
     "tooltip": [
       {
@@ -7981,7 +8016,8 @@
         {
           "questId": 2822,
           "name": "The Mark of Quality",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 40
         }
       ]
     },
@@ -7998,7 +8034,7 @@
     "sellPrice": 1504,
     "quality": "Uncommon",
     "itemLevel": 33,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Hands",
     "tooltip": [
       {
@@ -8033,7 +8069,8 @@
         {
           "questId": 1440,
           "name": "Return to Vahlarriel",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -8212,7 +8249,7 @@
     "sellPrice": 8734,
     "quality": "Uncommon",
     "itemLevel": 56,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Hands",
     "tooltip": [
       {
@@ -8247,12 +8284,14 @@
         {
           "questId": 3907,
           "name": "Disharmony of Fire",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 48
         },
         {
           "questId": 4263,
           "name": "Incendius!",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 48
         }
       ]
     },
@@ -8677,7 +8716,7 @@
     "sellPrice": 1178,
     "quality": "Uncommon",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 23,
     "slot": "Hands",
     "tooltip": [
       {
@@ -8715,7 +8754,8 @@
         {
           "questId": 6504,
           "name": "The Lost Pages",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 23
         }
       ]
     },
@@ -8771,7 +8811,7 @@
     "sellPrice": 5803,
     "quality": "Uncommon",
     "itemLevel": 50,
-    "requiredLevel": 0,
+    "requiredLevel": 44,
     "slot": "Hands",
     "tooltip": [
       {
@@ -8809,7 +8849,8 @@
         {
           "questId": 7843,
           "name": "The Final Message to the Wildhammer",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 44
         }
       ]
     },
@@ -8826,7 +8867,7 @@
     "sellPrice": 9339,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Hands",
     "tooltip": [
       {
@@ -8861,7 +8902,8 @@
         {
           "questId": 8464,
           "name": "Winterfall Activity",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -8878,7 +8920,7 @@
     "sellPrice": 5738,
     "quality": "Uncommon",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Hands",
     "tooltip": [
       {
@@ -8913,7 +8955,8 @@
         {
           "questId": 41858,
           "name": "Gargill the Butcher",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 28
         }
       ]
     },
@@ -8930,7 +8973,7 @@
     "sellPrice": 10068,
     "quality": "Uncommon",
     "itemLevel": 56,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Hands",
     "tooltip": [
       {
@@ -8965,7 +9008,8 @@
         {
           "questId": 41764,
           "name": "Oil-Based Grievances",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },
@@ -8982,7 +9026,7 @@
     "sellPrice": 2873,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Hands",
     "tooltip": [
       {
@@ -9020,7 +9064,8 @@
         {
           "questId": 40226,
           "name": "Wally Wisecrack",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 25
         }
       ]
     },
@@ -9427,7 +9472,7 @@
     "sellPrice": 1492,
     "quality": "Uncommon",
     "itemLevel": 33,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Hands",
     "tooltip": [
       {
@@ -9462,7 +9507,8 @@
         {
           "questId": 564,
           "name": "Costly Menace",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -9479,7 +9525,7 @@
     "sellPrice": 2136,
     "quality": "Uncommon",
     "itemLevel": 37,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Hands",
     "tooltip": [
       {
@@ -9514,7 +9560,8 @@
         {
           "questId": 188,
           "name": "Tiger Mastery",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 28
         }
       ]
     },
@@ -9531,7 +9578,7 @@
     "sellPrice": 2794,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Hands",
     "tooltip": [
       {
@@ -9566,7 +9613,8 @@
         {
           "questId": 664,
           "name": "Drowned Sorrows",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 35
         }
       ]
     },
@@ -9583,7 +9631,7 @@
     "sellPrice": 5,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Hands",
     "tooltip": [
       {
@@ -9612,7 +9660,8 @@
         {
           "questId": 788,
           "name": "Cutting Teeth",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 1
         }
       ]
     },
@@ -9629,7 +9678,7 @@
     "sellPrice": 2209,
     "quality": "Uncommon",
     "itemLevel": 37,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Hands",
     "tooltip": [
       {
@@ -9664,7 +9713,8 @@
         {
           "questId": 704,
           "name": "Agmond's Fate",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -9681,7 +9731,7 @@
     "sellPrice": 6,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Hands",
     "tooltip": [
       {
@@ -9710,7 +9760,8 @@
         {
           "questId": 456,
           "name": "The Balance of Nature",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 1
         }
       ]
     },
@@ -9727,7 +9778,7 @@
     "sellPrice": 348,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Hands",
     "tooltip": [
       {
@@ -9762,7 +9813,8 @@
         {
           "questId": 741,
           "name": "The Absent Minded Prospector",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -9818,7 +9870,7 @@
     "sellPrice": 2996,
     "quality": "Uncommon",
     "itemLevel": 41,
-    "requiredLevel": 0,
+    "requiredLevel": 29,
     "slot": "Hands",
     "tooltip": [
       {
@@ -9853,7 +9905,8 @@
         {
           "questId": 1189,
           "name": "Safety First",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 29
         }
       ]
     },
@@ -9870,7 +9923,7 @@
     "sellPrice": 2641,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Hands",
     "tooltip": [
       {
@@ -9905,7 +9958,8 @@
         {
           "questId": 1467,
           "name": "Reagents for Reclaimers Inc.",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -10171,7 +10225,7 @@
     "sellPrice": 3868,
     "quality": "Uncommon",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Hands",
     "tooltip": [
       {
@@ -10206,7 +10260,8 @@
         {
           "questId": 2821,
           "name": "The Mark of Quality",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         }
       ]
     },
@@ -10223,7 +10278,7 @@
     "sellPrice": 3573,
     "quality": "Uncommon",
     "itemLevel": 43,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Hands",
     "tooltip": [
       {
@@ -10258,7 +10313,8 @@
         {
           "questId": 1169,
           "name": "Identifying the Brood",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 38
         }
       ]
     },
@@ -11052,7 +11108,7 @@
     "sellPrice": 245,
     "quality": "Uncommon",
     "itemLevel": 17,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Hands",
     "tooltip": [
       {
@@ -11087,7 +11143,8 @@
         {
           "questId": 1138,
           "name": "Fruit of the Sea",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -11227,7 +11284,7 @@
     "sellPrice": 2708,
     "quality": "Uncommon",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Hands",
     "tooltip": [
       {
@@ -11265,7 +11322,8 @@
         {
           "questId": 40334,
           "name": "The Bloodsail Compound V",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -11282,7 +11340,7 @@
     "sellPrice": 9342,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Hands",
     "tooltip": [
       {
@@ -11317,7 +11375,8 @@
         {
           "questId": 40431,
           "name": "Shadowsworn Pendant Bounty",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 45
         }
       ]
     },
@@ -11334,7 +11393,7 @@
     "sellPrice": 10863,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Hands",
     "tooltip": [
       {
@@ -11366,7 +11425,8 @@
         {
           "questId": 40490,
           "name": "Rumors of Hateforge Brew",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 45
         }
       ]
     },
@@ -11626,7 +11686,7 @@
     "sellPrice": 19,
     "quality": "Common",
     "itemLevel": 8,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Hands",
     "tooltip": [
       {
@@ -11655,7 +11715,8 @@
         {
           "questId": 87,
           "name": "Goldtooth",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 5
         }
       ]
     },
@@ -12059,7 +12120,7 @@
     "sellPrice": 28,
     "quality": "Common",
     "itemLevel": 9,
-    "requiredLevel": 0,
+    "requiredLevel": 7,
     "slot": "Hands",
     "tooltip": [
       {
@@ -12088,7 +12149,8 @@
         {
           "questId": 412,
           "name": "Operation Recombobulation",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 7
         }
       ]
     },
@@ -12314,7 +12376,8 @@
         {
           "questId": 1582,
           "name": "Moonglow Vest",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 8
         }
       ]
     },
@@ -12331,7 +12394,7 @@
     "sellPrice": 36,
     "quality": "Common",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 4,
     "slot": "Hands",
     "tooltip": [
       {
@@ -12360,7 +12423,8 @@
         {
           "questId": 826,
           "name": "Zalazane",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 4
         }
       ]
     },
@@ -12377,7 +12441,7 @@
     "sellPrice": 20,
     "quality": "Common",
     "itemLevel": 8,
-    "requiredLevel": 0,
+    "requiredLevel": 4,
     "slot": "Hands",
     "tooltip": [
       {
@@ -12406,7 +12470,8 @@
         {
           "questId": 768,
           "name": "Gathering Leather",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 4
         }
       ]
     },
@@ -12423,7 +12488,7 @@
     "sellPrice": 20,
     "quality": "Common",
     "itemLevel": 8,
-    "requiredLevel": 0,
+    "requiredLevel": 7,
     "slot": "Hands",
     "tooltip": [
       {
@@ -12452,7 +12517,8 @@
         {
           "questId": 375,
           "name": "The Chill of Death",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 7
         }
       ]
     },
@@ -12469,7 +12535,7 @@
     "sellPrice": 6,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Hands",
     "tooltip": [
       {
@@ -12498,7 +12564,8 @@
         {
           "questId": 179,
           "name": "Dwarven Outfitters",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 1
         }
       ]
     },
@@ -12587,7 +12654,7 @@
     "sellPrice": 6,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 3,
     "slot": "Hands",
     "tooltip": [
       {
@@ -12616,7 +12683,8 @@
         {
           "questId": 3376,
           "name": "Break Sharptusk!",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 3
         }
       ]
     },
@@ -12705,7 +12773,7 @@
     "sellPrice": 6,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Hands",
     "tooltip": [
       {
@@ -12734,7 +12802,8 @@
         {
           "questId": 41153,
           "name": "Foreman Pipelatch",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 1
         }
       ]
     },
@@ -12751,7 +12820,7 @@
     "sellPrice": 6,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Hands",
     "tooltip": [
       {
@@ -12780,7 +12849,8 @@
         {
           "questId": 41188,
           "name": "Provisions for Refugees",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 1
         }
       ]
     },
@@ -12797,7 +12867,7 @@
     "sellPrice": 22,
     "quality": "Common",
     "itemLevel": 8,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Hands",
     "tooltip": [
       {
@@ -12826,7 +12896,8 @@
         {
           "questId": 41222,
           "name": "Sunsworn Response",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 5
         }
       ]
     },
@@ -12843,7 +12914,7 @@
     "sellPrice": 1,
     "quality": "Common",
     "itemLevel": 4,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Hands",
     "tooltip": [
       {
@@ -12872,7 +12943,8 @@
         {
           "questId": 80100,
           "name": "A New Ad-Venture",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 1
         }
       ]
     },
@@ -12889,7 +12961,7 @@
     "sellPrice": 4,
     "quality": "Common",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 4,
     "slot": "Hands",
     "tooltip": [
       {
@@ -12918,7 +12990,8 @@
         {
           "questId": 80105,
           "name": "Ventured Too Far",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 4
         }
       ]
     },
@@ -12935,7 +13008,7 @@
     "sellPrice": 1,
     "quality": "Common",
     "itemLevel": 4,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Hands",
     "tooltip": [
       {
@@ -12964,7 +13037,8 @@
         {
           "questId": 80201,
           "name": "Stocking Up on Wood",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 1
         }
       ]
     },
@@ -12981,7 +13055,7 @@
     "sellPrice": 4,
     "quality": "Common",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 4,
     "slot": "Hands",
     "tooltip": [
       {
@@ -13010,7 +13084,8 @@
         {
           "questId": 80207,
           "name": "Dark Iron Scrapping",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 4
         }
       ]
     },
@@ -13027,7 +13102,7 @@
     "sellPrice": 112,
     "quality": "Common",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 7,
     "slot": "Hands",
     "tooltip": [
       {
@@ -13056,7 +13131,8 @@
         {
           "questId": 55003,
           "name": "A New Power Source",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 7
         }
       ]
     },

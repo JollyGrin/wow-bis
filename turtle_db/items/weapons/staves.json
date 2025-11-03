@@ -2461,7 +2461,7 @@
     "sellPrice": 26994,
     "quality": "Rare",
     "itemLevel": 46,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -2496,7 +2496,8 @@
         {
           "questId": 592,
           "name": "Saving Yenniku",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -4949,7 +4950,7 @@
     "sellPrice": 3639,
     "quality": "Rare",
     "itemLevel": 24,
-    "requiredLevel": 0,
+    "requiredLevel": 14,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -4984,7 +4985,8 @@
         {
           "questId": 166,
           "name": "The Defias Brotherhood",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 14
         }
       ]
     },
@@ -5172,7 +5174,7 @@
     "sellPrice": 601,
     "quality": "Uncommon",
     "itemLevel": 13,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -5207,7 +5209,8 @@
         {
           "questId": 176,
           "name": "Wanted:  \"Hogger\"",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 5
         }
       ]
     },
@@ -6468,7 +6471,7 @@
     "sellPrice": 57897,
     "quality": "Rare",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -6503,7 +6506,8 @@
         {
           "questId": 40272,
           "name": "The Maul'ogg Crisis IX",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },
@@ -6709,7 +6713,7 @@
     "sellPrice": 15837,
     "quality": "Rare",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -6744,7 +6748,8 @@
         {
           "questId": 40997,
           "name": "Gift of the Dark Bishop",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 38
         }
       ]
     },
@@ -7516,7 +7521,7 @@
     "sellPrice": 3476,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -7548,7 +7553,8 @@
         {
           "questId": 286,
           "name": "Return the Statuette",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },
@@ -7939,7 +7945,7 @@
     "sellPrice": 302,
     "quality": "Uncommon",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 4,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -7971,7 +7977,8 @@
         {
           "questId": 483,
           "name": "The Relics of Wakening",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 4
         }
       ]
     },
@@ -8365,7 +8372,7 @@
     "sellPrice": 8335,
     "quality": "Uncommon",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -8397,7 +8404,8 @@
         {
           "questId": 41724,
           "name": "The Betrayal of Rethkag",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -8653,7 +8661,7 @@
     "sellPrice": 431,
     "quality": "Uncommon",
     "itemLevel": 13,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -8688,7 +8696,8 @@
         {
           "questId": 40390,
           "name": "Aggression's End",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 5
         }
       ]
     },
@@ -11081,7 +11090,7 @@
     "sellPrice": 56233,
     "quality": "Uncommon",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 53,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -11116,7 +11125,8 @@
         {
           "questId": 40785,
           "name": "King Morogo Thunderfoot!",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 53
         }
       ]
     },

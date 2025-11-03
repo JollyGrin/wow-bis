@@ -344,7 +344,7 @@
     "sellPrice": 25000,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 60,
+    "requiredLevel": 55,
     "slot": "Neck",
     "tooltip": [
       {
@@ -375,7 +375,8 @@
         {
           "questId": 7981,
           "name": "1200 Tickets - Amulet of the Darkmoon",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -392,7 +393,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -424,7 +425,8 @@
         {
           "questId": 8048,
           "name": "The Hero's Brand",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -441,7 +443,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -466,7 +468,8 @@
         {
           "questId": 8104,
           "name": "The Jewel of Kajaro",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -483,7 +486,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -505,7 +508,8 @@
         {
           "questId": 8109,
           "name": "Kezan's Unstoppable Taint",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -560,7 +564,7 @@
     "sellPrice": 103030,
     "quality": "Epic",
     "itemLevel": 77,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -588,7 +592,8 @@
         {
           "questId": 8736,
           "name": "The Nightmare Manifests",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -748,7 +753,7 @@
     "sellPrice": 115200,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -767,7 +772,8 @@
         {
           "questId": 8802,
           "name": "The Savior of Kalimdor",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -784,7 +790,7 @@
     "sellPrice": 33625,
     "quality": "Epic",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Neck",
     "tooltip": [
       {
@@ -806,22 +812,26 @@
         {
           "questId": 9228,
           "name": "Epic Armaments of Battle - Exalted Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9222,
           "name": "Epic Armaments of Battle - Friend of the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9224,
           "name": "Epic Armaments of Battle - Honored Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9225,
           "name": "Epic Armaments of Battle - Revered Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -938,7 +948,7 @@
     "sellPrice": 115833,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -967,7 +977,8 @@
         {
           "questId": 41631,
           "name": "Lionheart Amulet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -984,7 +995,7 @@
     "sellPrice": 115833,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -1013,7 +1024,8 @@
         {
           "questId": 41631,
           "name": "Lionheart Amulet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1030,7 +1042,7 @@
     "sellPrice": 115833,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -1059,7 +1071,8 @@
         {
           "questId": 41631,
           "name": "Lionheart Amulet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1076,7 +1089,7 @@
     "sellPrice": 115833,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -1098,7 +1111,8 @@
         {
           "questId": 41625,
           "name": "Amulet of the Guardian",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1518,7 +1532,7 @@
     "sellPrice": 6714,
     "quality": "Epic",
     "itemLevel": 74,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -1546,12 +1560,14 @@
         {
           "questId": 7496,
           "name": "Celebrating Good Times",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         },
         {
           "questId": 7491,
           "name": "For All To See",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1635,7 +1651,7 @@
     "sellPrice": 128862,
     "quality": "Epic",
     "itemLevel": 83,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -1657,12 +1673,14 @@
         {
           "questId": 7782,
           "name": "The Lord of Blackrock",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         },
         {
           "questId": 7784,
           "name": "The Lord of Blackrock",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1679,7 +1697,7 @@
     "sellPrice": 25000,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 60,
+    "requiredLevel": 55,
     "slot": "Neck",
     "tooltip": [
       {
@@ -1707,7 +1725,8 @@
         {
           "questId": 7940,
           "name": "1200 Tickets - Orb of the Darkmoon",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -1724,7 +1743,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -1753,7 +1772,8 @@
         {
           "questId": 8044,
           "name": "The Rage of Mount Mugamba",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1770,7 +1790,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -1799,7 +1819,8 @@
         {
           "questId": 8052,
           "name": "The All-Seeing Eye of Zuldazar",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1816,7 +1837,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -1844,7 +1865,8 @@
         {
           "questId": 8119,
           "name": "The Unmarred Vision of Voodress",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1861,7 +1883,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -1886,7 +1908,8 @@
         {
           "questId": 8113,
           "name": "Pristine Enchanted South Seas Kelp",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1903,7 +1926,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -1931,7 +1954,8 @@
         {
           "questId": 8144,
           "name": "Zandalrian Shadow Mastery Talisman",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1948,7 +1972,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -1976,7 +2000,8 @@
         {
           "questId": 8148,
           "name": "The Maelstrom's Wrath",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2133,7 +2158,7 @@
     "sellPrice": 111628,
     "quality": "Epic",
     "itemLevel": 70,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -2155,7 +2180,8 @@
         {
           "questId": 8791,
           "name": "The Fall of Ossirian",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2248,7 +2274,7 @@
     "sellPrice": 33625,
     "quality": "Epic",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Neck",
     "tooltip": [
       {
@@ -2270,22 +2296,26 @@
         {
           "questId": 9228,
           "name": "Epic Armaments of Battle - Exalted Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9222,
           "name": "Epic Armaments of Battle - Friend of the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9224,
           "name": "Epic Armaments of Battle - Honored Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9225,
           "name": "Epic Armaments of Battle - Revered Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -2547,7 +2577,7 @@
     "sellPrice": 115833,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -2569,7 +2599,8 @@
         {
           "questId": 41625,
           "name": "Amulet of the Guardian",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2586,7 +2617,7 @@
     "sellPrice": 116151,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -2612,7 +2643,8 @@
         {
           "questId": 41619,
           "name": "Stormhowl Amulet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2629,7 +2661,7 @@
     "sellPrice": 115833,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -2651,7 +2683,8 @@
         {
           "questId": 41601,
           "name": "Amulet of Pestilence",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2668,7 +2701,7 @@
     "sellPrice": 115833,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -2693,7 +2726,8 @@
         {
           "questId": 41589,
           "name": "Nathrezim Amulet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2710,7 +2744,7 @@
     "sellPrice": 115833,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -2735,7 +2769,8 @@
         {
           "questId": 41589,
           "name": "Nathrezim Amulet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2752,7 +2787,7 @@
     "sellPrice": 115833,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -2777,7 +2812,8 @@
         {
           "questId": 41613,
           "name": "Ravenstalker Amulet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2794,7 +2830,7 @@
     "sellPrice": 115833,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -2823,7 +2859,8 @@
         {
           "questId": 41607,
           "name": "Trickster Amulet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2840,7 +2877,7 @@
     "sellPrice": 115833,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -2865,7 +2902,8 @@
         {
           "questId": 41583,
           "name": "Amulet of the Talon",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -3080,7 +3118,7 @@
     "sellPrice": 12500,
     "quality": "Epic",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 24,
     "slot": "Neck",
     "tooltip": [
       {
@@ -3108,7 +3146,8 @@
         {
           "questId": 41785,
           "name": "Yoke of the Dragon Queen",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 24
         }
       ]
     },
@@ -3125,7 +3164,7 @@
     "sellPrice": 12500,
     "quality": "Epic",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 24,
     "slot": "Neck",
     "tooltip": [
       {
@@ -3144,7 +3183,8 @@
         {
           "questId": 41785,
           "name": "Yoke of the Dragon Queen",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 24
         }
       ]
     },
@@ -3161,7 +3201,7 @@
     "sellPrice": 12500,
     "quality": "Epic",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 24,
     "slot": "Neck",
     "tooltip": [
       {
@@ -3186,7 +3226,8 @@
         {
           "questId": 41785,
           "name": "Yoke of the Dragon Queen",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 24
         }
       ]
     },
@@ -3247,7 +3288,7 @@
     "sellPrice": 63755,
     "quality": "Epic",
     "itemLevel": 76,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -3269,7 +3310,8 @@
         {
           "questId": 40963,
           "name": "Head of Solnius",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -3458,7 +3500,7 @@
     "sellPrice": 8377,
     "quality": "Rare",
     "itemLevel": 44,
-    "requiredLevel": 0,
+    "requiredLevel": 33,
     "slot": "Neck",
     "tooltip": [
       {
@@ -3483,7 +3525,8 @@
         {
           "questId": 1048,
           "name": "Into The Scarlet Monastery",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 33
         }
       ]
     },
@@ -3500,7 +3543,7 @@
     "sellPrice": 5930,
     "quality": "Rare",
     "itemLevel": 44,
-    "requiredLevel": 0,
+    "requiredLevel": 39,
     "slot": "Neck",
     "tooltip": [
       {
@@ -3528,12 +3571,14 @@
         {
           "questId": 3341,
           "name": "Bring the End",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 37
         },
         {
           "questId": 3636,
           "name": "Bring the Light",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 39
         }
       ]
     },
@@ -3585,7 +3630,7 @@
     "sellPrice": 12377,
     "quality": "Rare",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Neck",
     "tooltip": [
       {
@@ -3616,7 +3661,8 @@
         {
           "questId": 4132,
           "name": "Operation: Death to Angerforge",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 52
         }
       ]
     },
@@ -3744,7 +3790,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Neck",
     "tooltip": [
       {
@@ -3769,12 +3815,14 @@
         {
           "questId": 6602,
           "name": "Blood of the Black Dragon Champion",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 55
         },
         {
           "questId": 6502,
           "name": "Drakefire Amulet",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 50
         }
       ]
     },
@@ -4173,7 +4221,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -4198,7 +4246,8 @@
         {
           "questId": 8112,
           "name": "Enchanted South Seas Kelp",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -4215,7 +4264,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 68,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -4240,7 +4289,8 @@
         {
           "questId": 8113,
           "name": "Pristine Enchanted South Seas Kelp",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -4257,7 +4307,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Neck",
     "tooltip": [
       {
@@ -4276,7 +4326,8 @@
         {
           "questId": 8253,
           "name": "Destroy Morphaz",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -4325,7 +4376,7 @@
     "sellPrice": 10283,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -4347,7 +4398,8 @@
         {
           "questId": 8949,
           "name": "Falrin's Vendetta",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -4364,7 +4416,7 @@
     "sellPrice": 10283,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -4386,7 +4438,8 @@
         {
           "questId": 8949,
           "name": "Falrin's Vendetta",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -4537,7 +4590,7 @@
     "sellPrice": 3357,
     "quality": "Rare",
     "itemLevel": 32,
-    "requiredLevel": 0,
+    "requiredLevel": 24,
     "slot": "Neck",
     "tooltip": [
       {
@@ -4562,7 +4615,8 @@
         {
           "questId": 41753,
           "name": "A Blaze Unending",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 24
         }
       ]
     },
@@ -4678,7 +4732,7 @@
     "sellPrice": 7525,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 58,
+    "requiredLevel": 30,
     "slot": "Neck",
     "tooltip": [
       {
@@ -4703,7 +4757,8 @@
         {
           "questId": 41326,
           "name": "Fate Of The Harborage",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -4787,7 +4842,7 @@
     "sellPrice": 24734,
     "quality": "Rare",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Neck",
     "tooltip": [
       {
@@ -4809,7 +4864,8 @@
         {
           "questId": 40272,
           "name": "The Maul'ogg Crisis IX",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },
@@ -4899,7 +4955,7 @@
     "sellPrice": 42108,
     "quality": "Rare",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -4924,7 +4980,8 @@
         {
           "questId": 40317,
           "name": "The Mystery of Karazhan VII",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         }
       ]
     },
@@ -4941,7 +4998,7 @@
     "sellPrice": 12001,
     "quality": "Rare",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 53,
     "slot": "Neck",
     "tooltip": [
       {
@@ -4963,12 +5020,14 @@
         {
           "questId": 40132,
           "name": "The Activation",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 53
         },
         {
           "questId": 40133,
           "name": "The Profitable Activation",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 53
         }
       ]
     },
@@ -5014,7 +5073,7 @@
     "sellPrice": 13264,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Neck",
     "tooltip": [
       {
@@ -5033,7 +5092,8 @@
         {
           "questId": 40760,
           "name": "Operation Final Repairs",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -5050,7 +5110,7 @@
     "sellPrice": 13264,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Neck",
     "tooltip": [
       {
@@ -5069,7 +5129,8 @@
         {
           "questId": 40760,
           "name": "Operation Final Repairs",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -5188,7 +5249,7 @@
     "sellPrice": 2000,
     "quality": "Rare",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 18,
     "slot": "Neck",
     "tooltip": [
       {
@@ -5207,7 +5268,8 @@
         {
           "questId": 55225,
           "name": "The Hawk's Vigil",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 18
         }
       ]
     },
@@ -5291,7 +5353,7 @@
     "sellPrice": 8155,
     "quality": "Rare",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Neck",
     "tooltip": [
       {
@@ -5313,12 +5375,14 @@
         {
           "questId": 592,
           "name": "Saving Yenniku",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         },
         {
           "questId": 1139,
           "name": "The Lost Tablets of Will",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 35
         }
       ]
     },
@@ -5370,7 +5434,7 @@
     "sellPrice": 8990,
     "quality": "Rare",
     "itemLevel": 47,
-    "requiredLevel": 0,
+    "requiredLevel": 37,
     "slot": "Neck",
     "tooltip": [
       {
@@ -5398,7 +5462,8 @@
         {
           "questId": 2341,
           "name": "Necklace Recovery, Take 3",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 37
         }
       ]
     },
@@ -5739,7 +5804,7 @@
     "sellPrice": 10283,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Neck",
     "tooltip": [
       {
@@ -5761,7 +5826,8 @@
         {
           "questId": 5944,
           "name": "In Dreams",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 52
         }
       ]
     },
@@ -5921,7 +5987,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -5949,7 +6015,8 @@
         {
           "questId": 8047,
           "name": "The Heathen's Brand",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -5966,7 +6033,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 68,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -5994,7 +6061,8 @@
         {
           "questId": 8048,
           "name": "The Hero's Brand",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -6011,7 +6079,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -6036,7 +6104,8 @@
         {
           "questId": 8103,
           "name": "The Pebble of Kajaro",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6053,7 +6122,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 68,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -6078,7 +6147,8 @@
         {
           "questId": 8104,
           "name": "The Jewel of Kajaro",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6095,7 +6165,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -6117,7 +6187,8 @@
         {
           "questId": 8108,
           "name": "Kezan's Taint",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6134,7 +6205,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 68,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -6156,7 +6227,8 @@
         {
           "questId": 8109,
           "name": "Kezan's Unstoppable Taint",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6173,7 +6245,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -6198,7 +6270,8 @@
         {
           "questId": 8147,
           "name": "The Maelstrom's Tendril",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6215,7 +6288,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 68,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -6240,7 +6313,8 @@
         {
           "questId": 8148,
           "name": "The Maelstrom's Wrath",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6356,7 +6430,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 68,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -6378,7 +6452,8 @@
         {
           "questId": 40962,
           "name": "Into the Dream VI",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -6395,7 +6470,7 @@
     "sellPrice": 5145,
     "quality": "Rare",
     "itemLevel": 51,
-    "requiredLevel": 0,
+    "requiredLevel": 42,
     "slot": "Neck",
     "tooltip": [
       {
@@ -6426,7 +6501,8 @@
         {
           "questId": 60074,
           "name": "Bring Down the Priestess!",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 42
         }
       ]
     },
@@ -6586,7 +6662,7 @@
     "sellPrice": 49105,
     "quality": "Rare",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -6608,7 +6684,8 @@
         {
           "questId": 40342,
           "name": "The Bronze Betrayal",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -6625,7 +6702,7 @@
     "sellPrice": 10699,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Neck",
     "tooltip": [
       {
@@ -6647,7 +6724,8 @@
         {
           "questId": 40504,
           "name": "Of New and Old IV",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },
@@ -6731,7 +6809,7 @@
     "sellPrice": 9758,
     "quality": "Rare",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Neck",
     "tooltip": [
       {
@@ -6759,7 +6837,8 @@
         {
           "questId": 40882,
           "name": "Blood for Blood",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 35
         }
       ]
     },
@@ -6910,7 +6989,7 @@
     "sellPrice": 2000,
     "quality": "Rare",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 18,
     "slot": "Neck",
     "tooltip": [
       {
@@ -6929,7 +7008,8 @@
         {
           "questId": 55225,
           "name": "The Hawk's Vigil",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 18
         }
       ]
     },
@@ -7112,7 +7192,7 @@
     "sellPrice": 8990,
     "quality": "Rare",
     "itemLevel": 47,
-    "requiredLevel": 0,
+    "requiredLevel": 37,
     "slot": "Neck",
     "tooltip": [
       {
@@ -7140,7 +7220,8 @@
         {
           "questId": 2361,
           "name": "Restoring the Necklace",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 37
         }
       ]
     },
@@ -7901,7 +7982,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -7926,7 +8007,8 @@
         {
           "questId": 8043,
           "name": "Strength of Mount Mugamba",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -7943,7 +8025,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 68,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -7968,7 +8050,8 @@
         {
           "questId": 8044,
           "name": "The Rage of Mount Mugamba",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -7985,7 +8068,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -8010,7 +8093,8 @@
         {
           "questId": 8051,
           "name": "The Eye of Zuldazar",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8027,7 +8111,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 68,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -8052,7 +8136,8 @@
         {
           "questId": 8052,
           "name": "The All-Seeing Eye of Zuldazar",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8241,7 +8326,7 @@
     "sellPrice": 6746,
     "quality": "Rare",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Neck",
     "tooltip": [
       {
@@ -8266,7 +8351,8 @@
         {
           "questId": 41731,
           "name": "The Ritual of Uth'okk",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -8283,7 +8369,7 @@
     "sellPrice": 13360,
     "quality": "Rare",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -8305,7 +8391,8 @@
         {
           "questId": 41095,
           "name": "Saving the Shadowtooth",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8634,7 +8721,7 @@
     "sellPrice": 6861,
     "quality": "Rare",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Neck",
     "tooltip": [
       {
@@ -8659,7 +8746,8 @@
         {
           "questId": 40997,
           "name": "Gift of the Dark Bishop",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 38
         }
       ]
     },
@@ -8676,7 +8764,7 @@
     "sellPrice": 12249,
     "quality": "Rare",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Neck",
     "tooltip": [
       {
@@ -8704,7 +8792,8 @@
         {
           "questId": 41016,
           "name": "The Wildshaper",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -8808,7 +8897,7 @@
     "sellPrice": 4182,
     "quality": "Uncommon",
     "itemLevel": 44,
-    "requiredLevel": 0,
+    "requiredLevel": 33,
     "slot": "Neck",
     "tooltip": [
       {
@@ -8833,7 +8922,8 @@
         {
           "questId": 573,
           "name": "Mok'thardin's Enchantment",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 33
         }
       ]
     },
@@ -8850,7 +8940,7 @@
     "sellPrice": 4307,
     "quality": "Uncommon",
     "itemLevel": 43,
-    "requiredLevel": 0,
+    "requiredLevel": 34,
     "slot": "Neck",
     "tooltip": [
       {
@@ -8878,7 +8968,8 @@
         {
           "questId": 521,
           "name": "The Crown of Will",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 34
         }
       ]
     },
@@ -9070,7 +9161,7 @@
     "sellPrice": 8430,
     "quality": "Uncommon",
     "itemLevel": 41,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Neck",
     "tooltip": [
       {
@@ -9095,7 +9186,8 @@
         {
           "questId": 1050,
           "name": "Mythology of the Titans",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 28
         }
       ]
     },
@@ -9263,7 +9355,7 @@
     "sellPrice": 7164,
     "quality": "Uncommon",
     "itemLevel": 54,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Neck",
     "tooltip": [
       {
@@ -9285,7 +9377,8 @@
         {
           "questId": 5051,
           "name": "Two Halves Become One",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -9302,7 +9395,7 @@
     "sellPrice": 15038,
     "quality": "Rare",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Neck",
     "tooltip": [
       {
@@ -9324,7 +9417,8 @@
         {
           "questId": 5125,
           "name": "Aurius' Reckoning",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -9341,7 +9435,7 @@
     "sellPrice": 21141,
     "quality": "Rare",
     "itemLevel": 51,
-    "requiredLevel": 0,
+    "requiredLevel": 46,
     "slot": "Neck",
     "tooltip": [
       {
@@ -9369,7 +9463,8 @@
         {
           "questId": 7861,
           "name": "Wanted: Vile Priestess Hexx and Her Minions",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 46
         }
       ]
     },
@@ -9386,7 +9481,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -9414,7 +9509,8 @@
         {
           "questId": 8118,
           "name": "Vision of Voodress",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9431,7 +9527,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 68,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -9459,7 +9555,8 @@
         {
           "questId": 8119,
           "name": "The Unmarred Vision of Voodress",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9476,7 +9573,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -9501,7 +9598,8 @@
         {
           "questId": 8111,
           "name": "Enchanted South Seas Kelp",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9518,7 +9616,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -9543,7 +9641,8 @@
         {
           "questId": 8143,
           "name": "Zandalrian Shadow Talisman",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9560,7 +9659,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 68,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -9585,7 +9684,8 @@
         {
           "questId": 8144,
           "name": "Zandalrian Shadow Mastery Talisman",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9803,7 +9903,7 @@
     "sellPrice": 925,
     "quality": "Uncommon",
     "itemLevel": 44,
-    "requiredLevel": 0,
+    "requiredLevel": 37,
     "slot": "Neck",
     "tooltip": [
       {
@@ -9828,12 +9928,14 @@
         {
           "questId": 60137,
           "name": "Palkeote",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 37
         },
         {
           "questId": 60135,
           "name": "The Lingering Mother",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 37
         }
       ]
     },
@@ -10057,7 +10159,7 @@
     "sellPrice": 2749,
     "quality": "Uncommon",
     "itemLevel": 43,
-    "requiredLevel": 38,
+    "requiredLevel": 34,
     "slot": "Neck",
     "tooltip": [
       {
@@ -10079,7 +10181,8 @@
         {
           "questId": 41295,
           "name": "Dearest Gallitrea",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 34
         }
       ]
     },
@@ -10125,7 +10228,7 @@
     "sellPrice": 3803,
     "quality": "Uncommon",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 23,
     "slot": "Neck",
     "tooltip": [
       {
@@ -10144,7 +10247,8 @@
         {
           "questId": 41711,
           "name": "Calming The Tempest",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 23
         }
       ]
     },
@@ -10161,7 +10265,7 @@
     "sellPrice": 7199,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Neck",
     "tooltip": [
       {
@@ -10180,7 +10284,8 @@
         {
           "questId": 41767,
           "name": "Rise of the Venture Co.",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },
@@ -10197,7 +10302,7 @@
     "sellPrice": 50198,
     "quality": "Rare",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -10222,7 +10327,8 @@
         {
           "questId": 40310,
           "name": "The Depths of Karazhan VII",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -10239,7 +10345,7 @@
     "sellPrice": 6483,
     "quality": "Uncommon",
     "itemLevel": 39,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Neck",
     "tooltip": [
       {
@@ -10261,7 +10367,8 @@
         {
           "questId": 40015,
           "name": "The Hunt for Heketh",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 28
         }
       ]
     },
@@ -10278,7 +10385,7 @@
     "sellPrice": 8966,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Neck",
     "tooltip": [
       {
@@ -10303,7 +10410,8 @@
         {
           "questId": 40772,
           "name": "The Abominable Yeti",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -10320,7 +10428,7 @@
     "sellPrice": 5892,
     "quality": "Uncommon",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Neck",
     "tooltip": [
       {
@@ -10342,7 +10450,8 @@
         {
           "questId": 40870,
           "name": "Blooming Hyjalroot",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -10461,7 +10570,7 @@
     "sellPrice": 2000,
     "quality": "Rare",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 18,
     "slot": "Neck",
     "tooltip": [
       {
@@ -10483,7 +10592,8 @@
         {
           "questId": 55225,
           "name": "The Hawk's Vigil",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 18
         }
       ]
     },
@@ -10695,7 +10805,7 @@
     "sellPrice": 16930,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Neck",
     "tooltip": [
       {
@@ -10720,7 +10830,8 @@
         {
           "questId": 3628,
           "name": "You Are Rakh'likh, Demon",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -10737,7 +10848,7 @@
     "sellPrice": 16875,
     "quality": "Uncommon",
     "itemLevel": 57,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Neck",
     "tooltip": [
       {
@@ -10765,12 +10876,14 @@
         {
           "questId": 793,
           "name": "Broken Alliances",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         },
         {
           "questId": 717,
           "name": "Tremors of the Earth",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         }
       ]
     },
@@ -11164,7 +11277,7 @@
     "sellPrice": 4912,
     "quality": "Uncommon",
     "itemLevel": 41,
-    "requiredLevel": 0,
+    "requiredLevel": 33,
     "slot": "Neck",
     "tooltip": [
       {
@@ -11189,7 +11302,8 @@
         {
           "questId": 5501,
           "name": "Bone Collector",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 33
         }
       ]
     },
@@ -11206,7 +11320,7 @@
     "sellPrice": 6145,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 53,
     "slot": "Neck",
     "tooltip": [
       {
@@ -11228,7 +11342,8 @@
         {
           "questId": 5057,
           "name": "Past Endeavors",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 53
         }
       ]
     },
@@ -11245,7 +11360,7 @@
     "sellPrice": 7108,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Neck",
     "tooltip": [
       {
@@ -11270,12 +11385,14 @@
         {
           "questId": 5238,
           "name": "Mission Accomplished!",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 50
         },
         {
           "questId": 5237,
           "name": "Mission Accomplished!",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 50
         }
       ]
     },
@@ -11292,7 +11409,7 @@
     "sellPrice": 7783,
     "quality": "Uncommon",
     "itemLevel": 57,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Neck",
     "tooltip": [
       {
@@ -11317,7 +11434,8 @@
         {
           "questId": 4902,
           "name": "Wildkin of Elune",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 52
         }
       ]
     },
@@ -11334,7 +11452,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -11359,7 +11477,8 @@
         {
           "questId": 8046,
           "name": "The Heathen's Brand",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -11376,7 +11495,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -11398,7 +11517,8 @@
         {
           "questId": 8102,
           "name": "The Pebble of Kajaro",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -11415,7 +11535,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -11434,7 +11554,8 @@
         {
           "questId": 8107,
           "name": "Kezan's Taint",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -11451,7 +11572,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -11473,7 +11594,8 @@
         {
           "questId": 8146,
           "name": "The Maelstrom's Tendril",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -11560,7 +11682,7 @@
     "sellPrice": 1770,
     "quality": "Uncommon",
     "itemLevel": 47,
-    "requiredLevel": 0,
+    "requiredLevel": 41,
     "slot": "Neck",
     "tooltip": [
       {
@@ -11582,7 +11704,8 @@
         {
           "questId": 60153,
           "name": "The Iron Patch",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 41
         }
       ]
     },
@@ -11905,7 +12028,7 @@
     "sellPrice": 3120,
     "quality": "Uncommon",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 21,
     "slot": "Neck",
     "tooltip": [
       {
@@ -11930,7 +12053,8 @@
         {
           "questId": 41697,
           "name": "Demons Galore",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 21
         }
       ]
     },
@@ -11947,7 +12071,7 @@
     "sellPrice": 6912,
     "quality": "Uncommon",
     "itemLevel": 57,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Neck",
     "tooltip": [
       {
@@ -11972,7 +12096,8 @@
         {
           "questId": 40162,
           "name": "The Evil Deeptide",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -11989,7 +12114,7 @@
     "sellPrice": 6078,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Neck",
     "tooltip": [
       {
@@ -12014,7 +12139,8 @@
         {
           "questId": 40219,
           "name": "The Jade Mine",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },
@@ -12031,7 +12157,7 @@
     "sellPrice": 6054,
     "quality": "Uncommon",
     "itemLevel": 57,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Neck",
     "tooltip": [
       {
@@ -12050,7 +12176,8 @@
         {
           "questId": 40437,
           "name": "Finding Private Holson II",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 45
         }
       ]
     },
@@ -12099,7 +12226,7 @@
     "sellPrice": 7208,
     "quality": "Uncommon",
     "itemLevel": 44,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Neck",
     "tooltip": [
       {
@@ -12124,7 +12251,8 @@
         {
           "questId": 40924,
           "name": "Signet of Silverlaine",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 38
         }
       ]
     },
@@ -12141,7 +12269,7 @@
     "sellPrice": 138,
     "quality": "Uncommon",
     "itemLevel": 21,
-    "requiredLevel": 0,
+    "requiredLevel": 16,
     "slot": "Neck",
     "tooltip": [
       {
@@ -12163,7 +12291,8 @@
         {
           "questId": 41366,
           "name": "Too Late to Prelate",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 16
         }
       ]
     },
@@ -12212,7 +12341,7 @@
     "sellPrice": 5622,
     "quality": "Uncommon",
     "itemLevel": 49,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Neck",
     "tooltip": [
       {
@@ -12237,7 +12366,8 @@
         {
           "questId": 55010,
           "name": "Grabbing the Gear",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },
@@ -12295,7 +12425,7 @@
     "sellPrice": 111628,
     "quality": "Epic",
     "itemLevel": 70,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -12317,7 +12447,8 @@
         {
           "questId": 8791,
           "name": "The Fall of Ossirian",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -12334,7 +12465,7 @@
     "sellPrice": 111628,
     "quality": "Epic",
     "itemLevel": 70,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -12356,7 +12487,8 @@
         {
           "questId": 8791,
           "name": "The Fall of Ossirian",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -12373,7 +12505,7 @@
     "sellPrice": 111628,
     "quality": "Epic",
     "itemLevel": 70,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -12392,7 +12524,8 @@
         {
           "questId": 8791,
           "name": "The Fall of Ossirian",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -12409,7 +12542,7 @@
     "sellPrice": 116151,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -12438,7 +12571,8 @@
         {
           "questId": 41619,
           "name": "Stormhowl Amulet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -12455,7 +12589,7 @@
     "sellPrice": 116151,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -12477,7 +12611,8 @@
         {
           "questId": 41619,
           "name": "Stormhowl Amulet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -12494,7 +12629,7 @@
     "sellPrice": 115833,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -12519,7 +12654,8 @@
         {
           "questId": 41601,
           "name": "Amulet of Pestilence",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -12536,7 +12672,7 @@
     "sellPrice": 115833,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -12565,7 +12701,8 @@
         {
           "questId": 41595,
           "name": "Amulet of the Brotherhood",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -12582,7 +12719,7 @@
     "sellPrice": 115833,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -12604,7 +12741,8 @@
         {
           "questId": 41583,
           "name": "Amulet of the Talon",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -12621,7 +12759,7 @@
     "sellPrice": 115833,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Neck",
     "tooltip": [
       {
@@ -12646,7 +12784,8 @@
         {
           "questId": 41583,
           "name": "Amulet of the Talon",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -12822,7 +12961,8 @@
         {
           "questId": 635,
           "name": "This Item Begins a Quest",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -12839,7 +12979,7 @@
     "sellPrice": 5430,
     "quality": "Uncommon",
     "itemLevel": 50,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Neck",
     "tooltip": [
       {
@@ -12864,7 +13004,8 @@
         {
           "questId": 656,
           "name": "Summoning the Princess",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -13389,7 +13530,7 @@
     "sellPrice": 7132,
     "quality": "Uncommon",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 39,
     "slot": "Neck",
     "tooltip": [
       {
@@ -13411,12 +13552,14 @@
         {
           "questId": 7068,
           "name": "Shadowshard Fragments",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 39
         },
         {
           "questId": 7070,
           "name": "Shadowshard Fragments",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 39
         }
       ]
     },
@@ -13433,7 +13576,7 @@
     "sellPrice": 7132,
     "quality": "Uncommon",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 39,
     "slot": "Neck",
     "tooltip": [
       {
@@ -13455,12 +13598,14 @@
         {
           "questId": 7068,
           "name": "Shadowshard Fragments",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 39
         },
         {
           "questId": 7070,
           "name": "Shadowshard Fragments",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 39
         }
       ]
     },
@@ -13477,7 +13622,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -13499,7 +13644,8 @@
         {
           "questId": 8042,
           "name": "Strength of Mount Mugamba",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -13516,7 +13662,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -13541,7 +13687,8 @@
         {
           "questId": 8050,
           "name": "The Eye of Zuldazar",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -13558,7 +13705,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -13583,7 +13730,8 @@
         {
           "questId": 8117,
           "name": "Vision of Voodress",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -13600,7 +13748,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -13622,7 +13770,8 @@
         {
           "questId": 8142,
           "name": "Zandalrian Shadow Talisman",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -13639,7 +13788,7 @@
     "sellPrice": 22425,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Neck",
     "tooltip": [
       {
@@ -13664,7 +13813,8 @@
         {
           "questId": 8321,
           "name": "Vyral the Vile",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -13751,7 +13901,7 @@
     "sellPrice": 4403,
     "quality": "Uncommon",
     "itemLevel": 41,
-    "requiredLevel": 36,
+    "requiredLevel": 34,
     "slot": "Neck",
     "tooltip": [
       {
@@ -13779,17 +13929,20 @@
         {
           "questId": 41293,
           "name": "Elaborate Golden Bracelets",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 34
         },
         {
           "questId": 41305,
           "name": "Gold Is The Goblin's Heart",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 32
         },
         {
           "questId": 41301,
           "name": "Undermarket Offer",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 32
         }
       ]
     },
@@ -13806,7 +13959,7 @@
     "sellPrice": 73,
     "quality": "Common",
     "itemLevel": 1,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Neck",
     "tooltip": [
       {
@@ -13825,7 +13978,8 @@
         {
           "questId": 41389,
           "name": "Proof",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -13842,7 +13996,7 @@
     "sellPrice": 3738,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 34,
     "slot": "Neck",
     "tooltip": [
       {
@@ -13867,7 +14021,8 @@
         {
           "questId": 41879,
           "name": "Crystal Clear Impression",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 34
         }
       ]
     },
@@ -14120,7 +14275,7 @@
     "sellPrice": 4951,
     "quality": "Uncommon",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 22,
     "slot": "Neck",
     "tooltip": [
       {
@@ -14145,7 +14300,8 @@
         {
           "questId": 41685,
           "name": "A Veiled Threat",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 22
         }
       ]
     },
@@ -14162,7 +14318,7 @@
     "sellPrice": 3972,
     "quality": "Uncommon",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Neck",
     "tooltip": [
       {
@@ -14184,12 +14340,14 @@
         {
           "questId": 41676,
           "name": "Orcs by Our Borders",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         },
         {
           "questId": 41683,
           "name": "Scum Should Stay Scum",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 29
         }
       ]
     },
@@ -14235,7 +14393,7 @@
     "sellPrice": 11454,
     "quality": "Uncommon",
     "itemLevel": 41,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Neck",
     "tooltip": [
       {
@@ -14257,7 +14415,8 @@
         {
           "questId": 40030,
           "name": "Noboru the Cudgel",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -14274,7 +14433,7 @@
     "sellPrice": 10933,
     "quality": "Uncommon",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Neck",
     "tooltip": [
       {
@@ -14302,7 +14461,8 @@
         {
           "questId": 40519,
           "name": "Drifting Across the Sand",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -14319,7 +14479,7 @@
     "sellPrice": 25000,
     "quality": "Uncommon",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 53,
     "slot": "Neck",
     "tooltip": [
       {
@@ -14338,7 +14498,8 @@
         {
           "questId": 40785,
           "name": "King Morogo Thunderfoot!",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 53
         }
       ]
     },
@@ -14355,7 +14516,7 @@
     "sellPrice": 5673,
     "quality": "Uncommon",
     "itemLevel": 32,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Neck",
     "tooltip": [
       {
@@ -14377,7 +14538,8 @@
         {
           "questId": 40797,
           "name": "A Foul Effigy",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },

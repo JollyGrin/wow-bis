@@ -8,7 +8,7 @@
     "sellPrice": 136418,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Legs",
     "tooltip": [
       {
@@ -46,7 +46,8 @@
         {
           "questId": 9078,
           "name": "Bonescythe Legplates",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -111,7 +112,7 @@
     "sellPrice": 42565,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 57,
     "slot": "Legs",
     "tooltip": [
       {
@@ -161,7 +162,8 @@
         {
           "questId": 5167,
           "name": "Legplates of the Chromatic Defier",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 57
         }
       ]
     },
@@ -229,7 +231,7 @@
     "sellPrice": 108479,
     "quality": "Epic",
     "itemLevel": 81,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Legs",
     "tooltip": [
       {
@@ -264,7 +266,8 @@
         {
           "questId": 8624,
           "name": "Stormcaller's Leggings",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 60
         }
       ]
     },
@@ -322,7 +325,8 @@
         {
           "questId": 41515,
           "name": "Earthfury Legs",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -377,7 +381,8 @@
         {
           "questId": 9069,
           "name": "Earthshatter Legguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -394,7 +399,7 @@
     "sellPrice": 207249,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Legs",
     "tooltip": [
       {
@@ -432,7 +437,8 @@
         {
           "questId": 41617,
           "name": "Stormhowl Kilt",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -545,7 +551,7 @@
     "sellPrice": 25685,
     "quality": "Rare",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 46,
     "slot": "Legs",
     "tooltip": [
       {
@@ -583,7 +589,8 @@
         {
           "questId": 40297,
           "name": "Stop the Dragonflight",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 46
         }
       ]
     },
@@ -1434,7 +1441,7 @@
     "sellPrice": 71529,
     "quality": "Epic",
     "itemLevel": 81,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Legs",
     "tooltip": [
       {
@@ -1472,7 +1479,8 @@
         {
           "questId": 8560,
           "name": "Conqueror's Legguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1489,7 +1497,7 @@
     "sellPrice": 70952,
     "quality": "Epic",
     "itemLevel": 81,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Legs",
     "tooltip": [
       {
@@ -1530,7 +1538,8 @@
         {
           "questId": 8629,
           "name": "Avenger's Legguards",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1595,7 +1604,7 @@
     "sellPrice": 26786,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Legs",
     "tooltip": [
       {
@@ -1639,12 +1648,14 @@
         {
           "questId": 8959,
           "name": "Anthion's Parting Words",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 9022,
           "name": "Anthion's Parting Words",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1661,7 +1672,7 @@
     "sellPrice": 26692,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Legs",
     "tooltip": [
       {
@@ -1708,7 +1719,8 @@
         {
           "questId": 8954,
           "name": "Anthion's Parting Words",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1773,7 +1785,7 @@
     "sellPrice": 106420,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Legs",
     "tooltip": [
       {
@@ -1808,7 +1820,8 @@
         {
           "questId": 9036,
           "name": "Dreadnaught Legplates",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1825,7 +1838,7 @@
     "sellPrice": 102583,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Legs",
     "tooltip": [
       {
@@ -1860,7 +1873,8 @@
         {
           "questId": 9044,
           "name": "Redemption Legguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1967,7 +1981,7 @@
     "sellPrice": 72832,
     "quality": "Epic",
     "itemLevel": 80,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Legs",
     "tooltip": [
       {
@@ -2005,7 +2019,8 @@
         {
           "questId": 9232,
           "name": "The Only Song I Know...",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2207,7 +2222,8 @@
         {
           "questId": 41499,
           "name": "Lawbringer's Legs",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2271,7 +2287,8 @@
         {
           "questId": 41499,
           "name": "Lawbringer's Legs",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2335,7 +2352,8 @@
         {
           "questId": 41491,
           "name": "Judgement's Legs",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2399,7 +2417,8 @@
         {
           "questId": 41491,
           "name": "Judgement's Legs",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2457,7 +2476,8 @@
         {
           "questId": 8629,
           "name": "Avenger's Legguards",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2515,7 +2535,8 @@
         {
           "questId": 8629,
           "name": "Avenger's Legguards",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2570,7 +2591,8 @@
         {
           "questId": 9044,
           "name": "Redemption Legguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2631,7 +2653,8 @@
         {
           "questId": 9044,
           "name": "Redemption Legguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2648,7 +2671,7 @@
     "sellPrice": 103866,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Legs",
     "tooltip": [
       {
@@ -2686,7 +2709,8 @@
         {
           "questId": 41629,
           "name": "Lionheart Legs",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2703,7 +2727,7 @@
     "sellPrice": 103866,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Legs",
     "tooltip": [
       {
@@ -2744,7 +2768,8 @@
         {
           "questId": 41629,
           "name": "Lionheart Legs",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2761,7 +2786,7 @@
     "sellPrice": 103866,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Legs",
     "tooltip": [
       {
@@ -2802,7 +2827,8 @@
         {
           "questId": 41629,
           "name": "Lionheart Legs",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2860,7 +2886,8 @@
         {
           "questId": 41448,
           "name": "Legs of Might",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2924,7 +2951,8 @@
         {
           "questId": 41440,
           "name": "Legs of Wrath",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -3027,7 +3055,8 @@
         {
           "questId": 9036,
           "name": "Dreadnaught Legplates",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -3044,7 +3073,7 @@
     "sellPrice": 103866,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Legs",
     "tooltip": [
       {
@@ -3085,7 +3114,8 @@
         {
           "questId": 41593,
           "name": "Pants of the Brotherhood",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -3534,7 +3564,7 @@
     "sellPrice": 12345,
     "quality": "Uncommon",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Legs",
     "tooltip": [
       {
@@ -3569,7 +3599,8 @@
         {
           "questId": 4491,
           "name": "A Little Help From My Friends",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -4594,7 +4625,7 @@
     "sellPrice": 22708,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Legs",
     "tooltip": [
       {
@@ -4629,7 +4660,8 @@
         {
           "questId": 8316,
           "name": "Armaments of War",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -4646,7 +4678,7 @@
     "sellPrice": 21968,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Legs",
     "tooltip": [
       {
@@ -4684,7 +4716,8 @@
         {
           "questId": 8376,
           "name": "Armaments of War",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -5837,7 +5870,8 @@
         {
           "questId": 2772,
           "name": "The World At Your Feet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -6496,7 +6530,7 @@
     "sellPrice": 10692,
     "quality": "Uncommon",
     "itemLevel": 53,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Legs",
     "tooltip": [
       {
@@ -6531,7 +6565,8 @@
         {
           "questId": 3566,
           "name": "Rise, Obsidion!",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         }
       ]
     },
@@ -7310,7 +7345,7 @@
     "sellPrice": 8915,
     "quality": "Uncommon",
     "itemLevel": 50,
-    "requiredLevel": 0,
+    "requiredLevel": 46,
     "slot": "Legs",
     "tooltip": [
       {
@@ -7345,7 +7380,8 @@
         {
           "questId": 7849,
           "name": "Separation Anxiety",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 46
         }
       ]
     },
@@ -7362,7 +7398,7 @@
     "sellPrice": 8259,
     "quality": "Uncommon",
     "itemLevel": 48,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Legs",
     "tooltip": [
       {
@@ -7397,7 +7433,8 @@
         {
           "questId": 7728,
           "name": "STOLEN: Smithing Tuyere and Lookout's Spyglass",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -7414,7 +7451,7 @@
     "sellPrice": 12407,
     "quality": "Uncommon",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Legs",
     "tooltip": [
       {
@@ -7446,7 +7483,8 @@
         {
           "questId": 8461,
           "name": "Deadwood of the North",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -7463,7 +7501,7 @@
     "sellPrice": 16204,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Legs",
     "tooltip": [
       {
@@ -7498,7 +7536,8 @@
         {
           "questId": 40200,
           "name": "Tanglemoss",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },
@@ -7560,7 +7599,7 @@
     "sellPrice": 8627,
     "quality": "Uncommon",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Legs",
     "tooltip": [
       {
@@ -7595,7 +7634,8 @@
         {
           "questId": 40927,
           "name": "Securing Gilneas II",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 35
         }
       ]
     },

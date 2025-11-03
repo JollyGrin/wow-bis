@@ -6330,7 +6330,7 @@
     "sellPrice": 51878,
     "quality": "Uncommon",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 47,
     "slot": "Two-hand",
     "tooltip": [
       {
@@ -6368,7 +6368,8 @@
         {
           "questId": 40491,
           "name": "Scrap Forager",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 47
         }
       ]
     },

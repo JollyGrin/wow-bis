@@ -89,7 +89,7 @@
     "sellPrice": 35057,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 57,
     "slot": "Legs",
     "tooltip": [
       {
@@ -124,7 +124,8 @@
         {
           "questId": 5067,
           "name": "Leggings of Arcana",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 57
         }
       ]
     },
@@ -828,7 +829,7 @@
     "sellPrice": 90751,
     "quality": "Epic",
     "itemLevel": 81,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Legs",
     "tooltip": [
       {
@@ -866,7 +867,8 @@
         {
           "questId": 8668,
           "name": "Genesis Trousers",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -883,7 +885,7 @@
     "sellPrice": 95240,
     "quality": "Epic",
     "itemLevel": 81,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Legs",
     "tooltip": [
       {
@@ -921,7 +923,8 @@
         {
           "questId": 8640,
           "name": "Deathdealer's Leggings",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -983,7 +986,7 @@
     "sellPrice": 31889,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Legs",
     "tooltip": [
       {
@@ -1027,12 +1030,14 @@
         {
           "questId": 8956,
           "name": "Anthion's Parting Words",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 9020,
           "name": "Anthion's Parting Words",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1049,7 +1054,7 @@
     "sellPrice": 33239,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Legs",
     "tooltip": [
       {
@@ -1090,12 +1095,14 @@
         {
           "questId": 8951,
           "name": "Anthion's Parting Words",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 9016,
           "name": "Anthion's Parting Words",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1112,7 +1119,7 @@
     "sellPrice": 132583,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Legs",
     "tooltip": [
       {
@@ -1150,7 +1157,8 @@
         {
           "questId": 9087,
           "name": "Dreamwalker Legguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1167,7 +1175,7 @@
     "sellPrice": 91682,
     "quality": "Epic",
     "itemLevel": 80,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Legs",
     "tooltip": [
       {
@@ -1205,7 +1213,8 @@
         {
           "questId": 9232,
           "name": "The Only Song I Know...",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1450,7 +1459,7 @@
     "sellPrice": 183649,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Legs",
     "tooltip": [
       {
@@ -1491,7 +1500,8 @@
         {
           "questId": 41605,
           "name": "Trickster Pants",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1552,7 +1562,8 @@
         {
           "questId": 41414,
           "name": "Cenarion Legs",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1619,7 +1630,8 @@
         {
           "questId": 41414,
           "name": "Cenarion Legs",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1683,7 +1695,8 @@
         {
           "questId": 41406,
           "name": "Stormrage Legs",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1747,7 +1760,8 @@
         {
           "questId": 41406,
           "name": "Stormrage Legs",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1805,7 +1819,8 @@
         {
           "questId": 8668,
           "name": "Genesis Trousers",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1866,7 +1881,8 @@
         {
           "questId": 8668,
           "name": "Genesis Trousers",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1924,7 +1940,8 @@
         {
           "questId": 9087,
           "name": "Dreamwalker Legguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1985,7 +2002,8 @@
         {
           "questId": 9087,
           "name": "Dreamwalker Legguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2002,7 +2020,7 @@
     "sellPrice": 171410,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Legs",
     "tooltip": [
       {
@@ -2043,7 +2061,8 @@
         {
           "questId": 41581,
           "name": "Pants of the Talon",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2060,7 +2079,7 @@
     "sellPrice": 171460,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Legs",
     "tooltip": [
       {
@@ -2101,7 +2120,8 @@
         {
           "questId": 41581,
           "name": "Pants of the Talon",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2118,7 +2138,7 @@
     "sellPrice": 176678,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Legs",
     "tooltip": [
       {
@@ -2159,7 +2179,8 @@
         {
           "questId": 41581,
           "name": "Pants of the Talon",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2803,7 +2824,7 @@
     "sellPrice": 5267,
     "quality": "Rare",
     "itemLevel": 37,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Legs",
     "tooltip": [
       {
@@ -2841,12 +2862,14 @@
         {
           "questId": 2841,
           "name": "Rig Wars",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 25
         },
         {
           "questId": 2929,
           "name": "The Grand Betrayal",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 25
         }
       ]
     },
@@ -2863,7 +2886,7 @@
     "sellPrice": 16159,
     "quality": "Rare",
     "itemLevel": 53,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Legs",
     "tooltip": [
       {
@@ -2898,7 +2921,8 @@
         {
           "questId": 2994,
           "name": "Saving Sharpbeak",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         }
       ]
     },
@@ -4040,7 +4064,7 @@
     "sellPrice": 29571,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Legs",
     "tooltip": [
       {
@@ -4078,7 +4102,8 @@
         {
           "questId": 8378,
           "name": "Armaments of War",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -4095,7 +4120,7 @@
     "sellPrice": 27461,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Legs",
     "tooltip": [
       {
@@ -4130,7 +4155,8 @@
         {
           "questId": 8382,
           "name": "Armaments of War",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -4969,7 +4995,7 @@
     "sellPrice": 458,
     "quality": "Uncommon",
     "itemLevel": 17,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Legs",
     "tooltip": [
       {
@@ -5004,7 +5030,8 @@
         {
           "questId": 217,
           "name": "In Defense of the King's Lands",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 10
         }
       ]
     },
@@ -5330,7 +5357,7 @@
     "sellPrice": 519,
     "quality": "Uncommon",
     "itemLevel": 18,
-    "requiredLevel": 0,
+    "requiredLevel": 13,
     "slot": "Legs",
     "tooltip": [
       {
@@ -5365,7 +5392,8 @@
         {
           "questId": 863,
           "name": "The Escape",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 13
         }
       ]
     },
@@ -6519,7 +6547,7 @@
     "sellPrice": 533,
     "quality": "Uncommon",
     "itemLevel": 18,
-    "requiredLevel": 0,
+    "requiredLevel": 9,
     "slot": "Legs",
     "tooltip": [
       {
@@ -6557,7 +6585,8 @@
         {
           "questId": 5725,
           "name": "The Power to Destroy...",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 9
         }
       ]
     },
@@ -6940,7 +6969,7 @@
     "sellPrice": 1367,
     "quality": "Uncommon",
     "itemLevel": 26,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Legs",
     "tooltip": [
       {
@@ -6978,7 +7007,8 @@
         {
           "questId": 40641,
           "name": "Grand Theft Shredder",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 20
         }
       ]
     },
@@ -7274,7 +7304,7 @@
     "sellPrice": 339,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 8,
     "slot": "Legs",
     "tooltip": [
       {
@@ -7309,7 +7339,8 @@
         {
           "questId": 9,
           "name": "The Killing Fields",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 8
         }
       ]
     },
@@ -7416,7 +7447,7 @@
     "sellPrice": 5403,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Legs",
     "tooltip": [
       {
@@ -7451,7 +7482,8 @@
         {
           "questId": 193,
           "name": "Panther Mastery",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 28
         }
       ]
     },
@@ -7513,7 +7545,7 @@
     "sellPrice": 368,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 3,
     "slot": "Legs",
     "tooltip": [
       {
@@ -7545,7 +7577,8 @@
         {
           "questId": 776,
           "name": "Rites of the Earthmother",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 3
         }
       ]
     },
@@ -7562,7 +7595,7 @@
     "sellPrice": 5486,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Legs",
     "tooltip": [
       {
@@ -7594,7 +7627,8 @@
         {
           "questId": 680,
           "name": "The Real Threat",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -7863,7 +7897,7 @@
     "sellPrice": 8708,
     "quality": "Uncommon",
     "itemLevel": 46,
-    "requiredLevel": 41,
+    "requiredLevel": 30,
     "slot": "Legs",
     "tooltip": [
       {
@@ -7901,12 +7935,14 @@
         {
           "questId": 2851,
           "name": "Wild Leather Boots",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         },
         {
           "questId": 2858,
           "name": "Wild Leather Boots",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -8820,7 +8856,7 @@
     "sellPrice": 4442,
     "quality": "Uncommon",
     "itemLevel": 37,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Legs",
     "tooltip": [
       {
@@ -8855,7 +8891,8 @@
         {
           "questId": 661,
           "name": "Hints of a New Plague?",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -8872,7 +8909,7 @@
     "sellPrice": 193,
     "quality": "Uncommon",
     "itemLevel": 12,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Legs",
     "tooltip": [
       {
@@ -8904,7 +8941,8 @@
         {
           "questId": 41249,
           "name": "Leaders of the Reefscale",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 5
         }
       ]
     },
@@ -9011,7 +9049,7 @@
     "sellPrice": 4830,
     "quality": "Uncommon",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 21,
     "slot": "Legs",
     "tooltip": [
       {
@@ -9043,7 +9081,8 @@
         {
           "questId": 41694,
           "name": "To The Darkest Places",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 21
         }
       ]
     },
@@ -9060,7 +9099,7 @@
     "sellPrice": 18406,
     "quality": "Uncommon",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Legs",
     "tooltip": [
       {
@@ -9098,7 +9137,8 @@
         {
           "questId": 40195,
           "name": "The Razzari Leaders",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },
@@ -9115,7 +9155,7 @@
     "sellPrice": 1208,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 12,
     "slot": "Legs",
     "tooltip": [
       {
@@ -9150,7 +9190,8 @@
         {
           "questId": 40693,
           "name": "The Ornate Windshear Gemstone",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 12
         }
       ]
     },
@@ -9350,7 +9391,7 @@
     "sellPrice": 12,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Legs",
     "tooltip": [
       {
@@ -9379,7 +9420,8 @@
         {
           "questId": 183,
           "name": "The Boar Hunter",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 1
         }
       ]
     },
@@ -9465,7 +9507,7 @@
     "sellPrice": 715,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Legs",
     "tooltip": [
       {
@@ -9500,7 +9542,8 @@
         {
           "questId": 89,
           "name": "The Everstill Bridge",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -9676,7 +9719,7 @@
     "sellPrice": 75,
     "quality": "Common",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 7,
     "slot": "Legs",
     "tooltip": [
       {
@@ -9705,7 +9748,8 @@
         {
           "questId": 59,
           "name": "Cloth and Leather Armor",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 7
         }
       ]
     },
@@ -9758,7 +9802,7 @@
     "sellPrice": 363,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 12,
     "slot": "Legs",
     "tooltip": [
       {
@@ -9793,7 +9837,8 @@
         {
           "questId": 452,
           "name": "Pyrewood Ambush",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 12
         }
       ]
     },
@@ -9945,7 +9990,7 @@
     "sellPrice": 12,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Legs",
     "tooltip": [
       {
@@ -9974,7 +10019,8 @@
         {
           "questId": 794,
           "name": "Burning Blade Medallion",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 1
         }
       ]
     },
@@ -10036,7 +10082,7 @@
     "sellPrice": 13,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Legs",
     "tooltip": [
       {
@@ -10065,7 +10111,8 @@
         {
           "questId": 459,
           "name": "The Woodland Protector",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 1
         }
       ]
     },
@@ -10082,7 +10129,7 @@
     "sellPrice": 247,
     "quality": "Uncommon",
     "itemLevel": 13,
-    "requiredLevel": 0,
+    "requiredLevel": 7,
     "slot": "Legs",
     "tooltip": [
       {
@@ -10117,7 +10164,8 @@
         {
           "questId": 957,
           "name": "Bashal'Aran",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 7
         }
       ]
     },
@@ -10134,7 +10182,7 @@
     "sellPrice": 713,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 13,
     "slot": "Legs",
     "tooltip": [
       {
@@ -10169,7 +10217,8 @@
         {
           "questId": 1486,
           "name": "Deviate Hides",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 13
         }
       ]
     },
@@ -10594,7 +10643,7 @@
     "sellPrice": 14446,
     "quality": "Uncommon",
     "itemLevel": 54,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Legs",
     "tooltip": [
       {
@@ -10632,7 +10681,8 @@
         {
           "questId": 4242,
           "name": "Abandoned Hope",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 48
         }
       ]
     },
@@ -10861,7 +10911,8 @@
         {
           "questId": 9187,
           "name": "Craftsman's Writ - Runic Leather Pants",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -10878,7 +10929,7 @@
     "sellPrice": 515,
     "quality": "Uncommon",
     "itemLevel": 18,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Legs",
     "tooltip": [
       {
@@ -10916,7 +10967,8 @@
         {
           "questId": 4763,
           "name": "The Blackwood Corrupted",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -11170,7 +11222,7 @@
     "sellPrice": 12,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 2,
     "slot": "Legs",
     "tooltip": [
       {
@@ -11199,7 +11251,8 @@
         {
           "questId": 41152,
           "name": "DV-500",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 2
         }
       ]
     },
@@ -11216,7 +11269,7 @@
     "sellPrice": 2589,
     "quality": "Uncommon",
     "itemLevel": 32,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Legs",
     "tooltip": [
       {
@@ -11254,12 +11307,14 @@
         {
           "questId": 41758,
           "name": "Tainted Brambleheart",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 25
         },
         {
           "questId": 41759,
           "name": "The Gnarled Bramblehide",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 25
         }
       ]
     },
@@ -11276,7 +11331,7 @@
     "sellPrice": 148,
     "quality": "Uncommon",
     "itemLevel": 11,
-    "requiredLevel": 0,
+    "requiredLevel": 8,
     "slot": "Legs",
     "tooltip": [
       {
@@ -11308,7 +11363,8 @@
         {
           "questId": 41790,
           "name": "Reclaiming the Moonwell",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 8
         }
       ]
     },
@@ -11325,7 +11381,7 @@
     "sellPrice": 3,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 3,
     "slot": "Legs",
     "tooltip": [
       {
@@ -11354,7 +11410,8 @@
         {
           "questId": 60150,
           "name": "Bristleback Aggression",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 3
         }
       ]
     },
@@ -11416,7 +11473,7 @@
     "sellPrice": 22311,
     "quality": "Uncommon",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Legs",
     "tooltip": [
       {
@@ -11451,7 +11508,8 @@
         {
           "questId": 40742,
           "name": "The Work Must Continue",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 48
         }
       ]
     },
@@ -11858,7 +11916,7 @@
     "sellPrice": 13,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 2,
     "slot": "Legs",
     "tooltip": [
       {
@@ -11887,7 +11945,8 @@
         {
           "questId": 380,
           "name": "Night Web's Hollow",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 2
         }
       ]
     },
@@ -12048,7 +12107,7 @@
     "sellPrice": 54,
     "quality": "Common",
     "itemLevel": 9,
-    "requiredLevel": 0,
+    "requiredLevel": 6,
     "slot": "Legs",
     "tooltip": [
       {
@@ -12077,7 +12136,8 @@
         {
           "questId": 746,
           "name": "Dwarven Digging",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 6
         }
       ]
     },
@@ -12127,7 +12187,7 @@
     "sellPrice": 13,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 2,
     "slot": "Legs",
     "tooltip": [
       {
@@ -12156,7 +12216,8 @@
         {
           "questId": 41190,
           "name": "Thalassian Goulash",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 2
         }
       ]
     },
@@ -12173,7 +12234,7 @@
     "sellPrice": 55,
     "quality": "Common",
     "itemLevel": 8,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Legs",
     "tooltip": [
       {
@@ -12202,7 +12263,8 @@
         {
           "questId": 41215,
           "name": "Whispers of Autumn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 5
         }
       ]
     },

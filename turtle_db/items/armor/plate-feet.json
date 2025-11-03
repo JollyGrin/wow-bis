@@ -821,7 +821,7 @@
     "sellPrice": 46519,
     "quality": "Epic",
     "itemLevel": 78,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Feet",
     "tooltip": [
       {
@@ -859,7 +859,8 @@
         {
           "questId": 8559,
           "name": "Conqueror's Greaves",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -876,7 +877,7 @@
     "sellPrice": 45619,
     "quality": "Epic",
     "itemLevel": 78,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Feet",
     "tooltip": [
       {
@@ -917,7 +918,8 @@
         {
           "questId": 8655,
           "name": "Avenger's Greaves",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1081,7 +1083,7 @@
     "sellPrice": 19624,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Feet",
     "tooltip": [
       {
@@ -1122,12 +1124,14 @@
         {
           "questId": 8959,
           "name": "Anthion's Parting Words",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 9022,
           "name": "Anthion's Parting Words",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1144,7 +1148,7 @@
     "sellPrice": 19552,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Feet",
     "tooltip": [
       {
@@ -1191,7 +1195,8 @@
         {
           "questId": 8954,
           "name": "Anthion's Parting Words",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1208,7 +1213,7 @@
     "sellPrice": 73173,
     "quality": "Epic",
     "itemLevel": 86,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Feet",
     "tooltip": [
       {
@@ -1243,7 +1248,8 @@
         {
           "questId": 9039,
           "name": "Dreadnaught Sabatons",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1260,7 +1266,7 @@
     "sellPrice": 70562,
     "quality": "Epic",
     "itemLevel": 86,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Feet",
     "tooltip": [
       {
@@ -1295,7 +1301,8 @@
         {
           "questId": 9047,
           "name": "Redemption Boots",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1356,7 +1363,8 @@
         {
           "questId": 41500,
           "name": "Lawbringer's Feet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1420,7 +1428,8 @@
         {
           "questId": 41500,
           "name": "Lawbringer's Feet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1481,7 +1490,8 @@
         {
           "questId": 41492,
           "name": "Judgement's Feet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1548,7 +1558,8 @@
         {
           "questId": 41492,
           "name": "Judgement's Feet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1606,7 +1617,8 @@
         {
           "questId": 8655,
           "name": "Avenger's Greaves",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1664,7 +1676,8 @@
         {
           "questId": 8655,
           "name": "Avenger's Greaves",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1719,7 +1732,8 @@
         {
           "questId": 9047,
           "name": "Redemption Boots",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1777,7 +1791,8 @@
         {
           "questId": 9047,
           "name": "Redemption Boots",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1794,7 +1809,7 @@
     "sellPrice": 53121,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Feet",
     "tooltip": [
       {
@@ -1832,7 +1847,8 @@
         {
           "questId": 41630,
           "name": "Lionheart Boots",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1849,7 +1865,7 @@
     "sellPrice": 73394,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Feet",
     "tooltip": [
       {
@@ -1890,7 +1906,8 @@
         {
           "questId": 41630,
           "name": "Lionheart Boots",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1907,7 +1924,7 @@
     "sellPrice": 53121,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Feet",
     "tooltip": [
       {
@@ -1948,7 +1965,8 @@
         {
           "questId": 41630,
           "name": "Lionheart Boots",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2006,7 +2024,8 @@
         {
           "questId": 41449,
           "name": "Boots of Might",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2067,7 +2086,8 @@
         {
           "questId": 41441,
           "name": "Boots of Wrath",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2170,7 +2190,8 @@
         {
           "questId": 9039,
           "name": "Dreadnaught Sabatons",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2187,7 +2208,7 @@
     "sellPrice": 53121,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Feet",
     "tooltip": [
       {
@@ -2228,7 +2249,8 @@
         {
           "questId": 41594,
           "name": "Boots of the Brotherhood",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -4162,7 +4184,7 @@
     "sellPrice": 16457,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Feet",
     "tooltip": [
       {
@@ -4194,7 +4216,8 @@
         {
           "questId": 8316,
           "name": "Armaments of War",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -4211,7 +4234,7 @@
     "sellPrice": 16521,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Feet",
     "tooltip": [
       {
@@ -4249,7 +4272,8 @@
         {
           "questId": 8376,
           "name": "Armaments of War",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -5112,7 +5136,7 @@
     "sellPrice": 5769,
     "quality": "Uncommon",
     "itemLevel": 47,
-    "requiredLevel": 42,
+    "requiredLevel": 40,
     "slot": "Feet",
     "tooltip": [
       {
@@ -5147,7 +5171,8 @@
         {
           "questId": 2772,
           "name": "The World At Your Feet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -5164,7 +5189,7 @@
     "sellPrice": 6739,
     "quality": "Uncommon",
     "itemLevel": 49,
-    "requiredLevel": 44,
+    "requiredLevel": 60,
     "slot": "Feet",
     "tooltip": [
       {
@@ -5196,22 +5221,26 @@
         {
           "questId": 8540,
           "name": "Boots for the Guard",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         },
         {
           "questId": 8805,
           "name": "Boots for the Guard",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         },
         {
           "questId": 5283,
           "name": "The Art of the Armorsmith",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         },
         {
           "questId": 5301,
           "name": "The Art of the Armorsmith",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 40
         }
       ]
     },
@@ -5489,7 +5518,7 @@
     "sellPrice": 4749,
     "quality": "Uncommon",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Feet",
     "tooltip": [
       {
@@ -5524,7 +5553,8 @@
         {
           "questId": 2874,
           "name": "Deliver to MacKinley",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -5541,7 +5571,7 @@
     "sellPrice": 6791,
     "quality": "Uncommon",
     "itemLevel": 49,
-    "requiredLevel": 0,
+    "requiredLevel": 43,
     "slot": "Feet",
     "tooltip": [
       {
@@ -5573,7 +5603,8 @@
         {
           "questId": 836,
           "name": "Rescue OOX-09/HL!",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 43
         }
       ]
     },
@@ -5590,7 +5621,7 @@
     "sellPrice": 4258,
     "quality": "Uncommon",
     "itemLevel": 43,
-    "requiredLevel": 0,
+    "requiredLevel": 39,
     "slot": "Feet",
     "tooltip": [
       {
@@ -5625,7 +5656,8 @@
         {
           "questId": 2903,
           "name": "The Battle Plans",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 39
         }
       ]
     },
@@ -6038,7 +6070,7 @@
     "sellPrice": 7772,
     "quality": "Uncommon",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Feet",
     "tooltip": [
       {
@@ -6073,7 +6105,8 @@
         {
           "questId": 3461,
           "name": "Return to Tymor",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 45
         }
       ]
     },
@@ -6090,7 +6123,7 @@
     "sellPrice": 8566,
     "quality": "Uncommon",
     "itemLevel": 54,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Feet",
     "tooltip": [
       {
@@ -6122,12 +6155,14 @@
         {
           "questId": 4510,
           "name": "Calm Before the Storm",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 50
         },
         {
           "questId": 4511,
           "name": "Calm Before the Storm",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 50
         }
       ]
     },
@@ -6144,7 +6179,7 @@
     "sellPrice": 9572,
     "quality": "Uncommon",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 49,
     "slot": "Feet",
     "tooltip": [
       {
@@ -6179,7 +6214,8 @@
         {
           "questId": 4501,
           "name": "Beware of Pterrordax",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 49
         }
       ]
     },
@@ -6967,7 +7003,7 @@
     "sellPrice": 3155,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Feet",
     "tooltip": [
       {
@@ -7002,7 +7038,8 @@
         {
           "questId": 338,
           "name": "The Green Hills of Stranglethorn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -7019,7 +7056,7 @@
     "sellPrice": 6154,
     "quality": "Uncommon",
     "itemLevel": 47,
-    "requiredLevel": 0,
+    "requiredLevel": 36,
     "slot": "Feet",
     "tooltip": [
       {
@@ -7054,7 +7091,8 @@
         {
           "questId": 40841,
           "name": "Behind The Wall",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 36
         }
       ]
     },

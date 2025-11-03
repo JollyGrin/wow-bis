@@ -1064,7 +1064,7 @@
     "sellPrice": 9975,
     "quality": "Rare",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Hands",
     "tooltip": [
       {
@@ -1105,7 +1105,8 @@
         {
           "questId": 8413,
           "name": "Da Voodoo",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 50
         }
       ]
     },
@@ -1122,7 +1123,7 @@
     "sellPrice": 16647,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Hands",
     "tooltip": [
       {
@@ -1160,7 +1161,8 @@
         {
           "questId": 8377,
           "name": "Armaments of War",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1375,7 +1377,7 @@
     "sellPrice": 14941,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Hands",
     "tooltip": [
       {
@@ -1419,12 +1421,14 @@
         {
           "questId": 8931,
           "name": "Just Compensation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         },
         {
           "questId": 8938,
           "name": "Just Compensation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1441,7 +1445,7 @@
     "sellPrice": 15558,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Hands",
     "tooltip": [
       {
@@ -1479,7 +1483,8 @@
         {
           "questId": 8942,
           "name": "Just Compensation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1538,7 +1543,7 @@
     "sellPrice": 75205,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Hands",
     "tooltip": [
       {
@@ -1576,7 +1581,8 @@
         {
           "questId": 9059,
           "name": "Cryptstalker Handguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1593,7 +1599,7 @@
     "sellPrice": 77491,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Hands",
     "tooltip": [
       {
@@ -1628,7 +1634,8 @@
         {
           "questId": 9073,
           "name": "Earthshatter Handguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1686,7 +1693,8 @@
         {
           "questId": 9245,
           "name": "Icy Scale Gauntlets",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1843,7 +1851,8 @@
         {
           "questId": 41513,
           "name": "Earthfury Hands",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1901,7 +1910,8 @@
         {
           "questId": 41513,
           "name": "Earthfury Hands",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1965,7 +1975,8 @@
         {
           "questId": 41505,
           "name": "Hands of Ten Storms",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2023,7 +2034,8 @@
         {
           "questId": 41505,
           "name": "Hands of Ten Storms",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2084,7 +2096,8 @@
         {
           "questId": 9073,
           "name": "Earthshatter Handguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2139,7 +2152,8 @@
         {
           "questId": 9073,
           "name": "Earthshatter Handguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -3263,7 +3277,7 @@
     "sellPrice": 14533,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Hands",
     "tooltip": [
       {
@@ -3298,12 +3312,14 @@
         {
           "questId": 5081,
           "name": "Maxwell's Mission",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 55
         },
         {
           "questId": 4903,
           "name": "Warlord's Command",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 55
         }
       ]
     },
@@ -3458,7 +3474,7 @@
     "sellPrice": 1158,
     "quality": "Rare",
     "itemLevel": 27,
-    "requiredLevel": 0,
+    "requiredLevel": 22,
     "slot": "Hands",
     "tooltip": [
       {
@@ -3493,7 +3509,8 @@
         {
           "questId": 6571,
           "name": "Warsong Supplies",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 22
         }
       ]
     },
@@ -3558,7 +3575,7 @@
     "sellPrice": 14762,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Hands",
     "tooltip": [
       {
@@ -3596,12 +3613,14 @@
         {
           "questId": 1318,
           "name": "Unfinished Gordok Business",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         },
         {
           "questId": 7703,
           "name": "Unfinished Gordok Business",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -3846,7 +3865,7 @@
     "sellPrice": 16583,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Hands",
     "tooltip": [
       {
@@ -3890,7 +3909,8 @@
         {
           "questId": 8380,
           "name": "Armaments of War",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -4096,7 +4116,7 @@
     "sellPrice": 16851,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Hands",
     "tooltip": [
       {
@@ -4131,12 +4151,14 @@
         {
           "questId": 9094,
           "name": "Argent Dawn Gloves",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 50
         },
         {
           "questId": 9333,
           "name": "Argent Dawn Gloves",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 50
         }
       ]
     },
@@ -4381,7 +4403,7 @@
     "sellPrice": 14987,
     "quality": "Rare",
     "itemLevel": 57,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Hands",
     "tooltip": [
       {
@@ -4425,7 +4447,8 @@
         {
           "questId": 40127,
           "name": "The Dampening Must End",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         }
       ]
     },
@@ -4577,7 +4600,7 @@
     "sellPrice": 2508,
     "quality": "Rare",
     "itemLevel": 37,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Hands",
     "tooltip": [
       {
@@ -4612,7 +4635,8 @@
         {
           "questId": 40856,
           "name": "Backup System Activation",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 25
         }
       ]
     },
@@ -4629,7 +4653,7 @@
     "sellPrice": 5118,
     "quality": "Rare",
     "itemLevel": 44,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Hands",
     "tooltip": [
       {
@@ -4667,7 +4691,8 @@
         {
           "questId": 40943,
           "name": "Undoing Draconic Presence",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 35
         }
       ]
     },
@@ -4879,7 +4904,7 @@
     "sellPrice": 12833,
     "quality": "Rare",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 46,
     "slot": "Hands",
     "tooltip": [
       {
@@ -4920,7 +4945,8 @@
         {
           "questId": 55018,
           "name": "The Big Energy Project",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 46
         }
       ]
     },
@@ -4985,7 +5011,7 @@
     "sellPrice": 418,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Hands",
     "tooltip": [
       {
@@ -5020,7 +5046,8 @@
         {
           "questId": 89,
           "name": "The Everstill Bridge",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -5130,7 +5157,7 @@
     "sellPrice": 714,
     "quality": "Uncommon",
     "itemLevel": 24,
-    "requiredLevel": 0,
+    "requiredLevel": 21,
     "slot": "Hands",
     "tooltip": [
       {
@@ -5162,7 +5189,8 @@
         {
           "questId": 501,
           "name": "Elixir of Pain",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 21
         }
       ]
     },
@@ -5530,7 +5558,7 @@
     "sellPrice": 641,
     "quality": "Uncommon",
     "itemLevel": 23,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Hands",
     "tooltip": [
       {
@@ -5565,7 +5593,8 @@
         {
           "questId": 1487,
           "name": "Deviate Eradication",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 15
         }
       ]
     },
@@ -5663,7 +5692,7 @@
     "sellPrice": 1497,
     "quality": "Uncommon",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Hands",
     "tooltip": [
       {
@@ -5698,7 +5727,8 @@
         {
           "questId": 1709,
           "name": "Klockmort's Creation",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },
@@ -5715,7 +5745,7 @@
     "sellPrice": 1546,
     "quality": "Uncommon",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Hands",
     "tooltip": [
       {
@@ -5750,7 +5780,8 @@
         {
           "questId": 1843,
           "name": "Brutal Gauntlets",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 20
         }
       ]
     },
@@ -6250,7 +6281,7 @@
     "sellPrice": 9537,
     "quality": "Uncommon",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 49,
     "slot": "Hands",
     "tooltip": [
       {
@@ -6285,7 +6316,8 @@
         {
           "questId": 4501,
           "name": "Beware of Pterrordax",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 49
         }
       ]
     },
@@ -6302,7 +6334,7 @@
     "sellPrice": 8996,
     "quality": "Uncommon",
     "itemLevel": 54,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Hands",
     "tooltip": [
       {
@@ -6340,7 +6372,8 @@
         {
           "questId": 4513,
           "name": "A Little Slime Goes a Long Way",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 48
         }
       ]
     },
@@ -6912,7 +6945,7 @@
     "sellPrice": 9191,
     "quality": "Uncommon",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Hands",
     "tooltip": [
       {
@@ -6944,7 +6977,8 @@
         {
           "questId": 6031,
           "name": "Runecloth",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -7048,7 +7082,7 @@
     "sellPrice": 3181,
     "quality": "Uncommon",
     "itemLevel": 37,
-    "requiredLevel": 0,
+    "requiredLevel": 29,
     "slot": "Hands",
     "tooltip": [
       {
@@ -7077,12 +7111,14 @@
         {
           "questId": 41677,
           "name": "Darker than Iron",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 29
         },
         {
           "questId": 41682,
           "name": "Vile Dwarven Pigs",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 29
         }
       ]
     },
@@ -7099,7 +7135,7 @@
     "sellPrice": 3550,
     "quality": "Uncommon",
     "itemLevel": 37,
-    "requiredLevel": 0,
+    "requiredLevel": 26,
     "slot": "Hands",
     "tooltip": [
       {
@@ -7134,7 +7170,8 @@
         {
           "questId": 41708,
           "name": "Stinging Lullaby",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 26
         }
       ]
     },
@@ -7358,7 +7395,7 @@
     "sellPrice": 334,
     "quality": "Uncommon",
     "itemLevel": 18,
-    "requiredLevel": 0,
+    "requiredLevel": 12,
     "slot": "Hands",
     "tooltip": [
       {
@@ -7393,7 +7430,8 @@
         {
           "questId": 491,
           "name": "Wand to Bethor",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 12
         }
       ]
     },
@@ -7455,7 +7493,7 @@
     "sellPrice": 965,
     "quality": "Uncommon",
     "itemLevel": 27,
-    "requiredLevel": 22,
+    "requiredLevel": 32,
     "slot": "Hands",
     "tooltip": [
       {
@@ -7496,7 +7534,8 @@
         {
           "questId": 2754,
           "name": "Horns of Frenzy",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 32
         }
       ]
     },
@@ -7513,7 +7552,7 @@
     "sellPrice": 473,
     "quality": "Uncommon",
     "itemLevel": 21,
-    "requiredLevel": 0,
+    "requiredLevel": 17,
     "slot": "Hands",
     "tooltip": [
       {
@@ -7548,7 +7587,8 @@
         {
           "questId": 245,
           "name": "Eight-Legged Menaces",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 17
         }
       ]
     },
@@ -7652,7 +7692,7 @@
     "sellPrice": 419,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 13,
     "slot": "Hands",
     "tooltip": [
       {
@@ -7687,7 +7727,8 @@
         {
           "questId": 898,
           "name": "Free From the Hold",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 13
         }
       ]
     },
@@ -7782,7 +7823,7 @@
     "sellPrice": 557,
     "quality": "Uncommon",
     "itemLevel": 22,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Hands",
     "tooltip": [
       {
@@ -7814,7 +7855,8 @@
         {
           "questId": 2040,
           "name": "Underground Assault",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -7921,7 +7963,7 @@
     "sellPrice": 3477,
     "quality": "Uncommon",
     "itemLevel": 41,
-    "requiredLevel": 36,
+    "requiredLevel": 30,
     "slot": "Hands",
     "tooltip": [
       {
@@ -7962,12 +8004,14 @@
         {
           "questId": 2849,
           "name": "Wild Leather Vest",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         },
         {
           "questId": 2856,
           "name": "Wild Leather Vest",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -8022,12 +8066,14 @@
         {
           "questId": 5141,
           "name": "Dragonscale Leatherworking",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         },
         {
           "questId": 5145,
           "name": "Dragonscale Leatherworking",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 40
         }
       ]
     },
@@ -8329,7 +8375,7 @@
     "sellPrice": 8769,
     "quality": "Uncommon",
     "itemLevel": 53,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Hands",
     "tooltip": [
       {
@@ -8364,7 +8410,8 @@
         {
           "questId": 3825,
           "name": "Ogre Head On A Stick = Party",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 48
         }
       ]
     },
@@ -8654,7 +8701,7 @@
     "sellPrice": 787,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 23,
     "slot": "Hands",
     "tooltip": [
       {
@@ -8689,7 +8736,8 @@
         {
           "questId": 4966,
           "name": "Protect Kanati Greycloud",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 23
         }
       ]
     },
@@ -9174,7 +9222,7 @@
     "sellPrice": 850,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 17,
     "slot": "Hands",
     "tooltip": [
       {
@@ -9209,7 +9257,8 @@
         {
           "questId": 6381,
           "name": "New Life",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 17
         }
       ]
     },
@@ -9226,7 +9275,7 @@
     "sellPrice": 3256,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Hands",
     "tooltip": [
       {
@@ -9261,7 +9310,8 @@
         {
           "questId": 41656,
           "name": "Bounty on Dragonmaw",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -9365,7 +9415,7 @@
     "sellPrice": 168,
     "quality": "Uncommon",
     "itemLevel": 13,
-    "requiredLevel": 0,
+    "requiredLevel": 8,
     "slot": "Hands",
     "tooltip": [
       {
@@ -9400,7 +9450,8 @@
         {
           "questId": 40865,
           "name": "Chemical Betrayal!",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 8
         }
       ]
     },
@@ -9489,7 +9540,7 @@
     "sellPrice": 42,
     "quality": "Common",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 7,
     "slot": "Hands",
     "tooltip": [
       {
@@ -9518,7 +9569,8 @@
         {
           "questId": 147,
           "name": "Manhunt",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 7
         }
       ]
     },
@@ -9889,7 +9941,7 @@
     "sellPrice": 7,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Hands",
     "tooltip": [
       {
@@ -9918,7 +9970,8 @@
         {
           "questId": 179,
           "name": "Dwarven Outfitters",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 1
         }
       ]
     },
@@ -10253,7 +10306,7 @@
     "sellPrice": 7,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Hands",
     "tooltip": [
       {
@@ -10282,7 +10335,8 @@
         {
           "questId": 747,
           "name": "The Hunt Begins",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 1
         }
       ]
     },
@@ -10299,7 +10353,7 @@
     "sellPrice": 41,
     "quality": "Common",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 4,
     "slot": "Hands",
     "tooltip": [
       {
@@ -10328,7 +10382,8 @@
         {
           "questId": 2499,
           "name": "Oakenscowl",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 4
         }
       ]
     },
@@ -10345,7 +10400,7 @@
     "sellPrice": 23,
     "quality": "Common",
     "itemLevel": 8,
-    "requiredLevel": 0,
+    "requiredLevel": 4,
     "slot": "Hands",
     "tooltip": [
       {
@@ -10374,7 +10429,8 @@
         {
           "questId": 358,
           "name": "Graverobbers",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 4
         }
       ]
     },
@@ -10463,7 +10519,7 @@
     "sellPrice": 109,
     "quality": "Common",
     "itemLevel": 14,
-    "requiredLevel": 0,
+    "requiredLevel": 13,
     "slot": "Hands",
     "tooltip": [
       {
@@ -10492,7 +10548,8 @@
         {
           "questId": 982,
           "name": "Deep Ocean, Vast Sea",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 13
         }
       ]
     },
@@ -10581,7 +10638,7 @@
     "sellPrice": 7,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 3,
     "slot": "Hands",
     "tooltip": [
       {
@@ -10610,7 +10667,8 @@
         {
           "questId": 41195,
           "name": "Message for the Windrunner",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 3
         }
       ]
     },

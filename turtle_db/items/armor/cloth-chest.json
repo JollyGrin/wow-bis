@@ -8,7 +8,7 @@
     "sellPrice": 930,
     "quality": "Uncommon",
     "itemLevel": 26,
-    "requiredLevel": 0,
+    "requiredLevel": 17,
     "slot": "Chest",
     "tooltip": [
       {
@@ -43,7 +43,8 @@
         {
           "questId": 6565,
           "name": "Allegiance to the Old Gods",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 17
         }
       ]
     },
@@ -203,7 +204,8 @@
         {
           "questId": 8633,
           "name": "Enigma Robes",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -261,7 +263,8 @@
         {
           "questId": 9095,
           "name": "Frostfire Robe",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -278,7 +281,7 @@
     "sellPrice": 171144,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Chest",
     "tooltip": [
       {
@@ -316,7 +319,8 @@
         {
           "questId": 41622,
           "name": "Robes of the Guardian",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -333,7 +337,7 @@
     "sellPrice": 166096,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Chest",
     "tooltip": [
       {
@@ -374,7 +378,8 @@
         {
           "questId": 41622,
           "name": "Robes of the Guardian",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -435,7 +440,8 @@
         {
           "questId": 41461,
           "name": "Chest of Prophecy",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -499,7 +505,8 @@
         {
           "questId": 41453,
           "name": "Chest of Transcendence",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -557,7 +564,8 @@
         {
           "questId": 8603,
           "name": "Vestments of the Oracle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -615,7 +623,8 @@
         {
           "questId": 9111,
           "name": "Robe of Faith",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -632,7 +641,7 @@
     "sellPrice": 133391,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Chest",
     "tooltip": [
       {
@@ -673,7 +682,8 @@
         {
           "questId": 41598,
           "name": "Robes of Pestilence",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -690,7 +700,7 @@
     "sellPrice": 133391,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Chest",
     "tooltip": [
       {
@@ -731,7 +741,8 @@
         {
           "questId": 41598,
           "name": "Robes of Pestilence",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -792,7 +803,8 @@
         {
           "questId": 41419,
           "name": "Nemesis Chest",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -847,7 +859,8 @@
         {
           "questId": 8661,
           "name": "Doomcaller's Robes",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -902,7 +915,8 @@
         {
           "questId": 9103,
           "name": "Plagueheart Robe",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -919,7 +933,7 @@
     "sellPrice": 164411,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Chest",
     "tooltip": [
       {
@@ -957,7 +971,8 @@
         {
           "questId": 41586,
           "name": "Nathrezim Robes",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -974,7 +989,7 @@
     "sellPrice": 164411,
     "quality": "Epic",
     "itemLevel": 96,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Chest",
     "tooltip": [
       {
@@ -1012,7 +1027,8 @@
         {
           "questId": 41586,
           "name": "Nathrezim Robes",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1029,7 +1045,7 @@
     "sellPrice": 303,
     "quality": "Rare",
     "itemLevel": 24,
-    "requiredLevel": 0,
+    "requiredLevel": 16,
     "slot": "Chest",
     "tooltip": [
       {
@@ -1064,7 +1080,8 @@
         {
           "questId": 60124,
           "name": "Trapped in the Nightmare",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 16
         }
       ]
     },
@@ -1303,7 +1320,7 @@
     "sellPrice": 1707,
     "quality": "Uncommon",
     "itemLevel": 46,
-    "requiredLevel": 0,
+    "requiredLevel": 39,
     "slot": "Chest",
     "tooltip": [
       {
@@ -1338,7 +1355,8 @@
         {
           "questId": 60155,
           "name": "South Seas Delicacy",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 39
         }
       ]
     },
@@ -1532,7 +1550,7 @@
     "sellPrice": 745,
     "quality": "Uncommon",
     "itemLevel": 22,
-    "requiredLevel": 0,
+    "requiredLevel": 17,
     "slot": "Chest",
     "tooltip": [
       {
@@ -1567,7 +1585,8 @@
         {
           "questId": 498,
           "name": "The Rescue",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 17
         }
       ]
     },
@@ -2094,7 +2113,7 @@
     "sellPrice": 2011,
     "quality": "Uncommon",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 26,
     "slot": "Chest",
     "tooltip": [
       {
@@ -2129,7 +2148,8 @@
         {
           "questId": 1946,
           "name": "Nether-lace Garment",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 26
         }
       ]
     },
@@ -3199,7 +3219,7 @@
     "sellPrice": 8473,
     "quality": "Uncommon",
     "itemLevel": 48,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Chest",
     "tooltip": [
       {
@@ -3231,12 +3251,14 @@
         {
           "questId": 6131,
           "name": "Timbermaw Ally",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         },
         {
           "questId": 8460,
           "name": "Timbermaw Ally",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -3325,7 +3347,7 @@
     "sellPrice": 108,
     "quality": "Uncommon",
     "itemLevel": 19,
-    "requiredLevel": 0,
+    "requiredLevel": 13,
     "slot": "Chest",
     "tooltip": [
       {
@@ -3363,7 +3385,8 @@
         {
           "questId": 80396,
           "name": "A Bloody Good Deed",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 13
         }
       ]
     },
@@ -3380,7 +3403,7 @@
     "sellPrice": 15305,
     "quality": "Uncommon",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Chest",
     "tooltip": [
       {
@@ -3412,7 +3435,8 @@
         {
           "questId": 40493,
           "name": "Fueling the Blood Fury",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },
@@ -4503,7 +4527,7 @@
     "sellPrice": 188,
     "quality": "Uncommon",
     "itemLevel": 13,
-    "requiredLevel": 0,
+    "requiredLevel": 3,
     "slot": "Chest",
     "tooltip": [
       {
@@ -4538,7 +4562,8 @@
         {
           "questId": 41173,
           "name": "Destroying Venture Co. Leadership",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 3
         }
       ]
     },
@@ -4816,7 +4841,7 @@
     "sellPrice": 3418,
     "quality": "Uncommon",
     "itemLevel": 34,
-    "requiredLevel": 0,
+    "requiredLevel": 26,
     "slot": "Chest",
     "tooltip": [
       {
@@ -4845,7 +4870,8 @@
         {
           "questId": 41671,
           "name": "Remember the Dead",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 26
         }
       ]
     },
@@ -4901,7 +4927,7 @@
     "sellPrice": 13107,
     "quality": "Uncommon",
     "itemLevel": 57,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Chest",
     "tooltip": [
       {
@@ -4939,7 +4965,8 @@
         {
           "questId": 40161,
           "name": "Hazu Leaf",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -4956,7 +4983,7 @@
     "sellPrice": 17038,
     "quality": "Uncommon",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Chest",
     "tooltip": [
       {
@@ -4994,7 +5021,8 @@
         {
           "questId": 40742,
           "name": "The Work Must Continue",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 48
         }
       ]
     },
@@ -5011,7 +5039,7 @@
     "sellPrice": 176,
     "quality": "Uncommon",
     "itemLevel": 13,
-    "requiredLevel": 0,
+    "requiredLevel": 7,
     "slot": "Chest",
     "tooltip": [
       {
@@ -5040,7 +5068,8 @@
         {
           "questId": 40863,
           "name": "The Mercy of Humility",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 7
         }
       ]
     },
@@ -5057,7 +5086,7 @@
     "sellPrice": 7608,
     "quality": "Uncommon",
     "itemLevel": 46,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Chest",
     "tooltip": [
       {
@@ -5092,7 +5121,8 @@
         {
           "questId": 40966,
           "name": "The Deed to Ravenshire",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 38
         }
       ]
     },
@@ -5508,7 +5538,7 @@
     "sellPrice": 10,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 2,
     "slot": "Chest",
     "tooltip": [
       {
@@ -5537,7 +5567,8 @@
         {
           "questId": 380,
           "name": "Night Web's Hollow",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 2
         }
       ]
     },
@@ -5587,7 +5618,7 @@
     "sellPrice": 10,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 2,
     "slot": "Chest",
     "tooltip": [
       {
@@ -5616,7 +5647,8 @@
         {
           "questId": 41152,
           "name": "DV-500",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 2
         }
       ]
     },
@@ -6284,7 +6316,7 @@
     "sellPrice": 3,
     "quality": "Common",
     "itemLevel": 9,
-    "requiredLevel": 0,
+    "requiredLevel": 2,
     "slot": "Chest",
     "tooltip": [
       {
@@ -6313,7 +6345,8 @@
         {
           "questId": 80205,
           "name": "Slaking Their Thirst",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 2
         }
       ]
     },
@@ -8985,7 +9018,7 @@
     "sellPrice": 3,
     "quality": "Common",
     "itemLevel": 9,
-    "requiredLevel": 0,
+    "requiredLevel": 3,
     "slot": "Chest",
     "tooltip": [
       {
@@ -9014,7 +9047,8 @@
         {
           "questId": 80103,
           "name": "Risen Oilblazes",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 3
         }
       ]
     },
@@ -9031,7 +9065,7 @@
     "sellPrice": 3,
     "quality": "Common",
     "itemLevel": 9,
-    "requiredLevel": 0,
+    "requiredLevel": 2,
     "slot": "Chest",
     "tooltip": [
       {
@@ -9060,7 +9094,8 @@
         {
           "questId": 80205,
           "name": "Slaking Their Thirst",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 2
         }
       ]
     },
@@ -9347,7 +9382,7 @@
     "sellPrice": 9,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Chest",
     "tooltip": [
       {
@@ -9376,7 +9411,8 @@
         {
           "questId": 804,
           "name": "Sarkoth",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 1
         }
       ]
     },
@@ -11409,7 +11445,7 @@
     "sellPrice": 25495,
     "quality": "Rare",
     "itemLevel": 66,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Chest",
     "tooltip": [
       {
@@ -11441,7 +11477,8 @@
         {
           "questId": 8572,
           "name": "Veteran's Battlegear",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -11496,7 +11533,8 @@
         {
           "questId": 9240,
           "name": "Glacial Vest",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -11602,7 +11640,8 @@
         {
           "questId": 41478,
           "name": "Arcanist's Chest",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -11666,7 +11705,8 @@
         {
           "questId": 41469,
           "name": "Netherwind Chest",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -11728,7 +11768,7 @@
     "sellPrice": 7950,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 58,
+    "requiredLevel": 30,
     "slot": "Chest",
     "tooltip": [
       {
@@ -11766,7 +11806,8 @@
         {
           "questId": 41326,
           "name": "Fate Of The Harborage",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -12908,7 +12949,7 @@
     "sellPrice": 227,
     "quality": "Uncommon",
     "itemLevel": 14,
-    "requiredLevel": 0,
+    "requiredLevel": 9,
     "slot": "Chest",
     "tooltip": [
       {
@@ -12940,7 +12981,8 @@
         {
           "questId": 924,
           "name": "The Demon Seed",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 9
         }
       ]
     },
@@ -13182,7 +13224,7 @@
     "sellPrice": 2071,
     "quality": "Uncommon",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 26,
     "slot": "Chest",
     "tooltip": [
       {
@@ -13217,7 +13259,8 @@
         {
           "questId": 1942,
           "name": "Astral Knot Garment",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 26
         }
       ]
     },
@@ -13909,7 +13952,7 @@
     "sellPrice": 7539,
     "quality": "Uncommon",
     "itemLevel": 47,
-    "requiredLevel": 0,
+    "requiredLevel": 42,
     "slot": "Chest",
     "tooltip": [
       {
@@ -13944,7 +13987,8 @@
         {
           "questId": 8273,
           "name": "Oran's Gratitude",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 42
         }
       ]
     },
@@ -14006,7 +14050,7 @@
     "sellPrice": 9335,
     "quality": "Rare",
     "itemLevel": 48,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Chest",
     "tooltip": [
       {
@@ -14044,7 +14088,8 @@
         {
           "questId": 41809,
           "name": "Smell of Dragonfire",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -14061,7 +14106,7 @@
     "sellPrice": 142,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 6,
     "slot": "Chest",
     "tooltip": [
       {
@@ -14093,7 +14138,8 @@
         {
           "questId": 60042,
           "name": "Culling the Riverpaw",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 6
         }
       ]
     },
@@ -14476,7 +14522,7 @@
     "sellPrice": 8618,
     "quality": "Uncommon",
     "itemLevel": 48,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Chest",
     "tooltip": [
       {
@@ -14508,7 +14554,8 @@
         {
           "questId": 41042,
           "name": "The Word of the Archdruid",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 38
         }
       ]
     },
@@ -14525,7 +14572,7 @@
     "sellPrice": 1846,
     "quality": "Uncommon",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Chest",
     "tooltip": [
       {
@@ -14560,7 +14607,8 @@
         {
           "questId": 70025,
           "name": "Knife Eared Stalkers",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 28
         }
       ]
     },
@@ -14577,7 +14625,7 @@
     "sellPrice": 51,
     "quality": "Uncommon",
     "itemLevel": 11,
-    "requiredLevel": 0,
+    "requiredLevel": 4,
     "slot": "Chest",
     "tooltip": [
       {
@@ -14609,7 +14657,8 @@
         {
           "questId": 80110,
           "name": "Green Goes Red",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 4
         }
       ]
     },

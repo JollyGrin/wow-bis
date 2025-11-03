@@ -1130,7 +1130,7 @@
     "sellPrice": 10074,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Hands",
     "tooltip": [
       {
@@ -1171,12 +1171,14 @@
         {
           "questId": 8937,
           "name": "Just Compensation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         },
         {
           "questId": 8944,
           "name": "Just Compensation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1193,7 +1195,7 @@
     "sellPrice": 10038,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Hands",
     "tooltip": [
       {
@@ -1237,7 +1239,8 @@
         {
           "questId": 8933,
           "name": "Just Compensation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1254,7 +1257,7 @@
     "sellPrice": 53974,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Hands",
     "tooltip": [
       {
@@ -1289,7 +1292,8 @@
         {
           "questId": 9040,
           "name": "Dreadnaught Gauntlets",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1306,7 +1310,7 @@
     "sellPrice": 51099,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Hands",
     "tooltip": [
       {
@@ -1341,7 +1345,8 @@
         {
           "questId": 9048,
           "name": "Redemption Handguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1399,7 +1404,8 @@
         {
           "questId": 9234,
           "name": "Icebane Gauntlets",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1553,7 +1559,8 @@
         {
           "questId": 41497,
           "name": "Lawbringer's Hands",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1617,7 +1624,8 @@
         {
           "questId": 41497,
           "name": "Lawbringer's Hands",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1681,7 +1689,8 @@
         {
           "questId": 41489,
           "name": "Judgement's Hands",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1745,7 +1754,8 @@
         {
           "questId": 41489,
           "name": "Judgement's Hands",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1803,7 +1813,8 @@
         {
           "questId": 9048,
           "name": "Redemption Handguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1861,7 +1872,8 @@
         {
           "questId": 9048,
           "name": "Redemption Handguards",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1922,7 +1934,8 @@
         {
           "questId": 41446,
           "name": "Hands of Might",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1980,7 +1993,8 @@
         {
           "questId": 41438,
           "name": "Hands of Wrath",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2041,7 +2055,8 @@
         {
           "questId": 9040,
           "name": "Dreadnaught Gauntlets",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2862,7 +2877,7 @@
     "sellPrice": 8919,
     "quality": "Rare",
     "itemLevel": 58,
-    "requiredLevel": 53,
+    "requiredLevel": 55,
     "slot": "Hands",
     "tooltip": [
       {
@@ -2900,7 +2915,8 @@
         {
           "questId": 5124,
           "name": "Fiery Plate Gauntlets",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -3301,7 +3317,7 @@
     "sellPrice": 7631,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 53,
     "slot": "Hands",
     "tooltip": [
       {
@@ -3336,7 +3352,8 @@
         {
           "questId": 5253,
           "name": "The Crystal of Zin-Malor",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 53
         }
       ]
     },
@@ -3554,7 +3571,7 @@
     "sellPrice": 3851,
     "quality": "Uncommon",
     "itemLevel": 47,
-    "requiredLevel": 0,
+    "requiredLevel": 41,
     "slot": "Hands",
     "tooltip": [
       {
@@ -3586,12 +3603,14 @@
         {
           "questId": 7029,
           "name": "Vyletongue Corruption",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 41
         },
         {
           "questId": 7041,
           "name": "Vyletongue Corruption",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 41
         }
       ]
     },
@@ -3650,7 +3669,7 @@
     "sellPrice": 9805,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Hands",
     "tooltip": [
       {
@@ -3688,12 +3707,14 @@
         {
           "questId": 1318,
           "name": "Unfinished Gordok Business",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         },
         {
           "questId": 7703,
           "name": "Unfinished Gordok Business",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -3890,7 +3911,7 @@
     "sellPrice": 8511,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Hands",
     "tooltip": [
       {
@@ -3925,7 +3946,8 @@
         {
           "questId": 8321,
           "name": "Vyral the Vile",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -4068,7 +4090,7 @@
     "sellPrice": 11912,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Hands",
     "tooltip": [
       {
@@ -4103,12 +4125,14 @@
         {
           "questId": 9094,
           "name": "Argent Dawn Gloves",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 50
         },
         {
           "questId": 9333,
           "name": "Argent Dawn Gloves",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 50
         }
       ]
     },
@@ -4311,7 +4335,7 @@
     "sellPrice": 11407,
     "quality": "Rare",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Hands",
     "tooltip": [
       {
@@ -4346,12 +4370,14 @@
         {
           "questId": 40427,
           "name": "Ending Arc'Tiras",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 41139,
           "name": "Ending Arc'Tiras",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -4880,7 +4906,8 @@
         {
           "questId": 2773,
           "name": "The Mithril Kid",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -5059,7 +5086,7 @@
     "sellPrice": 4251,
     "quality": "Uncommon",
     "itemLevel": 49,
-    "requiredLevel": 0,
+    "requiredLevel": 44,
     "slot": "Hands",
     "tooltip": [
       {
@@ -5091,7 +5118,8 @@
         {
           "questId": 2845,
           "name": "Wandering Shay",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 44
         }
       ]
     },
@@ -5390,7 +5418,7 @@
     "sellPrice": 7768,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Hands",
     "tooltip": [
       {
@@ -5425,7 +5453,8 @@
         {
           "questId": 4063,
           "name": "The Rise of the Machines",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 52
         }
       ]
     },
@@ -5940,7 +5969,7 @@
     "sellPrice": 4451,
     "quality": "Uncommon",
     "itemLevel": 49,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Hands",
     "tooltip": [
       {
@@ -5975,7 +6004,8 @@
         {
           "questId": 7723,
           "name": "Curse These Fat Fingers",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -6037,7 +6067,7 @@
     "sellPrice": 7167,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 44,
     "slot": "Hands",
     "tooltip": [
       {
@@ -6075,7 +6105,8 @@
         {
           "questId": 40151,
           "name": "The Aqua Stone",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 44
         }
       ]
     },
@@ -6092,7 +6123,7 @@
     "sellPrice": 8207,
     "quality": "Uncommon",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Hands",
     "tooltip": [
       {
@@ -6127,7 +6158,8 @@
         {
           "questId": 40195,
           "name": "The Razzari Leaders",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },

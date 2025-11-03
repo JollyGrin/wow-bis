@@ -37,7 +37,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 51,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -59,7 +59,8 @@
         {
           "questId": 7167,
           "name": "The Eye of Command",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 51
         }
       ]
     },
@@ -105,7 +106,7 @@
     "sellPrice": 100000,
     "quality": "Epic",
     "itemLevel": 66,
-    "requiredLevel": 60,
+    "requiredLevel": 1,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -127,7 +128,8 @@
         {
           "questId": 7928,
           "name": "Darkmoon Warlords Deck",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 1
         }
       ]
     },
@@ -144,7 +146,7 @@
     "sellPrice": 100000,
     "quality": "Epic",
     "itemLevel": 66,
-    "requiredLevel": 60,
+    "requiredLevel": 1,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -166,7 +168,8 @@
         {
           "questId": 7907,
           "name": "Darkmoon Beast Deck",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 1
         }
       ]
     },
@@ -183,7 +186,7 @@
     "sellPrice": 100000,
     "quality": "Epic",
     "itemLevel": 66,
-    "requiredLevel": 60,
+    "requiredLevel": 1,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -205,7 +208,8 @@
         {
           "questId": 7929,
           "name": "Darkmoon Elementals Deck",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 1
         }
       ]
     },
@@ -222,7 +226,7 @@
     "sellPrice": 100000,
     "quality": "Epic",
     "itemLevel": 66,
-    "requiredLevel": 60,
+    "requiredLevel": 1,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -244,7 +248,8 @@
         {
           "questId": 7927,
           "name": "Darkmoon Portals Deck",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 1
         }
       ]
     },
@@ -591,7 +596,7 @@
     "sellPrice": 21612,
     "quality": "Epic",
     "itemLevel": 66,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -610,7 +615,8 @@
         {
           "questId": 8573,
           "name": "Champion's Battlegear",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -627,7 +633,7 @@
     "sellPrice": 8991,
     "quality": "Epic",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -646,7 +652,8 @@
         {
           "questId": 8481,
           "name": "The Root of All Evil",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -885,7 +892,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 90,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -907,7 +914,8 @@
         {
           "questId": 9120,
           "name": "The Fall of Kel'Thuzad",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -924,7 +932,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 90,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -943,7 +951,8 @@
         {
           "questId": 9120,
           "name": "The Fall of Kel'Thuzad",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1319,7 +1328,8 @@
         {
           "questId": 41745,
           "name": "The Power of the Goddess",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1426,7 +1436,7 @@
     "sellPrice": 51204,
     "quality": "Epic",
     "itemLevel": 64,
-    "requiredLevel": 59,
+    "requiredLevel": 55,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -1448,7 +1458,8 @@
         {
           "questId": 41057,
           "name": "Deepwood Pipe",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -1715,7 +1726,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 51,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -1737,7 +1748,8 @@
         {
           "questId": 7172,
           "name": "The Eye of Command",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 51
         }
       ]
     },
@@ -1754,7 +1766,7 @@
     "sellPrice": 46030,
     "quality": "Epic",
     "itemLevel": 74,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -1776,12 +1788,14 @@
         {
           "questId": 7496,
           "name": "Celebrating Good Times",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         },
         {
           "questId": 7491,
           "name": "For All To See",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2121,7 +2135,7 @@
     "sellPrice": 111303,
     "quality": "Epic",
     "itemLevel": 68,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -2140,7 +2154,8 @@
         {
           "questId": 8183,
           "name": "The Heart of Hakkar",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2157,7 +2172,7 @@
     "sellPrice": 111303,
     "quality": "Epic",
     "itemLevel": 68,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -2176,7 +2191,8 @@
         {
           "questId": 8183,
           "name": "The Heart of Hakkar",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2193,7 +2209,7 @@
     "sellPrice": 111303,
     "quality": "Epic",
     "itemLevel": 68,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -2212,7 +2228,8 @@
         {
           "questId": 8183,
           "name": "The Heart of Hakkar",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2475,7 +2492,7 @@
     "sellPrice": 111303,
     "quality": "Epic",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -2494,22 +2511,26 @@
         {
           "questId": 9228,
           "name": "Epic Armaments of Battle - Exalted Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9222,
           "name": "Epic Armaments of Battle - Friend of the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9224,
           "name": "Epic Armaments of Battle - Honored Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9225,
           "name": "Epic Armaments of Battle - Revered Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -2731,7 +2752,8 @@
         {
           "questId": 41360,
           "name": "Warm is the Day",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2966,7 +2988,7 @@
     "sellPrice": 86933,
     "quality": "Epic",
     "itemLevel": 76,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -2988,7 +3010,8 @@
         {
           "questId": 40963,
           "name": "Head of Solnius",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -3398,7 +3421,7 @@
     "sellPrice": 16250,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -3417,12 +3440,14 @@
         {
           "questId": 4974,
           "name": "For The Horde!",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 55
         },
         {
           "questId": 5102,
           "name": "General Drakkisath's Demise",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 55
         }
       ]
     },
@@ -3439,7 +3464,7 @@
     "sellPrice": 16250,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -3458,12 +3483,14 @@
         {
           "questId": 4974,
           "name": "For The Horde!",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 55
         },
         {
           "questId": 5102,
           "name": "General Drakkisath's Demise",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 55
         }
       ]
     },
@@ -3480,7 +3507,7 @@
     "sellPrice": 8991,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -3499,7 +3526,8 @@
         {
           "questId": 5342,
           "name": "The Last Barov",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 52
         }
       ]
     },
@@ -3516,7 +3544,7 @@
     "sellPrice": 8991,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -3535,7 +3563,8 @@
         {
           "questId": 5344,
           "name": "The Last Barov",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 52
         }
       ]
     },
@@ -3613,7 +3642,7 @@
     "sellPrice": 10031,
     "quality": "Rare",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -3632,7 +3661,8 @@
         {
           "questId": 7838,
           "name": "Arena Grandmaster",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -3649,7 +3679,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -3668,7 +3698,8 @@
         {
           "questId": 8257,
           "name": "Blood of Morphaz",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -3685,7 +3716,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -3704,7 +3735,8 @@
         {
           "questId": 8232,
           "name": "The Green Drake",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -3721,7 +3753,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -3740,7 +3772,8 @@
         {
           "questId": 8232,
           "name": "The Green Drake",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -3757,7 +3790,7 @@
     "sellPrice": 2750,
     "quality": "Rare",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -3776,7 +3809,8 @@
         {
           "questId": 8253,
           "name": "Destroy Morphaz",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -3825,7 +3859,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -3844,7 +3878,8 @@
         {
           "questId": 8425,
           "name": "Voodoo Feathers",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -3861,7 +3896,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -3880,7 +3915,8 @@
         {
           "questId": 8413,
           "name": "Da Voodoo",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 50
         }
       ]
     },
@@ -3923,7 +3959,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -3942,7 +3978,8 @@
         {
           "questId": 8422,
           "name": "Trolls of a Feather",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -4322,7 +4359,7 @@
     "sellPrice": 2145,
     "quality": "Rare",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -4341,7 +4378,8 @@
         {
           "questId": 41814,
           "name": "The Late Duke Balor",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 28
         }
       ]
     },
@@ -4393,7 +4431,7 @@
     "sellPrice": 50198,
     "quality": "Rare",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -4415,7 +4453,8 @@
         {
           "questId": 40310,
           "name": "The Depths of Karazhan VII",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -4464,7 +4503,7 @@
     "sellPrice": 4779,
     "quality": "Rare",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -4483,7 +4522,8 @@
         {
           "questId": 40616,
           "name": "One of Us",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -4500,7 +4540,7 @@
     "sellPrice": 4779,
     "quality": "Rare",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -4519,12 +4559,14 @@
         {
           "questId": 40629,
           "name": "An Honorary Gelkis",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         },
         {
           "questId": 40616,
           "name": "One of Us",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -4541,7 +4583,7 @@
     "sellPrice": 10000,
     "quality": "Rare",
     "itemLevel": 53,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -4560,7 +4602,8 @@
         {
           "questId": 41052,
           "name": "Harness of Chimaeran",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 38
         }
       ]
     },
@@ -4952,7 +4995,7 @@
     "sellPrice": 16250,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -4977,12 +5020,14 @@
         {
           "questId": 4974,
           "name": "For The Horde!",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 55
         },
         {
           "questId": 5102,
           "name": "General Drakkisath's Demise",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 55
         }
       ]
     },
@@ -4999,7 +5044,7 @@
     "sellPrice": 8144,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -5018,7 +5063,8 @@
         {
           "questId": 4866,
           "name": "Mother's Milk",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -5067,7 +5113,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 51,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -5089,7 +5135,8 @@
         {
           "questId": 7166,
           "name": "Legendary Heroes",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 51
         }
       ]
     },
@@ -5106,7 +5153,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 51,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -5128,7 +5175,8 @@
         {
           "questId": 7167,
           "name": "The Eye of Command",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 51
         }
       ]
     },
@@ -5709,7 +5757,7 @@
     "sellPrice": 25000,
     "quality": "Rare",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -5728,7 +5776,8 @@
         {
           "questId": 8193,
           "name": "Master Angler",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 1
         }
       ]
     },
@@ -5745,7 +5794,7 @@
     "sellPrice": 21612,
     "quality": "Rare",
     "itemLevel": 66,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -5764,7 +5813,8 @@
         {
           "questId": 8572,
           "name": "Veteran's Battlegear",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6028,7 +6078,7 @@
     "sellPrice": 50198,
     "quality": "Rare",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -6050,7 +6100,8 @@
         {
           "questId": 40317,
           "name": "The Mystery of Karazhan VII",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         }
       ]
     },
@@ -6429,7 +6480,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -6451,7 +6502,8 @@
         {
           "questId": 5213,
           "name": "The Active Agent",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -6497,7 +6549,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 51,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -6519,7 +6571,8 @@
         {
           "questId": 7171,
           "name": "Legendary Heroes",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 51
         }
       ]
     },
@@ -6536,7 +6589,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 51,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -6558,7 +6611,8 @@
         {
           "questId": 7172,
           "name": "The Eye of Command",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 51
         }
       ]
     },
@@ -6633,7 +6687,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 54,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -6655,7 +6709,8 @@
         {
           "questId": 7498,
           "name": "Garona: A Study on Stealth and Treachery",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 54
         }
       ]
     },
@@ -6672,7 +6727,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 54,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -6697,7 +6752,8 @@
         {
           "questId": 7499,
           "name": "Codex of Defense",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 54
         }
       ]
     },
@@ -6714,7 +6770,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 54,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -6736,7 +6792,8 @@
         {
           "questId": 7502,
           "name": "Harnessing Shadows",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 54
         }
       ]
     },
@@ -6753,7 +6810,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 54,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -6775,7 +6832,8 @@
         {
           "questId": 7500,
           "name": "The Arcanist's Cookbook",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 54
         }
       ]
     },
@@ -6792,7 +6850,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 54,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -6814,7 +6872,8 @@
         {
           "questId": 7504,
           "name": "Holy Bologna: What the Light Won't Tell You",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 54
         }
       ]
     },
@@ -6831,7 +6890,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 54,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -6853,7 +6912,8 @@
         {
           "questId": 7506,
           "name": "The Emerald Dream...",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 54
         }
       ]
     },
@@ -6870,7 +6930,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 54,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -6892,7 +6952,8 @@
         {
           "questId": 7505,
           "name": "Frost Shock and You",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 54
         }
       ]
     },
@@ -6909,7 +6970,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 54,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -6931,7 +6992,8 @@
         {
           "questId": 7501,
           "name": "The Light and How To Swing It",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 54
         }
       ]
     },
@@ -6948,7 +7010,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 54,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -6976,7 +7038,8 @@
         {
           "questId": 7503,
           "name": "The Greatest Race of Hunters",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 54
         }
       ]
     },
@@ -6993,7 +7056,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -7012,7 +7075,8 @@
         {
           "questId": 5213,
           "name": "The Active Agent",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -7061,7 +7125,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -7080,7 +7144,8 @@
         {
           "questId": 8418,
           "name": "Forging the Mightstone",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 50
         }
       ]
     },
@@ -7597,7 +7662,7 @@
     "sellPrice": 4779,
     "quality": "Rare",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -7616,7 +7681,8 @@
         {
           "questId": 40616,
           "name": "One of Us",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -7633,7 +7699,7 @@
     "sellPrice": 4779,
     "quality": "Rare",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -7652,7 +7718,8 @@
         {
           "questId": 40629,
           "name": "An Honorary Gelkis",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -7669,7 +7736,7 @@
     "sellPrice": 4779,
     "quality": "Rare",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -7688,7 +7755,8 @@
         {
           "questId": 40629,
           "name": "An Honorary Gelkis",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -7984,7 +8052,7 @@
     "sellPrice": 8910,
     "quality": "Uncommon",
     "itemLevel": 50,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8003,12 +8071,14 @@
         {
           "questId": 1475,
           "name": "Into The Temple of Atal'Hakkar",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 38
         },
         {
           "questId": 1445,
           "name": "The Temple of Atal'Hakkar",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 38
         }
       ]
     },
@@ -8025,7 +8095,7 @@
     "sellPrice": 4662,
     "quality": "Uncommon",
     "itemLevel": 50,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8044,7 +8114,8 @@
         {
           "questId": 778,
           "name": "This Is Going to Be Hard",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 35
         }
       ]
     },
@@ -8090,7 +8161,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 9,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8109,7 +8180,8 @@
         {
           "questId": 941,
           "name": "Planting the Heart",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 9
         }
       ]
     },
@@ -8126,7 +8198,7 @@
     "sellPrice": 6464,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8145,7 +8217,8 @@
         {
           "questId": 3374,
           "name": "The Essence of Eranikus",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 48
         }
       ]
     },
@@ -8162,7 +8235,7 @@
     "sellPrice": 8807,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8181,7 +8254,8 @@
         {
           "questId": 3628,
           "name": "You Are Rakh'likh, Demon",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -8198,7 +8272,7 @@
     "sellPrice": 7162,
     "quality": "Uncommon",
     "itemLevel": 50,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8217,7 +8291,8 @@
         {
           "questId": 2770,
           "name": "Gahz'rilla",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -8234,7 +8309,7 @@
     "sellPrice": 6203,
     "quality": "Uncommon",
     "itemLevel": 56,
-    "requiredLevel": 0,
+    "requiredLevel": 47,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8253,7 +8328,8 @@
         {
           "questId": 3962,
           "name": "It's Dangerous to Go Alone",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 47
         }
       ]
     },
@@ -8296,7 +8372,7 @@
     "sellPrice": 1250,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8315,7 +8391,8 @@
         {
           "questId": 5163,
           "name": "Are We There, Yeti?",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 52
         }
       ]
     },
@@ -8332,7 +8409,7 @@
     "sellPrice": 7464,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8351,7 +8428,8 @@
         {
           "questId": 4867,
           "name": "Urok Doomhowl",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -8368,7 +8446,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 51,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8390,7 +8468,8 @@
         {
           "questId": 7163,
           "name": "Rise and Be Recognized",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 51
         }
       ]
     },
@@ -8407,7 +8486,7 @@
     "sellPrice": 10307,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8426,12 +8505,14 @@
         {
           "questId": 105,
           "name": "Alas, Andorhal",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 50
         },
         {
           "questId": 211,
           "name": "Alas, Andorhal",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 50
         }
       ]
     },
@@ -8448,7 +8529,7 @@
     "sellPrice": 6133,
     "quality": "Uncommon",
     "itemLevel": 48,
-    "requiredLevel": 0,
+    "requiredLevel": 39,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8467,7 +8548,8 @@
         {
           "questId": 7067,
           "name": "The Pariah's Instructions",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 39
         }
       ]
     },
@@ -8484,7 +8566,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 51,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8506,7 +8588,8 @@
         {
           "questId": 7164,
           "name": "Honored Amongst the Clan",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 51
         }
       ]
     },
@@ -8523,7 +8606,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 51,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8545,7 +8628,8 @@
         {
           "questId": 7165,
           "name": "Earned Reverence",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 51
         }
       ]
     },
@@ -8611,7 +8695,7 @@
     "sellPrice": 16612,
     "quality": "Uncommon",
     "itemLevel": 50,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8630,7 +8714,8 @@
         {
           "questId": 7727,
           "name": "Incendosaurs? Whateverosaur is More Like It",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -8673,7 +8758,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8692,7 +8777,8 @@
         {
           "questId": 9322,
           "name": "Wild Fires in Kalimdor",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 1
         }
       ]
     },
@@ -8709,7 +8795,7 @@
     "sellPrice": 200,
     "quality": "Uncommon",
     "itemLevel": 13,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8728,7 +8814,8 @@
         {
           "questId": 41235,
           "name": "To Staghelm",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 5
         }
       ]
     },
@@ -8777,7 +8864,7 @@
     "sellPrice": 3738,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8799,7 +8886,8 @@
         {
           "questId": 41873,
           "name": "Brangar's Journal",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 28
         }
       ]
     },
@@ -8938,7 +9026,7 @@
     "sellPrice": 2048,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 35,
+    "requiredLevel": 34,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -8966,7 +9054,8 @@
         {
           "questId": 41293,
           "name": "Elaborate Golden Bracelets",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 34
         }
       ]
     },
@@ -8983,7 +9072,7 @@
     "sellPrice": 6375,
     "quality": "Uncommon",
     "itemLevel": 33,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -9005,7 +9094,8 @@
         {
           "questId": 41661,
           "name": "Amberpaw Bounty",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 25
         }
       ]
     },
@@ -9057,7 +9147,7 @@
     "sellPrice": 9575,
     "quality": "Uncommon",
     "itemLevel": 41,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -9091,7 +9181,8 @@
         {
           "questId": 41760,
           "name": "Skull And Bones",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 28
         }
       ]
     },
@@ -9108,7 +9199,7 @@
     "sellPrice": 924,
     "quality": "Uncommon",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 23,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -9127,7 +9218,8 @@
         {
           "questId": 41711,
           "name": "Calming The Tempest",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 23
         }
       ]
     },
@@ -9305,7 +9397,7 @@
     "sellPrice": 13745,
     "quality": "Uncommon",
     "itemLevel": 50,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -9327,7 +9419,8 @@
         {
           "questId": 40324,
           "name": "The Legend of Tarqsiku",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -9373,7 +9466,7 @@
     "sellPrice": 10000,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -9401,7 +9494,8 @@
         {
           "questId": 40464,
           "name": "Senatorial Revenge",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -9418,7 +9512,7 @@
     "sellPrice": 14476,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -9437,7 +9531,8 @@
         {
           "questId": 40467,
           "name": "The Arcane Golem Core",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -9454,7 +9549,7 @@
     "sellPrice": 250,
     "quality": "Uncommon",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -9476,7 +9571,8 @@
         {
           "questId": 40744,
           "name": "Gifts to Wrap",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 5
         }
       ]
     },
@@ -9493,7 +9589,7 @@
     "sellPrice": 2500,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -9515,7 +9611,8 @@
         {
           "questId": 40771,
           "name": "The Missing Friend!",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -9532,7 +9629,7 @@
     "sellPrice": 30000,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 53,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -9557,7 +9654,8 @@
         {
           "questId": 40787,
           "name": "To Hunt The Hunter",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 53
         }
       ]
     },
@@ -9574,7 +9672,7 @@
     "sellPrice": 850,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -9596,7 +9694,8 @@
         {
           "questId": 40791,
           "name": "Kul Tiran Provisions: Special Goods",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 10
         }
       ]
     },
@@ -9613,7 +9712,7 @@
     "sellPrice": 7500,
     "quality": "Uncommon",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -9632,7 +9731,8 @@
         {
           "questId": 40861,
           "name": "High Energy Regulator",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 25
         }
       ]
     },
@@ -9716,7 +9816,7 @@
     "sellPrice": 10000,
     "quality": "Uncommon",
     "itemLevel": 44,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -9735,7 +9835,8 @@
         {
           "questId": 53,
           "name": "Sweet Amber",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         }
       ]
     },
@@ -9836,7 +9937,7 @@
     "sellPrice": 2171,
     "quality": "Uncommon",
     "itemLevel": 50,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -9855,12 +9956,14 @@
         {
           "questId": 618,
           "name": "Facing Negolash",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 35
         },
         {
           "questId": 8554,
           "name": "Facing Negolash",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 35
         }
       ]
     },
@@ -9877,7 +9980,7 @@
     "sellPrice": 4662,
     "quality": "Uncommon",
     "itemLevel": 57,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -9896,7 +9999,8 @@
         {
           "questId": 2701,
           "name": "Heroes of Old",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -9913,7 +10017,7 @@
     "sellPrice": 7953,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -9947,7 +10051,8 @@
         {
           "questId": 4322,
           "name": "Jail Break!",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 50
         }
       ]
     },
@@ -9964,7 +10069,7 @@
     "sellPrice": 0,
     "quality": "Common",
     "itemLevel": 1,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -9983,17 +10088,20 @@
         {
           "questId": 5503,
           "name": "Argent Dawn Commission",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         },
         {
           "questId": 5405,
           "name": "Argent Dawn Commission",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 50
         },
         {
           "questId": 5401,
           "name": "Argent Dawn Commission",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 50
         }
       ]
     },
@@ -10010,7 +10118,7 @@
     "sellPrice": 7000,
     "quality": "Uncommon",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -10029,7 +10137,8 @@
         {
           "questId": 5214,
           "name": "Echoes of a Salesman",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -10046,7 +10155,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -10065,7 +10174,8 @@
         {
           "questId": 5384,
           "name": "Kirtonos the Herald",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -10082,7 +10192,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 51,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -10104,7 +10214,8 @@
         {
           "questId": 7168,
           "name": "Rise and Be Recognized",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 51
         }
       ]
     },
@@ -10121,7 +10232,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 51,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -10143,7 +10254,8 @@
         {
           "questId": 7169,
           "name": "Honored Amongst the Guard",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 51
         }
       ]
     },
@@ -10160,7 +10272,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 51,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -10182,7 +10294,8 @@
         {
           "questId": 7170,
           "name": "Earned Reverence",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 51
         }
       ]
     },
@@ -10222,7 +10335,7 @@
     "sellPrice": 16283,
     "quality": "Uncommon",
     "itemLevel": 51,
-    "requiredLevel": 0,
+    "requiredLevel": 46,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -10241,7 +10354,8 @@
         {
           "questId": 7862,
           "name": "Job Opening: Guard Captain of Revantusk Village",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 46
         }
       ]
     },
@@ -10258,7 +10372,7 @@
     "sellPrice": 20000,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -10283,7 +10397,8 @@
         {
           "questId": 40061,
           "name": "Killing the Tide Lord",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -10300,7 +10415,7 @@
     "sellPrice": 5500,
     "quality": "Uncommon",
     "itemLevel": 44,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -10322,7 +10437,8 @@
         {
           "questId": 41149,
           "name": "Fly High, Little Dulin",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 38
         }
       ]
     },
@@ -10368,7 +10484,7 @@
     "sellPrice": 1000,
     "quality": "Uncommon",
     "itemLevel": 0,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -10390,7 +10506,8 @@
         {
           "questId": 60020,
           "name": "Lady Janira",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         }
       ]
     },
@@ -10675,7 +10792,7 @@
     "sellPrice": 14678,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -10694,7 +10811,8 @@
         {
           "questId": 41767,
           "name": "Rise of the Venture Co.",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },
@@ -10711,7 +10829,7 @@
     "sellPrice": 500,
     "quality": "Uncommon",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -10733,7 +10851,8 @@
         {
           "questId": 40404,
           "name": "Return to Tharg",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -10750,7 +10869,7 @@
     "sellPrice": 307,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 7,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -10769,7 +10888,8 @@
         {
           "questId": 40447,
           "name": "Continuing Ceremonies",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 7
         }
       ]
     },
@@ -10786,7 +10906,7 @@
     "sellPrice": 12206,
     "quality": "Uncommon",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -10805,7 +10925,8 @@
         {
           "questId": 40495,
           "name": "Forest Troll Scum",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 48
         }
       ]
     },
@@ -10918,7 +11039,7 @@
     "sellPrice": 1025,
     "quality": "Uncommon",
     "itemLevel": 17,
-    "requiredLevel": 0,
+    "requiredLevel": 12,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -10940,7 +11061,8 @@
         {
           "questId": 70052,
           "name": "Trader's Misfortune",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 12
         }
       ]
     },
@@ -10957,7 +11079,7 @@
     "sellPrice": 1030,
     "quality": "Uncommon",
     "itemLevel": 17,
-    "requiredLevel": 0,
+    "requiredLevel": 18,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -10979,7 +11101,8 @@
         {
           "questId": 70053,
           "name": "The Loch Menace",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 18
         }
       ]
     },
@@ -10996,7 +11119,7 @@
     "sellPrice": 1162,
     "quality": "Uncommon",
     "itemLevel": 50,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Trinket",
     "tooltip": [
       {
@@ -11015,7 +11138,8 @@
         {
           "questId": 80606,
           "name": "Revenge on Game Masters!",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 1
         }
       ]
     },

@@ -728,7 +728,7 @@
     "sellPrice": 45987,
     "quality": "Epic",
     "itemLevel": 78,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -766,7 +766,8 @@
         {
           "questId": 8544,
           "name": "Conqueror's Spaulders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -783,7 +784,7 @@
     "sellPrice": 46145,
     "quality": "Epic",
     "itemLevel": 78,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -824,7 +825,8 @@
         {
           "questId": 8630,
           "name": "Avenger's Pauldrons",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         }
       ]
     },
@@ -985,7 +987,7 @@
     "sellPrice": 19203,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -1029,12 +1031,14 @@
         {
           "questId": 8959,
           "name": "Anthion's Parting Words",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 9022,
           "name": "Anthion's Parting Words",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1051,7 +1055,7 @@
     "sellPrice": 19136,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -1098,7 +1102,8 @@
         {
           "questId": 8954,
           "name": "Anthion's Parting Words",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1115,7 +1120,7 @@
     "sellPrice": 72911,
     "quality": "Epic",
     "itemLevel": 86,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -1150,7 +1155,8 @@
         {
           "questId": 9038,
           "name": "Dreadnaught Pauldrons",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1167,7 +1173,7 @@
     "sellPrice": 70300,
     "quality": "Epic",
     "itemLevel": 86,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -1202,7 +1208,8 @@
         {
           "questId": 9046,
           "name": "Redemption Spaulders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1404,7 +1411,8 @@
         {
           "questId": 41494,
           "name": "Lawbringer's Shoulders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1465,7 +1473,8 @@
         {
           "questId": 41494,
           "name": "Lawbringer's Shoulders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1526,7 +1535,8 @@
         {
           "questId": 41486,
           "name": "Judgement's Shoulders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1590,7 +1600,8 @@
         {
           "questId": 41486,
           "name": "Judgement's Shoulders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1648,7 +1659,8 @@
         {
           "questId": 8630,
           "name": "Avenger's Pauldrons",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1706,7 +1718,8 @@
         {
           "questId": 8630,
           "name": "Avenger's Pauldrons",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1761,7 +1774,8 @@
         {
           "questId": 9046,
           "name": "Redemption Spaulders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1816,7 +1830,8 @@
         {
           "questId": 9046,
           "name": "Redemption Spaulders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1833,7 +1848,7 @@
     "sellPrice": 74680,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -1874,7 +1889,8 @@
         {
           "questId": 41627,
           "name": "Lionheart Shoulders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1891,7 +1907,7 @@
     "sellPrice": 74680,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -1932,7 +1948,8 @@
         {
           "questId": 41627,
           "name": "Lionheart Shoulders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1949,7 +1966,7 @@
     "sellPrice": 74680,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -1990,7 +2007,8 @@
         {
           "questId": 41627,
           "name": "Lionheart Shoulders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2048,7 +2066,8 @@
         {
           "questId": 41443,
           "name": "Shoulders of Might",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2109,7 +2128,8 @@
         {
           "questId": 41435,
           "name": "Shoulders of Wrath",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2218,7 +2238,8 @@
         {
           "questId": 9038,
           "name": "Dreadnaught Pauldrons",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2235,7 +2256,7 @@
     "sellPrice": 74680,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -2276,7 +2297,8 @@
         {
           "questId": 41591,
           "name": "Shoulderguards of the Brotherhood",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2578,7 +2600,7 @@
     "sellPrice": 31340,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 57,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -2619,7 +2641,8 @@
         {
           "questId": 40299,
           "name": "Shoulderguards of the Lightbringer",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 57
         }
       ]
     },
@@ -2777,7 +2800,7 @@
     "sellPrice": 7345,
     "quality": "Uncommon",
     "itemLevel": 50,
-    "requiredLevel": 0,
+    "requiredLevel": 47,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -2815,7 +2838,8 @@
         {
           "questId": 3791,
           "name": "The Mystery of Morrowgrain",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 47
         }
       ]
     },
@@ -3723,7 +3747,7 @@
     "sellPrice": 9797,
     "quality": "Rare",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -3761,7 +3785,8 @@
         {
           "questId": 8425,
           "name": "Voodoo Feathers",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -4066,7 +4091,7 @@
     "sellPrice": 12100,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 58,
+    "requiredLevel": 30,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -4104,7 +4129,8 @@
         {
           "questId": 41326,
           "name": "Fate Of The Harborage",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -4277,7 +4303,7 @@
     "sellPrice": 7981,
     "quality": "Rare",
     "itemLevel": 43,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -4315,7 +4341,8 @@
         {
           "questId": 40233,
           "name": "The Orb of Kaladus",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -4332,7 +4359,7 @@
     "sellPrice": 13667,
     "quality": "Rare",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 46,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -4370,7 +4397,8 @@
         {
           "questId": 40297,
           "name": "Stop the Dragonflight",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 46
         }
       ]
     },
@@ -5136,7 +5164,8 @@
         {
           "questId": 2771,
           "name": "A Good Head On Your Shoulders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -5363,7 +5392,7 @@
     "sellPrice": 5264,
     "quality": "Uncommon",
     "itemLevel": 46,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -5398,7 +5427,8 @@
         {
           "questId": 2846,
           "name": "Tiara of the Deep",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -6564,7 +6594,7 @@
     "sellPrice": 5547,
     "quality": "Uncommon",
     "itemLevel": 47,
-    "requiredLevel": 0,
+    "requiredLevel": 41,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -6599,7 +6629,8 @@
         {
           "questId": 7028,
           "name": "Twisted Evils",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 41
         }
       ]
     },
@@ -6616,7 +6647,7 @@
     "sellPrice": 5877,
     "quality": "Uncommon",
     "itemLevel": 48,
-    "requiredLevel": 0,
+    "requiredLevel": 39,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -6654,7 +6685,8 @@
         {
           "questId": 7732,
           "name": "Zukk'ash Report",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 39
         }
       ]
     },
@@ -6716,7 +6748,7 @@
     "sellPrice": 11604,
     "quality": "Uncommon",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 44,
     "slot": "Shoulder",
     "tooltip": [
       {
@@ -6754,7 +6786,8 @@
         {
           "questId": 40144,
           "name": "Southsea Interference",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 44
         }
       ]
     },

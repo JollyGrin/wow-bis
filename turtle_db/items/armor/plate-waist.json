@@ -857,7 +857,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Waist",
     "tooltip": [
       {
@@ -892,7 +892,8 @@
         {
           "questId": 8078,
           "name": "Paragons of Power: The Vindicator's Belt",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -909,7 +910,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Waist",
     "tooltip": [
       {
@@ -950,7 +951,8 @@
         {
           "questId": 8054,
           "name": "Paragons of Power: The Freethinker's Belt",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1303,7 +1305,7 @@
     "sellPrice": 12476,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Waist",
     "tooltip": [
       {
@@ -1347,12 +1349,14 @@
         {
           "questId": 8937,
           "name": "Just Compensation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         },
         {
           "questId": 8944,
           "name": "Just Compensation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1369,7 +1373,7 @@
     "sellPrice": 12431,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Waist",
     "tooltip": [
       {
@@ -1413,7 +1417,8 @@
         {
           "questId": 8933,
           "name": "Just Compensation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1430,7 +1435,7 @@
     "sellPrice": 50334,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Waist",
     "tooltip": [
       {
@@ -1465,7 +1470,8 @@
         {
           "questId": 9041,
           "name": "Dreadnaught Waistguard",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1482,7 +1488,7 @@
     "sellPrice": 52055,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Waist",
     "tooltip": [
       {
@@ -1517,7 +1523,8 @@
         {
           "questId": 9049,
           "name": "Redemption Girdle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1674,7 +1681,8 @@
         {
           "questId": 41498,
           "name": "Lawbringer's Waist",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1738,7 +1746,8 @@
         {
           "questId": 41498,
           "name": "Lawbringer's Waist",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1799,7 +1808,8 @@
         {
           "questId": 41490,
           "name": "Judgement's Waist",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1863,7 +1873,8 @@
         {
           "questId": 41490,
           "name": "Judgement's Waist",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1918,7 +1929,8 @@
         {
           "questId": 9049,
           "name": "Redemption Girdle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1973,7 +1985,8 @@
         {
           "questId": 9049,
           "name": "Redemption Girdle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2031,7 +2044,8 @@
         {
           "questId": 41447,
           "name": "Waist of Might",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2089,7 +2103,8 @@
         {
           "questId": 41439,
           "name": "Waist of Wrath",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2147,7 +2162,8 @@
         {
           "questId": 9041,
           "name": "Dreadnaught Waistguard",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -3115,7 +3131,7 @@
     "sellPrice": 9542,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Waist",
     "tooltip": [
       {
@@ -3150,12 +3166,14 @@
         {
           "questId": 5081,
           "name": "Maxwell's Mission",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 55
         },
         {
           "questId": 4903,
           "name": "Warlord's Command",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 55
         }
       ]
     },
@@ -3289,7 +3307,7 @@
     "sellPrice": 7270,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Waist",
     "tooltip": [
       {
@@ -3327,7 +3345,8 @@
         {
           "questId": 5242,
           "name": "A Final Blow",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 48
         }
       ]
     },
@@ -5318,7 +5337,7 @@
     "sellPrice": 7012,
     "quality": "Uncommon",
     "itemLevel": 56,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Waist",
     "tooltip": [
       {
@@ -5350,12 +5369,14 @@
         {
           "questId": 3907,
           "name": "Disharmony of Fire",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 48
         },
         {
           "questId": 4263,
           "name": "Incendius!",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 48
         }
       ]
     },
@@ -5975,7 +5996,7 @@
     "sellPrice": 7861,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Waist",
     "tooltip": [
       {
@@ -6013,12 +6034,14 @@
         {
           "questId": 40276,
           "name": "Destroying the Deeptide",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         },
         {
           "questId": 40150,
           "name": "Drowning Deeptide",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 44
         }
       ]
     },
@@ -6035,7 +6058,7 @@
     "sellPrice": 3071,
     "quality": "Uncommon",
     "itemLevel": 46,
-    "requiredLevel": 0,
+    "requiredLevel": 34,
     "slot": "Waist",
     "tooltip": [
       {
@@ -6070,7 +6093,8 @@
         {
           "questId": 40209,
           "name": "The Hunt for Sorrowclaw",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 34
         }
       ]
     },

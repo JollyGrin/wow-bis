@@ -857,7 +857,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -895,7 +895,8 @@
         {
           "questId": 8061,
           "name": "Paragons of Power: The Confessor's Wraps",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -960,7 +961,7 @@
     "sellPrice": 14533,
     "quality": "Epic",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -992,7 +993,8 @@
         {
           "questId": 8574,
           "name": "Stalwart's Battlegear",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1147,7 +1149,7 @@
     "sellPrice": 13227,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -1188,12 +1190,14 @@
         {
           "questId": 8907,
           "name": "An Earnest Proposition",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 8915,
           "name": "An Earnest Proposition",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1210,7 +1214,7 @@
     "sellPrice": 12666,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -1248,12 +1252,14 @@
         {
           "questId": 8911,
           "name": "An Earnest Proposition",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 8919,
           "name": "An Earnest Proposition",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1270,7 +1276,7 @@
     "sellPrice": 13038,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -1311,12 +1317,14 @@
         {
           "questId": 8909,
           "name": "An Earnest Proposition",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 8916,
           "name": "An Earnest Proposition",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1333,7 +1341,7 @@
     "sellPrice": 51879,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -1368,7 +1376,8 @@
         {
           "questId": 9102,
           "name": "Frostfire Bindings",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1385,7 +1394,7 @@
     "sellPrice": 53407,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -1420,7 +1429,8 @@
         {
           "questId": 9110,
           "name": "Plagueheart Bindings",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1437,7 +1447,7 @@
     "sellPrice": 51109,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -1475,7 +1485,8 @@
         {
           "questId": 9118,
           "name": "Bindings of Faith",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1530,7 +1541,8 @@
         {
           "questId": 9238,
           "name": "Glacial Wrists",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1547,7 +1559,7 @@
     "sellPrice": 12789,
     "quality": "Epic",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -1585,22 +1597,26 @@
         {
           "questId": 9228,
           "name": "Epic Armaments of Battle - Exalted Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9222,
           "name": "Epic Armaments of Battle - Friend of the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9224,
           "name": "Epic Armaments of Battle - Honored Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9225,
           "name": "Epic Armaments of Battle - Revered Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -1703,7 +1719,8 @@
         {
           "questId": 41479,
           "name": "Arcanist's Wrists",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1761,7 +1778,8 @@
         {
           "questId": 41470,
           "name": "Netherwind Wrists",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1819,7 +1837,8 @@
         {
           "questId": 9102,
           "name": "Frostfire Bindings",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1877,7 +1896,8 @@
         {
           "questId": 41462,
           "name": "Wrists of Prophecy",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1935,7 +1955,8 @@
         {
           "questId": 41454,
           "name": "Wrists of Transcendence",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1990,7 +2011,8 @@
         {
           "questId": 9118,
           "name": "Bindings of Faith",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2045,7 +2067,8 @@
         {
           "questId": 41428,
           "name": "Felheart Wrists",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2100,7 +2123,8 @@
         {
           "questId": 41420,
           "name": "Nemesis Wrists",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2155,7 +2179,8 @@
         {
           "questId": 9110,
           "name": "Plagueheart Bindings",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2670,7 +2695,7 @@
     "sellPrice": 7939,
     "quality": "Rare",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -2705,7 +2730,8 @@
         {
           "questId": 4201,
           "name": "The Love Potion",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -2944,7 +2970,7 @@
     "sellPrice": 9505,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -2979,12 +3005,14 @@
         {
           "questId": 5081,
           "name": "Maxwell's Mission",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 55
         },
         {
           "questId": 4903,
           "name": "Warlord's Command",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 55
         }
       ]
     },
@@ -3715,7 +3743,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -3753,7 +3781,8 @@
         {
           "questId": 8060,
           "name": "Paragons of Power: The Illusionist's Wraps",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -3770,7 +3799,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -3805,7 +3834,8 @@
         {
           "questId": 8059,
           "name": "Paragons of Power: The Demoniac's Wraps",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -4674,7 +4704,7 @@
     "sellPrice": 10861,
     "quality": "Rare",
     "itemLevel": 64,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -4709,7 +4739,8 @@
         {
           "questId": 40891,
           "name": "The Corruption of the Barkskin Tribe",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -4903,7 +4934,7 @@
     "sellPrice": 1665,
     "quality": "Uncommon",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 27,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -4938,7 +4969,8 @@
         {
           "questId": 1164,
           "name": "To Steal From Thieves",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 27
         }
       ]
     },
@@ -5042,7 +5074,7 @@
     "sellPrice": 1986,
     "quality": "Uncommon",
     "itemLevel": 39,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -5077,7 +5109,8 @@
         {
           "questId": 684,
           "name": "Wanted!  Marez Cowl",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -5094,7 +5127,7 @@
     "sellPrice": 2587,
     "quality": "Uncommon",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -5129,7 +5162,8 @@
         {
           "questId": 716,
           "name": "Stone Is Better than Cloth",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 35
         }
       ]
     },
@@ -5587,7 +5621,7 @@
     "sellPrice": 3666,
     "quality": "Uncommon",
     "itemLevel": 47,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -5622,7 +5656,8 @@
         {
           "questId": 2972,
           "name": "Doling Justice",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 38
         }
       ]
     },
@@ -5681,7 +5716,7 @@
     "sellPrice": 213,
     "quality": "Uncommon",
     "itemLevel": 18,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -5716,7 +5751,8 @@
         {
           "questId": 4740,
           "name": "WANTED: Murkdeep!",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -6291,7 +6327,7 @@
     "sellPrice": 3082,
     "quality": "Uncommon",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -6326,7 +6362,8 @@
         {
           "questId": 3379,
           "name": "Shadoweaver",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -6385,7 +6422,7 @@
     "sellPrice": 6334,
     "quality": "Uncommon",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 49,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -6423,7 +6460,8 @@
         {
           "questId": 4503,
           "name": "Shizzle's Flyer",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 49
         }
       ]
     },
@@ -7109,7 +7147,7 @@
     "sellPrice": 1912,
     "quality": "Uncommon",
     "itemLevel": 38,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -7147,7 +7185,8 @@
         {
           "questId": 6027,
           "name": "Book of the Ancients",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -7164,7 +7203,7 @@
     "sellPrice": 271,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 14,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -7202,7 +7241,8 @@
         {
           "questId": 6481,
           "name": "Earthen Arise",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 14
         }
       ]
     },
@@ -7264,7 +7304,7 @@
     "sellPrice": 139,
     "quality": "Uncommon",
     "itemLevel": 13,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -7296,7 +7336,8 @@
         {
           "questId": 41252,
           "name": "Kingsbane",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 5
         }
       ]
     },
@@ -7532,7 +7573,7 @@
     "sellPrice": 245,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -7570,7 +7611,8 @@
         {
           "questId": 40478,
           "name": "The Harvest Golem Mystery",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -7626,7 +7668,7 @@
     "sellPrice": 72,
     "quality": "Common",
     "itemLevel": 14,
-    "requiredLevel": 0,
+    "requiredLevel": 8,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -7655,7 +7697,8 @@
         {
           "questId": 102,
           "name": "Patrolling Westfall",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 8
         }
       ]
     },
@@ -7672,7 +7715,7 @@
     "sellPrice": 29,
     "quality": "Common",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 7,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -7701,7 +7744,8 @@
         {
           "questId": 147,
           "name": "Manhunt",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 7
         }
       ]
     },
@@ -7718,7 +7762,7 @@
     "sellPrice": 29,
     "quality": "Common",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -7747,7 +7791,8 @@
         {
           "questId": 315,
           "name": "The Perfect Stout",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 5
         }
       ]
     },
@@ -7836,7 +7881,7 @@
     "sellPrice": 46,
     "quality": "Common",
     "itemLevel": 12,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -7865,7 +7910,8 @@
         {
           "questId": 425,
           "name": "Ivar the Foul",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 10
         }
       ]
     },
@@ -8344,7 +8390,7 @@
     "sellPrice": 35,
     "quality": "Common",
     "itemLevel": 11,
-    "requiredLevel": 0,
+    "requiredLevel": 7,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -8373,7 +8419,8 @@
         {
           "questId": 938,
           "name": "Mist",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 7
         }
       ]
     },
@@ -8390,7 +8437,7 @@
     "sellPrice": 4,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 2,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -8419,7 +8466,8 @@
         {
           "questId": 376,
           "name": "The Damned",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 2
         }
       ]
     },
@@ -8436,7 +8484,7 @@
     "sellPrice": 28,
     "quality": "Common",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -8465,7 +8513,8 @@
         {
           "questId": 786,
           "name": "Thwarting Kolkar Aggression",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 5
         }
       ]
     },
@@ -8554,7 +8603,7 @@
     "sellPrice": 5,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -8583,7 +8632,8 @@
         {
           "questId": 456,
           "name": "The Balance of Nature",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 1
         }
       ]
     },
@@ -8786,7 +8836,7 @@
     "sellPrice": 32,
     "quality": "Common",
     "itemLevel": 12,
-    "requiredLevel": 0,
+    "requiredLevel": 3,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -8815,7 +8865,8 @@
         {
           "questId": 41186,
           "name": "Grabb Mudhide",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 3
         }
       ]
     },
@@ -8832,7 +8883,7 @@
     "sellPrice": 4,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -8861,7 +8912,8 @@
         {
           "questId": 41188,
           "name": "Provisions for Refugees",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 1
         }
       ]
     },
@@ -9901,7 +9953,7 @@
     "sellPrice": 3563,
     "quality": "Uncommon",
     "itemLevel": 46,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -9939,12 +9991,14 @@
         {
           "questId": 614,
           "name": "The Captain's Chest",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 35
         },
         {
           "questId": 8551,
           "name": "The Captain's Chest",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 35
         }
       ]
     },
@@ -9961,7 +10015,7 @@
     "sellPrice": 5776,
     "quality": "Uncommon",
     "itemLevel": 54,
-    "requiredLevel": 0,
+    "requiredLevel": 49,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -9996,7 +10050,8 @@
         {
           "questId": 4906,
           "name": "Further Corruption",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 49
         }
       ]
     },
@@ -10493,7 +10548,7 @@
     "sellPrice": 215,
     "quality": "Uncommon",
     "itemLevel": 18,
-    "requiredLevel": 0,
+    "requiredLevel": 9,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -10525,7 +10580,8 @@
         {
           "questId": 5724,
           "name": "Returning the Lost Satchel",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 9
         }
       ]
     },
@@ -10542,7 +10598,7 @@
     "sellPrice": 1947,
     "quality": "Uncommon",
     "itemLevel": 39,
-    "requiredLevel": 0,
+    "requiredLevel": 34,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -10577,7 +10633,8 @@
         {
           "questId": 6134,
           "name": "Ghost-o-plasm Round Up",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 34
         }
       ]
     },
@@ -11038,7 +11095,7 @@
     "sellPrice": 2481,
     "quality": "Uncommon",
     "itemLevel": 43,
-    "requiredLevel": 38,
+    "requiredLevel": 34,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -11076,7 +11133,8 @@
         {
           "questId": 41292,
           "name": "The Art Of Goldsmithing",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 34
         }
       ]
     },
@@ -11093,7 +11151,7 @@
     "sellPrice": 2655,
     "quality": "Uncommon",
     "itemLevel": 44,
-    "requiredLevel": 0,
+    "requiredLevel": 36,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -11125,7 +11183,8 @@
         {
           "questId": 40830,
           "name": "Scouring Greyshire",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 36
         }
       ]
     },
@@ -11142,7 +11201,7 @@
     "sellPrice": 2876,
     "quality": "Uncommon",
     "itemLevel": 43,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -11177,7 +11236,8 @@
         {
           "questId": 40947,
           "name": "Spitecrest Decursions",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 35
         }
       ]
     },
@@ -11194,7 +11254,7 @@
     "sellPrice": 515,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 14,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -11226,7 +11286,8 @@
         {
           "questId": 41392,
           "name": "Turning Off The Tap",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 14
         }
       ]
     },
@@ -11378,7 +11439,7 @@
     "sellPrice": 2202,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Wrist",
     "tooltip": [
       {
@@ -11413,7 +11474,8 @@
         {
           "questId": 673,
           "name": "Foul Magics",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 35
         }
       ]
     },

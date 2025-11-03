@@ -256,7 +256,7 @@
     "sellPrice": 98660,
     "quality": "Epic",
     "itemLevel": 76,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -281,7 +281,8 @@
         {
           "questId": 8447,
           "name": "Waking Legends",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -744,7 +745,7 @@
     "sellPrice": 188888,
     "quality": "Epic",
     "itemLevel": 66,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -763,7 +764,8 @@
         {
           "questId": 8573,
           "name": "Champion's Battlegear",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -780,7 +782,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -805,7 +807,8 @@
         {
           "questId": 8748,
           "name": "The Path of the Protector",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -822,7 +825,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -847,7 +850,8 @@
         {
           "questId": 8749,
           "name": "The Path of the Protector",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -940,7 +944,7 @@
     "sellPrice": 13682,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Finger",
     "tooltip": [
       {
@@ -959,7 +963,8 @@
         {
           "questId": 40214,
           "name": "Uncovering Evil",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -1087,7 +1092,7 @@
     "sellPrice": 5567,
     "quality": "Rare",
     "itemLevel": 38,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Finger",
     "tooltip": [
       {
@@ -1115,7 +1120,8 @@
         {
           "questId": 1267,
           "name": "The Missing Diplomat",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 28
         }
       ]
     },
@@ -1202,7 +1208,7 @@
     "sellPrice": 6130,
     "quality": "Rare",
     "itemLevel": 38,
-    "requiredLevel": 0,
+    "requiredLevel": 32,
     "slot": "Finger",
     "tooltip": [
       {
@@ -1227,7 +1233,8 @@
         {
           "questId": 3525,
           "name": "Extinguishing the Idol",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 32
         }
       ]
     },
@@ -1308,7 +1315,7 @@
     "sellPrice": 7082,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Finger",
     "tooltip": [
       {
@@ -1330,7 +1337,8 @@
         {
           "questId": 4004,
           "name": "The Princess Saved?",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 48
         }
       ]
     },
@@ -1376,7 +1384,7 @@
     "sellPrice": 10156,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Finger",
     "tooltip": [
       {
@@ -1398,7 +1406,8 @@
         {
           "questId": 5944,
           "name": "In Dreams",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 52
         }
       ]
     },
@@ -1453,7 +1462,7 @@
     "sellPrice": 14853,
     "quality": "Rare",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Finger",
     "tooltip": [
       {
@@ -1481,7 +1490,8 @@
         {
           "questId": 7541,
           "name": "Service to the Horde",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -2239,7 +2249,7 @@
     "sellPrice": 4306,
     "quality": "Rare",
     "itemLevel": 37,
-    "requiredLevel": 0,
+    "requiredLevel": 32,
     "slot": "Finger",
     "tooltip": [
       {
@@ -2270,7 +2280,8 @@
         {
           "questId": 40090,
           "name": "The Unwise Elders",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 32
         }
       ]
     },
@@ -2398,7 +2409,7 @@
     "sellPrice": 15908,
     "quality": "Rare",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Finger",
     "tooltip": [
       {
@@ -2423,7 +2434,8 @@
         {
           "questId": 40463,
           "name": "The True High Foreman",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -2440,7 +2452,7 @@
     "sellPrice": 4255,
     "quality": "Rare",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Finger",
     "tooltip": [
       {
@@ -2465,7 +2477,8 @@
         {
           "questId": 40485,
           "name": "The Harvest Golem Mystery",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -2581,7 +2594,7 @@
     "sellPrice": 3187,
     "quality": "Rare",
     "itemLevel": 33,
-    "requiredLevel": 0,
+    "requiredLevel": 27,
     "slot": "Finger",
     "tooltip": [
       {
@@ -2609,7 +2622,8 @@
         {
           "questId": 70033,
           "name": "The Seeker's Demise",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 27
         }
       ]
     },
@@ -2853,7 +2867,7 @@
     "sellPrice": 10209,
     "quality": "Rare",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 22,
     "slot": "Finger",
     "tooltip": [
       {
@@ -2872,7 +2886,8 @@
         {
           "questId": 98,
           "name": "The Legend of Stalvan",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 22
         }
       ]
     },
@@ -2924,7 +2939,7 @@
     "sellPrice": 7092,
     "quality": "Rare",
     "itemLevel": 47,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Finger",
     "tooltip": [
       {
@@ -2949,7 +2964,8 @@
         {
           "questId": 2768,
           "name": "Divino-matic Rod",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -2966,7 +2982,7 @@
     "sellPrice": 6463,
     "quality": "Rare",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Finger",
     "tooltip": [
       {
@@ -2991,7 +3007,8 @@
         {
           "questId": 2950,
           "name": "Nogg's Ring Redo",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 28
         }
       ]
     },
@@ -3078,7 +3095,7 @@
     "sellPrice": 7102,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Finger",
     "tooltip": [
       {
@@ -3100,7 +3117,8 @@
         {
           "questId": 4363,
           "name": "The Princess's Surprise",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 50
         }
       ]
     },
@@ -3289,7 +3307,7 @@
     "sellPrice": 4108,
     "quality": "Rare",
     "itemLevel": 37,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Finger",
     "tooltip": [
       {
@@ -3311,7 +3329,8 @@
         {
           "questId": 40856,
           "name": "Backup System Activation",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 25
         }
       ]
     },
@@ -3392,7 +3411,7 @@
     "sellPrice": 3750,
     "quality": "Rare",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 16,
     "slot": "Finger",
     "tooltip": [
       {
@@ -3426,7 +3445,8 @@
         {
           "questId": 396,
           "name": "An Audience with the King",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 16
         }
       ]
     },
@@ -3516,7 +3536,7 @@
     "sellPrice": 2055,
     "quality": "Rare",
     "itemLevel": 29,
-    "requiredLevel": 0,
+    "requiredLevel": 18,
     "slot": "Finger",
     "tooltip": [
       {
@@ -3541,7 +3561,8 @@
         {
           "questId": 1014,
           "name": "Arugal Must Die",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 18
         }
       ]
     },
@@ -3558,7 +3579,7 @@
     "sellPrice": 6463,
     "quality": "Rare",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Finger",
     "tooltip": [
       {
@@ -3583,7 +3604,8 @@
         {
           "questId": 2948,
           "name": "Gnome Improvement",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 28
         }
       ]
     },
@@ -3600,7 +3622,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 57,
     "slot": "Finger",
     "tooltip": [
       {
@@ -3628,7 +3650,8 @@
         {
           "questId": 4743,
           "name": "Seal of Ascension",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 57
         }
       ]
     },
@@ -3645,7 +3668,7 @@
     "sellPrice": 7156,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Finger",
     "tooltip": [
       {
@@ -3667,7 +3690,8 @@
         {
           "questId": 4363,
           "name": "The Princess's Surprise",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 50
         }
       ]
     },
@@ -3684,7 +3708,7 @@
     "sellPrice": 7407,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Finger",
     "tooltip": [
       {
@@ -3712,7 +3736,8 @@
         {
           "questId": 4004,
           "name": "The Princess Saved?",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 48
         }
       ]
     },
@@ -3831,7 +3856,7 @@
     "sellPrice": 401,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Finger",
     "tooltip": [
       {
@@ -3859,7 +3884,8 @@
         {
           "questId": 40205,
           "name": "Securing Darnassus",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 5
         }
       ]
     },
@@ -3876,7 +3902,7 @@
     "sellPrice": 7267,
     "quality": "Uncommon",
     "itemLevel": 57,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Finger",
     "tooltip": [
       {
@@ -3895,7 +3921,8 @@
         {
           "questId": 40289,
           "name": "To Honor the Forgotten",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },
@@ -4014,7 +4041,7 @@
     "sellPrice": 2092,
     "quality": "Uncommon",
     "itemLevel": 46,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Finger",
     "tooltip": [
       {
@@ -4039,7 +4066,8 @@
         {
           "questId": 667,
           "name": "Death From Below",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 35
         }
       ]
     },
@@ -4091,7 +4119,7 @@
     "sellPrice": 556,
     "quality": "Uncommon",
     "itemLevel": 22,
-    "requiredLevel": 0,
+    "requiredLevel": 13,
     "slot": "Finger",
     "tooltip": [
       {
@@ -4116,7 +4144,8 @@
         {
           "questId": 973,
           "name": "The Tower of Althalaxx",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 13
         }
       ]
     },
@@ -4226,7 +4255,7 @@
     "sellPrice": 6542,
     "quality": "Uncommon",
     "itemLevel": 53,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Finger",
     "tooltip": [
       {
@@ -4248,7 +4277,8 @@
         {
           "questId": 3825,
           "name": "Ogre Head On A Stick = Party",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 48
         }
       ]
     },
@@ -4608,7 +4638,7 @@
     "sellPrice": 8109,
     "quality": "Uncommon",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Finger",
     "tooltip": [
       {
@@ -4630,7 +4660,8 @@
         {
           "questId": 5060,
           "name": "Locked Away",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 52
         }
       ]
     },
@@ -4647,7 +4678,7 @@
     "sellPrice": 7396,
     "quality": "Uncommon",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Finger",
     "tooltip": [
       {
@@ -4675,7 +4706,8 @@
         {
           "questId": 4642,
           "name": "Melding of Influences",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 48
         }
       ]
     },
@@ -4692,7 +4724,7 @@
     "sellPrice": 10314,
     "quality": "Uncommon",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 56,
     "slot": "Finger",
     "tooltip": [
       {
@@ -4717,7 +4749,8 @@
         {
           "questId": 6163,
           "name": "Ramstein",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 56
         }
       ]
     },
@@ -4734,7 +4767,7 @@
     "sellPrice": 18662,
     "quality": "Uncommon",
     "itemLevel": 57,
-    "requiredLevel": 0,
+    "requiredLevel": 54,
     "slot": "Finger",
     "tooltip": [
       {
@@ -4759,7 +4792,8 @@
         {
           "questId": 6845,
           "name": "Uncovering Past Secrets",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 54
         }
       ]
     },
@@ -4843,7 +4877,7 @@
     "sellPrice": 2912,
     "quality": "Uncommon",
     "itemLevel": 43,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Finger",
     "tooltip": [
       {
@@ -4862,7 +4896,8 @@
         {
           "questId": 41742,
           "name": "Expelling Evil",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -5270,7 +5305,7 @@
     "sellPrice": 1945,
     "quality": "Uncommon",
     "itemLevel": 41,
-    "requiredLevel": 36,
+    "requiredLevel": 34,
     "slot": "Finger",
     "tooltip": [
       {
@@ -5295,7 +5330,8 @@
         {
           "questId": 41294,
           "name": "Observations",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 34
         }
       ]
     },
@@ -5376,7 +5412,7 @@
     "sellPrice": 6584,
     "quality": "Uncommon",
     "itemLevel": 41,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Finger",
     "tooltip": [
       {
@@ -5401,7 +5437,8 @@
         {
           "questId": 40028,
           "name": "The Horn of Garek'sa",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -5418,7 +5455,7 @@
     "sellPrice": 1560,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 18,
     "slot": "Finger",
     "tooltip": [
       {
@@ -5446,7 +5483,8 @@
         {
           "questId": 40571,
           "name": "Strange Bedfellows",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 18
         }
       ]
     },
@@ -5463,7 +5501,7 @@
     "sellPrice": 7955,
     "quality": "Uncommon",
     "itemLevel": 51,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Finger",
     "tooltip": [
       {
@@ -5485,7 +5523,8 @@
         {
           "questId": 40591,
           "name": "Favor for Gelwig",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -5502,7 +5541,7 @@
     "sellPrice": 203,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 6,
     "slot": "Finger",
     "tooltip": [
       {
@@ -5527,7 +5566,8 @@
         {
           "questId": 40869,
           "name": "Mastering the Formula III",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 6
         }
       ]
     },
@@ -5544,7 +5584,7 @@
     "sellPrice": 3208,
     "quality": "Uncommon",
     "itemLevel": 43,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Finger",
     "tooltip": [
       {
@@ -5566,7 +5606,8 @@
         {
           "questId": 40976,
           "name": "War on Worgen",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 38
         }
       ]
     },
@@ -6076,7 +6117,7 @@
     "sellPrice": 49060,
     "quality": "Epic",
     "itemLevel": 74,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -6104,12 +6145,14 @@
         {
           "questId": 7496,
           "name": "Celebrating Good Times",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         },
         {
           "questId": 7491,
           "name": "For All To See",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6161,7 +6204,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -6184,7 +6227,8 @@
         {
           "questId": 8699,
           "name": "Band of Vaulted Secrets",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6201,7 +6245,7 @@
     "sellPrice": 828085,
     "quality": "Epic",
     "itemLevel": 77,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -6226,7 +6270,8 @@
         {
           "questId": 8729,
           "name": "The Wrath of Neptulon",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6540,7 +6585,8 @@
         {
           "questId": 41633,
           "name": "Bonescythe Ring",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6582,7 +6628,8 @@
         {
           "questId": 41467,
           "name": "Frostfire Ring",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6628,7 +6675,8 @@
         {
           "questId": 41484,
           "name": "Ring of Redemption",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6674,7 +6722,8 @@
         {
           "questId": 41467,
           "name": "Frostfire Ring",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6720,7 +6769,8 @@
         {
           "questId": 41517,
           "name": "Ring of the Earthshatterer",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -6765,7 +6815,8 @@
         {
           "questId": 41399,
           "name": "Ring of the Dreamwalker",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -7125,7 +7176,8 @@
         {
           "questId": 41577,
           "name": "Sovereign of Desolation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -7170,7 +7222,8 @@
         {
           "questId": 41577,
           "name": "Sovereign of Desolation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -7789,7 +7842,7 @@
     "sellPrice": 130616,
     "quality": "Epic",
     "itemLevel": 83,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -7811,12 +7864,14 @@
         {
           "questId": 7782,
           "name": "The Lord of Blackrock",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         },
         {
           "questId": 7784,
           "name": "The Lord of Blackrock",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 60
         }
       ]
     },
@@ -7897,7 +7952,7 @@
     "sellPrice": 188888,
     "quality": "Epic",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -7919,7 +7974,8 @@
         {
           "questId": 8574,
           "name": "Stalwart's Battlegear",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -7936,7 +7992,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -7961,7 +8017,8 @@
         {
           "questId": 8703,
           "name": "Ring of Eternal Justice",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         }
       ]
     },
@@ -7978,7 +8035,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -8000,7 +8057,8 @@
         {
           "questId": 8698,
           "name": "Ring of the Gathering Storm",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8017,7 +8075,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -8039,7 +8097,8 @@
         {
           "questId": 8697,
           "name": "Ring of Infinite Wisdom",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8056,7 +8115,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -8075,7 +8134,8 @@
         {
           "questId": 8702,
           "name": "Ring of Unspoken Names",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8296,7 +8356,7 @@
     "sellPrice": 113642,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -8318,7 +8378,8 @@
         {
           "questId": 8802,
           "name": "The Savior of Kalimdor",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8335,7 +8396,7 @@
     "sellPrice": 98660,
     "quality": "Epic",
     "itemLevel": 80,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -8360,7 +8421,8 @@
         {
           "questId": 9230,
           "name": "Ramaladni's Icy Grasp",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8438,7 +8500,8 @@
         {
           "questId": 41433,
           "name": "Ring of the Dreadnaught",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8480,7 +8543,8 @@
         {
           "questId": 41450,
           "name": "Ring of Faith",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8519,7 +8583,8 @@
         {
           "questId": 41416,
           "name": "Plagueheart Ring",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8564,7 +8629,8 @@
         {
           "questId": 41399,
           "name": "Ring of the Dreamwalker",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8610,7 +8676,8 @@
         {
           "questId": 41517,
           "name": "Ring of the Earthshatterer",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8652,7 +8719,8 @@
         {
           "questId": 41484,
           "name": "Ring of Redemption",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8691,7 +8759,8 @@
         {
           "questId": 41632,
           "name": "Ring of the Cryptstalker",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8762,7 +8831,8 @@
         {
           "questId": 41450,
           "name": "Ring of Faith",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8808,7 +8878,8 @@
         {
           "questId": 41433,
           "name": "Ring of the Dreadnaught",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -8847,7 +8918,8 @@
         {
           "questId": 41416,
           "name": "Plagueheart Ring",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9138,7 +9210,7 @@
     "sellPrice": 86119,
     "quality": "Epic",
     "itemLevel": 76,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Finger",
     "tooltip": [
       {
@@ -9169,7 +9241,8 @@
         {
           "questId": 40963,
           "name": "Head of Solnius",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -9218,7 +9291,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 70,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -9243,7 +9316,8 @@
         {
           "questId": 8750,
           "name": "The Path of the Protector",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9260,7 +9334,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 75,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -9285,7 +9359,8 @@
         {
           "questId": 8751,
           "name": "The Protector of Kalimdor",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9302,7 +9377,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 80,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -9327,7 +9402,8 @@
         {
           "questId": 8764,
           "name": "The Changing of Paths - Protector No More",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9344,7 +9420,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -9369,7 +9445,8 @@
         {
           "questId": 8753,
           "name": "The Path of the Conqueror",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9386,7 +9463,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -9411,7 +9488,8 @@
         {
           "questId": 8754,
           "name": "The Path of the Conqueror",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9428,7 +9506,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 70,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -9453,7 +9531,8 @@
         {
           "questId": 8755,
           "name": "The Path of the Conqueror",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9470,7 +9549,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 75,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -9495,7 +9574,8 @@
         {
           "questId": 8756,
           "name": "The Qiraji Conqueror",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9512,7 +9592,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 80,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -9537,7 +9617,8 @@
         {
           "questId": 8766,
           "name": "The Changing of Paths - Conqueror No More",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9554,7 +9635,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -9579,7 +9660,8 @@
         {
           "questId": 8758,
           "name": "The Path of the Invoker",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9596,7 +9678,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -9621,7 +9703,8 @@
         {
           "questId": 8759,
           "name": "The Path of the Invoker",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9638,7 +9721,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 70,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -9663,7 +9746,8 @@
         {
           "questId": 8760,
           "name": "The Path of the Invoker",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9680,7 +9764,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 75,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -9705,7 +9789,8 @@
         {
           "questId": 8761,
           "name": "The Grand Invoker",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9722,7 +9807,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 80,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -9747,7 +9832,8 @@
         {
           "questId": 8765,
           "name": "The Changing of Paths - Invoker No More",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9764,7 +9850,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -9786,7 +9872,8 @@
         {
           "questId": 8556,
           "name": "Signet of Unyielding Strength",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -9803,7 +9890,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -9825,7 +9912,8 @@
         {
           "questId": 8704,
           "name": "Signet of the Unseen Path",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -10072,7 +10160,8 @@
         {
           "questId": 41484,
           "name": "Ring of Redemption",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -10124,7 +10213,8 @@
         {
           "questId": 41517,
           "name": "Ring of the Earthshatterer",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -10163,7 +10253,8 @@
         {
           "questId": 41399,
           "name": "Ring of the Dreamwalker",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -11050,7 +11141,7 @@
     "sellPrice": 14846,
     "quality": "Rare",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Finger",
     "tooltip": [
       {
@@ -11075,7 +11166,8 @@
         {
           "questId": 5125,
           "name": "Aurius' Reckoning",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -11191,7 +11283,7 @@
     "sellPrice": 14853,
     "quality": "Rare",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Finger",
     "tooltip": [
       {
@@ -11216,7 +11308,8 @@
         {
           "questId": 7541,
           "name": "Service to the Horde",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -11271,7 +11364,7 @@
     "sellPrice": 0,
     "quality": "Rare",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Finger",
     "tooltip": [
       {
@@ -11293,7 +11386,8 @@
         {
           "questId": 8257,
           "name": "Blood of Morphaz",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -11310,7 +11404,7 @@
     "sellPrice": 15457,
     "quality": "Rare",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Finger",
     "tooltip": [
       {
@@ -11335,7 +11429,8 @@
         {
           "questId": 8418,
           "name": "Forging the Mightstone",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 50
         }
       ]
     },
@@ -11390,7 +11485,7 @@
     "sellPrice": 10709,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -11409,7 +11504,8 @@
         {
           "questId": 8548,
           "name": "Volunteer's Battlegear",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -11426,7 +11522,7 @@
     "sellPrice": 10709,
     "quality": "Rare",
     "itemLevel": 66,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Finger",
     "tooltip": [
       {
@@ -11445,7 +11541,8 @@
         {
           "questId": 8572,
           "name": "Veteran's Battlegear",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -11573,7 +11670,7 @@
     "sellPrice": 10709,
     "quality": "Rare",
     "itemLevel": 66,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Finger",
     "tooltip": [
       {
@@ -11592,22 +11689,26 @@
         {
           "questId": 9227,
           "name": "Superior Armaments of Battle - Exalted Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9221,
           "name": "Superior Armaments of Battle - Friend of the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9223,
           "name": "Superior Armaments of Battle - Honored Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9226,
           "name": "Superior Armaments of Battle - Revered Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -11624,7 +11725,7 @@
     "sellPrice": 10709,
     "quality": "Rare",
     "itemLevel": 66,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Finger",
     "tooltip": [
       {
@@ -11646,22 +11747,26 @@
         {
           "questId": 9227,
           "name": "Superior Armaments of Battle - Exalted Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9221,
           "name": "Superior Armaments of Battle - Friend of the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9223,
           "name": "Superior Armaments of Battle - Honored Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         },
         {
           "questId": 9226,
           "name": "Superior Armaments of Battle - Revered Amongst the Dawn",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -11678,7 +11783,7 @@
     "sellPrice": 38790,
     "quality": "Rare",
     "itemLevel": 70,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Finger",
     "tooltip": [
       {
@@ -11703,7 +11808,8 @@
         {
           "questId": 9248,
           "name": "A Humble Offering",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -11931,7 +12037,7 @@
     "sellPrice": 42108,
     "quality": "Rare",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Finger",
     "tooltip": [
       {
@@ -11956,7 +12062,8 @@
         {
           "questId": 40310,
           "name": "The Depths of Karazhan VII",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -11973,7 +12080,7 @@
     "sellPrice": 43681,
     "quality": "Rare",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Finger",
     "tooltip": [
       {
@@ -11998,7 +12105,8 @@
         {
           "questId": 40317,
           "name": "The Mystery of Karazhan VII",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         }
       ]
     },
@@ -12114,7 +12222,7 @@
     "sellPrice": 2500,
     "quality": "Rare",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Finger",
     "tooltip": [
       {
@@ -12139,7 +12247,8 @@
         {
           "questId": 40675,
           "name": "A Hero's Reward",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 10
         }
       ]
     },
@@ -12296,7 +12405,7 @@
     "sellPrice": 4218,
     "quality": "Rare",
     "itemLevel": 47,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Finger",
     "tooltip": [
       {
@@ -12315,7 +12424,8 @@
         {
           "questId": 40849,
           "name": "Genn Greymane Must Die!",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 40
         }
       ]
     },
@@ -12425,7 +12535,7 @@
     "sellPrice": 7888,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Finger",
     "tooltip": [
       {
@@ -12450,7 +12560,8 @@
         {
           "questId": 5942,
           "name": "Hidden Treasures",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -12563,7 +12674,7 @@
     "sellPrice": 27103,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Finger",
     "tooltip": [
       {
@@ -12594,7 +12705,8 @@
         {
           "questId": 7486,
           "name": "A Hero's Reward",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -13465,7 +13577,7 @@
     "sellPrice": 6100,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 58,
+    "requiredLevel": 30,
     "slot": "Finger",
     "tooltip": [
       {
@@ -13490,7 +13602,8 @@
         {
           "questId": 41326,
           "name": "Fate Of The Harborage",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -13574,7 +13687,7 @@
     "sellPrice": 14867,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Finger",
     "tooltip": [
       {
@@ -13605,7 +13718,8 @@
         {
           "questId": 40254,
           "name": "Keeping Secrets",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -13622,7 +13736,7 @@
     "sellPrice": 2500,
     "quality": "Rare",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Finger",
     "tooltip": [
       {
@@ -13647,7 +13761,8 @@
         {
           "questId": 40675,
           "name": "A Hero's Reward",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 10
         }
       ]
     },
@@ -13784,7 +13899,7 @@
     "sellPrice": 10709,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 56,
     "slot": "Finger",
     "tooltip": [
       {
@@ -13812,7 +13927,8 @@
         {
           "questId": 6163,
           "name": "Ramstein",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 56
         }
       ]
     },
@@ -13829,7 +13945,7 @@
     "sellPrice": 27103,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Finger",
     "tooltip": [
       {
@@ -13860,7 +13976,8 @@
         {
           "questId": 7486,
           "name": "A Hero's Reward",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -14049,7 +14166,7 @@
     "sellPrice": 1986,
     "quality": "Rare",
     "itemLevel": 29,
-    "requiredLevel": 0,
+    "requiredLevel": 22,
     "slot": "Finger",
     "tooltip": [
       {
@@ -14077,7 +14194,8 @@
         {
           "questId": 60108,
           "name": "Arugal's Folly",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 22
         }
       ]
     },
@@ -14418,7 +14536,7 @@
     "sellPrice": 45806,
     "quality": "Rare",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Finger",
     "tooltip": [
       {
@@ -14443,7 +14561,8 @@
         {
           "questId": 40342,
           "name": "The Bronze Betrayal",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -14571,7 +14690,7 @@
     "sellPrice": 20144,
     "quality": "Rare",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Finger",
     "tooltip": [
       {
@@ -14590,7 +14709,8 @@
         {
           "questId": 40425,
           "name": "The Tome of Arcane Intricacies and Magical Phenomenon IX",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         }
       ]
     },
@@ -14607,7 +14727,7 @@
     "sellPrice": 16425,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Finger",
     "tooltip": [
       {
@@ -14629,7 +14749,8 @@
         {
           "questId": 40489,
           "name": "Assaulting Hateforge",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 45
         }
       ]
     },
@@ -14646,7 +14767,7 @@
     "sellPrice": 15892,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Finger",
     "tooltip": [
       {
@@ -14671,7 +14792,8 @@
         {
           "questId": 40509,
           "name": "The Final Crack",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 50
         }
       ]
     },
@@ -14770,7 +14892,7 @@
     "sellPrice": 2500,
     "quality": "Rare",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Finger",
     "tooltip": [
       {
@@ -14792,7 +14914,8 @@
         {
           "questId": 40675,
           "name": "A Hero's Reward",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 10
         }
       ]
     },
@@ -14841,7 +14964,7 @@
     "sellPrice": 4218,
     "quality": "Rare",
     "itemLevel": 47,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Finger",
     "tooltip": [
       {
@@ -14860,7 +14983,8 @@
         {
           "questId": 40956,
           "name": "The Fall and Rise of Greymane",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 35
         }
       ]
     },
@@ -15043,7 +15167,7 @@
     "sellPrice": 1500,
     "quality": "Uncommon",
     "itemLevel": 32,
-    "requiredLevel": 0,
+    "requiredLevel": 19,
     "slot": "Finger",
     "tooltip": [
       {
@@ -15068,7 +15192,8 @@
         {
           "questId": 550,
           "name": "Battle of Hillsbrad",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 19
         }
       ]
     },
@@ -15085,7 +15210,7 @@
     "sellPrice": 1130,
     "quality": "Uncommon",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Finger",
     "tooltip": [
       {
@@ -15110,7 +15235,8 @@
         {
           "questId": 596,
           "name": "Bloody Bone Necklaces",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -15252,7 +15378,7 @@
     "sellPrice": 403,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 11,
     "slot": "Finger",
     "tooltip": [
       {
@@ -15277,7 +15403,8 @@
         {
           "questId": 852,
           "name": "Hezrul Bloodmark",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 11
         }
       ]
     },
@@ -15326,7 +15453,7 @@
     "sellPrice": 677,
     "quality": "Uncommon",
     "itemLevel": 28,
-    "requiredLevel": 0,
+    "requiredLevel": 17,
     "slot": "Finger",
     "tooltip": [
       {
@@ -15351,7 +15478,8 @@
         {
           "questId": 1081,
           "name": "Reception from Tyrande",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 17
         }
       ]
     },
@@ -15397,7 +15525,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Finger",
     "tooltip": [
       {
@@ -15422,22 +15550,26 @@
         {
           "questId": 2948,
           "name": "Gnome Improvement",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 28
         },
         {
           "questId": 2950,
           "name": "Nogg's Ring Redo",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 28
         },
         {
           "questId": 2947,
           "name": "Return of the Ring",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 28
         },
         {
           "questId": 2949,
           "name": "Return of the Ring",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 28
         }
       ]
     },
@@ -15454,7 +15586,7 @@
     "sellPrice": 2092,
     "quality": "Uncommon",
     "itemLevel": 50,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Finger",
     "tooltip": [
       {
@@ -15476,7 +15608,8 @@
         {
           "questId": 1560,
           "name": "Tooga's Quest",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -15696,7 +15829,7 @@
     "sellPrice": 8814,
     "quality": "Uncommon",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Finger",
     "tooltip": [
       {
@@ -15715,7 +15848,8 @@
         {
           "questId": 5243,
           "name": "Houses of the Holy",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -15764,7 +15898,7 @@
     "sellPrice": 881,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 17,
     "slot": "Finger",
     "tooltip": [
       {
@@ -15789,7 +15923,8 @@
         {
           "questId": 6565,
           "name": "Allegiance to the Old Gods",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 17
         }
       ]
     },
@@ -16632,7 +16767,7 @@
     "sellPrice": 205,
     "quality": "Uncommon",
     "itemLevel": 11,
-    "requiredLevel": 0,
+    "requiredLevel": 6,
     "slot": "Finger",
     "tooltip": [
       {
@@ -16660,7 +16795,8 @@
         {
           "questId": 80399,
           "name": "Zalazane's Apprentice",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 6
         }
       ]
     },
@@ -16677,7 +16813,7 @@
     "sellPrice": 8905,
     "quality": "Uncommon",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Finger",
     "tooltip": [
       {
@@ -16705,7 +16841,8 @@
         {
           "questId": 41017,
           "name": "Vilemusk Infiltration",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -16824,7 +16961,7 @@
     "sellPrice": 1875,
     "quality": "Uncommon",
     "itemLevel": 24,
-    "requiredLevel": 0,
+    "requiredLevel": 17,
     "slot": "Finger",
     "tooltip": [
       {
@@ -16849,7 +16986,8 @@
         {
           "questId": 256,
           "name": "WANTED: Chok'sul",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 17
         }
       ]
     },
@@ -16866,7 +17004,7 @@
     "sellPrice": 882,
     "quality": "Uncommon",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Finger",
     "tooltip": [
       {
@@ -16891,7 +17029,8 @@
         {
           "questId": 700,
           "name": "A King's Tribute",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 25
         }
       ]
     },
@@ -17010,7 +17149,7 @@
     "sellPrice": 897,
     "quality": "Uncommon",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 22,
     "slot": "Finger",
     "tooltip": [
       {
@@ -17032,7 +17171,8 @@
         {
           "questId": 1144,
           "name": "Willix the Importer",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 22
         }
       ]
     },
@@ -17548,7 +17688,7 @@
     "sellPrice": 9092,
     "quality": "Uncommon",
     "itemLevel": 54,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Finger",
     "tooltip": [
       {
@@ -17576,7 +17716,8 @@
         {
           "questId": 7201,
           "name": "The Last Element",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 48
         }
       ]
     },
@@ -17593,7 +17734,7 @@
     "sellPrice": 8630,
     "quality": "Uncommon",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 24,
     "slot": "Finger",
     "tooltip": [
       {
@@ -17618,7 +17759,8 @@
         {
           "questId": 5151,
           "name": "Hypercapacitor Gizmo",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 24
         }
       ]
     },
@@ -17635,7 +17777,7 @@
     "sellPrice": 881,
     "quality": "Uncommon",
     "itemLevel": 23,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Finger",
     "tooltip": [
       {
@@ -17660,7 +17802,8 @@
         {
           "questId": 6641,
           "name": "Vorsha the Lasher",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 20
         }
       ]
     },
@@ -17747,7 +17890,7 @@
     "sellPrice": 2231,
     "quality": "Uncommon",
     "itemLevel": 41,
-    "requiredLevel": 36,
+    "requiredLevel": 32,
     "slot": "Finger",
     "tooltip": [
       {
@@ -17772,7 +17915,8 @@
         {
           "questId": 41301,
           "name": "Undermarket Offer",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 32
         }
       ]
     },
@@ -17856,7 +18000,7 @@
     "sellPrice": 250,
     "quality": "Uncommon",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 6,
     "slot": "Finger",
     "tooltip": [
       {
@@ -17878,7 +18022,8 @@
         {
           "questId": 60130,
           "name": "That Dirty Old Ring",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 6
         }
       ]
     },
@@ -17930,7 +18075,7 @@
     "sellPrice": 2250,
     "quality": "Uncommon",
     "itemLevel": 37,
-    "requiredLevel": 32,
+    "requiredLevel": 34,
     "slot": "Finger",
     "tooltip": [
       {
@@ -17961,7 +18106,8 @@
         {
           "questId": 41294,
           "name": "Observations",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 34
         }
       ]
     },
@@ -18293,7 +18439,7 @@
     "sellPrice": 1450,
     "quality": "Uncommon",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 21,
     "slot": "Finger",
     "tooltip": [
       {
@@ -18321,7 +18467,8 @@
         {
           "questId": 41694,
           "name": "To The Darkest Places",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 21
         }
       ]
     },
@@ -18338,7 +18485,7 @@
     "sellPrice": 1055,
     "quality": "Uncommon",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 24,
     "slot": "Finger",
     "tooltip": [
       {
@@ -18357,7 +18504,8 @@
         {
           "questId": 41700,
           "name": "The Gold Experience",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 24
         }
       ]
     },
@@ -18374,7 +18522,7 @@
     "sellPrice": 10433,
     "quality": "Uncommon",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Finger",
     "tooltip": [
       {
@@ -18393,7 +18541,8 @@
         {
           "questId": 40094,
           "name": "The Water Rat",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 45
         }
       ]
     },

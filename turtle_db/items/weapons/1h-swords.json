@@ -4079,7 +4079,7 @@
     "sellPrice": 42773,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Main Hand",
     "tooltip": [
       {
@@ -4117,7 +4117,8 @@
         {
           "questId": 40504,
           "name": "Of New and Old IV",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 45
         }
       ]
     },
@@ -4778,7 +4779,7 @@
     "sellPrice": 18255,
     "quality": "Rare",
     "itemLevel": 44,
-    "requiredLevel": 0,
+    "requiredLevel": 33,
     "slot": "One-hand",
     "tooltip": [
       {
@@ -4816,7 +4817,8 @@
         {
           "questId": 1048,
           "name": "Into The Scarlet Monastery",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 33
         }
       ]
     },
@@ -5137,7 +5139,7 @@
     "sellPrice": 17796,
     "quality": "Rare",
     "itemLevel": 44,
-    "requiredLevel": 0,
+    "requiredLevel": 39,
     "slot": "One-hand",
     "tooltip": [
       {
@@ -5169,12 +5171,14 @@
         {
           "questId": 3341,
           "name": "Bring the End",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 37
         },
         {
           "questId": 3636,
           "name": "Bring the Light",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 39
         }
       ]
     },
@@ -8173,7 +8177,7 @@
     "sellPrice": 36082,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "One-hand",
     "tooltip": [
       {
@@ -8205,12 +8209,14 @@
         {
           "questId": 5238,
           "name": "Mission Accomplished!",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 50
         },
         {
           "questId": 5237,
           "name": "Mission Accomplished!",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 50
         }
       ]
     },
@@ -8426,7 +8432,7 @@
     "sellPrice": 8289,
     "quality": "Uncommon",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "One-hand",
     "tooltip": [
       {
@@ -8461,12 +8467,14 @@
         {
           "questId": 41676,
           "name": "Orcs by Our Borders",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         },
         {
           "questId": 41683,
           "name": "Scum Should Stay Scum",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 29
         }
       ]
     },
@@ -9338,7 +9346,7 @@
     "sellPrice": 2619,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Main Hand",
     "tooltip": [
       {
@@ -9367,7 +9375,8 @@
         {
           "questId": 275,
           "name": "Blisters on The Land",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },
@@ -9849,7 +9858,7 @@
     "sellPrice": 11893,
     "quality": "Uncommon",
     "itemLevel": 41,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Main Hand",
     "tooltip": [
       {
@@ -9884,7 +9893,8 @@
         {
           "questId": 680,
           "name": "The Real Threat",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -10449,7 +10459,7 @@
     "sellPrice": 35860,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "One-hand",
     "tooltip": [
       {
@@ -10481,12 +10491,14 @@
         {
           "questId": 5238,
           "name": "Mission Accomplished!",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 50
         },
         {
           "questId": 5237,
           "name": "Mission Accomplished!",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 50
         }
       ]
     },
@@ -10841,7 +10853,7 @@
     "sellPrice": 20717,
     "quality": "Uncommon",
     "itemLevel": 54,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Main Hand",
     "tooltip": [
       {
@@ -10873,7 +10885,8 @@
         {
           "questId": 40527,
           "name": "End Ukorz Sandscalp",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 40
         }
       ]
     },

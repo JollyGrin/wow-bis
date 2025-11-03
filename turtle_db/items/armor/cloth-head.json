@@ -128,7 +128,7 @@
     "sellPrice": 20067,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -166,12 +166,14 @@
         {
           "questId": 9005,
           "name": "Saving the Best for Last",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 9012,
           "name": "Saving the Best for Last",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -188,7 +190,7 @@
     "sellPrice": 74316,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -223,7 +225,8 @@
         {
           "questId": 9097,
           "name": "Frostfire Circlet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -240,7 +243,7 @@
     "sellPrice": 80969,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -278,7 +281,8 @@
         {
           "questId": 9113,
           "name": "Circlet of Faith",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -387,7 +391,8 @@
         {
           "questId": 41476,
           "name": "Arcanist's Head",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -445,7 +450,8 @@
         {
           "questId": 8632,
           "name": "Enigma Circlet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -503,7 +509,8 @@
         {
           "questId": 9097,
           "name": "Frostfire Circlet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -520,7 +527,7 @@
     "sellPrice": 98853,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -558,7 +565,8 @@
         {
           "questId": 41620,
           "name": "Helm of the Guardian",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -575,7 +583,7 @@
     "sellPrice": 98380,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -616,7 +624,8 @@
         {
           "questId": 41620,
           "name": "Helm of the Guardian",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -677,7 +686,8 @@
         {
           "questId": 41459,
           "name": "Head of Prophecy",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -741,7 +751,8 @@
         {
           "questId": 41451,
           "name": "Head of Transcendence",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -799,7 +810,8 @@
         {
           "questId": 9113,
           "name": "Circlet of Faith",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -816,7 +828,7 @@
     "sellPrice": 84455,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -857,7 +869,8 @@
         {
           "questId": 41596,
           "name": "Helm of Pestilence",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -874,7 +887,7 @@
     "sellPrice": 87538,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -912,7 +925,8 @@
         {
           "questId": 41596,
           "name": "Helm of Pestilence",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -970,7 +984,8 @@
         {
           "questId": 41425,
           "name": "Felheart Head",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1025,7 +1040,8 @@
         {
           "questId": 8662,
           "name": "Doomcaller's Circlet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1042,7 +1058,7 @@
     "sellPrice": 102824,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -1080,7 +1096,8 @@
         {
           "questId": 41584,
           "name": "Nathrezim Helm",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1097,7 +1114,7 @@
     "sellPrice": 102824,
     "quality": "Epic",
     "itemLevel": 92,
-    "requiredLevel": 60,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -1135,7 +1152,8 @@
         {
           "questId": 41584,
           "name": "Nathrezim Helm",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -1482,7 +1500,7 @@
     "sellPrice": 20188,
     "quality": "Epic",
     "itemLevel": 64,
-    "requiredLevel": 59,
+    "requiredLevel": 55,
     "slot": "Head",
     "tooltip": [
       {
@@ -1523,7 +1541,8 @@
         {
           "questId": 41060,
           "name": "Dreambreeze Cowl",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -2089,7 +2108,7 @@
     "sellPrice": 17469,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 57,
     "slot": "Head",
     "tooltip": [
       {
@@ -2130,7 +2149,8 @@
         {
           "questId": 5466,
           "name": "The Lich, Ras Frostwhisper",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 57
         }
       ]
     },
@@ -2663,7 +2683,7 @@
     "sellPrice": 52826,
     "quality": "Epic",
     "itemLevel": 81,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -2701,7 +2721,8 @@
         {
           "questId": 8592,
           "name": "Tiara of the Oracle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2718,7 +2739,7 @@
     "sellPrice": 20873,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -2759,12 +2780,14 @@
         {
           "questId": 9001,
           "name": "Saving the Best for Last",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 9014,
           "name": "Saving the Best for Last",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2781,7 +2804,7 @@
     "sellPrice": 20505,
     "quality": "Epic",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -2822,12 +2845,14 @@
         {
           "questId": 9003,
           "name": "Saving the Best for Last",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 58
         },
         {
           "questId": 9009,
           "name": "Saving the Best for Last",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 58
         }
       ]
     },
@@ -2844,7 +2869,7 @@
     "sellPrice": 78676,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -2879,7 +2904,8 @@
         {
           "questId": 9105,
           "name": "Plagueheart Circlet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -3171,7 +3197,8 @@
         {
           "questId": 41475,
           "name": "Netherwind Head",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -3229,7 +3256,8 @@
         {
           "questId": 8592,
           "name": "Tiara of the Oracle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -3290,7 +3318,8 @@
         {
           "questId": 41417,
           "name": "Nemesis Head",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -3345,7 +3374,8 @@
         {
           "questId": 9105,
           "name": "Plagueheart Circlet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -4670,7 +4700,7 @@
     "sellPrice": 10634,
     "quality": "Rare",
     "itemLevel": 54,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Head",
     "tooltip": [
       {
@@ -4711,7 +4741,8 @@
         {
           "questId": 3528,
           "name": "The God Hakkar",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -5790,7 +5821,7 @@
     "sellPrice": 12746,
     "quality": "Rare",
     "itemLevel": 57,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Head",
     "tooltip": [
       {
@@ -5828,7 +5859,8 @@
         {
           "questId": 40127,
           "name": "The Dampening Must End",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 40
         }
       ]
     },
@@ -5845,7 +5877,7 @@
     "sellPrice": 1406,
     "quality": "Rare",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 26,
     "slot": "Head",
     "tooltip": [
       {
@@ -5883,7 +5915,8 @@
         {
           "questId": 40147,
           "name": "Rooting Out Evil",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 26
         }
       ]
     },
@@ -5945,7 +5978,7 @@
     "sellPrice": 13807,
     "quality": "Rare",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Head",
     "tooltip": [
       {
@@ -5980,7 +6013,8 @@
         {
           "questId": 40303,
           "name": "The Tower of Lapidis X",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 45
         }
       ]
     },
@@ -6132,7 +6166,7 @@
     "sellPrice": 17248,
     "quality": "Rare",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Head",
     "tooltip": [
       {
@@ -6167,7 +6201,8 @@
         {
           "questId": 40779,
           "name": "The Terrible Krampus",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -6364,7 +6399,7 @@
     "sellPrice": 11294,
     "quality": "Rare",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 46,
     "slot": "Head",
     "tooltip": [
       {
@@ -6402,7 +6437,8 @@
         {
           "questId": 55018,
           "name": "The Big Energy Project",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 46
         }
       ]
     },
@@ -6689,7 +6725,7 @@
     "sellPrice": 1285,
     "quality": "Uncommon",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Head",
     "tooltip": [
       {
@@ -6724,7 +6760,8 @@
         {
           "questId": 397,
           "name": "You Have Served Us Well",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 25
         }
       ]
     },
@@ -7491,7 +7528,7 @@
     "sellPrice": 12895,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Head",
     "tooltip": [
       {
@@ -7523,7 +7560,8 @@
         {
           "questId": 4621,
           "name": "Avast Ye, Admiral!",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -7540,7 +7578,7 @@
     "sellPrice": 13250,
     "quality": "Uncommon",
     "itemLevel": 61,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Head",
     "tooltip": [
       {
@@ -7572,7 +7610,8 @@
         {
           "questId": 5243,
           "name": "Houses of the Holy",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -8345,7 +8384,7 @@
     "sellPrice": 4750,
     "quality": "Rare",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 32,
     "slot": "Head",
     "tooltip": [
       {
@@ -8380,7 +8419,8 @@
         {
           "questId": 41834,
           "name": "Storm's End",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 32
         }
       ]
     },
@@ -8484,7 +8524,7 @@
     "sellPrice": 3815,
     "quality": "Uncommon",
     "itemLevel": 43,
-    "requiredLevel": 0,
+    "requiredLevel": 37,
     "slot": "Head",
     "tooltip": [
       {
@@ -8519,7 +8559,8 @@
         {
           "questId": 41036,
           "name": "Deathly Fetters",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 37
         }
       ]
     },
@@ -8620,7 +8661,7 @@
     "sellPrice": 25821,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -8658,7 +8699,8 @@
         {
           "questId": 80605,
           "name": "The First Opening of The Dark Portal",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -10076,7 +10118,7 @@
     "sellPrice": 3396,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Head",
     "tooltip": [
       {
@@ -10108,7 +10150,8 @@
         {
           "questId": 8221,
           "name": "Rare Fish - Keefer's Angelfish",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 1
         }
       ]
     },
@@ -10173,7 +10216,7 @@
     "sellPrice": 3738,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Head",
     "tooltip": [
       {
@@ -10205,7 +10248,8 @@
         {
           "questId": 41882,
           "name": "The Dragonmaw War",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 28
         }
       ]
     },
@@ -10543,7 +10587,7 @@
     "sellPrice": 3251,
     "quality": "Uncommon",
     "itemLevel": 37,
-    "requiredLevel": 0,
+    "requiredLevel": 29,
     "slot": "Head",
     "tooltip": [
       {
@@ -10572,12 +10616,14 @@
         {
           "questId": 41681,
           "name": "Wiggles Knows the Way",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 29
         },
         {
           "questId": 41674,
           "name": "Wine Avenger",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 26
         }
       ]
     },
@@ -10594,7 +10640,7 @@
     "sellPrice": 2756,
     "quality": "Uncommon",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 24,
     "slot": "Head",
     "tooltip": [
       {
@@ -10629,7 +10675,8 @@
         {
           "questId": 41703,
           "name": "Favor For Spare Parts",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 24
         }
       ]
     },
@@ -10646,7 +10693,7 @@
     "sellPrice": 3053,
     "quality": "Uncommon",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 23,
     "slot": "Head",
     "tooltip": [
       {
@@ -10678,7 +10725,8 @@
         {
           "questId": 41711,
           "name": "Calming The Tempest",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 23
         }
       ]
     },
@@ -10740,7 +10788,7 @@
     "sellPrice": 2551,
     "quality": "Uncommon",
     "itemLevel": 23,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Head",
     "tooltip": [
       {
@@ -10775,7 +10823,8 @@
         {
           "questId": 40396,
           "name": "Captain Grayson's Revenge",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 15
         }
       ]
     },
@@ -12118,7 +12167,7 @@
     "sellPrice": 1,
     "quality": "Common",
     "itemLevel": 1,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Head",
     "tooltip": [
       {
@@ -12147,12 +12196,14 @@
         {
           "questId": 9339,
           "name": "A Thief's Reward",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 50
         },
         {
           "questId": 9365,
           "name": "A Thief's Reward",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 50
         }
       ]
     },
@@ -12334,7 +12385,7 @@
     "sellPrice": 3006,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Head",
     "tooltip": [
       {
@@ -12369,7 +12420,8 @@
         {
           "questId": 41726,
           "name": "Scavenging the Wrecks",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -12719,7 +12771,7 @@
     "sellPrice": 1103,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 18,
     "slot": "Head",
     "tooltip": [
       {
@@ -12751,7 +12803,8 @@
         {
           "questId": 40571,
           "name": "Strange Bedfellows",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 18
         }
       ]
     },
@@ -12813,7 +12866,7 @@
     "sellPrice": 1425,
     "quality": "Uncommon",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 24,
     "slot": "Head",
     "tooltip": [
       {
@@ -12851,7 +12904,8 @@
         {
           "questId": 70055,
           "name": "Defias of Duskwood",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 24
         }
       ]
     },
@@ -13267,7 +13321,7 @@
     "sellPrice": 801,
     "quality": "Common",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 19,
     "slot": "Head",
     "tooltip": [
       {
@@ -13296,7 +13350,8 @@
         {
           "questId": 567,
           "name": "Dangerous!",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 19
         }
       ]
     },
@@ -14453,7 +14508,7 @@
     "sellPrice": 935,
     "quality": "Common",
     "itemLevel": 8,
-    "requiredLevel": 0,
+    "requiredLevel": 7,
     "slot": "Head",
     "tooltip": [
       {
@@ -14473,7 +14528,8 @@
         {
           "questId": 70051,
           "name": "[Deprecated] Oil-Stained Gold",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 7
         }
       ]
     },
@@ -14490,7 +14546,7 @@
     "sellPrice": 0,
     "quality": "Common",
     "itemLevel": 0,
-    "requiredLevel": 0,
+    "requiredLevel": 4,
     "slot": "Head",
     "tooltip": [
       {
@@ -14513,12 +14569,14 @@
         {
           "questId": 41191,
           "name": "A Crown of Flowers",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 2
         },
         {
           "questId": 80208,
           "name": "Sunblade Reunion",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 4
         }
       ]
     },
@@ -14925,7 +14983,7 @@
     "sellPrice": 935,
     "quality": "Common",
     "itemLevel": 8,
-    "requiredLevel": 0,
+    "requiredLevel": 6,
     "slot": "Head",
     "tooltip": [
       {
@@ -14945,7 +15003,8 @@
         {
           "questId": 60008,
           "name": "[DEPRECATED] Wool Would Work",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 6
         }
       ]
     },
@@ -14995,7 +15054,7 @@
     "sellPrice": 16575,
     "quality": "Rare",
     "itemLevel": 70,
-    "requiredLevel": 0,
+    "requiredLevel": 58,
     "slot": "Head",
     "tooltip": [
       {
@@ -15030,7 +15089,8 @@
         {
           "questId": 8201,
           "name": "A Collection of Heads",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 58
         }
       ]
     },
@@ -15173,7 +15233,7 @@
     "sellPrice": 22907,
     "quality": "Epic",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 57,
     "slot": "Head",
     "tooltip": [
       {
@@ -15208,7 +15268,8 @@
         {
           "questId": 5063,
           "name": "Cap of the Scarlet Savant",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 57
         }
       ]
     },
@@ -15660,7 +15721,7 @@
     "sellPrice": 54661,
     "quality": "Epic",
     "itemLevel": 81,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -15695,7 +15756,8 @@
         {
           "questId": 8662,
           "name": "Doomcaller's Circlet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -15712,7 +15774,7 @@
     "sellPrice": 58170,
     "quality": "Epic",
     "itemLevel": 81,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -15750,7 +15812,8 @@
         {
           "questId": 8632,
           "name": "Enigma Circlet",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -15815,7 +15878,7 @@
     "sellPrice": 42935,
     "quality": "Epic",
     "itemLevel": 75,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Head",
     "tooltip": [
       {
@@ -15850,7 +15913,8 @@
         {
           "questId": 8620,
           "name": "The Only Prescription",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },

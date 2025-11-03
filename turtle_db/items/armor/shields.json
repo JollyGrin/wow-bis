@@ -8,7 +8,7 @@
     "sellPrice": 90788,
     "quality": "Epic",
     "itemLevel": 77,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Shield",
     "tooltip": [
       {
@@ -40,7 +40,8 @@
         {
           "questId": 8730,
           "name": "Nefarius's Corruption",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -408,7 +409,7 @@
     "sellPrice": 3028,
     "quality": "Rare",
     "itemLevel": 29,
-    "requiredLevel": 0,
+    "requiredLevel": 18,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -446,12 +447,14 @@
         {
           "questId": 1200,
           "name": "Blackfathom Villainy",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 18
         },
         {
           "questId": 6561,
           "name": "Blackfathom Villainy",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 18
         }
       ]
     },
@@ -516,7 +519,7 @@
     "sellPrice": 25395,
     "quality": "Rare",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -548,7 +551,8 @@
         {
           "questId": 2938,
           "name": "Venom to the Undercity",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 40
         }
       ]
     },
@@ -565,7 +569,7 @@
     "sellPrice": 36515,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -594,7 +598,8 @@
         {
           "questId": 5265,
           "name": "The Argent Hold",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -1205,7 +1210,7 @@
     "sellPrice": 110563,
     "quality": "Epic",
     "itemLevel": 79,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -1237,7 +1242,8 @@
         {
           "questId": 8789,
           "name": "Imperial Qiraji Armaments",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -2421,7 +2427,7 @@
     "sellPrice": 9938,
     "quality": "Rare",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 32,
     "slot": "Shield",
     "tooltip": [
       {
@@ -2456,7 +2462,8 @@
         {
           "questId": 646,
           "name": "Trol'kalar",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 32
         }
       ]
     },
@@ -2563,7 +2570,7 @@
     "sellPrice": 6105,
     "quality": "Rare",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 29,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -2604,12 +2611,14 @@
         {
           "questId": 1102,
           "name": "A Vengeful Fate",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 29
         },
         {
           "questId": 1101,
           "name": "The Crone of the Kraul",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 29
         }
       ]
     },
@@ -3307,7 +3316,7 @@
     "sellPrice": 36720,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 57,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -3348,7 +3357,8 @@
         {
           "questId": 5466,
           "name": "The Lich, Ras Frostwhisper",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 57
         }
       ]
     },
@@ -3416,7 +3426,7 @@
     "sellPrice": 35631,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 56,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -3451,12 +3461,14 @@
         {
           "questId": 6187,
           "name": "Order Must Be Restored",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 56
         },
         {
           "questId": 6148,
           "name": "The Scarlet Oracle, Demetria",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 56
         }
       ]
     },
@@ -3608,7 +3620,7 @@
     "sellPrice": 30231,
     "quality": "Rare",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 56,
     "slot": "Shield",
     "tooltip": [
       {
@@ -3643,7 +3655,8 @@
         {
           "questId": 5526,
           "name": "Shards of the Felvine",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 56
         }
       ]
     },
@@ -4137,7 +4150,7 @@
     "sellPrice": 1137,
     "quality": "Rare",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Shield",
     "tooltip": [
       {
@@ -4166,7 +4179,8 @@
         {
           "questId": 40282,
           "name": "Darlthos Legacy",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 15
         }
       ]
     },
@@ -4267,7 +4281,7 @@
     "sellPrice": 7605,
     "quality": "Rare",
     "itemLevel": 47,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -4299,7 +4313,8 @@
         {
           "questId": 40565,
           "name": "And Justice for All",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -4358,7 +4373,7 @@
     "sellPrice": 38291,
     "quality": "Rare",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -4396,7 +4411,8 @@
         {
           "questId": 41020,
           "name": "Lord Xanvarak",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -4539,7 +4555,7 @@
     "sellPrice": 6332,
     "quality": "Rare",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 29,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -4574,7 +4590,8 @@
         {
           "questId": 55006,
           "name": "Backup Capacitor",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 29
         }
       ]
     },
@@ -4591,7 +4608,7 @@
     "sellPrice": 918,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -4623,7 +4640,8 @@
         {
           "questId": 104,
           "name": "The Coastal Menace",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 15
         }
       ]
     },
@@ -4772,7 +4790,7 @@
     "sellPrice": 3306,
     "quality": "Uncommon",
     "itemLevel": 32,
-    "requiredLevel": 0,
+    "requiredLevel": 19,
     "slot": "Shield",
     "tooltip": [
       {
@@ -4807,7 +4825,8 @@
         {
           "questId": 550,
           "name": "Battle of Hillsbrad",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 19
         }
       ]
     },
@@ -5046,7 +5065,7 @@
     "sellPrice": 929,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -5078,7 +5097,8 @@
         {
           "questId": 913,
           "name": "Cry of the Thunderhawk",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 10
         }
       ]
     },
@@ -5095,7 +5115,7 @@
     "sellPrice": 4797,
     "quality": "Uncommon",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -5130,7 +5150,8 @@
         {
           "questId": 253,
           "name": "Bride of the Embalmer",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },
@@ -5264,7 +5285,7 @@
     "sellPrice": 2245,
     "quality": "Uncommon",
     "itemLevel": 27,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -5299,7 +5320,8 @@
         {
           "questId": 1059,
           "name": "Reclaiming the Charred Vale",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },
@@ -5316,7 +5338,7 @@
     "sellPrice": 7075,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -5351,7 +5373,8 @@
         {
           "questId": 1488,
           "name": "The Corrupter",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 25
         }
       ]
     },
@@ -5581,7 +5604,7 @@
     "sellPrice": 1762,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -5610,7 +5633,8 @@
         {
           "questId": 1652,
           "name": "The Tome of Valor",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },
@@ -6023,7 +6047,7 @@
     "sellPrice": 2323,
     "quality": "Uncommon",
     "itemLevel": 28,
-    "requiredLevel": 0,
+    "requiredLevel": 24,
     "slot": "Shield",
     "tooltip": [
       {
@@ -6061,7 +6085,8 @@
         {
           "questId": 5088,
           "name": "Arikara",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 24
         }
       ]
     },
@@ -6195,7 +6220,7 @@
     "sellPrice": 6562,
     "quality": "Uncommon",
     "itemLevel": 39,
-    "requiredLevel": 0,
+    "requiredLevel": 34,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -6230,7 +6255,8 @@
         {
           "questId": 6134,
           "name": "Ghost-o-plasm Round Up",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 34
         }
       ]
     },
@@ -6292,7 +6318,7 @@
     "sellPrice": 5095,
     "quality": "Uncommon",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -6324,7 +6350,8 @@
         {
           "questId": 6161,
           "name": "Claim Rackmore's Treasure!",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -6518,7 +6545,7 @@
     "sellPrice": 3247,
     "quality": "Uncommon",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 22,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -6553,7 +6580,8 @@
         {
           "questId": 41755,
           "name": "The Redbrand Lie",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 22
         }
       ]
     },
@@ -6657,7 +6685,7 @@
     "sellPrice": 7605,
     "quality": "Rare",
     "itemLevel": 47,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -6689,7 +6717,8 @@
         {
           "questId": 40722,
           "name": "Justice for Dustwallow",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 30
         }
       ]
     },
@@ -6745,7 +6774,7 @@
     "sellPrice": 2220,
     "quality": "Uncommon",
     "itemLevel": 27,
-    "requiredLevel": 0,
+    "requiredLevel": 18,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -6777,7 +6806,8 @@
         {
           "questId": 19,
           "name": "Tharil'zun",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 18
         }
       ]
     },
@@ -6836,7 +6866,7 @@
     "sellPrice": 4405,
     "quality": "Uncommon",
     "itemLevel": 34,
-    "requiredLevel": 0,
+    "requiredLevel": 26,
     "slot": "Shield",
     "tooltip": [
       {
@@ -6874,7 +6904,8 @@
         {
           "questId": 304,
           "name": "A Grim Task",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 26
         }
       ]
     },
@@ -6891,7 +6922,7 @@
     "sellPrice": 443,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 12,
     "slot": "Shield",
     "tooltip": [
       {
@@ -6923,7 +6954,8 @@
         {
           "questId": 452,
           "name": "Pyrewood Ambush",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 12
         }
       ]
     },
@@ -7075,7 +7107,7 @@
     "sellPrice": 5783,
     "quality": "Uncommon",
     "itemLevel": 37,
-    "requiredLevel": 0,
+    "requiredLevel": 33,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -7113,7 +7145,8 @@
         {
           "questId": 569,
           "name": "The Defense of Grom'gol",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 33
         }
       ]
     },
@@ -7175,7 +7208,7 @@
     "sellPrice": 613,
     "quality": "Uncommon",
     "itemLevel": 17,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -7207,7 +7240,8 @@
         {
           "questId": 217,
           "name": "In Defense of the King's Lands",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 10
         }
       ]
     },
@@ -7353,7 +7387,7 @@
     "sellPrice": 906,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -7385,7 +7419,8 @@
         {
           "questId": 1702,
           "name": "The Shieldsmith",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },
@@ -7612,7 +7647,7 @@
     "sellPrice": 4938,
     "quality": "Uncommon",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -7647,7 +7682,8 @@
         {
           "questId": 2418,
           "name": "Power Stones",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -7664,7 +7700,7 @@
     "sellPrice": 9051,
     "quality": "Uncommon",
     "itemLevel": 43,
-    "requiredLevel": 0,
+    "requiredLevel": 39,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -7699,7 +7735,8 @@
         {
           "questId": 2903,
           "name": "The Battle Plans",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 39
         }
       ]
     },
@@ -8520,7 +8557,7 @@
     "sellPrice": 2200,
     "quality": "Uncommon",
     "itemLevel": 27,
-    "requiredLevel": 0,
+    "requiredLevel": 23,
     "slot": "Shield",
     "tooltip": [
       {
@@ -8558,7 +8595,8 @@
         {
           "questId": 824,
           "name": "Je'neu of the Earthen Ring",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 23
         }
       ]
     },
@@ -8575,7 +8613,7 @@
     "sellPrice": 7270,
     "quality": "Uncommon",
     "itemLevel": 41,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -8610,7 +8648,8 @@
         {
           "questId": 1049,
           "name": "Compendium of the Fallen",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 28
         }
       ]
     },
@@ -8627,7 +8666,7 @@
     "sellPrice": 26104,
     "quality": "Uncommon",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -8662,7 +8701,8 @@
         {
           "questId": 40159,
           "name": "Rumors of the Great Fire Plume",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -8679,7 +8719,7 @@
     "sellPrice": 404,
     "quality": "Uncommon",
     "itemLevel": 14,
-    "requiredLevel": 0,
+    "requiredLevel": 6,
     "slot": "Shield",
     "tooltip": [
       {
@@ -8717,7 +8757,8 @@
         {
           "questId": 40857,
           "name": "Removing Leper Leadership",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 6
         }
       ]
     },
@@ -8860,7 +8901,7 @@
     "sellPrice": 6761,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -8895,7 +8936,8 @@
         {
           "questId": 504,
           "name": "Crushridge Warmongers",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -9335,7 +9377,7 @@
     "sellPrice": 15988,
     "quality": "Uncommon",
     "itemLevel": 51,
-    "requiredLevel": 0,
+    "requiredLevel": 43,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -9367,7 +9409,8 @@
         {
           "questId": 648,
           "name": "Rescue OOX-17/TN!",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 43
         }
       ]
     },
@@ -10596,7 +10639,7 @@
     "sellPrice": 425,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -10628,7 +10671,8 @@
         {
           "questId": 41202,
           "name": "A Lesson In Bruisin'",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 10
         }
       ]
     },
@@ -10645,7 +10689,7 @@
     "sellPrice": 4106,
     "quality": "Uncommon",
     "itemLevel": 34,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -10680,7 +10724,8 @@
         {
           "questId": 41665,
           "name": "In Amber Disgust",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 25
         }
       ]
     },
@@ -10742,7 +10787,7 @@
     "sellPrice": 10264,
     "quality": "Uncommon",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Shield",
     "tooltip": [
       {
@@ -10780,7 +10825,8 @@
         {
           "questId": 40945,
           "name": "Snarlclaw",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 35
         }
       ]
     },
@@ -10797,7 +10843,7 @@
     "sellPrice": 4591,
     "quality": "Uncommon",
     "itemLevel": 34,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -10835,7 +10881,8 @@
         {
           "questId": 55211,
           "name": "Oscilation Inhibited Disk!",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },
@@ -10888,7 +10935,7 @@
     "sellPrice": 2795,
     "quality": "Uncommon",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 23,
     "slot": "Shield",
     "tooltip": [
       {
@@ -10920,7 +10967,8 @@
         {
           "questId": 223,
           "name": "Worgen in the Woods",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 23
         }
       ]
     },
@@ -10979,7 +11027,7 @@
     "sellPrice": 2451,
     "quality": "Uncommon",
     "itemLevel": 28,
-    "requiredLevel": 0,
+    "requiredLevel": 19,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -11014,7 +11062,8 @@
         {
           "questId": 567,
           "name": "Dangerous!",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 19
         }
       ]
     },
@@ -11031,7 +11080,7 @@
     "sellPrice": 10126,
     "quality": "Uncommon",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Shield",
     "tooltip": [
       {
@@ -11066,7 +11115,8 @@
         {
           "questId": 733,
           "name": "Scrounging",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 35
         }
       ]
     },
@@ -11083,7 +11133,7 @@
     "sellPrice": 6477,
     "quality": "Uncommon",
     "itemLevel": 39,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -11115,7 +11165,8 @@
         {
           "questId": 697,
           "name": "Malin's Request",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -11132,7 +11183,7 @@
     "sellPrice": 498,
     "quality": "Uncommon",
     "itemLevel": 16,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Shield",
     "tooltip": [
       {
@@ -11164,7 +11215,8 @@
         {
           "questId": 902,
           "name": "Samophlange",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 10
         }
       ]
     },
@@ -11181,7 +11233,7 @@
     "sellPrice": 2221,
     "quality": "Uncommon",
     "itemLevel": 27,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -11216,7 +11268,8 @@
         {
           "questId": 873,
           "name": "Isha Awak",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 10
         }
       ]
     },
@@ -11311,7 +11364,7 @@
     "sellPrice": 6268,
     "quality": "Uncommon",
     "itemLevel": 38,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -11346,7 +11399,8 @@
         {
           "questId": 1393,
           "name": "Galen's Escape",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -11363,7 +11417,7 @@
     "sellPrice": 895,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -11395,7 +11449,8 @@
         {
           "questId": 1824,
           "name": "Trial at the Field of Giants",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 20
         }
       ]
     },
@@ -11496,7 +11551,7 @@
     "sellPrice": 7754,
     "quality": "Uncommon",
     "itemLevel": 41,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -11528,7 +11583,8 @@
         {
           "questId": 1049,
           "name": "Compendium of the Fallen",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 28
         }
       ]
     },
@@ -11590,7 +11646,7 @@
     "sellPrice": 9212,
     "quality": "Uncommon",
     "itemLevel": 43,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -11622,7 +11678,8 @@
         {
           "questId": 1168,
           "name": "Army of the Black Dragon",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 38
         }
       ]
     },
@@ -11795,7 +11852,7 @@
     "sellPrice": 20124,
     "quality": "Uncommon",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 49,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -11830,7 +11887,8 @@
         {
           "questId": 4503,
           "name": "Shizzle's Flyer",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 49
         }
       ]
     },
@@ -12156,7 +12214,7 @@
     "sellPrice": 868,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 17,
     "slot": "Shield",
     "tooltip": [
       {
@@ -12191,7 +12249,8 @@
         {
           "questId": 5321,
           "name": "The Sleeper Has Awakened",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 17
         }
       ]
     },
@@ -12598,7 +12657,7 @@
     "sellPrice": 5771,
     "quality": "Uncommon",
     "itemLevel": 38,
-    "requiredLevel": 0,
+    "requiredLevel": 32,
     "slot": "Shield",
     "tooltip": [
       {
@@ -12633,7 +12692,8 @@
         {
           "questId": 5943,
           "name": "Gizelton Caravan",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 32
         }
       ]
     },
@@ -12785,7 +12845,7 @@
     "sellPrice": 3738,
     "quality": "Uncommon",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Shield",
     "tooltip": [
       {
@@ -12820,7 +12880,8 @@
         {
           "questId": 41864,
           "name": "The Dragonmaw War",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 28
         }
       ]
     },
@@ -12837,7 +12898,7 @@
     "sellPrice": 431,
     "quality": "Uncommon",
     "itemLevel": 13,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -12872,7 +12933,8 @@
         {
           "questId": 40390,
           "name": "Aggression's End",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 5
         }
       ]
     },
@@ -12889,7 +12951,7 @@
     "sellPrice": 1922,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -12918,7 +12980,8 @@
         {
           "questId": 40602,
           "name": "The Old Church of Westfall X",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -13028,7 +13091,7 @@
     "sellPrice": 3145,
     "quality": "Uncommon",
     "itemLevel": 36,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -13060,7 +13123,8 @@
         {
           "questId": 40677,
           "name": "Lofty Heights",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -13281,7 +13345,7 @@
     "sellPrice": 91,
     "quality": "Common",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 6,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -13310,7 +13374,8 @@
         {
           "questId": 11,
           "name": "Riverpaw Gnoll Bounty",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 6
         }
       ]
     },
@@ -13651,7 +13716,7 @@
     "sellPrice": 89,
     "quality": "Common",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 7,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -13680,7 +13745,8 @@
         {
           "questId": 287,
           "name": "Frostmane Hold",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 7
         }
       ]
     },
@@ -13697,7 +13763,7 @@
     "sellPrice": 15,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 2,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -13726,7 +13792,8 @@
         {
           "questId": 382,
           "name": "The Red Messenger",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 2
         }
       ]
     },
@@ -13815,7 +13882,7 @@
     "sellPrice": 71,
     "quality": "Common",
     "itemLevel": 9,
-    "requiredLevel": 0,
+    "requiredLevel": 7,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -13844,7 +13911,8 @@
         {
           "questId": 812,
           "name": "Need for a Cure",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 7
         }
       ]
     },
@@ -13900,7 +13968,7 @@
     "sellPrice": 116,
     "quality": "Common",
     "itemLevel": 11,
-    "requiredLevel": 0,
+    "requiredLevel": 7,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -13929,7 +13997,8 @@
         {
           "questId": 938,
           "name": "Mist",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 7
         }
       ]
     },
@@ -13946,7 +14015,7 @@
     "sellPrice": 153,
     "quality": "Common",
     "itemLevel": 12,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -13975,7 +14044,8 @@
         {
           "questId": 411,
           "name": "The Prodigal Lich Returns",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 5
         }
       ]
     },
@@ -13992,7 +14062,7 @@
     "sellPrice": 15,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Shield",
     "tooltip": [
       {
@@ -14021,7 +14091,8 @@
         {
           "questId": 54,
           "name": "Report to Goldshire",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 1
         }
       ]
     },
@@ -14038,7 +14109,7 @@
     "sellPrice": 15,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Shield",
     "tooltip": [
       {
@@ -14067,7 +14138,8 @@
         {
           "questId": 218,
           "name": "The Stolen Journal",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 1
         }
       ]
     },
@@ -14708,7 +14780,7 @@
     "sellPrice": 48,
     "quality": "Common",
     "itemLevel": 8,
-    "requiredLevel": 0,
+    "requiredLevel": 3,
     "slot": "Off Hand",
     "tooltip": [
       {
@@ -14737,7 +14809,8 @@
         {
           "questId": 41167,
           "name": "The Murloc Threat",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 3
         }
       ]
     },
@@ -14979,7 +15052,7 @@
     "sellPrice": 9327,
     "quality": "Uncommon",
     "itemLevel": 54,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Shield",
     "tooltip": [
       {
@@ -15014,7 +15087,8 @@
         {
           "questId": 4242,
           "name": "Abandoned Hope",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 48
         }
       ]
     },
@@ -15268,7 +15342,7 @@
     "sellPrice": 116,
     "quality": "Common",
     "itemLevel": 11,
-    "requiredLevel": 0,
+    "requiredLevel": 7,
     "slot": "Shield",
     "tooltip": [
       {
@@ -15297,7 +15371,8 @@
         {
           "questId": 744,
           "name": "Preparation for Ceremony",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 7
         }
       ]
     },
@@ -15314,7 +15389,7 @@
     "sellPrice": 16,
     "quality": "Common",
     "itemLevel": 5,
-    "requiredLevel": 0,
+    "requiredLevel": 1,
     "slot": "Shield",
     "tooltip": [
       {
@@ -15343,7 +15418,8 @@
         {
           "questId": 917,
           "name": "Webwood Egg",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 1
         }
       ]
     },

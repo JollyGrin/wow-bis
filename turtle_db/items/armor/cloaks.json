@@ -791,7 +791,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 67,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Back",
     "tooltip": [
       {
@@ -823,7 +823,8 @@
         {
           "questId": 8557,
           "name": "Drape of Unyielding Strength",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -840,7 +841,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 67,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Back",
     "tooltip": [
       {
@@ -872,7 +873,8 @@
         {
           "questId": 8695,
           "name": "Cape of Eternal Justice",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 60
         }
       ]
     },
@@ -889,7 +891,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 67,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Back",
     "tooltip": [
       {
@@ -918,7 +920,8 @@
         {
           "questId": 8690,
           "name": "Cloak of the Gathering Storm",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 60
         }
       ]
     },
@@ -935,7 +938,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 67,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Back",
     "tooltip": [
       {
@@ -964,7 +967,8 @@
         {
           "questId": 8696,
           "name": "Cloak of the Unseen Path",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -981,7 +985,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 67,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Back",
     "tooltip": [
       {
@@ -1010,7 +1014,8 @@
         {
           "questId": 8693,
           "name": "Cloak of Veiled Shadows",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1027,7 +1032,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 67,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Back",
     "tooltip": [
       {
@@ -1062,7 +1067,8 @@
         {
           "questId": 8692,
           "name": "Cloak of Unending Life",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1079,7 +1085,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 67,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Back",
     "tooltip": [
       {
@@ -1108,7 +1114,8 @@
         {
           "questId": 8691,
           "name": "Drape of Vaulted Secrets",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1386,7 +1393,7 @@
     "sellPrice": 75174,
     "quality": "Epic",
     "itemLevel": 88,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Back",
     "tooltip": [
       {
@@ -1421,7 +1428,8 @@
         {
           "questId": 8802,
           "name": "The Savior of Kalimdor",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1689,7 +1697,8 @@
         {
           "questId": 41577,
           "name": "Sovereign of Desolation",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -1790,7 +1799,7 @@
     "sellPrice": 23388,
     "quality": "Epic",
     "itemLevel": 64,
-    "requiredLevel": 59,
+    "requiredLevel": 55,
     "slot": "Back",
     "tooltip": [
       {
@@ -1825,7 +1834,8 @@
         {
           "questId": 41056,
           "name": "Drape of Nordrassil",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -3024,7 +3034,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 67,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Back",
     "tooltip": [
       {
@@ -3056,7 +3066,8 @@
         {
           "questId": 8689,
           "name": "Shroud of Infinite Wisdom",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -3073,7 +3084,7 @@
     "sellPrice": 0,
     "quality": "Epic",
     "itemLevel": 67,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Back",
     "tooltip": [
       {
@@ -3102,7 +3113,8 @@
         {
           "questId": 8694,
           "name": "Shroud of Unspoken Names",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -5003,7 +5015,7 @@
     "sellPrice": 8585,
     "quality": "Rare",
     "itemLevel": 51,
-    "requiredLevel": 0,
+    "requiredLevel": 46,
     "slot": "Back",
     "tooltip": [
       {
@@ -5032,7 +5044,8 @@
         {
           "questId": 7861,
           "name": "Wanted: Vile Priestess Hexx and Her Minions",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 46
         }
       ]
     },
@@ -5133,7 +5146,7 @@
     "sellPrice": 9444,
     "quality": "Rare",
     "itemLevel": 52,
-    "requiredLevel": 0,
+    "requiredLevel": 50,
     "slot": "Back",
     "tooltip": [
       {
@@ -5159,7 +5172,8 @@
         {
           "questId": 8236,
           "name": "The Azure Key",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 50
         }
       ]
     },
@@ -5176,7 +5190,7 @@
     "sellPrice": 14590,
     "quality": "Rare",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Back",
     "tooltip": [
       {
@@ -5202,7 +5216,8 @@
         {
           "questId": 8181,
           "name": "Confront Yeh'kinya",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -5261,7 +5276,7 @@
     "sellPrice": 16409,
     "quality": "Rare",
     "itemLevel": 62,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Back",
     "tooltip": [
       {
@@ -5287,7 +5302,8 @@
         {
           "questId": 8548,
           "name": "Volunteer's Battlegear",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -5715,7 +5731,7 @@
     "sellPrice": 3945,
     "quality": "Rare",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 32,
     "slot": "Back",
     "tooltip": [
       {
@@ -5744,7 +5760,8 @@
         {
           "questId": 40091,
           "name": "The Crescent Grove",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 32
         }
       ]
     },
@@ -5761,7 +5778,7 @@
     "sellPrice": 13752,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Back",
     "tooltip": [
       {
@@ -5793,7 +5810,8 @@
         {
           "questId": 40444,
           "name": "Fel Energy Irregularities VII",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 45
         }
       ]
     },
@@ -5810,7 +5828,7 @@
     "sellPrice": 13752,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Back",
     "tooltip": [
       {
@@ -5842,7 +5860,8 @@
         {
           "questId": 40444,
           "name": "Fel Energy Irregularities VII",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 45
         }
       ]
     },
@@ -5859,7 +5878,7 @@
     "sellPrice": 13752,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Back",
     "tooltip": [
       {
@@ -5891,7 +5910,8 @@
         {
           "questId": 40444,
           "name": "Fel Energy Irregularities VII",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 45
         }
       ]
     },
@@ -5908,7 +5928,7 @@
     "sellPrice": 13752,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Back",
     "tooltip": [
       {
@@ -5940,7 +5960,8 @@
         {
           "questId": 40444,
           "name": "Fel Energy Irregularities VII",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 45
         }
       ]
     },
@@ -6034,7 +6055,8 @@
         {
           "questId": 41367,
           "name": "Against the Kolkar Dream",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 17
         }
       ]
     },
@@ -6519,7 +6541,7 @@
     "sellPrice": 17855,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Back",
     "tooltip": [
       {
@@ -6554,7 +6576,8 @@
         {
           "questId": 5944,
           "name": "In Dreams",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 52
         }
       ]
     },
@@ -7171,7 +7194,7 @@
     "sellPrice": 14641,
     "quality": "Rare",
     "itemLevel": 59,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Back",
     "tooltip": [
       {
@@ -7197,7 +7220,8 @@
         {
           "questId": 8181,
           "name": "Confront Yeh'kinya",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -7379,7 +7403,7 @@
     "sellPrice": 9835,
     "quality": "Rare",
     "itemLevel": 51,
-    "requiredLevel": 0,
+    "requiredLevel": 42,
     "slot": "Back",
     "tooltip": [
       {
@@ -7417,7 +7441,8 @@
         {
           "questId": 60074,
           "name": "Bring Down the Priestess!",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 42
         }
       ]
     },
@@ -7515,7 +7540,7 @@
     "sellPrice": 3704,
     "quality": "Rare",
     "itemLevel": 40,
-    "requiredLevel": 0,
+    "requiredLevel": 26,
     "slot": "Back",
     "tooltip": [
       {
@@ -7547,7 +7572,8 @@
         {
           "questId": 40147,
           "name": "Rooting Out Evil",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 26
         }
       ]
     },
@@ -7720,7 +7746,7 @@
     "sellPrice": 17705,
     "quality": "Rare",
     "itemLevel": 65,
-    "requiredLevel": 0,
+    "requiredLevel": 55,
     "slot": "Back",
     "tooltip": [
       {
@@ -7755,7 +7781,8 @@
         {
           "questId": 41020,
           "name": "Lord Xanvarak",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 55
         }
       ]
     },
@@ -8327,7 +8354,7 @@
     "sellPrice": 474,
     "quality": "Uncommon",
     "itemLevel": 18,
-    "requiredLevel": 0,
+    "requiredLevel": 9,
     "slot": "Back",
     "tooltip": [
       {
@@ -8356,7 +8383,8 @@
         {
           "questId": 451,
           "name": "A Recipe For Death",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 9
         }
       ]
     },
@@ -8451,7 +8479,7 @@
     "sellPrice": 528,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 14,
     "slot": "Back",
     "tooltip": [
       {
@@ -8480,7 +8508,8 @@
         {
           "questId": 899,
           "name": "Consumed by Hatred",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 14
         }
       ]
     },
@@ -8497,7 +8526,7 @@
     "sellPrice": 462,
     "quality": "Uncommon",
     "itemLevel": 18,
-    "requiredLevel": 0,
+    "requiredLevel": 13,
     "slot": "Back",
     "tooltip": [
       {
@@ -8526,7 +8555,8 @@
         {
           "questId": 865,
           "name": "Raptor Horns",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 13
         }
       ]
     },
@@ -8705,7 +8735,7 @@
     "sellPrice": 4012,
     "quality": "Uncommon",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Back",
     "tooltip": [
       {
@@ -8737,7 +8767,8 @@
         {
           "questId": 1381,
           "name": "Khan Hratha",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -9204,7 +9235,7 @@
     "sellPrice": 4768,
     "quality": "Uncommon",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 37,
     "slot": "Back",
     "tooltip": [
       {
@@ -9233,7 +9264,8 @@
         {
           "questId": 2976,
           "name": "A Grim Discovery",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 37
         }
       ]
     },
@@ -9664,7 +9696,7 @@
     "sellPrice": 9574,
     "quality": "Uncommon",
     "itemLevel": 56,
-    "requiredLevel": 0,
+    "requiredLevel": 51,
     "slot": "Back",
     "tooltip": [
       {
@@ -9702,12 +9734,14 @@
         {
           "questId": 4986,
           "name": "Glyphed Oaken Branch",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 51
         },
         {
           "questId": 4987,
           "name": "Glyphed Oaken Branch",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 51
         }
       ]
     },
@@ -10006,7 +10040,7 @@
     "sellPrice": 3282,
     "quality": "Uncommon",
     "itemLevel": 37,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Back",
     "tooltip": [
       {
@@ -10029,7 +10063,8 @@
         {
           "questId": 41678,
           "name": "An Amber Light",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 28
         }
       ]
     },
@@ -10046,7 +10081,7 @@
     "sellPrice": 2160,
     "quality": "Uncommon",
     "itemLevel": 33,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Back",
     "tooltip": [
       {
@@ -10072,7 +10107,8 @@
         {
           "questId": 41818,
           "name": "We are not Born Equal",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 25
         }
       ]
     },
@@ -10089,7 +10125,7 @@
     "sellPrice": 10694,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 45,
     "slot": "Back",
     "tooltip": [
       {
@@ -10124,7 +10160,8 @@
         {
           "questId": 40469,
           "name": "Vilegrip's Demise",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 45
         }
       ]
     },
@@ -10141,7 +10178,7 @@
     "sellPrice": 1648,
     "quality": "Uncommon",
     "itemLevel": 29,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Back",
     "tooltip": [
       {
@@ -10173,7 +10210,8 @@
         {
           "questId": 70026,
           "name": "Peon's Wardrobe Makeover",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 28
         }
       ]
     },
@@ -10391,7 +10429,7 @@
     "sellPrice": 1305,
     "quality": "Uncommon",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 23,
     "slot": "Back",
     "tooltip": [
       {
@@ -10423,7 +10461,8 @@
         {
           "questId": 223,
           "name": "Worgen in the Woods",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 23
         }
       ]
     },
@@ -10440,7 +10479,7 @@
     "sellPrice": 267,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Back",
     "tooltip": [
       {
@@ -10469,7 +10508,8 @@
         {
           "questId": 153,
           "name": "Red Leather Bandanas",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 10
         }
       ]
     },
@@ -10486,7 +10526,7 @@
     "sellPrice": 5826,
     "quality": "Uncommon",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 37,
     "slot": "Back",
     "tooltip": [
       {
@@ -10518,7 +10558,8 @@
         {
           "questId": 576,
           "name": "Keep An Eye Out",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 37
         }
       ]
     },
@@ -10613,7 +10654,7 @@
     "sellPrice": 2222,
     "quality": "Uncommon",
     "itemLevel": 31,
-    "requiredLevel": 0,
+    "requiredLevel": 28,
     "slot": "Back",
     "tooltip": [
       {
@@ -10645,7 +10686,8 @@
         {
           "questId": 633,
           "name": "The Thandol Span",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 28
         }
       ]
     },
@@ -10788,7 +10830,7 @@
     "sellPrice": 0,
     "quality": "Uncommon",
     "itemLevel": 20,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Back",
     "tooltip": [
       {
@@ -10814,7 +10856,8 @@
         {
           "questId": 993,
           "name": "A Lost Master",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 10
         }
       ]
     },
@@ -11029,7 +11072,7 @@
     "sellPrice": 992,
     "quality": "Uncommon",
     "itemLevel": 27,
-    "requiredLevel": 0,
+    "requiredLevel": 16,
     "slot": "Back",
     "tooltip": [
       {
@@ -11061,7 +11104,8 @@
         {
           "questId": 1096,
           "name": "Gerenzo Wrenchwhistle",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 16
         }
       ]
     },
@@ -11078,7 +11122,7 @@
     "sellPrice": 3769,
     "quality": "Uncommon",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 37,
     "slot": "Back",
     "tooltip": [
       {
@@ -11107,7 +11151,8 @@
         {
           "questId": 1383,
           "name": "Nothing But The Truth",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 37
         }
       ]
     },
@@ -11316,7 +11361,7 @@
     "sellPrice": 6392,
     "quality": "Uncommon",
     "itemLevel": 48,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Back",
     "tooltip": [
       {
@@ -11345,7 +11390,8 @@
         {
           "questId": 2767,
           "name": "Rescue OOX-22/FE!",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -11650,7 +11696,7 @@
     "sellPrice": 9661,
     "quality": "Uncommon",
     "itemLevel": 56,
-    "requiredLevel": 0,
+    "requiredLevel": 49,
     "slot": "Back",
     "tooltip": [
       {
@@ -11682,7 +11728,8 @@
         {
           "questId": 4261,
           "name": "Ancient Spirit",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 49
         }
       ]
     },
@@ -12014,7 +12061,7 @@
     "sellPrice": 9032,
     "quality": "Uncommon",
     "itemLevel": 55,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Back",
     "tooltip": [
       {
@@ -12046,7 +12093,8 @@
         {
           "questId": 4642,
           "name": "Melding of Influences",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 48
         }
       ]
     },
@@ -12063,7 +12111,7 @@
     "sellPrice": 9574,
     "quality": "Uncommon",
     "itemLevel": 56,
-    "requiredLevel": 0,
+    "requiredLevel": 51,
     "slot": "Back",
     "tooltip": [
       {
@@ -12095,7 +12143,8 @@
         {
           "questId": 4842,
           "name": "Strange Sources",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 51
         }
       ]
     },
@@ -12154,7 +12203,7 @@
     "sellPrice": 228,
     "quality": "Uncommon",
     "itemLevel": 13,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Back",
     "tooltip": [
       {
@@ -12183,7 +12232,8 @@
         {
           "questId": 41254,
           "name": "Deepmurk Darkness",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 5
         }
       ]
     },
@@ -12281,7 +12331,7 @@
     "sellPrice": 1262,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "Back",
     "tooltip": [
       {
@@ -12313,7 +12363,8 @@
         {
           "questId": 40602,
           "name": "The Old Church of Westfall X",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -12330,7 +12381,7 @@
     "sellPrice": 807,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 17,
     "slot": "Back",
     "tooltip": [
       {
@@ -12356,7 +12407,8 @@
         {
           "questId": 40699,
           "name": "A Flickering Flame",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 17
         }
       ]
     },
@@ -12409,7 +12461,7 @@
     "sellPrice": 213,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 12,
     "slot": "Back",
     "tooltip": [
       {
@@ -12438,7 +12490,8 @@
         {
           "questId": 116,
           "name": "Dry Times",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 12
         }
       ]
     },
@@ -12536,7 +12589,7 @@
     "sellPrice": 1320,
     "quality": "Uncommon",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 24,
     "slot": "Back",
     "tooltip": [
       {
@@ -12568,7 +12621,8 @@
         {
           "questId": 515,
           "name": "Elixir of Agony",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 24
         }
       ]
     },
@@ -12624,7 +12678,7 @@
     "sellPrice": 2748,
     "quality": "Uncommon",
     "itemLevel": 33,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Back",
     "tooltip": [
       {
@@ -12656,7 +12710,8 @@
         {
           "questId": 1051,
           "name": "Vorrel's Revenge",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 25
         }
       ]
     },
@@ -12919,7 +12974,7 @@
     "sellPrice": 208,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 12,
     "slot": "Back",
     "tooltip": [
       {
@@ -12948,7 +13003,8 @@
         {
           "questId": 947,
           "name": "Cave Mushrooms",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 12
         }
       ]
     },
@@ -13328,7 +13384,7 @@
     "sellPrice": 1812,
     "quality": "Uncommon",
     "itemLevel": 33,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Back",
     "tooltip": [
       {
@@ -13360,7 +13416,8 @@
         {
           "questId": 1440,
           "name": "Return to Vahlarriel",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -14052,7 +14109,7 @@
     "sellPrice": 11860,
     "quality": "Uncommon",
     "itemLevel": 60,
-    "requiredLevel": 0,
+    "requiredLevel": 54,
     "slot": "Back",
     "tooltip": [
       {
@@ -14081,7 +14138,8 @@
         {
           "questId": 6024,
           "name": "Hameya's Plea",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 54
         }
       ]
     },
@@ -14098,7 +14156,7 @@
     "sellPrice": 5738,
     "quality": "Uncommon",
     "itemLevel": 35,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Back",
     "tooltip": [
       {
@@ -14133,7 +14191,8 @@
         {
           "questId": 41853,
           "name": "Groldan's Grudge",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 30
         }
       ]
     },
@@ -14150,7 +14209,7 @@
     "sellPrice": 214,
     "quality": "Uncommon",
     "itemLevel": 10,
-    "requiredLevel": 0,
+    "requiredLevel": 5,
     "slot": "Back",
     "tooltip": [
       {
@@ -14185,7 +14244,8 @@
         {
           "questId": 40445,
           "name": "Dominance of the Skies",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 5
         }
       ]
     },
@@ -14202,7 +14262,7 @@
     "sellPrice": 11106,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Back",
     "tooltip": [
       {
@@ -14237,7 +14297,8 @@
         {
           "questId": 40539,
           "name": "Hunting Engineer Figgles",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 48
         }
       ]
     },
@@ -14398,7 +14459,7 @@
     "sellPrice": 10758,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 54,
     "slot": "Back",
     "tooltip": [
       {
@@ -14430,7 +14491,8 @@
         {
           "questId": 6041,
           "name": "When Smokey Sings, I Get Violent",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 54
         }
       ]
     },
@@ -14447,7 +14509,7 @@
     "sellPrice": 228,
     "quality": "Uncommon",
     "itemLevel": 13,
-    "requiredLevel": 0,
+    "requiredLevel": 60,
     "slot": "Back",
     "tooltip": [
       {
@@ -14470,7 +14532,8 @@
         {
           "questId": 41396,
           "name": "Woven Dreams",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -14613,7 +14676,7 @@
     "sellPrice": 4691,
     "quality": "Uncommon",
     "itemLevel": 44,
-    "requiredLevel": 0,
+    "requiredLevel": 34,
     "slot": "Back",
     "tooltip": [
       {
@@ -14642,7 +14705,8 @@
         {
           "questId": 40690,
           "name": "Blackhorn Village",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 34
         }
       ]
     },
@@ -14698,7 +14762,7 @@
     "sellPrice": 2321,
     "quality": "Uncommon",
     "itemLevel": 33,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Back",
     "tooltip": [
       {
@@ -14727,7 +14791,8 @@
         {
           "questId": 55,
           "name": "Morbent Fel",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 20
         }
       ]
     },
@@ -14984,7 +15049,7 @@
     "sellPrice": 2239,
     "quality": "Uncommon",
     "itemLevel": 33,
-    "requiredLevel": 0,
+    "requiredLevel": 30,
     "slot": "Back",
     "tooltip": [
       {
@@ -15016,7 +15081,8 @@
         {
           "questId": 1436,
           "name": "Alliance Relations",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 30
         }
       ]
     },
@@ -15069,7 +15135,7 @@
     "sellPrice": 480,
     "quality": "Uncommon",
     "itemLevel": 18,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Back",
     "tooltip": [
       {
@@ -15098,7 +15164,8 @@
         {
           "questId": 2139,
           "name": "Tharnariun's Hope",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 10
         }
       ]
     },
@@ -15193,7 +15260,7 @@
     "sellPrice": 4227,
     "quality": "Uncommon",
     "itemLevel": 43,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Back",
     "tooltip": [
       {
@@ -15222,7 +15289,8 @@
         {
           "questId": 2987,
           "name": "Gordunni Cobalt",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 38
         }
       ]
     },
@@ -15419,7 +15487,7 @@
     "sellPrice": 208,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Back",
     "tooltip": [
       {
@@ -15448,7 +15516,8 @@
         {
           "questId": 3301,
           "name": "Mura Runetotem",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 10
         }
       ]
     },
@@ -15465,7 +15534,7 @@
     "sellPrice": 10443,
     "quality": "Uncommon",
     "itemLevel": 56,
-    "requiredLevel": 0,
+    "requiredLevel": 48,
     "slot": "Back",
     "tooltip": [
       {
@@ -15491,12 +15560,14 @@
         {
           "questId": 3907,
           "name": "Disharmony of Fire",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 48
         },
         {
           "questId": 4263,
           "name": "Incendius!",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 48
         }
       ]
     },
@@ -16260,7 +16331,7 @@
     "sellPrice": 1649,
     "quality": "Uncommon",
     "itemLevel": 32,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Back",
     "tooltip": [
       {
@@ -16286,7 +16357,8 @@
         {
           "questId": 247,
           "name": "The Hunt Completed",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 20
         }
       ]
     },
@@ -16303,7 +16375,7 @@
     "sellPrice": 965,
     "quality": "Uncommon",
     "itemLevel": 27,
-    "requiredLevel": 0,
+    "requiredLevel": 23,
     "slot": "Back",
     "tooltip": [
       {
@@ -16332,7 +16404,8 @@
         {
           "questId": 824,
           "name": "Je'neu of the Earthen Ring",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 23
         }
       ]
     },
@@ -16349,7 +16422,7 @@
     "sellPrice": 998,
     "quality": "Uncommon",
     "itemLevel": 27,
-    "requiredLevel": 0,
+    "requiredLevel": 18,
     "slot": "Back",
     "tooltip": [
       {
@@ -16381,7 +16454,8 @@
         {
           "questId": 6283,
           "name": "Bloodfury Bloodline",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 18
         }
       ]
     },
@@ -16587,7 +16661,7 @@
     "sellPrice": 418,
     "quality": "Uncommon",
     "itemLevel": 22,
-    "requiredLevel": 0,
+    "requiredLevel": 20,
     "slot": "Back",
     "tooltip": [
       {
@@ -16625,7 +16699,8 @@
         {
           "questId": 41213,
           "name": "Venture Co. Expansion",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 20
         }
       ]
     },
@@ -16642,7 +16717,7 @@
     "sellPrice": 279,
     "quality": "Uncommon",
     "itemLevel": 18,
-    "requiredLevel": 0,
+    "requiredLevel": 15,
     "slot": "back",
     "tooltip": [
       {
@@ -16677,7 +16752,8 @@
         {
           "questId": 4740,
           "name": "WANTED: Murkdeep!",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 15
         }
       ]
     },
@@ -16694,7 +16770,7 @@
     "sellPrice": 25741,
     "quality": "Rare",
     "itemLevel": 63,
-    "requiredLevel": 0,
+    "requiredLevel": 57,
     "slot": "Back",
     "tooltip": [
       {
@@ -16735,12 +16811,14 @@
         {
           "questId": 7462,
           "name": "The Treasure of the Shen'dralar",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 57
         },
         {
           "questId": 7877,
           "name": "The Treasure of the Shen'dralar",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 57
         }
       ]
     },
@@ -16885,7 +16963,8 @@
         {
           "questId": 9237,
           "name": "Glacial Cloak",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 60
         }
       ]
     },
@@ -17202,7 +17281,7 @@
     "sellPrice": 4182,
     "quality": "Uncommon",
     "itemLevel": 43,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Back",
     "tooltip": [
       {
@@ -17237,7 +17316,8 @@
         {
           "questId": 40947,
           "name": "Spitecrest Decursions",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 35
         }
       ]
     },
@@ -17254,7 +17334,7 @@
     "sellPrice": 8864,
     "quality": "Uncommon",
     "itemLevel": 50,
-    "requiredLevel": 0,
+    "requiredLevel": 35,
     "slot": "Back",
     "tooltip": [
       {
@@ -17286,7 +17366,8 @@
         {
           "questId": 40975,
           "name": "The Judge and the Phantom",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 35
         }
       ]
     },
@@ -17384,7 +17465,7 @@
     "sellPrice": 207,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 12,
     "slot": "Back",
     "tooltip": [
       {
@@ -17413,7 +17494,8 @@
         {
           "questId": 452,
           "name": "Pyrewood Ambush",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 12
         }
       ]
     },
@@ -17430,7 +17512,7 @@
     "sellPrice": 4853,
     "quality": "Uncommon",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 40,
     "slot": "Back",
     "tooltip": [
       {
@@ -17462,7 +17544,8 @@
         {
           "questId": 348,
           "name": "Stranglethorn Fever",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 40
         }
       ]
     },
@@ -17845,7 +17928,7 @@
     "sellPrice": 1411,
     "quality": "Uncommon",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Back",
     "tooltip": [
       {
@@ -17874,7 +17957,8 @@
         {
           "questId": 1142,
           "name": "Mortality Wanes",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 25
         }
       ]
     },
@@ -18083,7 +18167,7 @@
     "sellPrice": 4713,
     "quality": "Uncommon",
     "itemLevel": 45,
-    "requiredLevel": 0,
+    "requiredLevel": 38,
     "slot": "Back",
     "tooltip": [
       {
@@ -18115,7 +18199,8 @@
         {
           "questId": 864,
           "name": "Return to Apothecary Zinge",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 38
         }
       ]
     },
@@ -18528,7 +18613,7 @@
     "sellPrice": 210,
     "quality": "Uncommon",
     "itemLevel": 15,
-    "requiredLevel": 0,
+    "requiredLevel": 10,
     "slot": "Back",
     "tooltip": [
       {
@@ -18557,7 +18642,8 @@
         {
           "questId": 1358,
           "name": "Sample for Helbrim",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 10
         }
       ]
     },
@@ -19174,7 +19260,7 @@
     "sellPrice": 5031,
     "quality": "Uncommon",
     "itemLevel": 42,
-    "requiredLevel": 0,
+    "requiredLevel": 22,
     "slot": "Back",
     "tooltip": [
       {
@@ -19200,7 +19286,8 @@
         {
           "questId": 41685,
           "name": "A Veiled Threat",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 22
         }
       ]
     },
@@ -19217,7 +19304,7 @@
     "sellPrice": 598,
     "quality": "Uncommon",
     "itemLevel": 25,
-    "requiredLevel": 0,
+    "requiredLevel": 14,
     "slot": "Back",
     "tooltip": [
       {
@@ -19249,7 +19336,8 @@
         {
           "questId": 41392,
           "name": "Turning Off The Tap",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 14
         }
       ]
     },
@@ -19347,7 +19435,7 @@
     "sellPrice": 895,
     "quality": "Uncommon",
     "itemLevel": 26,
-    "requiredLevel": 0,
+    "requiredLevel": 18,
     "slot": "Back",
     "tooltip": [
       {
@@ -19376,7 +19464,8 @@
         {
           "questId": 471,
           "name": "Apprentice's Duties",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 18
         }
       ]
     },
@@ -19705,7 +19794,7 @@
     "sellPrice": 984,
     "quality": "Uncommon",
     "itemLevel": 27,
-    "requiredLevel": 0,
+    "requiredLevel": 18,
     "slot": "Back",
     "tooltip": [
       {
@@ -19734,7 +19823,8 @@
         {
           "questId": 1275,
           "name": "Researching the Corruption",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 18
         }
       ]
     },
@@ -19901,7 +19991,7 @@
     "sellPrice": 1356,
     "quality": "Uncommon",
     "itemLevel": 30,
-    "requiredLevel": 0,
+    "requiredLevel": 25,
     "slot": "Back",
     "tooltip": [
       {
@@ -19933,7 +20023,8 @@
         {
           "questId": 2930,
           "name": "Data Rescue",
-          "faction": "Alliance"
+          "faction": "Alliance",
+          "requiredLevel": 25
         }
       ]
     },
@@ -20058,7 +20149,7 @@
     "sellPrice": 11149,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Back",
     "tooltip": [
       {
@@ -20090,7 +20181,8 @@
         {
           "questId": 4024,
           "name": "A Taste of Flame",
-          "faction": "Both"
+          "faction": "Both",
+          "requiredLevel": 52
         }
       ]
     },
@@ -20107,7 +20199,7 @@
     "sellPrice": 11610,
     "quality": "Uncommon",
     "itemLevel": 58,
-    "requiredLevel": 0,
+    "requiredLevel": 52,
     "slot": "Back",
     "tooltip": [
       {
@@ -20133,7 +20225,8 @@
         {
           "questId": 4063,
           "name": "The Rise of the Machines",
-          "faction": "Horde"
+          "faction": "Horde",
+          "requiredLevel": 52
         }
       ]
     },
