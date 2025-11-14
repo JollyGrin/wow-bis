@@ -1,0 +1,131 @@
+[
+  {
+    "itemId": 811,
+    "name": "Axe of the Deep Woods",
+    "icon": "",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 54123,
+    "quality": "Epic",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Axe of the Deep Woods"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "78 - 146  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:811::::::::::0|h[Axe of the Deep Woods]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "axe-of-the-deep-woods"
+  },
+  {
+    "itemId": 1454,
+    "name": "Axe of the Enforcer",
+    "icon": "",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 3937,
+    "quality": "Rare",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Axe of the Enforcer"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "31 - 58  Damage"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:1454::::::::::0|h[Axe of the Enforcer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "axe-of-the-enforcer"
+  },
+  {
+    "itemId": 2815,
+    "name": "Curve-bladed Ripper",
+    "icon": "",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 19778,
+    "quality": "Rare",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Curve-bladed Ripper"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "40 - 75  Damage"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:2815::::::::::0|h[Curve-bladed Ripper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "curve-bladed-ripper"
+  }
+]

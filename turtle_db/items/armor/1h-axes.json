@@ -1,0 +1,89 @@
+[
+  {
+    "itemId": 55035,
+    "name": "Derelict Family Clan Totem",
+    "icon": "inv_jewelry_necklace_02",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 9375,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "relic",
+    "tooltip": [
+      {
+        "label": "Derelict Family Clan Totem"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "relic"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+5 AgilityRequires"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:55035::::::::::0|h[Derelict Family Clan Totem]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "derelict-family-clan-totem"
+  },
+  {
+    "itemId": 19111,
+    "name": "Winteraxe Epaulets",
+    "icon": "inv_shoulder_12",
+    "class": "Weapon",
+    "subclass": "axe",
+    "sellPrice": 24824,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Winteraxe Epaulets"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "278 Armor"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+6 Spirit"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19111::::::::::0|h[Winteraxe Epaulets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "winteraxe-epaulets"
+  }
+]

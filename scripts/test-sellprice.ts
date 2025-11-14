@@ -1,0 +1,94 @@
+import puppeteer from 'puppeteer';
+import { ItemExtractor } from './item-extractor';
+
+async function testSellPrice() {
+  console.log('🧪 Testing sell price extraction...');
+  
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: [
+      '--no-sandbox',
+      '--disable-setuid-sandbox',
+      '--disable-blink-features=AutomationControlled',
+      '--disable-features=VizDisplayCompositor',
+      '--disable-web-security',
+      '--disable-dev-shm-usage',
+    ],
+  });
+  
+  const page = await browser.newPage();
+  
+  // Apply stealth setup
+  await page.setUserAgent(
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  );
+  await page.setExtraHTTPHeaders({
+    Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Accept-Encoding': 'gzip, deflate, br',
+    Connection: 'keep-alive',
+    'Upgrade-Insecure-Requests': '1',
+    'Sec-Fetch-Dest': 'document',
+    'Sec-Fetch-Mode': 'navigate',
+    'Sec-Fetch-Site': 'none',
+  });
+
+  await page.setViewport({ width: 1920, height: 1080 });
+
+  await page.evaluateOnNewDocument(() => {
+    Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+    Object.defineProperty(navigator, 'plugins', {
+      get: () => [1, 2, 3, 4, 5],
+    });
+    Object.defineProperty(navigator, 'languages', {
+      get: () => ['en-US', 'en'],
+    });
+    window.chrome = { runtime: {} };
+  });
+  
+  // Test with item 7002 for quest source
+  const itemId = 7002;
+  console.log(`🔍 Testing item ${itemId} for quest source...`);
+  
+  const result = await ItemExtractor.extractItemDetails(page, itemId);
+  
+  if (result) {
+    console.log(`✅ Item: ${result.name}`);
+    console.log(`🎨 Icon: "${result.icon}"`);
+    console.log(`💰 Sell Price: ${result.sellPrice} copper`);
+    console.log(`📊 Item Level: ${result.itemLevel}`);
+    
+    // Convert copper to gold/silver/copper for readability
+    if (result.sellPrice > 0) {
+      const gold = Math.floor(result.sellPrice / 10000);
+      const silver = Math.floor((result.sellPrice % 10000) / 100);
+      const copper = result.sellPrice % 100;
+      console.log(`💰 Formatted: ${gold}g ${silver}s ${copper}c`);
+    } else {
+      console.log('❌ No sell price found');
+    }
+    
+    if (!result.icon || result.icon === '') {
+      console.log('❌ No icon found');
+    }
+    
+    // Test quest source extraction
+    if (result.source) {
+      console.log(`🔗 Source: ${result.source.category}`);
+      if (result.source.quests) {
+        console.log(`📜 Quests found: ${result.source.quests.length}`);
+        result.source.quests.forEach((quest, idx) => {
+          console.log(`   Quest ${idx + 1}: ${quest.name} (ID: ${quest.questId}, Faction: ${quest.faction})`);
+        });
+      }
+    } else {
+      console.log('❌ No source information found');
+    }
+  } else {
+    console.log('❌ Failed to extract item');
+  }
+  
+  await browser.close();
+}
+
+testSellPrice().catch(console.error);

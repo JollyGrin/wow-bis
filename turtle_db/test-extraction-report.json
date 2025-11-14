@@ -1,0 +1,176 @@
+{
+  "timestamp": "2025-10-18T03:01:38.898Z",
+  "testItems": [
+    2915,
+    18420,
+    19323,
+    61044,
+    22346
+  ],
+  "results": [
+    {
+      "itemId": 2915,
+      "name": "Taran Icebreaker",
+      "icon": "",
+      "class": "Armor",
+      "subclass": "Armor",
+      "sellPrice": 0,
+      "quality": "Common",
+      "itemLevel": 0,
+      "requiredLevel": 0,
+      "slot": "",
+      "tooltip": [
+        {
+          "label": "Taran Icebreaker"
+        }
+      ],
+      "itemLink": "|cffffffff|Hitem:2915::::::::::0|h[Taran Icebreaker]|h|r",
+      "contentPhase": 1,
+      "uniqueName": "taran-icebreaker"
+    },
+    {
+      "itemId": 18420,
+      "name": "Bonecrusher",
+      "icon": "",
+      "class": "Weapon",
+      "subclass": "Mace",
+      "sellPrice": 0,
+      "quality": "Common",
+      "itemLevel": 0,
+      "requiredLevel": 0,
+      "slot": "Two-Hand",
+      "tooltip": [
+        {
+          "label": "Bonecrusher"
+        }
+      ],
+      "source": {
+        "category": "Quest",
+        "quests": [
+          {
+            "questId": 7462,
+            "name": "The Treasure of the Shen'dralar",
+            "faction": "Alliance"
+          },
+          {
+            "questId": 7877,
+            "name": "The Treasure of the Shen'dralar",
+            "faction": "Horde"
+          }
+        ]
+      },
+      "itemLink": "|cffffffff|Hitem:18420::::::::::0|h[Bonecrusher]|h|r",
+      "contentPhase": 1,
+      "uniqueName": "bonecrusher"
+    },
+    {
+      "itemId": 19323,
+      "name": "The Unstoppable Force",
+      "icon": "",
+      "class": "Armor",
+      "subclass": "Armor",
+      "sellPrice": 0,
+      "quality": "Common",
+      "itemLevel": 0,
+      "requiredLevel": 0,
+      "slot": "",
+      "tooltip": [
+        {
+          "label": "The Unstoppable Force"
+        }
+      ],
+      "itemLink": "|cffffffff|Hitem:19323::::::::::0|h[The Unstoppable Force]|h|r",
+      "contentPhase": 1,
+      "uniqueName": "the-unstoppable-force"
+    },
+    {
+      "itemId": 61044,
+      "name": "Gavel of the Northwind",
+      "icon": "",
+      "class": "Weapon",
+      "subclass": "Mace",
+      "sellPrice": 0,
+      "quality": "Common",
+      "itemLevel": 0,
+      "requiredLevel": 0,
+      "slot": "Two-Hand",
+      "tooltip": [
+        {
+          "label": "Gavel of the Northwind"
+        }
+      ],
+      "itemLink": "|cffffffff|Hitem:61044::::::::::0|h[Gavel of the Northwind]|h|r",
+      "contentPhase": 1,
+      "uniqueName": "gavel-of-the-northwind"
+    },
+    {
+      "itemId": 22346,
+      "name": "Monster - Mace2H, Unstoppable Force",
+      "icon": "",
+      "class": "Weapon",
+      "subclass": "Mace",
+      "sellPrice": 0,
+      "quality": "Common",
+      "itemLevel": 0,
+      "requiredLevel": 0,
+      "slot": "Two-Hand",
+      "tooltip": [
+        {
+          "label": "Monster - Mace2H, Unstoppable Force"
+        }
+      ],
+      "itemLink": "|cffffffff|Hitem:22346::::::::::0|h[Monster - Mace2H, Unstoppable Force]|h|r",
+      "contentPhase": 1,
+      "uniqueName": "monster-mace2h-unstoppable-force"
+    }
+  ],
+  "validationResults": [
+    {
+      "itemId": 2915,
+      "name": "Taran Icebreaker",
+      "hasRequiredFields": false,
+      "missingFields": [
+        "slot"
+      ],
+      "dataQuality": "partial"
+    },
+    {
+      "itemId": 18420,
+      "name": "Bonecrusher",
+      "hasRequiredFields": true,
+      "missingFields": [],
+      "dataQuality": "partial"
+    },
+    {
+      "itemId": 19323,
+      "name": "The Unstoppable Force",
+      "hasRequiredFields": false,
+      "missingFields": [
+        "slot"
+      ],
+      "dataQuality": "partial"
+    },
+    {
+      "itemId": 61044,
+      "name": "Gavel of the Northwind",
+      "hasRequiredFields": true,
+      "missingFields": [],
+      "dataQuality": "partial"
+    },
+    {
+      "itemId": 22346,
+      "name": "Monster - Mace2H, Unstoppable Force",
+      "hasRequiredFields": true,
+      "missingFields": [],
+      "dataQuality": "partial"
+    }
+  ],
+  "summary": {
+    "totalTested": 5,
+    "successfulExtractions": 5,
+    "failedExtractions": 0,
+    "averageTooltipLines": 1,
+    "itemsWithSources": 1,
+    "itemsWithQuests": 1
+  }
+}

@@ -1,0 +1,78 @@
+[
+  {
+    "itemId": 156,
+    "name": "Refined Dwarven Necklace",
+    "icon": "inv_belt_18",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 3682,
+    "quality": "Rare",
+    "itemLevel": 40,
+    "requiredLevel": 30,
+    "slot": "Neck",
+    "tooltip": [
+      {
+        "label": "Refined Dwarven Necklace"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Neck"
+      },
+      {
+        "label": "Mace",
+        "format": "alignRight"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+2 StrengthRequires"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:156::::::::::0|h[Refined Dwarven Necklace]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "refined-dwarven-necklace"
+  },
+  {
+    "itemId": 51755,
+    "name": "Rune of the Wildhammer Clan",
+    "icon": "inv_misc_rune_06",
+    "class": "Weapon",
+    "subclass": "Mace",
+    "sellPrice": 13572,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 42,
+    "slot": "Trinket",
+    "tooltip": [
+      {
+        "label": "Rune of the Wildhammer Clan"
+      },
+      {
+        "label": "Trinket"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 60073,
+          "name": "Decimate Their Ranks",
+          "faction": "Alliance",
+          "requiredLevel": 42
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:51755::::::::::0|h[Rune of the Wildhammer Clan]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rune-of-the-wildhammer-clan"
+  }
+]

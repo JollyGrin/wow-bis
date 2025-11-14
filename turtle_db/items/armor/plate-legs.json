@@ -1,0 +1,7823 @@
+[
+  {
+    "itemId": 22477,
+    "name": "Bonescythe Legplates",
+    "icon": "inv_pants_plate_05",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 136418,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Bonescythe Legplates"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "221 Armor"
+      },
+      {
+        "label": "+32 Agility"
+      },
+      {
+        "label": "+25 Stamina"
+      },
+      {
+        "label": "+31 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9078,
+          "name": "Bonescythe Legplates",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22477::::::::::0|h[Bonescythe Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bonescythe-legplates"
+  },
+  {
+    "itemId": 55502,
+    "name": "Iceplated Leggings",
+    "icon": "inv_pants_12",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 71306,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Iceplated Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "175 Armor"
+      },
+      {
+        "label": "+22 Stamina"
+      },
+      {
+        "label": "+21 AgilityDurability"
+      },
+      {
+        "label": "+36 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55502::::::::::0|h[Iceplated Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "iceplated-leggings"
+  },
+  {
+    "itemId": 12945,
+    "name": "Legplates of the Chromatic Defier",
+    "icon": "inv_pants_03",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 42565,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 57,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legplates of the Chromatic Defier"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "364 Armor"
+      },
+      {
+        "label": "+24 Intellect"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+5 Fire"
+      },
+      {
+        "label": "+5 Nature"
+      },
+      {
+        "label": "+5 Frost"
+      },
+      {
+        "label": "+5 Shadow"
+      },
+      {
+        "label": "+5 Arcane"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 5167,
+          "name": "Legplates of the Chromatic Defier",
+          "faction": "Both",
+          "requiredLevel": 57
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:12945::::::::::0|h[Legplates of the Chromatic Defier]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legplates-of-the-chromatic-defier"
+  },
+  {
+    "itemId": 16946,
+    "name": "Legplates of Ten Storms",
+    "icon": "inv_pants_03",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 90773,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legplates of Ten Storms"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "422 Armor"
+      },
+      {
+        "label": "+23 Intellect"
+      },
+      {
+        "label": "+22 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "+10 Arcane"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16946::::::::::0|h[Legplates of Ten Storms]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legplates-of-ten-storms"
+  },
+  {
+    "itemId": 21375,
+    "name": "Stormcaller's Legplates",
+    "icon": "inv_pants_mail_10",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 108479,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Stormcaller's Legplates"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "448 Armor"
+      },
+      {
+        "label": "+23 Intellect"
+      },
+      {
+        "label": "+23 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8624,
+          "name": "Stormcaller's Leggings",
+          "faction": "Horde",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21375::::::::::0|h[Stormcaller's Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormcallers-legplates"
+  },
+  {
+    "itemId": 47134,
+    "name": "Earthfury Legplates",
+    "icon": "inv_ertlegs_v3",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 52346,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Earthfury Legplates"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "369 Armor"
+      },
+      {
+        "label": "+20 Intellect"
+      },
+      {
+        "label": "+21 Stamina"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41515,
+          "name": "Earthfury Legs",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47134::::::::::0|h[Earthfury Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthfury-legplates"
+  },
+  {
+    "itemId": 47177,
+    "name": "Earthshatter Legplates",
+    "icon": "inv_pants_mail_15",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 152688,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Earthshatter Legplates"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "484 Armor"
+      },
+      {
+        "label": "+29 Intellect"
+      },
+      {
+        "label": "+24 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9069,
+          "name": "Earthshatter Legguards",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47177::::::::::0|h[Earthshatter Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthshatter-legplates"
+  },
+  {
+    "itemId": 47189,
+    "name": "Stormhowl Legplates",
+    "icon": "inv_stormhowl_leggings",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 207249,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Stormhowl Legplates"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "504 Armor"
+      },
+      {
+        "label": "+28 Intellect"
+      },
+      {
+        "label": "+22 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 105 / 105"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41617,
+          "name": "Stormhowl Kilt",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47189::::::::::0|h[Stormhowl Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormhowl-legplates"
+  },
+  {
+    "itemId": 58045,
+    "name": "Ancient Legplates",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 5062,
+    "quality": "Rare",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Ancient Legplates"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "216 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+9 Agility"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:58045::::::::::0|h[Ancient Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ancient-legplates"
+  },
+  {
+    "itemId": 19887,
+    "name": "Bloodstained Legplates",
+    "icon": "inv_pants_mail_09",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 50147,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Bloodstained Legplates"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "363 Armor"
+      },
+      {
+        "label": "+24 Agility"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+11 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19887::::::::::0|h[Bloodstained Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodstained-legplates"
+  },
+  {
+    "itemId": 60407,
+    "name": "Legplates of the Raider",
+    "icon": "inv_pants_03",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 25685,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 46,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legplates of the Raider"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "315 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+19 Agility"
+      },
+      {
+        "label": "+14 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40297,
+          "name": "Stop the Dragonflight",
+          "faction": "Horde",
+          "requiredLevel": 46
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:60407::::::::::0|h[Legplates of the Raider]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legplates-of-the-raider"
+  },
+  {
+    "itemId": 61279,
+    "name": "Slateplate Leggings",
+    "icon": "inv_pants_mail_13",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 42725,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Slateplate Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "348 Armor"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "+36 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61279::::::::::0|h[Slateplate Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "slateplate-leggings"
+  },
+  {
+    "itemId": 15616,
+    "name": "Bonelink Legplates",
+    "icon": "inv_pants_01",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 10151,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Bonelink Legplates"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "222 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15616::::::::::0|h[Bonelink Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bonelink-legplates"
+  },
+  {
+    "itemId": 10273,
+    "name": "Masterwork Legplates",
+    "icon": "inv_pants_06",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 29323,
+    "quality": "Uncommon",
+    "itemLevel": 64,
+    "requiredLevel": 59,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Masterwork Legplates"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "299 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10273::::::::::0|h[Masterwork Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "masterwork-legplates"
+  },
+  {
+    "itemId": 15596,
+    "name": "Steadfast Legplates",
+    "icon": "inv_pants_08",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 6909,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 36,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Steadfast Legplates"
+      },
+      {
+        "label": "Requires Level 36"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "205 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15596::::::::::0|h[Steadfast Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "steadfast-legplates"
+  },
+  {
+    "itemId": 14554,
+    "name": "Cloudkeeper Legplates",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 29900,
+    "quality": "Epic",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Cloudkeeper Legplates"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "617 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+20 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:14554::::::::::0|h[Cloudkeeper Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cloudkeeper-legplates"
+  },
+  {
+    "itemId": 16475,
+    "name": "Marshal's Lamellar Legplates",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 23793,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Marshal's Lamellar Legplates"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "703 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+17 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16475::::::::::0|h[Marshal's Lamellar Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "marshals-lamellar-legplates"
+  },
+  {
+    "itemId": 16479,
+    "name": "Marshal's Plate Legguards",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 21856,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Marshal's Plate Legguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "743 Armor"
+      },
+      {
+        "label": "+28 Stamina"
+      },
+      {
+        "label": "+20 StrengthDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16479::::::::::0|h[Marshal's Plate Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "marshals-plate-legguards"
+  },
+  {
+    "itemId": 16543,
+    "name": "General's Plate Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 22782,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "General's Plate Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "743 Armor"
+      },
+      {
+        "label": "+28 Stamina"
+      },
+      {
+        "label": "+20 StrengthDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16543::::::::::0|h[General's Plate Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "generals-plate-leggings"
+  },
+  {
+    "itemId": 16855,
+    "name": "Lawbringer Legplates",
+    "icon": "inv_pants_plate_19",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 33848,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Lawbringer Legplates"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "655 Armor"
+      },
+      {
+        "label": "+18 Intellect"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16855::::::::::0|h[Lawbringer Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-legplates"
+  },
+  {
+    "itemId": 16867,
+    "name": "Legplates of Might",
+    "icon": "inv_pants_plate_17",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 36358,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legplates of Might"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "655 Armor"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+24 Strength"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16867::::::::::0|h[Legplates of Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legplates-of-might"
+  },
+  {
+    "itemId": 16954,
+    "name": "Judgement Legplates",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 56415,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Judgement Legplates"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "749 Armor"
+      },
+      {
+        "label": "+18 Intellect"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "+10 Arcane"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16954::::::::::0|h[Judgement Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-legplates"
+  },
+  {
+    "itemId": 16962,
+    "name": "Legplates of Wrath",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 59652,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legplates of Wrath"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "749 Armor"
+      },
+      {
+        "label": "+27 Stamina"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "+10 Arcane"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16962::::::::::0|h[Legplates of Wrath]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legplates-of-wrath"
+  },
+  {
+    "itemId": 17013,
+    "name": "Dark Iron Leggings",
+    "icon": "inv_pants_plate_07",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17013,
+    "quality": "Epic",
+    "itemLevel": 70,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Dark Iron Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "842 Armor"
+      },
+      {
+        "label": "+21 Stamina"
+      },
+      {
+        "label": "+35 Fire"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:17013::::::::::0|h[Dark Iron Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dark-iron-leggings"
+  },
+  {
+    "itemId": 18861,
+    "name": "Flamewaker Legplates",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 28493,
+    "quality": "Epic",
+    "itemLevel": 68,
+    "requiredLevel": 56,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Flamewaker Legplates"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "674 Armor"
+      },
+      {
+        "label": "+22 Stamina"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+11 Fire"
+      },
+      {
+        "label": "+11 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18861::::::::::0|h[Flamewaker Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "flamewaker-legplates"
+  },
+  {
+    "itemId": 19402,
+    "name": "Legguards of the Fallen Crusader",
+    "icon": "inv_pants_plate_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 55609,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legguards of the Fallen Crusader"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "740 Armor"
+      },
+      {
+        "label": "+35 Strength"
+      },
+      {
+        "label": "+20 Agility"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19402::::::::::0|h[Legguards of the Fallen Crusader]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legguards-of-the-fallen-crusader"
+  },
+  {
+    "itemId": 19855,
+    "name": "Bloodsoaked Legplates",
+    "icon": "inv_pants_plate_21",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 39665,
+    "quality": "Epic",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Bloodsoaked Legplates"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "674 Armor"
+      },
+      {
+        "label": "+36 Strength"
+      },
+      {
+        "label": "+21 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19855::::::::::0|h[Bloodsoaked Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodsoaked-legplates"
+  },
+  {
+    "itemId": 20639,
+    "name": "Strangely Glyphed Legplates",
+    "icon": "inv_pants_plate_05",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 46989,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Strangely Glyphed Legplates"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "749 Armor"
+      },
+      {
+        "label": "+21 Strength"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+22 Intellect"
+      },
+      {
+        "label": "+13 Spirit"
+      },
+      {
+        "label": "+21 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20639::::::::::0|h[Strangely Glyphed Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "strangely-glyphed-legplates"
+  },
+  {
+    "itemId": 20671,
+    "name": "Abyssal Plate Legplates",
+    "icon": "inv_pants_plate_12",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 20984,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Abyssal Plate Legplates"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "566 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20671::::::::::0|h[Abyssal Plate Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "abyssal-plate-legplates"
+  },
+  {
+    "itemId": 21332,
+    "name": "Conqueror's Legguards",
+    "icon": "inv_pants_plate_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 71529,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Conqueror's Legguards"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "796 Armor"
+      },
+      {
+        "label": "+21 Agility"
+      },
+      {
+        "label": "+33 Strength"
+      },
+      {
+        "label": "+24 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8560,
+          "name": "Conqueror's Legguards",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21332::::::::::0|h[Conqueror's Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "conquerors-legguards"
+  },
+  {
+    "itemId": 21390,
+    "name": "Avenger's Leggings",
+    "icon": "inv_pants_plate_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 70952,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Avenger's Leggings"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "796 Armor"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+21 Strength"
+      },
+      {
+        "label": "+22 Intellect"
+      },
+      {
+        "label": "+23 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8629,
+          "name": "Avenger's Legguards",
+          "faction": "Alliance",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21390::::::::::0|h[Avenger's Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "avengers-leggings"
+  },
+  {
+    "itemId": 21667,
+    "name": "Legplates of Blazing Light",
+    "icon": "inv_pants_plate_11",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 55193,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legplates of Blazing Light"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "749 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+23 Intellect"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21667::::::::::0|h[Legplates of Blazing Light]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legplates-of-blazing-light"
+  },
+  {
+    "itemId": 22000,
+    "name": "Legplates of Heroism",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 26786,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legplates of Heroism"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "598 Armor"
+      },
+      {
+        "label": "+25 Strength"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+11 AgilityDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8959,
+          "name": "Anthion's Parting Words",
+          "faction": "Alliance",
+          "requiredLevel": 58
+        },
+        {
+          "questId": 9022,
+          "name": "Anthion's Parting Words",
+          "faction": "Horde",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22000::::::::::0|h[Legplates of Heroism]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legplates-of-heroism"
+  },
+  {
+    "itemId": 22092,
+    "name": "Soulforge Legplates",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 26692,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Soulforge Legplates"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "598 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+17 Intellect"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8954,
+          "name": "Anthion's Parting Words",
+          "faction": "Alliance",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22092::::::::::0|h[Soulforge Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "soulforge-legplates"
+  },
+  {
+    "itemId": 22385,
+    "name": "Titanic Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 25276,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Titanic Leggings"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "598 Armor"
+      },
+      {
+        "label": "+23 Strength"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:22385::::::::::0|h[Titanic Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "titanic-leggings"
+  },
+  {
+    "itemId": 22417,
+    "name": "Dreadnaught Legplates",
+    "icon": "inv_pants_plate_05",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 106420,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Dreadnaught Legplates"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "861 Armor"
+      },
+      {
+        "label": "+23 Strength"
+      },
+      {
+        "label": "+37 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9036,
+          "name": "Dreadnaught Legplates",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22417::::::::::0|h[Dreadnaught Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadnaught-legplates"
+  },
+  {
+    "itemId": 22427,
+    "name": "Redemption Pants",
+    "icon": "inv_pants_mail_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 102583,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Redemption Pants"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "861 Armor"
+      },
+      {
+        "label": "+30 Stamina"
+      },
+      {
+        "label": "+31 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9044,
+          "name": "Redemption Legguards",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22427::::::::::0|h[Redemption Pants]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-pants"
+  },
+  {
+    "itemId": 22651,
+    "name": "Outrider's Plate Legguards",
+    "icon": "inv_pants_plate_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 33147,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Outrider's Plate Legguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "703 Armor"
+      },
+      {
+        "label": "+31 Strength"
+      },
+      {
+        "label": "+30 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:22651::::::::::0|h[Outrider's Plate Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "outriders-plate-legguards"
+  },
+  {
+    "itemId": 22672,
+    "name": "Sentinel's Plate Legguards",
+    "icon": "inv_pants_plate_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 33269,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Sentinel's Plate Legguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "703 Armor"
+      },
+      {
+        "label": "+31 Strength"
+      },
+      {
+        "label": "+30 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:22672::::::::::0|h[Sentinel's Plate Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sentinels-plate-legguards"
+  },
+  {
+    "itemId": 22699,
+    "name": "Icebane Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 72832,
+    "quality": "Epic",
+    "itemLevel": 80,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Icebane Leggings"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "787 Armor"
+      },
+      {
+        "label": "+25 Stamina"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+40 Frost"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9232,
+          "name": "The Only Song I Know...",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22699::::::::::0|h[Icebane Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "icebane-leggings"
+  },
+  {
+    "itemId": 22753,
+    "name": "Sentinel's Lamellar Legguards",
+    "icon": "inv_pants_plate_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 34271,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Sentinel's Lamellar Legguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "703 Armor"
+      },
+      {
+        "label": "+24 Strength"
+      },
+      {
+        "label": "+24 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:22753::::::::::0|h[Sentinel's Lamellar Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sentinels-lamellar-legguards"
+  },
+  {
+    "itemId": 23068,
+    "name": "Legplates of Carnage",
+    "icon": "inv_pants_plate_20",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 81297,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legplates of Carnage"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "815 Armor"
+      },
+      {
+        "label": "+42 Strength"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:23068::::::::::0|h[Legplates of Carnage]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legplates-of-carnage"
+  },
+  {
+    "itemId": 23668,
+    "name": "Leggings of the Grand Crusader",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 87950,
+    "quality": "Epic",
+    "itemLevel": 80,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Leggings of the Grand Crusader"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "787 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+21 Intellect"
+      },
+      {
+        "label": "+20 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:23668::::::::::0|h[Leggings of the Grand Crusader]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "leggings-of-the-grand-crusader"
+  },
+  {
+    "itemId": 47006,
+    "name": "Lawbringer Legguards",
+    "icon": "inv_lawlegs_v3",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 33848,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Lawbringer Legguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "655 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+22 Stamina"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+6 Spirit"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41499,
+          "name": "Lawbringer's Legs",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47006::::::::::0|h[Lawbringer Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-legguards"
+  },
+  {
+    "itemId": 47014,
+    "name": "Lawbringer Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 42310,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Lawbringer Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "655 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+10 Spirit"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41499,
+          "name": "Lawbringer's Legs",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47014::::::::::0|h[Lawbringer Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-leggings"
+  },
+  {
+    "itemId": 47022,
+    "name": "Judgement Legguards",
+    "icon": "inv_judlegs_v3",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 70519,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Judgement Legguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "749 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+30 Stamina"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+7 Spirit"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41491,
+          "name": "Judgement's Legs",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47022::::::::::0|h[Judgement Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-legguards"
+  },
+  {
+    "itemId": 47030,
+    "name": "Judgement Leggings",
+    "icon": "inv_judlegs_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 70519,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Judgement Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "749 Armor"
+      },
+      {
+        "label": "+25 Strength"
+      },
+      {
+        "label": "+18 Agility"
+      },
+      {
+        "label": "+14 Intellect"
+      },
+      {
+        "label": "+12 Spirit"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41491,
+          "name": "Judgement's Legs",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47030::::::::::0|h[Judgement Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-leggings"
+  },
+  {
+    "itemId": 47035,
+    "name": "Avenger's Legguards",
+    "icon": "inv_pants_plate_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 88690,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Avenger's Legguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "796 Armor"
+      },
+      {
+        "label": "+25 Agility"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+26 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8629,
+          "name": "Avenger's Legguards",
+          "faction": "Alliance",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47035::::::::::0|h[Avenger's Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "avengers-legguards"
+  },
+  {
+    "itemId": 47040,
+    "name": "Avenger's Legplates",
+    "icon": "inv_pants_plate_02",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 88690,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Avenger's Legplates"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "796 Armor"
+      },
+      {
+        "label": "+22 Intellect"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+22 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8629,
+          "name": "Avenger's Legguards",
+          "faction": "Alliance",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47040::::::::::0|h[Avenger's Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "avengers-legplates"
+  },
+  {
+    "itemId": 47048,
+    "name": "Redemption Legguards",
+    "icon": "inv_pants_mail_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 128228,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Redemption Legguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "861 Armor"
+      },
+      {
+        "label": "+22 Agility"
+      },
+      {
+        "label": "+37 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9044,
+          "name": "Redemption Legguards",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47048::::::::::0|h[Redemption Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-legguards"
+  },
+  {
+    "itemId": 47057,
+    "name": "Redemption Leggings",
+    "icon": "inv_pants_mail_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 128228,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Redemption Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "861 Armor"
+      },
+      {
+        "label": "+25 Strength"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+15 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9044,
+          "name": "Redemption Legguards",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47057::::::::::0|h[Redemption Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-leggings"
+  },
+  {
+    "itemId": 47063,
+    "name": "Lionheart Legplates",
+    "icon": "inv_lionheart_leggings",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 103866,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Lionheart Legplates"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "898 Armor"
+      },
+      {
+        "label": "+31 Stamina"
+      },
+      {
+        "label": "+32 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41629,
+          "name": "Lionheart Legs",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47063::::::::::0|h[Lionheart Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lionheart-legplates"
+  },
+  {
+    "itemId": 47069,
+    "name": "Lionheart Legguards",
+    "icon": "inv_lionheart_leggings",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 103866,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Lionheart Legguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "898 Armor"
+      },
+      {
+        "label": "+29 Agility"
+      },
+      {
+        "label": "+32 Stamina"
+      },
+      {
+        "label": "+28 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41629,
+          "name": "Lionheart Legs",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47069::::::::::0|h[Lionheart Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lionheart-legguards"
+  },
+  {
+    "itemId": 47075,
+    "name": "Lionheart Leggings",
+    "icon": "inv_lionheart_leggings",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 103866,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Lionheart Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "898 Armor"
+      },
+      {
+        "label": "+24 Strength"
+      },
+      {
+        "label": "+23 Agility"
+      },
+      {
+        "label": "+26 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41629,
+          "name": "Lionheart Legs",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47075::::::::::0|h[Lionheart Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lionheart-leggings"
+  },
+  {
+    "itemId": 47246,
+    "name": "Leggings of Might",
+    "icon": "inv_miglegs_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 45448,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Leggings of Might"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "655 Armor"
+      },
+      {
+        "label": "+22 Stamina"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "+52 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41448,
+          "name": "Legs of Might",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47246::::::::::0|h[Leggings of Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "leggings-of-might"
+  },
+  {
+    "itemId": 47254,
+    "name": "Leggings of Wrath",
+    "icon": "inv_wralegs_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 74565,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Leggings of Wrath"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "749 Armor"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "+10 Arcane"
+      },
+      {
+        "label": "+50 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41440,
+          "name": "Legs of Wrath",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47254::::::::::0|h[Leggings of Wrath]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "leggings-of-wrath"
+  },
+  {
+    "itemId": 47259,
+    "name": "Conqueror's Leggings",
+    "icon": "inv_pants_plate_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 89411,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Conqueror's Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "796 Armor"
+      },
+      {
+        "label": "+31 Strength"
+      },
+      {
+        "label": "+26 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:47259::::::::::0|h[Conqueror's Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "conquerors-leggings"
+  },
+  {
+    "itemId": 47267,
+    "name": "Dreadnaught Leggings",
+    "icon": "inv_pants_plate_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 133025,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Dreadnaught Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "861 Armor"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+19 SpiritDurability"
+      },
+      {
+        "label": "+72 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9036,
+          "name": "Dreadnaught Legplates",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47267::::::::::0|h[Dreadnaught Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadnaught-leggings"
+  },
+  {
+    "itemId": 47273,
+    "name": "Legguards of the Brotherhood",
+    "icon": "inv_legguard_of_the_brotherhood",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 103866,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legguards of the Brotherhood"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "898 Armor"
+      },
+      {
+        "label": "+43 Strength"
+      },
+      {
+        "label": "+16 Agility"
+      },
+      {
+        "label": "+32 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41593,
+          "name": "Pants of the Brotherhood",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47273::::::::::0|h[Legguards of the Brotherhood]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legguards-of-the-brotherhood"
+  },
+  {
+    "itemId": 51775,
+    "name": "Legguards of the Dark Reaver",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9114,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legguards of the Dark Reaver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "655 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+10 Arcane"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:51775::::::::::0|h[Legguards of the Dark Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legguards-of-the-dark-reaver"
+  },
+  {
+    "itemId": 55058,
+    "name": "Rune-Inscribed Plate Leggings",
+    "icon": "inv_pants_plate_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 45000,
+    "quality": "Epic",
+    "itemLevel": 70,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Rune-Inscribed Plate Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "655 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+22 Frost"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55058::::::::::0|h[Rune-Inscribed Plate Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rune-inscribed-plate-leggings"
+  },
+  {
+    "itemId": 55099,
+    "name": "Leysteel Legplates",
+    "icon": "inv_pants_plate_18",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 133025,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Leysteel Legplates"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "861 Armor"
+      },
+      {
+        "label": "+32 Strength"
+      },
+      {
+        "label": "+37 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55099::::::::::0|h[Leysteel Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "leysteel-legplates"
+  },
+  {
+    "itemId": 60360,
+    "name": "Bloody Gladiator's Legguards",
+    "icon": "inv_pants_plate_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13792,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Bloody Gladiator's Legguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "668 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "+24 Attack"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60360::::::::::0|h[Bloody Gladiator's Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloody-gladiators-legguards"
+  },
+  {
+    "itemId": 61365,
+    "name": "Dreamsteel Leggings",
+    "icon": "inv_pants_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 34688,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Dreamsteel Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "648 Armor"
+      },
+      {
+        "label": "+36 Strength"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "+18 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61365::::::::::0|h[Dreamsteel Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreamsteel-leggings"
+  },
+  {
+    "itemId": 83466,
+    "name": "Baneforged Leggings",
+    "icon": "inv_pants_plate_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 24367,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Baneforged Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "582 Armor"
+      },
+      {
+        "label": "+26 Strength"
+      },
+      {
+        "label": "+18 Agility"
+      },
+      {
+        "label": "+12 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83466::::::::::0|h[Baneforged Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "baneforged-leggings"
+  },
+  {
+    "itemId": 8318,
+    "name": "Alabaster Plate Leggings",
+    "icon": "inv_pants_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12926,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Alabaster Plate Leggings"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "467 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+3 Stamina"
+      },
+      {
+        "label": "+16 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8318::::::::::0|h[Alabaster Plate Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "alabaster-plate-leggings"
+  },
+  {
+    "itemId": 10633,
+    "name": "Silvershell Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11684,
+    "quality": "Rare",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Silvershell Leggings"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "470 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+10 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:10633::::::::::0|h[Silvershell Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "silvershell-leggings"
+  },
+  {
+    "itemId": 11802,
+    "name": "Lavacrest Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17976,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Lavacrest Leggings"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "531 Armor"
+      },
+      {
+        "label": "+28 Strength"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11802::::::::::0|h[Lavacrest Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lavacrest-leggings"
+  },
+  {
+    "itemId": 11910,
+    "name": "Bejeweled Legguards",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12345,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Bejeweled Legguards"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "459 Armor"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+8 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 4491,
+          "name": "A Little Help From My Friends",
+          "faction": "Both",
+          "requiredLevel": 50
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:11910::::::::::0|h[Bejeweled Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bejeweled-legguards"
+  },
+  {
+    "itemId": 11927,
+    "name": "Legplates of the Eternal Guardian",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 16456,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legplates of the Eternal Guardian"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "742 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11927::::::::::0|h[Legplates of the Eternal Guardian]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legplates-of-the-eternal-guardian"
+  },
+  {
+    "itemId": 12619,
+    "name": "Enchanted Thorium Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 24058,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Enchanted Thorium Leggings"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "575 Armor"
+      },
+      {
+        "label": "+21 Stamina"
+      },
+      {
+        "label": "+20 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12619::::::::::0|h[Enchanted Thorium Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "enchanted-thorium-leggings"
+  },
+  {
+    "itemId": 12935,
+    "name": "Warmaster Legguards",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 23196,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Warmaster Legguards"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "575 Armor"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+13 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12935::::::::::0|h[Warmaster Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warmaster-legguards"
+  },
+  {
+    "itemId": 13074,
+    "name": "Golem Shard Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8024,
+    "quality": "Rare",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Golem Shard Leggings"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "429 Armor"
+      },
+      {
+        "label": "+22 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13074::::::::::0|h[Golem Shard Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "golem-shard-leggings"
+  },
+  {
+    "itemId": 13075,
+    "name": "Direwing Legguards",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 22090,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Direwing Legguards"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "575 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+16 Spirit"
+      },
+      {
+        "label": "+15 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13075::::::::::0|h[Direwing Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "direwing-legguards"
+  },
+  {
+    "itemId": 13498,
+    "name": "Handcrafted Mastersmith Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 19890,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Handcrafted Mastersmith Leggings"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "548 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+29 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13498::::::::::0|h[Handcrafted Mastersmith Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "handcrafted-mastersmith-leggings"
+  },
+  {
+    "itemId": 14623,
+    "name": "Deathbone Legguards",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 20503,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Deathbone Legguards"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "557 Armor"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "+15 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:14623::::::::::0|h[Deathbone Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "deathbone-legguards"
+  },
+  {
+    "itemId": 14953,
+    "name": "Bloodforged Legplates",
+    "icon": "inv_pants_06",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 9158,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Bloodforged Legplates"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "413 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14953::::::::::0|h[Bloodforged Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodforged-legplates"
+  },
+  {
+    "itemId": 16431,
+    "name": "Knight-Captain's Plate Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11606,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Knight-Captain's Plate Leggings"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "575 Armor"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16431::::::::::0|h[Knight-Captain's Plate Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knight-captains-plate-leggings"
+  },
+  {
+    "itemId": 16435,
+    "name": "Knight-Captain's Lamellar Leggings",
+    "icon": "inv_pants_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11775,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Knight-Captain's Lamellar Leggings"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "575 Armor"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16435::::::::::0|h[Knight-Captain's Lamellar Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knight-captains-lamellar-leggings"
+  },
+  {
+    "itemId": 16515,
+    "name": "Legionnaire's Plate Legguards",
+    "icon": "inv_pants_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12075,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legionnaire's Plate Legguards"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "575 Armor"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16515::::::::::0|h[Legionnaire's Plate Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legionnaires-plate-legguards"
+  },
+  {
+    "itemId": 16728,
+    "name": "Lightforge Legplates",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 20354,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Lightforge Legplates"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "557 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+9 Spirit"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16728::::::::::0|h[Lightforge Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lightforge-legplates"
+  },
+  {
+    "itemId": 16732,
+    "name": "Legplates of Valor",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 21213,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legplates of Valor"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "557 Armor"
+      },
+      {
+        "label": "+23 Strength"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+11 Agility"
+      },
+      {
+        "label": "+4 SpiritDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16732::::::::::0|h[Legplates of Valor]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legplates-of-valor"
+  },
+  {
+    "itemId": 17711,
+    "name": "Elemental Rockridge Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14244,
+    "quality": "Rare",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Elemental Rockridge Leggings"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "496 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+10 Nature"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:17711::::::::::0|h[Elemental Rockridge Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "elemental-rockridge-leggings"
+  },
+  {
+    "itemId": 18305,
+    "name": "Breakwater Legguards",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14375,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Breakwater Legguards"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "483 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:18305::::::::::0|h[Breakwater Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "breakwater-legguards"
+  },
+  {
+    "itemId": 18380,
+    "name": "Eldritch Reinforced Legplates",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 21135,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Eldritch Reinforced Legplates"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "566 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+9 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18380::::::::::0|h[Eldritch Reinforced Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "eldritch-reinforced-legplates"
+  },
+  {
+    "itemId": 18690,
+    "name": "Wraithplate Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 22026,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Wraithplate Leggings"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "696 Armor"
+      },
+      {
+        "label": "+25 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18690::::::::::0|h[Wraithplate Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wraithplate-leggings"
+  },
+  {
+    "itemId": 18739,
+    "name": "Chitinous Plate Legguards",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 20124,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Chitinous Plate Legguards"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "557 Armor"
+      },
+      {
+        "label": "+20 Intellect"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18739::::::::::0|h[Chitinous Plate Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chitinous-plate-legguards"
+  },
+  {
+    "itemId": 19694,
+    "name": "Darksoul Leggings",
+    "icon": "inv_pants_plate_21",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 24286,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Darksoul Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "722 Armor"
+      },
+      {
+        "label": "+22 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19694::::::::::0|h[Darksoul Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "darksoul-leggings"
+  },
+  {
+    "itemId": 20247,
+    "name": "90 Green Warrior Legplates",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 70650,
+    "quality": "Uncommon",
+    "itemLevel": 90,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "90 Green Warrior Legplates"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "733 Armor"
+      },
+      {
+        "label": "+27 Stamina"
+      },
+      {
+        "label": "+28 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20247::::::::::0|h[90 Green Warrior Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "90-green-warrior-legplates"
+  },
+  {
+    "itemId": 20266,
+    "name": "Peacekeeper Leggings",
+    "icon": "inv_pants_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 28870,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Peacekeeper Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "618 Armor"
+      },
+      {
+        "label": "+18 Intellect"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20266::::::::::0|h[Peacekeeper Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "peacekeeper-leggings"
+  },
+  {
+    "itemId": 20287,
+    "name": "63 Green Warrior Legplates",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 19426,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "63 Green Warrior Legplates"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "522 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+19 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20287::::::::::0|h[63 Green Warrior Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "63-green-warrior-legplates"
+  },
+  {
+    "itemId": 20699,
+    "name": "Cenarion Reservist's Legplates",
+    "icon": "inv_pants_plate_18",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 22708,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Cenarion Reservist's Legplates"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "575 Armor"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+25 Nature"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8316,
+          "name": "Armaments of War",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:20699::::::::::0|h[Cenarion Reservist's Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cenarion-reservists-legplates"
+  },
+  {
+    "itemId": 20700,
+    "name": "Cenarion Reservist's Legplates",
+    "icon": "inv_pants_plate_18",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 21968,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Cenarion Reservist's Legplates"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "575 Armor"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+25 Nature"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8376,
+          "name": "Armaments of War",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:20700::::::::::0|h[Cenarion Reservist's Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cenarion-reservists-legplates"
+  },
+  {
+    "itemId": 21475,
+    "name": "Legplates of the Destroyer",
+    "icon": "inv_pants_plate_01",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 40611,
+    "quality": "Rare",
+    "itemLevel": 74,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legplates of the Destroyer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "670 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+18 Intellect"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:21475::::::::::0|h[Legplates of the Destroyer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legplates-of-the-destroyer"
+  },
+  {
+    "itemId": 21495,
+    "name": "Legplates of the Qiraji Command",
+    "icon": "inv_pants_plate_15",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 35075,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legplates of the Qiraji Command"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "644 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:21495::::::::::0|h[Legplates of the Qiraji Command]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legplates-of-the-qiraji-command"
+  },
+  {
+    "itemId": 22328,
+    "name": "Legplates of Vigilance",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 22208,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legplates of Vigilance"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "575 Armor"
+      },
+      {
+        "label": "+22 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22328::::::::::0|h[Legplates of Vigilance]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legplates-of-vigilance"
+  },
+  {
+    "itemId": 22873,
+    "name": "Legionnaire's Plate Leggings",
+    "icon": "inv_pants_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14175,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legionnaire's Plate Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "618 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+12 StrengthDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22873::::::::::0|h[Legionnaire's Plate Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legionnaires-plate-leggings"
+  },
+  {
+    "itemId": 23273,
+    "name": "Knight-Captain's Lamellar Leggings",
+    "icon": "inv_pants_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14222,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Knight-Captain's Lamellar Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "618 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+12 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23273::::::::::0|h[Knight-Captain's Lamellar Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knight-captains-lamellar-leggings"
+  },
+  {
+    "itemId": 23301,
+    "name": "Knight-Captain's Plate Leggings",
+    "icon": "inv_pants_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 15042,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Knight-Captain's Plate Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "618 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+12 StrengthDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23301::::::::::0|h[Knight-Captain's Plate Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knight-captains-plate-leggings"
+  },
+  {
+    "itemId": 55533,
+    "name": "Reflective Leggings",
+    "icon": "inv_pants_mail_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 54601,
+    "quality": "Rare",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Reflective Leggings"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "700 Armor"
+      },
+      {
+        "label": "+28 Stamina"
+      },
+      {
+        "label": "+30 Arcane"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:55533::::::::::0|h[Reflective Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "reflective-leggings"
+  },
+  {
+    "itemId": 58228,
+    "name": "Leggings of the Redeemer",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 33119,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Leggings of the Redeemer"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "575 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:58228::::::::::0|h[Leggings of the Redeemer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "leggings-of-the-redeemer"
+  },
+  {
+    "itemId": 60289,
+    "name": "Rune-Etched Legplates",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 24807,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Rune-Etched Legplates"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "575 Armor"
+      },
+      {
+        "label": "+22 Strength"
+      },
+      {
+        "label": "+15 Agility"
+      },
+      {
+        "label": "+5 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60289::::::::::0|h[Rune-Etched Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rune-etched-legplates"
+  },
+  {
+    "itemId": 60434,
+    "name": "Greaves of the Elite Guard",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14476,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Greaves of the Elite Guard"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "603 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+9 Agility"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60434::::::::::0|h[Greaves of the Elite Guard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "greaves-of-the-elite-guard"
+  },
+  {
+    "itemId": 61035,
+    "name": "Legguards of the Last Stand",
+    "icon": "inv_pants_plate_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 22512,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Legguards of the Last Stand"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "598 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+6 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61035::::::::::0|h[Legguards of the Last Stand]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "legguards-of-the-last-stand"
+  },
+  {
+    "itemId": 61058,
+    "name": "Leggings of the Nullifier",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 24327,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Leggings of the Nullifier"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "593 Armor"
+      },
+      {
+        "label": "+22 Stamina"
+      },
+      {
+        "label": "+20 Arcane"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61058::::::::::0|h[Leggings of the Nullifier]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "leggings-of-the-nullifier"
+  },
+  {
+    "itemId": 61244,
+    "name": "Leggings of Shrouding Winds",
+    "icon": "inv_pants_plate_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 27787,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Leggings of Shrouding Winds"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "618 Armor"
+      },
+      {
+        "label": "+14 Intellect"
+      },
+      {
+        "label": "+21 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61244::::::::::0|h[Leggings of Shrouding Winds]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "leggings-of-shrouding-winds"
+  },
+  {
+    "itemId": 61591,
+    "name": "Leggings of the Elite Guard",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 28567,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Leggings of the Elite Guard"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "575 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+22 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61591::::::::::0|h[Leggings of the Elite Guard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "leggings-of-the-elite-guard"
+  },
+  {
+    "itemId": 70053,
+    "name": "Rotworm Legplates",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 34212,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 59,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Rotworm Legplates"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "648 Armor"
+      },
+      {
+        "label": "+11 Agility"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+10 Nature"
+      },
+      {
+        "label": "+5 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 115 / 115"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:70053::::::::::0|h[Rotworm Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rotworm-legplates"
+  },
+  {
+    "itemId": 70060,
+    "name": "Greaves of Servitude",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 34212,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 59,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Greaves of Servitude"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "642 Armor"
+      },
+      {
+        "label": "+15 Shadow"
+      },
+      {
+        "label": "+5 Arcane"
+      },
+      {
+        "label": "+78 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 115 / 115"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:70060::::::::::0|h[Greaves of Servitude]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "greaves-of-servitude"
+  },
+  {
+    "itemId": 80183,
+    "name": "Chausses of the Damned",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 0,
+    "quality": "Rare",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Chausses of the Damned"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80183::::::::::0|h[Chausses of the Damned]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chausses-of-the-damned"
+  },
+  {
+    "itemId": 80511,
+    "name": "Quel'dorei Guardian's Legplates",
+    "icon": "inv_pants_03",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 10295,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Quel'dorei Guardian's Legplates"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "593 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+13 Agility"
+      },
+      {
+        "label": "+19 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80511::::::::::0|h[Quel'dorei Guardian's Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "queldorei-guardians-legplates"
+  },
+  {
+    "itemId": 80611,
+    "name": "Revantusk Watcher's Legplates",
+    "icon": "inv_pants_leather_07",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 10295,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Revantusk Watcher's Legplates"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "593 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+13 Agility"
+      },
+      {
+        "label": "+19 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80611::::::::::0|h[Revantusk Watcher's Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revantusk-watchers-legplates"
+  },
+  {
+    "itemId": 81056,
+    "name": "Greaves of the Dark Reaver",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5262,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 60,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Greaves of the Dark Reaver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "612 Armor"
+      },
+      {
+        "label": "+27 Strength"
+      },
+      {
+        "label": "+16 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81056::::::::::0|h[Greaves of the Dark Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "greaves-of-the-dark-reaver"
+  },
+  {
+    "itemId": 81123,
+    "name": "Crimson Defender's Leggings",
+    "icon": "inv_pants_mail_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5337,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Crimson Defender's Leggings"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "557 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81123::::::::::0|h[Crimson Defender's Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crimson-defenders-leggings"
+  },
+  {
+    "itemId": 81355,
+    "name": "Fallen Crusader Legguards",
+    "icon": "inv_pants_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16422,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Fallen Crusader Legguards"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "463 Armor"
+      },
+      {
+        "label": "+22 Strength"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+9 Spirit"
+      },
+      {
+        "label": "+15 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81355::::::::::0|h[Fallen Crusader Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fallen-crusader-legguards"
+  },
+  {
+    "itemId": 3243,
+    "name": "OLDMonster - Legs, Plate Silver",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 0,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "OLDMonster - Legs, Plate Silver"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "34 Armor"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3243::::::::::0|h[OLDMonster - Legs, Plate Silver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "oldmonster-legs-plate-silver"
+  },
+  {
+    "itemId": 7921,
+    "name": "Heavy Mithril Pants",
+    "icon": "inv_pants_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5387,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 40,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Heavy Mithril Pants"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "417 Armor"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7921::::::::::0|h[Heavy Mithril Pants]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-mithril-pants"
+  },
+  {
+    "itemId": 7926,
+    "name": "Ornate Mithril Pants",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5952,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 40,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Ornate Mithril Pants"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "375 Armor"
+      },
+      {
+        "label": "+12 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2772,
+          "name": "The World At Your Feet",
+          "faction": "Both",
+          "requiredLevel": 40
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:7926::::::::::0|h[Ornate Mithril Pants]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ornate-mithril-pants"
+  },
+  {
+    "itemId": 8085,
+    "name": "Light Plate Pants",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5253,
+    "quality": "Poor",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Light Plate Pants"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "413 Armor"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:8085::::::::::0|h[Light Plate Pants]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "light-plate-pants"
+  },
+  {
+    "itemId": 8093,
+    "name": "Platemail Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5437,
+    "quality": "Common",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Platemail Leggings"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "399 Armor"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:8093::::::::::0|h[Platemail Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "platemail-leggings"
+  },
+  {
+    "itemId": 8143,
+    "name": "Chromite Legplates",
+    "icon": "inv_pants_03",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 7227,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Chromite Legplates"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "390 Armor"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+12 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8143::::::::::0|h[Chromite Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chromite-legplates"
+  },
+  {
+    "itemId": 8162,
+    "name": "Jouster's Legplates",
+    "icon": "inv_pants_03",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 4900,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 40,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Jouster's Legplates"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "263 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+11 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8162::::::::::0|h[Jouster's Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jousters-legplates"
+  },
+  {
+    "itemId": 8280,
+    "name": "Valorous Legguards",
+    "icon": "inv_pants_12",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8503,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Valorous Legguards"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "413 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+13 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8280::::::::::0|h[Valorous Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "valorous-legguards"
+  },
+  {
+    "itemId": 9291,
+    "name": "Field Plate Leggings",
+    "icon": "inv_pants_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5286,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Field Plate Leggings"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "334 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9291::::::::::0|h[Field Plate Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "field-plate-leggings"
+  },
+  {
+    "itemId": 9970,
+    "name": "Embossed Plate Leggings",
+    "icon": "inv_pants_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5730,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 40,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Embossed Plate Leggings"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "375 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9970::::::::::0|h[Embossed Plate Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "embossed-plate-leggings"
+  },
+  {
+    "itemId": 10091,
+    "name": "Gothic Plate Leggings",
+    "icon": "inv_pants_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7441,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Gothic Plate Leggings"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "397 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10091::::::::::0|h[Gothic Plate Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gothic-plate-leggings"
+  },
+  {
+    "itemId": 10133,
+    "name": "Revenant Leggings",
+    "icon": "inv_pants_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10792,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Revenant Leggings"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "435 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10133::::::::::0|h[Revenant Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revenant-leggings"
+  },
+  {
+    "itemId": 10169,
+    "name": "Templar Legplates",
+    "icon": "inv_pants_06",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 14230,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Templar Legplates"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "475 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10169::::::::::0|h[Templar Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "templar-legplates"
+  },
+  {
+    "itemId": 10208,
+    "name": "Overlord's Legplates",
+    "icon": "inv_pants_01",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 9586,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Overlord's Legplates"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "420 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10208::::::::::0|h[Overlord's Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "overlords-legplates"
+  },
+  {
+    "itemId": 10244,
+    "name": "Heavy Lamellar Leggings",
+    "icon": "inv_pants_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12039,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Heavy Lamellar Leggings"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "451 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10244::::::::::0|h[Heavy Lamellar Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-lamellar-leggings"
+  },
+  {
+    "itemId": 10280,
+    "name": "Emerald Legplates",
+    "icon": "inv_pants_03",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 15723,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Emerald Legplates"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "491 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10280::::::::::0|h[Emerald Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "emerald-legplates"
+  },
+  {
+    "itemId": 10373,
+    "name": "Imbued Plate Leggings",
+    "icon": "inv_pants_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17336,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Imbued Plate Leggings"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "507 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+17 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10373::::::::::0|h[Imbued Plate Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "imbued-plate-leggings"
+  },
+  {
+    "itemId": 10382,
+    "name": "Commander's Leggings",
+    "icon": "inv_pants_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 18808,
+    "quality": "Uncommon",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Commander's Leggings"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "515 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10382::::::::::0|h[Commander's Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "commanders-leggings"
+  },
+  {
+    "itemId": 10389,
+    "name": "Hyperion Legplates",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 19770,
+    "quality": "Uncommon",
+    "itemLevel": 64,
+    "requiredLevel": 59,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Hyperion Legplates"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "530 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10389::::::::::0|h[Hyperion Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hyperion-legplates"
+  },
+  {
+    "itemId": 10740,
+    "name": "Centurion Legplates",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 10692,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 40,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Centurion Legplates"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "443 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+15 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 3566,
+          "name": "Rise, Obsidion!",
+          "faction": "Alliance",
+          "requiredLevel": 40
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:10740::::::::::0|h[Centurion Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "centurion-legplates"
+  },
+  {
+    "itemId": 12414,
+    "name": "Thorium Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17376,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Thorium Leggings"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "499 Armor"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "+10 Nature"
+      },
+      {
+        "label": "+10 Frost"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "+10 Arcane"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12414::::::::::0|h[Thorium Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thorium-leggings"
+  },
+  {
+    "itemId": 12429,
+    "name": "Imperial Plate Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17923,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Imperial Plate Leggings"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "507 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "+28 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12429::::::::::0|h[Imperial Plate Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "imperial-plate-leggings"
+  },
+  {
+    "itemId": 12614,
+    "name": "Runic Plate Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 18272,
+    "quality": "Uncommon",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Runic Plate Leggings"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "665 Armor"
+      },
+      {
+        "label": "+14 Fire"
+      },
+      {
+        "label": "+14 Nature"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12614::::::::::0|h[Runic Plate Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "runic-plate-leggings"
+  },
+  {
+    "itemId": 14829,
+    "name": "Symbolic Legplates",
+    "icon": "inv_pants_13",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 5049,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 40,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Symbolic Legplates"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "297 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+6 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14829::::::::::0|h[Symbolic Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "symbolic-legplates"
+  },
+  {
+    "itemId": 14840,
+    "name": "Tyrant's Legplates",
+    "icon": "inv_pants_06",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 7925,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Tyrant's Legplates"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "397 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+4 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14840::::::::::0|h[Tyrant's Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tyrants-legplates"
+  },
+  {
+    "itemId": 14850,
+    "name": "Sunscale Legplates",
+    "icon": "inv_pants_02",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 10442,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Sunscale Legplates"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "435 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14850::::::::::0|h[Sunscale Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sunscale-legplates"
+  },
+  {
+    "itemId": 14859,
+    "name": "Vanguard Legplates",
+    "icon": "inv_pants_03",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 14820,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Vanguard Legplates"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "475 Armor"
+      },
+      {
+        "label": "+21 Spirit"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14859::::::::::0|h[Vanguard Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "vanguard-legplates"
+  },
+  {
+    "itemId": 14867,
+    "name": "Warleader's Leggings",
+    "icon": "inv_pants_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17802,
+    "quality": "Uncommon",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Warleader's Leggings"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "515 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14867::::::::::0|h[Warleader's Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warleaders-leggings"
+  },
+  {
+    "itemId": 14900,
+    "name": "Saltstone Legplates",
+    "icon": "inv_pants_07",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 4298,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 40,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Saltstone Legplates"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "232 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14900::::::::::0|h[Saltstone Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "saltstone-legplates"
+  },
+  {
+    "itemId": 14908,
+    "name": "Brutish Legguards",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8195,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Brutish Legguards"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "405 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14908::::::::::0|h[Brutish Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brutish-legguards"
+  },
+  {
+    "itemId": 14920,
+    "name": "Jade Legplates",
+    "icon": "inv_pants_05",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 9744,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Jade Legplates"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "427 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14920::::::::::0|h[Jade Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jade-legplates"
+  },
+  {
+    "itemId": 14928,
+    "name": "Lofty Legguards",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12673,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Lofty Legguards"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "459 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14928::::::::::0|h[Lofty Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lofty-legguards"
+  },
+  {
+    "itemId": 14936,
+    "name": "Heroic Legplates",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 16702,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Heroic Legplates"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "507 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14936::::::::::0|h[Heroic Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heroic-legplates"
+  },
+  {
+    "itemId": 14945,
+    "name": "Warbringer's Legguards",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6432,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Warbringer's Legguards"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "382 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14945::::::::::0|h[Warbringer's Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warbringers-legguards"
+  },
+  {
+    "itemId": 14962,
+    "name": "High Chief's Legguards",
+    "icon": "inv_pants_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11690,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "High Chief's Legguards"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "451 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14962::::::::::0|h[High Chief's Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-chiefs-legguards"
+  },
+  {
+    "itemId": 14970,
+    "name": "Glorious Legplates",
+    "icon": "inv_pants_02",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 15598,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Glorious Legplates"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "483 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14970::::::::::0|h[Glorious Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "glorious-legplates"
+  },
+  {
+    "itemId": 14980,
+    "name": "Exalted Legplates",
+    "icon": "inv_pants_12",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 19201,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Exalted Legplates"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "522 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14980::::::::::0|h[Exalted Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "exalted-legplates"
+  },
+  {
+    "itemId": 16028,
+    "name": "PVP Plate Legplates Alliance",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9488,
+    "quality": "Common",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "PVP Plate Legplates Alliance"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "474 Armor"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:16028::::::::::0|h[PVP Plate Legplates Alliance]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pvp-plate-legplates-alliance"
+  },
+  {
+    "itemId": 19117,
+    "name": "Laquered Wooden Plate Legplates",
+    "icon": "inv_pants_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8915,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 46,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Laquered Wooden Plate Legplates"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "420 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 7849,
+          "name": "Separation Anxiety",
+          "faction": "Horde",
+          "requiredLevel": 46
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:19117::::::::::0|h[Laquered Wooden Plate Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "laquered-wooden-plate-legplates"
+  },
+  {
+    "itemId": 19124,
+    "name": "Slagplate Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 8259,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 45,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Slagplate Leggings"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "405 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+12 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 7728,
+          "name": "STOLEN: Smithing Tuyere and Lookout's Spyglass",
+          "faction": "Both",
+          "requiredLevel": 45
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:19124::::::::::0|h[Slagplate Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "slagplate-leggings"
+  },
+  {
+    "itemId": 21316,
+    "name": "Leggings of the Ursa",
+    "icon": "inv_pants_mail_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12407,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 45,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Leggings of the Ursa"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "459 Armor"
+      },
+      {
+        "label": "+17 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8461,
+          "name": "Deadwood of the North",
+          "faction": "Both",
+          "requiredLevel": 45
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:21316::::::::::0|h[Leggings of the Ursa]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "leggings-of-the-ursa"
+  },
+  {
+    "itemId": 60274,
+    "name": "Maul'ogg Thighguards",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16204,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 45,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Maul'ogg Thighguards"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "483 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40200,
+          "name": "Tanglemoss",
+          "faction": "Horde",
+          "requiredLevel": 45
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60274::::::::::0|h[Maul'ogg Thighguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "maulogg-thighguards"
+  },
+  {
+    "itemId": 61378,
+    "name": "Greymane Legplates",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 5899,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Greymane Legplates"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "291 Armor"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+9 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61378::::::::::0|h[Greymane Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "greymane-legplates"
+  },
+  {
+    "itemId": 61471,
+    "name": "Gilneas Brigade Leggings",
+    "icon": "inv_pants_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8627,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 35,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Gilneas Brigade Leggings"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "379 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40927,
+          "name": "Securing Gilneas II",
+          "faction": "Alliance",
+          "requiredLevel": 35
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:61471::::::::::0|h[Gilneas Brigade Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gilneas-brigade-leggings"
+  },
+  {
+    "itemId": 61546,
+    "name": "Leggings of the Fallen Knight",
+    "icon": "inv_pants_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 24425,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Leggings of the Fallen Knight"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "522 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61546::::::::::0|h[Leggings of the Fallen Knight]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "leggings-of-the-fallen-knight"
+  },
+  {
+    "itemId": 61578,
+    "name": "Old Knight's Leggings",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9893,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Old Knight's Leggings"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "397 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61578::::::::::0|h[Old Knight's Leggings]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "old-knights-leggings"
+  },
+  {
+    "itemId": 83412,
+    "name": "Steel Plate Legguards",
+    "icon": "inv_pants_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9604,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Steel Plate Legguards"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "431 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "+30 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:83412::::::::::0|h[Steel Plate Legguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "steel-plate-legguards"
+  },
+  {
+    "itemId": 15685,
+    "name": "Triumphant Legplates",
+    "icon": "inv_pants_06",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 29539,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Legs",
+    "tooltip": [
+      {
+        "label": "Triumphant Legplates"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Legs"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "295 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15685::::::::::0|h[Triumphant Legplates]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "triumphant-legplates"
+  }
+]

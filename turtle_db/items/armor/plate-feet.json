@@ -1,0 +1,7514 @@
+[
+  {
+    "itemId": 20129,
+    "name": "Highlander's Plate Greaves",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3137,
+    "quality": "Rare",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Highlander's Plate Greaves"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "157 Armor"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+6 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20129::::::::::0|h[Highlander's Plate Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-plate-greaves"
+  },
+  {
+    "itemId": 20210,
+    "name": "Defiler's Plate Greaves",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3234,
+    "quality": "Rare",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Defiler's Plate Greaves"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "157 Armor"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+6 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20210::::::::::0|h[Defiler's Plate Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-plate-greaves"
+  },
+  {
+    "itemId": 12555,
+    "name": "Battlechaser's Greaves",
+    "icon": "inv_boots_plate_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11406,
+    "quality": "Rare",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Battlechaser's Greaves"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "397 Armor"
+      },
+      {
+        "label": "+13 Agility"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12555::::::::::0|h[Battlechaser's Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "battlechasers-greaves"
+  },
+  {
+    "itemId": 14549,
+    "name": "Boots of Avoidance",
+    "icon": "inv_boots_plate_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7807,
+    "quality": "Epic",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Boots of Avoidance"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "360 Armor"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:14549::::::::::0|h[Boots of Avoidance]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "boots-of-avoidance"
+  },
+  {
+    "itemId": 16472,
+    "name": "Marshal's Lamellar Boots",
+    "icon": "inv_boots_plate_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17205,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Marshal's Lamellar Boots"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "552 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+15 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16472::::::::::0|h[Marshal's Lamellar Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "marshals-lamellar-boots"
+  },
+  {
+    "itemId": 16483,
+    "name": "Marshal's Plate Boots",
+    "icon": "inv_boots_plate_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16642,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Marshal's Plate Boots"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "592 Armor"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+12 AgilityDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16483::::::::::0|h[Marshal's Plate Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "marshals-plate-boots"
+  },
+  {
+    "itemId": 16509,
+    "name": "Blood Guard's Plate Boots",
+    "icon": "inv_boots_plate_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8866,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Blood Guard's Plate Boots"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "452 Armor"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16509::::::::::0|h[Blood Guard's Plate Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blood-guards-plate-boots"
+  },
+  {
+    "itemId": 16545,
+    "name": "General's Plate Boots",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17210,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "General's Plate Boots"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "592 Armor"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+12 AgilityDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16545::::::::::0|h[General's Plate Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "generals-plate-boots"
+  },
+  {
+    "itemId": 16859,
+    "name": "Lawbringer Boots",
+    "icon": "inv_boots_plate_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 25778,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Lawbringer Boots"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "515 Armor"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16859::::::::::0|h[Lawbringer Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-boots"
+  },
+  {
+    "itemId": 16862,
+    "name": "Sabatons of Might",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 26778,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Sabatons of Might"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "515 Armor"
+      },
+      {
+        "label": "+26 Stamina"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16862::::::::::0|h[Sabatons of Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sabatons-of-might"
+  },
+  {
+    "itemId": 16957,
+    "name": "Judgement Boots",
+    "icon": "inv_boots_plate_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 43944,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Judgement Boots"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "589 Armor"
+      },
+      {
+        "label": "+14 Intellect"
+      },
+      {
+        "label": "+22 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16957::::::::::0|h[Judgement Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-boots"
+  },
+  {
+    "itemId": 16965,
+    "name": "Sabatons of Wrath",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 45221,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Sabatons of Wrath"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "589 Armor"
+      },
+      {
+        "label": "+30 Stamina"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16965::::::::::0|h[Sabatons of Wrath]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sabatons-of-wrath"
+  },
+  {
+    "itemId": 18806,
+    "name": "Core Forged Greaves",
+    "icon": "inv_boots_plate_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 33761,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Core Forged Greaves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "552 Armor"
+      },
+      {
+        "label": "+28 Stamina"
+      },
+      {
+        "label": "+12 Fire"
+      },
+      {
+        "label": "+8 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18806::::::::::0|h[Core Forged Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "core-forged-greaves"
+  },
+  {
+    "itemId": 18824,
+    "name": "Magma Tempered Boots",
+    "icon": "inv_boots_plate_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 33518,
+    "quality": "Epic",
+    "itemLevel": 70,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Magma Tempered Boots"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "544 Armor"
+      },
+      {
+        "label": "+19 Stamina"
+      },
+      {
+        "label": "+18 Intellect"
+      },
+      {
+        "label": "+8 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18824::::::::::0|h[Magma Tempered Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "magma-tempered-boots"
+  },
+  {
+    "itemId": 19387,
+    "name": "Chromatic Boots",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 46826,
+    "quality": "Epic",
+    "itemLevel": 77,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Chromatic Boots"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "596 Armor"
+      },
+      {
+        "label": "+20 Agility"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+19 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19387::::::::::0|h[Chromatic Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chromatic-boots"
+  },
+  {
+    "itemId": 20039,
+    "name": "Dark Iron Boots",
+    "icon": "inv_boots_chain_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 31709,
+    "quality": "Epic",
+    "itemLevel": 70,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Dark Iron Boots"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "664 Armor"
+      },
+      {
+        "label": "+28 Fire"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20039::::::::::0|h[Dark Iron Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dark-iron-boots"
+  },
+  {
+    "itemId": 20619,
+    "name": "Acid Inscribed Greaves",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 34298,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Acid Inscribed Greaves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "581 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+25 Nature"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20619::::::::::0|h[Acid Inscribed Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "acid-inscribed-greaves"
+  },
+  {
+    "itemId": 21333,
+    "name": "Conqueror's Greaves",
+    "icon": "inv_boots_plate_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 46519,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Conqueror's Greaves"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "604 Armor"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+21 Strength"
+      },
+      {
+        "label": "+23 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8559,
+          "name": "Conqueror's Greaves",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21333::::::::::0|h[Conqueror's Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "conquerors-greaves"
+  },
+  {
+    "itemId": 21388,
+    "name": "Avenger's Sabatons",
+    "icon": "inv_boots_chain_07",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 45619,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Avenger's Sabatons"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "604 Armor"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+14 Intellect"
+      },
+      {
+        "label": "+19 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8655,
+          "name": "Avenger's Greaves",
+          "faction": "Alliance",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21388::::::::::0|h[Avenger's Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "avengers-sabatons"
+  },
+  {
+    "itemId": 21688,
+    "name": "Boots of the Fallen Hero",
+    "icon": "inv_boots_plate_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 39568,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Boots of the Fallen Hero"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "581 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+22 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21688::::::::::0|h[Boots of the Fallen Hero]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "boots-of-the-fallen-hero"
+  },
+  {
+    "itemId": 21704,
+    "name": "Boots of the Redeemed Prophecy",
+    "icon": "inv_boots_plate_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 39090,
+    "quality": "Epic",
+    "itemLevel": 73,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Boots of the Redeemed Prophecy"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "567 Armor"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+16 Intellect"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21704::::::::::0|h[Boots of the Redeemed Prophecy]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "boots-of-the-redeemed-prophecy"
+  },
+  {
+    "itemId": 21706,
+    "name": "Boots of the Unwavering Will",
+    "icon": "inv_boots_plate_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 39364,
+    "quality": "Epic",
+    "itemLevel": 73,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Boots of the Unwavering Will"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "647 Armor"
+      },
+      {
+        "label": "+29 Stamina"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21706::::::::::0|h[Boots of the Unwavering Will]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "boots-of-the-unwavering-will"
+  },
+  {
+    "itemId": 21995,
+    "name": "Boots of Heroism",
+    "icon": "inv_boots_plate_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 19624,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Boots of Heroism"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "470 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+20 StrengthDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8959,
+          "name": "Anthion's Parting Words",
+          "faction": "Alliance",
+          "requiredLevel": 58
+        },
+        {
+          "questId": 9022,
+          "name": "Anthion's Parting Words",
+          "faction": "Horde",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21995::::::::::0|h[Boots of Heroism]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "boots-of-heroism"
+  },
+  {
+    "itemId": 22087,
+    "name": "Soulforge Boots",
+    "icon": "inv_boots_plate_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 19552,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Soulforge Boots"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "470 Armor"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8954,
+          "name": "Anthion's Parting Words",
+          "faction": "Alliance",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22087::::::::::0|h[Soulforge Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "soulforge-boots"
+  },
+  {
+    "itemId": 22420,
+    "name": "Dreadnaught Sabatons",
+    "icon": "inv_boots_plate_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 73173,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Dreadnaught Sabatons"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "662 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+34 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9039,
+          "name": "Dreadnaught Sabatons",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22420::::::::::0|h[Dreadnaught Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadnaught-sabatons"
+  },
+  {
+    "itemId": 22430,
+    "name": "Redemption Boots",
+    "icon": "inv_boots_chain_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 70562,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Redemption Boots"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "662 Armor"
+      },
+      {
+        "label": "+22 Stamina"
+      },
+      {
+        "label": "+18 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9047,
+          "name": "Redemption Boots",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22430::::::::::0|h[Redemption Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-boots"
+  },
+  {
+    "itemId": 47007,
+    "name": "Lawbringer Greaves",
+    "icon": "inv_lawboots_v3",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 25778,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Lawbringer Greaves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "515 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41500,
+          "name": "Lawbringer's Feet",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47007::::::::::0|h[Lawbringer Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-greaves"
+  },
+  {
+    "itemId": 47015,
+    "name": "Lawbringer Sabatons",
+    "icon": "inv_boots_plate_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 32222,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Lawbringer Sabatons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "515 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+6 Intellect"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41500,
+          "name": "Lawbringer's Feet",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47015::::::::::0|h[Lawbringer Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-sabatons"
+  },
+  {
+    "itemId": 47023,
+    "name": "Judgement Greaves",
+    "icon": "inv_judboots_v3",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 54930,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Judgement Greaves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "589 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41492,
+          "name": "Judgement's Feet",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47023::::::::::0|h[Judgement Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-greaves"
+  },
+  {
+    "itemId": 47031,
+    "name": "Judgement Sabatons",
+    "icon": "inv_judboots_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 54930,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Judgement Sabatons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "589 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+13 Agility"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+7 Spirit"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41492,
+          "name": "Judgement's Feet",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47031::::::::::0|h[Judgement Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-sabatons"
+  },
+  {
+    "itemId": 47036,
+    "name": "Avenger's Greaves",
+    "icon": "inv_boots_chain_07",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 57023,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Avenger's Greaves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "604 Armor"
+      },
+      {
+        "label": "+18 Agility"
+      },
+      {
+        "label": "+19 Stamina"
+      },
+      {
+        "label": "+20 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8655,
+          "name": "Avenger's Greaves",
+          "faction": "Alliance",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47036::::::::::0|h[Avenger's Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "avengers-greaves"
+  },
+  {
+    "itemId": 47041,
+    "name": "Avenger's Boots",
+    "icon": "inv_boots_chain_07",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 57023,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Avenger's Boots"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "604 Armor"
+      },
+      {
+        "label": "+18 Intellect"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+18 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8655,
+          "name": "Avenger's Greaves",
+          "faction": "Alliance",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47041::::::::::0|h[Avenger's Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "avengers-boots"
+  },
+  {
+    "itemId": 47049,
+    "name": "Redemption Greaves",
+    "icon": "inv_boots_chain_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 88203,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Redemption Greaves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "662 Armor"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+34 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9047,
+          "name": "Redemption Boots",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47049::::::::::0|h[Redemption Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-greaves"
+  },
+  {
+    "itemId": 47058,
+    "name": "Redemption Sabatons",
+    "icon": "inv_boots_chain_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 88203,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Redemption Sabatons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "662 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9047,
+          "name": "Redemption Boots",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47058::::::::::0|h[Redemption Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-sabatons"
+  },
+  {
+    "itemId": 47064,
+    "name": "Lionheart Boots",
+    "icon": "inv_lionheart_sabatons",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 53121,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Lionheart Boots"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "677 Armor"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+19 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41630,
+          "name": "Lionheart Boots",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47064::::::::::0|h[Lionheart Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lionheart-boots"
+  },
+  {
+    "itemId": 47070,
+    "name": "Lionheart Greaves",
+    "icon": "inv_lionheart_sabatons",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 73394,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Lionheart Greaves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "677 Armor"
+      },
+      {
+        "label": "+23 Agility"
+      },
+      {
+        "label": "+27 Stamina"
+      },
+      {
+        "label": "+21 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41630,
+          "name": "Lionheart Boots",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47070::::::::::0|h[Lionheart Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lionheart-greaves"
+  },
+  {
+    "itemId": 47076,
+    "name": "Lionheart Sabatons",
+    "icon": "inv_lionheart_sabatons",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 53121,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Lionheart Sabatons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "677 Armor"
+      },
+      {
+        "label": "+23 Strength"
+      },
+      {
+        "label": "+27 Stamina"
+      },
+      {
+        "label": "+19 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41630,
+          "name": "Lionheart Boots",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47076::::::::::0|h[Lionheart Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lionheart-sabatons"
+  },
+  {
+    "itemId": 47247,
+    "name": "Sabatons of Might",
+    "icon": "inv_migboots_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 33472,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Sabatons of Might"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "515 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41449,
+          "name": "Boots of Might",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47247::::::::::0|h[Sabatons of Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sabatons-of-might"
+  },
+  {
+    "itemId": 47255,
+    "name": "Sabatons of Wrath",
+    "icon": "inv_wraboots_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 56527,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Sabatons of Wrath"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "589 Armor"
+      },
+      {
+        "label": "+21 Strength"
+      },
+      {
+        "label": "+19 Agility"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41441,
+          "name": "Boots of Wrath",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47255::::::::::0|h[Sabatons of Wrath]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sabatons-of-wrath"
+  },
+  {
+    "itemId": 47260,
+    "name": "Conqueror's Sabatons",
+    "icon": "inv_boots_plate_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 58149,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Conqueror's Sabatons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "604 Armor"
+      },
+      {
+        "label": "+22 SpiritDurability"
+      },
+      {
+        "label": "+50 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:47260::::::::::0|h[Conqueror's Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "conquerors-sabatons"
+  },
+  {
+    "itemId": 47268,
+    "name": "Dreadnaught Sabatons",
+    "icon": "inv_boots_plate_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 91466,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Dreadnaught Sabatons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "662 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+18 Agility"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9039,
+          "name": "Dreadnaught Sabatons",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47268::::::::::0|h[Dreadnaught Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadnaught-sabatons"
+  },
+  {
+    "itemId": 47274,
+    "name": "Greaves of the Brotherhood",
+    "icon": "inv_greaves_of_the_brotherhood",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 53121,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Greaves of the Brotherhood"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "677 Armor"
+      },
+      {
+        "label": "+29 Strength"
+      },
+      {
+        "label": "+19 Agility"
+      },
+      {
+        "label": "+24 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41594,
+          "name": "Boots of the Brotherhood",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47274::::::::::0|h[Greaves of the Brotherhood]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "greaves-of-the-brotherhood"
+  },
+  {
+    "itemId": 51774,
+    "name": "Sabatons of the Dark Reaver",
+    "icon": "inv_boots_plate_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6728,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Sabatons of the Dark Reaver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "515 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+6 Shadow"
+      },
+      {
+        "label": "+4 Arcane"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:51774::::::::::0|h[Sabatons of the Dark Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sabatons-of-the-dark-reaver"
+  },
+  {
+    "itemId": 55029,
+    "name": "Valea's Alacrity",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 53500,
+    "quality": "Epic",
+    "itemLevel": 63,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Valea's Alacrity"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "514 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55029::::::::::0|h[Valea's Alacrity]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "valeas-alacrity"
+  },
+  {
+    "itemId": 55282,
+    "name": "Boots of the Grand Crusader",
+    "icon": "inv_lionheart_sabatons",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 74523,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Boots of the Grand Crusader"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "635 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+17 Intellect"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55282::::::::::0|h[Boots of the Grand Crusader]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "boots-of-the-grand-crusader"
+  },
+  {
+    "itemId": 58215,
+    "name": "Ash-Forged Greaves",
+    "icon": "inv_boots_chain_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 24309,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Ash-Forged Greaves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "502 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+15 Agility"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:58215::::::::::0|h[Ash-Forged Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ash-forged-greaves"
+  },
+  {
+    "itemId": 61007,
+    "name": "Temporal Bronze Boots",
+    "icon": "inv_boots_plate_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 26486,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 0,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Temporal Bronze Boots"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "507 Armor"
+      },
+      {
+        "label": "+8 Agility"
+      },
+      {
+        "label": "+23 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61007::::::::::0|h[Temporal Bronze Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "temporal-bronze-boots"
+  },
+  {
+    "itemId": 61246,
+    "name": "Sabatons of the Endless March",
+    "icon": "inv_boots_chain_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 25603,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Sabatons of the Endless March"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "515 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61246::::::::::0|h[Sabatons of the Endless March]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sabatons-of-the-endless-march"
+  },
+  {
+    "itemId": 61289,
+    "name": "Aurious Boots",
+    "icon": "inv_boots_plate_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 21854,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Aurious Boots"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "486 Armor"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61289::::::::::0|h[Aurious Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "aurious-boots"
+  },
+  {
+    "itemId": 61367,
+    "name": "Dreamsteel Boots",
+    "icon": "inv_boots_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 24309,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Dreamsteel Boots"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "502 Armor"
+      },
+      {
+        "label": "+26 Strength"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "+18 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61367::::::::::0|h[Dreamsteel Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreamsteel-boots"
+  },
+  {
+    "itemId": 70744,
+    "name": "Dreadnaught Sabatons",
+    "icon": "inv_boots_plate_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 91466,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Dreadnaught Sabatons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "662 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+19 Agility"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:70744::::::::::0|h[Dreadnaught Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadnaught-sabatons"
+  },
+  {
+    "itemId": 81362,
+    "name": "Azure-Scale Sabatons",
+    "icon": "inv_boots_plate_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12544,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Azure-Scale Sabatons"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "438 Armor"
+      },
+      {
+        "label": "+3 Strength"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+5 Intellect"
+      },
+      {
+        "label": "+5 Frost"
+      },
+      {
+        "label": "+5 Arcane"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81362::::::::::0|h[Azure-Scale Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "azure-scale-sabatons"
+  },
+  {
+    "itemId": 11787,
+    "name": "Shalehusk Boots",
+    "icon": "inv_boots_plate_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13732,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Shalehusk Boots"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "417 Armor"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11787::::::::::0|h[Shalehusk Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shalehusk-boots"
+  },
+  {
+    "itemId": 13068,
+    "name": "Obsidian Greaves",
+    "icon": "inv_boots_plate_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4785,
+    "quality": "Rare",
+    "itemLevel": 42,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Obsidian Greaves"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "257 Armor"
+      },
+      {
+        "label": "+6 Agility"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13068::::::::::0|h[Obsidian Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "obsidian-greaves"
+  },
+  {
+    "itemId": 13070,
+    "name": "Sapphiron's Scale Boots",
+    "icon": "inv_boots_plate_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14087,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Sapphiron's Scale Boots"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "417 Armor"
+      },
+      {
+        "label": "+9 Agility"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13070::::::::::0|h[Sapphiron's Scale Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sapphirons-scale-boots"
+  },
+  {
+    "itemId": 13259,
+    "name": "Ribsteel Footguards",
+    "icon": "inv_boots_plate_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16069,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Ribsteel Footguards"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "438 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13259::::::::::0|h[Ribsteel Footguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ribsteel-footguards"
+  },
+  {
+    "itemId": 13381,
+    "name": "Master Cannoneer Boots",
+    "icon": "inv_boots_plate_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 15433,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Master Cannoneer Boots"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "438 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+21 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13381::::::::::0|h[Master Cannoneer Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "master-cannoneer-boots"
+  },
+  {
+    "itemId": 14537,
+    "name": "Corpselight Greaves",
+    "icon": "inv_boots_plate_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17001,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Corpselight Greaves"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "445 Armor"
+      },
+      {
+        "label": "+22 Stamina"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:14537::::::::::0|h[Corpselight Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "corpselight-greaves"
+  },
+  {
+    "itemId": 14621,
+    "name": "Deathbone Sabatons",
+    "icon": "inv_boots_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 15261,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Deathbone Sabatons"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "438 Armor"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "+15 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:14621::::::::::0|h[Deathbone Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "deathbone-sabatons"
+  },
+  {
+    "itemId": 16405,
+    "name": "Knight-Lieutenant's Plate Boots",
+    "icon": "inv_boots_plate_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8286,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Knight-Lieutenant's Plate Boots"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "452 Armor"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16405::::::::::0|h[Knight-Lieutenant's Plate Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knight-lieutenants-plate-boots"
+  },
+  {
+    "itemId": 16409,
+    "name": "Knight-Lieutenant's Lamellar Sabatons",
+    "icon": "inv_boots_plate_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8413,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Knight-Lieutenant's Lamellar Sabatons"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "452 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+7 Intellect"
+      },
+      {
+        "label": "+6 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16409::::::::::0|h[Knight-Lieutenant's Lamellar Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knight-lieutenants-lamellar-sabatons"
+  },
+  {
+    "itemId": 16725,
+    "name": "Lightforge Boots",
+    "icon": "inv_boots_plate_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13688,
+    "quality": "Rare",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Lightforge Boots"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "424 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+9 Spirit"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16725::::::::::0|h[Lightforge Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lightforge-boots"
+  },
+  {
+    "itemId": 16734,
+    "name": "Boots of Valor",
+    "icon": "inv_boots_plate_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14536,
+    "quality": "Rare",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Boots of Valor"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "424 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+4 Agility"
+      },
+      {
+        "label": "+3 SpiritDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16734::::::::::0|h[Boots of Valor]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "boots-of-valor"
+  },
+  {
+    "itemId": 18521,
+    "name": "Grimy Metal Boots",
+    "icon": "inv_boots_plate_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17606,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Grimy Metal Boots"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "552 Armor"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18521::::::::::0|h[Grimy Metal Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grimy-metal-boots"
+  },
+  {
+    "itemId": 18692,
+    "name": "Death Knight Sabatons",
+    "icon": "inv_boots_plate_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14375,
+    "quality": "Rare",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Death Knight Sabatons"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "424 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+9 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18692::::::::::0|h[Death Knight Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "death-knight-sabatons"
+  },
+  {
+    "itemId": 19913,
+    "name": "Bloodsoaked Greaves",
+    "icon": "inv_boots_plate_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 22142,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Bloodsoaked Greaves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "486 Armor"
+      },
+      {
+        "label": "+25 Stamina"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19913::::::::::0|h[Bloodsoaked Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodsoaked-greaves"
+  },
+  {
+    "itemId": 20048,
+    "name": "Highlander's Plate Greaves",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17931,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Highlander's Plate Greaves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "511 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+14 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20048::::::::::0|h[Highlander's Plate Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-plate-greaves"
+  },
+  {
+    "itemId": 20049,
+    "name": "Highlander's Lamellar Greaves",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17995,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Highlander's Lamellar Greaves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "511 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20049::::::::::0|h[Highlander's Lamellar Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-lamellar-greaves"
+  },
+  {
+    "itemId": 20109,
+    "name": "Highlander's Lamellar Greaves",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9787,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Highlander's Lamellar Greaves"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "383 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+6 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20109::::::::::0|h[Highlander's Lamellar Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-lamellar-greaves"
+  },
+  {
+    "itemId": 20110,
+    "name": "Highlander's Lamellar Greaves",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4857,
+    "quality": "Rare",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Highlander's Lamellar Greaves"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "289 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+8 Agility"
+      },
+      {
+        "label": "+5 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20110::::::::::0|h[Highlander's Lamellar Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-lamellar-greaves"
+  },
+  {
+    "itemId": 20127,
+    "name": "Highlander's Plate Greaves",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9711,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Highlander's Plate Greaves"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "383 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20127::::::::::0|h[Highlander's Plate Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-plate-greaves"
+  },
+  {
+    "itemId": 20128,
+    "name": "Highlander's Plate Greaves",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4820,
+    "quality": "Rare",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Highlander's Plate Greaves"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "289 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20128::::::::::0|h[Highlander's Plate Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-plate-greaves"
+  },
+  {
+    "itemId": 20181,
+    "name": "Defiler's Lamellar Greaves",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17927,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Defiler's Lamellar Greaves"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "452 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+8 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20181::::::::::0|h[Defiler's Lamellar Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-lamellar-greaves"
+  },
+  {
+    "itemId": 20183,
+    "name": "Defiler's Lamellar Greaves",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5227,
+    "quality": "Rare",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Defiler's Lamellar Greaves"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "289 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+8 Agility"
+      },
+      {
+        "label": "+5 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20183::::::::::0|h[Defiler's Lamellar Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-lamellar-greaves"
+  },
+  {
+    "itemId": 20185,
+    "name": "Defiler's Lamellar Greaves",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9632,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Defiler's Lamellar Greaves"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "383 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+6 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20185::::::::::0|h[Defiler's Lamellar Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-lamellar-greaves"
+  },
+  {
+    "itemId": 20208,
+    "name": "Defiler's Plate Greaves",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17098,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Defiler's Plate Greaves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "511 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+14 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20208::::::::::0|h[Defiler's Plate Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-plate-greaves"
+  },
+  {
+    "itemId": 20209,
+    "name": "Defiler's Plate Greaves",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4968,
+    "quality": "Rare",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Defiler's Plate Greaves"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "289 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20209::::::::::0|h[Defiler's Plate Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-plate-greaves"
+  },
+  {
+    "itemId": 20211,
+    "name": "Defiler's Plate Greaves",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10122,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Defiler's Plate Greaves"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "383 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20211::::::::::0|h[Defiler's Plate Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-plate-greaves"
+  },
+  {
+    "itemId": 20251,
+    "name": "90 Green Warrior Sabatons",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 53777,
+    "quality": "Uncommon",
+    "itemLevel": 90,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "90 Green Warrior Sabatons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "576 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+21 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20251::::::::::0|h[90 Green Warrior Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "90-green-warrior-sabatons"
+  },
+  {
+    "itemId": 20265,
+    "name": "Peacekeeper Boots",
+    "icon": "inv_boots_plate_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 21571,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Peacekeeper Boots"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "486 Armor"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20265::::::::::0|h[Peacekeeper Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "peacekeeper-boots"
+  },
+  {
+    "itemId": 20291,
+    "name": "63 Green Warrior Sabatons",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14781,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "63 Green Warrior Sabatons"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "410 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+14 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20291::::::::::0|h[63 Green Warrior Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "63-green-warrior-sabatons"
+  },
+  {
+    "itemId": 20662,
+    "name": "Abyssal Plate Greaves",
+    "icon": "inv_boots_plate_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12400,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Abyssal Plate Greaves"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "392 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20662::::::::::0|h[Abyssal Plate Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "abyssal-plate-greaves"
+  },
+  {
+    "itemId": 20710,
+    "name": "Crystal Encrusted Greaves",
+    "icon": "inv_boots_plate_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16457,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Crystal Encrusted Greaves"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "512 Armor"
+      },
+      {
+        "label": "+21 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8316,
+          "name": "Armaments of War",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:20710::::::::::0|h[Crystal Encrusted Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crystal-encrusted-greaves"
+  },
+  {
+    "itemId": 20711,
+    "name": "Crystal Lined Greaves",
+    "icon": "inv_boots_plate_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16521,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Crystal Lined Greaves"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "452 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+12 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8376,
+          "name": "Armaments of War",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:20711::::::::::0|h[Crystal Lined Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crystal-lined-greaves"
+  },
+  {
+    "itemId": 21481,
+    "name": "Boots of the Desert Protector",
+    "icon": "inv_boots_plate_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 26810,
+    "quality": "Rare",
+    "itemLevel": 73,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Boots of the Desert Protector"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "519 Armor"
+      },
+      {
+        "label": "+14 Intellect"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:21481::::::::::0|h[Boots of the Desert Protector]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "boots-of-the-desert-protector"
+  },
+  {
+    "itemId": 21490,
+    "name": "Slime Kickers",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 28487,
+    "quality": "Rare",
+    "itemLevel": 73,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Slime Kickers"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "519 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:21490::::::::::0|h[Slime Kickers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "slime-kickers"
+  },
+  {
+    "itemId": 22270,
+    "name": "Entrenching Boots",
+    "icon": "inv_boots_plate_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11882,
+    "quality": "Rare",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Entrenching Boots"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "397 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+5 Agility"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22270::::::::::0|h[Entrenching Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "entrenching-boots"
+  },
+  {
+    "itemId": 22858,
+    "name": "Blood Guard's Plate Greaves",
+    "icon": "inv_boots_plate_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9827,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Blood Guard's Plate Greaves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "472 Armor"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+9 AgilityDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22858::::::::::0|h[Blood Guard's Plate Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blood-guards-plate-greaves"
+  },
+  {
+    "itemId": 23275,
+    "name": "Knight-Lieutenant's Lamellar Sabatons",
+    "icon": "inv_boots_plate_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10013,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Knight-Lieutenant's Lamellar Sabatons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "472 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+12 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23275::::::::::0|h[Knight-Lieutenant's Lamellar Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knight-lieutenants-lamellar-sabatons"
+  },
+  {
+    "itemId": 23287,
+    "name": "Knight-Lieutenant's Plate Greaves",
+    "icon": "inv_boots_plate_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10454,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Knight-Lieutenant's Plate Greaves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "472 Armor"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+9 AgilityDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23287::::::::::0|h[Knight-Lieutenant's Plate Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knight-lieutenants-plate-greaves"
+  },
+  {
+    "itemId": 58220,
+    "name": "Golem Stompers",
+    "icon": "inv_boots_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 32185,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Golem Stompers"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "452 Armor"
+      },
+      {
+        "label": "+20 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:58220::::::::::0|h[Golem Stompers]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "golem-stompers"
+  },
+  {
+    "itemId": 60288,
+    "name": "Rune-Etched Greaves",
+    "icon": "inv_boots_plate_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17835,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Rune-Etched Greaves"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "550 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+5 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60288::::::::::0|h[Rune-Etched Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rune-etched-greaves"
+  },
+  {
+    "itemId": 60361,
+    "name": "Bloody Gladiator's Greaves",
+    "icon": "inv_boots_plate_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11332,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Bloody Gladiator's Greaves"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "526 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "+18 Attack"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60361::::::::::0|h[Bloody Gladiator's Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloody-gladiators-greaves"
+  },
+  {
+    "itemId": 60435,
+    "name": "Sabatons of the Elite Guard",
+    "icon": "inv_boots_plate_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16541,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Sabatons of the Elite Guard"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "452 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+6 Agility"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60435::::::::::0|h[Sabatons of the Elite Guard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sabatons-of-the-elite-guard"
+  },
+  {
+    "itemId": 61036,
+    "name": "Boots of the Riftwalker",
+    "icon": "inv_boots_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 18442,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Boots of the Riftwalker"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "472 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+9 Agility"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+5 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61036::::::::::0|h[Boots of the Riftwalker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "boots-of-the-riftwalker"
+  },
+  {
+    "itemId": 61065,
+    "name": "Hellfire Sabatons",
+    "icon": "inv_boots_chain_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13557,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Hellfire Sabatons"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "410 Armor"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+10 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61065::::::::::0|h[Hellfire Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hellfire-sabatons"
+  },
+  {
+    "itemId": 70054,
+    "name": "Wyrmheart Boots",
+    "icon": "inv_boots_plate_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 15684,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 59,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Wyrmheart Boots"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "590 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+17 Spirit"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:70054::::::::::0|h[Wyrmheart Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wyrmheart-boots"
+  },
+  {
+    "itemId": 70059,
+    "name": "Sabatons of Protection",
+    "icon": "inv_boots_plate_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 15684,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 59,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Sabatons of Protection"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "578 Armor"
+      },
+      {
+        "label": "+5 Shadow"
+      },
+      {
+        "label": "+10 Arcane"
+      },
+      {
+        "label": "+45 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:70059::::::::::0|h[Sabatons of Protection]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sabatons-of-protection"
+  },
+  {
+    "itemId": 80182,
+    "name": "Sabatons of the Damned",
+    "icon": "inv_boots_plate_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 0,
+    "quality": "Rare",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Sabatons of the Damned"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80182::::::::::0|h[Sabatons of the Damned]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sabatons-of-the-damned"
+  },
+  {
+    "itemId": 80508,
+    "name": "Quel'dorei Guardian's Boots",
+    "icon": "inv_boots_chain_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10239,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Quel'dorei Guardian's Boots"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "468 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80508::::::::::0|h[Quel'dorei Guardian's Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "queldorei-guardians-boots"
+  },
+  {
+    "itemId": 80608,
+    "name": "Revantusk Watcher's Boots",
+    "icon": "inv_boots_chain_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10239,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Revantusk Watcher's Boots"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "468 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80608::::::::::0|h[Revantusk Watcher's Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revantusk-watchers-boots"
+  },
+  {
+    "itemId": 81055,
+    "name": "Sabatons of the Dark Reaver",
+    "icon": "inv_boots_plate_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4455,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Sabatons of the Dark Reaver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "485 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81055::::::::::0|h[Sabatons of the Dark Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sabatons-of-the-dark-reaver"
+  },
+  {
+    "itemId": 7933,
+    "name": "Heavy Mithril Boots",
+    "icon": "inv_boots_plate_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5769,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Heavy Mithril Boots"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "382 Armor"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2772,
+          "name": "The World At Your Feet",
+          "faction": "Both",
+          "requiredLevel": 40
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:7933::::::::::0|h[Heavy Mithril Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-mithril-boots"
+  },
+  {
+    "itemId": 7936,
+    "name": "Ornate Mithril Boots",
+    "icon": "inv_boots_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6739,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 60,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Ornate Mithril Boots"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "324 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8540,
+          "name": "Boots for the Guard",
+          "faction": "Both",
+          "requiredLevel": 60
+        },
+        {
+          "questId": 8805,
+          "name": "Boots for the Guard",
+          "faction": "Both",
+          "requiredLevel": 60
+        },
+        {
+          "questId": 5283,
+          "name": "The Art of the Armorsmith",
+          "faction": "Alliance",
+          "requiredLevel": 40
+        },
+        {
+          "questId": 5301,
+          "name": "The Art of the Armorsmith",
+          "faction": "Horde",
+          "requiredLevel": 40
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:7936::::::::::0|h[Ornate Mithril Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ornate-mithril-boots"
+  },
+  {
+    "itemId": 8141,
+    "name": "Chromite Greaves",
+    "icon": "inv_boots_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4613,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Chromite Greaves"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "294 Armor"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8141::::::::::0|h[Chromite Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chromite-greaves"
+  },
+  {
+    "itemId": 8160,
+    "name": "Jouster's Greaves",
+    "icon": "inv_boots_plate_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3378,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Jouster's Greaves"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "182 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8160::::::::::0|h[Jouster's Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jousters-greaves"
+  },
+  {
+    "itemId": 8278,
+    "name": "Valorous Greaves",
+    "icon": "inv_boots_plate_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5477,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Valorous Greaves"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "312 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+4 Agility"
+      },
+      {
+        "label": "+7 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8278::::::::::0|h[Valorous Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "valorous-greaves"
+  },
+  {
+    "itemId": 8316,
+    "name": "Alabaster Plate Greaves",
+    "icon": "inv_boots_plate_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8078,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Alabaster Plate Greaves"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "348 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8316::::::::::0|h[Alabaster Plate Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "alabaster-plate-greaves"
+  },
+  {
+    "itemId": 9289,
+    "name": "Field Plate Boots",
+    "icon": "inv_boots_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3635,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Field Plate Boots"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "206 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9289::::::::::0|h[Field Plate Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "field-plate-boots"
+  },
+  {
+    "itemId": 9387,
+    "name": "Revelosh's Boots",
+    "icon": "inv_boots_plate_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3438,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Revelosh's Boots"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "206 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9387::::::::::0|h[Revelosh's Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "reveloshs-boots"
+  },
+  {
+    "itemId": 9637,
+    "name": "Shinkicker Boots",
+    "icon": "inv_boots_plate_07",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4749,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Shinkicker Boots"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "300 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+9 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2874,
+          "name": "Deliver to MacKinley",
+          "faction": "Both",
+          "requiredLevel": 40
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:9637::::::::::0|h[Shinkicker Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shinkicker-boots"
+  },
+  {
+    "itemId": 9646,
+    "name": "Gnomish Water Sinking Device",
+    "icon": "inv_boots_plate_07",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6791,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 43,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Gnomish Water Sinking Device"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "324 Armor"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 836,
+          "name": "Rescue OOX-09/HL!",
+          "faction": "Both",
+          "requiredLevel": 43
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:9646::::::::::0|h[Gnomish Water Sinking Device]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gnomish-water-sinking-device"
+  },
+  {
+    "itemId": 9662,
+    "name": "Rushridge Boots",
+    "icon": "inv_boots_plate_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4258,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 39,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Rushridge Boots"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "262 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2903,
+          "name": "The Battle Plans",
+          "faction": "Horde",
+          "requiredLevel": 39
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:9662::::::::::0|h[Rushridge Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rushridge-boots"
+  },
+  {
+    "itemId": 9973,
+    "name": "Embossed Plate Boots",
+    "icon": "inv_boots_plate_07",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3727,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Embossed Plate Boots"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "233 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9973::::::::::0|h[Embossed Plate Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "embossed-plate-boots"
+  },
+  {
+    "itemId": 10089,
+    "name": "Gothic Sabatons",
+    "icon": "inv_boots_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4749,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Gothic Sabatons"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "300 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10089::::::::::0|h[Gothic Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gothic-sabatons"
+  },
+  {
+    "itemId": 10131,
+    "name": "Revenant Boots",
+    "icon": "inv_boots_plate_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7085,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Revenant Boots"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "330 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10131::::::::::0|h[Revenant Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revenant-boots"
+  },
+  {
+    "itemId": 10167,
+    "name": "Templar Boots",
+    "icon": "inv_boots_plate_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9429,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Templar Boots"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "361 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10167::::::::::0|h[Templar Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "templar-boots"
+  },
+  {
+    "itemId": 10201,
+    "name": "Overlord's Greaves",
+    "icon": "inv_boots_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5960,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Overlord's Greaves"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "318 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10201::::::::::0|h[Overlord's Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "overlords-greaves"
+  },
+  {
+    "itemId": 10238,
+    "name": "Heavy Lamellar Boots",
+    "icon": "inv_boots_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7650,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Heavy Lamellar Boots"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "342 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10238::::::::::0|h[Heavy Lamellar Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-lamellar-boots"
+  },
+  {
+    "itemId": 10276,
+    "name": "Emerald Sabatons",
+    "icon": "inv_boots_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9847,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Emerald Sabatons"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "367 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10276::::::::::0|h[Emerald Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "emerald-sabatons"
+  },
+  {
+    "itemId": 10371,
+    "name": "Imbued Plate Greaves",
+    "icon": "inv_boots_plate_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11149,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Imbued Plate Greaves"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "379 Armor"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+12 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10371::::::::::0|h[Imbued Plate Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "imbued-plate-greaves"
+  },
+  {
+    "itemId": 10376,
+    "name": "Commander's Boots",
+    "icon": "inv_boots_plate_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12519,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Commander's Boots"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "392 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10376::::::::::0|h[Commander's Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "commanders-boots"
+  },
+  {
+    "itemId": 10385,
+    "name": "Hyperion Greaves",
+    "icon": "inv_boots_plate_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13247,
+    "quality": "Uncommon",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Hyperion Greaves"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "404 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10385::::::::::0|h[Hyperion Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hyperion-greaves"
+  },
+  {
+    "itemId": 10707,
+    "name": "Steelsmith Greaves",
+    "icon": "inv_boots_plate_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7772,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 45,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Steelsmith Greaves"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "342 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 3461,
+          "name": "Return to Tymor",
+          "faction": "Alliance",
+          "requiredLevel": 45
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:10707::::::::::0|h[Steelsmith Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "steelsmith-greaves"
+  },
+  {
+    "itemId": 11872,
+    "name": "Eschewal Greaves",
+    "icon": "inv_boots_plate_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8566,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 50,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Eschewal Greaves"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "354 Armor"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 4510,
+          "name": "Calm Before the Storm",
+          "faction": "Alliance",
+          "requiredLevel": 50
+        },
+        {
+          "questId": 4511,
+          "name": "Calm Before the Storm",
+          "faction": "Horde",
+          "requiredLevel": 50
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:11872::::::::::0|h[Eschewal Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "eschewal-greaves"
+  },
+  {
+    "itemId": 11919,
+    "name": "Cragplate Greaves",
+    "icon": "inv_boots_plate_08",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 9572,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 49,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Cragplate Greaves"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "361 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 4501,
+          "name": "Beware of Pterrordax",
+          "faction": "Both",
+          "requiredLevel": 49
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:11919::::::::::0|h[Cragplate Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cragplate-greaves"
+  },
+  {
+    "itemId": 12409,
+    "name": "Thorium Boots",
+    "icon": "inv_boots_plate_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10336,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Thorium Boots"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "367 Armor"
+      },
+      {
+        "label": "+7 Fire"
+      },
+      {
+        "label": "+7 Nature"
+      },
+      {
+        "label": "+7 Frost"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "+7 Arcane"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12409::::::::::0|h[Thorium Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thorium-boots"
+  },
+  {
+    "itemId": 12426,
+    "name": "Imperial Plate Boots",
+    "icon": "inv_boots_plate_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12062,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Imperial Plate Boots"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "386 Armor"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "+28 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12426::::::::::0|h[Imperial Plate Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "imperial-plate-boots"
+  },
+  {
+    "itemId": 12611,
+    "name": "Runic Plate Boots",
+    "icon": "inv_boots_plate_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12293,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Runic Plate Boots"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "492 Armor"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "+10 Nature"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12611::::::::::0|h[Runic Plate Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "runic-plate-boots"
+  },
+  {
+    "itemId": 13527,
+    "name": "Lavawalker Greaves",
+    "icon": "inv_boots_plate_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13149,
+    "quality": "Uncommon",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Lavawalker Greaves"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "404 Armor"
+      },
+      {
+        "label": "+20 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:13527::::::::::0|h[Lavawalker Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lavawalker-greaves"
+  },
+  {
+    "itemId": 14828,
+    "name": "Symbolic Greaves",
+    "icon": "inv_boots_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3772,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Symbolic Greaves"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "233 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+4 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14828::::::::::0|h[Symbolic Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "symbolic-greaves"
+  },
+  {
+    "itemId": 14839,
+    "name": "Tyrant's Greaves",
+    "icon": "inv_boots_plate_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4701,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Tyrant's Greaves"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "294 Armor"
+      },
+      {
+        "label": "+4 Agility"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14839::::::::::0|h[Tyrant's Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tyrants-greaves"
+  },
+  {
+    "itemId": 14848,
+    "name": "Sunscale Sabatons",
+    "icon": "inv_boots_07",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6854,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Sunscale Sabatons"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "330 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+3 Agility"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14848::::::::::0|h[Sunscale Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sunscale-sabatons"
+  },
+  {
+    "itemId": 14857,
+    "name": "Vanguard Sabatons",
+    "icon": "inv_boots_plate_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9266,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Vanguard Sabatons"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "354 Armor"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14857::::::::::0|h[Vanguard Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "vanguard-sabatons"
+  },
+  {
+    "itemId": 14896,
+    "name": "Saltstone Sabatons",
+    "icon": "inv_boots_plate_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3418,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Saltstone Sabatons"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "182 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14896::::::::::0|h[Saltstone Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "saltstone-sabatons"
+  },
+  {
+    "itemId": 14911,
+    "name": "Brutish Boots",
+    "icon": "inv_boots_plate_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5327,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Brutish Boots"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "306 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14911::::::::::0|h[Brutish Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brutish-boots"
+  },
+  {
+    "itemId": 14913,
+    "name": "Jade Greaves",
+    "icon": "inv_boots_plate_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6697,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Jade Greaves"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "324 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14913::::::::::0|h[Jade Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jade-greaves"
+  },
+  {
+    "itemId": 14922,
+    "name": "Lofty Sabatons",
+    "icon": "inv_boots_wolf",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8273,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Lofty Sabatons"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "348 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14922::::::::::0|h[Lofty Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lofty-sabatons"
+  },
+  {
+    "itemId": 14932,
+    "name": "Heroic Greaves",
+    "icon": "inv_boots_plate_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11784,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Heroic Greaves"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "379 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14932::::::::::0|h[Heroic Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heroic-greaves"
+  },
+  {
+    "itemId": 14940,
+    "name": "Warbringer's Sabatons",
+    "icon": "inv_boots_plate_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4059,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Warbringer's Sabatons"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "262 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14940::::::::::0|h[Warbringer's Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warbringers-sabatons"
+  },
+  {
+    "itemId": 14951,
+    "name": "Bloodforged Sabatons",
+    "icon": "inv_boots_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5902,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Bloodforged Sabatons"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "312 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14951::::::::::0|h[Bloodforged Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodforged-sabatons"
+  },
+  {
+    "itemId": 14957,
+    "name": "High Chief's Sabatons",
+    "icon": "inv_boots_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7223,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "High Chief's Sabatons"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "336 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14957::::::::::0|h[High Chief's Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-chiefs-sabatons"
+  },
+  {
+    "itemId": 14972,
+    "name": "Glorious Sabatons",
+    "icon": "inv_boots_plate_03",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10486,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Glorious Sabatons"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "367 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14972::::::::::0|h[Glorious Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "glorious-sabatons"
+  },
+  {
+    "itemId": 14978,
+    "name": "Exalted Sabatons",
+    "icon": "inv_boots_wolf",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13913,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Exalted Sabatons"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "410 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14978::::::::::0|h[Exalted Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "exalted-sabatons"
+  },
+  {
+    "itemId": 17688,
+    "name": "Jungle Boots",
+    "icon": "inv_boots_plate_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3155,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 30,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Jungle Boots"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "182 Armor"
+      },
+      {
+        "label": "+4 Stamina"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 338,
+          "name": "The Green Hills of Stranglethorn",
+          "faction": "Both",
+          "requiredLevel": 30
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:17688::::::::::0|h[Jungle Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jungle-boots"
+  },
+  {
+    "itemId": 61348,
+    "name": "Inlaid Plate Boots",
+    "icon": "inv_boots_plate_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6154,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 36,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Inlaid Plate Boots"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "388 Armor"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+4 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40841,
+          "name": "Behind The Wall",
+          "faction": "Alliance",
+          "requiredLevel": 36
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:61348::::::::::0|h[Inlaid Plate Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "inlaid-plate-boots"
+  },
+  {
+    "itemId": 61377,
+    "name": "Greymane Sabatons",
+    "icon": "inv_boots_plate_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3761,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Greymane Sabatons"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "238 Armor"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+6 Spirit"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61377::::::::::0|h[Greymane Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "greymane-sabatons"
+  },
+  {
+    "itemId": 61579,
+    "name": "Old Knight's Sabatons",
+    "icon": "inv_boots_plate_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7452,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Old Knight's Sabatons"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "312 Armor"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61579::::::::::0|h[Old Knight's Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "old-knights-sabatons"
+  },
+  {
+    "itemId": 61668,
+    "name": "Dawnstone Sabatons",
+    "icon": "inv_boots_plate_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5960,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Dawnstone Sabatons"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "326 Armor"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61668::::::::::0|h[Dawnstone Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dawnstone-sabatons"
+  },
+  {
+    "itemId": 80670,
+    "name": "Sludge-drenched Sabatons",
+    "icon": "inv_boots_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8235,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Sludge-drenched Sabatons"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "348 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+15 Nature"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:80670::::::::::0|h[Sludge-drenched Sabatons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sludge-drenched-sabatons"
+  },
+  {
+    "itemId": 83410,
+    "name": "Steel Plate Boots",
+    "icon": "inv_boots_chain_04",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6301,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Steel Plate Boots"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "334 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "+30 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:83410::::::::::0|h[Steel Plate Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "steel-plate-boots"
+  },
+  {
+    "itemId": 3244,
+    "name": "OLDMonster - Feet, Plate Silver",
+    "icon": "inv_boots_plate_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 0,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "OLDMonster - Feet, Plate Silver"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "27 Armor"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3244::::::::::0|h[OLDMonster - Feet, Plate Silver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "oldmonster-feet-plate-silver"
+  },
+  {
+    "itemId": 8082,
+    "name": "Light Plate Boots",
+    "icon": "inv_boots_plate_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3189,
+    "quality": "Poor",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Light Plate Boots"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "308 Armor"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:8082::::::::::0|h[Light Plate Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "light-plate-boots"
+  },
+  {
+    "itemId": 8089,
+    "name": "Platemail Boots",
+    "icon": "inv_boots_plate_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4016,
+    "quality": "Common",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Platemail Boots"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "314 Armor"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:8089::::::::::0|h[Platemail Boots]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "platemail-boots"
+  },
+  {
+    "itemId": 14865,
+    "name": "Warleader's Greaves",
+    "icon": "inv_boots_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12018,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "Warleader's Greaves"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "392 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+8 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14865::::::::::0|h[Warleader's Greaves]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warleaders-greaves"
+  },
+  {
+    "itemId": 16030,
+    "name": "PVP Plate Boots Alliance",
+    "icon": "inv_boots_plate_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7270,
+    "quality": "Common",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Feet",
+    "tooltip": [
+      {
+        "label": "PVP Plate Boots Alliance"
+      },
+      {
+        "label": "Feet"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "372 Armor"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:16030::::::::::0|h[PVP Plate Boots Alliance]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pvp-plate-boots-alliance"
+  }
+]

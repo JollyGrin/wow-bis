@@ -1,0 +1,5242 @@
+[
+  {
+    "itemId": 2098,
+    "name": "Double-barreled Shotgun",
+    "icon": "inv_weapon_rifle_08",
+    "class": "Weapon",
+    "subclass": "gun",
+    "sellPrice": 3020,
+    "quality": "Rare",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Double-barreled Shotgun"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "21 - 40  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:2098::::::::::0|h[Double-barreled Shotgun]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "double-barreled-shotgun",
+    "speed": 2.3,
+    "dps": 13.3
+  },
+  {
+    "itemId": 2099,
+    "name": "Dwarven Hand Cannon",
+    "icon": "inv_weapon_rifle_09",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 45040,
+    "quality": "Epic",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Dwarven Hand Cannon"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "66 - 124  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:2099::::::::::0|h[Dwarven Hand Cannon]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dwarven-hand-cannon",
+    "speed": 2.9,
+    "dps": 32.8
+  },
+  {
+    "itemId": 2100,
+    "name": "Precisely Calibrated Boomstick",
+    "icon": "inv_weapon_rifle_06",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 24539,
+    "quality": "Epic",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Precisely Calibrated Boomstick"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "38 - 45  Damage"
+      },
+      {
+        "label": "+14 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:2100::::::::::0|h[Precisely Calibrated Boomstick]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "precisely-calibrated-boomstick",
+    "speed": 1.5,
+    "dps": 27.7
+  },
+  {
+    "itemId": 3041,
+    "name": "\"Mage-Eye\" Blunderbuss",
+    "icon": "inv_weapon_rifle_05",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 3769,
+    "quality": "Uncommon",
+    "itemLevel": 31,
+    "requiredLevel": 26,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "\"Mage-Eye\" Blunderbuss"
+      },
+      {
+        "label": "Requires Level 26"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "24 - 46  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3041::::::::::0|h[\"Mage-Eye\" Blunderbuss]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mage-eye-blunderbuss",
+    "speed": 2.8,
+    "dps": 12.5
+  },
+  {
+    "itemId": 3042,
+    "name": "BKP \"Sparrow\" Smallbore",
+    "icon": "inv_weapon_rifle_01",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 4577,
+    "quality": "Uncommon",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "BKP \"Sparrow\" Smallbore"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "15 - 30  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3042::::::::::0|h[BKP \"Sparrow\" Smallbore]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bkp-sparrow-smallbore",
+    "speed": 1.7,
+    "dps": 13.2
+  },
+  {
+    "itemId": 6798,
+    "name": "Blasting Hackbut",
+    "icon": "inv_weapon_rifle_04",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 6386,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Blasting Hackbut"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "30 - 56  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1273,
+          "name": "Questioning Reethe",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6798::::::::::0|h[Blasting Hackbut]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blasting-hackbut",
+    "speed": 2.8,
+    "dps": 15.4
+  },
+  {
+    "itemId": 9412,
+    "name": "Galgann's Fireblaster",
+    "icon": "inv_weapon_rifle_07",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 16681,
+    "quality": "Rare",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Galgann's Fireblaster"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "44 - 84  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9412::::::::::0|h[Galgann's Fireblaster]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "galganns-fireblaster",
+    "speed": 2.6,
+    "dps": 24.6
+  },
+  {
+    "itemId": 9422,
+    "name": "Shadowforge Bushmaster",
+    "icon": "inv_musket_02",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 13052,
+    "quality": "Rare",
+    "itemLevel": 43,
+    "requiredLevel": 38,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Shadowforge Bushmaster"
+      },
+      {
+        "label": "Requires Level 38"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "46 - 86  Damage"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9422::::::::::0|h[Shadowforge Bushmaster]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shadowforge-bushmaster",
+    "speed": 2.9,
+    "dps": 22.8
+  },
+  {
+    "itemId": 9456,
+    "name": "Glass Shooter",
+    "icon": "inv_weapon_rifle_02",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 6652,
+    "quality": "Rare",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Glass Shooter"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "36 - 68  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9456::::::::::0|h[Glass Shooter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "glass-shooter",
+    "speed": 2.9,
+    "dps": 17.9
+  },
+  {
+    "itemId": 9487,
+    "name": "Hi-tech Supergun",
+    "icon": "inv_weapon_rifle_06",
+    "class": "Weapon",
+    "subclass": "gun",
+    "sellPrice": 3632,
+    "quality": "Rare",
+    "itemLevel": 29,
+    "requiredLevel": 24,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Hi-tech Supergun"
+      },
+      {
+        "label": "Requires Level 24"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "23 - 43  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9487::::::::::0|h[Hi-tech Supergun]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hi-tech-supergun",
+    "speed": 2.3,
+    "dps": 14.3
+  },
+  {
+    "itemId": 11629,
+    "name": "Houndmaster's Rifle",
+    "icon": "inv_weapon_rifle_07",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 24527,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Houndmaster's Rifle"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "44 - 82  Damage"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11629::::::::::0|h[Houndmaster's Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "houndmasters-rifle",
+    "speed": 2.3,
+    "dps": 27.4
+  },
+  {
+    "itemId": 13136,
+    "name": "Lil Timmy's Peashooter",
+    "icon": "inv_weapon_rifle_08",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1456,
+    "quality": "Rare",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Lil Timmy's Peashooter"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "20 - 37  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13136::::::::::0|h[Lil Timmy's Peashooter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lil-timmys-peashooter",
+    "speed": 2.6,
+    "dps": 11
+  },
+  {
+    "itemId": 13137,
+    "name": "Ironweaver",
+    "icon": "inv_weapon_rifle_08",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 5874,
+    "quality": "Rare",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Ironweaver"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "31 - 59  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13137::::::::::0|h[Ironweaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ironweaver",
+    "speed": 2.6,
+    "dps": 17.3
+  },
+  {
+    "itemId": 13138,
+    "name": "The Silencer",
+    "icon": "inv_weapon_rifle_08",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 11532,
+    "quality": "Rare",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "The Silencer"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "43 - 82  Damage"
+      },
+      {
+        "label": "+14 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13138::::::::::0|h[The Silencer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-silencer",
+    "speed": 2.8,
+    "dps": 22.3
+  },
+  {
+    "itemId": 13139,
+    "name": "Guttbuster",
+    "icon": "inv_weapon_rifle_08",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 21029,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Guttbuster"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "49 - 92  Damage"
+      },
+      {
+        "label": "+8 Agility"
+      },
+      {
+        "label": "+3 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13139::::::::::0|h[Guttbuster]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "guttbuster",
+    "speed": 2.7,
+    "dps": 26.1
+  },
+  {
+    "itemId": 13146,
+    "name": "Shell Launcher Shotgun",
+    "icon": "inv_weapon_rifle_08",
+    "class": "Weapon",
+    "subclass": "gun",
+    "sellPrice": 34704,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Shell Launcher Shotgun"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "48 - 89  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13146::::::::::0|h[Shell Launcher Shotgun]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shell-launcher-shotgun",
+    "speed": 2.3,
+    "dps": 29.8
+  },
+  {
+    "itemId": 13248,
+    "name": "Burstshot Harquebus",
+    "icon": "inv_weapon_rifle_06",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 29670,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Burstshot Harquebus"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "52 - 98  Damage"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "+10 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13248::::::::::0|h[Burstshot Harquebus]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "burstshot-harquebus",
+    "speed": 2.6,
+    "dps": 28.8
+  },
+  {
+    "itemId": 13380,
+    "name": "Willey's Portable Howitzer",
+    "icon": "inv_weapon_rifle_07",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 38443,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Willey's Portable Howitzer"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "63 - 118  Damage"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "+8 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13380::::::::::0|h[Willey's Portable Howitzer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "willeys-portable-howitzer",
+    "speed": 2.9,
+    "dps": 31.2
+  },
+  {
+    "itemId": 16004,
+    "name": "Dark Iron Rifle",
+    "icon": "inv_weapon_rifle_08",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 29152,
+    "quality": "Rare",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Dark Iron Rifle"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "70 - 106  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40762,
+          "name": "The Dark Iron Desecrator",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:16004::::::::::0|h[Dark Iron Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dark-iron-rifle",
+    "speed": 3.1,
+    "dps": 28.4
+  },
+  {
+    "itemId": 16007,
+    "name": "Flawless Arcanite Rifle",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 40625,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Flawless Arcanite Rifle"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "68 - 126  Damage"
+      },
+      {
+        "label": "+10 ranged"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16007::::::::::0|h[Flawless Arcanite Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "flawless-arcanite-rifle",
+    "speed": 3.1,
+    "dps": 31.3
+  },
+  {
+    "itemId": 17072,
+    "name": "Blastershot Launcher",
+    "icon": "inv_weapon_rifle_09",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 82572,
+    "quality": "Epic",
+    "itemLevel": 70,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Blastershot Launcher"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "73 - 136  Damage"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:17072::::::::::0|h[Blastershot Launcher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blastershot-launcher",
+    "speed": 2.6,
+    "dps": 40.2
+  },
+  {
+    "itemId": 17717,
+    "name": "Megashot Rifle",
+    "icon": "inv_weapon_rifle_05",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 26425,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Megashot Rifle"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "32 - 61  Damage"
+      },
+      {
+        "label": "+5 Arcane"
+      },
+      {
+        "label": "+19 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:17717::::::::::0|h[Megashot Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "megashot-rifle",
+    "speed": 1.7,
+    "dps": 27.4
+  },
+  {
+    "itemId": 18282,
+    "name": "Core Marksman Rifle",
+    "icon": "inv_weapon_rifle_05",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 66347,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Core Marksman Rifle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "91 - 149  Damage"
+      },
+      {
+        "label": "+24 ranged"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18282::::::::::0|h[Core Marksman Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "core-marksman-rifle",
+    "speed": 3.2,
+    "dps": 37.5
+  },
+  {
+    "itemId": 18755,
+    "name": "Xorothian Firestick",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 43129,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Xorothian Firestick"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "57 - 108  Damage"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+4 Agility"
+      },
+      {
+        "label": "+6 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18755::::::::::0|h[Xorothian Firestick]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "xorothian-firestick",
+    "speed": 2.6,
+    "dps": 31.7
+  },
+  {
+    "itemId": 18855,
+    "name": "Grand Marshal's Hand Cannon",
+    "icon": "inv_weapon_rifle_08",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 35945,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Grand Marshal's Hand Cannon"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "120 - 175  Damage"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "+41 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18855::::::::::0|h[Grand Marshal's Hand Cannon]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grand-marshals-hand-cannon",
+    "speed": 2.9,
+    "dps": 50.9
+  },
+  {
+    "itemId": 18860,
+    "name": "High Warlord's Street Sweeper",
+    "icon": "inv_weapon_rifle_06",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 36602,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "High Warlord's Street Sweeper"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "120 - 175  Damage"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "+41 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18860::::::::::0|h[High Warlord's Street Sweeper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-warlords-street-sweeper",
+    "speed": 2.9,
+    "dps": 50.9
+  },
+  {
+    "itemId": 19368,
+    "name": "Dragonbreath Hand Cannon",
+    "icon": "inv_weapon_rifle_02",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 106574,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Dragonbreath Hand Cannon"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "99 - 173  Damage"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19368::::::::::0|h[Dragonbreath Hand Cannon]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dragonbreath-hand-cannon",
+    "speed": 3.1,
+    "dps": 43.9
+  },
+  {
+    "itemId": 19853,
+    "name": "Gurubashi Dwarf Destroyer",
+    "icon": "inv_weapon_rifle_10",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 73837,
+    "quality": "Epic",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Gurubashi Dwarf Destroyer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "76 - 142  Damage"
+      },
+      {
+        "label": "+30 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19853::::::::::0|h[Gurubashi Dwarf Destroyer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gurubashi-dwarf-destroyer",
+    "speed": 2.8,
+    "dps": 38.9
+  },
+  {
+    "itemId": 20245,
+    "name": "90 Green Warrior Gun",
+    "icon": "inv_weapon_rifle_05",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 131474,
+    "quality": "Uncommon",
+    "itemLevel": 90,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "90 Green Warrior Gun"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "81 - 151  Damage"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20245::::::::::0|h[90 Green Warrior Gun]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "90-green-warrior-gun",
+    "speed": 2.5,
+    "dps": 46.4
+  },
+  {
+    "itemId": 20285,
+    "name": "63 Green Warrior Gun",
+    "icon": "inv_weapon_rifle_05",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 36161,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "63 Green Warrior Gun"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "51 - 96  Damage"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20285::::::::::0|h[63 Green Warrior Gun]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "63-green-warrior-gun",
+    "speed": 2.5,
+    "dps": 29.4
+  },
+  {
+    "itemId": 20722,
+    "name": "Crystal Slugthrower",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 45413,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Crystal Slugthrower"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "65 - 122  Damage"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "+20 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20722::::::::::0|h[Crystal Slugthrower]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crystal-slugthrower",
+    "speed": 2.8,
+    "dps": 33.4
+  },
+  {
+    "itemId": 21272,
+    "name": "Blessed Qiraji Musket",
+    "icon": "inv_weapon_rifle_11",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 130949,
+    "quality": "Epic",
+    "itemLevel": 79,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Blessed Qiraji Musket"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "109 - 184  Damage"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "+31 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8789,
+          "name": "Imperial Qiraji Armaments",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21272::::::::::0|h[Blessed Qiraji Musket]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blessed-qiraji-musket",
+    "speed": 3.1,
+    "dps": 47.3
+  },
+  {
+    "itemId": 21800,
+    "name": "Silithid Husked Launcher",
+    "icon": "inv_weapon_rifle_10",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 52522,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Silithid Husked Launcher"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "68 - 128  Damage"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:21800::::::::::0|h[Silithid Husked Launcher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "silithid-husked-launcher",
+    "speed": 2.8,
+    "dps": 35
+  },
+  {
+    "itemId": 22656,
+    "name": "The Purifier",
+    "icon": "inv_weapon_rifle_06",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 47443,
+    "quality": "Epic",
+    "itemLevel": 63,
+    "requiredLevel": 55,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "The Purifier"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "74 - 138  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9228,
+          "name": "Epic Armaments of Battle - Exalted Amongst the Dawn",
+          "faction": "Both",
+          "requiredLevel": 55
+        },
+        {
+          "questId": 9222,
+          "name": "Epic Armaments of Battle - Friend of the Dawn",
+          "faction": "Both",
+          "requiredLevel": 55
+        },
+        {
+          "questId": 9224,
+          "name": "Epic Armaments of Battle - Honored Amongst the Dawn",
+          "faction": "Both",
+          "requiredLevel": 55
+        },
+        {
+          "questId": 9225,
+          "name": "Epic Armaments of Battle - Revered Amongst the Dawn",
+          "faction": "Both",
+          "requiredLevel": 55
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22656::::::::::0|h[The Purifier]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-purifier",
+    "speed": 3,
+    "dps": 35.3
+  },
+  {
+    "itemId": 22810,
+    "name": "Toxin Injector",
+    "icon": "inv_weapon_rifle_13",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 142362,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Toxin Injector"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "68 - 135  Damage"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "+28 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:22810::::::::::0|h[Toxin Injector]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "toxin-injector",
+    "speed": 2,
+    "dps": 50.8
+  },
+  {
+    "itemId": 23557,
+    "name": "Larvae of the Great Worm",
+    "icon": "inv_weapon_rifle_10",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 132177,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Larvae of the Great Worm"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "103 - 192  Damage"
+      },
+      {
+        "label": "+18 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:23557::::::::::0|h[Larvae of the Great Worm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "larvae-of-the-great-worm",
+    "speed": 3,
+    "dps": 49.2
+  },
+  {
+    "itemId": 51746,
+    "name": "Shadowblaster",
+    "icon": "inv_musket_02",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 10814,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Shadowblaster"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "126 - 65  Damage"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "+14 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:51746::::::::::0|h[Shadowblaster]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shadowblaster",
+    "speed": 3.1,
+    "dps": 31.9
+  },
+  {
+    "itemId": 51780,
+    "name": "Ghoulslayer Shotgun",
+    "icon": "inv_weapon_rifle_13",
+    "class": "Weapon",
+    "subclass": "gun",
+    "sellPrice": 16295,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Ghoulslayer Shotgun"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "81 - 151  Damage"
+      },
+      {
+        "label": "+24 Attack"
+      },
+      {
+        "label": "+15 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:51780::::::::::0|h[Ghoulslayer Shotgun]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ghoulslayer-shotgun",
+    "speed": 3.1,
+    "dps": 37.4
+  },
+  {
+    "itemId": 55068,
+    "name": "Zan's Leperification Blaster",
+    "icon": "inv_weapon_rifle_06",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 17750,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Zan's Leperification Blaster"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "49 - 92  Damage"
+      },
+      {
+        "label": "+4 Agility"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:55068::::::::::0|h[Zan's Leperification Blaster]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "zans-leperification-blaster",
+    "speed": 2.7,
+    "dps": 26.1
+  },
+  {
+    "itemId": 55379,
+    "name": "Slag Slugger",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 2140,
+    "quality": "Rare",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Slag Slugger"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "15 - 28  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:55379::::::::::0|h[Slag Slugger]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "slag-slugger",
+    "speed": 2.3,
+    "dps": 9.3
+  },
+  {
+    "itemId": 58083,
+    "name": "Nippsy's Precision Rifle",
+    "icon": "inv_weapon_rifle_02",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 20652,
+    "quality": "Rare",
+    "itemLevel": 47,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Nippsy's Precision Rifle"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "51 - 92  Damage"
+      },
+      {
+        "label": "+6 Agility"
+      },
+      {
+        "label": "+5 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41787,
+          "name": "Heart of Darkness",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:58083::::::::::0|h[Nippsy's Precision Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "nippsys-precision-rifle",
+    "speed": 2.9,
+    "dps": 24.7
+  },
+  {
+    "itemId": 60545,
+    "name": "Techrifle X-TREME 5200",
+    "icon": "inv_weapon_rifle_06",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 30842,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Techrifle X-TREME 5200"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "47 - 93  Damage"
+      },
+      {
+        "label": "+8 Agility"
+      },
+      {
+        "label": "+2 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60545::::::::::0|h[Techrifle X-TREME 5200]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "techrifle-x-treme-5200",
+    "speed": 2.6,
+    "dps": 28.1
+  },
+  {
+    "itemId": 61011,
+    "name": "Flintlocke's Hand Cannon",
+    "icon": "inv_weapon_rifle_09",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 66457,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Flintlocke's Hand Cannon"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "97 - 139  Damage"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61011::::::::::0|h[Flintlocke's Hand Cannon]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "flintlockes-hand-cannon",
+    "speed": 3.2,
+    "dps": 36.9
+  },
+  {
+    "itemId": 61068,
+    "name": "Dark Iron Desecrator",
+    "icon": "spell_frost_fireresistancetotem",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 68207,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Dark Iron Desecrator"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "72 - 142  Damage"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40762,
+          "name": "The Dark Iron Desecrator",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:61068::::::::::0|h[Dark Iron Desecrator]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dark-iron-desecrator",
+    "speed": 2.9,
+    "dps": 39.5
+  },
+  {
+    "itemId": 61248,
+    "name": "Beasthunter's Blunderbuss",
+    "icon": "inv_weapon_rifle_twow_02_gray",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 66280,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Beasthunter's Blunderbuss"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "72 - 138  Damage"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "+39 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61248::::::::::0|h[Beasthunter's Blunderbuss]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "beasthunters-blunderbuss",
+    "speed": 2.8,
+    "dps": 37.5
+  },
+  {
+    "itemId": 61307,
+    "name": "Worgen Hunter Musket",
+    "icon": "inv_weapon_rifle_twow_02_ironblack",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 18209,
+    "quality": "Rare",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Worgen Hunter Musket"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "50 - 92  Damage"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "+12 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61307::::::::::0|h[Worgen Hunter Musket]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "worgen-hunter-musket",
+    "speed": 2.9,
+    "dps": 24.5
+  },
+  {
+    "itemId": 61383,
+    "name": "Intricate Gnomish Blunderbuss",
+    "icon": "inv_weapon_rifle_twow_01_gold_noglow",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 6788,
+    "quality": "Rare",
+    "itemLevel": 37,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Intricate Gnomish Blunderbuss"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "30 - 78  Damage"
+      },
+      {
+        "label": "+3 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40856,
+          "name": "Backup System Activation",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:61383::::::::::0|h[Intricate Gnomish Blunderbuss]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "intricate-gnomish-blunderbuss",
+    "speed": 3,
+    "dps": 18
+  },
+  {
+    "itemId": 80795,
+    "name": "Burstshot Harquebus",
+    "icon": "inv_weapon_rifle_06",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 7418,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Burstshot Harquebus"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "52 - 98  Damage"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "+10 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80795::::::::::0|h[Burstshot Harquebus]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "burstshot-harquebus",
+    "speed": 2.6,
+    "dps": 28.8
+  },
+  {
+    "itemId": 83257,
+    "name": "Caer Darrow Reserve Rifle",
+    "icon": "inv_weapon_rifle_07",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 42688,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 56,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Caer Darrow Reserve Rifle"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "76 - 94  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83257::::::::::0|h[Caer Darrow Reserve Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "caer-darrow-reserve-rifle",
+    "speed": 2.6,
+    "dps": 32.7
+  },
+  {
+    "itemId": 2508,
+    "name": "Old Blunderbuss",
+    "icon": "inv_weapon_rifle_01",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 5,
+    "quality": "Common",
+    "itemLevel": 2,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Old Blunderbuss"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 5  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2508::::::::::0|h[Old Blunderbuss]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "old-blunderbuss",
+    "speed": 2.3,
+    "dps": 1.5
+  },
+  {
+    "itemId": 2511,
+    "name": "Hunter's Boomstick",
+    "icon": "inv_weapon_rifle_04",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 264,
+    "quality": "Common",
+    "itemLevel": 14,
+    "requiredLevel": 9,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Hunter's Boomstick"
+      },
+      {
+        "label": "Requires Level 9"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "7 - 14  Damage"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2511::::::::::0|h[Hunter's Boomstick]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hunters-boomstick",
+    "speed": 2.1,
+    "dps": 5
+  },
+  {
+    "itemId": 2904,
+    "name": "Daryl's Hunting Rifle",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 595,
+    "quality": "Uncommon",
+    "itemLevel": 16,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Daryl's Hunting Rifle"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "11 - 21  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 257,
+          "name": "A Hunter's Boast",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:2904::::::::::0|h[Daryl's Hunting Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "daryls-hunting-rifle",
+    "speed": 2.5,
+    "dps": 6.4
+  },
+  {
+    "itemId": 3023,
+    "name": "Large Bore Blunderbuss",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 754,
+    "quality": "Common",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Large Bore Blunderbuss"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "13 - 24  Damage"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3023::::::::::0|h[Large Bore Blunderbuss]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "large-bore-blunderbuss",
+    "speed": 2.5,
+    "dps": 7.4
+  },
+  {
+    "itemId": 3024,
+    "name": "BKP 2700 \"Enforcer\"",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1419,
+    "quality": "Common",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "BKP 2700 \"Enforcer\""
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "18 - 34  Damage"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3024::::::::::0|h[BKP 2700 \"Enforcer\"]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bkp-2700-enforcer",
+    "speed": 2.7,
+    "dps": 9.6
+  },
+  {
+    "itemId": 3025,
+    "name": "BKP 42 \"Ultra\"",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 3695,
+    "quality": "Common",
+    "itemLevel": 36,
+    "requiredLevel": 31,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "BKP 42 \"Ultra\""
+      },
+      {
+        "label": "Requires Level 31"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "20 - 38  Damage"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3025::::::::::0|h[BKP 42 \"Ultra\"]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bkp-42-ultra",
+    "speed": 2.1,
+    "dps": 13.8
+  },
+  {
+    "itemId": 3040,
+    "name": "Hunter's Muzzle Loader",
+    "icon": "inv_weapon_rifle_01",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 940,
+    "quality": "Uncommon",
+    "itemLevel": 19,
+    "requiredLevel": 14,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Hunter's Muzzle Loader"
+      },
+      {
+        "label": "Requires Level 14"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "9 - 18  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3040::::::::::0|h[Hunter's Muzzle Loader]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hunters-muzzle-loader",
+    "speed": 1.8,
+    "dps": 7.5
+  },
+  {
+    "itemId": 3079,
+    "name": "Skorn's Rifle",
+    "icon": "inv_weapon_rifle_01",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 297,
+    "quality": "Uncommon",
+    "itemLevel": 12,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Skorn's Rifle"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "6 - 13  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 770,
+          "name": "The Demon Scarred Cloak",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3079::::::::::0|h[Skorn's Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "skorns-rifle",
+    "speed": 1.9,
+    "dps": 5
+  },
+  {
+    "itemId": 3430,
+    "name": "Sniper Rifle",
+    "icon": "inv_weapon_rifle_05",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 11026,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 39,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Sniper Rifle"
+      },
+      {
+        "label": "Requires Level 39"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "56 - 65  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3430::::::::::0|h[Sniper Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sniper-rifle",
+    "speed": 3,
+    "dps": 20.2
+  },
+  {
+    "itemId": 3567,
+    "name": "Dwarven Fishing Pole",
+    "icon": "inv_weapon_rifle_01",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 922,
+    "quality": "Uncommon",
+    "itemLevel": 19,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Dwarven Fishing Pole"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "9 - 19  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 150,
+          "name": "Murloc Poachers",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3567::::::::::0|h[Dwarven Fishing Pole]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dwarven-fishing-pole",
+    "speed": 1.9,
+    "dps": 7.4
+  },
+  {
+    "itemId": 4086,
+    "name": "Flash Rifle",
+    "icon": "inv_weapon_rifle_07",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 6386,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Flash Rifle"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "19 - 36  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 705,
+          "name": "Pearl Diving",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4086::::::::::0|h[Flash Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "flash-rifle",
+    "speed": 1.8,
+    "dps": 15.3
+  },
+  {
+    "itemId": 4089,
+    "name": "Ricochet Blunderbuss",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 15060,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Ricochet Blunderbuss"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "36 - 67  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4089::::::::::0|h[Ricochet Blunderbuss]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ricochet-blunderbuss",
+    "speed": 2.3,
+    "dps": 22.4
+  },
+  {
+    "itemId": 4111,
+    "name": "Master Hunter's Rifle",
+    "icon": "inv_weapon_rifle_05",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 12042,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Master Hunter's Rifle"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "37 - 70  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4111::::::::::0|h[Master Hunter's Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "master-hunters-rifle",
+    "speed": 2.6,
+    "dps": 20.6
+  },
+  {
+    "itemId": 4127,
+    "name": "Shrapnel Blaster",
+    "icon": "inv_weapon_rifle_02",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 8073,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Shrapnel Blaster"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "23 - 43  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 202,
+          "name": "Colonel Kurzen",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4127::::::::::0|h[Shrapnel Blaster]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shrapnel-blaster",
+    "speed": 1.9,
+    "dps": 17.4
+  },
+  {
+    "itemId": 4362,
+    "name": "Rough Boomstick",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 187,
+    "quality": "Uncommon",
+    "itemLevel": 10,
+    "requiredLevel": 5,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Rough Boomstick"
+      },
+      {
+        "label": "Requires Level 5"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "6 - 13  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4362::::::::::0|h[Rough Boomstick]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rough-boomstick",
+    "speed": 2.3,
+    "dps": 4.1
+  },
+  {
+    "itemId": 4369,
+    "name": "Deadly Blunderbuss",
+    "icon": "inv_weapon_rifle_07",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1179,
+    "quality": "Uncommon",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Deadly Blunderbuss"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "15 - 28  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 6581,
+          "name": "Warsong Saw Blades",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4369::::::::::0|h[Deadly Blunderbuss]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "deadly-blunderbuss",
+    "speed": 2.6,
+    "dps": 8.3
+  },
+  {
+    "itemId": 4372,
+    "name": "Lovingly Crafted Boomstick",
+    "icon": "inv_weapon_rifle_07",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1800,
+    "quality": "Uncommon",
+    "itemLevel": 24,
+    "requiredLevel": 19,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Lovingly Crafted Boomstick"
+      },
+      {
+        "label": "Requires Level 19"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "12 - 23  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4372::::::::::0|h[Lovingly Crafted Boomstick]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lovingly-crafted-boomstick",
+    "speed": 1.8,
+    "dps": 9.7
+  },
+  {
+    "itemId": 4383,
+    "name": "Moonsight Rifle",
+    "icon": "inv_weapon_rifle_06",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 3183,
+    "quality": "Uncommon",
+    "itemLevel": 29,
+    "requiredLevel": 24,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Moonsight Rifle"
+      },
+      {
+        "label": "Requires Level 24"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "14 - 26  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4383::::::::::0|h[Moonsight Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "moonsight-rifle",
+    "speed": 1.7,
+    "dps": 11.8
+  },
+  {
+    "itemId": 4577,
+    "name": "Compact Shotgun",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "gun",
+    "sellPrice": 356,
+    "quality": "Uncommon",
+    "itemLevel": 13,
+    "requiredLevel": 8,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Compact Shotgun"
+      },
+      {
+        "label": "Requires Level 8"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "7 - 14  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4577::::::::::0|h[Compact Shotgun]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "compact-shotgun",
+    "speed": 2,
+    "dps": 5.3
+  },
+  {
+    "itemId": 5309,
+    "name": "Privateer Musket",
+    "icon": "inv_weapon_rifle_04",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1038,
+    "quality": "Uncommon",
+    "itemLevel": 20,
+    "requiredLevel": 13,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Privateer Musket"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "12 - 24  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 891,
+          "name": "The Guns of Northwatch",
+          "faction": "Horde",
+          "requiredLevel": 13
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:5309::::::::::0|h[Privateer Musket]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "privateer-musket",
+    "speed": 2.3,
+    "dps": 7.8
+  },
+  {
+    "itemId": 8181,
+    "name": "Hunting Rifle",
+    "icon": "inv_weapon_rifle_04",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 79,
+    "quality": "Common",
+    "itemLevel": 9,
+    "requiredLevel": 4,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Hunting Rifle"
+      },
+      {
+        "label": "Requires Level 4"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "5 - 11  Damage"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:8181::::::::::0|h[Hunting Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hunting-rifle",
+    "speed": 2.7,
+    "dps": 3
+  },
+  {
+    "itemId": 8188,
+    "name": "Explosive Shotgun",
+    "icon": "inv_weapon_rifle_08",
+    "class": "Weapon",
+    "subclass": "gun",
+    "sellPrice": 6414,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 32,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Explosive Shotgun"
+      },
+      {
+        "label": "Requires Level 32"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "22 - 42  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8188::::::::::0|h[Explosive Shotgun]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "explosive-shotgun",
+    "speed": 2.1,
+    "dps": 15.2
+  },
+  {
+    "itemId": 10508,
+    "name": "Mithril Blunderbuss",
+    "icon": "inv_weapon_rifle_07",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 8958,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 36,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Mithril Blunderbuss"
+      },
+      {
+        "label": "Requires Level 36"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "36 - 68  Damage"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10508::::::::::0|h[Mithril Blunderbuss]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mithril-blunderbuss",
+    "speed": 2.9,
+    "dps": 17.9
+  },
+  {
+    "itemId": 10510,
+    "name": "Mithril Heavy-bore Rifle",
+    "icon": "inv_weapon_rifle_07",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 11369,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 39,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Mithril Heavy-bore Rifle"
+      },
+      {
+        "label": "Requires Level 39"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "41 - 76  Damage"
+      },
+      {
+        "label": "+14 ranged"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10510::::::::::0|h[Mithril Heavy-bore Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mithril-heavy-bore-rifle",
+    "speed": 2.9,
+    "dps": 20.2
+  },
+  {
+    "itemId": 12446,
+    "name": "Anvilmar Musket",
+    "icon": "inv_weapon_rifle_07",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 19,
+    "quality": "Common",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Anvilmar Musket"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "4 - 8  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:12446::::::::::0|h[Anvilmar Musket]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "anvilmar-musket",
+    "speed": 2.7,
+    "dps": 2.2
+  },
+  {
+    "itemId": 12448,
+    "name": "Light Hunting Rifle",
+    "icon": "inv_weapon_rifle_07",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 19,
+    "quality": "Common",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Light Hunting Rifle"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 6  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:12448::::::::::0|h[Light Hunting Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "light-hunting-rifle",
+    "speed": 1.9,
+    "dps": 2.1
+  },
+  {
+    "itemId": 13474,
+    "name": "Farmer Dalson's Shotgun",
+    "icon": "inv_weapon_rifle_04",
+    "class": "Weapon",
+    "subclass": "gun",
+    "sellPrice": 24724,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Farmer Dalson's Shotgun"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "34 - 64  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 5060,
+          "name": "Locked Away",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:13474::::::::::0|h[Farmer Dalson's Shotgun]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "farmer-dalsons-shotgun",
+    "speed": 1.9,
+    "dps": 25.8
+  },
+  {
+    "itemId": 15205,
+    "name": "Owlsight Rifle",
+    "icon": "inv_weapon_rifle_04",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1063,
+    "quality": "Uncommon",
+    "itemLevel": 20,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Owlsight Rifle"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "14 - 27  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 5321,
+          "name": "The Sleeper Has Awakened",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:15205::::::::::0|h[Owlsight Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "owlsight-rifle",
+    "speed": 2.6,
+    "dps": 7.9
+  },
+  {
+    "itemId": 15322,
+    "name": "Smoothbore Gun",
+    "icon": "inv_weapon_rifle_01",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 7745,
+    "quality": "Uncommon",
+    "itemLevel": 39,
+    "requiredLevel": 34,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Smoothbore Gun"
+      },
+      {
+        "label": "Requires Level 34"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 - 54  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15322::::::::::0|h[Smoothbore Gun]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "smoothbore-gun",
+    "speed": 2.5,
+    "dps": 16.6
+  },
+  {
+    "itemId": 15323,
+    "name": "Percussion Shotgun",
+    "icon": "inv_weapon_rifle_01",
+    "class": "Weapon",
+    "subclass": "gun",
+    "sellPrice": 17791,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Percussion Shotgun"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "37 - 70  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15323::::::::::0|h[Percussion Shotgun]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "percussion-shotgun",
+    "speed": 2.3,
+    "dps": 23.3
+  },
+  {
+    "itemId": 15324,
+    "name": "Burnside Rifle",
+    "icon": "inv_weapon_rifle_01",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 25565,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Burnside Rifle"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "45 - 85  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15324::::::::::0|h[Burnside Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "burnside-rifle",
+    "speed": 2.5,
+    "dps": 26
+  },
+  {
+    "itemId": 15325,
+    "name": "Sharpshooter Harquebus",
+    "icon": "inv_weapon_rifle_06",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 31784,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Sharpshooter Harquebus"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "43 - 80  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15325::::::::::0|h[Sharpshooter Harquebus]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sharpshooter-harquebus",
+    "speed": 2.2,
+    "dps": 28
+  },
+  {
+    "itemId": 15691,
+    "name": "Sidegunner Shottie",
+    "icon": "inv_weapon_rifle_04",
+    "class": "Weapon",
+    "subclass": "gun",
+    "sellPrice": 6909,
+    "quality": "Uncommon",
+    "itemLevel": 38,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Sidegunner Shottie"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "32 - 61  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 5943,
+          "name": "Gizelton Caravan",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:15691::::::::::0|h[Sidegunner Shottie]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sidegunner-shottie",
+    "speed": 2.9,
+    "dps": 16
+  },
+  {
+    "itemId": 15995,
+    "name": "Thorium Rifle",
+    "icon": "inv_weapon_rifle_07",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 19739,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Thorium Rifle"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "42 - 79  Damage"
+      },
+      {
+        "label": "+17 ranged"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15995::::::::::0|h[Thorium Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thorium-rifle",
+    "speed": 2.5,
+    "dps": 24.2
+  },
+  {
+    "itemId": 16992,
+    "name": "Smokey's Explosive Launcher",
+    "icon": "inv_weapon_rifle_08",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 30874,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Smokey's Explosive Launcher"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "52 - 98  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 6041,
+          "name": "When Smokey Sings, I Get Violent",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:16992::::::::::0|h[Smokey's Explosive Launcher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "smokeys-explosive-launcher",
+    "speed": 2.7,
+    "dps": 27.8
+  },
+  {
+    "itemId": 17042,
+    "name": "Nail Spitter",
+    "icon": "inv_weapon_rifle_01",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 5692,
+    "quality": "Uncommon",
+    "itemLevel": 36,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Nail Spitter"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "19 - 37  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 6521,
+          "name": "An Unholy Alliance",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:17042::::::::::0|h[Nail Spitter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "nail-spitter",
+    "speed": 1.9,
+    "dps": 14.7
+  },
+  {
+    "itemId": 17687,
+    "name": "Master Hunter's Rifle",
+    "icon": "inv_weapon_rifle_05",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 9937,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Master Hunter's Rifle"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "35 - 66  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 208,
+          "name": "Big Game Hunter",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:17687::::::::::0|h[Master Hunter's Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "master-hunters-rifle",
+    "speed": 2.6,
+    "dps": 19.4
+  },
+  {
+    "itemId": 18460,
+    "name": "Unsophisticated Hand Cannon",
+    "icon": "inv_weapon_rifle_07",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 30762,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Unsophisticated Hand Cannon"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "48 - 91  Damage"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:18460::::::::::0|h[Unsophisticated Hand Cannon]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "unsophisticated-hand-cannon",
+    "speed": 2.5,
+    "dps": 27.8
+  },
+  {
+    "itemId": 51759,
+    "name": "Siege Bomber",
+    "icon": "inv_weapon_rifle_04",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 2244,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Siege Bomber"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "36 - 68  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:51759::::::::::0|h[Siege Bomber]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "siege-bomber",
+    "speed": 2.8,
+    "dps": 18.6
+  },
+  {
+    "itemId": 51794,
+    "name": "Otherworldly Rifle",
+    "icon": "inv_weapon_rifle_04",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 5053,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Otherworldly Rifle"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "40 - 76  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 80409,
+          "name": "Return to Kheyna",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:51794::::::::::0|h[Otherworldly Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "otherworldly-rifle",
+    "speed": 2.6,
+    "dps": 24.1
+  },
+  {
+    "itemId": 51828,
+    "name": "Hawkwind Rifle",
+    "icon": "inv_weapon_rifle_07",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 16,
+    "quality": "Common",
+    "itemLevel": 10,
+    "requiredLevel": 3,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Hawkwind Rifle"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "6 - 12  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 60115,
+          "name": "Preventive Strike",
+          "faction": "Horde",
+          "requiredLevel": 3
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:51828::::::::::0|h[Hawkwind Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hawkwind-rifle",
+    "speed": 2.6,
+    "dps": 3.5
+  },
+  {
+    "itemId": 58284,
+    "name": "Waterlogged Blunderbuss",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 6844,
+    "quality": "Uncommon",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Waterlogged Blunderbuss"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "31 - 55  Damage"
+      },
+      {
+        "label": "+3 Stamina"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:58284::::::::::0|h[Waterlogged Blunderbuss]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "waterlogged-blunderbuss",
+    "speed": 3,
+    "dps": 14.3
+  },
+  {
+    "itemId": 60165,
+    "name": "Wobblefree Fizz-rifle",
+    "icon": "inv_weapon_rifle_06",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 30670,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Wobblefree Fizz-rifle"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "71 - 107  Damage"
+      },
+      {
+        "label": "+5 IntellectDurability"
+      },
+      {
+        "label": "+10 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40068,
+          "name": "Wobble-free Fizz Gear",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60165::::::::::0|h[Wobblefree Fizz-rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wobblefree-fizz-rifle",
+    "speed": 2.6,
+    "dps": 34.2
+  },
+  {
+    "itemId": 61472,
+    "name": "Brigade Rifle",
+    "icon": "inv_weapon_rifle_twow_02_gray",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 12809,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 35,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Brigade Rifle"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "42 - 76  Damage"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40927,
+          "name": "Securing Gilneas II",
+          "faction": "Alliance",
+          "requiredLevel": 35
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:61472::::::::::0|h[Brigade Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brigade-rifle",
+    "speed": 2.8,
+    "dps": 21.1
+  },
+  {
+    "itemId": 61629,
+    "name": "Farmer's Musket",
+    "icon": "inv_weapon_rifle_twow_02_purple",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 12209,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 35,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Farmer's Musket"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "38 - 76  Damage"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40979,
+          "name": "Ebonmere Affairs",
+          "faction": "Horde",
+          "requiredLevel": 35
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:61629::::::::::0|h[Farmer's Musket]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "farmers-musket",
+    "speed": 2.6,
+    "dps": 21.9
+  },
+  {
+    "itemId": 80106,
+    "name": "Miscalibrated Rifle",
+    "icon": "inv_weapon_rifle_01",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1,
+    "quality": "Common",
+    "itemLevel": 6,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Miscalibrated Rifle"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "5 - 9  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 80102,
+          "name": "Green Versus Green",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:80106::::::::::0|h[Miscalibrated Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "miscalibrated-rifle",
+    "speed": 2.8,
+    "dps": 2.5
+  },
+  {
+    "itemId": 80127,
+    "name": "Polished Boomstick",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 53,
+    "quality": "Uncommon",
+    "itemLevel": 11,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Polished Boomstick"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "8 - 15  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 80108,
+          "name": "Me Not Any Kind Of Orc",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:80127::::::::::0|h[Polished Boomstick]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "polished-boomstick",
+    "speed": 2.4,
+    "dps": 4.8
+  },
+  {
+    "itemId": 83094,
+    "name": "Monster - Rifle2H, Mechagnome",
+    "icon": "inv_weapon_rifle_29",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 40,
+    "quality": "Common",
+    "itemLevel": 7,
+    "requiredLevel": 2,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Rifle2H, Mechagnome"
+      },
+      {
+        "label": "Requires Level 2"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "4 - 9  Damage"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:83094::::::::::0|h[Monster - Rifle2H, Mechagnome]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-rifle2h-mechagnome",
+    "speed": 2.6,
+    "dps": 2.5
+  },
+  {
+    "itemId": 2509,
+    "name": "Ornate Blunderbuss",
+    "icon": "inv_weapon_rifle_02",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 82,
+    "quality": "Common",
+    "itemLevel": 9,
+    "requiredLevel": 4,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Ornate Blunderbuss"
+      },
+      {
+        "label": "Requires Level 4"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "4 - 9  Damage"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2509::::::::::0|h[Ornate Blunderbuss]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ornate-blunderbuss",
+    "speed": 2.2,
+    "dps": 3
+  },
+  {
+    "itemId": 2510,
+    "name": "Solid Blunderbuss",
+    "icon": "inv_weapon_rifle_07",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 8,
+    "quality": "Common",
+    "itemLevel": 3,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Solid Blunderbuss"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "3 - 6  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2510::::::::::0|h[Solid Blunderbuss]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "solid-blunderbuss",
+    "speed": 2.2,
+    "dps": 2
+  },
+  {
+    "itemId": 2552,
+    "name": "Monster - Gun",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Gun"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2552::::::::::0|h[Monster - Gun]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-gun",
+    "speed": 2,
+    "dps": 0.8
+  },
+  {
+    "itemId": 2774,
+    "name": "Rust-covered Blunderbuss",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 28,
+    "quality": "Poor",
+    "itemLevel": 7,
+    "requiredLevel": 2,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Rust-covered Blunderbuss"
+      },
+      {
+        "label": "Requires Level 2"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "3 - 6  Damage"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2774::::::::::0|h[Rust-covered Blunderbuss]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rust-covered-blunderbuss",
+    "speed": 2.4,
+    "dps": 1.9
+  },
+  {
+    "itemId": 2778,
+    "name": "Cheap Blunderbuss",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 147,
+    "quality": "Poor",
+    "itemLevel": 13,
+    "requiredLevel": 8,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Cheap Blunderbuss"
+      },
+      {
+        "label": "Requires Level 8"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "5 - 9  Damage"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2778::::::::::0|h[Cheap Blunderbuss]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cheap-blunderbuss",
+    "speed": 2.2,
+    "dps": 3.2
+  },
+  {
+    "itemId": 2781,
+    "name": "Dirty Blunderbuss",
+    "icon": "inv_weapon_rifle_01",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 335,
+    "quality": "Poor",
+    "itemLevel": 18,
+    "requiredLevel": 13,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Dirty Blunderbuss"
+      },
+      {
+        "label": "Requires Level 13"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "6 - 12  Damage"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2781::::::::::0|h[Dirty Blunderbuss]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dirty-blunderbuss",
+    "speed": 2.2,
+    "dps": 4.1
+  },
+  {
+    "itemId": 2783,
+    "name": "Shoddy Blunderbuss",
+    "icon": "inv_weapon_rifle_01",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 590,
+    "quality": "Poor",
+    "itemLevel": 22,
+    "requiredLevel": 17,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Shoddy Blunderbuss"
+      },
+      {
+        "label": "Requires Level 17"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "7 - 14  Damage"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2783::::::::::0|h[Shoddy Blunderbuss]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shoddy-blunderbuss",
+    "speed": 2.1,
+    "dps": 5
+  },
+  {
+    "itemId": 2786,
+    "name": "Oiled Blunderbuss",
+    "icon": "inv_weapon_rifle_01",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1173,
+    "quality": "Poor",
+    "itemLevel": 29,
+    "requiredLevel": 24,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Oiled Blunderbuss"
+      },
+      {
+        "label": "Requires Level 24"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "9 - 19  Damage"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:2786::::::::::0|h[Oiled Blunderbuss]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "oiled-blunderbuss",
+    "speed": 2,
+    "dps": 7
+  },
+  {
+    "itemId": 3780,
+    "name": "Long-barreled Musket",
+    "icon": "inv_weapon_rifle_01",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1877,
+    "quality": "Poor",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Long-barreled Musket"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "14 - 27  Damage"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3780::::::::::0|h[Long-barreled Musket]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "long-barreled-musket",
+    "speed": 2.6,
+    "dps": 7.9
+  },
+  {
+    "itemId": 4026,
+    "name": "Sentinel Musket",
+    "icon": "inv_weapon_rifle_01",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 4362,
+    "quality": "Poor",
+    "itemLevel": 43,
+    "requiredLevel": 38,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Sentinel Musket"
+      },
+      {
+        "label": "Requires Level 38"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "22 - 43  Damage"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:4026::::::::::0|h[Sentinel Musket]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sentinel-musket",
+    "speed": 2.8,
+    "dps": 11.6
+  },
+  {
+    "itemId": 8182,
+    "name": "Pellet Rifle",
+    "icon": "inv_weapon_rifle_04",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 40,
+    "quality": "Common",
+    "itemLevel": 7,
+    "requiredLevel": 2,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Pellet Rifle"
+      },
+      {
+        "label": "Requires Level 2"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "4 - 9  Damage"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:8182::::::::::0|h[Pellet Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pellet-rifle",
+    "speed": 2.6,
+    "dps": 2.5
+  },
+  {
+    "itemId": 11021,
+    "name": "Monster - Big Sniper Gun",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Big Sniper Gun"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:11021::::::::::0|h[Monster - Big Sniper Gun]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-big-sniper-gun",
+    "speed": 2,
+    "dps": 0.8
+  },
+  {
+    "itemId": 12523,
+    "name": "Monster - Gun, Silver Musket",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Gun, Silver Musket"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:12523::::::::::0|h[Monster - Gun, Silver Musket]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-gun-silver-musket",
+    "speed": 2,
+    "dps": 0.8
+  },
+  {
+    "itemId": 13825,
+    "name": "Primed Musket",
+    "icon": "inv_weapon_rifle_01",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 10168,
+    "quality": "Poor",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Primed Musket"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "20 - 37  Damage"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:13825::::::::::0|h[Primed Musket]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "primed-musket",
+    "speed": 1.8,
+    "dps": 15.8
+  },
+  {
+    "itemId": 13923,
+    "name": "Monster - Gun, Tauren Blade Silver",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Gun, Tauren Blade Silver"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:13923::::::::::0|h[Monster - Gun, Tauren Blade Silver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-gun-tauren-blade-silver",
+    "speed": 2,
+    "dps": 0.8
+  },
+  {
+    "itemId": 13924,
+    "name": "Monster - Gun, Tauren Scope Blade Feathered Silver Deluxe",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Gun, Tauren Scope Blade Feathered Silver Deluxe"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:13924::::::::::0|h[Monster - Gun, Tauren Scope Blade Feathered Silver Deluxe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-gun-tauren-scope-blade-feathered-silver-deluxe",
+    "speed": 2,
+    "dps": 0.8
+  },
+  {
+    "itemId": 14642,
+    "name": "Monster - Gun, Tauren Feathers Silver",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Gun, Tauren Feathers Silver"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:14642::::::::::0|h[Monster - Gun, Tauren Feathers Silver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-gun-tauren-feathers-silver",
+    "speed": 2,
+    "dps": 0.8
+  },
+  {
+    "itemId": 15460,
+    "name": "Monster - Gun, Shotgun",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Gun, Shotgun"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:15460::::::::::0|h[Monster - Gun, Shotgun]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-gun-shotgun",
+    "speed": 2,
+    "dps": 0.8
+  },
+  {
+    "itemId": 21554,
+    "name": "Monster - Gun, PvP Horde",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Gun, PvP Horde"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:21554::::::::::0|h[Monster - Gun, PvP Horde]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-gun-pvp-horde",
+    "speed": 2,
+    "dps": 0.8
+  },
+  {
+    "itemId": 21564,
+    "name": "Monster - Gun, Kaldorei PVP Alliance",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Gun, Kaldorei PVP Alliance"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 18 / 18"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:21564::::::::::0|h[Monster - Gun, Kaldorei PVP Alliance]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-gun-kaldorei-pvp-alliance",
+    "speed": 2,
+    "dps": 0.8
+  },
+  {
+    "itemId": 41023,
+    "name": "Water-logged Musket",
+    "icon": "inv_weapon_rifle_03",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 16,
+    "quality": "Common",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Water-logged Musket"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 6  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41158,
+          "name": "Revenge of the Deep",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:41023::::::::::0|h[Water-logged Musket]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "water-logged-musket",
+    "speed": 2.2,
+    "dps": 1.8
+  },
+  {
+    "itemId": 58086,
+    "name": "Standard Grade Rifle",
+    "icon": "inv_weapon_rifle_04",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 56,
+    "quality": "Common",
+    "itemLevel": 8,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Standard Grade Rifle"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "4 - 9  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41172,
+          "name": "War on Venture Co.",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:58086::::::::::0|h[Standard Grade Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "standard-grade-rifle",
+    "speed": 2.6,
+    "dps": 2.5
+  },
+  {
+    "itemId": 51862,
+    "name": "Brave's Rifle",
+    "icon": "inv_weapon_rifle_04",
+    "class": "Weapon",
+    "subclass": "Gun",
+    "sellPrice": 1063,
+    "quality": "Uncommon",
+    "itemLevel": 20,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Brave's Rifle"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Gun",
+        "format": "alignRight"
+      },
+      {
+        "label": "17 - 30  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 60134,
+          "name": "Preventing Poison",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:51862::::::::::0|h[Brave's Rifle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "braves-rifle",
+    "speed": 2.6,
+    "dps": 9
+  }
+]

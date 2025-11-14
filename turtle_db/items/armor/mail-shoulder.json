@@ -1,0 +1,8256 @@
+[
+  {
+    "itemId": 12588,
+    "name": "Bonespike Shoulder",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 25446,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Bonespike Shoulder"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "278 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12588::::::::::0|h[Bonespike Shoulder]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bonespike-shoulder"
+  },
+  {
+    "itemId": 15049,
+    "name": "Blue Dragonscale Shoulders",
+    "icon": "inv_shoulder_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 20543,
+    "quality": "Rare",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Blue Dragonscale Shoulders"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "262 Armor"
+      },
+      {
+        "label": "+17 Intellect"
+      },
+      {
+        "label": "+6 Arcane"
+      },
+      {
+        "label": "+4 All"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:15049::::::::::0|h[Blue Dragonscale Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blue-dragonscale-shoulders"
+  },
+  {
+    "itemId": 15051,
+    "name": "Black Dragonscale Shoulders",
+    "icon": "inv_shoulder_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 21736,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Black Dragonscale Shoulders"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "266 Armor"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+6 Fire"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+18 Fire"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:15051::::::::::0|h[Black Dragonscale Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "black-dragonscale-shoulders"
+  },
+  {
+    "itemId": 16468,
+    "name": "Field Marshal's Chain Spaulders",
+    "icon": "inv_shoulder_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 29576,
+    "quality": "Epic",
+    "itemLevel": 74,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Field Marshal's Chain Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "403 Armor"
+      },
+      {
+        "label": "+21 Stamina"
+      },
+      {
+        "label": "+26 Agility"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16468::::::::::0|h[Field Marshal's Chain Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "field-marshals-chain-spaulders"
+  },
+  {
+    "itemId": 16528,
+    "name": "Champion's Chain Pauldrons",
+    "icon": "inv_shoulder_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 13309,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Champion's Chain Pauldrons"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "278 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "+12 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16528::::::::::0|h[Champion's Chain Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "champions-chain-pauldrons"
+  },
+  {
+    "itemId": 16568,
+    "name": "Warlord's Chain Shoulders",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 30341,
+    "quality": "Epic",
+    "itemLevel": 74,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Warlord's Chain Shoulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "403 Armor"
+      },
+      {
+        "label": "+26 Agility"
+      },
+      {
+        "label": "+21 Stamina"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16568::::::::::0|h[Warlord's Chain Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warlords-chain-shoulders"
+  },
+  {
+    "itemId": 16580,
+    "name": "Warlord's Mail Spaulders",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 29466,
+    "quality": "Epic",
+    "itemLevel": 74,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Warlord's Mail Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "353 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+18 Intellect"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+9 AgilityDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16580::::::::::0|h[Warlord's Mail Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warlords-mail-spaulders"
+  },
+  {
+    "itemId": 16679,
+    "name": "Beaststalker's Mantle",
+    "icon": "inv_shoulder_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 22822,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Beaststalker's Mantle"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "266 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+11 Agility"
+      },
+      {
+        "label": "+7 Intellect"
+      },
+      {
+        "label": "+4 SpiritDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16679::::::::::0|h[Beaststalker's Mantle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "beaststalkers-mantle"
+  },
+  {
+    "itemId": 16844,
+    "name": "Earthfury Spaulders",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 39582,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Earthfury Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "317 Armor"
+      },
+      {
+        "label": "+18 Intellect"
+      },
+      {
+        "label": "+10 Spirit"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16844::::::::::0|h[Earthfury Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthfury-spaulders"
+  },
+  {
+    "itemId": 16848,
+    "name": "Giantstalker's Epaulets",
+    "icon": "inv_shoulder_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 41237,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Giantstalker's Epaulets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "317 Armor"
+      },
+      {
+        "label": "+24 Agility"
+      },
+      {
+        "label": "+5 Intellect"
+      },
+      {
+        "label": "+9 Spirit"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16848::::::::::0|h[Giantstalker's Epaulets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "giantstalkers-epaulets"
+  },
+  {
+    "itemId": 16937,
+    "name": "Dragonstalker's Spaulders",
+    "icon": "inv_shoulder_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 64482,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Dragonstalker's Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "362 Armor"
+      },
+      {
+        "label": "+23 Agility"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+6 Spirit"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16937::::::::::0|h[Dragonstalker's Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dragonstalkers-spaulders"
+  },
+  {
+    "itemId": 16945,
+    "name": "Epaulets of Ten Storms",
+    "icon": "inv_shoulder_33",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 68140,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Epaulets of Ten Storms"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "362 Armor"
+      },
+      {
+        "label": "+20 Intellect"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16945::::::::::0|h[Epaulets of Ten Storms]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "epaulets-of-ten-storms"
+  },
+  {
+    "itemId": 16988,
+    "name": "Fiery Chain Shoulders",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 47832,
+    "quality": "Epic",
+    "itemLevel": 70,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Fiery Chain Shoulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "335 Armor"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+20 Fire"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16988::::::::::0|h[Fiery Chain Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fiery-chain-shoulders"
+  },
+  {
+    "itemId": 18686,
+    "name": "Bone Golem Shoulders",
+    "icon": "inv_shoulder_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 24527,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Bone Golem Shoulders"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "274 Armor"
+      },
+      {
+        "label": "+19 Agility"
+      },
+      {
+        "label": "+9 Intellect"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18686::::::::::0|h[Bone Golem Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bone-golem-shoulders"
+  },
+  {
+    "itemId": 18829,
+    "name": "Deep Earth Spaulders",
+    "icon": "inv_shoulder_04",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 48836,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Deep Earth Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "399 Armor"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+7 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18829::::::::::0|h[Deep Earth Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "deep-earth-spaulders"
+  },
+  {
+    "itemId": 19373,
+    "name": "Black Brood Pauldrons",
+    "icon": "inv_shoulder_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 65375,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Black Brood Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "357 Armor"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+14 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19373::::::::::0|h[Black Brood Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "black-brood-pauldrons"
+  },
+  {
+    "itemId": 19691,
+    "name": "Bloodsoul Shoulders",
+    "icon": "inv_shoulder_15",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 30000,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Bloodsoul Shoulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "286 Armor"
+      },
+      {
+        "label": "+24 Agility"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19691::::::::::0|h[Bloodsoul Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodsoul-shoulders"
+  },
+  {
+    "itemId": 19831,
+    "name": "Zandalar Predator's Mantle",
+    "icon": "inv_shoulder_22",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 0,
+    "quality": "Epic",
+    "itemLevel": 68,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Zandalar Predator's Mantle"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "326 Armor"
+      },
+      {
+        "label": "+22 Agility"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+11 IntellectDurability"
+      },
+      {
+        "label": "+20 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8067,
+          "name": "Paragons of Power: The Predator's Mantle",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:19831::::::::::0|h[Zandalar Predator's Mantle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "zandalar-predators-mantle"
+  },
+  {
+    "itemId": 20055,
+    "name": "Highlander's Chain Pauldrons",
+    "icon": "inv_shoulder_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 36867,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Highlander's Chain Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "339 Armor"
+      },
+      {
+        "label": "+22 Agility"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+18 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20055::::::::::0|h[Highlander's Chain Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-chain-pauldrons"
+  },
+  {
+    "itemId": 20056,
+    "name": "Highlander's Mail Pauldrons",
+    "icon": "inv_shoulder_19",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 37009,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Highlander's Mail Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "312 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+17 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20056::::::::::0|h[Highlander's Mail Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-mail-pauldrons"
+  },
+  {
+    "itemId": 20158,
+    "name": "Defiler's Chain Pauldrons",
+    "icon": "inv_shoulder_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 39293,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Defiler's Chain Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "339 Armor"
+      },
+      {
+        "label": "+22 Agility"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+18 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20158::::::::::0|h[Defiler's Chain Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-chain-pauldrons"
+  },
+  {
+    "itemId": 20203,
+    "name": "Defiler's Mail Pauldrons",
+    "icon": "inv_shoulder_19",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 39985,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Defiler's Mail Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "339 Armor"
+      },
+      {
+        "label": "+17 Intellect"
+      },
+      {
+        "label": "+19 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20203::::::::::0|h[Defiler's Mail Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-mail-pauldrons"
+  },
+  {
+    "itemId": 20680,
+    "name": "Abyssal Mail Pauldrons",
+    "icon": "inv_shoulder_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 31683,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Abyssal Mail Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "298 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20680::::::::::0|h[Abyssal Mail Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "abyssal-mail-pauldrons"
+  },
+  {
+    "itemId": 21367,
+    "name": "Striker's Pauldrons",
+    "icon": "inv_shoulder_36",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 87626,
+    "quality": "Epic",
+    "itemLevel": 81,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Striker's Pauldrons"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "384 Armor"
+      },
+      {
+        "label": "+26 Agility"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+24 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8659,
+          "name": "Striker's Pauldrons",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21367::::::::::0|h[Striker's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "strikers-pauldrons"
+  },
+  {
+    "itemId": 21376,
+    "name": "Stormcaller's Epaulets",
+    "icon": "inv_shoulder_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 70861,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Stormcaller's Epaulets"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "371 Armor"
+      },
+      {
+        "label": "+16 Intellect"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8602,
+          "name": "Stormcaller's Pauldrons",
+          "faction": "Horde",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21376::::::::::0|h[Stormcaller's Epaulets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormcallers-epaulets"
+  },
+  {
+    "itemId": 21454,
+    "name": "Runic Stone Shoulders",
+    "icon": "inv_shoulder_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 53878,
+    "quality": "Epic",
+    "itemLevel": 72,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Runic Stone Shoulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "344 Armor"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+15 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21454::::::::::0|h[Runic Stone Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "runic-stone-shoulders"
+  },
+  {
+    "itemId": 21684,
+    "name": "Mantle of the Fallen Prophet",
+    "icon": "inv_shoulder_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 68186,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Mantle of the Fallen Prophet"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "362 Armor"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+9 Spirit"
+      },
+      {
+        "label": "+9 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21684::::::::::0|h[Mantle of the Fallen Prophet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mantle-of-the-fallen-prophet"
+  },
+  {
+    "itemId": 21699,
+    "name": "Barrage Shoulders",
+    "icon": "inv_shoulder_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 57856,
+    "quality": "Epic",
+    "itemLevel": 73,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Barrage Shoulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "348 Armor"
+      },
+      {
+        "label": "+29 Agility"
+      },
+      {
+        "label": "+22 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21699::::::::::0|h[Barrage Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "barrage-shoulders"
+  },
+  {
+    "itemId": 22016,
+    "name": "Beastmaster's Mantle",
+    "icon": "inv_shoulder_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 28402,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Beastmaster's Mantle"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "290 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8952,
+          "name": "Anthion's Parting Words",
+          "faction": "Alliance",
+          "requiredLevel": 58
+        },
+        {
+          "questId": 9017,
+          "name": "Anthion's Parting Words",
+          "faction": "Horde",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22016::::::::::0|h[Beastmaster's Mantle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "beastmasters-mantle"
+  },
+  {
+    "itemId": 22101,
+    "name": "Pauldrons of The Five Thunders",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 27564,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Pauldrons of The Five Thunders"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "290 Armor"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8957,
+          "name": "Anthion's Parting Words",
+          "faction": "Horde",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22101::::::::::0|h[Pauldrons of The Five Thunders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pauldrons-of-the-five-thunders"
+  },
+  {
+    "itemId": 22439,
+    "name": "Cryptstalker Spaulders",
+    "icon": "inv_shoulder_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 101997,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Cryptstalker Spaulders"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "406 Armor"
+      },
+      {
+        "label": "+29 Agility"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9057,
+          "name": "Cryptstalker Spaulders",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22439::::::::::0|h[Cryptstalker Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cryptstalker-spaulders"
+  },
+  {
+    "itemId": 22467,
+    "name": "Earthshatter Spaulders",
+    "icon": "inv_shoulder_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 105109,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Earthshatter Spaulders"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "406 Armor"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+19 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9071,
+          "name": "Earthshatter Spaulders",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22467::::::::::0|h[Earthshatter Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthshatter-spaulders"
+  },
+  {
+    "itemId": 22967,
+    "name": "Icy Scale Spaulders",
+    "icon": "inv_shoulder_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 95926,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 0,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Icy Scale Spaulders"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "393 Armor"
+      },
+      {
+        "label": "+25 Stamina"
+      },
+      {
+        "label": "+33 Frost"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:22967::::::::::0|h[Icy Scale Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "icy-scale-spaulders"
+  },
+  {
+    "itemId": 23252,
+    "name": "Champion's Chain Shoulders",
+    "icon": "inv_shoulder_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 18536,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Champion's Chain Shoulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "311 Armor"
+      },
+      {
+        "label": "+18 Agility"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23252::::::::::0|h[Champion's Chain Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "champions-chain-shoulders"
+  },
+  {
+    "itemId": 23664,
+    "name": "Pauldrons of Elemental Fury",
+    "icon": "inv_shoulder_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 96825,
+    "quality": "Epic",
+    "itemLevel": 80,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Pauldrons of Elemental Fury"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "379 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+20 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:23664::::::::::0|h[Pauldrons of Elemental Fury]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pauldrons-of-elemental-fury"
+  },
+  {
+    "itemId": 47121,
+    "name": "Earthfury Pauldrons",
+    "icon": "inv_ertshoulder_v2",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 39582,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Earthfury Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "317 Armor"
+      },
+      {
+        "label": "+15 Agility"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+9 Intellect"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41510,
+          "name": "Earthfury Shoulder",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47121::::::::::0|h[Earthfury Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthfury-pauldrons"
+  },
+  {
+    "itemId": 47129,
+    "name": "Earthfury Epaulets",
+    "icon": "inv_ertshoulder_v3",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 39582,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Earthfury Epaulets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "317 Armor"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41510,
+          "name": "Earthfury Shoulder",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47129::::::::::0|h[Earthfury Epaulets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthfury-epaulets"
+  },
+  {
+    "itemId": 47137,
+    "name": "Pauldrons of Ten Storms",
+    "icon": "inv_tenshoulder_v3",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 68140,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Pauldrons of Ten Storms"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "362 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+13 Agility"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41502,
+          "name": "Shoulders of Ten Storms",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47137::::::::::0|h[Pauldrons of Ten Storms]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pauldrons-of-ten-storms"
+  },
+  {
+    "itemId": 47145,
+    "name": "Spaulders of Ten Storms",
+    "icon": "inv_tenshoulder_v2",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 68140,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Spaulders of Ten Storms"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "362 Armor"
+      },
+      {
+        "label": "+22 Intellect"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41502,
+          "name": "Shoulders of Ten Storms",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47145::::::::::0|h[Spaulders of Ten Storms]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "spaulders-of-ten-storms"
+  },
+  {
+    "itemId": 47153,
+    "name": "Stormcaller's Pauldrons",
+    "icon": "inv_shoulder_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 70861,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Stormcaller's Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "371 Armor"
+      },
+      {
+        "label": "+18 Agility"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+24 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8602,
+          "name": "Stormcaller's Pauldrons",
+          "faction": "Horde",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47153::::::::::0|h[Stormcaller's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormcallers-pauldrons"
+  },
+  {
+    "itemId": 47158,
+    "name": "Stormcaller's Spaulders",
+    "icon": "inv_shoulder_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 70861,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Stormcaller's Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "371 Armor"
+      },
+      {
+        "label": "+19 Intellect"
+      },
+      {
+        "label": "+24 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8602,
+          "name": "Stormcaller's Pauldrons",
+          "faction": "Horde",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47158::::::::::0|h[Stormcaller's Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormcallers-spaulders"
+  },
+  {
+    "itemId": 47163,
+    "name": "Earthshatter Pauldrons",
+    "icon": "inv_shoulder_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 105109,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Earthshatter Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "406 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+18 Agility"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9071,
+          "name": "Earthshatter Spaulders",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47163::::::::::0|h[Earthshatter Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthshatter-pauldrons"
+  },
+  {
+    "itemId": 47172,
+    "name": "Earthshatter Epaulets",
+    "icon": "inv_shoulder_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 105109,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Earthshatter Epaulets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "406 Armor"
+      },
+      {
+        "label": "+17 Intellect"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9071,
+          "name": "Earthshatter Spaulders",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47172::::::::::0|h[Earthshatter Epaulets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthshatter-epaulets"
+  },
+  {
+    "itemId": 47181,
+    "name": "Stormhowl Pauldrons",
+    "icon": "inv_stormhowl_pauldrons",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 136749,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Stormhowl Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "432 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+21 Agility"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+13 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41615,
+          "name": "Stormhowl Shoulderguards",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47181::::::::::0|h[Stormhowl Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormhowl-pauldrons"
+  },
+  {
+    "itemId": 47187,
+    "name": "Stormhowl Epaulets",
+    "icon": "inv_stormhowl_pauldrons",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 136749,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Stormhowl Epaulets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "432 Armor"
+      },
+      {
+        "label": "+25 Intellect"
+      },
+      {
+        "label": "+25 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41615,
+          "name": "Stormhowl Shoulderguards",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47187::::::::::0|h[Stormhowl Epaulets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormhowl-epaulets"
+  },
+  {
+    "itemId": 47193,
+    "name": "Stormhowl Spaulders",
+    "icon": "inv_stormhowl_pauldrons",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 135749,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Stormhowl Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "432 Armor"
+      },
+      {
+        "label": "+26 Intellect"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41615,
+          "name": "Stormhowl Shoulderguards",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47193::::::::::0|h[Stormhowl Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormhowl-spaulders"
+  },
+  {
+    "itemId": 47319,
+    "name": "Ravenstalker Spaulders",
+    "icon": "inv_ravenstalker_spaulders",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 136758,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Ravenstalker Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "432 Armor"
+      },
+      {
+        "label": "+33 Agility"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+21 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41609,
+          "name": "Ravenstalker Shoulderguards",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47319::::::::::0|h[Ravenstalker Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ravenstalker-spaulders"
+  },
+  {
+    "itemId": 60009,
+    "name": "Towerforge Pauldrons",
+    "icon": "inv_shoulder_26",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 41488,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Towerforge Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "317 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:60009::::::::::0|h[Towerforge Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "towerforge-pauldrons"
+  },
+  {
+    "itemId": 60356,
+    "name": "Bloody Gladiator's Pauldrons",
+    "icon": "inv_shoulder_13",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 16623,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Bloody Gladiator's Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "367 Armor"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "+34 Attack"
+      },
+      {
+        "label": "+20 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:60356::::::::::0|h[Bloody Gladiator's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloody-gladiators-pauldrons"
+  },
+  {
+    "itemId": 81264,
+    "name": "Shoulderpads of True Flight",
+    "icon": "inv_shoulder_28",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 10201,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Shoulderpads of True Flight"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "413 Armor"
+      },
+      {
+        "label": "+18 Agility"
+      },
+      {
+        "label": "+9 Intellect"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:81264::::::::::0|h[Shoulderpads of True Flight]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shoulderpads-of-true-flight"
+  },
+  {
+    "itemId": 3231,
+    "name": "Cutthroat Pauldrons",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1266,
+    "quality": "Uncommon",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Cutthroat Pauldrons"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "137 Armor"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3231::::::::::0|h[Cutthroat Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cutthroat-pauldrons"
+  },
+  {
+    "itemId": 3765,
+    "name": "Brigand's Pauldrons",
+    "icon": "inv_shoulder_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4811,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 29,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Brigand's Pauldrons"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "173 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 508,
+          "name": "Taretha's Gift",
+          "faction": "Horde",
+          "requiredLevel": 29
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3765::::::::::0|h[Brigand's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brigands-pauldrons"
+  },
+  {
+    "itemId": 3841,
+    "name": "Golden Scale Shoulders",
+    "icon": "inv_shoulder_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3106,
+    "quality": "Rare",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Golden Scale Shoulders"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "177 Armor"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:3841::::::::::0|h[Golden Scale Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "golden-scale-shoulders"
+  },
+  {
+    "itemId": 4725,
+    "name": "Chief Brigadier Pauldrons",
+    "icon": "inv_shoulder_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4736,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Chief Brigadier Pauldrons"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "173 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+8 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4725::::::::::0|h[Chief Brigadier Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chief-brigadier-pauldrons"
+  },
+  {
+    "itemId": 4733,
+    "name": "Blackforge Pauldrons",
+    "icon": "inv_shoulder_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7957,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Blackforge Pauldrons"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "190 Armor"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+9 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4733::::::::::0|h[Blackforge Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blackforge-pauldrons"
+  },
+  {
+    "itemId": 4835,
+    "name": "Elite Shoulders",
+    "icon": "inv_shoulder_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2110,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Elite Shoulders"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "149 Armor"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4835::::::::::0|h[Elite Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "elite-shoulders"
+  },
+  {
+    "itemId": 6597,
+    "name": "Battleforge Shoulderguards",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1707,
+    "quality": "Uncommon",
+    "itemLevel": 28,
+    "requiredLevel": 23,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Battleforge Shoulderguards"
+      },
+      {
+        "label": "Requires Level 23"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "144 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:6597::::::::::0|h[Battleforge Shoulderguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "battleforge-shoulderguards"
+  },
+  {
+    "itemId": 7491,
+    "name": "Captain's Shoulderguards",
+    "icon": "inv_shoulder_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6158,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 38,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Captain's Shoulderguards"
+      },
+      {
+        "label": "Requires Level 38"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "181 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7491::::::::::0|h[Captain's Shoulderguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "captains-shoulderguards"
+  },
+  {
+    "itemId": 7543,
+    "name": "Champion's Pauldrons",
+    "icon": "inv_shoulder_22",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 8123,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Champion's Pauldrons"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "194 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7543::::::::::0|h[Champion's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "champions-pauldrons"
+  },
+  {
+    "itemId": 7718,
+    "name": "Herod's Shoulder",
+    "icon": "inv_shoulder_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6867,
+    "quality": "Rare",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Herod's Shoulder"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "196 Armor"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:7718::::::::::0|h[Herod's Shoulder]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "herods-shoulder"
+  },
+  {
+    "itemId": 7913,
+    "name": "Barbaric Iron Shoulders",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2500,
+    "quality": "Uncommon",
+    "itemLevel": 32,
+    "requiredLevel": 27,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Barbaric Iron Shoulders"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "153 Armor"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+6 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7913::::::::::0|h[Barbaric Iron Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "barbaric-iron-shoulders"
+  },
+  {
+    "itemId": 7932,
+    "name": "Mithril Scale Shoulders",
+    "icon": "inv_shoulder_12",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 10365,
+    "quality": "Rare",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Mithril Scale Shoulders"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "213 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:7932::::::::::0|h[Mithril Scale Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mithril-scale-shoulders"
+  },
+  {
+    "itemId": 8272,
+    "name": "Ebonhold Shoulderpads",
+    "icon": "inv_shoulder_27",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 13697,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Ebonhold Shoulderpads"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "220 Armor"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+11 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8272::::::::::0|h[Ebonhold Shoulderpads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ebonhold-shoulderpads"
+  },
+  {
+    "itemId": 9411,
+    "name": "Rockshard Pauldrons",
+    "icon": "inv_shoulder_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 8587,
+    "quality": "Rare",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Rockshard Pauldrons"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "205 Armor"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+7 IntellectDurability"
+      },
+      {
+        "label": "+26 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9411::::::::::0|h[Rockshard Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rockshard-pauldrons"
+  },
+  {
+    "itemId": 9430,
+    "name": "Spaulders of a Lost Age",
+    "icon": "inv_shoulder_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 8553,
+    "quality": "Rare",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Spaulders of a Lost Age"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "205 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+7 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9430::::::::::0|h[Spaulders of a Lost Age]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "spaulders-of-a-lost-age"
+  },
+  {
+    "itemId": 9842,
+    "name": "Banded Pauldrons",
+    "icon": "inv_shoulder_15",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2391,
+    "quality": "Uncommon",
+    "itemLevel": 32,
+    "requiredLevel": 27,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Banded Pauldrons"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "153 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9842::::::::::0|h[Banded Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "banded-pauldrons"
+  },
+  {
+    "itemId": 9934,
+    "name": "Brigade Pauldrons",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6577,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 39,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Brigade Pauldrons"
+      },
+      {
+        "label": "Requires Level 39"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "184 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9934::::::::::0|h[Brigade Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brigade-pauldrons"
+  },
+  {
+    "itemId": 10200,
+    "name": "Crusader's Pauldrons",
+    "icon": "inv_shoulder_28",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 12314,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Crusader's Pauldrons"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "216 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10200::::::::::0|h[Crusader's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crusaders-pauldrons"
+  },
+  {
+    "itemId": 11722,
+    "name": "Dregmetal Spaulders",
+    "icon": "inv_shoulder_30",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 16610,
+    "quality": "Rare",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Dregmetal Spaulders"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "246 Armor"
+      },
+      {
+        "label": "+10 Spirit"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+15 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11722::::::::::0|h[Dregmetal Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dregmetal-spaulders"
+  },
+  {
+    "itemId": 11842,
+    "name": "Lead Surveyor's Mantle",
+    "icon": "inv_shoulder_15",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 17050,
+    "quality": "Rare",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Lead Surveyor's Mantle"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "246 Armor"
+      },
+      {
+        "label": "+14 Intellect"
+      },
+      {
+        "label": "+8 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11842::::::::::0|h[Lead Surveyor's Mantle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lead-surveyors-mantle"
+  },
+  {
+    "itemId": 13131,
+    "name": "Sparkleshell Mantle",
+    "icon": "inv_shoulder_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2312,
+    "quality": "Rare",
+    "itemLevel": 29,
+    "requiredLevel": 24,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Sparkleshell Mantle"
+      },
+      {
+        "label": "Requires Level 24"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "161 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13131::::::::::0|h[Sparkleshell Mantle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sparkleshell-mantle"
+  },
+  {
+    "itemId": 13132,
+    "name": "Skeletal Shoulders",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7340,
+    "quality": "Rare",
+    "itemLevel": 43,
+    "requiredLevel": 38,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Skeletal Shoulders"
+      },
+      {
+        "label": "Requires Level 38"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "199 Armor"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13132::::::::::0|h[Skeletal Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "skeletal-shoulders"
+  },
+  {
+    "itemId": 13133,
+    "name": "Drakesfire Epaulets",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 23083,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Drakesfire Epaulets"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "270 Armor"
+      },
+      {
+        "label": "+14 Intellect"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+15 Spirit"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13133::::::::::0|h[Drakesfire Epaulets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "drakesfire-epaulets"
+  },
+  {
+    "itemId": 14548,
+    "name": "Royal Cap Spaulders",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 24792,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Royal Cap Spaulders"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "274 Armor"
+      },
+      {
+        "label": "+13 Spirit"
+      },
+      {
+        "label": "+9 Intellect"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:14548::::::::::0|h[Royal Cap Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "royal-cap-spaulders"
+  },
+  {
+    "itemId": 14806,
+    "name": "Bloodlust Epaulets",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 15560,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Bloodlust Epaulets"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "231 Armor"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+14 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14806::::::::::0|h[Bloodlust Epaulets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodlust-epaulets"
+  },
+  {
+    "itemId": 15608,
+    "name": "Ancient Pauldrons",
+    "icon": "inv_shoulder_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7035,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 39,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Ancient Pauldrons"
+      },
+      {
+        "label": "Requires Level 39"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "184 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15608::::::::::0|h[Ancient Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ancient-pauldrons"
+  },
+  {
+    "itemId": 15617,
+    "name": "Bonelink Epaulets",
+    "icon": "inv_shoulder_22",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 7107,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Bonelink Epaulets"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "186 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15617::::::::::0|h[Bonelink Epaulets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bonelink-epaulets"
+  },
+  {
+    "itemId": 16427,
+    "name": "Lieutenant Commander's Chain Pauldrons",
+    "icon": "inv_shoulder_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 12923,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Lieutenant Commander's Chain Pauldrons"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "278 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "+12 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16427::::::::::0|h[Lieutenant Commander's Chain Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lieutenant-commanders-chain-pauldrons"
+  },
+  {
+    "itemId": 16524,
+    "name": "Champion's Mail Shoulders",
+    "icon": "inv_shoulder_04",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 13117,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Champion's Mail Shoulders"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "278 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16524::::::::::0|h[Champion's Mail Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "champions-mail-shoulders"
+  },
+  {
+    "itemId": 16669,
+    "name": "Pauldrons of Elements",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 21995,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Pauldrons of Elements"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "266 Armor"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+6 Spirit"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16669::::::::::0|h[Pauldrons of Elements]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pauldrons-of-elements"
+  },
+  {
+    "itemId": 16793,
+    "name": "Arcmetal Shoulders",
+    "icon": "inv_shoulder_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4353,
+    "quality": "Uncommon",
+    "itemLevel": 38,
+    "requiredLevel": 30,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Arcmetal Shoulders"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "167 Armor"
+      },
+      {
+        "label": "+9 Agility"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 6027,
+          "name": "Book of the Ancients",
+          "faction": "Both",
+          "requiredLevel": 30
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:16793::::::::::0|h[Arcmetal Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "arcmetal-shoulders"
+  },
+  {
+    "itemId": 18320,
+    "name": "Demonheart Spaulders",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 21157,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Demonheart Spaulders"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "258 Armor"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+9 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18320::::::::::0|h[Demonheart Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "demonheart-spaulders"
+  },
+  {
+    "itemId": 18494,
+    "name": "Denwatcher's Shoulders",
+    "icon": "inv_shoulder_15",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 21444,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Denwatcher's Shoulders"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "266 Armor"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+10 Spirit"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18494::::::::::0|h[Denwatcher's Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "denwatchers-shoulders"
+  },
+  {
+    "itemId": 18742,
+    "name": "Stratholme Militia Shoulderguard",
+    "icon": "inv_shoulder_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 22503,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Stratholme Militia Shoulderguard"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "266 Armor"
+      },
+      {
+        "label": "+22 Agility"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18742::::::::::0|h[Stratholme Militia Shoulderguard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stratholme-militia-shoulderguard"
+  },
+  {
+    "itemId": 22212,
+    "name": "Golem Fitted Pauldrons",
+    "icon": "inv_shoulder_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 17311,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Golem Fitted Pauldrons"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "250 Armor"
+      },
+      {
+        "label": "+13 Agility"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22212::::::::::0|h[Golem Fitted Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "golem-fitted-pauldrons"
+  },
+  {
+    "itemId": 9965,
+    "name": "Warmonger's Pauldrons",
+    "icon": "inv_shoulder_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 9973,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Warmonger's Pauldrons"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "201 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9965::::::::::0|h[Warmonger's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warmongers-pauldrons"
+  },
+  {
+    "itemId": 10407,
+    "name": "Raider's Shoulderpads",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 431,
+    "quality": "Common",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Raider's Shoulderpads"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "122 Armor"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:10407::::::::::0|h[Raider's Shoulderpads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "raiders-shoulderpads"
+  },
+  {
+    "itemId": 13538,
+    "name": "Windshrieker Pauldrons",
+    "icon": "inv_shoulder_13",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 19223,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Windshrieker Pauldrons"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "242 Armor"
+      },
+      {
+        "label": "+20 Arcane"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:13538::::::::::0|h[Windshrieker Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "windshrieker-pauldrons"
+  },
+  {
+    "itemId": 14728,
+    "name": "War Paint Shoulder Pads",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 485,
+    "quality": "Common",
+    "itemLevel": 22,
+    "requiredLevel": 17,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "War Paint Shoulder Pads"
+      },
+      {
+        "label": "Requires Level 17"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "124 Armor"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:14728::::::::::0|h[War Paint Shoulder Pads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "war-paint-shoulder-pads"
+  },
+  {
+    "itemId": 14817,
+    "name": "Warstrike Shoulder Pads",
+    "icon": "inv_shoulder_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 20883,
+    "quality": "Uncommon",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Warstrike Shoulder Pads"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "249 Armor"
+      },
+      {
+        "label": "+16 Intellect"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14817::::::::::0|h[Warstrike Shoulder Pads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warstrike-shoulder-pads"
+  },
+  {
+    "itemId": 15496,
+    "name": "Bloodspattered Shoulder Pads",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 461,
+    "quality": "Common",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Bloodspattered Shoulder Pads"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "122 Armor"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:15496::::::::::0|h[Bloodspattered Shoulder Pads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodspattered-shoulder-pads"
+  },
+  {
+    "itemId": 15505,
+    "name": "Outrunner's Pauldrons",
+    "icon": "inv_shoulder_27",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 561,
+    "quality": "Common",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Outrunner's Pauldrons"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "126 Armor"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:15505::::::::::0|h[Outrunner's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "outrunners-pauldrons"
+  },
+  {
+    "itemId": 15542,
+    "name": "Wicked Chain Shoulder Pads",
+    "icon": "inv_shoulder_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2365,
+    "quality": "Uncommon",
+    "itemLevel": 32,
+    "requiredLevel": 27,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Wicked Chain Shoulder Pads"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "153 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15542::::::::::0|h[Wicked Chain Shoulder Pads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wicked-chain-shoulder-pads"
+  },
+  {
+    "itemId": 15553,
+    "name": "Thick Scale Shoulder Pads",
+    "icon": "inv_shoulder_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3061,
+    "quality": "Uncommon",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Thick Scale Shoulder Pads"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "158 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15553::::::::::0|h[Thick Scale Shoulder Pads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thick-scale-shoulder-pads"
+  },
+  {
+    "itemId": 15597,
+    "name": "Steadfast Shoulders",
+    "icon": "inv_shoulder_21",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 5642,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Steadfast Shoulders"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "179 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15597::::::::::0|h[Steadfast Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "steadfast-shoulders"
+  },
+  {
+    "itemId": 15686,
+    "name": "Triumphant Shoulder Pads",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 22331,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Triumphant Shoulder Pads"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "253 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15686::::::::::0|h[Triumphant Shoulder Pads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "triumphant-shoulder-pads"
+  },
+  {
+    "itemId": 15698,
+    "name": "Wrangling Spaulders",
+    "icon": "inv_shoulder_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4273,
+    "quality": "Uncommon",
+    "itemLevel": 38,
+    "requiredLevel": 30,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Wrangling Spaulders"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "167 Armor"
+      },
+      {
+        "label": "+6 Stamina"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+2 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 5561,
+          "name": "Kodo Roundup",
+          "faction": "Both",
+          "requiredLevel": 30
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:15698::::::::::0|h[Wrangling Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wrangling-spaulders"
+  },
+  {
+    "itemId": 50420,
+    "name": "Thrall's Shoulders",
+    "icon": "",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 0,
+    "quality": "Common",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Thrall's Shoulders"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:50420::::::::::0|h[Thrall's Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thralls-shoulders"
+  },
+  {
+    "itemId": 60975,
+    "name": "Tel Co. Huntsman Pauldrons",
+    "icon": "inv_shoulder_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 19504,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 48,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Tel Co. Huntsman Pauldrons"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "245 Armor"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+10 Nature"
+      },
+      {
+        "label": "+17 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40742,
+          "name": "The Work Must Continue",
+          "faction": "Both",
+          "requiredLevel": 48
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60975::::::::::0|h[Tel Co. Huntsman Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tel-co-huntsman-pauldrons"
+  },
+  {
+    "itemId": 80710,
+    "name": "Turtle Scale Shoulderguards",
+    "icon": "inv_shoulder_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 219,
+    "quality": "Uncommon",
+    "itemLevel": 20,
+    "requiredLevel": 15,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Turtle Scale Shoulderguards"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "184 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:80710::::::::::0|h[Turtle Scale Shoulderguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "turtle-scale-shoulderguards"
+  },
+  {
+    "itemId": 80832,
+    "name": "Steelscale Shoulders",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 604,
+    "quality": "Uncommon",
+    "itemLevel": 33,
+    "requiredLevel": 27,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Steelscale Shoulders"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "153 Armor"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:80832::::::::::0|h[Steelscale Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "steelscale-shoulders"
+  },
+  {
+    "itemId": 83542,
+    "name": "Hidden Mail Shoulders",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 532,
+    "quality": "Common",
+    "itemLevel": 22,
+    "requiredLevel": 15,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Hidden Mail Shoulders"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 Armor"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:83542::::::::::0|h[Hidden Mail Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hidden-mail-shoulders"
+  },
+  {
+    "itemId": 55558,
+    "name": "Unused AQ40 Mail Shoulders Test",
+    "icon": "inv_shoulder_36",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1,
+    "quality": "Common",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Unused AQ40 Mail Shoulders Test"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:55558::::::::::0|h[Unused AQ40 Mail Shoulders Test]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "unused-aq40-mail-shoulders-test"
+  },
+  {
+    "itemId": 23260,
+    "name": "Champion's Mail Pauldrons",
+    "icon": "inv_shoulder_04",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 19611,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Champion's Mail Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "311 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+5 StrengthDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23260::::::::::0|h[Champion's Mail Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "champions-mail-pauldrons"
+  },
+  {
+    "itemId": 23307,
+    "name": "Lieutenant Commander's Chain Shoulders",
+    "icon": "inv_shoulder_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 18684,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Lieutenant Commander's Chain Shoulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "311 Armor"
+      },
+      {
+        "label": "+18 Agility"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23307::::::::::0|h[Lieutenant Commander's Chain Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lieutenant-commanders-chain-shoulders"
+  },
+  {
+    "itemId": 55025,
+    "name": "Trand's Lightweight Shoulder Pads",
+    "icon": "inv_shoulder_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 18755,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Trand's Lightweight Shoulder Pads"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "225 Armor"
+      },
+      {
+        "label": "+11 Agility"
+      },
+      {
+        "label": "+11 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:55025::::::::::0|h[Trand's Lightweight Shoulder Pads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "trands-lightweight-shoulder-pads"
+  },
+  {
+    "itemId": 55527,
+    "name": "Otherworldly Spaulders",
+    "icon": "inv_shoulder_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 36933,
+    "quality": "Rare",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Otherworldly Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "340 Armor"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+20 Arcane"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:55527::::::::::0|h[Otherworldly Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "otherworldly-spaulders"
+  },
+  {
+    "itemId": 60275,
+    "name": "Blatarg's Mantle",
+    "icon": "inv_shoulder_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 15837,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 45,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Blatarg's Mantle"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "234 Armor"
+      },
+      {
+        "label": "+15 Agility"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+3 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40200,
+          "name": "Tanglemoss",
+          "faction": "Horde",
+          "requiredLevel": 45
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60275::::::::::0|h[Blatarg's Mantle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blatargs-mantle"
+  },
+  {
+    "itemId": 60529,
+    "name": "Frostlink Shoulders",
+    "icon": "inv_shoulder_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 9580,
+    "quality": "Rare",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Frostlink Shoulders"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "211 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60529::::::::::0|h[Frostlink Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "frostlink-shoulders"
+  },
+  {
+    "itemId": 60691,
+    "name": "Shoulderpads of Gazzirik",
+    "icon": "inv_shoulder_15",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2039,
+    "quality": "Rare",
+    "itemLevel": 25,
+    "requiredLevel": 15,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Shoulderpads of Gazzirik"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "149 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40485,
+          "name": "The Harvest Golem Mystery",
+          "faction": "Alliance",
+          "requiredLevel": 15
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:60691::::::::::0|h[Shoulderpads of Gazzirik]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shoulderpads-of-gazzirik"
+  },
+  {
+    "itemId": 60727,
+    "name": "Pauldrons of Sealed Magics",
+    "icon": "inv_shoulder_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 28227,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Pauldrons of Sealed Magics"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "286 Armor"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60727::::::::::0|h[Pauldrons of Sealed Magics]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pauldrons-of-sealed-magics"
+  },
+  {
+    "itemId": 60792,
+    "name": "Pauldrons of Elusiveness",
+    "icon": "inv_shoulder_22",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 28628,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Pauldrons of Elusiveness"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "286 Armor"
+      },
+      {
+        "label": "+8 Agility"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60792::::::::::0|h[Pauldrons of Elusiveness]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pauldrons-of-elusiveness"
+  },
+  {
+    "itemId": 61017,
+    "name": "Shoulderguards of the Defiler",
+    "icon": "inv_shoulder_16",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 27854,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Shoulderguards of the Defiler"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "290 Armor"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "+20 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61017::::::::::0|h[Shoulderguards of the Defiler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shoulderguards-of-the-defiler"
+  },
+  {
+    "itemId": 61335,
+    "name": "Dragonbane Pauldrons",
+    "icon": "inv_shoulder_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 17241,
+    "quality": "Rare",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Dragonbane Pauldrons"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "273 Armor"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "+48 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61335::::::::::0|h[Dragonbane Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dragonbane-pauldrons"
+  },
+  {
+    "itemId": 65001,
+    "name": "Red Dragonscale Shoulders",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 23154,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Red Dragonscale Shoulders"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "270 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+12 Fire"
+      },
+      {
+        "label": "+12 Fire"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:65001::::::::::0|h[Red Dragonscale Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "red-dragonscale-shoulders"
+  },
+  {
+    "itemId": 70037,
+    "name": "Defias Enforcer Shoulderguards",
+    "icon": "inv_shoulder_21",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2045,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 24,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Defias Enforcer Shoulderguards"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "149 Armor"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+4 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 70055,
+          "name": "Defias of Duskwood",
+          "faction": "Alliance",
+          "requiredLevel": 24
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:70037::::::::::0|h[Defias Enforcer Shoulderguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defias-enforcer-shoulderguards"
+  },
+  {
+    "itemId": 81005,
+    "name": "Spiked Defias Spaulders",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 484,
+    "quality": "Rare",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Spiked Defias Spaulders"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "149 Armor"
+      },
+      {
+        "label": "+3 Strength"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81005::::::::::0|h[Spiked Defias Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "spiked-defias-spaulders"
+  },
+  {
+    "itemId": 3480,
+    "name": "Rough Bronze Shoulders",
+    "icon": "inv_shoulder_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 319,
+    "quality": "Uncommon",
+    "itemLevel": 22,
+    "requiredLevel": 17,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Rough Bronze Shoulders"
+      },
+      {
+        "label": "Requires Level 17"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "130 Armor"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3480::::::::::0|h[Rough Bronze Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rough-bronze-shoulders"
+  },
+  {
+    "itemId": 3481,
+    "name": "Silvered Bronze Shoulders",
+    "icon": "inv_shoulder_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1284,
+    "quality": "Uncommon",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Silvered Bronze Shoulders"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "137 Armor"
+      },
+      {
+        "label": "+3 Strength"
+      },
+      {
+        "label": "+3 Stamina"
+      },
+      {
+        "label": "+3 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3481::::::::::0|h[Silvered Bronze Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "silvered-bronze-shoulders"
+  },
+  {
+    "itemId": 3840,
+    "name": "Green Iron Shoulders",
+    "icon": "inv_shoulder_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2571,
+    "quality": "Uncommon",
+    "itemLevel": 32,
+    "requiredLevel": 27,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Green Iron Shoulders"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "153 Armor"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+4 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3840::::::::::0|h[Green Iron Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "green-iron-shoulders"
+  },
+  {
+    "itemId": 4123,
+    "name": "Frost Metal Pauldrons",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3804,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 30,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Frost Metal Pauldrons"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "164 Armor"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 331,
+          "name": "Report to Doren",
+          "faction": "Alliance",
+          "requiredLevel": 30
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4123::::::::::0|h[Frost Metal Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "frost-metal-pauldrons"
+  },
+  {
+    "itemId": 4443,
+    "name": "Grim Pauldrons",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3472,
+    "quality": "Uncommon",
+    "itemLevel": 36,
+    "requiredLevel": 27,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Grim Pauldrons"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "162 Armor"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+7 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1164,
+          "name": "To Steal From Thieves",
+          "faction": "Horde",
+          "requiredLevel": 27
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:4443::::::::::0|h[Grim Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grim-pauldrons"
+  },
+  {
+    "itemId": 4705,
+    "name": "Lambent Scale Pauldrons",
+    "icon": "inv_shoulder_08",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1449,
+    "quality": "Uncommon",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Lambent Scale Pauldrons"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "142 Armor"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4705::::::::::0|h[Lambent Scale Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lambent-scale-pauldrons"
+  },
+  {
+    "itemId": 4833,
+    "name": "Glorious Shoulders",
+    "icon": "inv_shoulder_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1731,
+    "quality": "Uncommon",
+    "itemLevel": 28,
+    "requiredLevel": 23,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Glorious Shoulders"
+      },
+      {
+        "label": "Requires Level 23"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "144 Armor"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4833::::::::::0|h[Glorious Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "glorious-shoulders"
+  },
+  {
+    "itemId": 6388,
+    "name": "Glimmering Mail Pauldrons",
+    "icon": "inv_shoulder_20",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2043,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Glimmering Mail Pauldrons"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "149 Armor"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:6388::::::::::0|h[Glimmering Mail Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "glimmering-mail-pauldrons"
+  },
+  {
+    "itemId": 6404,
+    "name": "Mail Combat Spaulders",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3242,
+    "quality": "Uncommon",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Mail Combat Spaulders"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "160 Armor"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+7 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:6404::::::::::0|h[Mail Combat Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mail-combat-spaulders"
+  },
+  {
+    "itemId": 6747,
+    "name": "Enforcer Pauldrons",
+    "icon": "inv_shoulder_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 5015,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 25,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Enforcer Pauldrons"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "173 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1488,
+          "name": "The Corrupter",
+          "faction": "Horde",
+          "requiredLevel": 25
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6747::::::::::0|h[Enforcer Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "enforcer-pauldrons"
+  },
+  {
+    "itemId": 6792,
+    "name": "Sanguine Pauldrons",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4738,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 30,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Sanguine Pauldrons"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "173 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+8 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1457,
+          "name": "The Karnitol Shipwreck",
+          "faction": "Alliance",
+          "requiredLevel": 30
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6792::::::::::0|h[Sanguine Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sanguine-pauldrons"
+  },
+  {
+    "itemId": 7424,
+    "name": "Phalanx Spaulders",
+    "icon": "inv_shoulder_26",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2709,
+    "quality": "Uncommon",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Phalanx Spaulders"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "155 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7424::::::::::0|h[Phalanx Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "phalanx-spaulders"
+  },
+  {
+    "itemId": 7459,
+    "name": "Knight's Pauldrons",
+    "icon": "inv_shoulder_27",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4317,
+    "quality": "Uncommon",
+    "itemLevel": 38,
+    "requiredLevel": 33,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Knight's Pauldrons"
+      },
+      {
+        "label": "Requires Level 33"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "167 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7459::::::::::0|h[Knight's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "knights-pauldrons"
+  },
+  {
+    "itemId": 8133,
+    "name": "Myrmidon's Pauldrons",
+    "icon": "inv_shoulder_26",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 10517,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Myrmidon's Pauldrons"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "205 Armor"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+10 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8133::::::::::0|h[Myrmidon's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "myrmidons-pauldrons"
+  },
+  {
+    "itemId": 8310,
+    "name": "Hero's Pauldrons",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 19419,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Hero's Pauldrons"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "242 Armor"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+13 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8310::::::::::0|h[Hero's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heros-pauldrons"
+  },
+  {
+    "itemId": 9817,
+    "name": "Fortified Spaulders",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1426,
+    "quality": "Uncommon",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Fortified Spaulders"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "139 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9817::::::::::0|h[Fortified Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fortified-spaulders"
+  },
+  {
+    "itemId": 9872,
+    "name": "Renegade Pauldrons",
+    "icon": "inv_shoulder_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4101,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 32,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Renegade Pauldrons"
+      },
+      {
+        "label": "Requires Level 32"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "164 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9872::::::::::0|h[Renegade Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "renegade-pauldrons"
+  },
+  {
+    "itemId": 9904,
+    "name": "Jazeraint Pauldrons",
+    "icon": "inv_shoulder_26",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 5420,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 36,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Jazeraint Pauldrons"
+      },
+      {
+        "label": "Requires Level 36"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "176 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9904::::::::::0|h[Jazeraint Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jazeraint-pauldrons"
+  },
+  {
+    "itemId": 10085,
+    "name": "Lord's Pauldrons",
+    "icon": "inv_shoulder_30",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 11529,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Lord's Pauldrons"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "212 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10085::::::::::0|h[Lord's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lords-pauldrons"
+  },
+  {
+    "itemId": 10125,
+    "name": "Ornate Pauldrons",
+    "icon": "inv_shoulder_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 14551,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Ornate Pauldrons"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "227 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10125::::::::::0|h[Ornate Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ornate-pauldrons"
+  },
+  {
+    "itemId": 10163,
+    "name": "Mercurial Pauldrons",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 20264,
+    "quality": "Uncommon",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Mercurial Pauldrons"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "249 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10163::::::::::0|h[Mercurial Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mercurial-pauldrons"
+  },
+  {
+    "itemId": 10237,
+    "name": "Engraved Pauldrons",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 16287,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Engraved Pauldrons"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "234 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10237::::::::::0|h[Engraved Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "engraved-pauldrons"
+  },
+  {
+    "itemId": 10274,
+    "name": "Masterwork Pauldrons",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 21118,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Masterwork Pauldrons"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "253 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10274::::::::::0|h[Masterwork Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "masterwork-pauldrons"
+  },
+  {
+    "itemId": 12617,
+    "name": "Savage Mail Shoulders",
+    "icon": "inv_shoulder_15",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 21919,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Savage Mail Shoulders"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "253 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12617::::::::::0|h[Savage Mail Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "savage-mail-shoulders"
+  },
+  {
+    "itemId": 14749,
+    "name": "Hulking Spaulders",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1325,
+    "quality": "Uncommon",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Hulking Spaulders"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "139 Armor"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+2 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14749::::::::::0|h[Hulking Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hulking-spaulders"
+  },
+  {
+    "itemId": 14758,
+    "name": "Slayer's Shoulder Pads",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2267,
+    "quality": "Uncommon",
+    "itemLevel": 31,
+    "requiredLevel": 26,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Slayer's Shoulder Pads"
+      },
+      {
+        "label": "Requires Level 26"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "151 Armor"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+3 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14758::::::::::0|h[Slayer's Shoulder Pads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "slayers-shoulder-pads"
+  },
+  {
+    "itemId": 14767,
+    "name": "Enduring Pauldrons",
+    "icon": "inv_shoulder_21",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4478,
+    "quality": "Uncommon",
+    "itemLevel": 38,
+    "requiredLevel": 33,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Enduring Pauldrons"
+      },
+      {
+        "label": "Requires Level 33"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "167 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14767::::::::::0|h[Enduring Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "enduring-pauldrons"
+  },
+  {
+    "itemId": 14776,
+    "name": "Ravager's Mantle",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 6326,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 38,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Ravager's Mantle"
+      },
+      {
+        "label": "Requires Level 38"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "181 Armor"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+3 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14776::::::::::0|h[Ravager's Mantle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ravagers-mantle"
+  },
+  {
+    "itemId": 14787,
+    "name": "Khan's Mantle",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 8323,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Khan's Mantle"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "194 Armor"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14787::::::::::0|h[Khan's Mantle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "khans-mantle"
+  },
+  {
+    "itemId": 14797,
+    "name": "Protector Pads",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 11427,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Protector Pads"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "209 Armor"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+6 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14797::::::::::0|h[Protector Pads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "protector-pads"
+  },
+  {
+    "itemId": 15081,
+    "name": "Heavy Scorpid Shoulders",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 20261,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Heavy Scorpid Shoulders"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "245 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+9 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15081::::::::::0|h[Heavy Scorpid Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-scorpid-shoulders"
+  },
+  {
+    "itemId": 15513,
+    "name": "Grunt's Pauldrons",
+    "icon": "inv_shoulder_19",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1264,
+    "quality": "Uncommon",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Grunt's Pauldrons"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "137 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15513::::::::::0|h[Grunt's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grunts-pauldrons"
+  },
+  {
+    "itemId": 15523,
+    "name": "Spiked Chain Shoulder Pads",
+    "icon": "inv_shoulder_19",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1474,
+    "quality": "Uncommon",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Spiked Chain Shoulder Pads"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "142 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15523::::::::::0|h[Spiked Chain Shoulder Pads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "spiked-chain-shoulder-pads"
+  },
+  {
+    "itemId": 15531,
+    "name": "Sentry's Shoulderguards",
+    "icon": "inv_shoulder_09",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2076,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Sentry's Shoulderguards"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "149 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15531::::::::::0|h[Sentry's Shoulderguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sentrys-shoulderguards"
+  },
+  {
+    "itemId": 15562,
+    "name": "Pillager's Pauldrons",
+    "icon": "inv_shoulder_15",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 3558,
+    "quality": "Uncommon",
+    "itemLevel": 36,
+    "requiredLevel": 31,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Pillager's Pauldrons"
+      },
+      {
+        "label": "Requires Level 31"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "162 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15562::::::::::0|h[Pillager's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pillagers-pauldrons"
+  },
+  {
+    "itemId": 15574,
+    "name": "Marauder's Shoulder Pads",
+    "icon": "inv_shoulder_27",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 5150,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Marauder's Shoulder Pads"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "173 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15574::::::::::0|h[Marauder's Shoulder Pads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "marauders-shoulder-pads"
+  },
+  {
+    "itemId": 15583,
+    "name": "Sparkleshell Shoulder Pads",
+    "icon": "inv_shoulder_10",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 5344,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 36,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Sparkleshell Shoulder Pads"
+      },
+      {
+        "label": "Requires Level 36"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "176 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15583::::::::::0|h[Sparkleshell Shoulder Pads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sparkleshell-shoulder-pads"
+  },
+  {
+    "itemId": 15628,
+    "name": "Gryphon Mail Pauldrons",
+    "icon": "inv_shoulder_01",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 9570,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Gryphon Mail Pauldrons"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "197 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15628::::::::::0|h[Gryphon Mail Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gryphon-mail-pauldrons"
+  },
+  {
+    "itemId": 15638,
+    "name": "Formidable Shoulder Pads",
+    "icon": "inv_shoulder_30",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 9614,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Formidable Shoulder Pads"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "201 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15638::::::::::0|h[Formidable Shoulder Pads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "formidable-shoulder-pads"
+  },
+  {
+    "itemId": 15647,
+    "name": "Ironhide Pauldrons",
+    "icon": "inv_shoulder_24",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 13125,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Ironhide Pauldrons"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "216 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15647::::::::::0|h[Ironhide Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ironhide-pauldrons"
+  },
+  {
+    "itemId": 15656,
+    "name": "Merciless Epaulets",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 13366,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Merciless Epaulets"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "220 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15656::::::::::0|h[Merciless Epaulets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "merciless-epaulets"
+  },
+  {
+    "itemId": 15666,
+    "name": "Impenetrable Pauldrons",
+    "icon": "inv_shoulder_13",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 18375,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Impenetrable Pauldrons"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "238 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15666::::::::::0|h[Impenetrable Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "impenetrable-pauldrons"
+  },
+  {
+    "itemId": 15677,
+    "name": "Magnificent Shoulders",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 19605,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Magnificent Shoulders"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "245 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15677::::::::::0|h[Magnificent Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "magnificent-shoulders"
+  },
+  {
+    "itemId": 17769,
+    "name": "Sagebrush Spaulders",
+    "icon": "inv_shoulder_18",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 8673,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 0,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Sagebrush Spaulders"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "194 Armor"
+      },
+      {
+        "label": "+15 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:17769::::::::::0|h[Sagebrush Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sagebrush-spaulders"
+  },
+  {
+    "itemId": 41787,
+    "name": "Shatterblade Pauldrons",
+    "icon": "inv_shoulder_26",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 4371,
+    "quality": "Uncommon",
+    "itemLevel": 38,
+    "requiredLevel": 30,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Shatterblade Pauldrons"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "167 Armor"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+6 Agility"
+      },
+      {
+        "label": "+2 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41721,
+          "name": "Zarm'geth Stronghold",
+          "faction": "Horde",
+          "requiredLevel": 30
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:41787::::::::::0|h[Shatterblade Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shatterblade-pauldrons"
+  },
+  {
+    "itemId": 41952,
+    "name": "Shoulderpads of Dun Kithas",
+    "icon": "inv_shoulder_14",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 5738,
+    "quality": "Uncommon",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Shoulderpads of Dun Kithas"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "165 Armor"
+      },
+      {
+        "label": "+8 Spirit"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41853,
+          "name": "Groldan's Grudge",
+          "faction": "Both",
+          "requiredLevel": 30
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:41952::::::::::0|h[Shoulderpads of Dun Kithas]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shoulderpads-of-dun-kithas"
+  },
+  {
+    "itemId": 58170,
+    "name": "Scrap Metal Pauldrons",
+    "icon": "inv_shoulder_27",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 20546,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 45,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Scrap Metal Pauldrons"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "234 Armor"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "+31 ranged"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41767,
+          "name": "Rise of the Venture Co.",
+          "faction": "Horde",
+          "requiredLevel": 45
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:58170::::::::::0|h[Scrap Metal Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "scrap-metal-pauldrons"
+  },
+  {
+    "itemId": 60751,
+    "name": "Sentinel's Pauldrons",
+    "icon": "inv_shoulder_13",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 488,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Sentinel's Pauldrons"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "149 Armor"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "+10 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:60751::::::::::0|h[Sentinel's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sentinels-pauldrons"
+  },
+  {
+    "itemId": 61539,
+    "name": "Scaleshard Shoulders",
+    "icon": "inv_shoulder_02",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 18029,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Scaleshard Shoulders"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "197 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61539::::::::::0|h[Scaleshard Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "scaleshard-shoulders"
+  },
+  {
+    "itemId": 70006,
+    "name": "Leafcovered Spaulders",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1843,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 28,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Leafcovered Spaulders"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "149 Armor"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+2 Spirit"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 70025,
+          "name": "Knife Eared Stalkers",
+          "faction": "Horde",
+          "requiredLevel": 28
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:70006::::::::::0|h[Leafcovered Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "leafcovered-spaulders"
+  },
+  {
+    "itemId": 1445,
+    "name": "Blackrock Pauldrons",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 583,
+    "quality": "Common",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Blackrock Pauldrons"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "126 Armor"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:1445::::::::::0|h[Blackrock Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blackrock-pauldrons"
+  },
+  {
+    "itemId": 1744,
+    "name": "Laced Mail Shoulderpads",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 260,
+    "quality": "Poor",
+    "itemLevel": 20,
+    "requiredLevel": 15,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Laced Mail Shoulderpads"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "113 Armor"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1744::::::::::0|h[Laced Mail Shoulderpads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "laced-mail-shoulderpads"
+  },
+  {
+    "itemId": 1752,
+    "name": "Linked Chain Shoulderpads",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 286,
+    "quality": "Poor",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Linked Chain Shoulderpads"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "115 Armor"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1752::::::::::0|h[Linked Chain Shoulderpads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "linked-chain-shoulderpads"
+  },
+  {
+    "itemId": 1760,
+    "name": "Reinforced Chain Shoulderpads",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 609,
+    "quality": "Poor",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Reinforced Chain Shoulderpads"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "128 Armor"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1760::::::::::0|h[Reinforced Chain Shoulderpads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "reinforced-chain-shoulderpads"
+  },
+  {
+    "itemId": 3814,
+    "name": "Double Mail Shoulderpads",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 1891,
+    "quality": "Poor",
+    "itemLevel": 39,
+    "requiredLevel": 34,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Double Mail Shoulderpads"
+      },
+      {
+        "label": "Requires Level 34"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "153 Armor"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3814::::::::::0|h[Double Mail Shoulderpads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "double-mail-shoulderpads"
+  },
+  {
+    "itemId": 3983,
+    "name": "Strapped Shoulderpads",
+    "icon": "inv_shoulder_06",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 260,
+    "quality": "Common",
+    "itemLevel": 4,
+    "requiredLevel": 0,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Strapped Shoulderpads"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "43 Armor"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3983::::::::::0|h[Strapped Shoulderpads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "strapped-shoulderpads"
+  },
+  {
+    "itemId": 3998,
+    "name": "Laminated Scale Shoulderpads",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 5656,
+    "quality": "Poor",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Laminated Scale Shoulderpads"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "201 Armor"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3998::::::::::0|h[Laminated Scale Shoulderpads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "laminated-scale-shoulderpads"
+  },
+  {
+    "itemId": 4006,
+    "name": "Overlinked Chain Shoulderpads",
+    "icon": "inv_shoulder_15",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 2434,
+    "quality": "Poor",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Overlinked Chain Shoulderpads"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "161 Armor"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:4006::::::::::0|h[Overlinked Chain Shoulderpads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "overlinked-chain-shoulderpads"
+  },
+  {
+    "itemId": 4014,
+    "name": "Sterling Chain Shoulderpads",
+    "icon": "inv_shoulder_07",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 11349,
+    "quality": "Poor",
+    "itemLevel": 69,
+    "requiredLevel": 64,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Sterling Chain Shoulderpads"
+      },
+      {
+        "label": "Requires Level 64"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "248 Armor"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:4014::::::::::0|h[Sterling Chain Shoulderpads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sterling-chain-shoulderpads"
+  },
+  {
+    "itemId": 4694,
+    "name": "Burnished Pauldrons",
+    "icon": "inv_shoulder_28",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 515,
+    "quality": "Common",
+    "itemLevel": 22,
+    "requiredLevel": 17,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Burnished Pauldrons"
+      },
+      {
+        "label": "Requires Level 17"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "124 Armor"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:4694::::::::::0|h[Burnished Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "burnished-pauldrons"
+  },
+  {
+    "itemId": 4728,
+    "name": "Twain's Shoulder",
+    "icon": "inv_shoulder_03",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 0,
+    "quality": "Common",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Twain's Shoulder"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "165 Armor"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:4728::::::::::0|h[Twain's Shoulder]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "twains-shoulder"
+  },
+  {
+    "itemId": 6189,
+    "name": "Durable Chain Shoulders",
+    "icon": "inv_shoulder_05",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 624,
+    "quality": "Common",
+    "itemLevel": 24,
+    "requiredLevel": 17,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Durable Chain Shoulders"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "128 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 256,
+          "name": "WANTED: Chok'sul",
+          "faction": "Alliance",
+          "requiredLevel": 17
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:6189::::::::::0|h[Durable Chain Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "durable-chain-shoulders"
+  },
+  {
+    "itemId": 6579,
+    "name": "Defender Spaulders",
+    "icon": "inv_shoulder_27",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 667,
+    "quality": "Common",
+    "itemLevel": 24,
+    "requiredLevel": 19,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Defender Spaulders"
+      },
+      {
+        "label": "Requires Level 19"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "128 Armor"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:6579::::::::::0|h[Defender Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defender-spaulders"
+  },
+  {
+    "itemId": 8207,
+    "name": "Tough Scorpid Shoulders",
+    "icon": "inv_shoulder_04",
+    "class": "Armor",
+    "subclass": "Mail",
+    "sellPrice": 8978,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Tough Scorpid Shoulders"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Mail",
+        "format": "alignRight"
+      },
+      {
+        "label": "197 Armor"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8207::::::::::0|h[Tough Scorpid Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tough-scorpid-shoulders"
+  }
+]

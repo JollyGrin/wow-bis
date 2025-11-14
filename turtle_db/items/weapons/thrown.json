@@ -1,0 +1,37 @@
+[
+  {
+    "itemId": 6088,
+    "name": "Monster - Torch, Ranged",
+    "icon": "inv_sword_09",
+    "class": "Weapon",
+    "subclass": "Thrown",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Ranged",
+    "tooltip": [
+      {
+        "label": "Monster - Torch, Ranged"
+      },
+      {
+        "label": "Ranged"
+      },
+      {
+        "label": "Thrown",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 400 / 400"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:6088::::::::::0|h[Monster - Torch, Ranged]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-torch-ranged",
+    "speed": 2,
+    "dps": 0.8
+  }
+]

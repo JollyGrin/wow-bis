@@ -1,0 +1,6924 @@
+[
+  {
+    "itemId": 14552,
+    "name": "Stockade Pauldrons",
+    "icon": "inv_shoulder_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 15378,
+    "quality": "Epic",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Stockade Pauldrons"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "472 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+10 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:14552::::::::::0|h[Stockade Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stockade-pauldrons"
+  },
+  {
+    "itemId": 16476,
+    "name": "Field Marshal's Lamellar Pauldrons",
+    "icon": "inv_shoulder_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 18757,
+    "quality": "Epic",
+    "itemLevel": 74,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Field Marshal's Lamellar Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "626 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+15 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16476::::::::::0|h[Field Marshal's Lamellar Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "field-marshals-lamellar-pauldrons"
+  },
+  {
+    "itemId": 16480,
+    "name": "Field Marshal's Plate Shoulderguards",
+    "icon": "inv_shoulder_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 19047,
+    "quality": "Epic",
+    "itemLevel": 74,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Field Marshal's Plate Shoulderguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "626 Armor"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+16 AgilityDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16480::::::::::0|h[Field Marshal's Plate Shoulderguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "field-marshals-plate-shoulderguards"
+  },
+  {
+    "itemId": 16544,
+    "name": "Warlord's Plate Shoulders",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 19850,
+    "quality": "Epic",
+    "itemLevel": 74,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Warlord's Plate Shoulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "626 Armor"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+16 AgilityDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16544::::::::::0|h[Warlord's Plate Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warlords-plate-shoulders"
+  },
+  {
+    "itemId": 16856,
+    "name": "Lawbringer Spaulders",
+    "icon": "inv_shoulder_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 25485,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Lawbringer Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "562 Armor"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16856::::::::::0|h[Lawbringer Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-spaulders"
+  },
+  {
+    "itemId": 16868,
+    "name": "Pauldrons of Might",
+    "icon": "inv_shoulder_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 27364,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Pauldrons of Might"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "562 Armor"
+      },
+      {
+        "label": "+22 Stamina"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16868::::::::::0|h[Pauldrons of Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pauldrons-of-might"
+  },
+  {
+    "itemId": 16953,
+    "name": "Judgement Spaulders",
+    "icon": "inv_shoulder_37",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 42155,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Judgement Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "642 Armor"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16953::::::::::0|h[Judgement Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-spaulders"
+  },
+  {
+    "itemId": 16961,
+    "name": "Pauldrons of Wrath",
+    "icon": "inv_shoulder_34",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 44583,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Pauldrons of Wrath"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "642 Armor"
+      },
+      {
+        "label": "+27 Stamina"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:16961::::::::::0|h[Pauldrons of Wrath]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pauldrons-of-wrath"
+  },
+  {
+    "itemId": 19394,
+    "name": "Drake Talon Pauldrons",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 39395,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Drake Talon Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "634 Armor"
+      },
+      {
+        "label": "+20 Agility"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19394::::::::::0|h[Drake Talon Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "drake-talon-pauldrons"
+  },
+  {
+    "itemId": 20057,
+    "name": "Highlander's Plate Spaulders",
+    "icon": "inv_shoulder_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 24654,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Highlander's Plate Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "602 Armor"
+      },
+      {
+        "label": "+22 Strength"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+18 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20057::::::::::0|h[Highlander's Plate Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-plate-spaulders"
+  },
+  {
+    "itemId": 20058,
+    "name": "Highlander's Lamellar Spaulders",
+    "icon": "inv_shoulder_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 24748,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Highlander's Lamellar Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "602 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+12 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20058::::::::::0|h[Highlander's Lamellar Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "highlanders-lamellar-spaulders"
+  },
+  {
+    "itemId": 20184,
+    "name": "Defiler's Lamellar Spaulders",
+    "icon": "inv_shoulder_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 26635,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Defiler's Lamellar Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "632 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20184::::::::::0|h[Defiler's Lamellar Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-lamellar-spaulders"
+  },
+  {
+    "itemId": 20212,
+    "name": "Defiler's Plate Spaulders",
+    "icon": "inv_shoulder_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 25508,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Defiler's Plate Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "602 Armor"
+      },
+      {
+        "label": "+22 Strength"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+18 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20212::::::::::0|h[Defiler's Plate Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "defilers-plate-spaulders"
+  },
+  {
+    "itemId": 20637,
+    "name": "Acid Inscribed Pauldrons",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 34030,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Acid Inscribed Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "642 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+25 Nature"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:20637::::::::::0|h[Acid Inscribed Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "acid-inscribed-pauldrons"
+  },
+  {
+    "itemId": 20683,
+    "name": "Abyssal Plate Epaulets",
+    "icon": "inv_shoulder_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 21028,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Abyssal Plate Epaulets"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "530 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20683::::::::::0|h[Abyssal Plate Epaulets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "abyssal-plate-epaulets"
+  },
+  {
+    "itemId": 21330,
+    "name": "Conqueror's Spaulders",
+    "icon": "inv_shoulder_35",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 45987,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Conqueror's Spaulders"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "659 Armor"
+      },
+      {
+        "label": "+16 Agility"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+21 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8544,
+          "name": "Conqueror's Spaulders",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21330::::::::::0|h[Conqueror's Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "conquerors-spaulders"
+  },
+  {
+    "itemId": 21391,
+    "name": "Avenger's Pauldrons",
+    "icon": "inv_shoulder_35",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 46145,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Avenger's Pauldrons"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "659 Armor"
+      },
+      {
+        "label": "+15 Agility"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8630,
+          "name": "Avenger's Pauldrons",
+          "faction": "Alliance",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:21391::::::::::0|h[Avenger's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "avengers-pauldrons"
+  },
+  {
+    "itemId": 21453,
+    "name": "Mantle of the Horusath",
+    "icon": "inv_shoulder_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 35631,
+    "quality": "Epic",
+    "itemLevel": 72,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Mantle of the Horusath"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "610 Armor"
+      },
+      {
+        "label": "+15 Intellect"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+15 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21453::::::::::0|h[Mantle of the Horusath]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mantle-of-the-horusath"
+  },
+  {
+    "itemId": 21639,
+    "name": "Pauldrons of the Unrelenting",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 45485,
+    "quality": "Epic",
+    "itemLevel": 77,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Pauldrons of the Unrelenting"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "650 Armor"
+      },
+      {
+        "label": "+30 Stamina"
+      },
+      {
+        "label": "+11 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21639::::::::::0|h[Pauldrons of the Unrelenting]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pauldrons-of-the-unrelenting"
+  },
+  {
+    "itemId": 21683,
+    "name": "Mantle of the Redeemed Prophecy",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 45100,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Mantle of the Redeemed Prophecy"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "642 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+17 Intellect"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21683::::::::::0|h[Mantle of the Redeemed Prophecy]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mantle-of-the-redeemed-prophecy"
+  },
+  {
+    "itemId": 22001,
+    "name": "Spaulders of Heroism",
+    "icon": "inv_shoulder_30",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 19203,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Spaulders of Heroism"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "513 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+13 AgilityDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8959,
+          "name": "Anthion's Parting Words",
+          "faction": "Alliance",
+          "requiredLevel": 58
+        },
+        {
+          "questId": 9022,
+          "name": "Anthion's Parting Words",
+          "faction": "Horde",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22001::::::::::0|h[Spaulders of Heroism]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "spaulders-of-heroism"
+  },
+  {
+    "itemId": 22093,
+    "name": "Soulforge Spaulders",
+    "icon": "inv_shoulder_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 19136,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Soulforge Spaulders"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "513 Armor"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+11 AgilityDurability"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8954,
+          "name": "Anthion's Parting Words",
+          "faction": "Alliance",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22093::::::::::0|h[Soulforge Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "soulforge-spaulders"
+  },
+  {
+    "itemId": 22419,
+    "name": "Dreadnaught Pauldrons",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 72911,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Dreadnaught Pauldrons"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "722 Armor"
+      },
+      {
+        "label": "+29 Stamina"
+      },
+      {
+        "label": "+16 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9038,
+          "name": "Dreadnaught Pauldrons",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22419::::::::::0|h[Dreadnaught Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadnaught-pauldrons"
+  },
+  {
+    "itemId": 22429,
+    "name": "Redemption Spaulders",
+    "icon": "inv_shoulder_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 70300,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Redemption Spaulders"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "722 Armor"
+      },
+      {
+        "label": "+22 Stamina"
+      },
+      {
+        "label": "+20 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9046,
+          "name": "Redemption Spaulders",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:22429::::::::::0|h[Redemption Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-spaulders"
+  },
+  {
+    "itemId": 22940,
+    "name": "Icebane Pauldrons",
+    "icon": "inv_shoulder_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 62103,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Icebane Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "698 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+33 Frost"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:22940::::::::::0|h[Icebane Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "icebane-pauldrons"
+  },
+  {
+    "itemId": 23034,
+    "name": "Nax PH Crit Plate Shoulders",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 58290,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Nax PH Crit Plate Shoulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "698 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+33 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:23034::::::::::0|h[Nax PH Crit Plate Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "nax-ph-crit-plate-shoulders"
+  },
+  {
+    "itemId": 23667,
+    "name": "Spaulders of the Grand Crusader",
+    "icon": "inv_shoulder_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 65720,
+    "quality": "Epic",
+    "itemLevel": 80,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Spaulders of the Grand Crusader"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "674 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+17 Intellect"
+      },
+      {
+        "label": "+16 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:23667::::::::::0|h[Spaulders of the Grand Crusader]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "spaulders-of-the-grand-crusader"
+  },
+  {
+    "itemId": 47001,
+    "name": "Lawbringer Shoulderguards",
+    "icon": "inv_lawshoulder_v3",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 25485,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Lawbringer Shoulderguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "562 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+22 Stamina"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41494,
+          "name": "Lawbringer's Shoulders",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47001::::::::::0|h[Lawbringer Shoulderguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-shoulderguards"
+  },
+  {
+    "itemId": 47009,
+    "name": "Lawbringer Pauldrons",
+    "icon": "inv_shoulder_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 31856,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Lawbringer Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "562 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+6 Intellect"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41494,
+          "name": "Lawbringer's Shoulders",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47009::::::::::0|h[Lawbringer Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lawbringer-pauldrons"
+  },
+  {
+    "itemId": 47017,
+    "name": "Judgement Shoulderguards",
+    "icon": "inv_judshoulders_v3",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 52694,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Judgement Shoulderguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "642 Armor"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+27 Stamina"
+      },
+      {
+        "label": "+12 Intellect"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41486,
+          "name": "Judgement's Shoulders",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47017::::::::::0|h[Judgement Shoulderguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-shoulderguards"
+  },
+  {
+    "itemId": 47025,
+    "name": "Judgement Pauldrons",
+    "icon": "inv_judshoulders_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 52694,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Judgement Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "642 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+16 Agility"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+6 Intellect"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41486,
+          "name": "Judgement's Shoulders",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47025::::::::::0|h[Judgement Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "judgement-pauldrons"
+  },
+  {
+    "itemId": 47033,
+    "name": "Avenger's Shoulderguards",
+    "icon": "inv_shoulder_35",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 57682,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Avenger's Shoulderguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "659 Armor"
+      },
+      {
+        "label": "+17 Agility"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+19 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8630,
+          "name": "Avenger's Pauldrons",
+          "faction": "Alliance",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47033::::::::::0|h[Avenger's Shoulderguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "avengers-shoulderguards"
+  },
+  {
+    "itemId": 47038,
+    "name": "Avenger's Spaulders",
+    "icon": "inv_shoulder_35",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 57682,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Avenger's Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "659 Armor"
+      },
+      {
+        "label": "+17 Intellect"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+15 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8630,
+          "name": "Avenger's Pauldrons",
+          "faction": "Alliance",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47038::::::::::0|h[Avenger's Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "avengers-spaulders"
+  },
+  {
+    "itemId": 47043,
+    "name": "Redemption Shoulderguards",
+    "icon": "inv_shoulder_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 87876,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Redemption Shoulderguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "722 Armor"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+29 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9046,
+          "name": "Redemption Spaulders",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47043::::::::::0|h[Redemption Shoulderguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-shoulderguards"
+  },
+  {
+    "itemId": 47052,
+    "name": "Redemption Pauldrons",
+    "icon": "inv_shoulder_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 87876,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Redemption Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "722 Armor"
+      },
+      {
+        "label": "+25 Strength"
+      },
+      {
+        "label": "+19 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9046,
+          "name": "Redemption Spaulders",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47052::::::::::0|h[Redemption Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "redemption-pauldrons"
+  },
+  {
+    "itemId": 47061,
+    "name": "Lionheart Spaulders",
+    "icon": "inv_lionheart_pauldrons",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 74680,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Lionheart Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "747 Armor"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+25 Intellect"
+      },
+      {
+        "label": "+24 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41627,
+          "name": "Lionheart Shoulders",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47061::::::::::0|h[Lionheart Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lionheart-spaulders"
+  },
+  {
+    "itemId": 47067,
+    "name": "Lionheart Shoulderguards",
+    "icon": "inv_lionheart_pauldrons",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 74680,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Lionheart Shoulderguards"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "747 Armor"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+24 Agility"
+      },
+      {
+        "label": "+22 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41627,
+          "name": "Lionheart Shoulders",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47067::::::::::0|h[Lionheart Shoulderguards]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lionheart-shoulderguards"
+  },
+  {
+    "itemId": 47073,
+    "name": "Lionheart Pauldrons",
+    "icon": "inv_lionheart_pauldrons",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 74680,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Lionheart Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "747 Armor"
+      },
+      {
+        "label": "+21 Strength"
+      },
+      {
+        "label": "+22 Agility"
+      },
+      {
+        "label": "+25 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41627,
+          "name": "Lionheart Shoulders",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47073::::::::::0|h[Lionheart Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lionheart-pauldrons"
+  },
+  {
+    "itemId": 47241,
+    "name": "Pauldrons of Might",
+    "icon": "inv_migshoulders_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 34206,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Pauldrons of Might"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "562 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "+38 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41443,
+          "name": "Shoulders of Might",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47241::::::::::0|h[Pauldrons of Might]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pauldrons-of-might"
+  },
+  {
+    "itemId": 47249,
+    "name": "Pauldrons of Wrath",
+    "icon": "inv_wrashoulders_v2",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 55728,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Pauldrons of Wrath"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "642 Armor"
+      },
+      {
+        "label": "+21 Strength"
+      },
+      {
+        "label": "+16 Agility"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41435,
+          "name": "Shoulders of Wrath",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47249::::::::::0|h[Pauldrons of Wrath]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pauldrons-of-wrath"
+  },
+  {
+    "itemId": 47257,
+    "name": "Conqueror's Pauldrons",
+    "icon": "inv_shoulder_35",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 57484,
+    "quality": "Epic",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Conqueror's Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "659 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+21 Agility"
+      },
+      {
+        "label": "+18 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:47257::::::::::0|h[Conqueror's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "conquerors-pauldrons"
+  },
+  {
+    "itemId": 47262,
+    "name": "Dreadnaught Pauldrons",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 91139,
+    "quality": "Epic",
+    "itemLevel": 86,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Dreadnaught Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "722 Armor"
+      },
+      {
+        "label": "+21 Strength"
+      },
+      {
+        "label": "+22 Agility"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+12 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9038,
+          "name": "Dreadnaught Pauldrons",
+          "faction": "Both",
+          "requiredLevel": 60
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47262::::::::::0|h[Dreadnaught Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadnaught-pauldrons"
+  },
+  {
+    "itemId": 47271,
+    "name": "Shoulderguards of the Brotherhood",
+    "icon": "inv_shoulderguards_of_the_brotherhood",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 74680,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Shoulderguards of the Brotherhood"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "747 Armor"
+      },
+      {
+        "label": "+27 Strength"
+      },
+      {
+        "label": "+25 Agility"
+      },
+      {
+        "label": "+26 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41591,
+          "name": "Shoulderguards of the Brotherhood",
+          "faction": "Both",
+          "requiredLevel": 58
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:47271::::::::::0|h[Shoulderguards of the Brotherhood]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shoulderguards-of-the-brotherhood"
+  },
+  {
+    "itemId": 51770,
+    "name": "Shoulderguards of the Dark Reaver",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6864,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Shoulderguards of the Dark Reaver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "561 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+7 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:51770::::::::::0|h[Shoulderguards of the Dark Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shoulderguards-of-the-dark-reaver"
+  },
+  {
+    "itemId": 55108,
+    "name": "Dreadslayer Shoulderblades",
+    "icon": "inv_demonhornshoulders",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 101139,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Dreadslayer Shoulderblades"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "736 Armor"
+      },
+      {
+        "label": "+32 Strength"
+      },
+      {
+        "label": "+19 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55108::::::::::0|h[Dreadslayer Shoulderblades]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadslayer-shoulderblades"
+  },
+  {
+    "itemId": 60364,
+    "name": "Bloody Gladiator's Spaulders",
+    "icon": "inv_shoulder_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16521,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Bloody Gladiator's Spaulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "612 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "+24 Attack"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:60364::::::::::0|h[Bloody Gladiator's Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloody-gladiators-spaulders"
+  },
+  {
+    "itemId": 61364,
+    "name": "Dreamsteel Mantle",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 42531,
+    "quality": "Epic",
+    "itemLevel": 76,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Dreamsteel Mantle"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "638 Armor"
+      },
+      {
+        "label": "+25 Strength"
+      },
+      {
+        "label": "+15 StaminaDurability"
+      },
+      {
+        "label": "+18 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61364::::::::::0|h[Dreamsteel Mantle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreamsteel-mantle"
+  },
+  {
+    "itemId": 65014,
+    "name": "Pauldron of Deflection",
+    "icon": "inv_shoulder_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 32182,
+    "quality": "Epic",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Pauldron of Deflection"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "537 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:65014::::::::::0|h[Pauldron of Deflection]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pauldron-of-deflection"
+  },
+  {
+    "itemId": 70783,
+    "name": "Dreadnaught Pauldrons",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 91139,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Dreadnaught Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "722 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+23 Agility"
+      },
+      {
+        "label": "+21 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:70783::::::::::0|h[Dreadnaught Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadnaught-pauldrons"
+  },
+  {
+    "itemId": 83417,
+    "name": "Shoulderguards of the Lightbringer",
+    "icon": "inv_shoulder_30",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 31340,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 57,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Shoulderguards of the Lightbringer"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "553 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+9 Agility"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40299,
+          "name": "Shoulderguards of the Lightbringer",
+          "faction": "Both",
+          "requiredLevel": 57
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:83417::::::::::0|h[Shoulderguards of the Lightbringer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shoulderguards-of-the-lightbringer"
+  },
+  {
+    "itemId": 8319,
+    "name": "Alabaster Plate Pauldrons",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9181,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Alabaster Plate Pauldrons"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "393 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+12 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8319::::::::::0|h[Alabaster Plate Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "alabaster-plate-pauldrons"
+  },
+  {
+    "itemId": 9476,
+    "name": "Big Bad Pauldrons",
+    "icon": "inv_shoulder_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8593,
+    "quality": "Rare",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Big Bad Pauldrons"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "396 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+8 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9476::::::::::0|h[Big Bad Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "big-bad-pauldrons"
+  },
+  {
+    "itemId": 11632,
+    "name": "Earthslag Shoulders",
+    "icon": "inv_shoulder_26",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9360,
+    "quality": "Rare",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Earthslag Shoulders"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "410 Armor"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+8 Intellect"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11632::::::::::0|h[Earthslag Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "earthslag-shoulders"
+  },
+  {
+    "itemId": 11889,
+    "name": "Bark Iron Pauldrons",
+    "icon": "inv_shoulder_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7345,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 47,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Bark Iron Pauldrons"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "360 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+5 Agility"
+      },
+      {
+        "label": "+8 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 3791,
+          "name": "The Mystery of Morrowgrain",
+          "faction": "Alliance",
+          "requiredLevel": 47
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:11889::::::::::0|h[Bark Iron Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bark-iron-pauldrons"
+  },
+  {
+    "itemId": 12557,
+    "name": "Ebonsteel Spaulders",
+    "icon": "inv_shoulder_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14368,
+    "quality": "Rare",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Ebonsteel Spaulders"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "553 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12557::::::::::0|h[Ebonsteel Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ebonsteel-spaulders"
+  },
+  {
+    "itemId": 12625,
+    "name": "Dawnbringer Shoulders",
+    "icon": "inv_shoulder_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13080,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Dawnbringer Shoulders"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "455 Armor"
+      },
+      {
+        "label": "+10 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12625::::::::::0|h[Dawnbringer Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dawnbringer-shoulders"
+  },
+  {
+    "itemId": 13066,
+    "name": "Wyrmslayer Spaulders",
+    "icon": "inv_shoulder_24",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8997,
+    "quality": "Rare",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Wyrmslayer Spaulders"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "403 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13066::::::::::0|h[Wyrmslayer Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wyrmslayer-spaulders"
+  },
+  {
+    "itemId": 13166,
+    "name": "Slamshot Shoulders",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14204,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Slamshot Shoulders"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "470 Armor"
+      },
+      {
+        "label": "+21 StaminaDurability"
+      },
+      {
+        "label": "+20 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13166::::::::::0|h[Slamshot Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "slamshot-shoulders"
+  },
+  {
+    "itemId": 13405,
+    "name": "Wailing Nightbane Pauldrons",
+    "icon": "inv_shoulder_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13102,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Wailing Nightbane Pauldrons"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "448 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13405::::::::::0|h[Wailing Nightbane Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wailing-nightbane-pauldrons"
+  },
+  {
+    "itemId": 13533,
+    "name": "Acid-etched Pauldrons",
+    "icon": "inv_shoulder_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12810,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Acid-etched Pauldrons"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "434 Armor"
+      },
+      {
+        "label": "+20 Nature"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:13533::::::::::0|h[Acid-etched Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "acid-etched-pauldrons"
+  },
+  {
+    "itemId": 13955,
+    "name": "Stoneform Shoulders",
+    "icon": "inv_shoulder_25",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16367,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Stoneform Shoulders"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "688 Armor"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13955::::::::::0|h[Stoneform Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stoneform-shoulders"
+  },
+  {
+    "itemId": 14955,
+    "name": "Bloodforged Shoulder Pads",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5418,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Bloodforged Shoulder Pads"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "341 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14955::::::::::0|h[Bloodforged Shoulder Pads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodforged-shoulder-pads"
+  },
+  {
+    "itemId": 16432,
+    "name": "Lieutenant Commander's Plate Pauldrons",
+    "icon": "inv_shoulder_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8736,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Lieutenant Commander's Plate Pauldrons"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "493 Armor"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+6 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16432::::::::::0|h[Lieutenant Commander's Plate Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lieutenant-commanders-plate-pauldrons"
+  },
+  {
+    "itemId": 16436,
+    "name": "Lieutenant Commander's Lamellar Shoulders",
+    "icon": "inv_shoulder_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8863,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Lieutenant Commander's Lamellar Shoulders"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "493 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+7 Intellect"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16436::::::::::0|h[Lieutenant Commander's Lamellar Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lieutenant-commanders-lamellar-shoulders"
+  },
+  {
+    "itemId": 16516,
+    "name": "Champion's Plate Pauldrons",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8223,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Champion's Plate Pauldrons"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "493 Armor"
+      },
+      {
+        "label": "+23 Stamina"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+6 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16516::::::::::0|h[Champion's Plate Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "champions-plate-pauldrons"
+  },
+  {
+    "itemId": 16729,
+    "name": "Lightforge Spaulders",
+    "icon": "inv_shoulder_10",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14592,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Lightforge Spaulders"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "470 Armor"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+11 Intellect"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+5 Spirit"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16729::::::::::0|h[Lightforge Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lightforge-spaulders"
+  },
+  {
+    "itemId": 16733,
+    "name": "Spaulders of Valor",
+    "icon": "inv_shoulder_30",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 15207,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Spaulders of Valor"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "470 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+9 AgilityDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "+8 All"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:16733::::::::::0|h[Spaulders of Valor]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "spaulders-of-valor"
+  },
+  {
+    "itemId": 18384,
+    "name": "Bile-etched Spaulders",
+    "icon": "inv_shoulder_17",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16093,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Bile-etched Spaulders"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "485 Armor"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+6 Intellect"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18384::::::::::0|h[Bile-etched Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bile-etched-spaulders"
+  },
+  {
+    "itemId": 18493,
+    "name": "Bulky Iron Spaulders",
+    "icon": "inv_shoulder_26",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14233,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Bulky Iron Spaulders"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "470 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18493::::::::::0|h[Bulky Iron Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bulky-iron-spaulders"
+  },
+  {
+    "itemId": 19695,
+    "name": "Darksoul Shoulders",
+    "icon": "inv_shoulder_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 18285,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Darksoul Shoulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "507 Armor"
+      },
+      {
+        "label": "+24 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19695::::::::::0|h[Darksoul Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "darksoul-shoulders"
+  },
+  {
+    "itemId": 19878,
+    "name": "Bloodsoaked Pauldrons",
+    "icon": "inv_shoulder_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 26107,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Bloodsoaked Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "552 Armor"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+11 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19878::::::::::0|h[Bloodsoaked Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodsoaked-pauldrons"
+  },
+  {
+    "itemId": 20249,
+    "name": "90 Green Warrior Pauldrons",
+    "icon": "inv_shoulder_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 53380,
+    "quality": "Uncommon",
+    "itemLevel": 90,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "90 Green Warrior Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "629 Armor"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+21 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20249::::::::::0|h[90 Green Warrior Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "90-green-warrior-pauldrons"
+  },
+  {
+    "itemId": 20289,
+    "name": "63 Green Warrior Pauldrons",
+    "icon": "inv_shoulder_15",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14676,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "63 Green Warrior Pauldrons"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "448 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+14 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20289::::::::::0|h[63 Green Warrior Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "63-green-warrior-pauldrons"
+  },
+  {
+    "itemId": 20517,
+    "name": "Razorsteel Shoulders",
+    "icon": "inv_shoulder_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9797,
+    "quality": "Rare",
+    "itemLevel": 52,
+    "requiredLevel": 50,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Razorsteel Shoulders"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "410 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+10 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8425,
+          "name": "Voodoo Feathers",
+          "faction": "Both",
+          "requiredLevel": 50
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:20517::::::::::0|h[Razorsteel Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "razorsteel-shoulders"
+  },
+  {
+    "itemId": 21805,
+    "name": "Polished Obsidian Pauldrons",
+    "icon": "inv_shoulder_26",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 21414,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Polished Obsidian Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "530 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:21805::::::::::0|h[Polished Obsidian Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "polished-obsidian-pauldrons"
+  },
+  {
+    "itemId": 23243,
+    "name": "Champion's Plate Shoulders",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13158,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Champion's Plate Shoulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "552 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+17 StrengthDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23243::::::::::0|h[Champion's Plate Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "champions-plate-shoulders"
+  },
+  {
+    "itemId": 23277,
+    "name": "Lieutenant Commander's Lamellar Shoulders",
+    "icon": "inv_shoulder_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12873,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Lieutenant Commander's Lamellar Shoulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "552 Armor"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+8 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23277::::::::::0|h[Lieutenant Commander's Lamellar Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lieutenant-commanders-lamellar-shoulders"
+  },
+  {
+    "itemId": 23315,
+    "name": "Lieutenant Commander's Plate Shoulders",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12776,
+    "quality": "Rare",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Lieutenant Commander's Plate Shoulders"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "552 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+17 StrengthDurability"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23315::::::::::0|h[Lieutenant Commander's Plate Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lieutenant-commanders-plate-shoulders"
+  },
+  {
+    "itemId": 41296,
+    "name": "Damp Pauldrons",
+    "icon": "inv_shoulder_26",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11375,
+    "quality": "Rare",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Damp Pauldrons"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "410 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+9 Spirit"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "+15 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:41296::::::::::0|h[Damp Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "damp-pauldrons"
+  },
+  {
+    "itemId": 50418,
+    "name": "Corrupted Plate Pauldrons",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 25745,
+    "quality": "Rare",
+    "itemLevel": 70,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Corrupted Plate Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "512 Armor"
+      },
+      {
+        "label": "+9 Stamina"
+      },
+      {
+        "label": "+11 StrengthDurability"
+      },
+      {
+        "label": "+24 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:50418::::::::::0|h[Corrupted Plate Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "corrupted-plate-pauldrons"
+  },
+  {
+    "itemId": 55480,
+    "name": "Harborage Defender Pauldrons",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12100,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 30,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Harborage Defender Pauldrons"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "493 Armor"
+      },
+      {
+        "label": "+15 Stamina"
+      },
+      {
+        "label": "+12 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41326,
+          "name": "Fate Of The Harborage",
+          "faction": "Both",
+          "requiredLevel": 30
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:55480::::::::::0|h[Harborage Defender Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "harborage-defender-pauldrons"
+  },
+  {
+    "itemId": 55531,
+    "name": "Reflective Pauldrons",
+    "icon": "inv_shoulder_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 46833,
+    "quality": "Rare",
+    "itemLevel": 78,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Reflective Pauldrons"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "608 Armor"
+      },
+      {
+        "label": "+18 Stamina"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+20 Arcane"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:55531::::::::::0|h[Reflective Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "reflective-pauldrons"
+  },
+  {
+    "itemId": 58255,
+    "name": "Crystal Pauldrons",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 36623,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Crystal Pauldrons"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "493 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+4 Fire"
+      },
+      {
+        "label": "+4 Nature"
+      },
+      {
+        "label": "+4 Frost"
+      },
+      {
+        "label": "+4 Shadow"
+      },
+      {
+        "label": "+4 Arcane"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:58255::::::::::0|h[Crystal Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crystal-pauldrons"
+  },
+  {
+    "itemId": 60292,
+    "name": "Rune-Etched Mantle",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 17081,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Rune-Etched Mantle"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "491 Armor"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+5 Agility"
+      },
+      {
+        "label": "+5 Shadow"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60292::::::::::0|h[Rune-Etched Mantle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rune-etched-mantle"
+  },
+  {
+    "itemId": 60316,
+    "name": "Truthkeeper Mantle",
+    "icon": "inv_shoulder_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7981,
+    "quality": "Rare",
+    "itemLevel": 43,
+    "requiredLevel": 30,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Truthkeeper Mantle"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "331 Armor"
+      },
+      {
+        "label": "+10 Intellect"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40233,
+          "name": "The Orb of Kaladus",
+          "faction": "Alliance",
+          "requiredLevel": 30
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:60316::::::::::0|h[Truthkeeper Mantle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "truthkeeper-mantle"
+  },
+  {
+    "itemId": 60405,
+    "name": "Mantle of Dag'grak",
+    "icon": "inv_shoulder_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13667,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 46,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Mantle of Dag'grak"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "477 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+12 Agility"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40297,
+          "name": "Stop the Dragonflight",
+          "faction": "Horde",
+          "requiredLevel": 46
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:60405::::::::::0|h[Mantle of Dag'grak]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mantle-of-daggrak"
+  },
+  {
+    "itemId": 60433,
+    "name": "Pauldrons of the Elite Guard",
+    "icon": "inv_shoulder_27",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16987,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Pauldrons of the Elite Guard"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "588 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60433::::::::::0|h[Pauldrons of the Elite Guard]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pauldrons-of-the-elite-guard"
+  },
+  {
+    "itemId": 60567,
+    "name": "Blackhammer Pauldrons",
+    "icon": "inv_shoulder_11",
+    "class": "Weapon",
+    "subclass": "Plate",
+    "sellPrice": 13457,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Blackhammer Pauldrons"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "441 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+7 Agility"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60567::::::::::0|h[Blackhammer Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blackhammer-pauldrons"
+  },
+  {
+    "itemId": 60904,
+    "name": "Maraudine Oath Pauldrons",
+    "icon": "inv_shoulder_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9208,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Maraudine Oath Pauldrons"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "407 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60904::::::::::0|h[Maraudine Oath Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "maraudine-oath-pauldrons"
+  },
+  {
+    "itemId": 60908,
+    "name": "Mantle of Centaur Authority",
+    "icon": "inv_shoulder_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 18709,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Mantle of Centaur Authority"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "549 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+6 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60908::::::::::0|h[Mantle of Centaur Authority]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mantle-of-centaur-authority"
+  },
+  {
+    "itemId": 61038,
+    "name": "Pauldrons of the Timeless",
+    "icon": "inv_misc_desecrated_plateshoulder",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 20478,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Pauldrons of the Timeless"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "513 Armor"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+10 Agility"
+      },
+      {
+        "label": "+14 Stamina"
+      },
+      {
+        "label": "+8 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61038::::::::::0|h[Pauldrons of the Timeless]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pauldrons-of-the-timeless"
+  },
+  {
+    "itemId": 61324,
+    "name": "Greymane Shoulders",
+    "icon": "inv_shoulder_12",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 9215,
+    "quality": "Rare",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Greymane Shoulders"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "403 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61324::::::::::0|h[Greymane Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "greymane-shoulders"
+  },
+  {
+    "itemId": 61339,
+    "name": "Pauldrons of the Justicar",
+    "icon": "inv_shoulder_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8187,
+    "quality": "Rare",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Pauldrons of the Justicar"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "331 Armor"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+7 IntellectDurability"
+      },
+      {
+        "label": "+14 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61339::::::::::0|h[Pauldrons of the Justicar]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pauldrons-of-the-justicar"
+  },
+  {
+    "itemId": 61649,
+    "name": "Pauldrons of the Timbermaw",
+    "icon": "inv_shoulder_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 18710,
+    "quality": "Rare",
+    "itemLevel": 64,
+    "requiredLevel": 59,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Pauldrons of the Timbermaw"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "500 Armor"
+      },
+      {
+        "label": "+21 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61649::::::::::0|h[Pauldrons of the Timbermaw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pauldrons-of-the-timbermaw"
+  },
+  {
+    "itemId": 70050,
+    "name": "Shoulderplates of Misfortune",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 29712,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Shoulderplates of Misfortune"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "617 Armor"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:70050::::::::::0|h[Shoulderplates of Misfortune]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shoulderplates-of-misfortune"
+  },
+  {
+    "itemId": 70064,
+    "name": "Epaulets of Courage",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 29712,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Epaulets of Courage"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "610 Armor"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+9 Spirit"
+      },
+      {
+        "label": "+5 Shadow"
+      },
+      {
+        "label": "+15 Arcane"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:70064::::::::::0|h[Epaulets of Courage]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "epaulets-of-courage"
+  },
+  {
+    "itemId": 80186,
+    "name": "Epaulets of the Damned",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 0,
+    "quality": "Rare",
+    "itemLevel": 0,
+    "requiredLevel": 0,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Epaulets of the Damned"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "Binds when picked up"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80186::::::::::0|h[Epaulets of the Damned]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "epaulets-of-the-damned"
+  },
+  {
+    "itemId": 80753,
+    "name": "Vileplate Pauldrons",
+    "icon": "inv_shoulder_02",
+    "class": "Armor",
+    "subclass": "plate",
+    "sellPrice": 2382,
+    "quality": "Rare",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Vileplate Pauldrons"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "410 Armor"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+8 Intellect"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80753::::::::::0|h[Vileplate Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "vileplate-pauldrons"
+  },
+  {
+    "itemId": 81051,
+    "name": "Epaulets of the Dark Reaver",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 2762,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 60,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Epaulets of the Dark Reaver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "512 Armor"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81051::::::::::0|h[Epaulets of the Dark Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "epaulets-of-the-dark-reaver"
+  },
+  {
+    "itemId": 81366,
+    "name": "Blackrock Clan Mantle",
+    "icon": "inv_misc_desecrated_plateshoulder",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 24511,
+    "quality": "Rare",
+    "itemLevel": 64,
+    "requiredLevel": 59,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Blackrock Clan Mantle"
+      },
+      {
+        "label": "Requires Level 59"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "500 Armor"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81366::::::::::0|h[Blackrock Clan Mantle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blackrock-clan-mantle"
+  },
+  {
+    "itemId": 3246,
+    "name": "OLDMonster - Shoulder, Plate Silver",
+    "icon": "inv_shoulder_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 0,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "OLDMonster - Shoulder, Plate Silver"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 Armor"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3246::::::::::0|h[OLDMonster - Shoulder, Plate Silver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "oldmonster-shoulder-plate-silver"
+  },
+  {
+    "itemId": 7918,
+    "name": "Heavy Mithril Shoulder",
+    "icon": "inv_shoulder_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3701,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 40,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Heavy Mithril Shoulder"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "225 Armor"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:7918::::::::::0|h[Heavy Mithril Shoulder]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-mithril-shoulder"
+  },
+  {
+    "itemId": 7928,
+    "name": "Ornate Mithril Shoulder",
+    "icon": "inv_shoulder_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4857,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Ornate Mithril Shoulder"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "327 Armor"
+      },
+      {
+        "label": "+5 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2771,
+          "name": "A Good Head On Your Shoulders",
+          "faction": "Both",
+          "requiredLevel": 40
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:7928::::::::::0|h[Ornate Mithril Shoulder]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ornate-mithril-shoulder"
+  },
+  {
+    "itemId": 8086,
+    "name": "Light Plate Shoulderpads",
+    "icon": "inv_shoulder_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3730,
+    "quality": "Poor",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Light Plate Shoulderpads"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "348 Armor"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:8086::::::::::0|h[Light Plate Shoulderpads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "light-plate-shoulderpads"
+  },
+  {
+    "itemId": 8144,
+    "name": "Chromite Pauldrons",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5036,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Chromite Pauldrons"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "327 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8144::::::::::0|h[Chromite Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "chromite-pauldrons"
+  },
+  {
+    "itemId": 8163,
+    "name": "Jouster's Pauldrons",
+    "icon": "inv_shoulder_12",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3688,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 40,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Jouster's Pauldrons"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "225 Armor"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+8 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8163::::::::::0|h[Jouster's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jousters-pauldrons"
+  },
+  {
+    "itemId": 8281,
+    "name": "Valorous Pauldrons",
+    "icon": "inv_shoulder_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5982,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Valorous Pauldrons"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "347 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+10 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:8281::::::::::0|h[Valorous Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "valorous-pauldrons"
+  },
+  {
+    "itemId": 9292,
+    "name": "Field Plate Pauldrons",
+    "icon": "inv_shoulder_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3684,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 40,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Field Plate Pauldrons"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "255 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9292::::::::::0|h[Field Plate Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "field-plate-pauldrons"
+  },
+  {
+    "itemId": 9531,
+    "name": "Gemshale Pauldrons",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5264,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 40,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Gemshale Pauldrons"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "334 Armor"
+      },
+      {
+        "label": "+10 Strength"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2846,
+          "name": "Tiara of the Deep",
+          "faction": "Both",
+          "requiredLevel": 40
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:9531::::::::::0|h[Gemshale Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gemshale-pauldrons"
+  },
+  {
+    "itemId": 9971,
+    "name": "Embossed Plate Pauldrons",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3995,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Embossed Plate Pauldrons"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "286 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9971::::::::::0|h[Embossed Plate Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "embossed-plate-pauldrons"
+  },
+  {
+    "itemId": 10092,
+    "name": "Gothic Plate Spaulders",
+    "icon": "inv_shoulder_08",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5602,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 42,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Gothic Plate Spaulders"
+      },
+      {
+        "label": "Requires Level 42"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "341 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10092::::::::::0|h[Gothic Plate Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gothic-plate-spaulders"
+  },
+  {
+    "itemId": 10134,
+    "name": "Revenant Shoulders",
+    "icon": "inv_shoulder_14",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7664,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Revenant Shoulders"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "366 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10134::::::::::0|h[Revenant Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revenant-shoulders"
+  },
+  {
+    "itemId": 10170,
+    "name": "Templar Pauldrons",
+    "icon": "inv_shoulder_30",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10105,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Templar Pauldrons"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "400 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10170::::::::::0|h[Templar Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "templar-pauldrons"
+  },
+  {
+    "itemId": 10209,
+    "name": "Overlord's Spaulders",
+    "icon": "inv_shoulder_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7216,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Overlord's Spaulders"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "360 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10209::::::::::0|h[Overlord's Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "overlords-spaulders"
+  },
+  {
+    "itemId": 10245,
+    "name": "Heavy Lamellar Pauldrons",
+    "icon": "inv_shoulder_18",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8548,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Heavy Lamellar Pauldrons"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "380 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10245::::::::::0|h[Heavy Lamellar Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-lamellar-pauldrons"
+  },
+  {
+    "itemId": 10281,
+    "name": "Emerald Pauldrons",
+    "icon": "inv_shoulder_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11272,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Emerald Pauldrons"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "414 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10281::::::::::0|h[Emerald Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "emerald-pauldrons"
+  },
+  {
+    "itemId": 10374,
+    "name": "Imbued Plate Pauldrons",
+    "icon": "inv_shoulder_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11837,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Imbued Plate Pauldrons"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "421 Armor"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+13 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10374::::::::::0|h[Imbued Plate Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "imbued-plate-pauldrons"
+  },
+  {
+    "itemId": 10383,
+    "name": "Commander's Pauldrons",
+    "icon": "inv_shoulder_01",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12521,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Commander's Pauldrons"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "434 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10383::::::::::0|h[Commander's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "commanders-pauldrons"
+  },
+  {
+    "itemId": 10390,
+    "name": "Hyperion Pauldrons",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 14175,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Hyperion Pauldrons"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "448 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:10390::::::::::0|h[Hyperion Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hyperion-pauldrons"
+  },
+  {
+    "itemId": 11605,
+    "name": "Dark Iron Shoulders",
+    "icon": "inv_shoulder_09",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10776,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Dark Iron Shoulders"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "514 Armor"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:11605::::::::::0|h[Dark Iron Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dark-iron-shoulders"
+  },
+  {
+    "itemId": 12428,
+    "name": "Imperial Plate Shoulders",
+    "icon": "inv_shoulder_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8646,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 47,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Imperial Plate Shoulders"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "380 Armor"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "+28 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12428::::::::::0|h[Imperial Plate Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "imperial-plate-shoulders"
+  },
+  {
+    "itemId": 12610,
+    "name": "Runic Plate Shoulders",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 12247,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Runic Plate Shoulders"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "527 Armor"
+      },
+      {
+        "label": "+10 Fire"
+      },
+      {
+        "label": "+10 Nature"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12610::::::::::0|h[Runic Plate Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "runic-plate-shoulders"
+  },
+  {
+    "itemId": 14830,
+    "name": "Symbolic Pauldrons",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3801,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 40,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Symbolic Pauldrons"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "255 Armor"
+      },
+      {
+        "label": "+11 Stamina"
+      },
+      {
+        "label": "+5 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14830::::::::::0|h[Symbolic Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "symbolic-pauldrons"
+  },
+  {
+    "itemId": 14841,
+    "name": "Tyrant's Epaulets",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4284,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 40,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Tyrant's Epaulets"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "321 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14841::::::::::0|h[Tyrant's Epaulets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tyrants-epaulets"
+  },
+  {
+    "itemId": 14851,
+    "name": "Sunscale Spaulders",
+    "icon": "inv_shoulder_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7416,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Sunscale Spaulders"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "366 Armor"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+5 Agility"
+      },
+      {
+        "label": "+4 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14851::::::::::0|h[Sunscale Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sunscale-spaulders"
+  },
+  {
+    "itemId": 14860,
+    "name": "Vanguard Pauldrons",
+    "icon": "inv_shoulder_27",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 10523,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Vanguard Pauldrons"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "400 Armor"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+12 Spirit"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14860::::::::::0|h[Vanguard Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "vanguard-pauldrons"
+  },
+  {
+    "itemId": 14868,
+    "name": "Warleader's Shoulders",
+    "icon": "inv_shoulder_02",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13109,
+    "quality": "Uncommon",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Warleader's Shoulders"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "434 Armor"
+      },
+      {
+        "label": "+17 Stamina"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14868::::::::::0|h[Warleader's Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warleaders-shoulders"
+  },
+  {
+    "itemId": 14901,
+    "name": "Saltstone Shoulder Pads",
+    "icon": "inv_shoulder_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 3494,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 40,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Saltstone Shoulder Pads"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "225 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14901::::::::::0|h[Saltstone Shoulder Pads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "saltstone-shoulder-pads"
+  },
+  {
+    "itemId": 14909,
+    "name": "Brutish Shoulders",
+    "icon": "inv_shoulder_11",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4897,
+    "quality": "Uncommon",
+    "itemLevel": 45,
+    "requiredLevel": 40,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Brutish Shoulders"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "327 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14909::::::::::0|h[Brutish Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brutish-shoulders"
+  },
+  {
+    "itemId": 14921,
+    "name": "Jade Epaulets",
+    "icon": "inv_shoulder_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 6407,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Jade Epaulets"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "354 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14921::::::::::0|h[Jade Epaulets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jade-epaulets"
+  },
+  {
+    "itemId": 14929,
+    "name": "Lofty Shoulder Pads",
+    "icon": "inv_shoulder_28",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8999,
+    "quality": "Uncommon",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Lofty Shoulder Pads"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "387 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14929::::::::::0|h[Lofty Shoulder Pads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lofty-shoulder-pads"
+  },
+  {
+    "itemId": 14937,
+    "name": "Heroic Pauldrons",
+    "icon": "inv_shoulder_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11406,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Heroic Pauldrons"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "421 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14937::::::::::0|h[Heroic Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heroic-pauldrons"
+  },
+  {
+    "itemId": 14946,
+    "name": "Warbringer's Spaulders",
+    "icon": "inv_shoulder_22",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 4151,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 40,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Warbringer's Spaulders"
+      },
+      {
+        "label": "Requires Level 40"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "286 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14946::::::::::0|h[Warbringer's Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "warbringers-spaulders"
+  },
+  {
+    "itemId": 14963,
+    "name": "High Chief's Pauldrons",
+    "icon": "inv_shoulder_05",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 8301,
+    "quality": "Uncommon",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "High Chief's Pauldrons"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "380 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14963::::::::::0|h[High Chief's Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-chiefs-pauldrons"
+  },
+  {
+    "itemId": 14971,
+    "name": "Glorious Shoulder Pads",
+    "icon": "inv_shoulder_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11076,
+    "quality": "Uncommon",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Glorious Shoulder Pads"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "407 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14971::::::::::0|h[Glorious Shoulder Pads]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "glorious-shoulder-pads"
+  },
+  {
+    "itemId": 14981,
+    "name": "Exalted Epaulets",
+    "icon": "inv_shoulder_13",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 13764,
+    "quality": "Uncommon",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Exalted Epaulets"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "441 Armor"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:14981::::::::::0|h[Exalted Epaulets]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "exalted-epaulets"
+  },
+  {
+    "itemId": 16031,
+    "name": "PVP Plate Shoulder Alliance",
+    "icon": "inv_shoulder_20",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7297,
+    "quality": "Common",
+    "itemLevel": 60,
+    "requiredLevel": 0,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "PVP Plate Shoulder Alliance"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "406 Armor"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:16031::::::::::0|h[PVP Plate Shoulder Alliance]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pvp-plate-shoulder-alliance"
+  },
+  {
+    "itemId": 17779,
+    "name": "Hulkstone Pauldrons",
+    "icon": "inv_shoulder_23",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5547,
+    "quality": "Uncommon",
+    "itemLevel": 47,
+    "requiredLevel": 41,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Hulkstone Pauldrons"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "341 Armor"
+      },
+      {
+        "label": "+13 Stamina"
+      },
+      {
+        "label": "+5 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 7028,
+          "name": "Twisted Evils",
+          "faction": "Both",
+          "requiredLevel": 41
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:17779::::::::::0|h[Hulkstone Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hulkstone-pauldrons"
+  },
+  {
+    "itemId": 19037,
+    "name": "Emerald Peak Spaulders",
+    "icon": "inv_shoulder_26",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 5877,
+    "quality": "Uncommon",
+    "itemLevel": 48,
+    "requiredLevel": 39,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Emerald Peak Spaulders"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "347 Armor"
+      },
+      {
+        "label": "+6 Agility"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 7732,
+          "name": "Zukk'ash Report",
+          "faction": "Horde",
+          "requiredLevel": 39
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:19037::::::::::0|h[Emerald Peak Spaulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "emerald-peak-spaulders"
+  },
+  {
+    "itemId": 55034,
+    "name": "Grim Batol Mountaineer Pauldrons",
+    "icon": "inv_shoulder_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 16000,
+    "quality": "Uncommon",
+    "itemLevel": 50,
+    "requiredLevel": 45,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Grim Batol Mountaineer Pauldrons"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "360 Armor"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:55034::::::::::0|h[Grim Batol Mountaineer Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grim-batol-mountaineer-pauldrons"
+  },
+  {
+    "itemId": 60209,
+    "name": "Fleet Pauldrons",
+    "icon": "inv_shoulder_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11604,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 44,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Fleet Pauldrons"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "421 Armor"
+      },
+      {
+        "label": "+7 Spirit"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+9 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40144,
+          "name": "Southsea Interference",
+          "faction": "Alliance",
+          "requiredLevel": 44
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60209::::::::::0|h[Fleet Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fleet-pauldrons"
+  },
+  {
+    "itemId": 61510,
+    "name": "Stonehewn Pauldrons",
+    "icon": "inv_shoulder_29",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 11421,
+    "quality": "Uncommon",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Stonehewn Pauldrons"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "499 Armor"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:61510::::::::::0|h[Stonehewn Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stonehewn-pauldrons"
+  },
+  {
+    "itemId": 83414,
+    "name": "Steel Plate Pauldrons",
+    "icon": "inv_shoulder_16",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 7345,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 45,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Steel Plate Pauldrons"
+      },
+      {
+        "label": "Requires Level 45"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "372 Armor"
+      },
+      {
+        "label": "+12 Stamina"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "+30 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:83414::::::::::0|h[Steel Plate Pauldrons]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "steel-plate-pauldrons"
+  },
+  {
+    "itemId": 83543,
+    "name": "Hidden Plate Shoulders",
+    "icon": "inv_shoulder_06",
+    "class": "Armor",
+    "subclass": "Plate",
+    "sellPrice": 532,
+    "quality": "Common",
+    "itemLevel": 22,
+    "requiredLevel": 15,
+    "slot": "Shoulder",
+    "tooltip": [
+      {
+        "label": "Hidden Plate Shoulders"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Shoulder"
+      },
+      {
+        "label": "Plate",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 Armor"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:83543::::::::::0|h[Hidden Plate Shoulders]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hidden-plate-shoulders"
+  }
+]

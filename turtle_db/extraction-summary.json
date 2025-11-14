@@ -1,0 +1,399 @@
+{
+  "extraction_date": "2025-10-21T21:53:32.425Z",
+  "weapons": {
+    "subcategories": 18,
+    "total_ids": 2850
+  },
+  "armor": {
+    "subcategories": 37,
+    "total_ids": 9726
+  },
+  "grand_total": 12576,
+  "subcategory_details": [
+    {
+      "subcategory_id": "2.0",
+      "name": "1h-axes",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 214
+    },
+    {
+      "subcategory_id": "2.1",
+      "name": "2h-axes",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 168
+    },
+    {
+      "subcategory_id": "2.2",
+      "name": "bows",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 143
+    },
+    {
+      "subcategory_id": "2.3",
+      "name": "guns",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 122
+    },
+    {
+      "subcategory_id": "2.4",
+      "name": "1h-maces",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 314
+    },
+    {
+      "subcategory_id": "2.5",
+      "name": "2h-maces",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 203
+    },
+    {
+      "subcategory_id": "2.6",
+      "name": "polearms",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 101
+    },
+    {
+      "subcategory_id": "2.7",
+      "name": "1h-swords",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 340
+    },
+    {
+      "subcategory_id": "2.8",
+      "name": "2h-swords",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 196
+    },
+    {
+      "subcategory_id": "2.10",
+      "name": "staves",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 347
+    },
+    {
+      "subcategory_id": "2.13",
+      "name": "fist",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 74
+    },
+    {
+      "subcategory_id": "2.14",
+      "name": "miscellaneous",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 82
+    },
+    {
+      "subcategory_id": "2.15",
+      "name": "daggers",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 318
+    },
+    {
+      "subcategory_id": "2.16",
+      "name": "thrown",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 28
+    },
+    {
+      "subcategory_id": "2.17",
+      "name": "spears",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 2
+    },
+    {
+      "subcategory_id": "2.18",
+      "name": "crossbows",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 32
+    },
+    {
+      "subcategory_id": "2.19",
+      "name": "wands",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 157
+    },
+    {
+      "subcategory_id": "2.20",
+      "name": "fishing-poles",
+      "type": "weapons",
+      "complete": true,
+      "total_ids": 9
+    },
+    {
+      "subcategory_id": "4.0.2",
+      "name": "amulets",
+      "type": "armor",
+      "complete": true,
+      "total_ids": 402
+    },
+    {
+      "subcategory_id": "4.0.11",
+      "name": "rings",
+      "type": "armor",
+      "complete": true,
+      "total_ids": 500
+    },
+    {
+      "subcategory_id": "4.0.12",
+      "name": "trinkets",
+      "type": "armor",
+      "complete": true,
+      "total_ids": 357
+    },
+    {
+      "subcategory_id": "4.1.16",
+      "name": "cloaks",
+      "type": "armor",
+      "complete": true,
+      "total_ids": 498
+    },
+    {
+      "subcategory_id": "4.6.14",
+      "name": "shields",
+      "type": "armor",
+      "complete": true,
+      "total_ids": 426
+    },
+    {
+      "subcategory_id": "4.1.1",
+      "name": "cloth-head",
+      "type": "armor",
+      "complete": true,
+      "total_ids": 364
+    },
+    {
+      "subcategory_id": "4.1.3",
+      "name": "cloth-shoulder",
+      "type": "armor",
+      "complete": true,
+      "total_ids": 258
+    },
+    {
+      "subcategory_id": "4.1.5",
+      "name": "cloth-chest",
+      "type": "armor",
+      "complete": true,
+      "total_ids": 417
+    },
+    {
+      "subcategory_id": "4.1.6",
+      "name": "cloth-waist",
+      "type": "armor",
+      "complete": true,
+      "total_ids": 284
+    },
+    {
+      "subcategory_id": "4.1.7",
+      "name": "cloth-legs",
+      "type": "armor",
+      "complete": true,
+      "total_ids": 377
+    },
+    {
+      "subcategory_id": "4.1.8",
+      "name": "cloth-feet",
+      "type": "armor",
+      "complete": true,
+      "total_ids": 362
+    },
+    {
+      "subcategory_id": "4.1.9",
+      "name": "cloth-wrist",
+      "type": "armor",
+      "complete": true,
+      "total_ids": 265
+    },
+    {
+      "subcategory_id": "4.1.10",
+      "name": "cloth-hands",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.2.1",
+      "name": "leather-head",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.2.3",
+      "name": "leather-shoulder",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.2.5",
+      "name": "leather-chest",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.2.6",
+      "name": "leather-waist",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.2.7",
+      "name": "leather-legs",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.2.8",
+      "name": "leather-feet",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.2.9",
+      "name": "leather-wrist",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.2.10",
+      "name": "leather-hands",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.3.1",
+      "name": "mail-head",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.3.3",
+      "name": "mail-shoulder",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.3.5",
+      "name": "mail-chest",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.3.6",
+      "name": "mail-waist",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.3.7",
+      "name": "mail-legs",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.3.8",
+      "name": "mail-feet",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.3.9",
+      "name": "mail-wrist",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.3.10",
+      "name": "mail-hands",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.4.1",
+      "name": "plate-head",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.4.3",
+      "name": "plate-shoulder",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.4.5",
+      "name": "plate-chest",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.4.6",
+      "name": "plate-waist",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.4.7",
+      "name": "plate-legs",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.4.8",
+      "name": "plate-feet",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.4.9",
+      "name": "plate-wrist",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    },
+    {
+      "subcategory_id": "4.4.10",
+      "name": "plate-hands",
+      "type": "armor",
+      "complete": false,
+      "total_ids": 0
+    }
+  ]
+}

@@ -1,0 +1,2282 @@
+[
+  {
+    "itemId": 2942,
+    "name": "Iron Knuckles",
+    "icon": "inv_gauntlets_04",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 3663,
+    "quality": "Rare",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Iron Knuckles"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "19 - 37  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:2942::::::::::0|h[Iron Knuckles]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "iron-knuckles",
+    "speed": 1.7,
+    "dps": 16.5
+  },
+  {
+    "itemId": 7683,
+    "name": "Bloody Brass Knuckles",
+    "icon": "inv_gauntlets_11",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 7755,
+    "quality": "Rare",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Bloody Brass Knuckles"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "22 - 41  Damage"
+      },
+      {
+        "label": "+8 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:7683::::::::::0|h[Bloody Brass Knuckles]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloody-brass-knuckles",
+    "speed": 1.6,
+    "dps": 19.7
+  },
+  {
+    "itemId": 11603,
+    "name": "Vilerend Slicer",
+    "icon": "ability_whirlwind",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 30656,
+    "quality": "Rare",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Vilerend Slicer"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "33 - 62  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11603::::::::::0|h[Vilerend Slicer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "vilerend-slicer",
+    "speed": 1.4,
+    "dps": 33.9
+  },
+  {
+    "itemId": 11744,
+    "name": "Bloodfist",
+    "icon": "inv_gauntlets_11",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 39242,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Bloodfist"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "38 - 72  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11744::::::::::0|h[Bloodfist]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodfist",
+    "speed": 1.5,
+    "dps": 36.7
+  },
+  {
+    "itemId": 12795,
+    "name": "Blood Talon",
+    "icon": "inv_weapon_shortblade_27",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 48821,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Blood Talon"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "35 - 67  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12795::::::::::0|h[Blood Talon]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blood-talon",
+    "speed": 1.3,
+    "dps": 39.2
+  },
+  {
+    "itemId": 13198,
+    "name": "Hurd Smasher",
+    "icon": "inv_gauntlets_11",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 50851,
+    "quality": "Rare",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Hurd Smasher"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "49 - 93  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13198::::::::::0|h[Hurd Smasher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hurd-smasher",
+    "speed": 1.8,
+    "dps": 39.4
+  },
+  {
+    "itemId": 18203,
+    "name": "Eskhandar's Right Claw",
+    "icon": "inv_misc_monsterclaw_04",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 90905,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Eskhandar's Right Claw"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "50 - 94  Damage"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18203::::::::::0|h[Eskhandar's Right Claw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "eskhandars-right-claw",
+    "speed": 1.5,
+    "dps": 48
+  },
+  {
+    "itemId": 18843,
+    "name": "Grand Marshal's Right Hand Blade",
+    "icon": "inv_weapon_shortblade_07",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 49339,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Grand Marshal's Right Hand Blade"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "156 - 224  Damage"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "+28 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18843::::::::::0|h[Grand Marshal's Right Hand Blade]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grand-marshals-right-hand-blade",
+    "speed": 2.9,
+    "dps": 65.5
+  },
+  {
+    "itemId": 18844,
+    "name": "High Warlord's Right Claw",
+    "icon": "inv_misc_monsterclaw_03",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 49516,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "High Warlord's Right Claw"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "156 - 224  Damage"
+      },
+      {
+        "label": "+12 StaminaDurability"
+      },
+      {
+        "label": "+28 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18844::::::::::0|h[High Warlord's Right Claw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-warlords-right-claw",
+    "speed": 2.9,
+    "dps": 65.5
+  },
+  {
+    "itemId": 19365,
+    "name": "Claw of the Black Drake",
+    "icon": "inv_weapon_shortblade_27",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 136928,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Claw of the Black Drake"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "102 - 191  Damage"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19365::::::::::0|h[Claw of the Black Drake]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "claw-of-the-black-drake",
+    "speed": 2.6,
+    "dps": 56.3
+  },
+  {
+    "itemId": 19896,
+    "name": "Thekal's Grasp",
+    "icon": "inv_weapon_hand_01",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 85949,
+    "quality": "Epic",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Thekal's Grasp"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "72 - 135  Damage"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19896::::::::::0|h[Thekal's Grasp]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thekals-grasp",
+    "speed": 2.2,
+    "dps": 47
+  },
+  {
+    "itemId": 20003,
+    "name": "Devilsaur Claws",
+    "icon": "inv_misc_monsterclaw_02",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 31596,
+    "quality": "Rare",
+    "itemLevel": 52,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Devilsaur Claws"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "48 - 90  Damage"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:20003::::::::::0|h[Devilsaur Claws]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "devilsaur-claws",
+    "speed": 2,
+    "dps": 34.5
+  },
+  {
+    "itemId": 22317,
+    "name": "Lefty's Brass Knuckle",
+    "icon": "inv_gauntlets_11",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 52093,
+    "quality": "Rare",
+    "itemLevel": 61,
+    "requiredLevel": 56,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Lefty's Brass Knuckle"
+      },
+      {
+        "label": "Requires Level 56"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "42 - 78  Damage"
+      },
+      {
+        "label": "+5 Strength"
+      },
+      {
+        "label": "+12 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:22317::::::::::0|h[Lefty's Brass Knuckle]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "leftys-brass-knuckle",
+    "speed": 1.5,
+    "dps": 40
+  },
+  {
+    "itemId": 51797,
+    "name": "Claw of the Wildshifter",
+    "icon": "inv_misc_monsterclaw_03",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 22768,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Claw of the Wildshifter"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "60 Armor"
+      },
+      {
+        "label": "39 - 79  Damage"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "+140 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:51797::::::::::0|h[Claw of the Wildshifter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "claw-of-the-wildshifter",
+    "speed": 1.4,
+    "dps": 42.1
+  },
+  {
+    "itemId": 55120,
+    "name": "Al'Kazeth, Claw of Ruptured Elements",
+    "icon": "inv_elementalfist",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 403815,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 60,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Al'Kazeth, Claw of Ruptured Elements"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "54 - 125  Damage"
+      },
+      {
+        "label": "+13 Intellect"
+      },
+      {
+        "label": "+12 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55120::::::::::0|h[Al'Kazeth, Claw of Ruptured Elements]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "alkazeth-claw-of-ruptured-elements",
+    "speed": 2.2,
+    "dps": 40.7
+  },
+  {
+    "itemId": 55471,
+    "name": "Wystan's Steel Fist",
+    "icon": "spell_holy_fistofjustice",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 11683,
+    "quality": "Rare",
+    "itemLevel": 39,
+    "requiredLevel": 34,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Wystan's Steel Fist"
+      },
+      {
+        "label": "Requires Level 34"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "36 - 70  Damage"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "+16 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:55471::::::::::0|h[Wystan's Steel Fist]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wystans-steel-fist",
+    "speed": 2,
+    "dps": 26.5
+  },
+  {
+    "itemId": 55494,
+    "name": "The Abyssal Pincer",
+    "icon": "inv_misc_birdbeck_02",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 95653,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "The Abyssal Pincer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "87 - 163  Damage"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+4 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55494::::::::::0|h[The Abyssal Pincer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-abyssal-pincer",
+    "speed": 2.6,
+    "dps": 48.1
+  },
+  {
+    "itemId": 58279,
+    "name": "Antiquated Slasher",
+    "icon": "inv_weapon_shortblade_27",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 10548,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 29,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Antiquated Slasher"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "31 - 59  Damage"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41842,
+          "name": "Antiquities",
+          "faction": "Alliance",
+          "requiredLevel": 29
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:58279::::::::::0|h[Antiquated Slasher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "antiquated-slasher",
+    "speed": 2.3,
+    "dps": 19.6
+  },
+  {
+    "itemId": 60003,
+    "name": "Remnants of an Old God",
+    "icon": "inv_weapon_hand_07",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 206967,
+    "quality": "Epic",
+    "itemLevel": 84,
+    "requiredLevel": 60,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Remnants of an Old God"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "126 - 233  Damage"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "+26 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:60003::::::::::0|h[Remnants of an Old God]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "remnants-of-an-old-god",
+    "speed": 2.7,
+    "dps": 66.5
+  },
+  {
+    "itemId": 60410,
+    "name": "Willbreaker",
+    "icon": "inv_weapon_shortblade_16",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 15289,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Willbreaker"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "67 - 122  Damage"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+3 Agility"
+      },
+      {
+        "label": "+4 IntellectDurability"
+      },
+      {
+        "label": "+20 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60410::::::::::0|h[Willbreaker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "willbreaker",
+    "speed": 2.2,
+    "dps": 43
+  },
+  {
+    "itemId": 61042,
+    "name": "Stormfist",
+    "icon": "inv_gauntlets_11",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 65512,
+    "quality": "Rare",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Stormfist"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "37 - 76  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61042::::::::::0|h[Stormfist]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormfist",
+    "speed": 1.3,
+    "dps": 43.5
+  },
+  {
+    "itemId": 61541,
+    "name": "Letashaz's Right Claw",
+    "icon": "inv_gauntlets_07",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 62709,
+    "quality": "Epic",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Letashaz's Right Claw"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "81 - 150  Damage"
+      },
+      {
+        "label": "+16 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:61541::::::::::0|h[Letashaz's Right Claw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "letashazs-right-claw",
+    "speed": 2.8,
+    "dps": 41.3
+  },
+  {
+    "itemId": 61740,
+    "name": "Claw of Senthos",
+    "icon": "inv_misc_monsterclaw_04",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 91205,
+    "quality": "Epic",
+    "itemLevel": 74,
+    "requiredLevel": 60,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Claw of Senthos"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "94 - 175  Damage"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+5 Nature"
+      },
+      {
+        "label": "+24 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41038,
+          "name": "The Claw of Erennius",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cffa335ee|Hitem:61740::::::::::0|h[Claw of Senthos]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "claw-of-senthos",
+    "speed": 2.4,
+    "dps": 56
+  },
+  {
+    "itemId": 65012,
+    "name": "Bronze Bruiser",
+    "icon": "inv_gauntlets_11",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 2752,
+    "quality": "Uncommon",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Bronze Bruiser"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "15 - 29  Damage"
+      },
+      {
+        "label": "+2 Agility"
+      },
+      {
+        "label": "+2 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:65012::::::::::0|h[Bronze Bruiser]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bronze-bruiser",
+    "speed": 1.7,
+    "dps": 12.9
+  },
+  {
+    "itemId": 80716,
+    "name": "Claw of the Worgen",
+    "icon": "inv_weapon_shortblade_27",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 4465,
+    "quality": "Rare",
+    "itemLevel": 28,
+    "requiredLevel": 23,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Claw of the Worgen"
+      },
+      {
+        "label": "Requires Level 23"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "20 - 40  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80716::::::::::0|h[Claw of the Worgen]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "claw-of-the-worgen",
+    "speed": 1.7,
+    "dps": 17.6
+  },
+  {
+    "itemId": 80740,
+    "name": "Pummeler Gauntlet",
+    "icon": "inv_gauntlets_11",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 6984,
+    "quality": "Rare",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Pummeler Gauntlet"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "27 - 49  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80740::::::::::0|h[Pummeler Gauntlet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pummeler-gauntlet",
+    "speed": 1.8,
+    "dps": 21.1
+  },
+  {
+    "itemId": 80750,
+    "name": "Thornfist",
+    "icon": "inv_gauntlets_11",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 8369,
+    "quality": "Rare",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Thornfist"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "43 - 81  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80750::::::::::0|h[Thornfist]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thornfist",
+    "speed": 1.8,
+    "dps": 39.1
+  },
+  {
+    "itemId": 80763,
+    "name": "Willbreaker",
+    "icon": "inv_weapon_shortblade_16",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 15289,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Willbreaker"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "53 - 97  Damage"
+      },
+      {
+        "label": "+5 Agility"
+      },
+      {
+        "label": "+4 IntellectDurability"
+      },
+      {
+        "label": "+20 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80763::::::::::0|h[Willbreaker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "willbreaker",
+    "speed": 1.8,
+    "dps": 41.7
+  },
+  {
+    "itemId": 80794,
+    "name": "Ironfist",
+    "icon": "inv_gauntlets_11",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 1939,
+    "quality": "Rare",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Ironfist"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "28 - 47  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80794::::::::::0|h[Ironfist]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ironfist",
+    "speed": 1.7,
+    "dps": 22.1
+  },
+  {
+    "itemId": 80807,
+    "name": "Serpent's Bite",
+    "icon": "ability_whirlwind",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 789,
+    "quality": "Rare",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Serpent's Bite"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "12 - 28  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80807::::::::::0|h[Serpent's Bite]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "serpents-bite",
+    "speed": 1.3,
+    "dps": 15.4
+  },
+  {
+    "itemId": 80809,
+    "name": "Bloodhowler",
+    "icon": "inv_weapon_shortblade_27",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 1855,
+    "quality": "Rare",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Bloodhowler"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "32 - 53  Damage"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80809::::::::::0|h[Bloodhowler]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodhowler",
+    "speed": 1.9,
+    "dps": 22.4
+  },
+  {
+    "itemId": 81003,
+    "name": "Ancient Hakkari Flayer",
+    "icon": "inv_weapon_hand_02",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 18613,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Ancient Hakkari Flayer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "56 - 105  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81003::::::::::0|h[Ancient Hakkari Flayer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ancient-hakkari-flayer",
+    "speed": 1.8,
+    "dps": 44.7
+  },
+  {
+    "itemId": 81372,
+    "name": "The Black Claw",
+    "icon": "inv_misc_monsterclaw_01",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 46635,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "The Black Claw"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "46 - 94  Damage"
+      },
+      {
+        "label": "+9 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:81372::::::::::0|h[The Black Claw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-black-claw",
+    "speed": 1.9,
+    "dps": 38.4
+  },
+  {
+    "itemId": 83445,
+    "name": "Marrowclaw Knuckles",
+    "icon": "inv_misc_monsterclaw_01",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 64507,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Marrowclaw Knuckles"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "76 - 145  Damage"
+      },
+      {
+        "label": "+14 Agility"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83445::::::::::0|h[Marrowclaw Knuckles]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "marrowclaw-knuckles",
+    "speed": 2.6,
+    "dps": 42.5
+  },
+  {
+    "itemId": 84030,
+    "name": "Gauntlet of a Thousand Cuts",
+    "icon": "inv_weapon_hand_02",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 265375,
+    "quality": "Epic",
+    "itemLevel": 88,
+    "requiredLevel": 60,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Gauntlet of a Thousand Cuts"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "75 - 140  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:84030::::::::::0|h[Gauntlet of a Thousand Cuts]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gauntlet-of-a-thousand-cuts",
+    "speed": 1.5,
+    "dps": 71.7
+  },
+  {
+    "itemId": 3494,
+    "name": "Monster - Claw",
+    "icon": "inv_misc_monsterclaw_01",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Claw"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 1  Damage"
+      },
+      {
+        "label": "Durability 16 / 16"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3494::::::::::0|h[Monster - Claw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-claw",
+    "speed": 1.5,
+    "dps": 0.7
+  },
+  {
+    "itemId": 5600,
+    "name": "Monster - Claw - Bear",
+    "icon": "inv_misc_monsterclaw_01",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Claw - Bear"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 1  Damage"
+      },
+      {
+        "label": "Durability 16 / 16"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:5600::::::::::0|h[Monster - Claw - Bear]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-claw-bear",
+    "speed": 1.5,
+    "dps": 0.7
+  },
+  {
+    "itemId": 11314,
+    "name": "Monster - Claw Insect",
+    "icon": "inv_misc_monsterclaw_01",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Claw Insect"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 1  Damage"
+      },
+      {
+        "label": "Durability 16 / 16"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:11314::::::::::0|h[Monster - Claw Insect]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-claw-insect",
+    "speed": 1.5,
+    "dps": 0.7
+  },
+  {
+    "itemId": 11743,
+    "name": "Rockfist",
+    "icon": "inv_gauntlets_11",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 30734,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 50,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Rockfist"
+      },
+      {
+        "label": "Requires Level 50"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "32 - 60  Damage"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:11743::::::::::0|h[Rockfist]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rockfist",
+    "speed": 1.4,
+    "dps": 32.9
+  },
+  {
+    "itemId": 15903,
+    "name": "Right-Handed Claw",
+    "icon": "inv_gauntlets_07",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 1623,
+    "quality": "Common",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Right-Handed Claw"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "12 - 23  Damage"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:15903::::::::::0|h[Right-Handed Claw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "right-handed-claw",
+    "speed": 1.5,
+    "dps": 11.7
+  },
+  {
+    "itemId": 15904,
+    "name": "Right-Handed Blades",
+    "icon": "inv_gauntlets_07",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 4341,
+    "quality": "Common",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Right-Handed Blades"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "18 - 34  Damage"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:15904::::::::::0|h[Right-Handed Blades]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "right-handed-blades",
+    "speed": 1.5,
+    "dps": 17.3
+  },
+  {
+    "itemId": 15905,
+    "name": "Right-Handed Brass Knuckles",
+    "icon": "inv_gauntlets_04",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 426,
+    "quality": "Common",
+    "itemLevel": 15,
+    "requiredLevel": 10,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Right-Handed Brass Knuckles"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "6 - 13  Damage"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:15905::::::::::0|h[Right-Handed Brass Knuckles]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "right-handed-brass-knuckles",
+    "speed": 1.4,
+    "dps": 6.8
+  },
+  {
+    "itemId": 18462,
+    "name": "Jagged Bone Fist",
+    "icon": "inv_gauntlets_13",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 41319,
+    "quality": "Uncommon",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Jagged Bone Fist"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "51 - 78  Damage"
+      },
+      {
+        "label": "+8 Strength"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:18462::::::::::0|h[Jagged Bone Fist]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "jagged-bone-fist",
+    "speed": 1.8,
+    "dps": 35.8
+  },
+  {
+    "itemId": 22210,
+    "name": "Monster - Knuckle, B01 Red",
+    "icon": "inv_misc_monsterclaw_01",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Knuckle, B01 Red"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 1  Damage"
+      },
+      {
+        "label": "Durability 16 / 16"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:22210::::::::::0|h[Monster - Knuckle, B01 Red]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-knuckle-b01-red",
+    "speed": 1.5,
+    "dps": 0.7
+  },
+  {
+    "itemId": 41040,
+    "name": "Moonclaw",
+    "icon": "ability_whirlwind",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 244,
+    "quality": "Uncommon",
+    "itemLevel": 10,
+    "requiredLevel": 5,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Moonclaw"
+      },
+      {
+        "label": "Requires Level 5"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "6 - 11  Damage"
+      },
+      {
+        "label": "+1 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:41040::::::::::0|h[Moonclaw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "moonclaw",
+    "speed": 1.6,
+    "dps": 5.3
+  },
+  {
+    "itemId": 58129,
+    "name": "Claw of Tempered Fire",
+    "icon": "inv_weapon_shortblade_27",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 2975,
+    "quality": "Uncommon",
+    "itemLevel": 29,
+    "requiredLevel": 0,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Claw of Tempered Fire"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "21 - 40  Damage"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41641,
+          "name": "Gone With The Wind",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:58129::::::::::0|h[Claw of Tempered Fire]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "claw-of-tempered-fire",
+    "speed": 2,
+    "dps": 15.3
+  },
+  {
+    "itemId": 58161,
+    "name": "Grim Claws",
+    "icon": "inv_weapon_shortblade_27",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 11550,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 32,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Grim Claws"
+      },
+      {
+        "label": "Requires Level 32"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "37 - 69  Damage"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:58161::::::::::0|h[Grim Claws]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grim-claws",
+    "speed": 2.7,
+    "dps": 19.6
+  },
+  {
+    "itemId": 61688,
+    "name": "Worgen Claw",
+    "icon": "inv_misc_monsterclaw_01",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 6098,
+    "quality": "Poor",
+    "itemLevel": 44,
+    "requiredLevel": 39,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Worgen Claw"
+      },
+      {
+        "label": "Requires Level 39"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "16 - 30  Damage"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:61688::::::::::0|h[Worgen Claw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "worgen-claw",
+    "speed": 1.5,
+    "dps": 15.3
+  },
+  {
+    "itemId": 65010,
+    "name": "Copper Knuckles",
+    "icon": "inv_gauntlets_11",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 195,
+    "quality": "Common",
+    "itemLevel": 10,
+    "requiredLevel": 5,
+    "slot": "One-hand",
+    "tooltip": [
+      {
+        "label": "Copper Knuckles"
+      },
+      {
+        "label": "Requires Level 5"
+      },
+      {
+        "label": "One-hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "6 - 12  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:65010::::::::::0|h[Copper Knuckles]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "copper-knuckles",
+    "speed": 1.8,
+    "dps": 5
+  },
+  {
+    "itemId": 65011,
+    "name": "Sharpened Claw",
+    "icon": "inv_misc_monsterclaw_01",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 1114,
+    "quality": "Uncommon",
+    "itemLevel": 18,
+    "requiredLevel": 13,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Sharpened Claw"
+      },
+      {
+        "label": "Requires Level 13"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "11 - 21  Damage"
+      },
+      {
+        "label": "+2 Agility"
+      },
+      {
+        "label": "+1 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:65011::::::::::0|h[Sharpened Claw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sharpened-claw",
+    "speed": 1.8,
+    "dps": 8.9
+  },
+  {
+    "itemId": 80834,
+    "name": "Satyr Claw",
+    "icon": "inv_weapon_shortblade_16",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 1528,
+    "quality": "Uncommon",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Satyr Claw"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "15 - 26  Damage"
+      },
+      {
+        "label": "+4 Strength"
+      },
+      {
+        "label": "+4 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:80834::::::::::0|h[Satyr Claw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "satyr-claw",
+    "speed": 1.2,
+    "dps": 17.1
+  },
+  {
+    "itemId": 83205,
+    "name": "Thornwood Claw",
+    "icon": "ability_whirlwind",
+    "class": "Weapon",
+    "subclass": "Fist Weapon",
+    "sellPrice": 7411,
+    "quality": "Uncommon",
+    "itemLevel": 36,
+    "requiredLevel": 31,
+    "slot": "Main Hand",
+    "tooltip": [
+      {
+        "label": "Thornwood Claw"
+      },
+      {
+        "label": "Requires Level 31"
+      },
+      {
+        "label": "Main Hand"
+      },
+      {
+        "label": "Fist Weapon",
+        "format": "alignRight"
+      },
+      {
+        "label": "21 - 39  Damage"
+      },
+      {
+        "label": "+5 Agility"
+      },
+      {
+        "label": "+2 IntellectDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:83205::::::::::0|h[Thornwood Claw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thornwood-claw",
+    "speed": 1.6,
+    "dps": 18.8
+  }
+]

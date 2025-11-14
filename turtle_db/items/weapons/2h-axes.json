@@ -1,0 +1,7324 @@
+[
+  {
+    "itemId": 21,
+    "name": "Arcanite Ripper",
+    "icon": "inv_axe_09",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Common",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Arcanite Ripper"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:21::::::::::0|h[Arcanite Ripper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "arcanite-ripper",
+    "speed": 2,
+    "dps": 0.8
+  },
+  {
+    "itemId": 20,
+    "name": "Sun-Lute of the Phoenix King",
+    "icon": "inv_weapon_bow_17",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Common",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Sun-Lute of the Phoenix King"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:20::::::::::0|h[Sun-Lute of the Phoenix King]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sun-lute-of-the-phoenix-king",
+    "speed": 2,
+    "dps": 0.8
+  },
+  {
+    "itemId": 19014,
+    "name": "Monster, 2H Horde Wood Axe",
+    "icon": "inv_axe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster, 2H Horde Wood Axe"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:19014::::::::::0|h[Monster, 2H Horde Wood Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-2h-horde-wood-axe",
+    "speed": 2,
+    "dps": 0.8
+  },
+  {
+    "itemId": 19015,
+    "name": "Monster, 2H Alliance Wood Axe",
+    "icon": "inv_axe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster, 2H Alliance Wood Axe"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "1 - 2  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:19015::::::::::0|h[Monster, 2H Alliance Wood Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-2h-alliance-wood-axe",
+    "speed": 2,
+    "dps": 0.8
+  },
+  {
+    "itemId": 870,
+    "name": "Fiery War Axe",
+    "icon": "inv_axe_02",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 21528,
+    "quality": "Epic",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Fiery War Axe"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "93 - 141  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:870::::::::::0|h[Fiery War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fiery-war-axe",
+    "speed": 2.9,
+    "dps": 40.3
+  },
+  {
+    "itemId": 872,
+    "name": "Rockslicer",
+    "icon": "inv_throwingaxe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2362,
+    "quality": "Rare",
+    "itemLevel": 21,
+    "requiredLevel": 16,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Rockslicer"
+      },
+      {
+        "label": "Requires Level 16"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "42 - 78  Damage"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:872::::::::::0|h[Rockslicer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rockslicer",
+    "speed": 3.3,
+    "dps": 18.2
+  },
+  {
+    "itemId": 1263,
+    "name": "Brain Hacker",
+    "icon": "inv_weapon_halberd_10",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 79064,
+    "quality": "Epic",
+    "itemLevel": 60,
+    "requiredLevel": 55,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Brain Hacker"
+      },
+      {
+        "label": "Requires Level 55"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "95 - 143  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:1263::::::::::0|h[Brain Hacker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brain-hacker",
+    "speed": 2.1,
+    "dps": 56.7
+  },
+  {
+    "itemId": 1318,
+    "name": "Night Reaver",
+    "icon": "inv_throwingaxe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 3066,
+    "quality": "Rare",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Night Reaver"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "52 - 78  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:1318::::::::::0|h[Night Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "night-reaver",
+    "speed": 3.3,
+    "dps": 20.6
+  },
+  {
+    "itemId": 2291,
+    "name": "Kang the Decapitator",
+    "icon": "inv_axe_15",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 44580,
+    "quality": "Epic",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Kang the Decapitator"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "136 - 205  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:2291::::::::::0|h[Kang the Decapitator]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "kang-the-decapitator",
+    "speed": 3.6,
+    "dps": 47.4
+  },
+  {
+    "itemId": 2299,
+    "name": "Burning War Axe",
+    "icon": "inv_axe_02",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 8756,
+    "quality": "Rare",
+    "itemLevel": 33,
+    "requiredLevel": 28,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Burning War Axe"
+      },
+      {
+        "label": "Requires Level 28"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "73 - 110  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:2299::::::::::0|h[Burning War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "burning-war-axe",
+    "speed": 3.3,
+    "dps": 27.7
+  },
+  {
+    "itemId": 5423,
+    "name": "Boahn's Fang",
+    "icon": "inv_axe_17",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2084,
+    "quality": "Rare",
+    "itemLevel": 20,
+    "requiredLevel": 15,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Boahn's Fang"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "35 - 53  Damage"
+      },
+      {
+        "label": "+9 Strength"
+      },
+      {
+        "label": "+4 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:5423::::::::::0|h[Boahn's Fang]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "boahns-fang",
+    "speed": 2.5,
+    "dps": 17.6
+  },
+  {
+    "itemId": 6687,
+    "name": "Corpsemaker",
+    "icon": "inv_weapon_halbard_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 9930,
+    "quality": "Rare",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Corpsemaker"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "88 - 132  Damage"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:6687::::::::::0|h[Corpsemaker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "corpsemaker",
+    "speed": 3.8,
+    "dps": 28.9
+  },
+  {
+    "itemId": 6830,
+    "name": "Bonebiter",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 23476,
+    "quality": "Rare",
+    "itemLevel": 44,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bonebiter"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "105 - 159  Damage"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1053,
+          "name": "In the Name of the Light",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:6830::::::::::0|h[Bonebiter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bonebiter",
+    "speed": 3.4,
+    "dps": 38.8
+  },
+  {
+    "itemId": 7717,
+    "name": "Ravager",
+    "icon": "inv_weapon_halberd_05",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 18923,
+    "quality": "Rare",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Ravager"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "104 - 157  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:7717::::::::::0|h[Ravager]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "ravager",
+    "speed": 3.5,
+    "dps": 37.3
+  },
+  {
+    "itemId": 7753,
+    "name": "Bloodspiller",
+    "icon": "inv_axe_10",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 7874,
+    "quality": "Rare",
+    "itemLevel": 32,
+    "requiredLevel": 27,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bloodspiller"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "57 - 87  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:7753::::::::::0|h[Bloodspiller]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bloodspiller",
+    "speed": 2.7,
+    "dps": 26.7
+  },
+  {
+    "itemId": 9383,
+    "name": "Obsidian Cleaver",
+    "icon": "inv_axe_14",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 16895,
+    "quality": "Rare",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Obsidian Cleaver"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "94 - 141  Damage"
+      },
+      {
+        "label": "+19 Stamina"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9383::::::::::0|h[Obsidian Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "obsidian-cleaver",
+    "speed": 3.3,
+    "dps": 35.6
+  },
+  {
+    "itemId": 9425,
+    "name": "Pendulum of Doom",
+    "icon": "inv_weapon_halberd_08",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 21489,
+    "quality": "Rare",
+    "itemLevel": 44,
+    "requiredLevel": 39,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Pendulum of Doom"
+      },
+      {
+        "label": "Requires Level 39"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "124 - 187  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9425::::::::::0|h[Pendulum of Doom]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "pendulum-of-doom",
+    "speed": 4,
+    "dps": 38.9
+  },
+  {
+    "itemId": 10570,
+    "name": "Manslayer",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 15875,
+    "quality": "Rare",
+    "itemLevel": 39,
+    "requiredLevel": 34,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Manslayer"
+      },
+      {
+        "label": "Requires Level 34"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "88 - 133  Damage"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "+38 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:10570::::::::::0|h[Manslayer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "manslayer",
+    "speed": 3.2,
+    "dps": 34.5
+  },
+  {
+    "itemId": 11607,
+    "name": "Dark Iron Sunderer",
+    "icon": "inv_weapon_halberd_02",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 51225,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Dark Iron Sunderer"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "101 - 153  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11607::::::::::0|h[Dark Iron Sunderer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dark-iron-sunderer",
+    "speed": 2.6,
+    "dps": 48.8
+  },
+  {
+    "itemId": 11816,
+    "name": "Angerforge's Battle Axe",
+    "icon": "inv_weapon_halberd_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 48882,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Angerforge's Battle Axe"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "100 - 150  Damage"
+      },
+      {
+        "label": "+27 Strength"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11816::::::::::0|h[Angerforge's Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "angerforges-battle-axe",
+    "speed": 2.6,
+    "dps": 48.1
+  },
+  {
+    "itemId": 11931,
+    "name": "Dreadforge Retaliator",
+    "icon": "inv_axe_22",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 58103,
+    "quality": "Rare",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Dreadforge Retaliator"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "149 - 225  Damage"
+      },
+      {
+        "label": "+36 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:11931::::::::::0|h[Dreadforge Retaliator]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dreadforge-retaliator",
+    "speed": 3.7,
+    "dps": 50.5
+  },
+  {
+    "itemId": 12769,
+    "name": "Bleakwood Hew",
+    "icon": "inv_axe_24",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 46154,
+    "quality": "Rare",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bleakwood Hew"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "100 - 151  Damage"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12769::::::::::0|h[Bleakwood Hew]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bleakwood-hew",
+    "speed": 2.7,
+    "dps": 46.5
+  },
+  {
+    "itemId": 12784,
+    "name": "Arcanite Reaper",
+    "icon": "inv_axe_09",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 73036,
+    "quality": "Rare",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Arcanite Reaper"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "153 - 256  Damage"
+      },
+      {
+        "label": "+13 StaminaDurability"
+      },
+      {
+        "label": "+62 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12784::::::::::0|h[Arcanite Reaper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "arcanite-reaper",
+    "speed": 3.8,
+    "dps": 53.8
+  },
+  {
+    "itemId": 12975,
+    "name": "Prospector Axe",
+    "icon": "inv_axe_03",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2205,
+    "quality": "Rare",
+    "itemLevel": 20,
+    "requiredLevel": 15,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Prospector Axe"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "33 - 51  Damage"
+      },
+      {
+        "label": "+8 Stamina"
+      },
+      {
+        "label": "+7 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:12975::::::::::0|h[Prospector Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "prospector-axe",
+    "speed": 2.4,
+    "dps": 17.5
+  },
+  {
+    "itemId": 13003,
+    "name": "Lord Alexander's Battle Axe",
+    "icon": "inv_weapon_halberd_02",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 49640,
+    "quality": "Rare",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Lord Alexander's Battle Axe"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "123 - 185  Damage"
+      },
+      {
+        "label": "+16 Strength"
+      },
+      {
+        "label": "+16 Stamina"
+      },
+      {
+        "label": "+17 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13003::::::::::0|h[Lord Alexander's Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lord-alexanders-battle-axe",
+    "speed": 3.2,
+    "dps": 48.1
+  },
+  {
+    "itemId": 13016,
+    "name": "Killmaim",
+    "icon": "inv_axe_10",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 4771,
+    "quality": "Rare",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Killmaim"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "55 - 84  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 95 / 95"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13016::::::::::0|h[Killmaim]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "killmaim",
+    "speed": 3.2,
+    "dps": 21.7
+  },
+  {
+    "itemId": 13017,
+    "name": "Hellslayer Battle Axe",
+    "icon": "inv_axe_24",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 17209,
+    "quality": "Rare",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Hellslayer Battle Axe"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "82 - 124  Damage"
+      },
+      {
+        "label": "+66 Attack"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13017::::::::::0|h[Hellslayer Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hellslayer-battle-axe",
+    "speed": 2.9,
+    "dps": 35.5
+  },
+  {
+    "itemId": 13018,
+    "name": "Executioner's Cleaver",
+    "icon": "inv_axe_24",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 31967,
+    "quality": "Rare",
+    "itemLevel": 48,
+    "requiredLevel": 43,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Executioner's Cleaver"
+      },
+      {
+        "label": "Requires Level 43"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "127 - 191  Damage"
+      },
+      {
+        "label": "+23 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13018::::::::::0|h[Executioner's Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "executioners-cleaver",
+    "speed": 3.8,
+    "dps": 41.8
+  },
+  {
+    "itemId": 13983,
+    "name": "Gravestone War Axe",
+    "icon": "inv_weapon_halberd_09",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 66754,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Gravestone War Axe"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "144 - 217  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13983::::::::::0|h[Gravestone War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gravestone-war-axe",
+    "speed": 3.4,
+    "dps": 53.1
+  },
+  {
+    "itemId": 17104,
+    "name": "Spinal Reaper",
+    "icon": "inv_axe_09",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 179067,
+    "quality": "Epic",
+    "itemLevel": 77,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Spinal Reaper"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "206 - 310  Damage"
+      },
+      {
+        "label": "+36 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:17104::::::::::0|h[Spinal Reaper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "spinal-reaper",
+    "speed": 3.4,
+    "dps": 75.9
+  },
+  {
+    "itemId": 17730,
+    "name": "Gatorbite Axe",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 42951,
+    "quality": "Rare",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Gatorbite Axe"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "117 - 176  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:17730::::::::::0|h[Gatorbite Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gatorbite-axe",
+    "speed": 3.2,
+    "dps": 45.8
+  },
+  {
+    "itemId": 18538,
+    "name": "Treant's Bane",
+    "icon": "inv_axe_10",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 96748,
+    "quality": "Epic",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Treant's Bane"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "166 - 250  Damage"
+      },
+      {
+        "label": "+22 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18538::::::::::0|h[Treant's Bane]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "treants-bane",
+    "speed": 3.5,
+    "dps": 59.4
+  },
+  {
+    "itemId": 18759,
+    "name": "Malicious Axe",
+    "icon": "inv_axe_18",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 67844,
+    "quality": "Rare",
+    "itemLevel": 62,
+    "requiredLevel": 57,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Malicious Axe"
+      },
+      {
+        "label": "Requires Level 57"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "131 - 197  Damage"
+      },
+      {
+        "label": "+30 StaminaDurability"
+      },
+      {
+        "label": "+26 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18759::::::::::0|h[Malicious Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "malicious-axe",
+    "speed": 3.1,
+    "dps": 52.9
+  },
+  {
+    "itemId": 18830,
+    "name": "Grand Marshal's Sunderer",
+    "icon": "inv_axe_10",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 57227,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Grand Marshal's Sunderer"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "262 - 380  Damage"
+      },
+      {
+        "label": "+43 Stamina"
+      },
+      {
+        "label": "+28 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18830::::::::::0|h[Grand Marshal's Sunderer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grand-marshals-sunderer",
+    "speed": 3.8,
+    "dps": 84.5
+  },
+  {
+    "itemId": 18831,
+    "name": "High Warlord's Battle Axe",
+    "icon": "inv_axe_21",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 57448,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "High Warlord's Battle Axe"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "262 - 380  Damage"
+      },
+      {
+        "label": "+43 Stamina"
+      },
+      {
+        "label": "+28 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:18831::::::::::0|h[High Warlord's Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "high-warlords-battle-axe",
+    "speed": 3.8,
+    "dps": 84.5
+  },
+  {
+    "itemId": 19169,
+    "name": "Nightfall",
+    "icon": "inv_axe_12",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 129112,
+    "quality": "Epic",
+    "itemLevel": 70,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Nightfall"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "187 - 282  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19169::::::::::0|h[Nightfall]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "nightfall",
+    "speed": 3.5,
+    "dps": 67
+  },
+  {
+    "itemId": 19353,
+    "name": "Drake Talon Cleaver",
+    "icon": "inv_axe_10",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 180812,
+    "quality": "Epic",
+    "itemLevel": 75,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Drake Talon Cleaver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "199 - 300  Damage"
+      },
+      {
+        "label": "+17 Strength"
+      },
+      {
+        "label": "+17 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19353::::::::::0|h[Drake Talon Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "drake-talon-cleaver",
+    "speed": 3.4,
+    "dps": 73.4
+  },
+  {
+    "itemId": 19354,
+    "name": "Draconic Avenger",
+    "icon": "inv_axe_21",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 135086,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Draconic Avenger"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "174 - 262  Damage"
+      },
+      {
+        "label": "+22 Strength"
+      },
+      {
+        "label": "+25 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:19354::::::::::0|h[Draconic Avenger]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "draconic-avenger",
+    "speed": 3.2,
+    "dps": 68.1
+  },
+  {
+    "itemId": 19962,
+    "name": "Gri'lek's Carver",
+    "icon": "inv_axe_24",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 88511,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Gri'lek's Carver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "182 - 274  Damage"
+      },
+      {
+        "label": "+117 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19962::::::::::0|h[Gri'lek's Carver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grileks-carver",
+    "speed": 3.9,
+    "dps": 58.5
+  },
+  {
+    "itemId": 21134,
+    "name": "Dark Edge of Insanity",
+    "icon": "inv_axe_25",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 266569,
+    "quality": "Epic",
+    "itemLevel": 84,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Dark Edge of Insanity"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "242 - 364  Damage"
+      },
+      {
+        "label": "+35 Strength"
+      },
+      {
+        "label": "+19 Agility"
+      },
+      {
+        "label": "+25 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21134::::::::::0|h[Dark Edge of Insanity]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dark-edge-of-insanity",
+    "speed": 3.5,
+    "dps": 86.6
+  },
+  {
+    "itemId": 21856,
+    "name": "Neretzek, The Blood Drinker",
+    "icon": "inv_axe_09",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 147180,
+    "quality": "Epic",
+    "itemLevel": 71,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Neretzek, The Blood Drinker"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "202 - 303  Damage"
+      },
+      {
+        "label": "+21 Strength"
+      },
+      {
+        "label": "+16 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:21856::::::::::0|h[Neretzek, The Blood Drinker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "neretzek-the-blood-drinker",
+    "speed": 3.7,
+    "dps": 68.2
+  },
+  {
+    "itemId": 22815,
+    "name": "Severance",
+    "icon": "inv_axe_2h_stratholme_d_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 241520,
+    "quality": "Epic",
+    "itemLevel": 83,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Severance"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "242 - 366  Damage"
+      },
+      {
+        "label": "+20 Stamina"
+      },
+      {
+        "label": "+43 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:22815::::::::::0|h[Severance]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "severance",
+    "speed": 3.6,
+    "dps": 84.4
+  },
+  {
+    "itemId": 40065,
+    "name": "Horde Defender's Axe",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1755,
+    "quality": "Rare",
+    "itemLevel": 20,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Horde Defender's Axe"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "55 Armor"
+      },
+      {
+        "label": "44 - 57  Damage"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 39999,
+          "name": "Horde Defender's Axe",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:40065::::::::::0|h[Horde Defender's Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "horde-defenders-axe",
+    "speed": 3.3,
+    "dps": 15.3
+  },
+  {
+    "itemId": 41845,
+    "name": "Algo'rath the Unbinder",
+    "icon": "inv_weapon_halberd_05",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 12406,
+    "quality": "Rare",
+    "itemLevel": 36,
+    "requiredLevel": 29,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Algo'rath the Unbinder"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "65 - 105  Damage"
+      },
+      {
+        "label": "+7 IntellectDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:41845::::::::::0|h[Algo'rath the Unbinder]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "algorath-the-unbinder",
+    "speed": 2.7,
+    "dps": 31.5
+  },
+  {
+    "itemId": 51779,
+    "name": "Greataxe of the Decrepit Crypt",
+    "icon": "inv_axe_14",
+    "class": "Weapon",
+    "subclass": "axe",
+    "sellPrice": 30246,
+    "quality": "Epic",
+    "itemLevel": 66,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Greataxe of the Decrepit Crypt"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "182 - 269  Damage"
+      },
+      {
+        "label": "+20 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:51779::::::::::0|h[Greataxe of the Decrepit Crypt]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "greataxe-of-the-decrepit-crypt",
+    "speed": 3.6,
+    "dps": 62.6
+  },
+  {
+    "itemId": 55127,
+    "name": "Shar'tateth, the Shattered Edge",
+    "icon": "inv_demonaxe",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 420581,
+    "quality": "Epic",
+    "itemLevel": 92,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Shar'tateth, the Shattered Edge"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "307 - 453  Damage"
+      },
+      {
+        "label": "+45 Strength"
+      },
+      {
+        "label": "+25 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:55127::::::::::0|h[Shar'tateth, the Shattered Edge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shartateth-the-shattered-edge",
+    "speed": 3.8,
+    "dps": 100
+  },
+  {
+    "itemId": 60552,
+    "name": "Dig Master's Pick",
+    "icon": "inv_pick_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 49264,
+    "quality": "Rare",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Dig Master's Pick"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "129 - 191  Damage"
+      },
+      {
+        "label": "+4 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60552::::::::::0|h[Dig Master's Pick]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dig-masters-pick",
+    "speed": 3.4,
+    "dps": 47.1
+  },
+  {
+    "itemId": 60885,
+    "name": "Dar'kar of the Third Khan",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 49205,
+    "quality": "Epic",
+    "itemLevel": 53,
+    "requiredLevel": 48,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Dar'kar of the Third Khan"
+      },
+      {
+        "label": "Requires Level 48"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "148 - 224  Damage"
+      },
+      {
+        "label": "+26 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 120 / 120"
+      }
+    ],
+    "itemLink": "|cffa335ee|Hitem:60885::::::::::0|h[Dar'kar of the Third Khan]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "darkar-of-the-third-khan",
+    "speed": 3.6,
+    "dps": 51.7
+  },
+  {
+    "itemId": 61318,
+    "name": "Fleshslasher",
+    "icon": "inv_throwingaxe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 34031,
+    "quality": "Rare",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Fleshslasher"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "105 - 160  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61318::::::::::0|h[Fleshslasher]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "fleshslasher",
+    "speed": 3.1,
+    "dps": 42.7
+  },
+  {
+    "itemId": 61542,
+    "name": "Dwarven Pickaxe",
+    "icon": "inv_pick_03",
+    "class": "Weapon",
+    "subclass": "axe",
+    "sellPrice": 63538,
+    "quality": "Rare",
+    "itemLevel": 57,
+    "requiredLevel": 52,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Dwarven Pickaxe"
+      },
+      {
+        "label": "Requires Level 52"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "106 - 197  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:61542::::::::::0|h[Dwarven Pickaxe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dwarven-pickaxe",
+    "speed": 3.1,
+    "dps": 48.9
+  },
+  {
+    "itemId": 80547,
+    "name": "Quel'dorei Guardian's Battle Axe",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 33972,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Quel'dorei Guardian's Battle Axe"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "136 - 243  Damage"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "+50 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80547::::::::::0|h[Quel'dorei Guardian's Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "queldorei-guardians-battle-axe",
+    "speed": 3.4,
+    "dps": 55.7
+  },
+  {
+    "itemId": 80634,
+    "name": "Revantusk Watcher's Carver",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 33972,
+    "quality": "Rare",
+    "itemLevel": 65,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Revantusk Watcher's Carver"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "136 - 243  Damage"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "+50 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:80634::::::::::0|h[Revantusk Watcher's Carver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "revantusk-watchers-carver",
+    "speed": 3.4,
+    "dps": 55.7
+  },
+  {
+    "itemId": 83209,
+    "name": "Sentinel's Moonslicer",
+    "icon": "inv_axe_12",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 14485,
+    "quality": "Rare",
+    "itemLevel": 38,
+    "requiredLevel": 33,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Sentinel's Moonslicer"
+      },
+      {
+        "label": "Requires Level 33"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "75 - 113  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:83209::::::::::0|h[Sentinel's Moonslicer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "sentinels-moonslicer",
+    "speed": 2.8,
+    "dps": 33.6
+  },
+  {
+    "itemId": 1220,
+    "name": "Lupine Axe",
+    "icon": "inv_axe_14",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1807,
+    "quality": "Uncommon",
+    "itemLevel": 20,
+    "requiredLevel": 15,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Lupine Axe"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "24 - 36  Damage"
+      },
+      {
+        "label": "+6 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1220::::::::::0|h[Lupine Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lupine-axe",
+    "speed": 2.3,
+    "dps": 13
+  },
+  {
+    "itemId": 1455,
+    "name": "Blackrock Champion's Axe",
+    "icon": "inv_weapon_halbard_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2931,
+    "quality": "Uncommon",
+    "itemLevel": 24,
+    "requiredLevel": 19,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Blackrock Champion's Axe"
+      },
+      {
+        "label": "Requires Level 19"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "41 - 62  Damage"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1455::::::::::0|h[Blackrock Champion's Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "blackrock-champions-axe",
+    "speed": 3.2,
+    "dps": 16.1
+  },
+  {
+    "itemId": 1521,
+    "name": "Lumbering Ogre Axe",
+    "icon": "inv_axe_18",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 19205,
+    "quality": "Uncommon",
+    "itemLevel": 44,
+    "requiredLevel": 39,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Lumbering Ogre Axe"
+      },
+      {
+        "label": "Requires Level 39"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "105 - 158  Damage"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1521::::::::::0|h[Lumbering Ogre Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lumbering-ogre-axe",
+    "speed": 3.9,
+    "dps": 33.7
+  },
+  {
+    "itemId": 1639,
+    "name": "Grinning Axe",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 28460,
+    "quality": "Uncommon",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Grinning Axe"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "85 - 128  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1639::::::::::0|h[Grinning Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "grinning-axe",
+    "speed": 2.8,
+    "dps": 38
+  },
+  {
+    "itemId": 1959,
+    "name": "Cold Iron Pick",
+    "icon": "inv_pick_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1223,
+    "quality": "Uncommon",
+    "itemLevel": 17,
+    "requiredLevel": 12,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Cold Iron Pick"
+      },
+      {
+        "label": "Requires Level 12"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "27 - 41  Damage"
+      },
+      {
+        "label": "+2 Stamina"
+      },
+      {
+        "label": "+4 SpiritDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1959::::::::::0|h[Cold Iron Pick]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "cold-iron-pick",
+    "speed": 3,
+    "dps": 12.3
+  },
+  {
+    "itemId": 2015,
+    "name": "Black Metal War Axe",
+    "icon": "inv_axe_17",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 4443,
+    "quality": "Uncommon",
+    "itemLevel": 28,
+    "requiredLevel": 23,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Black Metal War Axe"
+      },
+      {
+        "label": "Requires Level 23"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "44 - 66  Damage"
+      },
+      {
+        "label": "+10 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:2015::::::::::0|h[Black Metal War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "black-metal-war-axe",
+    "speed": 2.9,
+    "dps": 19
+  },
+  {
+    "itemId": 2203,
+    "name": "Brashclaw's Chopper",
+    "icon": "inv_axe_23",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1492,
+    "quality": "Uncommon",
+    "itemLevel": 19,
+    "requiredLevel": 14,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Brashclaw's Chopper"
+      },
+      {
+        "label": "Requires Level 14"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "34 - 51  Damage"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:2203::::::::::0|h[Brashclaw's Chopper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brashclaws-chopper",
+    "speed": 3.4,
+    "dps": 12.5
+  },
+  {
+    "itemId": 2227,
+    "name": "Heavy Ogre War Axe",
+    "icon": "inv_weapon_halbard_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 4133,
+    "quality": "Uncommon",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Heavy Ogre War Axe"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "55 - 84  Damage"
+      },
+      {
+        "label": "+7 Strength"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:2227::::::::::0|h[Heavy Ogre War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "heavy-ogre-war-axe",
+    "speed": 3.8,
+    "dps": 18.3
+  },
+  {
+    "itemId": 2907,
+    "name": "Dwarven Tree Chopper",
+    "icon": "inv_throwingaxe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1755,
+    "quality": "Uncommon",
+    "itemLevel": 20,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Dwarven Tree Chopper"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "34 - 52  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 283,
+          "name": "A Dark Threat Looms",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:2907::::::::::0|h[Dwarven Tree Chopper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dwarven-tree-chopper",
+    "speed": 3.3,
+    "dps": 13
+  },
+  {
+    "itemId": 3191,
+    "name": "Arced War Axe",
+    "icon": "inv_axe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 3857,
+    "quality": "Uncommon",
+    "itemLevel": 26,
+    "requiredLevel": 21,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Arced War Axe"
+      },
+      {
+        "label": "Requires Level 21"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "46 - 70  Damage"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3191::::::::::0|h[Arced War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "arced-war-axe",
+    "speed": 3.3,
+    "dps": 17.6
+  },
+  {
+    "itemId": 3195,
+    "name": "Barbaric Battle Axe",
+    "icon": "inv_axe_10",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1372,
+    "quality": "Uncommon",
+    "itemLevel": 18,
+    "requiredLevel": 13,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Barbaric Battle Axe"
+      },
+      {
+        "label": "Requires Level 13"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "34 - 52  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3195::::::::::0|h[Barbaric Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "barbaric-battle-axe",
+    "speed": 3.6,
+    "dps": 11.9
+  },
+  {
+    "itemId": 3199,
+    "name": "Battle Slayer",
+    "icon": "inv_throwingaxe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2262,
+    "quality": "Uncommon",
+    "itemLevel": 22,
+    "requiredLevel": 17,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Battle Slayer"
+      },
+      {
+        "label": "Requires Level 17"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "38 - 58  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3199::::::::::0|h[Battle Slayer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "battle-slayer",
+    "speed": 3.3,
+    "dps": 14.5
+  },
+  {
+    "itemId": 3201,
+    "name": "Barbarian War Axe",
+    "icon": "inv_axe_17",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 4496,
+    "quality": "Uncommon",
+    "itemLevel": 28,
+    "requiredLevel": 23,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Barbarian War Axe"
+      },
+      {
+        "label": "Requires Level 23"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "47 - 71  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3201::::::::::0|h[Barbarian War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "barbarian-war-axe",
+    "speed": 3.1,
+    "dps": 19
+  },
+  {
+    "itemId": 3210,
+    "name": "Brutal War Axe",
+    "icon": "inv_axe_17",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 5626,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 25,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Brutal War Axe"
+      },
+      {
+        "label": "Requires Level 25"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "58 - 88  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3210::::::::::0|h[Brutal War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "brutal-war-axe",
+    "speed": 3.6,
+    "dps": 20.3
+  },
+  {
+    "itemId": 3488,
+    "name": "Copper Battle Axe",
+    "icon": "inv_throwingaxe_02",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 613,
+    "quality": "Uncommon",
+    "itemLevel": 13,
+    "requiredLevel": 8,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Copper Battle Axe"
+      },
+      {
+        "label": "Requires Level 8"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "23 - 35  Damage"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3488::::::::::0|h[Copper Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "copper-battle-axe",
+    "speed": 3.2,
+    "dps": 9.1
+  },
+  {
+    "itemId": 3586,
+    "name": "Logsplitter",
+    "icon": "inv_axe_11",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1034,
+    "quality": "Uncommon",
+    "itemLevel": 16,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Logsplitter"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "31 - 47  Damage"
+      },
+      {
+        "label": "+3 Strength"
+      },
+      {
+        "label": "+2 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 99,
+          "name": "Arugal's Folly",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3586::::::::::0|h[Logsplitter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "logsplitter",
+    "speed": 3.6,
+    "dps": 10.8
+  },
+  {
+    "itemId": 3855,
+    "name": "Massive Iron Axe",
+    "icon": "inv_throwingaxe_05",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 11248,
+    "quality": "Uncommon",
+    "itemLevel": 37,
+    "requiredLevel": 32,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Massive Iron Axe"
+      },
+      {
+        "label": "Requires Level 32"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "71 - 108  Damage"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 8786,
+          "name": "Arms for the Field",
+          "faction": "Horde"
+        },
+        {
+          "questId": 5284,
+          "name": "The Way of the Weaponsmith",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 5302,
+          "name": "The Way of the Weaponsmith",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:3855::::::::::0|h[Massive Iron Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "massive-iron-axe",
+    "speed": 3.5,
+    "dps": 25.6
+  },
+  {
+    "itemId": 5194,
+    "name": "Taskmaster Axe",
+    "icon": "inv_throwingaxe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 3079,
+    "quality": "Rare",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Taskmaster Axe"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "42 - 64  Damage"
+      },
+      {
+        "label": "+8 Spirit"
+      },
+      {
+        "label": "+8 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:5194::::::::::0|h[Taskmaster Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "taskmaster-axe",
+    "speed": 2.7,
+    "dps": 19.6
+  },
+  {
+    "itemId": 6975,
+    "name": "Whirlwind Axe",
+    "icon": "inv_axe_12",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 16766,
+    "quality": "Rare",
+    "itemLevel": 40,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Whirlwind Axe"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "102 - 154  Damage"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1792,
+          "name": "Whirlwind Weapon",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:6975::::::::::0|h[Whirlwind Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "whirlwind-axe",
+    "speed": 3.6,
+    "dps": 35.6
+  },
+  {
+    "itemId": 9459,
+    "name": "Thermaplugg's Left Arm",
+    "icon": "inv_axe_03",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 13560,
+    "quality": "Rare",
+    "itemLevel": 37,
+    "requiredLevel": 32,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Thermaplugg's Left Arm"
+      },
+      {
+        "label": "Requires Level 32"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "70 - 106  Damage"
+      },
+      {
+        "label": "+18 Strength"
+      },
+      {
+        "label": "+7 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9459::::::::::0|h[Thermaplugg's Left Arm]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thermapluggs-left-arm",
+    "speed": 2.7,
+    "dps": 32.6
+  },
+  {
+    "itemId": 9481,
+    "name": "The Minotaur",
+    "icon": "inv_axe_03",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 34067,
+    "quality": "Rare",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "The Minotaur"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "109 - 164  Damage"
+      },
+      {
+        "label": "+24 Stamina"
+      },
+      {
+        "label": "+5 Spirit"
+      },
+      {
+        "label": "+8 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9481::::::::::0|h[The Minotaur]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-minotaur",
+    "speed": 3.2,
+    "dps": 42.7
+  },
+  {
+    "itemId": 9486,
+    "name": "Supercharger Battle Axe",
+    "icon": "inv_axe_21",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 5483,
+    "quality": "Rare",
+    "itemLevel": 28,
+    "requiredLevel": 23,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Supercharger Battle Axe"
+      },
+      {
+        "label": "Requires Level 23"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "51 - 78  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 95 / 95"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:9486::::::::::0|h[Supercharger Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "supercharger-battle-axe",
+    "speed": 2.8,
+    "dps": 23
+  },
+  {
+    "itemId": 9626,
+    "name": "Dwarven Charge",
+    "icon": "inv_axe_09",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 16243,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Dwarven Charge"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "72 - 109  Damage"
+      },
+      {
+        "label": "+12 Strength"
+      },
+      {
+        "label": "+11 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2240,
+          "name": "The Hidden Chamber",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:9626::::::::::0|h[Dwarven Charge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "dwarven-charge",
+    "speed": 2.9,
+    "dps": 31.2
+  },
+  {
+    "itemId": 10652,
+    "name": "Will of the Mountain Giant",
+    "icon": "inv_weapon_halberd_05",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 36370,
+    "quality": "Rare",
+    "itemLevel": 51,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Will of the Mountain Giant"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "99 - 149  Damage"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 3129,
+          "name": "Weapons of Spirit",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff0070dd|Hitem:10652::::::::::0|h[Will of the Mountain Giant]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "will-of-the-mountain-giant",
+    "speed": 2.8,
+    "dps": 44.3
+  },
+  {
+    "itemId": 11907,
+    "name": "Beastslayer",
+    "icon": "inv_axe_10",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 41050,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Beastslayer"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "112 - 169  Damage"
+      },
+      {
+        "label": "+72 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 4301,
+          "name": "The Mighty U'cha",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:11907::::::::::0|h[Beastslayer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "beastslayer",
+    "speed": 3.3,
+    "dps": 42.6
+  },
+  {
+    "itemId": 12000,
+    "name": "Limb Cleaver",
+    "icon": "inv_axe_02",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 41053,
+    "quality": "Uncommon",
+    "itemLevel": 55,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Limb Cleaver"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "82 - 123  Damage"
+      },
+      {
+        "label": "+21 Strength"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 4126,
+          "name": "Hurley Blackbreath",
+          "faction": "Alliance"
+        },
+        {
+          "questId": 4134,
+          "name": "Lost Thunderbrew Recipe",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:12000::::::::::0|h[Limb Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "limb-cleaver",
+    "speed": 2.4,
+    "dps": 42.7
+  },
+  {
+    "itemId": 12249,
+    "name": "Merciless Axe",
+    "icon": "inv_axe_17",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 6039,
+    "quality": "Uncommon",
+    "itemLevel": 31,
+    "requiredLevel": 26,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Merciless Axe"
+      },
+      {
+        "label": "Requires Level 26"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "54 - 81  Damage"
+      },
+      {
+        "label": "+12 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12249::::::::::0|h[Merciless Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "merciless-axe",
+    "speed": 3.2,
+    "dps": 21.1
+  },
+  {
+    "itemId": 12250,
+    "name": "Midnight Axe",
+    "icon": "inv_axe_17",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 8068,
+    "quality": "Uncommon",
+    "itemLevel": 34,
+    "requiredLevel": 29,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Midnight Axe"
+      },
+      {
+        "label": "Requires Level 29"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "49 - 75  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:12250::::::::::0|h[Midnight Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "midnight-axe",
+    "speed": 2.7,
+    "dps": 23
+  },
+  {
+    "itemId": 12775,
+    "name": "Huge Thorium Battleaxe",
+    "icon": "inv_weapon_halberd_11",
+    "class": "Weapon",
+    "subclass": "axe",
+    "sellPrice": 39949,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Huge Thorium Battleaxe"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "114 - 172  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 9182,
+          "name": "Craftsman's Writ - Huge Thorium Battleaxe",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:12775::::::::::0|h[Huge Thorium Battleaxe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "huge-thorium-battleaxe",
+    "speed": 3.3,
+    "dps": 43.3
+  },
+  {
+    "itemId": 13285,
+    "name": "The Blackrock Slicer",
+    "icon": "inv_weapon_halberd_11",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 54924,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "The Blackrock Slicer"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "159 - 239  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:13285::::::::::0|h[The Blackrock Slicer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-blackrock-slicer",
+    "speed": 4,
+    "dps": 49.8
+  },
+  {
+    "itemId": 15269,
+    "name": "Massive Battle Axe",
+    "icon": "inv_axe_21",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 3036,
+    "quality": "Uncommon",
+    "itemLevel": 24,
+    "requiredLevel": 19,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Massive Battle Axe"
+      },
+      {
+        "label": "Requires Level 19"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "42 - 64  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15269::::::::::0|h[Massive Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "massive-battle-axe",
+    "speed": 3.3,
+    "dps": 16.1
+  },
+  {
+    "itemId": 15270,
+    "name": "Gigantic War Axe",
+    "icon": "inv_axe_17",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 22775,
+    "quality": "Uncommon",
+    "itemLevel": 46,
+    "requiredLevel": 41,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Gigantic War Axe"
+      },
+      {
+        "label": "Requires Level 41"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "91 - 137  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15270::::::::::0|h[Gigantic War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "gigantic-war-axe",
+    "speed": 3.2,
+    "dps": 35.6
+  },
+  {
+    "itemId": 15271,
+    "name": "Colossal Great Axe",
+    "icon": "inv_axe_12",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 43701,
+    "quality": "Uncommon",
+    "itemLevel": 56,
+    "requiredLevel": 51,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Colossal Great Axe"
+      },
+      {
+        "label": "Requires Level 51"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "132 - 198  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15271::::::::::0|h[Colossal Great Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "colossal-great-axe",
+    "speed": 3.8,
+    "dps": 43.4
+  },
+  {
+    "itemId": 15273,
+    "name": "Death Striker",
+    "icon": "inv_axe_18",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 57108,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Death Striker"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "109 - 165  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15273::::::::::0|h[Death Striker]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "death-striker",
+    "speed": 2.8,
+    "dps": 48.9
+  },
+  {
+    "itemId": 15424,
+    "name": "Axe of Orgrimmar",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1404,
+    "quality": "Uncommon",
+    "itemLevel": 18,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Axe of Orgrimmar"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "31 - 47  Damage"
+      },
+      {
+        "label": "+3 Stamina"
+      },
+      {
+        "label": "+3 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 5730,
+          "name": "Hidden Enemies",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:15424::::::::::0|h[Axe of Orgrimmar]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "axe-of-orgrimmar",
+    "speed": 3.3,
+    "dps": 11.8
+  },
+  {
+    "itemId": 18324,
+    "name": "Waveslicer",
+    "icon": "inv_axe_17",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 55189,
+    "quality": "Rare",
+    "itemLevel": 58,
+    "requiredLevel": 53,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Waveslicer"
+      },
+      {
+        "label": "Requires Level 53"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "123 - 185  Damage"
+      },
+      {
+        "label": "+26 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:18324::::::::::0|h[Waveslicer]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "waveslicer",
+    "speed": 3.1,
+    "dps": 49.7
+  },
+  {
+    "itemId": 19900,
+    "name": "Zulian Stone Axe",
+    "icon": "inv_axe_34",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 87868,
+    "quality": "Rare",
+    "itemLevel": 68,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Zulian Stone Axe"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "131 - 197  Damage"
+      },
+      {
+        "label": "+22 IntellectDurability"
+      },
+      {
+        "label": "+44 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:19900::::::::::0|h[Zulian Stone Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "zulian-stone-axe",
+    "speed": 2.8,
+    "dps": 58.6
+  },
+  {
+    "itemId": 20238,
+    "name": "90 Green Warrior Axe",
+    "icon": "inv_axe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 213369,
+    "quality": "Uncommon",
+    "itemLevel": 90,
+    "requiredLevel": 60,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "90 Green Warrior Axe"
+      },
+      {
+        "label": "Requires Level 60"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "216 - 325  Damage"
+      },
+      {
+        "label": "+28 Strength"
+      },
+      {
+        "label": "+27 StaminaDurability"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20238::::::::::0|h[90 Green Warrior Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "90-green-warrior-axe",
+    "speed": 3.5,
+    "dps": 77.3
+  },
+  {
+    "itemId": 20280,
+    "name": "63 Green Warrior Axe",
+    "icon": "inv_axe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 57576,
+    "quality": "Uncommon",
+    "itemLevel": 63,
+    "requiredLevel": 58,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "63 Green Warrior Axe"
+      },
+      {
+        "label": "Requires Level 58"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "137 - 206  Damage"
+      },
+      {
+        "label": "+19 Strength"
+      },
+      {
+        "label": "+18 StaminaDurability"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:20280::::::::::0|h[63 Green Warrior Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "63-green-warrior-axe",
+    "speed": 3.5,
+    "dps": 49
+  },
+  {
+    "itemId": 23171,
+    "name": "The Axe of Severing",
+    "icon": "inv_axe_03",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 4213,
+    "quality": "Rare",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "The Axe of Severing"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "50 - 76  Damage"
+      },
+      {
+        "label": "+14 StrengthDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 90 / 90"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:23171::::::::::0|h[The Axe of Severing]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-axe-of-severing",
+    "speed": 3,
+    "dps": 21
+  },
+  {
+    "itemId": 41295,
+    "name": "Lost Excavation Pickaxe",
+    "icon": "inv_pick_01",
+    "class": "Weapon",
+    "subclass": "axe",
+    "sellPrice": 32377,
+    "quality": "Uncommon",
+    "itemLevel": 52,
+    "requiredLevel": 47,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Lost Excavation Pickaxe"
+      },
+      {
+        "label": "Requires Level 47"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "90 - 167  Damage"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:41295::::::::::0|h[Lost Excavation Pickaxe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "lost-excavation-pickaxe",
+    "speed": 3.2,
+    "dps": 40.2
+  },
+  {
+    "itemId": 58035,
+    "name": "Amberwood Great-Axe",
+    "icon": "inv_axe_03",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 8063,
+    "quality": "Uncommon",
+    "itemLevel": 34,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Amberwood Great-Axe"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "63 - 94  Damage"
+      },
+      {
+        "label": "+13 Strength"
+      },
+      {
+        "label": "+3 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41665,
+          "name": "In Amber Disgust",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:58035::::::::::0|h[Amberwood Great-Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "amberwood-great-axe",
+    "speed": 3.4,
+    "dps": 23.1
+  },
+  {
+    "itemId": 58128,
+    "name": "Axe of Raging Winds",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 6380,
+    "quality": "Uncommon",
+    "itemLevel": 29,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Axe of Raging Winds"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "47 - 72  Damage"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+8 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 41641,
+          "name": "Gone With The Wind",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:58128::::::::::0|h[Axe of Raging Winds]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "axe-of-raging-winds",
+    "speed": 3,
+    "dps": 19.8
+  },
+  {
+    "itemId": 58130,
+    "name": "Maneater Cleaver",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 12815,
+    "quality": "Uncommon",
+    "itemLevel": 36,
+    "requiredLevel": 31,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Maneater Cleaver"
+      },
+      {
+        "label": "Requires Level 31"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "73 - 99  Damage"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+9 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:58130::::::::::0|h[Maneater Cleaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "maneater-cleaver",
+    "speed": 3.5,
+    "dps": 24.6
+  },
+  {
+    "itemId": 58292,
+    "name": "Stormreaver Warhatchet",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 14485,
+    "quality": "Rare",
+    "itemLevel": 38,
+    "requiredLevel": 33,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Stormreaver Warhatchet"
+      },
+      {
+        "label": "Requires Level 33"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "75 - 113  Damage"
+      },
+      {
+        "label": "+14 Strength"
+      },
+      {
+        "label": "+12 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:58292::::::::::0|h[Stormreaver Warhatchet]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stormreaver-warhatchet",
+    "speed": 2.8,
+    "dps": 33.6
+  },
+  {
+    "itemId": 60616,
+    "name": "Shadowcaller Axe",
+    "icon": "inv_weapon_halbard_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 45906,
+    "quality": "Rare",
+    "itemLevel": 54,
+    "requiredLevel": 49,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Shadowcaller Axe"
+      },
+      {
+        "label": "Requires Level 49"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "108 - 162  Damage"
+      },
+      {
+        "label": "+10 Shadow"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 100 / 100"
+      }
+    ],
+    "itemLink": "|cff0070dd|Hitem:60616::::::::::0|h[Shadowcaller Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shadowcaller-axe",
+    "speed": 2.9,
+    "dps": 46.6
+  },
+  {
+    "itemId": 70011,
+    "name": "Baneful Edge",
+    "icon": "inv_axe_17",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 5842,
+    "quality": "Uncommon",
+    "itemLevel": 30,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Baneful Edge"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "52 - 79  Damage"
+      },
+      {
+        "label": "+5 StaminaDurability"
+      },
+      {
+        "label": "+30 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 70028,
+          "name": "Demon Fall Canyon",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:70011::::::::::0|h[Baneful Edge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "baneful-edge",
+    "speed": 3.2,
+    "dps": 20.5
+  },
+  {
+    "itemId": 81316,
+    "name": "Foe Chopper",
+    "icon": "inv_axe_21",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2706,
+    "quality": "Uncommon",
+    "itemLevel": 23,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Foe Chopper"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "39 - 59  Damage"
+      },
+      {
+        "label": "+3 Strength"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 55005,
+          "name": "Prototype Thievery",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:81316::::::::::0|h[Foe Chopper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "foe-chopper",
+    "speed": 3.2,
+    "dps": 15.3
+  },
+  {
+    "itemId": 756,
+    "name": "Tunnel Pick",
+    "icon": "inv_pick_02",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 4963,
+    "quality": "Uncommon",
+    "itemLevel": 29,
+    "requiredLevel": 24,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Tunnel Pick"
+      },
+      {
+        "label": "Requires Level 24"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "49 - 74  Damage"
+      },
+      {
+        "label": "+7 Stamina"
+      },
+      {
+        "label": "+7 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:756::::::::::0|h[Tunnel Pick]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tunnel-pick",
+    "speed": 3.1,
+    "dps": 19.8
+  },
+  {
+    "itemId": 926,
+    "name": "Battle Axe",
+    "icon": "inv_throwingaxe_05",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1956,
+    "quality": "Common",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Battle Axe"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "46 - 70  Damage"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:926::::::::::0|h[Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "battle-axe",
+    "speed": 3.8,
+    "dps": 15.3
+  },
+  {
+    "itemId": 1196,
+    "name": "Tabar",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 442,
+    "quality": "Common",
+    "itemLevel": 14,
+    "requiredLevel": 9,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Tabar"
+      },
+      {
+        "label": "Requires Level 9"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "21 - 32  Damage"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:1196::::::::::0|h[Tabar]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tabar",
+    "speed": 3.2,
+    "dps": 8.3
+  },
+  {
+    "itemId": 1386,
+    "name": "Thistlewood Axe",
+    "icon": "inv_axe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 32,
+    "quality": "Common",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Thistlewood Axe"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "7 - 11  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:1386::::::::::0|h[Thistlewood Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "thistlewood-axe",
+    "speed": 3.5,
+    "dps": 2.6
+  },
+  {
+    "itemId": 1417,
+    "name": "Beaten Battle Axe",
+    "icon": "inv_throwingaxe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 65,
+    "quality": "Poor",
+    "itemLevel": 8,
+    "requiredLevel": 3,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Beaten Battle Axe"
+      },
+      {
+        "label": "Requires Level 3"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "8 - 13  Damage"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1417::::::::::0|h[Beaten Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "beaten-battle-axe",
+    "speed": 3.1,
+    "dps": 3.4
+  },
+  {
+    "itemId": 1461,
+    "name": "Slayer's Battle Axe",
+    "icon": "inv_throwingaxe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 3387,
+    "quality": "Uncommon",
+    "itemLevel": 25,
+    "requiredLevel": 20,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Slayer's Battle Axe"
+      },
+      {
+        "label": "Requires Level 20"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "39 - 59  Damage"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 75 / 75"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1461::::::::::0|h[Slayer's Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "slayers-battle-axe",
+    "speed": 2.9,
+    "dps": 16.9
+  },
+  {
+    "itemId": 1512,
+    "name": "Crude Battle Axe",
+    "icon": "inv_throwingaxe_05",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 194,
+    "quality": "Poor",
+    "itemLevel": 12,
+    "requiredLevel": 7,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Crude Battle Axe"
+      },
+      {
+        "label": "Requires Level 7"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "12 - 18  Damage"
+      },
+      {
+        "label": "Durability 50 / 50"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1512::::::::::0|h[Crude Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "crude-battle-axe",
+    "speed": 3,
+    "dps": 5
+  },
+  {
+    "itemId": 1640,
+    "name": "Monstrous War Axe",
+    "icon": "inv_axe_18",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 15637,
+    "quality": "Uncommon",
+    "itemLevel": 42,
+    "requiredLevel": 37,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monstrous War Axe"
+      },
+      {
+        "label": "Requires Level 37"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "92 - 139  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:1640::::::::::0|h[Monstrous War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monstrous-war-axe",
+    "speed": 3.7,
+    "dps": 31.2
+  },
+  {
+    "itemId": 1893,
+    "name": "Miner's Revenge",
+    "icon": "inv_pick_03",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1775,
+    "quality": "Uncommon",
+    "itemLevel": 20,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Miner's Revenge"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "36 - 55  Damage"
+      },
+      {
+        "label": "+6 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 167,
+          "name": "Oh Brother. . .",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:1893::::::::::0|h[Miner's Revenge]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "miners-revenge",
+    "speed": 3.5,
+    "dps": 13
+  },
+  {
+    "itemId": 2025,
+    "name": "Bearded Axe",
+    "icon": "inv_axe_03",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1060,
+    "quality": "Common",
+    "itemLevel": 20,
+    "requiredLevel": 15,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bearded Axe"
+      },
+      {
+        "label": "Requires Level 15"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "31 - 47  Damage"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2025::::::::::0|h[Bearded Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bearded-axe",
+    "speed": 3.3,
+    "dps": 11.8
+  },
+  {
+    "itemId": 2175,
+    "name": "Shadowhide Battle Axe",
+    "icon": "inv_throwingaxe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2683,
+    "quality": "Uncommon",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Shadowhide Battle Axe"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "39 - 59  Damage"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+3 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:2175::::::::::0|h[Shadowhide Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shadowhide-battle-axe",
+    "speed": 3.2,
+    "dps": 15.3
+  },
+  {
+    "itemId": 2479,
+    "name": "Broad Axe",
+    "icon": "inv_axe_11",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 21,
+    "quality": "Common",
+    "itemLevel": 4,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Broad Axe"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "5 - 8  Damage"
+      },
+      {
+        "label": "Durability 30 / 30"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2479::::::::::0|h[Broad Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "broad-axe",
+    "speed": 3.1,
+    "dps": 2.1
+  },
+  {
+    "itemId": 2483,
+    "name": "Rough Broad Axe",
+    "icon": "inv_throwingaxe_02",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 14,
+    "quality": "Common",
+    "itemLevel": 3,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Rough Broad Axe"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "3 - 6  Damage"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2483::::::::::0|h[Rough Broad Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rough-broad-axe",
+    "speed": 2.8,
+    "dps": 1.6
+  },
+  {
+    "itemId": 2491,
+    "name": "Large Axe",
+    "icon": "inv_axe_10",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 96,
+    "quality": "Common",
+    "itemLevel": 8,
+    "requiredLevel": 3,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Large Axe"
+      },
+      {
+        "label": "Requires Level 3"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "9 - 15  Damage"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2491::::::::::0|h[Large Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "large-axe",
+    "speed": 2.8,
+    "dps": 4.3
+  },
+  {
+    "itemId": 2499,
+    "name": "Double-bladed Axe",
+    "icon": "inv_throwingaxe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 143,
+    "quality": "Common",
+    "itemLevel": 9,
+    "requiredLevel": 4,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Double-bladed Axe"
+      },
+      {
+        "label": "Requires Level 4"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "12 - 19  Damage"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2499::::::::::0|h[Double-bladed Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "double-bladed-axe",
+    "speed": 3.2,
+    "dps": 4.8
+  },
+  {
+    "itemId": 2523,
+    "name": "Bullova",
+    "icon": "inv_weapon_halberd_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 5657,
+    "quality": "Common",
+    "itemLevel": 35,
+    "requiredLevel": 30,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bullova"
+      },
+      {
+        "label": "Requires Level 30"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "68 - 102  Damage"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2523::::::::::0|h[Bullova]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bullova",
+    "speed": 3.8,
+    "dps": 22.4
+  },
+  {
+    "itemId": 2531,
+    "name": "Great Axe",
+    "icon": "inv_throwingaxe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 11233,
+    "quality": "Common",
+    "itemLevel": 44,
+    "requiredLevel": 39,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Great Axe"
+      },
+      {
+        "label": "Requires Level 39"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "90 - 135  Damage"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:2531::::::::::0|h[Great Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "great-axe",
+    "speed": 3.6,
+    "dps": 31.3
+  },
+  {
+    "itemId": 2823,
+    "name": "Mo'grosh Can Opener",
+    "icon": "inv_axe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1618,
+    "quality": "Uncommon",
+    "itemLevel": 19,
+    "requiredLevel": 14,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Mo'grosh Can Opener"
+      },
+      {
+        "label": "Requires Level 14"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "32 - 48  Damage"
+      },
+      {
+        "label": "+6 StrengthDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:2823::::::::::0|h[Mo'grosh Can Opener]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "mogrosh-can-opener",
+    "speed": 3.2,
+    "dps": 12.5
+  },
+  {
+    "itemId": 3189,
+    "name": "Wood Chopper",
+    "icon": "inv_axe_11",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 99,
+    "quality": "Common",
+    "itemLevel": 8,
+    "requiredLevel": 3,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Wood Chopper"
+      },
+      {
+        "label": "Requires Level 3"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "11 - 17  Damage"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3189::::::::::0|h[Wood Chopper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "wood-chopper",
+    "speed": 3.3,
+    "dps": 4.2
+  },
+  {
+    "itemId": 3325,
+    "name": "Vile Fin Battle Axe",
+    "icon": "inv_axe_21",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 140,
+    "quality": "Common",
+    "itemLevel": 9,
+    "requiredLevel": 4,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Vile Fin Battle Axe"
+      },
+      {
+        "label": "Requires Level 4"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "12 - 19  Damage"
+      },
+      {
+        "label": "Durability 40 / 40"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:3325::::::::::0|h[Vile Fin Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "vile-fin-battle-axe",
+    "speed": 3.1,
+    "dps": 5
+  },
+  {
+    "itemId": 3779,
+    "name": "Hefty War Axe",
+    "icon": "inv_axe_11",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2835,
+    "quality": "Poor",
+    "itemLevel": 32,
+    "requiredLevel": 27,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Hefty War Axe"
+      },
+      {
+        "label": "Requires Level 27"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "29 - 44  Damage"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:3779::::::::::0|h[Hefty War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "hefty-war-axe",
+    "speed": 2.8,
+    "dps": 13
+  },
+  {
+    "itemId": 3856,
+    "name": "Shadow Crescent Axe",
+    "icon": "inv_axe_17",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 14221,
+    "quality": "Uncommon",
+    "itemLevel": 40,
+    "requiredLevel": 35,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Shadow Crescent Axe"
+      },
+      {
+        "label": "Requires Level 35"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "58 - 87  Damage"
+      },
+      {
+        "label": "+11 Strength"
+      },
+      {
+        "label": "+10 StaminaDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:3856::::::::::0|h[Shadow Crescent Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shadow-crescent-axe",
+    "speed": 2.5,
+    "dps": 29
+  },
+  {
+    "itemId": 4562,
+    "name": "Severing Axe",
+    "icon": "inv_throwingaxe_02",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 298,
+    "quality": "Uncommon",
+    "itemLevel": 10,
+    "requiredLevel": 5,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Severing Axe"
+      },
+      {
+        "label": "Requires Level 5"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "18 - 27  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:4562::::::::::0|h[Severing Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "severing-axe",
+    "speed": 3.2,
+    "dps": 7
+  },
+  {
+    "itemId": 5318,
+    "name": "Zhovur Axe",
+    "icon": "inv_weapon_halberd_02",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1789,
+    "quality": "Uncommon",
+    "itemLevel": 20,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Zhovur Axe"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "32 - 49  Damage"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 876,
+          "name": "Serena Bloodfeather",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:5318::::::::::0|h[Zhovur Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "zhovur-axe",
+    "speed": 3.1,
+    "dps": 13.1
+  },
+  {
+    "itemId": 5626,
+    "name": "Skullchipper",
+    "icon": "inv_axe_23",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1717,
+    "quality": "Uncommon",
+    "itemLevel": 20,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Skullchipper"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "36 - 55  Damage"
+      },
+      {
+        "label": "+6 Strength"
+      },
+      {
+        "label": "+1 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 65 / 65"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 943,
+          "name": "The Absent Minded Prospector",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:5626::::::::::0|h[Skullchipper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "skullchipper",
+    "speed": 3.5,
+    "dps": 13
+  },
+  {
+    "itemId": 5749,
+    "name": "Scythe Axe",
+    "icon": "inv_axe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2664,
+    "quality": "Uncommon",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Scythe Axe"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "43 - 66  Damage"
+      },
+      {
+        "label": "+3 Stamina"
+      },
+      {
+        "label": "+6 AgilityDurability"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:5749::::::::::0|h[Scythe Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "scythe-axe",
+    "speed": 3.6,
+    "dps": 15.1
+  },
+  {
+    "itemId": 5777,
+    "name": "Brave's Axe",
+    "icon": "inv_throwingaxe_05",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 30,
+    "quality": "Common",
+    "itemLevel": 5,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Brave's Axe"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "7 - 11  Damage"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 35 / 35"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 757,
+          "name": "Rite of Strength",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:5777::::::::::0|h[Brave's Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "braves-axe",
+    "speed": 3.3,
+    "dps": 2.7
+  },
+  {
+    "itemId": 6094,
+    "name": "Piercing Axe",
+    "icon": "inv_throwingaxe_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1278,
+    "quality": "Uncommon",
+    "itemLevel": 18,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Piercing Axe"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "31 - 47  Damage"
+      },
+      {
+        "label": "+5 AgilityDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 214,
+          "name": "Red Silk Bandanas",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:6094::::::::::0|h[Piercing Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "piercing-axe",
+    "speed": 3.3,
+    "dps": 11.8
+  },
+  {
+    "itemId": 6206,
+    "name": "Rock Chipper",
+    "icon": "inv_pick_02",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 555,
+    "quality": "Common",
+    "itemLevel": 15,
+    "requiredLevel": 10,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Rock Chipper"
+      },
+      {
+        "label": "Requires Level 10"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "25 - 38  Damage"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:6206::::::::::0|h[Rock Chipper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "rock-chipper",
+    "speed": 3.5,
+    "dps": 9
+  },
+  {
+    "itemId": 6905,
+    "name": "Reef Axe",
+    "icon": "inv_weapon_halberd_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 4010,
+    "quality": "Uncommon",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Reef Axe"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "48 - 73  Damage"
+      },
+      {
+        "label": "+5 Stamina"
+      },
+      {
+        "label": "+7 SpiritDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:6905::::::::::0|h[Reef Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "reef-axe",
+    "speed": 3.3,
+    "dps": 18.3
+  },
+  {
+    "itemId": 7958,
+    "name": "Bronze Battle Axe",
+    "icon": "inv_axe_21",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2435,
+    "quality": "Common",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Bronze Battle Axe"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "39 - 59  Damage"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 2752,
+          "name": "On Iron Pauldrons",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cffffffff|Hitem:7958::::::::::0|h[Bronze Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "bronze-battle-axe",
+    "speed": 2.9,
+    "dps": 16.9
+  },
+  {
+    "itemId": 9521,
+    "name": "Skullsplitter",
+    "icon": "inv_axe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 14382,
+    "quality": "Uncommon",
+    "itemLevel": 41,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Skullsplitter"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "70 - 105  Damage"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+4 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 679,
+          "name": "Call to Arms",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:9521::::::::::0|h[Skullsplitter]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "skullsplitter",
+    "speed": 2.9,
+    "dps": 30.2
+  },
+  {
+    "itemId": 9679,
+    "name": "Tok'kar's Murloc Chopper",
+    "icon": "inv_weapon_halbard_01",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 17550,
+    "quality": "Uncommon",
+    "itemLevel": 43,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Tok'kar's Murloc Chopper"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "83 - 125  Damage"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+6 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 1427,
+          "name": "Threat From the Sea",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:9679::::::::::0|h[Tok'kar's Murloc Chopper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "tokkars-murloc-chopper",
+    "speed": 3.2,
+    "dps": 32.5
+  },
+  {
+    "itemId": 9685,
+    "name": "Will of the Mountain Giant",
+    "icon": "inv_axe_18",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 32277,
+    "quality": "Uncommon",
+    "itemLevel": 51,
+    "requiredLevel": 46,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Will of the Mountain Giant"
+      },
+      {
+        "label": "Requires Level 46"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "88 - 133  Damage"
+      },
+      {
+        "label": "+15 Strength"
+      },
+      {
+        "label": "+14 StaminaDurability"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:9685::::::::::0|h[Will of the Mountain Giant]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "will-of-the-mountain-giant",
+    "speed": 2.8,
+    "dps": 39.5
+  },
+  {
+    "itemId": 12282,
+    "name": "Worn Battleaxe",
+    "icon": "inv_axe_09",
+    "class": "Weapon",
+    "subclass": "axe",
+    "sellPrice": 8,
+    "quality": "Common",
+    "itemLevel": 2,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Worn Battleaxe"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "3 - 5  Damage"
+      },
+      {
+        "label": "Durability 25 / 25"
+      }
+    ],
+    "itemLink": "|cffffffff|Hitem:12282::::::::::0|h[Worn Battleaxe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "worn-battleaxe",
+    "speed": 2.9,
+    "dps": 1.4
+  },
+  {
+    "itemId": 12294,
+    "name": "Monster - Axe, 2H Horde Green War Axe",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H Horde Green War Axe"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:12294::::::::::0|h[Monster - Axe, 2H Horde Green War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-horde-green-war-axe",
+    "speed": 3.3,
+    "dps": 0.9
+  },
+  {
+    "itemId": 12461,
+    "name": "Monster - Axe, 2H Horde Brown Tombstone",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H Horde Brown Tombstone"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:12461::::::::::0|h[Monster - Axe, 2H Horde Brown Tombstone]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-horde-brown-tombstone",
+    "speed": 3.3,
+    "dps": 0.9
+  },
+  {
+    "itemId": 13706,
+    "name": "Monster - Axe, 2H Horde Black Tombstone",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H Horde Black Tombstone"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:13706::::::::::0|h[Monster - Axe, 2H Horde Black Tombstone]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-horde-black-tombstone",
+    "speed": 3.3,
+    "dps": 0.9
+  },
+  {
+    "itemId": 13819,
+    "name": "Balanced War Axe",
+    "icon": "inv_throwingaxe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 19880,
+    "quality": "Poor",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Balanced War Axe"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "55 - 83  Damage"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:13819::::::::::0|h[Balanced War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "balanced-war-axe",
+    "speed": 2.5,
+    "dps": 27.6
+  },
+  {
+    "itemId": 14643,
+    "name": "Monster - Axe, 2H Battle A03 Red",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H Battle A03 Red"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "3 - 5  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:14643::::::::::0|h[Monster - Axe, 2H Battle A03 Red]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-battle-a03-red",
+    "speed": 3.9,
+    "dps": 1
+  },
+  {
+    "itemId": 14870,
+    "name": "Monster - Axe, 2H Horde Massive Spiked",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H Horde Massive Spiked"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:14870::::::::::0|h[Monster - Axe, 2H Horde Massive Spiked]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-horde-massive-spiked",
+    "speed": 3.3,
+    "dps": 0.9
+  },
+  {
+    "itemId": 15268,
+    "name": "Twin-bladed Axe",
+    "icon": "inv_axe_09",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1024,
+    "quality": "Uncommon",
+    "itemLevel": 16,
+    "requiredLevel": 11,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Twin-bladed Axe"
+      },
+      {
+        "label": "Requires Level 11"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "23 - 35  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 55 / 55"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15268::::::::::0|h[Twin-bladed Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "twin-bladed-axe",
+    "speed": 2.7,
+    "dps": 10.7
+  },
+  {
+    "itemId": 15272,
+    "name": "Razor Axe",
+    "icon": "inv_axe_17",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 51740,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 54,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Razor Axe"
+      },
+      {
+        "label": "Requires Level 54"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "91 - 138  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:15272::::::::::0|h[Razor Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "razor-axe",
+    "speed": 2.5,
+    "dps": 45.8
+  },
+  {
+    "itemId": 17383,
+    "name": "Monster - Axe, 2H Horde Black War Axe",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H Horde Black War Axe"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:17383::::::::::0|h[Monster - Axe, 2H Horde Black War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-horde-black-war-axe",
+    "speed": 3.3,
+    "dps": 0.9
+  },
+  {
+    "itemId": 17463,
+    "name": "Monster - Axe, 2H Horde Blue War Axe",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H Horde Blue War Axe"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:17463::::::::::0|h[Monster - Axe, 2H Horde Blue War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-horde-blue-war-axe",
+    "speed": 3.3,
+    "dps": 0.9
+  },
+  {
+    "itemId": 21580,
+    "name": "Monster - 2H Axe, Horde PvP",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 3,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - 2H Axe, Horde PvP"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:21580::::::::::0|h[Monster - 2H Axe, Horde PvP]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-2h-axe-horde-pvp",
+    "speed": 3.3,
+    "dps": 0.9
+  },
+  {
+    "itemId": 22199,
+    "name": "Monster - Axe, 2H Arcanite Reaper",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 3,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H Arcanite Reaper"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:22199::::::::::0|h[Monster - Axe, 2H Arcanite Reaper]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-arcanite-reaper",
+    "speed": 3.3,
+    "dps": 0.9
+  },
+  {
+    "itemId": 41048,
+    "name": "Whirring Shredder Saw",
+    "icon": "inv_axe_11",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 298,
+    "quality": "Uncommon",
+    "itemLevel": 10,
+    "requiredLevel": 5,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Whirring Shredder Saw"
+      },
+      {
+        "label": "Requires Level 5"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "15 - 28  Damage"
+      },
+      {
+        "label": "Binds when equipped"
+      },
+      {
+        "label": "Durability 45 / 45"
+      }
+    ],
+    "itemLink": "|cff1eff00|Hitem:41048::::::::::0|h[Whirring Shredder Saw]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "whirring-shredder-saw",
+    "speed": 3,
+    "dps": 7.2
+  },
+  {
+    "itemId": 51892,
+    "name": "The Reaver",
+    "icon": "inv_axe_21",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 52104,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "The Reaver"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "140 - 193  Damage"
+      },
+      {
+        "label": "+40 Attack"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40196,
+          "name": "Lykourgos",
+          "faction": "Both"
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:51892::::::::::0|h[The Reaver]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "the-reaver",
+    "speed": 3.6,
+    "dps": 46.3
+  },
+  {
+    "itemId": 60701,
+    "name": "Scrapforged Greataxe",
+    "icon": "inv_axe_18",
+    "class": "Weapon",
+    "subclass": "axe",
+    "sellPrice": 51878,
+    "quality": "Uncommon",
+    "itemLevel": 59,
+    "requiredLevel": 47,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Scrapforged Greataxe"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "114 - 179  Damage"
+      },
+      {
+        "label": "+20 Strength"
+      },
+      {
+        "label": "+10 Stamina"
+      },
+      {
+        "label": "+5 Fire"
+      },
+      {
+        "label": "Binds when picked up"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "source": {
+      "category": "Quest",
+      "quests": [
+        {
+          "questId": 40491,
+          "name": "Scrap Forager",
+          "faction": "Horde",
+          "requiredLevel": 47
+        }
+      ]
+    },
+    "itemLink": "|cff1eff00|Hitem:60701::::::::::0|h[Scrapforged Greataxe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "scrapforged-greataxe",
+    "speed": 3.2,
+    "dps": 45.8
+  },
+  {
+    "itemId": 1812,
+    "name": "Short-handled Battle Axe",
+    "icon": "inv_throwingaxe_05",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 452,
+    "quality": "Poor",
+    "itemLevel": 17,
+    "requiredLevel": 12,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Short-handled Battle Axe"
+      },
+      {
+        "label": "Requires Level 12"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "16 - 25  Damage"
+      },
+      {
+        "label": "Durability 60 / 60"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1812::::::::::0|h[Short-handled Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "short-handled-battle-axe",
+    "speed": 3.1,
+    "dps": 6.6
+  },
+  {
+    "itemId": 1824,
+    "name": "Shiny War Axe",
+    "icon": "inv_axe_18",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1104,
+    "quality": "Poor",
+    "itemLevel": 23,
+    "requiredLevel": 18,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Shiny War Axe"
+      },
+      {
+        "label": "Requires Level 18"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "17 - 26  Damage"
+      },
+      {
+        "label": "Durability 70 / 70"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1824::::::::::0|h[Shiny War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "shiny-war-axe",
+    "speed": 2.4,
+    "dps": 9
+  },
+  {
+    "itemId": 1828,
+    "name": "Stone War Axe",
+    "icon": "inv_axe_20",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 1609,
+    "quality": "Poor",
+    "itemLevel": 27,
+    "requiredLevel": 22,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Stone War Axe"
+      },
+      {
+        "label": "Requires Level 22"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "22 - 34  Damage"
+      },
+      {
+        "label": "Durability 80 / 80"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:1828::::::::::0|h[Stone War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "stone-war-axe",
+    "speed": 2.6,
+    "dps": 10.8
+  },
+  {
+    "itemId": 4020,
+    "name": "Splintering Battle Axe",
+    "icon": "inv_throwingaxe_06",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 11189,
+    "quality": "Poor",
+    "itemLevel": 49,
+    "requiredLevel": 44,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Splintering Battle Axe"
+      },
+      {
+        "label": "Requires Level 44"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "60 - 91  Damage"
+      },
+      {
+        "label": "Durability 85 / 85"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:4020::::::::::0|h[Splintering Battle Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "splintering-battle-axe",
+    "speed": 3.3,
+    "dps": 22.9
+  },
+  {
+    "itemId": 5287,
+    "name": "Monster - Axe, 2H Large Double Bladed",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 8,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H Large Double Bladed"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:5287::::::::::0|h[Monster - Axe, 2H Large Double Bladed]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-large-double-bladed",
+    "speed": 3.3,
+    "dps": 0.9
+  },
+  {
+    "itemId": 5288,
+    "name": "Monster - Axe, 2H Rev. Bearded Single Bladed",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 7,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H Rev. Bearded Single Bladed"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 3  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:5288::::::::::0|h[Monster - Axe, 2H Rev. Bearded Single Bladed]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-rev-bearded-single-bladed",
+    "speed": 2.8,
+    "dps": 0.9
+  },
+  {
+    "itemId": 5289,
+    "name": "Monster - Axe, 2H Single Bladed /w Pick",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 7,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H Single Bladed /w Pick"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "3 - 5  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:5289::::::::::0|h[Monster - Axe, 2H Single Bladed /w Pick]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-single-bladed-w-pick",
+    "speed": 3.9,
+    "dps": 1
+  },
+  {
+    "itemId": 7612,
+    "name": "Monster - Axe, 2H Special NPC (Herod)",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 7,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H Special NPC (Herod)"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:7612::::::::::0|h[Monster - Axe, 2H Special NPC (Herod)]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-special-npc-herod",
+    "speed": 3.3,
+    "dps": 0.9
+  },
+  {
+    "itemId": 11317,
+    "name": "Monster - Axe, 2H War C01 Blue Limited",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H War C01 Blue Limited"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:11317::::::::::0|h[Monster - Axe, 2H War C01 Blue Limited]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-war-c01-blue-limited",
+    "speed": 3.3,
+    "dps": 0.9
+  },
+  {
+    "itemId": 11342,
+    "name": "Monster - Axe, 2H Pendulum of Doom",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H Pendulum of Doom"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:11342::::::::::0|h[Monster - Axe, 2H Pendulum of Doom]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-pendulum-of-doom",
+    "speed": 3.3,
+    "dps": 0.9
+  },
+  {
+    "itemId": 12285,
+    "name": "Monster - Axe, 2H Rev. Bearded Single Bladed - Red",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H Rev. Bearded Single Bladed - Red"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 3  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:12285::::::::::0|h[Monster - Axe, 2H Rev. Bearded Single Bladed - Red]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-rev-bearded-single-bladed-red",
+    "speed": 2.8,
+    "dps": 0.9
+  },
+  {
+    "itemId": 12754,
+    "name": "Monster - Axe, 2H War Green - Mulgore Protector",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H War Green - Mulgore Protector"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 3  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:12754::::::::::0|h[Monster - Axe, 2H War Green - Mulgore Protector]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-war-green-mulgore-protector",
+    "speed": 2.8,
+    "dps": 0.9
+  },
+  {
+    "itemId": 12951,
+    "name": "Monster - Axe, 2H War - Red",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H War - Red"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "3 - 5  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:12951::::::::::0|h[Monster - Axe, 2H War - Red]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-war-red",
+    "speed": 3.9,
+    "dps": 1
+  },
+  {
+    "itemId": 14475,
+    "name": "Monster - Axe, 2H War A03 White",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H War A03 White"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 3  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:14475::::::::::0|h[Monster - Axe, 2H War A03 White]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-war-a03-white",
+    "speed": 2.8,
+    "dps": 0.9
+  },
+  {
+    "itemId": 18002,
+    "name": "Monster - Axe, 2H Horde Massive Spiked Blue",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H Horde Massive Spiked Blue"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:18002::::::::::0|h[Monster - Axe, 2H Horde Massive Spiked Blue]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-horde-massive-spiked-blue",
+    "speed": 3.3,
+    "dps": 0.9
+  },
+  {
+    "itemId": 18419,
+    "name": "Monster - Axe, 2H Horde Red War Axe",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H Horde Red War Axe"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:18419::::::::::0|h[Monster - Axe, 2H Horde Red War Axe]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-horde-red-war-axe",
+    "speed": 3.3,
+    "dps": 0.9
+  },
+  {
+    "itemId": 21192,
+    "name": "Monster - Axe, 2H UBER Blackwing",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H UBER Blackwing"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:21192::::::::::0|h[Monster - Axe, 2H UBER Blackwing]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-uber-blackwing",
+    "speed": 3.3,
+    "dps": 0.9
+  },
+  {
+    "itemId": 21286,
+    "name": "Monster - Axe, 2H Large Double Bladed, Gold",
+    "icon": "inv_axe_04",
+    "class": "Weapon",
+    "subclass": "Axe",
+    "sellPrice": 2,
+    "quality": "Poor",
+    "itemLevel": 1,
+    "requiredLevel": 0,
+    "slot": "Two-hand",
+    "tooltip": [
+      {
+        "label": "Monster - Axe, 2H Large Double Bladed, Gold"
+      },
+      {
+        "label": "Two-hand"
+      },
+      {
+        "label": "Axe",
+        "format": "alignRight"
+      },
+      {
+        "label": "2 - 4  Damage"
+      },
+      {
+        "label": "Durability 20 / 20"
+      }
+    ],
+    "itemLink": "|cff9d9d9d|Hitem:21286::::::::::0|h[Monster - Axe, 2H Large Double Bladed, Gold]|h|r",
+    "contentPhase": 1,
+    "uniqueName": "monster-axe-2h-large-double-bladed-gold",
+    "speed": 3.3,
+    "dps": 0.9
+  }
+]
