@@ -36,7 +36,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:2942::::::::::0|h[Iron Knuckles]|h|r",
     "contentPhase": 1,
-    "uniqueName": "iron-knuckles"
+    "uniqueName": "iron-knuckles",
+    "speed": 1.7,
+    "dps": 16.5
   },
   {
     "itemId": 7683,
@@ -78,7 +80,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:7683::::::::::0|h[Bloody Brass Knuckles]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bloody-brass-knuckles"
+    "uniqueName": "bloody-brass-knuckles",
+    "speed": 1.6,
+    "dps": 19.7
   },
   {
     "itemId": 11603,
@@ -117,7 +121,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:11603::::::::::0|h[Vilerend Slicer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "vilerend-slicer"
+    "uniqueName": "vilerend-slicer",
+    "speed": 1.4,
+    "dps": 33.9
   },
   {
     "itemId": 11744,
@@ -156,7 +162,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:11744::::::::::0|h[Bloodfist]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bloodfist"
+    "uniqueName": "bloodfist",
+    "speed": 1.5,
+    "dps": 36.7
   },
   {
     "itemId": 12795,
@@ -195,7 +203,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12795::::::::::0|h[Blood Talon]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blood-talon"
+    "uniqueName": "blood-talon",
+    "speed": 1.3,
+    "dps": 39.2
   },
   {
     "itemId": 13198,
@@ -234,7 +244,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13198::::::::::0|h[Hurd Smasher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hurd-smasher"
+    "uniqueName": "hurd-smasher",
+    "speed": 1.8,
+    "dps": 39.4
   },
   {
     "itemId": 18203,
@@ -276,7 +288,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18203::::::::::0|h[Eskhandar's Right Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "eskhandars-right-claw"
+    "uniqueName": "eskhandars-right-claw",
+    "speed": 1.5,
+    "dps": 48
   },
   {
     "itemId": 18843,
@@ -321,7 +335,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18843::::::::::0|h[Grand Marshal's Right Hand Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "grand-marshals-right-hand-blade"
+    "uniqueName": "grand-marshals-right-hand-blade",
+    "speed": 2.9,
+    "dps": 65.5
   },
   {
     "itemId": 18844,
@@ -366,7 +382,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18844::::::::::0|h[High Warlord's Right Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "high-warlords-right-claw"
+    "uniqueName": "high-warlords-right-claw",
+    "speed": 2.9,
+    "dps": 65.5
   },
   {
     "itemId": 19365,
@@ -411,7 +429,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19365::::::::::0|h[Claw of the Black Drake]|h|r",
     "contentPhase": 1,
-    "uniqueName": "claw-of-the-black-drake"
+    "uniqueName": "claw-of-the-black-drake",
+    "speed": 2.6,
+    "dps": 56.3
   },
   {
     "itemId": 19896,
@@ -453,7 +473,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19896::::::::::0|h[Thekal's Grasp]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thekals-grasp"
+    "uniqueName": "thekals-grasp",
+    "speed": 2.2,
+    "dps": 47
   },
   {
     "itemId": 20003,
@@ -492,7 +514,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:20003::::::::::0|h[Devilsaur Claws]|h|r",
     "contentPhase": 1,
-    "uniqueName": "devilsaur-claws"
+    "uniqueName": "devilsaur-claws",
+    "speed": 2,
+    "dps": 34.5
   },
   {
     "itemId": 22317,
@@ -537,7 +561,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:22317::::::::::0|h[Lefty's Brass Knuckle]|h|r",
     "contentPhase": 1,
-    "uniqueName": "leftys-brass-knuckle"
+    "uniqueName": "leftys-brass-knuckle",
+    "speed": 1.5,
+    "dps": 40
   },
   {
     "itemId": 51797,
@@ -588,7 +614,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:51797::::::::::0|h[Claw of the Wildshifter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "claw-of-the-wildshifter"
+    "uniqueName": "claw-of-the-wildshifter",
+    "speed": 1.4,
+    "dps": 42.1
   },
   {
     "itemId": 55120,
@@ -633,7 +661,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:55120::::::::::0|h[Al'Kazeth, Claw of Ruptured Elements]|h|r",
     "contentPhase": 1,
-    "uniqueName": "alkazeth-claw-of-ruptured-elements"
+    "uniqueName": "alkazeth-claw-of-ruptured-elements",
+    "speed": 2.2,
+    "dps": 40.7
   },
   {
     "itemId": 55471,
@@ -678,7 +708,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:55471::::::::::0|h[Wystan's Steel Fist]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wystans-steel-fist"
+    "uniqueName": "wystans-steel-fist",
+    "speed": 2,
+    "dps": 26.5
   },
   {
     "itemId": 55494,
@@ -723,7 +755,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:55494::::::::::0|h[The Abyssal Pincer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-abyssal-pincer"
+    "uniqueName": "the-abyssal-pincer",
+    "speed": 2.6,
+    "dps": 48.1
   },
   {
     "itemId": 58279,
@@ -773,7 +807,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:58279::::::::::0|h[Antiquated Slasher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "antiquated-slasher"
+    "uniqueName": "antiquated-slasher",
+    "speed": 2.3,
+    "dps": 19.6
   },
   {
     "itemId": 60003,
@@ -818,7 +854,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:60003::::::::::0|h[Remnants of an Old God]|h|r",
     "contentPhase": 1,
-    "uniqueName": "remnants-of-an-old-god"
+    "uniqueName": "remnants-of-an-old-god",
+    "speed": 2.7,
+    "dps": 66.5
   },
   {
     "itemId": 60410,
@@ -869,7 +907,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:60410::::::::::0|h[Willbreaker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "willbreaker"
+    "uniqueName": "willbreaker",
+    "speed": 2.2,
+    "dps": 43
   },
   {
     "itemId": 61042,
@@ -908,7 +948,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:61042::::::::::0|h[Stormfist]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stormfist"
+    "uniqueName": "stormfist",
+    "speed": 1.3,
+    "dps": 43.5
   },
   {
     "itemId": 61541,
@@ -950,7 +992,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:61541::::::::::0|h[Letashaz's Right Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "letashazs-right-claw"
+    "uniqueName": "letashazs-right-claw",
+    "speed": 2.8,
+    "dps": 41.3
   },
   {
     "itemId": 61740,
@@ -1008,7 +1052,9 @@
     },
     "itemLink": "|cffa335ee|Hitem:61740::::::::::0|h[Claw of Senthos]|h|r",
     "contentPhase": 1,
-    "uniqueName": "claw-of-senthos"
+    "uniqueName": "claw-of-senthos",
+    "speed": 2.4,
+    "dps": 56
   },
   {
     "itemId": 65012,
@@ -1053,7 +1099,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:65012::::::::::0|h[Bronze Bruiser]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bronze-bruiser"
+    "uniqueName": "bronze-bruiser",
+    "speed": 1.7,
+    "dps": 12.9
   },
   {
     "itemId": 80716,
@@ -1092,7 +1140,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80716::::::::::0|h[Claw of the Worgen]|h|r",
     "contentPhase": 1,
-    "uniqueName": "claw-of-the-worgen"
+    "uniqueName": "claw-of-the-worgen",
+    "speed": 1.7,
+    "dps": 17.6
   },
   {
     "itemId": 80740,
@@ -1131,7 +1181,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80740::::::::::0|h[Pummeler Gauntlet]|h|r",
     "contentPhase": 1,
-    "uniqueName": "pummeler-gauntlet"
+    "uniqueName": "pummeler-gauntlet",
+    "speed": 1.8,
+    "dps": 21.1
   },
   {
     "itemId": 80750,
@@ -1170,7 +1222,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80750::::::::::0|h[Thornfist]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thornfist"
+    "uniqueName": "thornfist",
+    "speed": 1.8,
+    "dps": 39.1
   },
   {
     "itemId": 80763,
@@ -1218,7 +1272,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80763::::::::::0|h[Willbreaker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "willbreaker"
+    "uniqueName": "willbreaker",
+    "speed": 1.8,
+    "dps": 41.7
   },
   {
     "itemId": 80794,
@@ -1257,7 +1313,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80794::::::::::0|h[Ironfist]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ironfist"
+    "uniqueName": "ironfist",
+    "speed": 1.7,
+    "dps": 22.1
   },
   {
     "itemId": 80807,
@@ -1296,7 +1354,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80807::::::::::0|h[Serpent's Bite]|h|r",
     "contentPhase": 1,
-    "uniqueName": "serpents-bite"
+    "uniqueName": "serpents-bite",
+    "speed": 1.3,
+    "dps": 15.4
   },
   {
     "itemId": 80809,
@@ -1338,7 +1398,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80809::::::::::0|h[Bloodhowler]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bloodhowler"
+    "uniqueName": "bloodhowler",
+    "speed": 1.9,
+    "dps": 22.4
   },
   {
     "itemId": 81003,
@@ -1377,7 +1439,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:81003::::::::::0|h[Ancient Hakkari Flayer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ancient-hakkari-flayer"
+    "uniqueName": "ancient-hakkari-flayer",
+    "speed": 1.8,
+    "dps": 44.7
   },
   {
     "itemId": 81372,
@@ -1419,7 +1483,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:81372::::::::::0|h[The Black Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-black-claw"
+    "uniqueName": "the-black-claw",
+    "speed": 1.9,
+    "dps": 38.4
   },
   {
     "itemId": 83445,
@@ -1464,7 +1530,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83445::::::::::0|h[Marrowclaw Knuckles]|h|r",
     "contentPhase": 1,
-    "uniqueName": "marrowclaw-knuckles"
+    "uniqueName": "marrowclaw-knuckles",
+    "speed": 2.6,
+    "dps": 42.5
   },
   {
     "itemId": 84030,
@@ -1503,7 +1571,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:84030::::::::::0|h[Gauntlet of a Thousand Cuts]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gauntlet-of-a-thousand-cuts"
+    "uniqueName": "gauntlet-of-a-thousand-cuts",
+    "speed": 1.5,
+    "dps": 71.7
   },
   {
     "itemId": 3494,
@@ -1536,7 +1606,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:3494::::::::::0|h[Monster - Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-claw"
+    "uniqueName": "monster-claw",
+    "speed": 1.5,
+    "dps": 0.7
   },
   {
     "itemId": 5600,
@@ -1569,7 +1641,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5600::::::::::0|h[Monster - Claw - Bear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-claw-bear"
+    "uniqueName": "monster-claw-bear",
+    "speed": 1.5,
+    "dps": 0.7
   },
   {
     "itemId": 11314,
@@ -1602,7 +1676,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:11314::::::::::0|h[Monster - Claw Insect]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-claw-insect"
+    "uniqueName": "monster-claw-insect",
+    "speed": 1.5,
+    "dps": 0.7
   },
   {
     "itemId": 11743,
@@ -1644,7 +1720,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:11743::::::::::0|h[Rockfist]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rockfist"
+    "uniqueName": "rockfist",
+    "speed": 1.4,
+    "dps": 32.9
   },
   {
     "itemId": 15903,
@@ -1680,7 +1758,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:15903::::::::::0|h[Right-Handed Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "right-handed-claw"
+    "uniqueName": "right-handed-claw",
+    "speed": 1.5,
+    "dps": 11.7
   },
   {
     "itemId": 15904,
@@ -1716,7 +1796,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:15904::::::::::0|h[Right-Handed Blades]|h|r",
     "contentPhase": 1,
-    "uniqueName": "right-handed-blades"
+    "uniqueName": "right-handed-blades",
+    "speed": 1.5,
+    "dps": 17.3
   },
   {
     "itemId": 15905,
@@ -1752,7 +1834,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:15905::::::::::0|h[Right-Handed Brass Knuckles]|h|r",
     "contentPhase": 1,
-    "uniqueName": "right-handed-brass-knuckles"
+    "uniqueName": "right-handed-brass-knuckles",
+    "speed": 1.4,
+    "dps": 6.8
   },
   {
     "itemId": 18462,
@@ -1797,7 +1881,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:18462::::::::::0|h[Jagged Bone Fist]|h|r",
     "contentPhase": 1,
-    "uniqueName": "jagged-bone-fist"
+    "uniqueName": "jagged-bone-fist",
+    "speed": 1.8,
+    "dps": 35.8
   },
   {
     "itemId": 22210,
@@ -1830,7 +1916,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:22210::::::::::0|h[Monster - Knuckle, B01 Red]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-knuckle-b01-red"
+    "uniqueName": "monster-knuckle-b01-red",
+    "speed": 1.5,
+    "dps": 0.7
   },
   {
     "itemId": 41040,
@@ -1872,7 +1960,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:41040::::::::::0|h[Moonclaw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "moonclaw"
+    "uniqueName": "moonclaw",
+    "speed": 1.6,
+    "dps": 5.3
   },
   {
     "itemId": 58129,
@@ -1921,7 +2011,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:58129::::::::::0|h[Claw of Tempered Fire]|h|r",
     "contentPhase": 1,
-    "uniqueName": "claw-of-tempered-fire"
+    "uniqueName": "claw-of-tempered-fire",
+    "speed": 2,
+    "dps": 15.3
   },
   {
     "itemId": 58161,
@@ -1963,7 +2055,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:58161::::::::::0|h[Grim Claws]|h|r",
     "contentPhase": 1,
-    "uniqueName": "grim-claws"
+    "uniqueName": "grim-claws",
+    "speed": 2.7,
+    "dps": 19.6
   },
   {
     "itemId": 61688,
@@ -1999,7 +2093,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:61688::::::::::0|h[Worgen Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "worgen-claw"
+    "uniqueName": "worgen-claw",
+    "speed": 1.5,
+    "dps": 15.3
   },
   {
     "itemId": 65010,
@@ -2038,7 +2134,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:65010::::::::::0|h[Copper Knuckles]|h|r",
     "contentPhase": 1,
-    "uniqueName": "copper-knuckles"
+    "uniqueName": "copper-knuckles",
+    "speed": 1.8,
+    "dps": 5
   },
   {
     "itemId": 65011,
@@ -2083,7 +2181,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:65011::::::::::0|h[Sharpened Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sharpened-claw"
+    "uniqueName": "sharpened-claw",
+    "speed": 1.8,
+    "dps": 8.9
   },
   {
     "itemId": 80834,
@@ -2128,7 +2228,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:80834::::::::::0|h[Satyr Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "satyr-claw"
+    "uniqueName": "satyr-claw",
+    "speed": 1.2,
+    "dps": 17.1
   },
   {
     "itemId": 83205,
@@ -2173,6 +2275,8 @@
     ],
     "itemLink": "|cff1eff00|Hitem:83205::::::::::0|h[Thornwood Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thornwood-claw"
+    "uniqueName": "thornwood-claw",
+    "speed": 1.6,
+    "dps": 18.8
   }
 ]

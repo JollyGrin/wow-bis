@@ -36,7 +36,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:809::::::::::0|h[Bloodrazor]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bloodrazor"
+    "uniqueName": "bloodrazor",
+    "speed": 2.7,
+    "dps": 37
   },
   {
     "itemId": 869,
@@ -75,7 +77,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:869::::::::::0|h[Dazzling Longsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dazzling-longsword"
+    "uniqueName": "dazzling-longsword",
+    "speed": 1.7,
+    "dps": 31.5
   },
   {
     "itemId": 1728,
@@ -114,7 +118,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:1728::::::::::0|h[Teebu's Blazing Longsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "teebus-blazing-longsword"
+    "uniqueName": "teebus-blazing-longsword",
+    "speed": 2.9,
+    "dps": 47.2
   },
   {
     "itemId": 2244,
@@ -159,7 +165,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:2244::::::::::0|h[Krol Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "krol-blade"
+    "uniqueName": "krol-blade",
+    "speed": 2.8,
+    "dps": 40.9
   },
   {
     "itemId": 9392,
@@ -204,7 +212,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9392::::::::::0|h[Annealed Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "annealed-blade"
+    "uniqueName": "annealed-blade",
+    "speed": 1.8,
+    "dps": 27.2
   },
   {
     "itemId": 10847,
@@ -243,7 +253,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:10847::::::::::0|h[Dragon's Call]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dragons-call"
+    "uniqueName": "dragons-call",
+    "speed": 2.5,
+    "dps": 41.4
   },
   {
     "itemId": 12584,
@@ -288,7 +300,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:12584::::::::::0|h[Grand Marshal's Longsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "grand-marshals-longsword"
+    "uniqueName": "grand-marshals-longsword",
+    "speed": 2.9,
+    "dps": 65.5
   },
   {
     "itemId": 16345,
@@ -333,7 +347,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:16345::::::::::0|h[High Warlord's Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "high-warlords-blade"
+    "uniqueName": "high-warlords-blade",
+    "speed": 2.9,
+    "dps": 65.5
   },
   {
     "itemId": 17015,
@@ -378,7 +394,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:17015::::::::::0|h[Dark Iron Reaver]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dark-iron-reaver"
+    "uniqueName": "dark-iron-reaver",
+    "speed": 2.4,
+    "dps": 47.1
   },
   {
     "itemId": 17075,
@@ -417,7 +435,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:17075::::::::::0|h[Vis'kag the Bloodletter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "viskag-the-bloodletter"
+    "uniqueName": "viskag-the-bloodletter",
+    "speed": 2.6,
+    "dps": 55.2
   },
   {
     "itemId": 17103,
@@ -462,7 +482,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:17103::::::::::0|h[Azuresong Mageblade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "azuresong-mageblade"
+    "uniqueName": "azuresong-mageblade",
+    "speed": 2.4,
+    "dps": 42.5
   },
   {
     "itemId": 18348,
@@ -511,7 +533,9 @@
     },
     "itemLink": "|cffa335ee|Hitem:18348::::::::::0|h[Quel'Serrar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "quelserrar"
+    "uniqueName": "quelserrar",
+    "speed": 2,
+    "dps": 52.5
   },
   {
     "itemId": 18582,
@@ -562,7 +586,9 @@
     ],
     "itemLink": "|cffe6cc80|Hitem:18582::::::::::0|h[The Twin Blades of Azzinoth]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-twin-blades-of-azzinoth"
+    "uniqueName": "the-twin-blades-of-azzinoth",
+    "speed": 1.5,
+    "dps": 156.9
   },
   {
     "itemId": 18583,
@@ -613,7 +639,9 @@
     ],
     "itemLink": "|cffe6cc80|Hitem:18583::::::::::0|h[Warglaive of Azzinoth (Right)]|h|r",
     "contentPhase": 1,
-    "uniqueName": "warglaive-of-azzinoth-right"
+    "uniqueName": "warglaive-of-azzinoth-right",
+    "speed": 1,
+    "dps": 135
   },
   {
     "itemId": 18584,
@@ -664,7 +692,9 @@
     ],
     "itemLink": "|cffe6cc80|Hitem:18584::::::::::0|h[Warglaive of Azzinoth (Left)]|h|r",
     "contentPhase": 1,
-    "uniqueName": "warglaive-of-azzinoth-left"
+    "uniqueName": "warglaive-of-azzinoth-left",
+    "speed": 1,
+    "dps": 135
   },
   {
     "itemId": 18832,
@@ -709,7 +739,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18832::::::::::0|h[Brutality Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "brutality-blade"
+    "uniqueName": "brutality-blade",
+    "speed": 2.5,
+    "dps": 51.6
   },
   {
     "itemId": 19019,
@@ -767,7 +799,9 @@
     },
     "itemLink": "|cffff8000|Hitem:19019::::::::::0|h[Thunderfury, Blessed Blade of the Windseeker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thunderfury-blessed-blade-of-the-windseeker"
+    "uniqueName": "thunderfury-blessed-blade-of-the-windseeker",
+    "speed": 1.9,
+    "dps": 53.9
   },
   {
     "itemId": 19168,
@@ -809,7 +843,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19168::::::::::0|h[Blackguard]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blackguard"
+    "uniqueName": "blackguard",
+    "speed": 1.8,
+    "dps": 51.7
   },
   {
     "itemId": 19351,
@@ -848,7 +884,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19351::::::::::0|h[Maladath, Runed Blade of the Black Flight]|h|r",
     "contentPhase": 1,
-    "uniqueName": "maladath-runed-blade-of-the-black-flight"
+    "uniqueName": "maladath-runed-blade-of-the-black-flight",
+    "speed": 2.2,
+    "dps": 56.4
   },
   {
     "itemId": 19352,
@@ -896,7 +934,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19352::::::::::0|h[Chromatically Tempered Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "chromatically-tempered-sword"
+    "uniqueName": "chromatically-tempered-sword",
+    "speed": 2.6,
+    "dps": 58.5
   },
   {
     "itemId": 19864,
@@ -941,7 +981,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19864::::::::::0|h[Bloodcaller]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bloodcaller"
+    "uniqueName": "bloodcaller",
+    "speed": 2,
+    "dps": 41.6
   },
   {
     "itemId": 19865,
@@ -983,7 +1025,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19865::::::::::0|h[Warblade of the Hakkari]|h|r",
     "contentPhase": 1,
-    "uniqueName": "warblade-of-the-hakkari"
+    "uniqueName": "warblade-of-the-hakkari",
+    "speed": 1.7,
+    "dps": 49.7
   },
   {
     "itemId": 19866,
@@ -1025,7 +1069,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19866::::::::::0|h[Warblade of the Hakkari]|h|r",
     "contentPhase": 1,
-    "uniqueName": "warblade-of-the-hakkari"
+    "uniqueName": "warblade-of-the-hakkari",
+    "speed": 1.7,
+    "dps": 47.9
   },
   {
     "itemId": 19867,
@@ -1070,7 +1116,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19867::::::::::0|h[Bloodlord's Defender]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bloodlords-defender"
+    "uniqueName": "bloodlords-defender",
+    "speed": 1.9,
+    "dps": 48.2
   },
   {
     "itemId": 20577,
@@ -1118,7 +1166,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:20577::::::::::0|h[Nightmare Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "nightmare-blade"
+    "uniqueName": "nightmare-blade",
+    "speed": 2.7,
+    "dps": 57.4
   },
   {
     "itemId": 20698,
@@ -1160,7 +1210,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:20698::::::::::0|h[Elemental Attuned Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "elemental-attuned-blade"
+    "uniqueName": "elemental-attuned-blade",
+    "speed": 2.1,
+    "dps": 41.7
   },
   {
     "itemId": 21395,
@@ -1212,7 +1264,9 @@
     },
     "itemLink": "|cffa335ee|Hitem:21395::::::::::0|h[Blade of Eternal Justice]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blade-of-eternal-justice"
+    "uniqueName": "blade-of-eternal-justice",
+    "speed": 1.9,
+    "dps": 55.3
   },
   {
     "itemId": 21413,
@@ -1264,7 +1318,9 @@
     },
     "itemLink": "|cffa335ee|Hitem:21413::::::::::0|h[Blade of Vaulted Secrets]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blade-of-vaulted-secrets"
+    "uniqueName": "blade-of-vaulted-secrets",
+    "speed": 2.3,
+    "dps": 41.5
   },
   {
     "itemId": 21520,
@@ -1319,7 +1375,9 @@
     },
     "itemLink": "|cffa335ee|Hitem:21520::::::::::0|h[Ravencrest's Legacy]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ravencrests-legacy"
+    "uniqueName": "ravencrests-legacy",
+    "speed": 2.1,
+    "dps": 57.4
   },
   {
     "itemId": 21521,
@@ -1374,7 +1432,9 @@
     },
     "itemLink": "|cffa335ee|Hitem:21521::::::::::0|h[Runesword of the Red]|h|r",
     "contentPhase": 1,
-    "uniqueName": "runesword-of-the-red"
+    "uniqueName": "runesword-of-the-red",
+    "speed": 2.2,
+    "dps": 41.3
   },
   {
     "itemId": 21622,
@@ -1419,7 +1479,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:21622::::::::::0|h[Sharpened Silithid Femur]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sharpened-silithid-femur"
+    "uniqueName": "sharpened-silithid-femur",
+    "speed": 2.3,
+    "dps": 41.3
   },
   {
     "itemId": 21650,
@@ -1464,7 +1526,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:21650::::::::::0|h[Ancient Qiraji Ripper]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ancient-qiraji-ripper"
+    "uniqueName": "ancient-qiraji-ripper",
+    "speed": 2.8,
+    "dps": 58.4
   },
   {
     "itemId": 22383,
@@ -1509,7 +1573,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:22383::::::::::0|h[Sageblade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sageblade"
+    "uniqueName": "sageblade",
+    "speed": 1.8,
+    "dps": 41.4
   },
   {
     "itemId": 22736,
@@ -1548,7 +1614,9 @@
     ],
     "itemLink": "|cffff8000|Hitem:22736::::::::::0|h[Andonisus, Reaper of Souls]|h|r",
     "contentPhase": 1,
-    "uniqueName": "andonisus-reaper-of-souls"
+    "uniqueName": "andonisus-reaper-of-souls",
+    "speed": 2.8,
+    "dps": 81.3
   },
   {
     "itemId": 22806,
@@ -1596,7 +1664,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:22806::::::::::0|h[Widow's Remorse]|h|r",
     "contentPhase": 1,
-    "uniqueName": "widows-remorse"
+    "uniqueName": "widows-remorse",
+    "speed": 1.6,
+    "dps": 65.3
   },
   {
     "itemId": 22807,
@@ -1641,7 +1711,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:22807::::::::::0|h[Wraith Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wraith-blade"
+    "uniqueName": "wraith-blade",
+    "speed": 1.8,
+    "dps": 40.8
   },
   {
     "itemId": 23014,
@@ -1686,7 +1758,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:23014::::::::::0|h[Iblis, Blade of the Fallen Seraph]|h|r",
     "contentPhase": 1,
-    "uniqueName": "iblis-blade-of-the-fallen-seraph"
+    "uniqueName": "iblis-blade-of-the-fallen-seraph",
+    "speed": 1.6,
+    "dps": 65.3
   },
   {
     "itemId": 23054,
@@ -1731,7 +1805,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:23054::::::::::0|h[Gressil, Dawn of Ruin]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gressil-dawn-of-ruin"
+    "uniqueName": "gressil-dawn-of-ruin",
+    "speed": 2.7,
+    "dps": 73.1
   },
   {
     "itemId": 23456,
@@ -1776,7 +1852,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:23456::::::::::0|h[Grand Marshal's Swiftblade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "grand-marshals-swiftblade"
+    "uniqueName": "grand-marshals-swiftblade",
+    "speed": 1.8,
+    "dps": 65.6
   },
   {
     "itemId": 23467,
@@ -1821,7 +1899,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:23467::::::::::0|h[High Warlord's Quickblade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "high-warlords-quickblade"
+    "uniqueName": "high-warlords-quickblade",
+    "speed": 1.8,
+    "dps": 65.6
   },
   {
     "itemId": 23577,
@@ -1866,7 +1946,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:23577::::::::::0|h[The Hungering Cold]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-hungering-cold"
+    "uniqueName": "the-hungering-cold",
+    "speed": 1.5,
+    "dps": 73
   },
   {
     "itemId": 55030,
@@ -1908,7 +1990,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:55030::::::::::0|h[Aliden's Prejudice]|h|r",
     "contentPhase": 1,
-    "uniqueName": "alidens-prejudice"
+    "uniqueName": "alidens-prejudice",
+    "speed": 1.9,
+    "dps": 46.6
   },
   {
     "itemId": 55129,
@@ -1953,7 +2037,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:55129::::::::::0|h[Desecration]|h|r",
     "contentPhase": 1,
-    "uniqueName": "desecration"
+    "uniqueName": "desecration",
+    "speed": 2.2,
+    "dps": 68
   },
   {
     "itemId": 61006,
@@ -1995,7 +2081,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:61006::::::::::0|h[Blade of Infinite Mysteries]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blade-of-infinite-mysteries"
+    "uniqueName": "blade-of-infinite-mysteries",
+    "speed": 1.9,
+    "dps": 41.6
   },
   {
     "itemId": 61453,
@@ -2040,7 +2128,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:61453::::::::::0|h[Anasterian's Legacy]|h|r",
     "contentPhase": 1,
-    "uniqueName": "anasterians-legacy"
+    "uniqueName": "anasterians-legacy",
+    "speed": 1.5,
+    "dps": 51.7
   },
   {
     "itemId": 61523,
@@ -2088,7 +2178,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:61523::::::::::0|h[Crystal Sword of the Blossom]|h|r",
     "contentPhase": 1,
-    "uniqueName": "crystal-sword-of-the-blossom"
+    "uniqueName": "crystal-sword-of-the-blossom",
+    "speed": 1.8,
+    "dps": 62.8
   },
   {
     "itemId": 65008,
@@ -2127,7 +2219,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:65008::::::::::0|h[Dream's Herald]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dreams-herald"
+    "uniqueName": "dreams-herald",
+    "speed": 1.9,
+    "dps": 46
   },
   {
     "itemId": 83269,
@@ -2175,7 +2269,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:83269::::::::::0|h[Terrorblade Glaive]|h|r",
     "contentPhase": 1,
-    "uniqueName": "terrorblade-glaive"
+    "uniqueName": "terrorblade-glaive",
+    "speed": 2.2,
+    "dps": 47.7
   },
   {
     "itemId": 83487,
@@ -2220,7 +2316,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:83487::::::::::0|h[Blade of the Fallen Star]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blade-of-the-fallen-star"
+    "uniqueName": "blade-of-the-fallen-star",
+    "speed": 2.4,
+    "dps": 42.9
   },
   {
     "itemId": 83564,
@@ -2259,7 +2357,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:83564::::::::::0|h[Tempest's Rage]|h|r",
     "contentPhase": 1,
-    "uniqueName": "tempests-rage"
+    "uniqueName": "tempests-rage",
+    "speed": 1.7,
+    "dps": 49.7
   },
   {
     "itemId": 1493,
@@ -2304,7 +2404,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:1493::::::::::0|h[Heavy Marauder Scimitar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "heavy-marauder-scimitar"
+    "uniqueName": "heavy-marauder-scimitar",
+    "speed": 2.4,
+    "dps": 17.1
   },
   {
     "itemId": 5191,
@@ -2346,7 +2448,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:5191::::::::::0|h[Cruel Barb]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cruel-barb"
+    "uniqueName": "cruel-barb",
+    "speed": 2.8,
+    "dps": 15.5
   },
   {
     "itemId": 8190,
@@ -2385,7 +2489,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:8190::::::::::0|h[Hanzo Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hanzo-sword"
+    "uniqueName": "hanzo-sword",
+    "speed": 1.5,
+    "dps": 36.3
   },
   {
     "itemId": 8223,
@@ -2427,7 +2533,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:8223::::::::::0|h[Blade of the Basilisk]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blade-of-the-basilisk"
+    "uniqueName": "blade-of-the-basilisk",
+    "speed": 1.9,
+    "dps": 25
   },
   {
     "itemId": 9380,
@@ -2466,7 +2574,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9380::::::::::0|h[Jang'thraze the Protector]|h|r",
     "contentPhase": 1,
-    "uniqueName": "jangthraze-the-protector"
+    "uniqueName": "jangthraze-the-protector",
+    "speed": 1.9,
+    "dps": 33.4
   },
   {
     "itemId": 9424,
@@ -2511,7 +2621,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9424::::::::::0|h[Ginn-su Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ginn-su-sword"
+    "uniqueName": "ginn-su-sword",
+    "speed": 1.7,
+    "dps": 27.9
   },
   {
     "itemId": 9446,
@@ -2550,7 +2662,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9446::::::::::0|h[Electrocutioner Leg]|h|r",
     "contentPhase": 1,
-    "uniqueName": "electrocutioner-leg"
+    "uniqueName": "electrocutioner-leg",
+    "speed": 1.7,
+    "dps": 22.1
   },
   {
     "itemId": 9511,
@@ -2589,7 +2703,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9511::::::::::0|h[Bloodletter Scalpel]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bloodletter-scalpel"
+    "uniqueName": "bloodletter-scalpel",
+    "speed": 1.8,
+    "dps": 31.1
   },
   {
     "itemId": 10797,
@@ -2628,7 +2744,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:10797::::::::::0|h[Firebreather]|h|r",
     "contentPhase": 1,
-    "uniqueName": "firebreather"
+    "uniqueName": "firebreather",
+    "speed": 2.2,
+    "dps": 35.2
   },
   {
     "itemId": 11086,
@@ -2667,7 +2785,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:11086::::::::::0|h[Jang'thraze the Protector]|h|r",
     "contentPhase": 1,
-    "uniqueName": "jangthraze-the-protector"
+    "uniqueName": "jangthraze-the-protector",
+    "speed": 1.9,
+    "dps": 33.4
   },
   {
     "itemId": 11784,
@@ -2712,7 +2832,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:11784::::::::::0|h[Arbiter's Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "arbiters-blade"
+    "uniqueName": "arbiters-blade",
+    "speed": 2.4,
+    "dps": 35.2
   },
   {
     "itemId": 12535,
@@ -2757,7 +2879,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12535::::::::::0|h[Doomforged Straightedge]|h|r",
     "contentPhase": 1,
-    "uniqueName": "doomforged-straightedge"
+    "uniqueName": "doomforged-straightedge",
+    "speed": 1.9,
+    "dps": 35.8
   },
   {
     "itemId": 12777,
@@ -2796,7 +2920,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12777::::::::::0|h[Blazing Rapier]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blazing-rapier"
+    "uniqueName": "blazing-rapier",
+    "speed": 1.7,
+    "dps": 37.1
   },
   {
     "itemId": 12797,
@@ -2835,7 +2961,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12797::::::::::0|h[Frostguard]|h|r",
     "contentPhase": 1,
-    "uniqueName": "frostguard"
+    "uniqueName": "frostguard",
+    "speed": 2.3,
+    "dps": 41.3
   },
   {
     "itemId": 12939,
@@ -2880,7 +3008,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12939::::::::::0|h[Dal'Rend's Tribal Guardian]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dalrends-tribal-guardian"
+    "uniqueName": "dalrends-tribal-guardian",
+    "speed": 1.8,
+    "dps": 41.4
   },
   {
     "itemId": 12940,
@@ -2925,7 +3055,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12940::::::::::0|h[Dal'Rend's Sacred Charge]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dalrends-sacred-charge"
+    "uniqueName": "dalrends-sacred-charge",
+    "speed": 2.8,
+    "dps": 41.4
   },
   {
     "itemId": 12976,
@@ -2970,7 +3102,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12976::::::::::0|h[Ironpatch Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ironpatch-blade"
+    "uniqueName": "ironpatch-blade",
+    "speed": 2.6,
+    "dps": 13.5
   },
   {
     "itemId": 13036,
@@ -3012,7 +3146,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13036::::::::::0|h[Assassination Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "assassination-blade"
+    "uniqueName": "assassination-blade",
+    "speed": 2.7,
+    "dps": 37.6
   },
   {
     "itemId": 13246,
@@ -3058,7 +3194,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:13246::::::::::0|h[Argent Avenger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "argent-avenger"
+    "uniqueName": "argent-avenger",
+    "speed": 2.2,
+    "dps": 40.7
   },
   {
     "itemId": 14576,
@@ -3097,7 +3235,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:14576::::::::::0|h[Ebon Hilt of Marduk]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ebon-hilt-of-marduk"
+    "uniqueName": "ebon-hilt-of-marduk",
+    "speed": 2.7,
+    "dps": 38.9
   },
   {
     "itemId": 17054,
@@ -3136,7 +3276,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:17054::::::::::0|h[Joonho's Mercy]|h|r",
     "contentPhase": 1,
-    "uniqueName": "joonhos-mercy"
+    "uniqueName": "joonhos-mercy",
+    "speed": 2.1,
+    "dps": 33.3
   },
   {
     "itemId": 17719,
@@ -3175,7 +3317,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:17719::::::::::0|h[Inventor's Focal Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "inventors-focal-sword"
+    "uniqueName": "inventors-focal-sword",
+    "speed": 2.2,
+    "dps": 35.2
   },
   {
     "itemId": 18310,
@@ -3220,7 +3364,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18310::::::::::0|h[Fiendish Machete]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fiendish-machete"
+    "uniqueName": "fiendish-machete",
+    "speed": 2.4,
+    "dps": 38.8
   },
   {
     "itemId": 18484,
@@ -3262,7 +3408,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18484::::::::::0|h[Cho'Rush's Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "chorushs-blade"
+    "uniqueName": "chorushs-blade",
+    "speed": 2.4,
+    "dps": 40
   },
   {
     "itemId": 19110,
@@ -3307,7 +3455,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19110::::::::::0|h[Cold Forged Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cold-forged-blade"
+    "uniqueName": "cold-forged-blade",
+    "speed": 2.6,
+    "dps": 41.3
   },
   {
     "itemId": 19550,
@@ -3352,7 +3502,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19550::::::::::0|h[Legionnaire's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "legionnaires-sword"
+    "uniqueName": "legionnaires-sword",
+    "speed": 2.7,
+    "dps": 47
   },
   {
     "itemId": 19551,
@@ -3397,7 +3549,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19551::::::::::0|h[Legionnaire's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "legionnaires-sword"
+    "uniqueName": "legionnaires-sword",
+    "speed": 2.7,
+    "dps": 35.2
   },
   {
     "itemId": 19552,
@@ -3442,7 +3596,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19552::::::::::0|h[Legionnaire's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "legionnaires-sword"
+    "uniqueName": "legionnaires-sword",
+    "speed": 2.7,
+    "dps": 29.3
   },
   {
     "itemId": 19553,
@@ -3487,7 +3643,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19553::::::::::0|h[Legionnaire's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "legionnaires-sword"
+    "uniqueName": "legionnaires-sword",
+    "speed": 2.7,
+    "dps": 21.3
   },
   {
     "itemId": 19968,
@@ -3532,7 +3690,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19968::::::::::0|h[Fiery Retributer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fiery-retributer"
+    "uniqueName": "fiery-retributer",
+    "speed": 1.8,
+    "dps": 44.7
   },
   {
     "itemId": 20430,
@@ -3577,7 +3737,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:20430::::::::::0|h[Legionnaire's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "legionnaires-sword"
+    "uniqueName": "legionnaires-sword",
+    "speed": 2.7,
+    "dps": 15
   },
   {
     "itemId": 22332,
@@ -3619,7 +3781,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:22332::::::::::0|h[Blade of Necromancy]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blade-of-necromancy"
+    "uniqueName": "blade-of-necromancy",
+    "speed": 1.5,
+    "dps": 40.7
   },
   {
     "itemId": 23132,
@@ -3664,7 +3828,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:23132::::::::::0|h[Lord Blackwood's Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lord-blackwoods-blade"
+    "uniqueName": "lord-blackwoods-blade",
+    "speed": 1.5,
+    "dps": 40.7
   },
   {
     "itemId": 51046,
@@ -3706,7 +3872,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:51046::::::::::0|h[Call of Shadow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "call-of-shadow"
+    "uniqueName": "call-of-shadow",
+    "speed": 2.4,
+    "dps": 38.8
   },
   {
     "itemId": 51754,
@@ -3745,7 +3913,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:51754::::::::::0|h[Lodestone Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lodestone-blade"
+    "uniqueName": "lodestone-blade",
+    "speed": 1.7,
+    "dps": 24.1
   },
   {
     "itemId": 55384,
@@ -3784,7 +3954,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:55384::::::::::0|h[Hilt of Radiance]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hilt-of-radiance"
+    "uniqueName": "hilt-of-radiance",
+    "speed": 2.2,
+    "dps": 16.1
   },
   {
     "itemId": 58150,
@@ -3826,7 +3998,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:58150::::::::::0|h[Deathedge Sabre]|h|r",
     "contentPhase": 1,
-    "uniqueName": "deathedge-sabre"
+    "uniqueName": "deathedge-sabre",
+    "speed": 2.4,
+    "dps": 27.3
   },
   {
     "itemId": 58198,
@@ -3874,7 +4048,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:58198::::::::::0|h[Dissolved Hookblade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dissolved-hookblade"
+    "uniqueName": "dissolved-hookblade",
+    "speed": 2.4,
+    "dps": 27.3
   },
   {
     "itemId": 58225,
@@ -3919,7 +4095,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:58225::::::::::0|h[Blade of Purity]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blade-of-purity"
+    "uniqueName": "blade-of-purity",
+    "speed": 1.9,
+    "dps": 40
   },
   {
     "itemId": 58262,
@@ -3968,7 +4146,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:58262::::::::::0|h[Enchanted Glass Kopis]|h|r",
     "contentPhase": 1,
-    "uniqueName": "enchanted-glass-kopis"
+    "uniqueName": "enchanted-glass-kopis",
+    "speed": 2.3,
+    "dps": 24.3
   },
   {
     "itemId": 60384,
@@ -4013,7 +4193,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:60384::::::::::0|h[Fleet Scimitar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fleet-scimitar"
+    "uniqueName": "fleet-scimitar",
+    "speed": 1.8,
+    "dps": 43.1
   },
   {
     "itemId": 60536,
@@ -4068,7 +4250,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:60536::::::::::0|h[Darkwind Glaive]|h|r",
     "contentPhase": 1,
-    "uniqueName": "darkwind-glaive"
+    "uniqueName": "darkwind-glaive",
+    "speed": 2.5,
+    "dps": 35.8
   },
   {
     "itemId": 60734,
@@ -4124,7 +4308,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:60734::::::::::0|h[Blade of the Warleader]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blade-of-the-warleader"
+    "uniqueName": "blade-of-the-warleader",
+    "speed": 2.3,
+    "dps": 38.3
   },
   {
     "itemId": 61333,
@@ -4169,7 +4355,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:61333::::::::::0|h[Hookblade Cleaver]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hookblade-cleaver"
+    "uniqueName": "hookblade-cleaver",
+    "speed": 2.4,
+    "dps": 29
   },
   {
     "itemId": 61552,
@@ -4214,7 +4402,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:61552::::::::::0|h[Corrupted Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "corrupted-sword"
+    "uniqueName": "corrupted-sword",
+    "speed": 2.3,
+    "dps": 24.3
   },
   {
     "itemId": 61717,
@@ -4266,7 +4456,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:61717::::::::::0|h[Groveslicer Glaive]|h|r",
     "contentPhase": 1,
-    "uniqueName": "groveslicer-glaive"
+    "uniqueName": "groveslicer-glaive",
+    "speed": 2.6,
+    "dps": 41.9
   },
   {
     "itemId": 80733,
@@ -4308,7 +4500,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80733::::::::::0|h[Cursed Thornblade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cursed-thornblade"
+    "uniqueName": "cursed-thornblade",
+    "speed": 2.7,
+    "dps": 22.4
   },
   {
     "itemId": 80792,
@@ -4347,7 +4541,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80792::::::::::0|h[Hushblade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hushblade"
+    "uniqueName": "hushblade",
+    "speed": 1.8,
+    "dps": 29.2
   },
   {
     "itemId": 81018,
@@ -4389,7 +4585,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:81018::::::::::0|h[Crimson Spellblade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "crimson-spellblade"
+    "uniqueName": "crimson-spellblade",
+    "speed": 1.9,
+    "dps": 40
   },
   {
     "itemId": 81266,
@@ -4434,7 +4632,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:81266::::::::::0|h[Demonic Scimitar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "demonic-scimitar"
+    "uniqueName": "demonic-scimitar",
+    "speed": 2.5,
+    "dps": 18.4
   },
   {
     "itemId": 754,
@@ -4473,7 +4673,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:754::::::::::0|h[Shortsword of Vengeance]|h|r",
     "contentPhase": 1,
-    "uniqueName": "shortsword-of-vengeance"
+    "uniqueName": "shortsword-of-vengeance",
+    "speed": 2.4,
+    "dps": 31.7
   },
   {
     "itemId": 935,
@@ -4515,7 +4717,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:935::::::::::0|h[Night Watch Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "night-watch-shortsword"
+    "uniqueName": "night-watch-shortsword",
+    "speed": 2.6,
+    "dps": 13.5
   },
   {
     "itemId": 1265,
@@ -4554,7 +4758,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:1265::::::::::0|h[Scorpion Sting]|h|r",
     "contentPhase": 1,
-    "uniqueName": "scorpion-sting"
+    "uniqueName": "scorpion-sting",
+    "speed": 2.4,
+    "dps": 26.5
   },
   {
     "itemId": 1482,
@@ -4593,7 +4799,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:1482::::::::::0|h[Shadowfang]|h|r",
     "contentPhase": 1,
-    "uniqueName": "shadowfang"
+    "uniqueName": "shadowfang",
+    "speed": 2.7,
+    "dps": 17.8
   },
   {
     "itemId": 1727,
@@ -4632,7 +4840,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:1727::::::::::0|h[Sword of Decay]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sword-of-decay"
+    "uniqueName": "sword-of-decay",
+    "speed": 2.7,
+    "dps": 17.6
   },
   {
     "itemId": 2011,
@@ -4677,7 +4887,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:2011::::::::::0|h[Twisted Sabre]|h|r",
     "contentPhase": 1,
-    "uniqueName": "twisted-sabre"
+    "uniqueName": "twisted-sabre",
+    "speed": 1.8,
+    "dps": 16.7
   },
   {
     "itemId": 6504,
@@ -4729,7 +4941,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:6504::::::::::0|h[Wingblade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wingblade"
+    "uniqueName": "wingblade",
+    "speed": 2.2,
+    "dps": 15.7
   },
   {
     "itemId": 6622,
@@ -4768,7 +4982,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:6622::::::::::0|h[Sword of Zeal]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sword-of-zeal"
+    "uniqueName": "sword-of-zeal",
+    "speed": 2.8,
+    "dps": 41.4
   },
   {
     "itemId": 6802,
@@ -4824,7 +5040,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:6802::::::::::0|h[Sword of Omen]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sword-of-omen"
+    "uniqueName": "sword-of-omen",
+    "speed": 1.9,
+    "dps": 29.7
   },
   {
     "itemId": 6829,
@@ -4876,7 +5094,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:6829::::::::::0|h[Sword of Serenity]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sword-of-serenity"
+    "uniqueName": "sword-of-serenity",
+    "speed": 2.2,
+    "dps": 30
   },
   {
     "itemId": 7961,
@@ -4915,7 +5135,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:7961::::::::::0|h[Phantom Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "phantom-blade"
+    "uniqueName": "phantom-blade",
+    "speed": 2.6,
+    "dps": 32.7
   },
   {
     "itemId": 8225,
@@ -4954,7 +5176,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:8225::::::::::0|h[Tainted Pierce]|h|r",
     "contentPhase": 1,
-    "uniqueName": "tainted-pierce"
+    "uniqueName": "tainted-pierce",
+    "speed": 1.9,
+    "dps": 24.2
   },
   {
     "itemId": 8226,
@@ -4999,7 +5223,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:8226::::::::::0|h[The Butcher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-butcher"
+    "uniqueName": "the-butcher",
+    "speed": 2.8,
+    "dps": 19.6
   },
   {
     "itemId": 9379,
@@ -5038,7 +5264,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9379::::::::::0|h[Sang'thraze the Deflector]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sangthraze-the-deflector"
+    "uniqueName": "sangthraze-the-deflector",
+    "speed": 1.7,
+    "dps": 29.1
   },
   {
     "itemId": 9401,
@@ -5083,7 +5311,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9401::::::::::0|h[Nordic Longshank]|h|r",
     "contentPhase": 1,
-    "uniqueName": "nordic-longshank"
+    "uniqueName": "nordic-longshank",
+    "speed": 2.2,
+    "dps": 29.3
   },
   {
     "itemId": 9718,
@@ -5128,7 +5358,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9718::::::::::0|h[Reforged Blade of Heroes]|h|r",
     "contentPhase": 1,
-    "uniqueName": "reforged-blade-of-heroes"
+    "uniqueName": "reforged-blade-of-heroes",
+    "speed": 2.2,
+    "dps": 23.9
   },
   {
     "itemId": 10823,
@@ -5184,7 +5416,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:10823::::::::::0|h[Vanquisher's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "vanquishers-sword"
+    "uniqueName": "vanquishers-sword",
+    "speed": 2.2,
+    "dps": 30
   },
   {
     "itemId": 11817,
@@ -5223,7 +5457,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:11817::::::::::0|h[Lord General's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lord-generals-sword"
+    "uniqueName": "lord-generals-sword",
+    "speed": 2.6,
+    "dps": 36.9
   },
   {
     "itemId": 12974,
@@ -5262,7 +5498,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12974::::::::::0|h[The Black Knight]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-black-knight"
+    "uniqueName": "the-black-knight",
+    "speed": 1.9,
+    "dps": 19.7
   },
   {
     "itemId": 13032,
@@ -5301,7 +5539,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13032::::::::::0|h[Sword of Corruption]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sword-of-corruption"
+    "uniqueName": "sword-of-corruption",
+    "speed": 2.1,
+    "dps": 17.1
   },
   {
     "itemId": 13033,
@@ -5346,7 +5586,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13033::::::::::0|h[Zealot Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "zealot-blade"
+    "uniqueName": "zealot-blade",
+    "speed": 2.8,
+    "dps": 22.1
   },
   {
     "itemId": 13034,
@@ -5391,7 +5633,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13034::::::::::0|h[Speedsteel Rapier]|h|r",
     "contentPhase": 1,
-    "uniqueName": "speedsteel-rapier"
+    "uniqueName": "speedsteel-rapier",
+    "speed": 1.8,
+    "dps": 28.1
   },
   {
     "itemId": 13035,
@@ -5430,7 +5674,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13035::::::::::0|h[Serpent Slicer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "serpent-slicer"
+    "uniqueName": "serpent-slicer",
+    "speed": 2.5,
+    "dps": 32.8
   },
   {
     "itemId": 13182,
@@ -5475,7 +5721,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13182::::::::::0|h[Phase Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "phase-blade"
+    "uniqueName": "phase-blade",
+    "speed": 2.1,
+    "dps": 37.6
   },
   {
     "itemId": 13361,
@@ -5514,7 +5762,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13361::::::::::0|h[Skullforge Reaver]|h|r",
     "contentPhase": 1,
-    "uniqueName": "skullforge-reaver"
+    "uniqueName": "skullforge-reaver",
+    "speed": 2.5,
+    "dps": 41.4
   },
   {
     "itemId": 13953,
@@ -5553,7 +5803,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13953::::::::::0|h[Silent Fang]|h|r",
     "contentPhase": 1,
-    "uniqueName": "silent-fang"
+    "uniqueName": "silent-fang",
+    "speed": 1.6,
+    "dps": 40.6
   },
   {
     "itemId": 15220,
@@ -5592,7 +5844,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15220::::::::::0|h[Battlefell Sabre]|h|r",
     "contentPhase": 1,
-    "uniqueName": "battlefell-sabre"
+    "uniqueName": "battlefell-sabre",
+    "speed": 2.2,
+    "dps": 37
   },
   {
     "itemId": 15782,
@@ -5641,7 +5895,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:15782::::::::::0|h[Beaststalker Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "beaststalker-blade"
+    "uniqueName": "beaststalker-blade",
+    "speed": 2.2,
+    "dps": 35.9
   },
   {
     "itemId": 15806,
@@ -5693,7 +5949,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:15806::::::::::0|h[Mirah's Song]|h|r",
     "contentPhase": 1,
-    "uniqueName": "mirahs-song"
+    "uniqueName": "mirahs-song",
+    "speed": 1.8,
+    "dps": 40
   },
   {
     "itemId": 16886,
@@ -5747,7 +6005,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:16886::::::::::0|h[Outlaw Sabre]|h|r",
     "contentPhase": 1,
-    "uniqueName": "outlaw-sabre"
+    "uniqueName": "outlaw-sabre",
+    "speed": 2.7,
+    "dps": 18.9
   },
   {
     "itemId": 17705,
@@ -5798,7 +6058,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:17705::::::::::0|h[Thrash Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thrash-blade"
+    "uniqueName": "thrash-blade",
+    "speed": 2.7,
+    "dps": 35.2
   },
   {
     "itemId": 18396,
@@ -5840,7 +6102,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18396::::::::::0|h[Mind Carver]|h|r",
     "contentPhase": 1,
-    "uniqueName": "mind-carver"
+    "uniqueName": "mind-carver",
+    "speed": 2,
+    "dps": 40.8
   },
   {
     "itemId": 19554,
@@ -5885,7 +6149,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19554::::::::::0|h[Protector's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "protectors-sword"
+    "uniqueName": "protectors-sword",
+    "speed": 2.7,
+    "dps": 47
   },
   {
     "itemId": 19555,
@@ -5930,7 +6196,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19555::::::::::0|h[Protector's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "protectors-sword"
+    "uniqueName": "protectors-sword",
+    "speed": 2.7,
+    "dps": 35.2
   },
   {
     "itemId": 19556,
@@ -5975,7 +6243,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19556::::::::::0|h[Protector's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "protectors-sword"
+    "uniqueName": "protectors-sword",
+    "speed": 2.7,
+    "dps": 29.3
   },
   {
     "itemId": 19557,
@@ -6020,7 +6290,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19557::::::::::0|h[Protector's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "protectors-sword"
+    "uniqueName": "protectors-sword",
+    "speed": 2.7,
+    "dps": 21.3
   },
   {
     "itemId": 19901,
@@ -6062,7 +6334,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19901::::::::::0|h[Zulian Slicer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "zulian-slicer"
+    "uniqueName": "zulian-slicer",
+    "speed": 2.5,
+    "dps": 44.8
   },
   {
     "itemId": 19964,
@@ -6101,7 +6375,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19964::::::::::0|h[Renataki's Soul Conduit]|h|r",
     "contentPhase": 1,
-    "uniqueName": "renatakis-soul-conduit"
+    "uniqueName": "renatakis-soul-conduit",
+    "speed": 2.1,
+    "dps": 41
   },
   {
     "itemId": 20440,
@@ -6146,7 +6422,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:20440::::::::::0|h[Protector's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "protectors-sword"
+    "uniqueName": "protectors-sword",
+    "speed": 2.7,
+    "dps": 15
   },
   {
     "itemId": 22378,
@@ -6198,7 +6476,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:22378::::::::::0|h[Ravenholdt Slicer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ravenholdt-slicer"
+    "uniqueName": "ravenholdt-slicer",
+    "speed": 2.8,
+    "dps": 42.7
   },
   {
     "itemId": 41581,
@@ -6240,7 +6520,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:41581::::::::::0|h[The Bane of Althazz]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-bane-of-althazz"
+    "uniqueName": "the-bane-of-althazz",
+    "speed": 1.9,
+    "dps": 20.5
   },
   {
     "itemId": 60752,
@@ -6285,7 +6567,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:60752::::::::::0|h[Sentinel's Glaive]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sentinels-glaive"
+    "uniqueName": "sentinels-glaive",
+    "speed": 1.9,
+    "dps": 30.3
   },
   {
     "itemId": 61594,
@@ -6327,7 +6611,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:61594::::::::::0|h[Magus Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "magus-blade"
+    "uniqueName": "magus-blade",
+    "speed": 1.9,
+    "dps": 38.2
   },
   {
     "itemId": 80535,
@@ -6372,7 +6658,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80535::::::::::0|h[Quel'dorei Defender's Deflector]|h|r",
     "contentPhase": 1,
-    "uniqueName": "queldorei-defenders-deflector"
+    "uniqueName": "queldorei-defenders-deflector",
+    "speed": 2,
+    "dps": 42.8
   },
   {
     "itemId": 80536,
@@ -6420,7 +6708,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80536::::::::::0|h[Quel'dorei Assassin's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "queldorei-assassins-sword"
+    "uniqueName": "queldorei-assassins-sword",
+    "speed": 2.4,
+    "dps": 42.7
   },
   {
     "itemId": 80636,
@@ -6468,7 +6758,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80636::::::::::0|h[Revantusk Stalker's Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "revantusk-stalkers-blade"
+    "uniqueName": "revantusk-stalkers-blade",
+    "speed": 2.4,
+    "dps": 42.7
   },
   {
     "itemId": 80731,
@@ -6510,7 +6802,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80731::::::::::0|h[Runed Hookblade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "runed-hookblade"
+    "uniqueName": "runed-hookblade",
+    "speed": 1.9,
+    "dps": 18.9
   },
   {
     "itemId": 81288,
@@ -6565,7 +6859,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:81288::::::::::0|h[Mechanist's Bonechopper Replica]|h|r",
     "contentPhase": 1,
-    "uniqueName": "mechanists-bonechopper-replica"
+    "uniqueName": "mechanists-bonechopper-replica",
+    "speed": 2.6,
+    "dps": 41.3
   },
   {
     "itemId": 83219,
@@ -6610,7 +6906,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83219::::::::::0|h[Slayer's Edge]|h|r",
     "contentPhase": 1,
-    "uniqueName": "slayers-edge"
+    "uniqueName": "slayers-edge",
+    "speed": 1.8,
+    "dps": 27.2
   },
   {
     "itemId": 83259,
@@ -6649,7 +6947,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83259::::::::::0|h[Old Knighthood Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "old-knighthood-blade"
+    "uniqueName": "old-knighthood-blade",
+    "speed": 1.9,
+    "dps": 39.2
   },
   {
     "itemId": 753,
@@ -6691,7 +6991,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:753::::::::::0|h[Dragonmaw Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dragonmaw-shortsword"
+    "uniqueName": "dragonmaw-shortsword",
+    "speed": 2.2,
+    "dps": 14.5
   },
   {
     "itemId": 864,
@@ -6730,7 +7032,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:864::::::::::0|h[Knightly Longsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "knightly-longsword"
+    "uniqueName": "knightly-longsword",
+    "speed": 1.5,
+    "dps": 20.3
   },
   {
     "itemId": 886,
@@ -6772,7 +7076,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:886::::::::::0|h[Black Metal Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "black-metal-shortsword"
+    "uniqueName": "black-metal-shortsword",
+    "speed": 1.7,
+    "dps": 13.5
   },
   {
     "itemId": 1925,
@@ -6814,7 +7120,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1925::::::::::0|h[Defias Rapier]|h|r",
     "contentPhase": 1,
-    "uniqueName": "defias-rapier"
+    "uniqueName": "defias-rapier",
+    "speed": 1.6,
+    "dps": 8.1
   },
   {
     "itemId": 1937,
@@ -6859,7 +7167,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1937::::::::::0|h[Buzz Saw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "buzz-saw"
+    "uniqueName": "buzz-saw",
+    "speed": 2.4,
+    "dps": 10.4
   },
   {
     "itemId": 1951,
@@ -6901,7 +7211,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1951::::::::::0|h[Blackwater Cutlass]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blackwater-cutlass"
+    "uniqueName": "blackwater-cutlass",
+    "speed": 1.9,
+    "dps": 9.5
   },
   {
     "itemId": 2046,
@@ -6943,7 +7255,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:2046::::::::::0|h[Bluegill Kukri]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bluegill-kukri"
+    "uniqueName": "bluegill-kukri",
+    "speed": 2.8,
+    "dps": 12.3
   },
   {
     "itemId": 3400,
@@ -6992,7 +7306,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:3400::::::::::0|h[Lucine Longsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lucine-longsword"
+    "uniqueName": "lucine-longsword",
+    "speed": 2.5,
+    "dps": 12.8
   },
   {
     "itemId": 3572,
@@ -7041,7 +7357,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:3572::::::::::0|h[Daryl's Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "daryls-shortsword"
+    "uniqueName": "daryls-shortsword",
+    "speed": 2.3,
+    "dps": 8.7
   },
   {
     "itemId": 3740,
@@ -7080,7 +7398,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:3740::::::::::0|h[Decapitating Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "decapitating-sword"
+    "uniqueName": "decapitating-sword",
+    "speed": 2.6,
+    "dps": 12.3
   },
   {
     "itemId": 3849,
@@ -7122,7 +7442,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:3849::::::::::0|h[Hardened Iron Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hardened-iron-shortsword"
+    "uniqueName": "hardened-iron-shortsword",
+    "speed": 1.8,
+    "dps": 16.7
   },
   {
     "itemId": 3850,
@@ -7167,7 +7489,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:3850::::::::::0|h[Jade Serpentblade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "jade-serpentblade"
+    "uniqueName": "jade-serpentblade",
+    "speed": 2.6,
+    "dps": 18.3
   },
   {
     "itemId": 4765,
@@ -7209,7 +7533,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:4765::::::::::0|h[Enamelled Broadsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "enamelled-broadsword"
+    "uniqueName": "enamelled-broadsword",
+    "speed": 2.4,
+    "dps": 7.3
   },
   {
     "itemId": 4766,
@@ -7300,7 +7626,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:4987::::::::::0|h[Dwarf Captain's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dwarf-captains-sword"
+    "uniqueName": "dwarf-captains-sword",
+    "speed": 2.5,
+    "dps": 26.6
   },
   {
     "itemId": 5321,
@@ -7349,7 +7677,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5321::::::::::0|h[Elegant Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "elegant-shortsword"
+    "uniqueName": "elegant-shortsword",
+    "speed": 2,
+    "dps": 10
   },
   {
     "itemId": 6633,
@@ -7394,7 +7724,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:6633::::::::::0|h[Butcher's Slicer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "butchers-slicer"
+    "uniqueName": "butchers-slicer",
+    "speed": 2.9,
+    "dps": 11.6
   },
   {
     "itemId": 6967,
@@ -7443,7 +7775,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:6967::::::::::0|h[Elunite Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "elunite-sword"
+    "uniqueName": "elunite-sword",
+    "speed": 2.1,
+    "dps": 7.6
   },
   {
     "itemId": 6985,
@@ -7492,7 +7826,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:6985::::::::::0|h[Haggard's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "haggards-sword"
+    "uniqueName": "haggards-sword",
+    "speed": 2.1,
+    "dps": 7.6
   },
   {
     "itemId": 7118,
@@ -7541,7 +7877,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:7118::::::::::0|h[Heirloom Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "heirloom-sword"
+    "uniqueName": "heirloom-sword",
+    "speed": 2.1,
+    "dps": 7.6
   },
   {
     "itemId": 7944,
@@ -7583,7 +7921,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:7944::::::::::0|h[Dazzling Mithril Rapier]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dazzling-mithril-rapier"
+    "uniqueName": "dazzling-mithril-rapier",
+    "speed": 1.7,
+    "dps": 28.5
   },
   {
     "itemId": 8196,
@@ -7622,7 +7962,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:8196::::::::::0|h[Ebon Scimitar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ebon-scimitar"
+    "uniqueName": "ebon-scimitar",
+    "speed": 1.9,
+    "dps": 25
   },
   {
     "itemId": 10696,
@@ -7671,7 +8013,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:10696::::::::::0|h[Enchanted Azsharite Felbane Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "enchanted-azsharite-felbane-sword"
+    "uniqueName": "enchanted-azsharite-felbane-sword",
+    "speed": 2,
+    "dps": 35.8
   },
   {
     "itemId": 10803,
@@ -7710,7 +8054,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:10803::::::::::0|h[Blade of the Wretched]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blade-of-the-wretched"
+    "uniqueName": "blade-of-the-wretched",
+    "speed": 2.1,
+    "dps": 32.1
   },
   {
     "itemId": 11121,
@@ -7749,7 +8095,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:11121::::::::::0|h[Darkwater Talwar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "darkwater-talwar"
+    "uniqueName": "darkwater-talwar",
+    "speed": 2.2,
+    "dps": 13.4
   },
   {
     "itemId": 11902,
@@ -7795,7 +8143,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:11902::::::::::0|h[Linken's Sword of Mastery]|h|r",
     "contentPhase": 1,
-    "uniqueName": "linkens-sword-of-mastery"
+    "uniqueName": "linkens-sword-of-mastery",
+    "speed": 1.8,
+    "dps": 33.3
   },
   {
     "itemId": 12061,
@@ -7844,7 +8194,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:12061::::::::::0|h[Blade of Reckoning]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blade-of-reckoning"
+    "uniqueName": "blade-of-reckoning",
+    "speed": 2.4,
+    "dps": 35.8
   },
   {
     "itemId": 14145,
@@ -7883,7 +8235,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:14145::::::::::0|h[Cursed Felblade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cursed-felblade"
+    "uniqueName": "cursed-felblade",
+    "speed": 2.6,
+    "dps": 9
   },
   {
     "itemId": 15212,
@@ -7922,7 +8276,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15212::::::::::0|h[Fighter Broadsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fighter-broadsword"
+    "uniqueName": "fighter-broadsword",
+    "speed": 2.8,
+    "dps": 13.9
   },
   {
     "itemId": 15213,
@@ -7961,7 +8317,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15213::::::::::0|h[Mercenary Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "mercenary-blade"
+    "uniqueName": "mercenary-blade",
+    "speed": 2.4,
+    "dps": 18.8
   },
   {
     "itemId": 15215,
@@ -8000,7 +8358,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15215::::::::::0|h[Furious Falchion]|h|r",
     "contentPhase": 1,
-    "uniqueName": "furious-falchion"
+    "uniqueName": "furious-falchion",
+    "speed": 2.5,
+    "dps": 26.6
   },
   {
     "itemId": 15218,
@@ -8039,7 +8399,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15218::::::::::0|h[Crystal Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "crystal-sword"
+    "uniqueName": "crystal-sword",
+    "speed": 2.3,
+    "dps": 33.9
   },
   {
     "itemId": 15219,
@@ -8078,7 +8440,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15219::::::::::0|h[Dimensional Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dimensional-blade"
+    "uniqueName": "dimensional-blade",
+    "speed": 1.6,
+    "dps": 35
   },
   {
     "itemId": 15221,
@@ -8117,7 +8481,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15221::::::::::0|h[Holy War Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "holy-war-sword"
+    "uniqueName": "holy-war-sword",
+    "speed": 2.2,
+    "dps": 38.6
   },
   {
     "itemId": 15335,
@@ -8166,7 +8532,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:15335::::::::::0|h[Briarsteel Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "briarsteel-shortsword"
+    "uniqueName": "briarsteel-shortsword",
+    "speed": 2.5,
+    "dps": 7.2
   },
   {
     "itemId": 15800,
@@ -8222,7 +8590,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:15800::::::::::0|h[Intrepid Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "intrepid-shortsword"
+    "uniqueName": "intrepid-shortsword",
+    "speed": 2.1,
+    "dps": 34.5
   },
   {
     "itemId": 15814,
@@ -8268,7 +8638,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:15814::::::::::0|h[Hameya's Slayer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hameyas-slayer"
+    "uniqueName": "hameyas-slayer",
+    "speed": 2,
+    "dps": 35.8
   },
   {
     "itemId": 16891,
@@ -8317,7 +8689,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:16891::::::::::0|h[Claystone Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "claystone-shortsword"
+    "uniqueName": "claystone-shortsword",
+    "speed": 2.2,
+    "dps": 10.5
   },
   {
     "itemId": 18957,
@@ -8366,7 +8740,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:18957::::::::::0|h[Brushwood Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "brushwood-blade"
+    "uniqueName": "brushwood-blade",
+    "speed": 3,
+    "dps": 5.3
   },
   {
     "itemId": 58018,
@@ -8421,7 +8797,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:58018::::::::::0|h[Inheritance Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "inheritance-blade"
+    "uniqueName": "inheritance-blade",
+    "speed": 2.6,
+    "dps": 19.6
   },
   {
     "itemId": 58036,
@@ -8480,7 +8858,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:58036::::::::::0|h[Blade of the Overlord]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blade-of-the-overlord"
+    "uniqueName": "blade-of-the-overlord",
+    "speed": 2.1,
+    "dps": 18.8
   },
   {
     "itemId": 58154,
@@ -8522,7 +8902,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:58154::::::::::0|h[Brand of Lohengrin]|h|r",
     "contentPhase": 1,
-    "uniqueName": "brand-of-lohengrin"
+    "uniqueName": "brand-of-lohengrin",
+    "speed": 2.6,
+    "dps": 18.3
   },
   {
     "itemId": 58282,
@@ -8564,7 +8946,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:58282::::::::::0|h[Mariner's Cutlass]|h|r",
     "contentPhase": 1,
-    "uniqueName": "mariners-cutlass"
+    "uniqueName": "mariners-cutlass",
+    "speed": 1.9,
+    "dps": 17.1
   },
   {
     "itemId": 60200,
@@ -8603,7 +8987,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:60200::::::::::0|h[Infantry Shortblade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "infantry-shortblade"
+    "uniqueName": "infantry-shortblade",
+    "speed": 2.5,
+    "dps": 12.8
   },
   {
     "itemId": 60796,
@@ -8642,7 +9028,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:60796::::::::::0|h[Blade of Rotting]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blade-of-rotting"
+    "uniqueName": "blade-of-rotting",
+    "speed": 2.2,
+    "dps": 37.7
   },
   {
     "itemId": 60845,
@@ -8694,7 +9082,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:60845::::::::::0|h[Blade of Sentinel Hill]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blade-of-sentinel-hill"
+    "uniqueName": "blade-of-sentinel-hill",
+    "speed": 2.2,
+    "dps": 13
   },
   {
     "itemId": 61166,
@@ -8751,7 +9141,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:61166::::::::::0|h[Captain's Moonglaive]|h|r",
     "contentPhase": 1,
-    "uniqueName": "captains-moonglaive"
+    "uniqueName": "captains-moonglaive",
+    "speed": 2.6,
+    "dps": 18.8
   },
   {
     "itemId": 61577,
@@ -8799,7 +9191,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:61577::::::::::0|h[Lieutenant's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lieutenants-sword"
+    "uniqueName": "lieutenants-sword",
+    "speed": 2.7,
+    "dps": 27.8
   },
   {
     "itemId": 80601,
@@ -8841,7 +9235,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:80601::::::::::0|h[Flesh Cutter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "flesh-cutter"
+    "uniqueName": "flesh-cutter",
+    "speed": 2.1,
+    "dps": 8.1
   },
   {
     "itemId": 81339,
@@ -8896,7 +9292,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:81339::::::::::0|h[Brightwater Cutlass]|h|r",
     "contentPhase": 1,
-    "uniqueName": "brightwater-cutlass"
+    "uniqueName": "brightwater-cutlass",
+    "speed": 1.5,
+    "dps": 29.7
   },
   {
     "itemId": 727,
@@ -8935,7 +9333,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:727::::::::::0|h[Notched Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "notched-shortsword"
+    "uniqueName": "notched-shortsword",
+    "speed": 2.1,
+    "dps": 5.5
   },
   {
     "itemId": 851,
@@ -8971,7 +9371,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:851::::::::::0|h[Cutlass]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cutlass"
+    "uniqueName": "cutlass",
+    "speed": 2.2,
+    "dps": 6.8
   },
   {
     "itemId": 997,
@@ -9004,7 +9406,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:997::::::::::0|h[Fire Sword of Crippling]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fire-sword-of-crippling"
+    "uniqueName": "fire-sword-of-crippling",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 1219,
@@ -9046,7 +9450,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1219::::::::::0|h[Redridge Machete]|h|r",
     "contentPhase": 1,
-    "uniqueName": "redridge-machete"
+    "uniqueName": "redridge-machete",
+    "speed": 2.3,
+    "dps": 8.3
   },
   {
     "itemId": 1384,
@@ -9079,7 +9485,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:1384::::::::::0|h[Dull Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dull-blade"
+    "uniqueName": "dull-blade",
+    "speed": 1.9,
+    "dps": 1.1
   },
   {
     "itemId": 1469,
@@ -9121,7 +9529,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1469::::::::::0|h[Scimitar of Atun]|h|r",
     "contentPhase": 1,
-    "uniqueName": "scimitar-of-atun"
+    "uniqueName": "scimitar-of-atun",
+    "speed": 2.6,
+    "dps": 9.6
   },
   {
     "itemId": 2018,
@@ -9163,7 +9573,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:2018::::::::::0|h[Skeletal Longsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "skeletal-longsword"
+    "uniqueName": "skeletal-longsword",
+    "speed": 2.2,
+    "dps": 13.9
   },
   {
     "itemId": 2035,
@@ -9208,7 +9620,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:2035::::::::::0|h[Sword of the Night Sky]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sword-of-the-night-sky"
+    "uniqueName": "sword-of-the-night-sky",
+    "speed": 1.7,
+    "dps": 12.1
   },
   {
     "itemId": 2074,
@@ -9260,7 +9674,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:2074::::::::::0|h[Solid Shortblade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "solid-shortblade"
+    "uniqueName": "solid-shortblade",
+    "speed": 2.5,
+    "dps": 9.2
   },
   {
     "itemId": 2078,
@@ -9299,7 +9715,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:2078::::::::::0|h[Northern Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "northern-shortsword"
+    "uniqueName": "northern-shortsword",
+    "speed": 2.2,
+    "dps": 9.1
   },
   {
     "itemId": 2258,
@@ -9335,7 +9753,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2258::::::::::0|h[Frostmane Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "frostmane-shortsword"
+    "uniqueName": "frostmane-shortsword",
+    "speed": 2,
+    "dps": 3.3
   },
   {
     "itemId": 2263,
@@ -9382,7 +9802,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:2263::::::::::0|h[Phytoblade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "phytoblade"
+    "uniqueName": "phytoblade",
+    "speed": 2.8,
+    "dps": 12.9
   },
   {
     "itemId": 2520,
@@ -9418,7 +9840,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2520::::::::::0|h[Broadsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "broadsword"
+    "uniqueName": "broadsword",
+    "speed": 2.3,
+    "dps": 17.6
   },
   {
     "itemId": 2528,
@@ -9454,7 +9878,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2528::::::::::0|h[Falchion]|h|r",
     "contentPhase": 1,
-    "uniqueName": "falchion"
+    "uniqueName": "falchion",
+    "speed": 2.2,
+    "dps": 25.7
   },
   {
     "itemId": 2541,
@@ -9490,7 +9916,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2541::::::::::0|h[Gamemaster's Blade of Frost]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gamemasters-blade-of-frost"
+    "uniqueName": "gamemasters-blade-of-frost",
+    "speed": 2.2,
+    "dps": 40.7
   },
   {
     "itemId": 2847,
@@ -9526,7 +9954,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2847::::::::::0|h[Copper Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "copper-shortsword"
+    "uniqueName": "copper-shortsword",
+    "speed": 2.1,
+    "dps": 3.8
   },
   {
     "itemId": 2850,
@@ -9562,7 +9992,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2850::::::::::0|h[Bronze Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bronze-shortsword"
+    "uniqueName": "bronze-shortsword",
+    "speed": 2.1,
+    "dps": 11.2
   },
   {
     "itemId": 3186,
@@ -9601,7 +10033,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:3186::::::::::0|h[Viking Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "viking-sword"
+    "uniqueName": "viking-sword",
+    "speed": 2.7,
+    "dps": 15.6
   },
   {
     "itemId": 3267,
@@ -9647,7 +10081,9 @@
     },
     "itemLink": "|cffffffff|Hitem:3267::::::::::0|h[Forsaken Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "forsaken-shortsword"
+    "uniqueName": "forsaken-shortsword",
+    "speed": 2.1,
+    "dps": 2.1
   },
   {
     "itemId": 3295,
@@ -9680,7 +10116,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:3295::::::::::0|h[Deadman Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "deadman-blade"
+    "uniqueName": "deadman-blade",
+    "speed": 2.5,
+    "dps": 1.2
   },
   {
     "itemId": 3455,
@@ -9726,7 +10164,9 @@
     },
     "itemLink": "|cffffffff|Hitem:3455::::::::::0|h[Deathstalker Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "deathstalker-shortsword"
+    "uniqueName": "deathstalker-shortsword",
+    "speed": 2.1,
+    "dps": 5
   },
   {
     "itemId": 3462,
@@ -9775,7 +10215,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:3462::::::::::0|h[Talonstrike]|h|r",
     "contentPhase": 1,
-    "uniqueName": "talonstrike"
+    "uniqueName": "talonstrike",
+    "speed": 1.6,
+    "dps": 12.2
   },
   {
     "itemId": 4116,
@@ -9814,7 +10256,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:4116::::::::::0|h[Olmann Sewar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "olmann-sewar"
+    "uniqueName": "olmann-sewar",
+    "speed": 2.7,
+    "dps": 23
   },
   {
     "itemId": 4560,
@@ -9847,7 +10291,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:4560::::::::::0|h[Fine Scimitar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fine-scimitar"
+    "uniqueName": "fine-scimitar",
+    "speed": 1.9,
+    "dps": 2.4
   },
   {
     "itemId": 4977,
@@ -9900,7 +10346,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:4977::::::::::0|h[Sword of Hammerfall]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sword-of-hammerfall"
+    "uniqueName": "sword-of-hammerfall",
+    "speed": 2.3,
+    "dps": 23
   },
   {
     "itemId": 5192,
@@ -9942,7 +10390,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:5192::::::::::0|h[Thief's Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thiefs-blade"
+    "uniqueName": "thiefs-blade",
+    "speed": 1.7,
+    "dps": 11.2
   },
   {
     "itemId": 5744,
@@ -9981,7 +10431,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:5744::::::::::0|h[Pale Skinner]|h|r",
     "contentPhase": 1,
-    "uniqueName": "pale-skinner"
+    "uniqueName": "pale-skinner",
+    "speed": 2.2,
+    "dps": 6.6
   },
   {
     "itemId": 6984,
@@ -10035,7 +10487,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:6984::::::::::0|h[Umbral Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "umbral-sword"
+    "uniqueName": "umbral-sword",
+    "speed": 2.1,
+    "dps": 7.6
   },
   {
     "itemId": 7329,
@@ -10084,7 +10538,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:7329::::::::::0|h[Thun'grim's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thungrims-sword"
+    "uniqueName": "thungrims-sword",
+    "speed": 2.1,
+    "dps": 7.6
   },
   {
     "itemId": 7943,
@@ -10129,7 +10585,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:7943::::::::::0|h[Wicked Mithril Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wicked-mithril-blade"
+    "uniqueName": "wicked-mithril-blade",
+    "speed": 2.3,
+    "dps": 26.7
   },
   {
     "itemId": 8224,
@@ -10168,7 +10626,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:8224::::::::::0|h[Silithid Ripper]|h|r",
     "contentPhase": 1,
-    "uniqueName": "silithid-ripper"
+    "uniqueName": "silithid-ripper",
+    "speed": 2.3,
+    "dps": 18.9
   },
   {
     "itemId": 14391,
@@ -10201,7 +10661,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:14391::::::::::0|h[Durability Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "durability-sword"
+    "uniqueName": "durability-sword",
+    "speed": 2.3,
+    "dps": 0.7
   },
   {
     "itemId": 15210,
@@ -10240,7 +10702,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15210::::::::::0|h[Raider Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "raider-shortsword"
+    "uniqueName": "raider-shortsword",
+    "speed": 1.9,
+    "dps": 8.2
   },
   {
     "itemId": 15211,
@@ -10279,7 +10743,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15211::::::::::0|h[Militant Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "militant-shortsword"
+    "uniqueName": "militant-shortsword",
+    "speed": 2.5,
+    "dps": 11
   },
   {
     "itemId": 15214,
@@ -10318,7 +10784,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15214::::::::::0|h[Nobles Brand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "nobles-brand"
+    "uniqueName": "nobles-brand",
+    "speed": 2.1,
+    "dps": 22.1
   },
   {
     "itemId": 15216,
@@ -10357,7 +10825,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15216::::::::::0|h[Rune Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rune-sword"
+    "uniqueName": "rune-sword",
+    "speed": 1.6,
+    "dps": 30.3
   },
   {
     "itemId": 15217,
@@ -10396,7 +10866,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15217::::::::::0|h[Widow Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "widow-blade"
+    "uniqueName": "widow-blade",
+    "speed": 2,
+    "dps": 32.3
   },
   {
     "itemId": 15705,
@@ -10448,7 +10920,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:15705::::::::::0|h[Tidecrest Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "tidecrest-blade"
+    "uniqueName": "tidecrest-blade",
+    "speed": 2.6,
+    "dps": 34
   },
   {
     "itemId": 15801,
@@ -10504,7 +10978,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:15801::::::::::0|h[Valiant Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "valiant-shortsword"
+    "uniqueName": "valiant-shortsword",
+    "speed": 2.1,
+    "dps": 34.5
   },
   {
     "itemId": 16890,
@@ -10556,7 +11032,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:16890::::::::::0|h[Slatemetal Cutlass]|h|r",
     "contentPhase": 1,
-    "uniqueName": "slatemetal-cutlass"
+    "uniqueName": "slatemetal-cutlass",
+    "speed": 2.2,
+    "dps": 12.3
   },
   {
     "itemId": 18463,
@@ -10601,7 +11079,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:18463::::::::::0|h[Ogre Pocket Knife]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ogre-pocket-knife"
+    "uniqueName": "ogre-pocket-knife",
+    "speed": 2.4,
+    "dps": 35.8
   },
   {
     "itemId": 19040,
@@ -10653,7 +11133,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:19040::::::::::0|h[Zorbin's Mega-Slicer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "zorbins-mega-slicer"
+    "uniqueName": "zorbins-mega-slicer",
+    "speed": 2.3,
+    "dps": 28.7
   },
   {
     "itemId": 41024,
@@ -10699,7 +11181,9 @@
     },
     "itemLink": "|cffffffff|Hitem:41024::::::::::0|h[Barnacle-covered Scimitar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "barnacle-covered-scimitar"
+    "uniqueName": "barnacle-covered-scimitar",
+    "speed": 2.1,
+    "dps": 2.1
   },
   {
     "itemId": 51041,
@@ -10732,7 +11216,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:51041::::::::::0|h[Falchion of the Templar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "falchion-of-the-templar"
+    "uniqueName": "falchion-of-the-templar",
+    "speed": 1,
+    "dps": 1.5
   },
   {
     "itemId": 51793,
@@ -10787,7 +11273,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:51793::::::::::0|h[Otherworldly Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "otherworldly-blade"
+    "uniqueName": "otherworldly-blade",
+    "speed": 2.1,
+    "dps": 24
   },
   {
     "itemId": 60169,
@@ -10842,7 +11330,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:60169::::::::::0|h[Sorrowguard Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sorrowguard-shortsword"
+    "uniqueName": "sorrowguard-shortsword",
+    "speed": 2.4,
+    "dps": 24
   },
   {
     "itemId": 60764,
@@ -10892,7 +11382,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:60764::::::::::0|h[The Dune Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-dune-blade"
+    "uniqueName": "the-dune-blade",
+    "speed": 2.2,
+    "dps": 32.3
   },
   {
     "itemId": 61373,
@@ -10931,7 +11423,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:61373::::::::::0|h[Venom Infused Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "venom-infused-blade"
+    "uniqueName": "venom-infused-blade",
+    "speed": 2.5,
+    "dps": 4.2
   },
   {
     "itemId": 61529,
@@ -10973,7 +11467,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:61529::::::::::0|h[Pirate's Scimitar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "pirates-scimitar"
+    "uniqueName": "pirates-scimitar",
+    "speed": 2.4,
+    "dps": 31.5
   },
   {
     "itemId": 80501,
@@ -11015,7 +11511,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:80501::::::::::0|h[Sturdy Broadsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sturdy-broadsword"
+    "uniqueName": "sturdy-broadsword",
+    "speed": 2.1,
+    "dps": 8.1
   },
   {
     "itemId": 25,
@@ -11048,7 +11546,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:25::::::::::0|h[Worn Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "worn-shortsword"
+    "uniqueName": "worn-shortsword",
+    "speed": 1.9,
+    "dps": 1.1
   },
   {
     "itemId": 923,
@@ -11084,7 +11584,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:923::::::::::0|h[Longsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "longsword"
+    "uniqueName": "longsword",
+    "speed": 2.3,
+    "dps": 12.2
   },
   {
     "itemId": 945,
@@ -11117,7 +11619,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:945::::::::::0|h[Shadow Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "shadow-sword"
+    "uniqueName": "shadow-sword",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 948,
@@ -11150,7 +11654,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:948::::::::::0|h[Nature Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "nature-sword"
+    "uniqueName": "nature-sword",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 1008,
@@ -11196,7 +11702,9 @@
     },
     "itemLink": "|cffffffff|Hitem:1008::::::::::0|h[Well-used Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "well-used-sword"
+    "uniqueName": "well-used-sword",
+    "speed": 2.1,
+    "dps": 4.3
   },
   {
     "itemId": 1161,
@@ -11242,7 +11750,9 @@
     },
     "itemLink": "|cffffffff|Hitem:1161::::::::::0|h[Militia Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "militia-shortsword"
+    "uniqueName": "militia-shortsword",
+    "speed": 2.5,
+    "dps": 2
   },
   {
     "itemId": 1413,
@@ -11278,7 +11788,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1413::::::::::0|h[Feeble Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "feeble-sword"
+    "uniqueName": "feeble-sword",
+    "speed": 2,
+    "dps": 2.5
   },
   {
     "itemId": 1511,
@@ -11314,7 +11826,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1511::::::::::0|h[Commoner's Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "commoners-sword"
+    "uniqueName": "commoners-sword",
+    "speed": 2.3,
+    "dps": 3.9
   },
   {
     "itemId": 2027,
@@ -11350,7 +11864,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2027::::::::::0|h[Scimitar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "scimitar"
+    "uniqueName": "scimitar",
+    "speed": 2.3,
+    "dps": 8.7
   },
   {
     "itemId": 2057,
@@ -11383,7 +11899,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2057::::::::::0|h[Pitted Defias Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "pitted-defias-shortsword"
+    "uniqueName": "pitted-defias-shortsword",
+    "speed": 2,
+    "dps": 1.5
   },
   {
     "itemId": 2065,
@@ -11419,7 +11937,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2065::::::::::0|h[Rockjaw Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rockjaw-blade"
+    "uniqueName": "rockjaw-blade",
+    "speed": 2.1,
+    "dps": 3.8
   },
   {
     "itemId": 2131,
@@ -11452,7 +11972,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2131::::::::::0|h[Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "shortsword"
+    "uniqueName": "shortsword",
+    "speed": 2.6,
+    "dps": 1.2
   },
   {
     "itemId": 2147,
@@ -11485,7 +12007,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2147::::::::::0|h[Monster - Sword, Falchion]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-falchion"
+    "uniqueName": "monster-sword-falchion",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 2268,
@@ -11521,7 +12045,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2268::::::::::0|h[Stonesplinter Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stonesplinter-blade"
+    "uniqueName": "stonesplinter-blade",
+    "speed": 2,
+    "dps": 4.5
   },
   {
     "itemId": 2282,
@@ -11557,7 +12083,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2282::::::::::0|h[Rodentia Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rodentia-shortsword"
+    "uniqueName": "rodentia-shortsword",
+    "speed": 2.3,
+    "dps": 4.3
   },
   {
     "itemId": 2481,
@@ -11590,7 +12118,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2481::::::::::0|h[Peon Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "peon-sword"
+    "uniqueName": "peon-sword",
+    "speed": 2.4,
+    "dps": 1.5
   },
   {
     "itemId": 2488,
@@ -11626,7 +12156,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2488::::::::::0|h[Gladius]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gladius"
+    "uniqueName": "gladius",
+    "speed": 2.1,
+    "dps": 3.8
   },
   {
     "itemId": 2496,
@@ -11662,7 +12194,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2496::::::::::0|h[Raider Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "raider-shortsword"
+    "uniqueName": "raider-shortsword",
+    "speed": 2.5,
+    "dps": 3.2
   },
   {
     "itemId": 2540,
@@ -11698,7 +12232,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2540::::::::::0|h[Gamemaster's Blade of Silence]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gamemasters-blade-of-silence"
+    "uniqueName": "gamemasters-blade-of-silence",
+    "speed": 2.2,
+    "dps": 40.7
   },
   {
     "itemId": 3278,
@@ -11737,7 +12273,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:3278::::::::::0|h[Aura Proc Damage Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "aura-proc-damage-sword"
+    "uniqueName": "aura-proc-damage-sword",
+    "speed": 2,
+    "dps": 9.5
   },
   {
     "itemId": 3319,
@@ -11773,7 +12311,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:3319::::::::::0|h[Short Sabre]|h|r",
     "contentPhase": 1,
-    "uniqueName": "short-sabre"
+    "uniqueName": "short-sabre",
+    "speed": 1.9,
+    "dps": 3.9
   },
   {
     "itemId": 3783,
@@ -11809,7 +12349,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:3783::::::::::0|h[Light Scimitar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "light-scimitar"
+    "uniqueName": "light-scimitar",
+    "speed": 1.9,
+    "dps": 11.3
   },
   {
     "itemId": 3935,
@@ -11845,7 +12387,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:3935::::::::::0|h[Smotts' Cutlass]|h|r",
     "contentPhase": 1,
-    "uniqueName": "smotts-cutlass"
+    "uniqueName": "smotts-cutlass",
+    "speed": 1.9,
+    "dps": 11.6
   },
   {
     "itemId": 4932,
@@ -11891,7 +12435,9 @@
     },
     "itemLink": "|cffffffff|Hitem:4932::::::::::0|h[Harpy Wing Clipper]|h|r",
     "contentPhase": 1,
-    "uniqueName": "harpy-wing-clipper"
+    "uniqueName": "harpy-wing-clipper",
+    "speed": 2.6,
+    "dps": 5
   },
   {
     "itemId": 5305,
@@ -11924,7 +12470,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5305::::::::::0|h[Monster - Sword, Broadsword Silver Hilt]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-broadsword-silver-hilt"
+    "uniqueName": "monster-sword-broadsword-silver-hilt",
+    "speed": 1.7,
+    "dps": 0.9
   },
   {
     "itemId": 5586,
@@ -11970,7 +12518,9 @@
     },
     "itemLink": "|cffffffff|Hitem:5586::::::::::0|h[Thistlewood Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thistlewood-blade"
+    "uniqueName": "thistlewood-blade",
+    "speed": 2.2,
+    "dps": 2
   },
   {
     "itemId": 12304,
@@ -12003,7 +12553,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12304::::::::::0|h[Monster - Sword, Horde Broad Pointed]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-horde-broad-pointed"
+    "uniqueName": "monster-sword-horde-broad-pointed",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 12944,
@@ -12036,7 +12588,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12944::::::::::0|h[Monster - Sword, Golden Long]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-golden-long"
+    "uniqueName": "monster-sword-golden-long",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 12993,
@@ -12069,7 +12623,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12993::::::::::0|h[Monster - Sword, Green Gold Scimitar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-green-gold-scimitar"
+    "uniqueName": "monster-sword-green-gold-scimitar",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13222,
@@ -12102,7 +12658,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13222::::::::::0|h[Monster - Sword, Flaming Crimson Battlemage Longsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-flaming-crimson-battlemage-longsword"
+    "uniqueName": "monster-sword-flaming-crimson-battlemage-longsword",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13504,
@@ -12135,7 +12693,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13504::::::::::0|h[Monster - Sword, Doomguard]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-doomguard"
+    "uniqueName": "monster-sword-doomguard",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13816,
@@ -12171,7 +12731,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13816::::::::::0|h[Fine Longsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fine-longsword"
+    "uniqueName": "fine-longsword",
+    "speed": 2.2,
+    "dps": 18.4
   },
   {
     "itemId": 14085,
@@ -12204,7 +12766,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:14085::::::::::0|h[Monster - Glaive Vol'jin]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-glaive-voljin"
+    "uniqueName": "monster-glaive-voljin",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 14871,
@@ -12237,7 +12801,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:14871::::::::::0|h[Monster - Sword, Horde C02 Purple]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-horde-c02-purple"
+    "uniqueName": "monster-sword-horde-c02-purple",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 17382,
@@ -12273,7 +12839,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:17382::::::::::0|h[Moonshadow Glaive]|h|r",
     "contentPhase": 1,
-    "uniqueName": "moonshadow-glaive"
+    "uniqueName": "moonshadow-glaive",
+    "speed": 2.3,
+    "dps": 0.7
   },
   {
     "itemId": 18610,
@@ -12309,7 +12877,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:18610::::::::::0|h[Keen Machete]|h|r",
     "contentPhase": 1,
-    "uniqueName": "keen-machete"
+    "uniqueName": "keen-machete",
+    "speed": 1.8,
+    "dps": 2.5
   },
   {
     "itemId": 21573,
@@ -12342,7 +12912,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:21573::::::::::0|h[Monster - Sword, 1H Alliance PvP]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-1h-alliance-pvp"
+    "uniqueName": "monster-sword-1h-alliance-pvp",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 22738,
@@ -12375,7 +12947,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:22738::::::::::0|h[Monster - Sword, 1H Uber Demon Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-1h-uber-demon-blade"
+    "uniqueName": "monster-sword-1h-uber-demon-blade",
+    "speed": 3.3,
+    "dps": 0.6
   },
   {
     "itemId": 23743,
@@ -12411,7 +12985,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:23743::::::::::0|h[Monster - Sword 1H - Widow's Remorse]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-1h-widows-remorse"
+    "uniqueName": "monster-sword-1h-widows-remorse",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 41111,
@@ -12457,7 +13033,9 @@
     },
     "itemLink": "|cffffffff|Hitem:41111::::::::::0|h[Marauder Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "marauder-blade"
+    "uniqueName": "marauder-blade",
+    "speed": 2.2,
+    "dps": 2
   },
   {
     "itemId": 41155,
@@ -12506,7 +13084,9 @@
     },
     "itemLink": "|cffffffff|Hitem:41155::::::::::0|h[Lynx Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lynx-sword"
+    "uniqueName": "lynx-sword",
+    "speed": 2.5,
+    "dps": 3.2
   },
   {
     "itemId": 50030,
@@ -12542,7 +13122,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:50030::::::::::0|h[Zaman's Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "zamans-claw"
+    "uniqueName": "zamans-claw",
+    "speed": 2.3,
+    "dps": 0.7
   },
   {
     "itemId": 50031,
@@ -12575,7 +13157,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:50031::::::::::0|h[Raytaf's Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "raytafs-claw"
+    "uniqueName": "raytafs-claw",
+    "speed": 2.3,
+    "dps": 0.7
   },
   {
     "itemId": 50094,
@@ -12611,7 +13195,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:50094::::::::::0|h[Sword of a Thousand Truths]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sword-of-a-thousand-truths"
+    "uniqueName": "sword-of-a-thousand-truths",
+    "speed": 2.3,
+    "dps": 0.7
   },
   {
     "itemId": 61751,
@@ -12797,7 +13383,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1817::::::::::0|h[Stock Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stock-shortsword"
+    "uniqueName": "stock-shortsword",
+    "speed": 1.8,
+    "dps": 5.8
   },
   {
     "itemId": 1821,
@@ -12833,7 +13421,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1821::::::::::0|h[Warped Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "warped-blade"
+    "uniqueName": "warped-blade",
+    "speed": 1.6,
+    "dps": 7.2
   },
   {
     "itemId": 1829,
@@ -12869,7 +13459,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1829::::::::::0|h[Short Cutlass]|h|r",
     "contentPhase": 1,
-    "uniqueName": "short-cutlass"
+    "uniqueName": "short-cutlass",
+    "speed": 2.7,
+    "dps": 9.1
   },
   {
     "itemId": 1895,
@@ -12902,7 +13494,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1895::::::::::0|h[Monster - Sword, Short Rusty]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-short-rusty"
+    "uniqueName": "monster-sword-short-rusty",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 1896,
@@ -12935,7 +13529,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1896::::::::::0|h[Monster - Sword, Short Basic]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-short-basic"
+    "uniqueName": "monster-sword-short-basic",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 1897,
@@ -12968,7 +13564,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1897::::::::::0|h[Monster - Sword, Scimitar Basic]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-scimitar-basic"
+    "uniqueName": "monster-sword-scimitar-basic",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 1899,
@@ -13001,7 +13599,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1899::::::::::0|h[Monster - Sword, Long Basic]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-long-basic"
+    "uniqueName": "monster-sword-long-basic",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 1900,
@@ -13034,7 +13634,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1900::::::::::0|h[Monster - Thieves Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-thieves-blade"
+    "uniqueName": "monster-thieves-blade",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 2178,
@@ -13067,7 +13669,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2178::::::::::0|h[Monster - Sword, Long Ornate]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-long-ornate"
+    "uniqueName": "monster-sword-long-ornate",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 2179,
@@ -13100,7 +13704,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2179::::::::::0|h[Monster - Sword, Scimitar Badass]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-scimitar-badass"
+    "uniqueName": "monster-sword-scimitar-badass",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 2180,
@@ -13133,7 +13739,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2180::::::::::0|h[Monster - Sword, Short Ornate]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-short-ornate"
+    "uniqueName": "monster-sword-short-ornate",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 3364,
@@ -13166,7 +13774,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:3364::::::::::0|h[Monster - Sword, Rapier]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-rapier"
+    "uniqueName": "monster-sword-rapier",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 4017,
@@ -13202,7 +13812,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:4017::::::::::0|h[Sharp Shortsword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sharp-shortsword"
+    "uniqueName": "sharp-shortsword",
+    "speed": 1.8,
+    "dps": 16.4
   },
   {
     "itemId": 5502,
@@ -13235,7 +13847,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5502::::::::::0|h[Monster - Sword2H, Broadsword (1H, Special)]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword2h-broadsword-1h-special"
+    "uniqueName": "monster-sword2h-broadsword-1h-special",
+    "speed": 2.6,
+    "dps": 0.8
   },
   {
     "itemId": 10613,
@@ -13268,7 +13882,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:10613::::::::::0|h[Monster - Sword, Katana]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-katana"
+    "uniqueName": "monster-sword-katana",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 10614,
@@ -13301,7 +13917,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:10614::::::::::0|h[Monster - Sword, Horde Sword Black]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-horde-sword-black"
+    "uniqueName": "monster-sword-horde-sword-black",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 10615,
@@ -13334,7 +13952,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:10615::::::::::0|h[Monster - Sword, Horde Sword Red]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-horde-sword-red"
+    "uniqueName": "monster-sword-horde-sword-red",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 10825,
@@ -13367,7 +13987,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:10825::::::::::0|h[Monster - Sword, Red Long]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-red-long"
+    "uniqueName": "monster-sword-red-long",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 10878,
@@ -13400,7 +14022,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:10878::::::::::0|h[Monster - Sword, Horde Jagged Green]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-horde-jagged-green"
+    "uniqueName": "monster-sword-horde-jagged-green",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 10898,
@@ -13433,7 +14057,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:10898::::::::::0|h[Monster - Sword, Horde Sword Centurion]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-horde-sword-centurion"
+    "uniqueName": "monster-sword-horde-sword-centurion",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 11019,
@@ -13466,7 +14092,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:11019::::::::::0|h[Monster - Sword, Horde Jagged Bloody]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-horde-jagged-bloody"
+    "uniqueName": "monster-sword-horde-jagged-bloody",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 11025,
@@ -13499,7 +14127,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:11025::::::::::0|h[Monster - Sword, Katana 2H]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-katana-2h"
+    "uniqueName": "monster-sword-katana-2h",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 11042,
@@ -13532,7 +14162,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:11042::::::::::0|h[Monster - Sword, Horde Jagged w/ Bolts]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-horde-jagged-w-bolts"
+    "uniqueName": "monster-sword-horde-jagged-w-bolts",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 12142,
@@ -13565,7 +14197,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12142::::::::::0|h[Monster - Sword, Thick/Fat Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-thick-fat-blade"
+    "uniqueName": "monster-sword-thick-fat-blade",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 12297,
@@ -13598,7 +14232,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12297::::::::::0|h[Monster - Sword, Horde Jagged Brown]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-horde-jagged-brown"
+    "uniqueName": "monster-sword-horde-jagged-brown",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 12593,
@@ -13631,7 +14267,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12593::::::::::0|h[Monster - Sword, Horde Sword Bronze]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-horde-sword-bronze"
+    "uniqueName": "monster-sword-horde-sword-bronze",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 12890,
@@ -13664,7 +14302,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12890::::::::::0|h[Monster - Sword, Militia Long Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-militia-long-sword"
+    "uniqueName": "monster-sword-militia-long-sword",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 12892,
@@ -13697,7 +14337,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12892::::::::::0|h[Monster - Sword1H, Dark Short Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword1h-dark-short-sword"
+    "uniqueName": "monster-sword1h-dark-short-sword",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13165,
@@ -13730,7 +14372,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13165::::::::::0|h[Monster - Sword, Long Silver - Green Pommel]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-long-silver-green-pommel"
+    "uniqueName": "monster-sword-long-silver-green-pommel",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13627,
@@ -13763,7 +14407,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13627::::::::::0|h[Monster - Sword, Horde Jagged Blue]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-horde-jagged-blue"
+    "uniqueName": "monster-sword-horde-jagged-blue",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13707,
@@ -13796,7 +14442,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13707::::::::::0|h[Monster - Sword, Horde Sword B04 Black]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-horde-sword-b04-black"
+    "uniqueName": "monster-sword-horde-sword-b04-black",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13718,
@@ -13829,7 +14477,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13718::::::::::0|h[Monster - Sword, Horde Jagged Red]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-horde-jagged-red"
+    "uniqueName": "monster-sword-horde-jagged-red",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13719,
@@ -13862,7 +14512,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13719::::::::::0|h[Monster - Sword, Horde Jagged Red w/ Low Yellow Glow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-horde-jagged-red-w-low-yellow-glow"
+    "uniqueName": "monster-sword-horde-jagged-red-w-low-yellow-glow",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 14524,
@@ -13895,7 +14547,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:14524::::::::::0|h[Monster - Sword, Katana 2H Gold]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-katana-2h-gold"
+    "uniqueName": "monster-sword-katana-2h-gold",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 17123,
@@ -13928,7 +14582,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:17123::::::::::0|h[Monster - Sword, Horde Troll]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-horde-troll"
+    "uniqueName": "monster-sword-horde-troll",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 18167,
@@ -13961,7 +14617,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:18167::::::::::0|h[Monster - Sword, Machete C01]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-machete-c01"
+    "uniqueName": "monster-sword-machete-c01",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 18983,
@@ -13994,7 +14652,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:18983::::::::::0|h[Monster - Sword, Longsword Exotic Black - Low Red Flame]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-longsword-exotic-black-low-red-flame"
+    "uniqueName": "monster-sword-longsword-exotic-black-low-red-flame",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 18985,
@@ -14027,7 +14687,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:18985::::::::::0|h[Monster - Sword, Long Silver - Green Pommel - High Black Glow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-long-silver-green-pommel-high-black-glow"
+    "uniqueName": "monster-sword-long-silver-green-pommel-high-black-glow",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 41984,
@@ -14060,7 +14722,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:41984::::::::::0|h[Monster - Sword1H, Doomguard Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword1h-doomguard-sword"
+    "uniqueName": "monster-sword1h-doomguard-sword",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 50433,
@@ -14093,7 +14757,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:50433::::::::::0|h[Monster, Sword Spear Red]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword-spear-red"
+    "uniqueName": "monster-sword-spear-red",
+    "speed": 2.2,
+    "dps": 1.6
   },
   {
     "itemId": 15253,
@@ -14132,7 +14798,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15253::::::::::0|h[Beheading Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "beheading-blade"
+    "uniqueName": "beheading-blade",
+    "speed": 3.5,
+    "dps": 40.4
   },
   {
     "itemId": 15251,
@@ -14171,7 +14839,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15251::::::::::0|h[Headstriker Sword]|h|r",
     "contentPhase": 1,
-    "uniqueName": "headstriker-sword"
+    "uniqueName": "headstriker-sword",
+    "speed": 2.4,
+    "dps": 32.5
   },
   {
     "itemId": 3366,
@@ -14204,7 +14874,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:3366::::::::::0|h[Monster - Sword2H, Katana]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword2h-katana"
+    "uniqueName": "monster-sword2h-katana",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 11087,
@@ -14237,7 +14909,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:11087::::::::::0|h[Monster - Sword2H, Ragglesnout X'Caliboar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword2h-ragglesnout-xcaliboar"
+    "uniqueName": "monster-sword2h-ragglesnout-xcaliboar",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 11591,
@@ -14270,7 +14944,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:11591::::::::::0|h[Monster - Sword2H, Battlefield Destroyer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword2h-battlefield-destroyer"
+    "uniqueName": "monster-sword2h-battlefield-destroyer",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 12949,
@@ -14303,7 +14979,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12949::::::::::0|h[Monster - Sword2H, Red White Broad]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword2h-red-white-broad"
+    "uniqueName": "monster-sword2h-red-white-broad",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 14878,
@@ -14336,7 +15014,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:14878::::::::::0|h[Monster - Sword2H, Katana B01 Red]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword2h-katana-b01-red"
+    "uniqueName": "monster-sword2h-katana-b01-red",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 19981,
@@ -14369,7 +15049,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:19981::::::::::0|h[Monster - Sword2H, Claymore B01/Broadsword A03 Black Sharpened]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword2h-claymore-b01-broadsword-a03-black-sharpened"
+    "uniqueName": "monster-sword2h-claymore-b01-broadsword-a03-black-sharpened",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 21553,
@@ -14402,6 +15084,8 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:21553::::::::::0|h[Monster - Sword2H, Alliance PvP]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-sword2h-alliance-pvp"
+    "uniqueName": "monster-sword2h-alliance-pvp",
+    "speed": 2,
+    "dps": 0.8
   }
 ]

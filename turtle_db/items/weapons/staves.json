@@ -48,7 +48,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:812::::::::::0|h[Glowing Brightwood Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "glowing-brightwood-staff"
+    "uniqueName": "glowing-brightwood-staff",
+    "speed": 3.1,
+    "dps": 51.3
   },
   {
     "itemId": 873,
@@ -93,7 +95,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:873::::::::::0|h[Staff of Jordan]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-jordan"
+    "uniqueName": "staff-of-jordan",
+    "speed": 3.7,
+    "dps": 40.4
   },
   {
     "itemId": 943,
@@ -138,7 +142,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:943::::::::::0|h[Warden Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "warden-staff"
+    "uniqueName": "warden-staff",
+    "speed": 2.4,
+    "dps": 46.5
   },
   {
     "itemId": 944,
@@ -183,7 +189,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:944::::::::::0|h[Elemental Mage Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "elemental-mage-staff"
+    "uniqueName": "elemental-mage-staff",
+    "speed": 3.2,
+    "dps": 57.5
   },
   {
     "itemId": 13249,
@@ -238,7 +246,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:13249::::::::::0|h[Argent Crusader]|h|r",
     "contentPhase": 1,
-    "uniqueName": "argent-crusader"
+    "uniqueName": "argent-crusader",
+    "speed": 3,
+    "dps": 53
   },
   {
     "itemId": 17113,
@@ -295,7 +305,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:17113::::::::::0|h[Amberseal Keeper]|h|r",
     "contentPhase": 1,
-    "uniqueName": "amberseal-keeper"
+    "uniqueName": "amberseal-keeper",
+    "speed": 3.3,
+    "dps": 56.6
   },
   {
     "itemId": 18608,
@@ -346,7 +358,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18608::::::::::0|h[Benediction]|h|r",
     "contentPhase": 1,
-    "uniqueName": "benediction"
+    "uniqueName": "benediction",
+    "speed": 3,
+    "dps": 59.3
   },
   {
     "itemId": 18609,
@@ -394,7 +408,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18609::::::::::0|h[Anathema]|h|r",
     "contentPhase": 1,
-    "uniqueName": "anathema"
+    "uniqueName": "anathema",
+    "speed": 3,
+    "dps": 59.3
   },
   {
     "itemId": 18715,
@@ -445,7 +461,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18715::::::::::0|h[Lok'delar, Stave of the Ancient Keepers]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lokdelar-stave-of-the-ancient-keepers"
+    "uniqueName": "lokdelar-stave-of-the-ancient-keepers",
+    "speed": 3.2,
+    "dps": 73.3
   },
   {
     "itemId": 18842,
@@ -493,7 +511,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18842::::::::::0|h[Staff of Dominance]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-dominance"
+    "uniqueName": "staff-of-dominance",
+    "speed": 2.9,
+    "dps": 57.1
   },
   {
     "itemId": 18873,
@@ -541,7 +561,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18873::::::::::0|h[Grand Marshal's Stave]|h|r",
     "contentPhase": 1,
-    "uniqueName": "grand-marshals-stave"
+    "uniqueName": "grand-marshals-stave",
+    "speed": 3,
+    "dps": 61.5
   },
   {
     "itemId": 18874,
@@ -589,7 +611,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18874::::::::::0|h[High Warlord's War Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "high-warlords-war-staff"
+    "uniqueName": "high-warlords-war-staff",
+    "speed": 3,
+    "dps": 61.5
   },
   {
     "itemId": 19355,
@@ -637,7 +661,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19355::::::::::0|h[Shadow Wing Focus Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "shadow-wing-focus-staff"
+    "uniqueName": "shadow-wing-focus-staff",
+    "speed": 3.2,
+    "dps": 59.3
   },
   {
     "itemId": 19356,
@@ -685,7 +711,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19356::::::::::0|h[Staff of the Shadow Flame]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-the-shadow-flame"
+    "uniqueName": "staff-of-the-shadow-flame",
+    "speed": 3.2,
+    "dps": 60.9
   },
   {
     "itemId": 19566,
@@ -730,7 +758,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19566::::::::::0|h[Advisor's Gnarled Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "advisors-gnarled-staff"
+    "uniqueName": "advisors-gnarled-staff",
+    "speed": 2.9,
+    "dps": 54
   },
   {
     "itemId": 19567,
@@ -775,7 +805,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19567::::::::::0|h[Advisor's Gnarled Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "advisors-gnarled-staff"
+    "uniqueName": "advisors-gnarled-staff",
+    "speed": 2.9,
+    "dps": 45.9
   },
   {
     "itemId": 19568,
@@ -820,7 +852,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19568::::::::::0|h[Advisor's Gnarled Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "advisors-gnarled-staff"
+    "uniqueName": "advisors-gnarled-staff",
+    "speed": 2.9,
+    "dps": 38.1
   },
   {
     "itemId": 19569,
@@ -865,7 +899,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19569::::::::::0|h[Advisor's Gnarled Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "advisors-gnarled-staff"
+    "uniqueName": "advisors-gnarled-staff",
+    "speed": 2.9,
+    "dps": 27.8
   },
   {
     "itemId": 19884,
@@ -910,7 +946,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19884::::::::::0|h[Jin'do's Judgement]|h|r",
     "contentPhase": 1,
-    "uniqueName": "jindos-judgement"
+    "uniqueName": "jindos-judgement",
+    "speed": 3.3,
+    "dps": 56.1
   },
   {
     "itemId": 19909,
@@ -958,7 +996,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19909::::::::::0|h[Will of Arlokk]|h|r",
     "contentPhase": 1,
-    "uniqueName": "will-of-arlokk"
+    "uniqueName": "will-of-arlokk",
+    "speed": 3,
+    "dps": 55.5
   },
   {
     "itemId": 19944,
@@ -1006,7 +1046,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19944::::::::::0|h[Nat Pagle's Fish Terminator]|h|r",
     "contentPhase": 1,
-    "uniqueName": "nat-pagles-fish-terminator"
+    "uniqueName": "nat-pagles-fish-terminator",
+    "speed": 3.5,
+    "dps": 61.4
   },
   {
     "itemId": 20069,
@@ -1054,7 +1096,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:20069::::::::::0|h[Ironbark Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ironbark-staff"
+    "uniqueName": "ironbark-staff",
+    "speed": 3.4,
+    "dps": 55.8
   },
   {
     "itemId": 20220,
@@ -1102,7 +1146,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:20220::::::::::0|h[Ironbark Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ironbark-staff"
+    "uniqueName": "ironbark-staff",
+    "speed": 3.4,
+    "dps": 55.8
   },
   {
     "itemId": 20425,
@@ -1147,7 +1193,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:20425::::::::::0|h[Advisor's Gnarled Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "advisors-gnarled-staff"
+    "uniqueName": "advisors-gnarled-staff",
+    "speed": 2.9,
+    "dps": 19.7
   },
   {
     "itemId": 20487,
@@ -1198,7 +1246,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:20487::::::::::0|h[Lok'delar, Stave of the Ancient Keepers DEP]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lokdelar-stave-of-the-ancient-keepers-dep"
+    "uniqueName": "lokdelar-stave-of-the-ancient-keepers-dep",
+    "speed": 3.2,
+    "dps": 73.3
   },
   {
     "itemId": 20581,
@@ -1246,7 +1296,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:20581::::::::::0|h[Staff of Rampant Growth]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-rampant-growth"
+    "uniqueName": "staff-of-rampant-growth",
+    "speed": 2.6,
+    "dps": 57.3
   },
   {
     "itemId": 20654,
@@ -1291,7 +1343,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:20654::::::::::0|h[Amethyst War Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "amethyst-war-staff"
+    "uniqueName": "amethyst-war-staff",
+    "speed": 2.9,
+    "dps": 51.4
   },
   {
     "itemId": 21128,
@@ -1342,7 +1396,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:21128::::::::::0|h[Staff of the Qiraji Prophets]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-the-qiraji-prophets"
+    "uniqueName": "staff-of-the-qiraji-prophets",
+    "speed": 2.9,
+    "dps": 59.3
   },
   {
     "itemId": 21273,
@@ -1394,7 +1450,9 @@
     },
     "itemLink": "|cffa335ee|Hitem:21273::::::::::0|h[Blessed Qiraji Acolyte Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blessed-qiraji-acolyte-staff"
+    "uniqueName": "blessed-qiraji-acolyte-staff",
+    "speed": 3,
+    "dps": 59.8
   },
   {
     "itemId": 21275,
@@ -1446,7 +1504,9 @@
     },
     "itemLink": "|cffa335ee|Hitem:21275::::::::::0|h[Blessed Qiraji Augur Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blessed-qiraji-augur-staff"
+    "uniqueName": "blessed-qiraji-augur-staff",
+    "speed": 3,
+    "dps": 59.8
   },
   {
     "itemId": 21452,
@@ -1494,7 +1554,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:21452::::::::::0|h[Staff of the Ruins]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-the-ruins"
+    "uniqueName": "staff-of-the-ruins",
+    "speed": 3.4,
+    "dps": 58.6
   },
   {
     "itemId": 22589,
@@ -1549,7 +1611,9 @@
     },
     "itemLink": "|cffff8000|Hitem:22589::::::::::0|h[Atiesh, Greatstaff of the Guardian]|h|r",
     "contentPhase": 1,
-    "uniqueName": "atiesh-greatstaff-of-the-guardian"
+    "uniqueName": "atiesh-greatstaff-of-the-guardian",
+    "speed": 2.9,
+    "dps": 64.3
   },
   {
     "itemId": 22630,
@@ -1601,7 +1665,9 @@
     },
     "itemLink": "|cffff8000|Hitem:22630::::::::::0|h[Atiesh, Greatstaff of the Guardian]|h|r",
     "contentPhase": 1,
-    "uniqueName": "atiesh-greatstaff-of-the-guardian"
+    "uniqueName": "atiesh-greatstaff-of-the-guardian",
+    "speed": 2.9,
+    "dps": 64.3
   },
   {
     "itemId": 22631,
@@ -1656,7 +1722,9 @@
     },
     "itemLink": "|cffff8000|Hitem:22631::::::::::0|h[Atiesh, Greatstaff of the Guardian]|h|r",
     "contentPhase": 1,
-    "uniqueName": "atiesh-greatstaff-of-the-guardian"
+    "uniqueName": "atiesh-greatstaff-of-the-guardian",
+    "speed": 2.9,
+    "dps": 64.3
   },
   {
     "itemId": 22632,
@@ -1714,7 +1782,9 @@
     },
     "itemLink": "|cffff8000|Hitem:22632::::::::::0|h[Atiesh, Greatstaff of the Guardian]|h|r",
     "contentPhase": 1,
-    "uniqueName": "atiesh-greatstaff-of-the-guardian"
+    "uniqueName": "atiesh-greatstaff-of-the-guardian",
+    "speed": 2.9,
+    "dps": 64.3
   },
   {
     "itemId": 22799,
@@ -1759,7 +1829,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:22799::::::::::0|h[Soulseeker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "soulseeker"
+    "uniqueName": "soulseeker",
+    "speed": 3.2,
+    "dps": 63.6
   },
   {
     "itemId": 22800,
@@ -1804,7 +1876,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:22800::::::::::0|h[Brimstone Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "brimstone-staff"
+    "uniqueName": "brimstone-staff",
+    "speed": 3.2,
+    "dps": 60.9
   },
   {
     "itemId": 22801,
@@ -1849,7 +1923,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:22801::::::::::0|h[Spire of Twilight]|h|r",
     "contentPhase": 1,
-    "uniqueName": "spire-of-twilight"
+    "uniqueName": "spire-of-twilight",
+    "speed": 3.2,
+    "dps": 60.9
   },
   {
     "itemId": 55060,
@@ -1897,7 +1973,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:55060::::::::::0|h[Grandstaff of the Shen'dralar Elder]|h|r",
     "contentPhase": 1,
-    "uniqueName": "grandstaff-of-the-shendralar-elder"
+    "uniqueName": "grandstaff-of-the-shendralar-elder",
+    "speed": 3.3,
+    "dps": 56.7
   },
   {
     "itemId": 55348,
@@ -1942,7 +2020,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:55348::::::::::0|h[Kirel'narak, the Death Sentence]|h|r",
     "contentPhase": 1,
-    "uniqueName": "kirelnarak-the-death-sentence"
+    "uniqueName": "kirelnarak-the-death-sentence",
+    "speed": 3.2,
+    "dps": 60.9
   },
   {
     "itemId": 55365,
@@ -1990,7 +2070,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:55365::::::::::0|h[Rudeus' Focusing Cane]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rudeus-focusing-cane"
+    "uniqueName": "rudeus-focusing-cane",
+    "speed": 3.2,
+    "dps": 56.3
   },
   {
     "itemId": 58199,
@@ -2035,7 +2117,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:58199::::::::::0|h[Spine of Dentarg]|h|r",
     "contentPhase": 1,
-    "uniqueName": "spine-of-dentarg"
+    "uniqueName": "spine-of-dentarg",
+    "speed": 2.8,
+    "dps": 41.8
   },
   {
     "itemId": 60333,
@@ -2087,7 +2171,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:60333::::::::::0|h[Azshara Keeper's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "azshara-keepers-staff"
+    "uniqueName": "azshara-keepers-staff",
+    "speed": 2.2,
+    "dps": 52.5
   },
   {
     "itemId": 60905,
@@ -2129,7 +2215,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:60905::::::::::0|h[Batu'kar of the Second Khan]|h|r",
     "contentPhase": 1,
-    "uniqueName": "batukar-of-the-second-khan"
+    "uniqueName": "batukar-of-the-second-khan",
+    "speed": 3.2,
+    "dps": 51.6
   },
   {
     "itemId": 61208,
@@ -2177,7 +2265,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:61208::::::::::0|h[Staff of the Dreamer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-the-dreamer"
+    "uniqueName": "staff-of-the-dreamer",
+    "speed": 3,
+    "dps": 57.7
   },
   {
     "itemId": 61264,
@@ -2222,7 +2312,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:61264::::::::::0|h[Ansirem's Runeweaver]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ansirems-runeweaver"
+    "uniqueName": "ansirems-runeweaver",
+    "speed": 3.3,
+    "dps": 57.1
   },
   {
     "itemId": 61454,
@@ -2267,7 +2359,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:61454::::::::::0|h[Rod of Resuscitation]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rod-of-resuscitation"
+    "uniqueName": "rod-of-resuscitation",
+    "speed": 3.4,
+    "dps": 58.4
   },
   {
     "itemId": 81363,
@@ -2315,7 +2409,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:81363::::::::::0|h[Staff of Azure Domination]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-azure-domination"
+    "uniqueName": "staff-of-azure-domination",
+    "speed": 2.6,
+    "dps": 57.5
   },
   {
     "itemId": 84503,
@@ -2366,7 +2462,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:84503::::::::::0|h[Nature's Gift]|h|r",
     "contentPhase": 1,
-    "uniqueName": "natures-gift"
+    "uniqueName": "natures-gift",
+    "speed": 3.3,
+    "dps": 69.5
   },
   {
     "itemId": 791,
@@ -2411,7 +2509,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:791::::::::::0|h[Gnarled Ash Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gnarled-ash-staff"
+    "uniqueName": "gnarled-ash-staff",
+    "speed": 3.2,
+    "dps": 25.6
   },
   {
     "itemId": 937,
@@ -2450,7 +2550,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:937::::::::::0|h[Black Duskwood Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "black-duskwood-staff"
+    "uniqueName": "black-duskwood-staff",
+    "speed": 2.8,
+    "dps": 33.6
   },
   {
     "itemId": 4134,
@@ -2503,7 +2605,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:4134::::::::::0|h[Nimboya's Mystical Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "nimboyas-mystical-staff"
+    "uniqueName": "nimboyas-mystical-staff",
+    "speed": 2.3,
+    "dps": 40.4
   },
   {
     "itemId": 5201,
@@ -2551,7 +2655,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:5201::::::::::0|h[Emberstone Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "emberstone-staff"
+    "uniqueName": "emberstone-staff",
+    "speed": 3,
+    "dps": 19.7
   },
   {
     "itemId": 6318,
@@ -2596,7 +2702,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:6318::::::::::0|h[Odo's Ley Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "odos-ley-staff"
+    "uniqueName": "odos-ley-staff",
+    "speed": 2.9,
+    "dps": 21.7
   },
   {
     "itemId": 6505,
@@ -2651,7 +2759,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:6505::::::::::0|h[Crescent Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "crescent-staff"
+    "uniqueName": "crescent-staff",
+    "speed": 2.9,
+    "dps": 20.3
   },
   {
     "itemId": 6631,
@@ -2699,7 +2809,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:6631::::::::::0|h[Living Root]|h|r",
     "contentPhase": 1,
-    "uniqueName": "living-root"
+    "uniqueName": "living-root",
+    "speed": 2.9,
+    "dps": 21.2
   },
   {
     "itemId": 7710,
@@ -2741,7 +2853,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:7710::::::::::0|h[Loksey's Training Stick]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lokseys-training-stick"
+    "uniqueName": "lokseys-training-stick",
+    "speed": 3.1,
+    "dps": 31.3
   },
   {
     "itemId": 7713,
@@ -2789,7 +2903,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:7713::::::::::0|h[Illusionary Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "illusionary-rod"
+    "uniqueName": "illusionary-rod",
+    "speed": 3.4,
+    "dps": 34.7
   },
   {
     "itemId": 9408,
@@ -2834,7 +2950,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9408::::::::::0|h[Ironshod Bludgeon]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ironshod-bludgeon"
+    "uniqueName": "ironshod-bludgeon",
+    "speed": 2.5,
+    "dps": 37.2
   },
   {
     "itemId": 9452,
@@ -2876,7 +2994,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9452::::::::::0|h[Hydrocane]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hydrocane"
+    "uniqueName": "hydrocane",
+    "speed": 2.8,
+    "dps": 21.6
   },
   {
     "itemId": 9517,
@@ -2925,7 +3045,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:9517::::::::::0|h[Celestial Stave]|h|r",
     "contentPhase": 1,
-    "uniqueName": "celestial-stave"
+    "uniqueName": "celestial-stave",
+    "speed": 3,
+    "dps": 35.7
   },
   {
     "itemId": 10627,
@@ -2964,7 +3086,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:10627::::::::::0|h[Bludgeon of the Grinning Dog]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bludgeon-of-the-grinning-dog"
+    "uniqueName": "bludgeon-of-the-grinning-dog",
+    "speed": 3.4,
+    "dps": 41.2
   },
   {
     "itemId": 11750,
@@ -3015,7 +3139,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:11750::::::::::0|h[Kindling Stave]|h|r",
     "contentPhase": 1,
-    "uniqueName": "kindling-stave"
+    "uniqueName": "kindling-stave",
+    "speed": 2.9,
+    "dps": 45.9
   },
   {
     "itemId": 11932,
@@ -3063,7 +3189,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:11932::::::::::0|h[Guiding Stave of Wisdom]|h|r",
     "contentPhase": 1,
-    "uniqueName": "guiding-stave-of-wisdom"
+    "uniqueName": "guiding-stave-of-wisdom",
+    "speed": 3.3,
+    "dps": 50.5
   },
   {
     "itemId": 15854,
@@ -3115,7 +3243,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:15854::::::::::0|h[Dancing Sliver]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dancing-sliver"
+    "uniqueName": "dancing-sliver",
+    "speed": 2.4,
+    "dps": 51.3
   },
   {
     "itemId": 17743,
@@ -3166,7 +3296,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:17743::::::::::0|h[Resurgence Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "resurgence-rod"
+    "uniqueName": "resurgence-rod",
+    "speed": 3.8,
+    "dps": 45.8
   },
   {
     "itemId": 18311,
@@ -3214,7 +3346,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18311::::::::::0|h[Quel'dorei Channeling Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "queldorei-channeling-rod"
+    "uniqueName": "queldorei-channeling-rod",
+    "speed": 2.8,
+    "dps": 49.6
   },
   {
     "itemId": 19102,
@@ -3259,7 +3393,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19102::::::::::0|h[Crackling Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "crackling-staff"
+    "uniqueName": "crackling-staff",
+    "speed": 3.1,
+    "dps": 55.6
   },
   {
     "itemId": 19570,
@@ -3304,7 +3440,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19570::::::::::0|h[Lorekeeper's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lorekeepers-staff"
+    "uniqueName": "lorekeepers-staff",
+    "speed": 2.9,
+    "dps": 54
   },
   {
     "itemId": 19571,
@@ -3349,7 +3487,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19571::::::::::0|h[Lorekeeper's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lorekeepers-staff"
+    "uniqueName": "lorekeepers-staff",
+    "speed": 2.9,
+    "dps": 45.9
   },
   {
     "itemId": 19572,
@@ -3394,7 +3534,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19572::::::::::0|h[Lorekeeper's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lorekeepers-staff"
+    "uniqueName": "lorekeepers-staff",
+    "speed": 2.9,
+    "dps": 38.1
   },
   {
     "itemId": 19573,
@@ -3439,7 +3581,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19573::::::::::0|h[Lorekeeper's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lorekeepers-staff"
+    "uniqueName": "lorekeepers-staff",
+    "speed": 2.9,
+    "dps": 27.8
   },
   {
     "itemId": 20434,
@@ -3484,7 +3628,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:20434::::::::::0|h[Lorekeeper's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lorekeepers-staff"
+    "uniqueName": "lorekeepers-staff",
+    "speed": 2.9,
+    "dps": 19.7
   },
   {
     "itemId": 20522,
@@ -3529,7 +3675,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:20522::::::::::0|h[Feral Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "feral-staff"
+    "uniqueName": "feral-staff",
+    "speed": 3,
+    "dps": 45
   },
   {
     "itemId": 22335,
@@ -3574,7 +3722,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:22335::::::::::0|h[Lord Valthalak's Staff of Command]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lord-valthalaks-staff-of-command"
+    "uniqueName": "lord-valthalaks-staff-of-command",
+    "speed": 2.1,
+    "dps": 53.8
   },
   {
     "itemId": 22391,
@@ -3613,7 +3763,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:22391::::::::::0|h[Monster - Staff, Lord Valthalak]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-lord-valthalak"
+    "uniqueName": "monster-staff-lord-valthalak",
+    "speed": 2.1,
+    "dps": 53.8
   },
   {
     "itemId": 22406,
@@ -3655,7 +3807,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:22406::::::::::0|h[Redemption]|h|r",
     "contentPhase": 1,
-    "uniqueName": "redemption"
+    "uniqueName": "redemption",
+    "speed": 2.1,
+    "dps": 52.1
   },
   {
     "itemId": 22458,
@@ -3701,7 +3855,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:22458::::::::::0|h[Moonshadow Stave]|h|r",
     "contentPhase": 1,
-    "uniqueName": "moonshadow-stave"
+    "uniqueName": "moonshadow-stave",
+    "speed": 3.7,
+    "dps": 45
   },
   {
     "itemId": 50527,
@@ -3746,7 +3902,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:50527::::::::::0|h[Medic's Cane]|h|r",
     "contentPhase": 1,
-    "uniqueName": "medics-cane"
+    "uniqueName": "medics-cane",
+    "speed": 2.4,
+    "dps": 30
   },
   {
     "itemId": 50531,
@@ -3791,7 +3949,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:50531::::::::::0|h[Glyphed Baton]|h|r",
     "contentPhase": 1,
-    "uniqueName": "glyphed-baton"
+    "uniqueName": "glyphed-baton",
+    "speed": 2.8,
+    "dps": 31.4
   },
   {
     "itemId": 51833,
@@ -3840,7 +4000,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:51833::::::::::0|h[Femur Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "femur-staff"
+    "uniqueName": "femur-staff",
+    "speed": 3.2,
+    "dps": 27.8
   },
   {
     "itemId": 55037,
@@ -3888,7 +4050,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:55037::::::::::0|h[Gryphon Tamer Longstaff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gryphon-tamer-longstaff"
+    "uniqueName": "gryphon-tamer-longstaff",
+    "speed": 3,
+    "dps": 50.8
   },
   {
     "itemId": 55064,
@@ -3942,7 +4106,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:55064::::::::::0|h[Ol' Biggin's Substitute Broom]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ol-biggins-substitute-broom"
+    "uniqueName": "ol-biggins-substitute-broom",
+    "speed": 3.4,
+    "dps": 36.2
   },
   {
     "itemId": 55242,
@@ -3984,7 +4150,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:55242::::::::::0|h[Opaline Illuminator]|h|r",
     "contentPhase": 1,
-    "uniqueName": "opaline-illuminator"
+    "uniqueName": "opaline-illuminator",
+    "speed": 3.6,
+    "dps": 34.7
   },
   {
     "itemId": 55327,
@@ -4029,7 +4197,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:55327::::::::::0|h[Farraki Ceremony Totem]|h|r",
     "contentPhase": 1,
-    "uniqueName": "farraki-ceremony-totem"
+    "uniqueName": "farraki-ceremony-totem",
+    "speed": 3.2,
+    "dps": 25.6
   },
   {
     "itemId": 56071,
@@ -4074,7 +4244,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:56071::::::::::0|h[Regal Twilight Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "regal-twilight-staff"
+    "uniqueName": "regal-twilight-staff",
+    "speed": 2.8,
+    "dps": 44.3
   },
   {
     "itemId": 58044,
@@ -4122,7 +4294,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:58044::::::::::0|h[Ceremonial Dwarven Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ceremonial-dwarven-staff"
+    "uniqueName": "ceremonial-dwarven-staff",
+    "speed": 3.3,
+    "dps": 27.7
   },
   {
     "itemId": 58183,
@@ -4170,7 +4344,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:58183::::::::::0|h[Rod of Subjugation]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rod-of-subjugation"
+    "uniqueName": "rod-of-subjugation",
+    "speed": 3.4,
+    "dps": 34.7
   },
   {
     "itemId": 60383,
@@ -4221,7 +4397,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:60383::::::::::0|h[Fleetmaster's Cane]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fleetmasters-cane"
+    "uniqueName": "fleetmasters-cane",
+    "speed": 2.8,
+    "dps": 55.9
   },
   {
     "itemId": 60546,
@@ -4266,7 +4444,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:60546::::::::::0|h[Doomcaller Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "doomcaller-staff"
+    "uniqueName": "doomcaller-staff",
+    "speed": 2.9,
+    "dps": 49.7
   },
   {
     "itemId": 61031,
@@ -4314,7 +4494,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:61031::::::::::0|h[Riftweaver]|h|r",
     "contentPhase": 1,
-    "uniqueName": "riftweaver"
+    "uniqueName": "riftweaver",
+    "speed": 3.4,
+    "dps": 56
   },
   {
     "itemId": 80541,
@@ -4356,7 +4538,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80541::::::::::0|h[Quel'dorei Magister's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "queldorei-magisters-staff"
+    "uniqueName": "queldorei-magisters-staff",
+    "speed": 3.1,
+    "dps": 55.6
   },
   {
     "itemId": 80542,
@@ -4404,7 +4588,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80542::::::::::0|h[Quel'dorei Cleric's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "queldorei-clerics-staff"
+    "uniqueName": "queldorei-clerics-staff",
+    "speed": 3.1,
+    "dps": 55.6
   },
   {
     "itemId": 80641,
@@ -4446,7 +4632,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80641::::::::::0|h[Revantusk Mystic's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "revantusk-mystics-staff"
+    "uniqueName": "revantusk-mystics-staff",
+    "speed": 3.1,
+    "dps": 55.6
   },
   {
     "itemId": 80642,
@@ -4494,7 +4682,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80642::::::::::0|h[Revantusk Mender's Cane]|h|r",
     "contentPhase": 1,
-    "uniqueName": "revantusk-menders-cane"
+    "uniqueName": "revantusk-menders-cane",
+    "speed": 3.1,
+    "dps": 55.6
   },
   {
     "itemId": 80709,
@@ -4542,7 +4732,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80709::::::::::0|h[Guardian Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "guardian-staff"
+    "uniqueName": "guardian-staff",
+    "speed": 2.5,
+    "dps": 18.2
   },
   {
     "itemId": 80744,
@@ -4587,7 +4779,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80744::::::::::0|h[Plaguemaw's Staff of Rotting]|h|r",
     "contentPhase": 1,
-    "uniqueName": "plaguemaws-staff-of-rotting"
+    "uniqueName": "plaguemaws-staff-of-rotting",
+    "speed": 2.7,
+    "dps": 34.8
   },
   {
     "itemId": 83093,
@@ -4626,7 +4820,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83093::::::::::0|h[Monster - Staff2H, Outerend]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff2h-outerend"
+    "uniqueName": "monster-staff2h-outerend",
+    "speed": 2.1,
+    "dps": 53.8
   },
   {
     "itemId": 83513,
@@ -4678,7 +4874,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:83513::::::::::0|h[Insomnius' Wrath]|h|r",
     "contentPhase": 1,
-    "uniqueName": "insomnius-wrath"
+    "uniqueName": "insomnius-wrath",
+    "speed": 3.2,
+    "dps": 51.4
   },
   {
     "itemId": 890,
@@ -4723,7 +4921,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:890::::::::::0|h[Twisted Chanter's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "twisted-chanters-staff"
+    "uniqueName": "twisted-chanters-staff",
+    "speed": 3.4,
+    "dps": 20.4
   },
   {
     "itemId": 1155,
@@ -4768,7 +4968,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:1155::::::::::0|h[Rod of the Sleepwalker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rod-of-the-sleepwalker"
+    "uniqueName": "rod-of-the-sleepwalker",
+    "speed": 2.8,
+    "dps": 23.8
   },
   {
     "itemId": 1484,
@@ -4810,7 +5012,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:1484::::::::::0|h[Witching Stave]|h|r",
     "contentPhase": 1,
-    "uniqueName": "witching-stave"
+    "uniqueName": "witching-stave",
+    "speed": 3.6,
+    "dps": 19.2
   },
   {
     "itemId": 1607,
@@ -4855,7 +5059,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:1607::::::::::0|h[Soulkeeper]|h|r",
     "contentPhase": 1,
-    "uniqueName": "soulkeeper"
+    "uniqueName": "soulkeeper",
+    "speed": 3.8,
+    "dps": 46.6
   },
   {
     "itemId": 1720,
@@ -4900,7 +5106,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:1720::::::::::0|h[Tanglewood Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "tanglewood-staff"
+    "uniqueName": "tanglewood-staff",
+    "speed": 3.4,
+    "dps": 40.3
   },
   {
     "itemId": 1998,
@@ -4939,7 +5147,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1998::::::::::0|h[Bloodscalp Channeling Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bloodscalp-channeling-staff"
+    "uniqueName": "bloodscalp-channeling-staff",
+    "speed": 2.8,
+    "dps": 22.3
   },
   {
     "itemId": 2042,
@@ -4992,7 +5202,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:2042::::::::::0|h[Staff of Westfall]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-westfall"
+    "uniqueName": "staff-of-westfall",
+    "speed": 3,
+    "dps": 20.5
   },
   {
     "itemId": 2271,
@@ -5037,7 +5249,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:2271::::::::::0|h[Staff of the Blessed Seer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-the-blessed-seer"
+    "uniqueName": "staff-of-the-blessed-seer",
+    "speed": 3,
+    "dps": 19.7
   },
   {
     "itemId": 2549,
@@ -5076,7 +5290,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:2549::::::::::0|h[Staff of the Shade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-the-shade"
+    "uniqueName": "staff-of-the-shade",
+    "speed": 2.6,
+    "dps": 22.3
   },
   {
     "itemId": 3185,
@@ -5115,7 +5331,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:3185::::::::::0|h[Acrobatic Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "acrobatic-staff"
+    "uniqueName": "acrobatic-staff",
+    "speed": 2.2,
+    "dps": 23
   },
   {
     "itemId": 3415,
@@ -5163,7 +5381,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:3415::::::::::0|h[Staff of the Friar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-the-friar"
+    "uniqueName": "staff-of-the-friar",
+    "speed": 2.6,
+    "dps": 20.4
   },
   {
     "itemId": 6215,
@@ -5216,7 +5436,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:6215::::::::::0|h[Balanced Fighting Stick]|h|r",
     "contentPhase": 1,
-    "uniqueName": "balanced-fighting-stick"
+    "uniqueName": "balanced-fighting-stick",
+    "speed": 2.2,
+    "dps": 8.9
   },
   {
     "itemId": 6689,
@@ -5264,7 +5486,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:6689::::::::::0|h[Wind Spirit Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wind-spirit-staff"
+    "uniqueName": "wind-spirit-staff",
+    "speed": 3.3,
+    "dps": 26.7
   },
   {
     "itemId": 7757,
@@ -5309,7 +5533,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:7757::::::::::0|h[Windweaver Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "windweaver-staff"
+    "uniqueName": "windweaver-staff",
+    "speed": 3.1,
+    "dps": 32.4
   },
   {
     "itemId": 9477,
@@ -5348,7 +5574,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9477::::::::::0|h[The Chief's Enforcer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-chiefs-enforcer"
+    "uniqueName": "the-chiefs-enforcer",
+    "speed": 3.4,
+    "dps": 43.5
   },
   {
     "itemId": 9482,
@@ -5390,7 +5618,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9482::::::::::0|h[Witch Doctor's Cane]|h|r",
     "contentPhase": 1,
-    "uniqueName": "witch-doctors-cane"
+    "uniqueName": "witch-doctors-cane",
+    "speed": 2.3,
+    "dps": 41.1
   },
   {
     "itemId": 9514,
@@ -5452,7 +5682,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:9514::::::::::0|h[Arcane Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "arcane-staff"
+    "uniqueName": "arcane-staff",
+    "speed": 2.9,
+    "dps": 7.1
   },
   {
     "itemId": 9683,
@@ -5504,7 +5736,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:9683::::::::::0|h[Strength of the Treant]|h|r",
     "contentPhase": 1,
-    "uniqueName": "strength-of-the-treant"
+    "uniqueName": "strength-of-the-treant",
+    "speed": 3.7,
+    "dps": 44.3
   },
   {
     "itemId": 10844,
@@ -5549,7 +5783,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:10844::::::::::0|h[Spire of Hakkar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "spire-of-hakkar"
+    "uniqueName": "spire-of-hakkar",
+    "speed": 3.4,
+    "dps": 46.5
   },
   {
     "itemId": 12251,
@@ -5591,7 +5827,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:12251::::::::::0|h[Big Stick]|h|r",
     "contentPhase": 1,
-    "uniqueName": "big-stick"
+    "uniqueName": "big-stick",
+    "speed": 3,
+    "dps": 25.7
   },
   {
     "itemId": 12532,
@@ -5636,7 +5874,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12532::::::::::0|h[Spire of the Stoneshaper]|h|r",
     "contentPhase": 1,
-    "uniqueName": "spire-of-the-stoneshaper"
+    "uniqueName": "spire-of-the-stoneshaper",
+    "speed": 3.4,
+    "dps": 48.2
   },
   {
     "itemId": 13000,
@@ -5681,7 +5921,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13000::::::::::0|h[Staff of Hale Magefire]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-hale-magefire"
+    "uniqueName": "staff-of-hale-magefire",
+    "speed": 3.3,
+    "dps": 53
   },
   {
     "itemId": 13161,
@@ -5726,7 +5968,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13161::::::::::0|h[Trindlehaven Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "trindlehaven-staff"
+    "uniqueName": "trindlehaven-staff",
+    "speed": 2.1,
+    "dps": 52.1
   },
   {
     "itemId": 13372,
@@ -5771,7 +6015,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13372::::::::::0|h[Slavedriver's Cane]|h|r",
     "contentPhase": 1,
-    "uniqueName": "slavedrivers-cane"
+    "uniqueName": "slavedrivers-cane",
+    "speed": 3.9,
+    "dps": 51.4
   },
   {
     "itemId": 18082,
@@ -5816,7 +6062,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18082::::::::::0|h[Zum'rah's Vexing Cane]|h|r",
     "contentPhase": 1,
-    "uniqueName": "zumrahs-vexing-cane"
+    "uniqueName": "zumrahs-vexing-cane",
+    "speed": 2.7,
+    "dps": 40.9
   },
   {
     "itemId": 18534,
@@ -5864,7 +6112,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18534::::::::::0|h[Rod of the Ogre Magi]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rod-of-the-ogre-magi"
+    "uniqueName": "rod-of-the-ogre-magi",
+    "speed": 2.7,
+    "dps": 53.9
   },
   {
     "itemId": 19101,
@@ -5909,7 +6159,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19101::::::::::0|h[Whiteout Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "whiteout-staff"
+    "uniqueName": "whiteout-staff",
+    "speed": 3.1,
+    "dps": 55.6
   },
   {
     "itemId": 20258,
@@ -5954,7 +6206,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:20258::::::::::0|h[Zulian Ceremonial Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "zulian-ceremonial-staff"
+    "uniqueName": "zulian-ceremonial-staff",
+    "speed": 2.6,
+    "dps": 54.6
   },
   {
     "itemId": 20349,
@@ -5999,7 +6253,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:20349::::::::::0|h[90 Green Frost Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "90-green-frost-staff"
+    "uniqueName": "90-green-frost-staff",
+    "speed": 2.7,
+    "dps": 77.4
   },
   {
     "itemId": 20362,
@@ -6041,7 +6297,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:20362::::::::::0|h[63 Green Frost Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "63-green-frost-staff"
+    "uniqueName": "63-green-frost-staff",
+    "speed": 2.7,
+    "dps": 48.9
   },
   {
     "itemId": 20536,
@@ -6090,7 +6348,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:20536::::::::::0|h[Soul Harvester]|h|r",
     "contentPhase": 1,
-    "uniqueName": "soul-harvester"
+    "uniqueName": "soul-harvester",
+    "speed": 3.3,
+    "dps": 44.8
   },
   {
     "itemId": 20556,
@@ -6145,7 +6405,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:20556::::::::::0|h[Wildstaff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wildstaff"
+    "uniqueName": "wildstaff",
+    "speed": 2.5,
+    "dps": 45
   },
   {
     "itemId": 22394,
@@ -6193,7 +6455,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:22394::::::::::0|h[Staff of Metanoia]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-metanoia"
+    "uniqueName": "staff-of-metanoia",
+    "speed": 2.1,
+    "dps": 53.1
   },
   {
     "itemId": 23124,
@@ -6241,7 +6505,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:23124::::::::::0|h[Staff of Balzaphon]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-balzaphon"
+    "uniqueName": "staff-of-balzaphon",
+    "speed": 3.9,
+    "dps": 51.4
   },
   {
     "itemId": 51764,
@@ -6283,7 +6549,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:51764::::::::::0|h[Staff of Spreading Twilight]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-spreading-twilight"
+    "uniqueName": "staff-of-spreading-twilight",
+    "speed": 2.9,
+    "dps": 45.9
   },
   {
     "itemId": 55272,
@@ -6331,7 +6599,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:55272::::::::::0|h[Arcanum Baton]|h|r",
     "contentPhase": 1,
-    "uniqueName": "arcanum-baton"
+    "uniqueName": "arcanum-baton",
+    "speed": 3.6,
+    "dps": 48.9
   },
   {
     "itemId": 55366,
@@ -6376,7 +6646,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:55366::::::::::0|h[Spire of Channeled Power]|h|r",
     "contentPhase": 1,
-    "uniqueName": "spire-of-channeled-power"
+    "uniqueName": "spire-of-channeled-power",
+    "speed": 2.9,
+    "dps": 54
   },
   {
     "itemId": 58117,
@@ -6418,7 +6690,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:58117::::::::::0|h[Staff of the Bloodbound]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-the-bloodbound"
+    "uniqueName": "staff-of-the-bloodbound",
+    "speed": 2.7,
+    "dps": 41.9
   },
   {
     "itemId": 60198,
@@ -6460,7 +6734,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:60198::::::::::0|h[Acolyte's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "acolytes-staff"
+    "uniqueName": "acolytes-staff",
+    "speed": 3.3,
+    "dps": 16.8
   },
   {
     "itemId": 60347,
@@ -6513,7 +6789,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:60347::::::::::0|h[Staff of the Ogre Seer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-the-ogre-seer"
+    "uniqueName": "staff-of-the-ogre-seer",
+    "speed": 3,
+    "dps": 49.7
   },
   {
     "itemId": 60418,
@@ -6558,7 +6836,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:60418::::::::::0|h[Sealbreaker Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sealbreaker-staff"
+    "uniqueName": "sealbreaker-staff",
+    "speed": 2.7,
+    "dps": 53.9
   },
   {
     "itemId": 61030,
@@ -6612,7 +6892,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:61030::::::::::0|h[The Murkfisher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-murkfisher"
+    "uniqueName": "the-murkfisher",
+    "speed": 3.1,
+    "dps": 56.1
   },
   {
     "itemId": 61338,
@@ -6657,7 +6939,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:61338::::::::::0|h[Staff of Ushered Ruination]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-ushered-ruination"
+    "uniqueName": "staff-of-ushered-ruination",
+    "speed": 2.2,
+    "dps": 39.8
   },
   {
     "itemId": 61567,
@@ -6702,7 +6986,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:61567::::::::::0|h[Timewarper's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "timewarpers-staff"
+    "uniqueName": "timewarpers-staff",
+    "speed": 2.9,
+    "dps": 54.1
   },
   {
     "itemId": 61661,
@@ -6755,7 +7041,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:61661::::::::::0|h[Varimathras' Cunning]|h|r",
     "contentPhase": 1,
-    "uniqueName": "varimathras-cunning"
+    "uniqueName": "varimathras-cunning",
+    "speed": 3.6,
+    "dps": 34.7
   },
   {
     "itemId": 80860,
@@ -6804,7 +7092,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:80860::::::::::0|h[Staff of the Arcane Path]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-the-arcane-path"
+    "uniqueName": "staff-of-the-arcane-path",
+    "speed": 3.3,
+    "dps": 20.5
   },
   {
     "itemId": 81375,
@@ -6852,7 +7142,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:81375::::::::::0|h[Staff of the Lost Druid]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-the-lost-druid"
+    "uniqueName": "staff-of-the-lost-druid",
+    "speed": 2.6,
+    "dps": 53.8
   },
   {
     "itemId": 83200,
@@ -6897,7 +7189,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83200::::::::::0|h[Verdant Cane]|h|r",
     "contentPhase": 1,
-    "uniqueName": "verdant-cane"
+    "uniqueName": "verdant-cane",
+    "speed": 2.9,
+    "dps": 30.9
   },
   {
     "itemId": 83471,
@@ -6942,7 +7236,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83471::::::::::0|h[Staff of Alarus]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-alarus"
+    "uniqueName": "staff-of-alarus",
+    "speed": 2.8,
+    "dps": 54.8
   },
   {
     "itemId": 84603,
@@ -6993,7 +7289,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:84603::::::::::0|h[Rod of the Churning Hourglass]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rod-of-the-churning-hourglass"
+    "uniqueName": "rod-of-the-churning-hourglass",
+    "speed": 3.1,
+    "dps": 55.6
   },
   {
     "itemId": 866,
@@ -7032,7 +7330,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:866::::::::::0|h[Monk's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monks-staff"
+    "uniqueName": "monks-staff",
+    "speed": 2.4,
+    "dps": 31.3
   },
   {
     "itemId": 1300,
@@ -7074,7 +7374,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1300::::::::::0|h[Lesser Staff of the Spire]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lesser-staff-of-the-spire"
+    "uniqueName": "lesser-staff-of-the-spire",
+    "speed": 3.4,
+    "dps": 13.1
   },
   {
     "itemId": 1317,
@@ -7126,7 +7428,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:1317::::::::::0|h[Hardened Root Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hardened-root-staff"
+    "uniqueName": "hardened-root-staff",
+    "speed": 3.3,
+    "dps": 16.8
   },
   {
     "itemId": 1391,
@@ -7171,7 +7475,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1391::::::::::0|h[Riverpaw Mystic Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "riverpaw-mystic-staff"
+    "uniqueName": "riverpaw-mystic-staff",
+    "speed": 3,
+    "dps": 11.8
   },
   {
     "itemId": 1405,
@@ -7213,7 +7519,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1405::::::::::0|h[Foamspittle Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "foamspittle-staff"
+    "uniqueName": "foamspittle-staff",
+    "speed": 3.2,
+    "dps": 11.4
   },
   {
     "itemId": 1539,
@@ -7255,7 +7563,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1539::::::::::0|h[Gnarled Hermit's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gnarled-hermits-staff"
+    "uniqueName": "gnarled-hermits-staff",
+    "speed": 2.8,
+    "dps": 12.5
   },
   {
     "itemId": 1928,
@@ -7297,7 +7607,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1928::::::::::0|h[Defias Mage Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "defias-mage-staff"
+    "uniqueName": "defias-mage-staff",
+    "speed": 2.8,
+    "dps": 10.7
   },
   {
     "itemId": 2013,
@@ -7345,7 +7657,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:2013::::::::::0|h[Cryptbone Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cryptbone-staff"
+    "uniqueName": "cryptbone-staff",
+    "speed": 2.9,
+    "dps": 17.4
   },
   {
     "itemId": 2072,
@@ -7384,7 +7698,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:2072::::::::::0|h[Dwarven Magestaff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dwarven-magestaff"
+    "uniqueName": "dwarven-magestaff",
+    "speed": 2.8,
+    "dps": 18.4
   },
   {
     "itemId": 2077,
@@ -7423,7 +7739,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:2077::::::::::0|h[Magician Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "magician-staff"
+    "uniqueName": "magician-staff",
+    "speed": 3,
+    "dps": 19.7
   },
   {
     "itemId": 2226,
@@ -7465,7 +7783,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:2226::::::::::0|h[Ogremage Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ogremage-staff"
+    "uniqueName": "ogremage-staff",
+    "speed": 3.4,
+    "dps": 18.2
   },
   {
     "itemId": 2280,
@@ -7510,7 +7830,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:2280::::::::::0|h[Kam's Walking Stick]|h|r",
     "contentPhase": 1,
-    "uniqueName": "kams-walking-stick"
+    "uniqueName": "kams-walking-stick",
+    "speed": 2.8,
+    "dps": 18.4
   },
   {
     "itemId": 2950,
@@ -7560,7 +7882,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:2950::::::::::0|h[Icicle Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "icicle-rod"
+    "uniqueName": "icicle-rod",
+    "speed": 3.8,
+    "dps": 16.8
   },
   {
     "itemId": 3227,
@@ -7602,7 +7926,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:3227::::::::::0|h[Nightbane Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "nightbane-staff"
+    "uniqueName": "nightbane-staff",
+    "speed": 2.7,
+    "dps": 15
   },
   {
     "itemId": 3446,
@@ -7651,7 +7977,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:3446::::::::::0|h[Darkwood Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "darkwood-staff"
+    "uniqueName": "darkwood-staff",
+    "speed": 3.2,
+    "dps": 9.1
   },
   {
     "itemId": 3452,
@@ -7700,7 +8028,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:3452::::::::::0|h[Ceranium Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ceranium-rod"
+    "uniqueName": "ceranium-rod",
+    "speed": 2.7,
+    "dps": 14.4
   },
   {
     "itemId": 3738,
@@ -7742,7 +8072,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:3738::::::::::0|h[Brewing Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "brewing-rod"
+    "uniqueName": "brewing-rod",
+    "speed": 2.9,
+    "dps": 16.9
   },
   {
     "itemId": 4437,
@@ -7784,7 +8116,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:4437::::::::::0|h[Channeler's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "channelers-staff"
+    "uniqueName": "channelers-staff",
+    "speed": 3.4,
+    "dps": 13.1
   },
   {
     "itemId": 4575,
@@ -7823,7 +8157,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:4575::::::::::0|h[Medicine Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "medicine-staff"
+    "uniqueName": "medicine-staff",
+    "speed": 2.5,
+    "dps": 12.6
   },
   {
     "itemId": 5340,
@@ -7872,7 +8208,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5340::::::::::0|h[Cauldron Stirrer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cauldron-stirrer"
+    "uniqueName": "cauldron-stirrer",
+    "speed": 3.1,
+    "dps": 10.2
   },
   {
     "itemId": 9513,
@@ -7934,7 +8272,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:9513::::::::::0|h[Ley Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ley-staff"
+    "uniqueName": "ley-staff",
+    "speed": 2.9,
+    "dps": 7.1
   },
   {
     "itemId": 9603,
@@ -7984,7 +8324,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:9603::::::::::0|h[Gritroot Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gritroot-staff"
+    "uniqueName": "gritroot-staff",
+    "speed": 2.6,
+    "dps": 6.9
   },
   {
     "itemId": 10698,
@@ -8033,7 +8375,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:10698::::::::::0|h[Enchanted Azsharite Felbane Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "enchanted-azsharite-felbane-staff"
+    "uniqueName": "enchanted-azsharite-felbane-staff",
+    "speed": 2.8,
+    "dps": 46.6
   },
   {
     "itemId": 15274,
@@ -8072,7 +8416,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15274::::::::::0|h[Diviner Long Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "diviner-long-staff"
+    "uniqueName": "diviner-long-staff",
+    "speed": 2.6,
+    "dps": 40.4
   },
   {
     "itemId": 15276,
@@ -8111,7 +8457,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15276::::::::::0|h[Magus Long Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "magus-long-staff"
+    "uniqueName": "magus-long-staff",
+    "speed": 3.4,
+    "dps": 45
   },
   {
     "itemId": 15397,
@@ -8163,7 +8511,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:15397::::::::::0|h[Oakthrush Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "oakthrush-staff"
+    "uniqueName": "oakthrush-staff",
+    "speed": 2.8,
+    "dps": 9.5
   },
   {
     "itemId": 16889,
@@ -8215,7 +8565,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:16889::::::::::0|h[Polished Walking Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "polished-walking-staff"
+    "uniqueName": "polished-walking-staff",
+    "speed": 2.6,
+    "dps": 16
   },
   {
     "itemId": 16894,
@@ -8267,7 +8619,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:16894::::::::::0|h[Clear Crystal Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "clear-crystal-rod"
+    "uniqueName": "clear-crystal-rod",
+    "speed": 3.1,
+    "dps": 13.7
   },
   {
     "itemId": 20724,
@@ -8316,7 +8670,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:20724::::::::::0|h[Corrupted Blackwood Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "corrupted-blackwood-staff"
+    "uniqueName": "corrupted-blackwood-staff",
+    "speed": 3.4,
+    "dps": 48.2
   },
   {
     "itemId": 41315,
@@ -8361,7 +8717,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:41315::::::::::0|h[Moonlight Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "moonlight-staff"
+    "uniqueName": "moonlight-staff",
+    "speed": 2.8,
+    "dps": 18.6
   },
   {
     "itemId": 41790,
@@ -8411,7 +8769,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:41790::::::::::0|h[Mirefang Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "mirefang-staff"
+    "uniqueName": "mirefang-staff",
+    "speed": 2.8,
+    "dps": 22.9
   },
   {
     "itemId": 55175,
@@ -8459,7 +8819,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:55175::::::::::0|h[Encrusted Bronze Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "encrusted-bronze-staff"
+    "uniqueName": "encrusted-bronze-staff",
+    "speed": 2.9,
+    "dps": 15.3
   },
   {
     "itemId": 55238,
@@ -8504,7 +8866,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:55238::::::::::0|h[Earthen Advisor Cane]|h|r",
     "contentPhase": 1,
-    "uniqueName": "earthen-advisor-cane"
+    "uniqueName": "earthen-advisor-cane",
+    "speed": 2.8,
+    "dps": 33.6
   },
   {
     "itemId": 55241,
@@ -8549,7 +8913,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:55241::::::::::0|h[Garnet Guardian Stave]|h|r",
     "contentPhase": 1,
-    "uniqueName": "garnet-guardian-stave"
+    "uniqueName": "garnet-guardian-stave",
+    "speed": 3.5,
+    "dps": 42.9
   },
   {
     "itemId": 60112,
@@ -8601,7 +8967,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:60112::::::::::0|h[Evermoon Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "evermoon-staff"
+    "uniqueName": "evermoon-staff",
+    "speed": 2.3,
+    "dps": 14.3
   },
   {
     "itemId": 60495,
@@ -8650,7 +9018,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:60495::::::::::0|h[Powered Iron Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "powered-iron-staff"
+    "uniqueName": "powered-iron-staff",
+    "speed": 2.9,
+    "dps": 7.1
   },
   {
     "itemId": 60522,
@@ -8703,7 +9073,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:60522::::::::::0|h[Hexxer Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hexxer-staff"
+    "uniqueName": "hexxer-staff",
+    "speed": 3.2,
+    "dps": 9.1
   },
   {
     "itemId": 61164,
@@ -8757,7 +9129,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:61164::::::::::0|h[Priestess of Elune's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "priestess-of-elunes-staff"
+    "uniqueName": "priestess-of-elunes-staff",
+    "speed": 2.8,
+    "dps": 23.6
   },
   {
     "itemId": 61411,
@@ -8809,7 +9183,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:61411::::::::::0|h[Moonseeker Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "moonseeker-staff"
+    "uniqueName": "moonseeker-staff",
+    "speed": 2.3,
+    "dps": 50.4
   },
   {
     "itemId": 61447,
@@ -8864,7 +9240,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:61447::::::::::0|h[Mossgrove Family Broom]|h|r",
     "contentPhase": 1,
-    "uniqueName": "mossgrove-family-broom"
+    "uniqueName": "mossgrove-family-broom",
+    "speed": 3.5,
+    "dps": 32.4
   },
   {
     "itemId": 61502,
@@ -8903,7 +9281,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:61502::::::::::0|h[Earthcaller Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "earthcaller-staff"
+    "uniqueName": "earthcaller-staff",
+    "speed": 2.8,
+    "dps": 12.5
   },
   {
     "itemId": 61551,
@@ -8945,7 +9325,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:61551::::::::::0|h[Mathrengyl's Lost Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "mathrengyls-lost-staff"
+    "uniqueName": "mathrengyls-lost-staff",
+    "speed": 3.3,
+    "dps": 48.2
   },
   {
     "itemId": 61667,
@@ -8987,7 +9369,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:61667::::::::::0|h[Branch of the Great Tree]|h|r",
     "contentPhase": 1,
-    "uniqueName": "branch-of-the-great-tree"
+    "uniqueName": "branch-of-the-great-tree",
+    "speed": 3.7,
+    "dps": 38
   },
   {
     "itemId": 70010,
@@ -9039,7 +9423,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:70010::::::::::0|h[Infused Briarwood Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "infused-briarwood-staff"
+    "uniqueName": "infused-briarwood-staff",
+    "speed": 2.6,
+    "dps": 20.4
   },
   {
     "itemId": 80128,
@@ -9088,7 +9474,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:80128::::::::::0|h[Pearltip Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "pearltip-staff"
+    "uniqueName": "pearltip-staff",
+    "speed": 2.5,
+    "dps": 7.4
   },
   {
     "itemId": 80502,
@@ -9130,7 +9518,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:80502::::::::::0|h[Curved Ceremonial Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "curved-ceremonial-staff"
+    "uniqueName": "curved-ceremonial-staff",
+    "speed": 2.5,
+    "dps": 10.8
   },
   {
     "itemId": 80504,
@@ -9172,7 +9562,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:80504::::::::::0|h[Hardened Root Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hardened-root-staff"
+    "uniqueName": "hardened-root-staff",
+    "speed": 2.8,
+    "dps": 10.7
   },
   {
     "itemId": 80602,
@@ -9214,7 +9606,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:80602::::::::::0|h[Crude Channeling Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "crude-channeling-staff"
+    "uniqueName": "crude-channeling-staff",
+    "speed": 2.5,
+    "dps": 10.8
   },
   {
     "itemId": 83231,
@@ -9259,7 +9653,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:83231::::::::::0|h[Crescent Grove Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "crescent-grove-staff"
+    "uniqueName": "crescent-grove-staff",
+    "speed": 2.6,
+    "dps": 29
   },
   {
     "itemId": 35,
@@ -9292,7 +9688,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:35::::::::::0|h[Bent Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bent-staff"
+    "uniqueName": "bent-staff",
+    "speed": 2.9,
+    "dps": 1.4
   },
   {
     "itemId": 880,
@@ -9331,7 +9729,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:880::::::::::0|h[Staff of Horrors]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-horrors"
+    "uniqueName": "staff-of-horrors",
+    "speed": 3.4,
+    "dps": 15.1
   },
   {
     "itemId": 1388,
@@ -9364,7 +9764,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:1388::::::::::0|h[Crooked Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "crooked-staff"
+    "uniqueName": "crooked-staff",
+    "speed": 3.3,
+    "dps": 1.7
   },
   {
     "itemId": 1473,
@@ -9406,7 +9808,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1473::::::::::0|h[Riverside Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "riverside-staff"
+    "uniqueName": "riverside-staff",
+    "speed": 3.1,
+    "dps": 12.6
   },
   {
     "itemId": 1613,
@@ -9445,7 +9849,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1613::::::::::0|h[Spiritchaser Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "spiritchaser-staff"
+    "uniqueName": "spiritchaser-staff",
+    "speed": 2.8,
+    "dps": 33.6
   },
   {
     "itemId": 1664,
@@ -9484,7 +9890,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1664::::::::::0|h[Spellforce Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "spellforce-rod"
+    "uniqueName": "spellforce-rod",
+    "speed": 3.2,
+    "dps": 30.2
   },
   {
     "itemId": 1933,
@@ -9523,7 +9931,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1933::::::::::0|h[Staff of Conjuring]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-conjuring"
+    "uniqueName": "staff-of-conjuring",
+    "speed": 3,
+    "dps": 10.2
   },
   {
     "itemId": 2487,
@@ -9556,7 +9966,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2487::::::::::0|h[Acolyte Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "acolyte-staff"
+    "uniqueName": "acolyte-staff",
+    "speed": 2.4,
+    "dps": 2.1
   },
   {
     "itemId": 2503,
@@ -9592,7 +10004,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2503::::::::::0|h[Adept Short Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "adept-short-staff"
+    "uniqueName": "adept-short-staff",
+    "speed": 2.4,
+    "dps": 4.4
   },
   {
     "itemId": 2527,
@@ -9628,7 +10042,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2527::::::::::0|h[Battle Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "battle-staff"
+    "uniqueName": "battle-staff",
+    "speed": 3.4,
+    "dps": 22.9
   },
   {
     "itemId": 3902,
@@ -9673,7 +10089,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:3902::::::::::0|h[Staff of Nobles]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-nobles"
+    "uniqueName": "staff-of-nobles",
+    "speed": 3.2,
+    "dps": 11.9
   },
   {
     "itemId": 4566,
@@ -9712,7 +10130,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:4566::::::::::0|h[Sturdy Quarterstaff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sturdy-quarterstaff"
+    "uniqueName": "sturdy-quarterstaff",
+    "speed": 2.8,
+    "dps": 8.9
   },
   {
     "itemId": 4938,
@@ -9758,7 +10178,9 @@
     },
     "itemLink": "|cffffffff|Hitem:4938::::::::::0|h[Blemished Wooden Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blemished-wooden-staff"
+    "uniqueName": "blemished-wooden-staff",
+    "speed": 3.2,
+    "dps": 6.4
   },
   {
     "itemId": 4961,
@@ -9804,7 +10226,9 @@
     },
     "itemLink": "|cffffffff|Hitem:4961::::::::::0|h[Dreamwatcher Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dreamwatcher-staff"
+    "uniqueName": "dreamwatcher-staff",
+    "speed": 3.2,
+    "dps": 5.6
   },
   {
     "itemId": 5306,
@@ -9853,7 +10277,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5306::::::::::0|h[Wind Rider Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wind-rider-staff"
+    "uniqueName": "wind-rider-staff",
+    "speed": 2.8,
+    "dps": 13
   },
   {
     "itemId": 5613,
@@ -9902,7 +10328,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5613::::::::::0|h[Staff of the Purifier]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-the-purifier"
+    "uniqueName": "staff-of-the-purifier",
+    "speed": 3.7,
+    "dps": 15.3
   },
   {
     "itemId": 7094,
@@ -9938,7 +10366,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:7094::::::::::0|h[Driftwood Branch]|h|r",
     "contentPhase": 1,
-    "uniqueName": "driftwood-branch"
+    "uniqueName": "driftwood-branch",
+    "speed": 3.4,
+    "dps": 5.7
   },
   {
     "itemId": 9527,
@@ -9990,7 +10420,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:9527::::::::::0|h[Spellshifter Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "spellshifter-rod"
+    "uniqueName": "spellshifter-rod",
+    "speed": 2.7,
+    "dps": 35.7
   },
   {
     "itemId": 10826,
@@ -10042,7 +10474,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:10826::::::::::0|h[Staff of Lore]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-lore"
+    "uniqueName": "staff-of-lore",
+    "speed": 3.1,
+    "dps": 37.3
   },
   {
     "itemId": 11857,
@@ -10094,7 +10528,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:11857::::::::::0|h[Sanctimonial Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sanctimonial-rod"
+    "uniqueName": "sanctimonial-rod",
+    "speed": 3.1,
+    "dps": 35.6
   },
   {
     "itemId": 12252,
@@ -10151,7 +10587,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:12252::::::::::0|h[Staff of Protection]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-protection"
+    "uniqueName": "staff-of-protection",
+    "speed": 3,
+    "dps": 27.7
   },
   {
     "itemId": 15105,
@@ -10203,7 +10641,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:15105::::::::::0|h[Staff of Noh'Orahil]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-nohorahil"
+    "uniqueName": "staff-of-nohorahil",
+    "speed": 2.7,
+    "dps": 28.9
   },
   {
     "itemId": 15106,
@@ -10255,7 +10695,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:15106::::::::::0|h[Staff of Dar'Orahil]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-darorahil"
+    "uniqueName": "staff-of-darorahil",
+    "speed": 2.7,
+    "dps": 28.9
   },
   {
     "itemId": 15109,
@@ -10301,7 +10743,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:15109::::::::::0|h[Staff of Soran'ruk]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-soranruk"
+    "uniqueName": "staff-of-soranruk",
+    "speed": 2.9,
+    "dps": 16.9
   },
   {
     "itemId": 15275,
@@ -10340,7 +10784,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15275::::::::::0|h[Thaumaturgist Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thaumaturgist-staff"
+    "uniqueName": "thaumaturgist-staff",
+    "speed": 3.6,
+    "dps": 41.8
   },
   {
     "itemId": 15278,
@@ -10379,7 +10825,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15278::::::::::0|h[Solstice Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "solstice-staff"
+    "uniqueName": "solstice-staff",
+    "speed": 2.6,
+    "dps": 46.7
   },
   {
     "itemId": 15444,
@@ -10431,7 +10879,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:15444::::::::::0|h[Staff of Orgrimmar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-orgrimmar"
+    "uniqueName": "staff-of-orgrimmar",
+    "speed": 3.3,
+    "dps": 11.8
   },
   {
     "itemId": 17004,
@@ -10483,7 +10933,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:17004::::::::::0|h[Sarah's Guide]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sarahs-guide"
+    "uniqueName": "sarahs-guide",
+    "speed": 2.5,
+    "dps": 47.2
   },
   {
     "itemId": 18353,
@@ -10525,7 +10977,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:18353::::::::::0|h[Stoneflower Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stoneflower-staff"
+    "uniqueName": "stoneflower-staff",
+    "speed": 3,
+    "dps": 47.3
   },
   {
     "itemId": 41044,
@@ -10567,7 +11021,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:41044::::::::::0|h[Staff of Withering Power]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-withering-power"
+    "uniqueName": "staff-of-withering-power",
+    "speed": 2.7,
+    "dps": 8.3
   },
   {
     "itemId": 41345,
@@ -10609,7 +11065,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:41345::::::::::0|h[Royal Gemstone Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "royal-gemstone-staff"
+    "uniqueName": "royal-gemstone-staff",
+    "speed": 3,
+    "dps": 35.5
   },
   {
     "itemId": 41558,
@@ -10654,7 +11112,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:41558::::::::::0|h[The Slagbinder]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-slagbinder"
+    "uniqueName": "the-slagbinder",
+    "speed": 2.6,
+    "dps": 22.1
   },
   {
     "itemId": 55148,
@@ -10699,7 +11159,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:55148::::::::::0|h[Staff of Blossomed Jade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-blossomed-jade"
+    "uniqueName": "staff-of-blossomed-jade",
+    "speed": 3.1,
+    "dps": 31.3
   },
   {
     "itemId": 55165,
@@ -10744,7 +11206,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:55165::::::::::0|h[Small Pearlstone Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "small-pearlstone-staff"
+    "uniqueName": "small-pearlstone-staff",
+    "speed": 3.1,
+    "dps": 10.2
   },
   {
     "itemId": 55240,
@@ -10786,7 +11250,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:55240::::::::::0|h[Topaz Tempest Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "topaz-tempest-rod"
+    "uniqueName": "topaz-tempest-rod",
+    "speed": 3.2,
+    "dps": 28.1
   },
   {
     "itemId": 55271,
@@ -10837,7 +11303,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:55271::::::::::0|h[Spellweaver Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "spellweaver-rod"
+    "uniqueName": "spellweaver-rod",
+    "speed": 3.2,
+    "dps": 44.7
   },
   {
     "itemId": 55326,
@@ -10885,7 +11353,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:55326::::::::::0|h[Serpent's Coil Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "serpents-coil-staff"
+    "uniqueName": "serpents-coil-staff",
+    "speed": 2.7,
+    "dps": 15
   },
   {
     "itemId": 55328,
@@ -10930,7 +11400,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:55328::::::::::0|h[Sphinx's Wisdom Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sphinxs-wisdom-staff"
+    "uniqueName": "sphinxs-wisdom-staff",
+    "speed": 3,
+    "dps": 25.7
   },
   {
     "itemId": 56052,
@@ -10985,7 +11457,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:56052::::::::::0|h[Staff of Gallitrea]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-gallitrea"
+    "uniqueName": "staff-of-gallitrea",
+    "speed": 3.2,
+    "dps": 32.5
   },
   {
     "itemId": 58014,
@@ -11037,7 +11511,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:58014::::::::::0|h[Scolding Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "scolding-rod"
+    "uniqueName": "scolding-rod",
+    "speed": 3,
+    "dps": 25.7
   },
   {
     "itemId": 58054,
@@ -11079,7 +11555,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:58054::::::::::0|h[Scepter of Nazjatar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "scepter-of-nazjatar"
+    "uniqueName": "scepter-of-nazjatar",
+    "speed": 3,
+    "dps": 27.7
   },
   {
     "itemId": 61091,
@@ -11132,7 +11610,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:61091::::::::::0|h[Telraz's Jeweled Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "telrazs-jeweled-staff"
+    "uniqueName": "telrazs-jeweled-staff",
+    "speed": 2.7,
+    "dps": 47.2
   },
   {
     "itemId": 61500,
@@ -11174,7 +11654,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:61500::::::::::0|h[Shadestaff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "shadestaff"
+    "uniqueName": "shadestaff",
+    "speed": 3.1,
+    "dps": 12.6
   },
   {
     "itemId": 61729,
@@ -11229,7 +11711,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:61729::::::::::0|h[Staff of Shackled Lightning]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-shackled-lightning"
+    "uniqueName": "staff-of-shackled-lightning",
+    "speed": 2.7,
+    "dps": 33.5
   },
   {
     "itemId": 61735,
@@ -11274,7 +11758,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:61735::::::::::0|h[Stablehand Broom]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stablehand-broom"
+    "uniqueName": "stablehand-broom",
+    "speed": 3.5,
+    "dps": 38
   },
   {
     "itemId": 80208,
@@ -11320,7 +11806,9 @@
     },
     "itemLink": "|cffffffff|Hitem:80208::::::::::0|h[Crooked Tree Branch]|h|r",
     "contentPhase": 1,
-    "uniqueName": "crooked-tree-branch"
+    "uniqueName": "crooked-tree-branch",
+    "speed": 3.2,
+    "dps": 3.1
   },
   {
     "itemId": 80604,
@@ -11362,7 +11850,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:80604::::::::::0|h[Withered Root Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "withered-root-staff"
+    "uniqueName": "withered-root-staff",
+    "speed": 2.8,
+    "dps": 10.7
   },
   {
     "itemId": 80836,
@@ -11404,7 +11894,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:80836::::::::::0|h[Staff of the Zephyr]|h|r",
     "contentPhase": 1,
-    "uniqueName": "staff-of-the-zephyr"
+    "uniqueName": "staff-of-the-zephyr",
+    "speed": 2.8,
+    "dps": 23.9
   },
   {
     "itemId": 81092,
@@ -11440,7 +11932,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:81092::::::::::0|h[Copper Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "copper-staff"
+    "uniqueName": "copper-staff",
+    "speed": 3.3,
+    "dps": 5.9
   },
   {
     "itemId": 10,
@@ -11476,7 +11970,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:10::::::::::0|h[Gamemaster's Broom of Doom]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gamemasters-broom-of-doom"
+    "uniqueName": "gamemasters-broom-of-doom",
+    "speed": 3.5,
+    "dps": 362
   },
   {
     "itemId": 26,
@@ -11509,7 +12005,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:26::::::::::0|h[Thalassian Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thalassian-staff"
+    "uniqueName": "thalassian-staff",
+    "speed": 2.9,
+    "dps": 1.4
   },
   {
     "itemId": 767,
@@ -11545,7 +12043,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:767::::::::::0|h[Long Bo Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "long-bo-staff"
+    "uniqueName": "long-bo-staff",
+    "speed": 2.5,
+    "dps": 4.2
   },
   {
     "itemId": 854,
@@ -11581,7 +12081,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:854::::::::::0|h[Quarter Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "quarter-staff"
+    "uniqueName": "quarter-staff",
+    "speed": 2.7,
+    "dps": 9.4
   },
   {
     "itemId": 928,
@@ -11617,7 +12119,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:928::::::::::0|h[Long Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "long-staff"
+    "uniqueName": "long-staff",
+    "speed": 3,
+    "dps": 15.2
   },
   {
     "itemId": 1010,
@@ -11663,7 +12167,9 @@
     },
     "itemLink": "|cffffffff|Hitem:1010::::::::::0|h[Gnarled Short Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gnarled-short-staff"
+    "uniqueName": "gnarled-short-staff",
+    "speed": 2.8,
+    "dps": 4.3
   },
   {
     "itemId": 1159,
@@ -11709,7 +12215,9 @@
     },
     "itemLink": "|cffffffff|Hitem:1159::::::::::0|h[Militia Quarterstaff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "militia-quarterstaff"
+    "uniqueName": "militia-quarterstaff",
+    "speed": 2.8,
+    "dps": 2.7
   },
   {
     "itemId": 1813,
@@ -11745,7 +12253,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1813::::::::::0|h[Chipped Quarterstaff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "chipped-quarterstaff"
+    "uniqueName": "chipped-quarterstaff",
+    "speed": 3.1,
+    "dps": 7.1
   },
   {
     "itemId": 1822,
@@ -11781,7 +12291,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1822::::::::::0|h[Cedar Walking Stick]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cedar-walking-stick"
+    "uniqueName": "cedar-walking-stick",
+    "speed": 2.8,
+    "dps": 9.1
   },
   {
     "itemId": 1907,
@@ -11814,7 +12326,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1907::::::::::0|h[Monster - Staff, Basic]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-basic"
+    "uniqueName": "monster-staff-basic",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 1908,
@@ -11847,7 +12361,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1908::::::::::0|h[Monster - Staff, Crooked]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-crooked"
+    "uniqueName": "monster-staff-crooked",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 2030,
@@ -11883,7 +12399,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2030::::::::::0|h[Gnarled Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gnarled-staff"
+    "uniqueName": "gnarled-staff",
+    "speed": 2.9,
+    "dps": 11.9
   },
   {
     "itemId": 2067,
@@ -11919,7 +12437,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2067::::::::::0|h[Frostbit Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "frostbit-staff"
+    "uniqueName": "frostbit-staff",
+    "speed": 2.7,
+    "dps": 5.7
   },
   {
     "itemId": 2132,
@@ -11952,7 +12472,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2132::::::::::0|h[Short Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "short-staff"
+    "uniqueName": "short-staff",
+    "speed": 3.2,
+    "dps": 2
   },
   {
     "itemId": 2257,
@@ -11988,7 +12510,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2257::::::::::0|h[Frostmane Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "frostmane-staff"
+    "uniqueName": "frostmane-staff",
+    "speed": 3.1,
+    "dps": 5.6
   },
   {
     "itemId": 2495,
@@ -12024,7 +12548,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2495::::::::::0|h[Walking Stick]|h|r",
     "contentPhase": 1,
-    "uniqueName": "walking-stick"
+    "uniqueName": "walking-stick",
+    "speed": 2.5,
+    "dps": 4.2
   },
   {
     "itemId": 2535,
@@ -12060,7 +12586,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2535::::::::::0|h[War Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "war-staff"
+    "uniqueName": "war-staff",
+    "speed": 3.3,
+    "dps": 32.4
   },
   {
     "itemId": 3277,
@@ -12106,7 +12634,9 @@
     },
     "itemLink": "|cffffffff|Hitem:3277::::::::::0|h[Executor Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "executor-staff"
+    "uniqueName": "executor-staff",
+    "speed": 2.9,
+    "dps": 2.6
   },
   {
     "itemId": 3327,
@@ -12142,7 +12672,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:3327::::::::::0|h[Vile Fin Oracle Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "vile-fin-oracle-staff"
+    "uniqueName": "vile-fin-oracle-staff",
+    "speed": 2.9,
+    "dps": 5
   },
   {
     "itemId": 3335,
@@ -12178,7 +12710,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:3335::::::::::0|h[Farmer's Broom]|h|r",
     "contentPhase": 1,
-    "uniqueName": "farmers-broom"
+    "uniqueName": "farmers-broom",
+    "speed": 3.5,
+    "dps": 3.3
   },
   {
     "itemId": 3661,
@@ -12211,7 +12745,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:3661::::::::::0|h[Handcrafted Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "handcrafted-staff"
+    "uniqueName": "handcrafted-staff",
+    "speed": 2.9,
+    "dps": 1.4
   },
   {
     "itemId": 3784,
@@ -12247,7 +12783,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:3784::::::::::0|h[Metal Stave]|h|r",
     "contentPhase": 1,
-    "uniqueName": "metal-stave"
+    "uniqueName": "metal-stave",
+    "speed": 3.1,
+    "dps": 15.3
   },
   {
     "itemId": 4024,
@@ -12283,7 +12821,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:4024::::::::::0|h[Heavy War Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "heavy-war-staff"
+    "uniqueName": "heavy-war-staff",
+    "speed": 3.4,
+    "dps": 21.9
   },
   {
     "itemId": 5276,
@@ -12316,7 +12856,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5276::::::::::0|h[Monster - Staff, 3 Piece Taped Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-3-piece-taped-staff"
+    "uniqueName": "monster-staff-3-piece-taped-staff",
+    "speed": 2.9,
+    "dps": 0.9
   },
   {
     "itemId": 5393,
@@ -12362,7 +12904,9 @@
     },
     "itemLink": "|cffffffff|Hitem:5393::::::::::0|h[Thistlewood Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thistlewood-staff"
+    "uniqueName": "thistlewood-staff",
+    "speed": 3.1,
+    "dps": 2.6
   },
   {
     "itemId": 5581,
@@ -12408,7 +12952,9 @@
     },
     "itemLink": "|cffffffff|Hitem:5581::::::::::0|h[Smooth Walking Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "smooth-walking-staff"
+    "uniqueName": "smooth-walking-staff",
+    "speed": 3.3,
+    "dps": 2.7
   },
   {
     "itemId": 5776,
@@ -12454,7 +13000,9 @@
     },
     "itemLink": "|cffffffff|Hitem:5776::::::::::0|h[Elder's Cane]|h|r",
     "contentPhase": 1,
-    "uniqueName": "elders-cane"
+    "uniqueName": "elders-cane",
+    "speed": 3.5,
+    "dps": 2.6
   },
   {
     "itemId": 5778,
@@ -12505,7 +13053,9 @@
     },
     "itemLink": "|cffffffff|Hitem:5778::::::::::0|h[Primitive Walking Stick]|h|r",
     "contentPhase": 1,
-    "uniqueName": "primitive-walking-stick"
+    "uniqueName": "primitive-walking-stick",
+    "speed": 3.1,
+    "dps": 2.6
   },
   {
     "itemId": 6322,
@@ -12538,7 +13088,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:6322::::::::::0|h[Monster - Staff, Arugal]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-arugal"
+    "uniqueName": "monster-staff-arugal",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 11365,
@@ -12571,7 +13123,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:11365::::::::::0|h[Monster - Staff, Badass Red Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-badass-red-staff"
+    "uniqueName": "monster-staff-badass-red-staff",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 12182,
@@ -12604,7 +13158,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12182::::::::::0|h[Monster - Staff of Jordan]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-of-jordan"
+    "uniqueName": "monster-staff-of-jordan",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 12328,
@@ -12637,7 +13193,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12328::::::::::0|h[Monster - Staff, 3 Piece Taped Staff Green]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-3-piece-taped-staff-green"
+    "uniqueName": "monster-staff-3-piece-taped-staff-green",
+    "speed": 2.9,
+    "dps": 0.9
   },
   {
     "itemId": 12329,
@@ -12670,7 +13228,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12329::::::::::0|h[Monster - Staff, Crooked Green]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-crooked-green"
+    "uniqueName": "monster-staff-crooked-green",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 12937,
@@ -12703,7 +13263,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12937::::::::::0|h[Monster - Staff, Basic Red]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-basic-red"
+    "uniqueName": "monster-staff-basic-red",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 12943,
@@ -12736,7 +13298,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12943::::::::::0|h[Monster - Staff, 3 Piece Taped Staff Red]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-3-piece-taped-staff-red"
+    "uniqueName": "monster-staff-3-piece-taped-staff-red",
+    "speed": 2.9,
+    "dps": 0.9
   },
   {
     "itemId": 13069,
@@ -12769,7 +13333,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13069::::::::::0|h[Monster - Staff, D01 Flaming Red]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-d01-flaming-red"
+    "uniqueName": "monster-staff-d01-flaming-red",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13622,
@@ -12802,7 +13368,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13622::::::::::0|h[Monster - Staff, D01 Circling Black Skull]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-d01-circling-black-skull"
+    "uniqueName": "monster-staff-d01-circling-black-skull",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13709,
@@ -12835,7 +13403,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13709::::::::::0|h[Monster - Staff Green Sphere Glowing]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-green-sphere-glowing"
+    "uniqueName": "monster-staff-green-sphere-glowing",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 14083,
@@ -12868,7 +13438,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:14083::::::::::0|h[Tyrande's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "tyrandes-staff"
+    "uniqueName": "tyrandes-staff",
+    "speed": 2.4,
+    "dps": 2.1
   },
   {
     "itemId": 14392,
@@ -12901,7 +13473,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:14392::::::::::0|h[Durability Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "durability-staff"
+    "uniqueName": "durability-staff",
+    "speed": 2.8,
+    "dps": 0.9
   },
   {
     "itemId": 14706,
@@ -12934,7 +13508,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:14706::::::::::0|h[Monster - Staff, 3 Piece Taped Staff Purple]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-3-piece-taped-staff-purple"
+    "uniqueName": "monster-staff-3-piece-taped-staff-purple",
+    "speed": 2.9,
+    "dps": 0.9
   },
   {
     "itemId": 14707,
@@ -12967,7 +13543,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:14707::::::::::0|h[Monster - Staff, 3 Piece Taped Staff Blue]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-3-piece-taped-staff-blue"
+    "uniqueName": "monster-staff-3-piece-taped-staff-blue",
+    "speed": 2.9,
+    "dps": 0.9
   },
   {
     "itemId": 21795,
@@ -13000,7 +13578,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:21795::::::::::0|h[Monster - Staff, Ahn'Qiraj]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-ahnqiraj"
+    "uniqueName": "monster-staff-ahnqiraj",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 41029,
@@ -13036,7 +13616,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:41029::::::::::0|h[Shoreman's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "shoremans-staff"
+    "uniqueName": "shoremans-staff",
+    "speed": 3.3,
+    "dps": 2.7
   },
   {
     "itemId": 41110,
@@ -13082,7 +13664,9 @@
     },
     "itemLink": "|cffffffff|Hitem:41110::::::::::0|h[Ley-Technician Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ley-technician-staff"
+    "uniqueName": "ley-technician-staff",
+    "speed": 3.5,
+    "dps": 2.6
   },
   {
     "itemId": 41667,
@@ -13118,7 +13702,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:41667::::::::::0|h[Winter Veil Tree]|h|r",
     "contentPhase": 1,
-    "uniqueName": "winter-veil-tree"
+    "uniqueName": "winter-veil-tree",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 41668,
@@ -13154,7 +13740,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:41668::::::::::0|h[Winter Shepherd's Cane]|h|r",
     "contentPhase": 1,
-    "uniqueName": "winter-shepherds-cane"
+    "uniqueName": "winter-shepherds-cane",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 58085,
@@ -13200,7 +13788,9 @@
     },
     "itemLink": "|cffffffff|Hitem:58085::::::::::0|h[Mudpaw Cane]|h|r",
     "contentPhase": 1,
-    "uniqueName": "mudpaw-cane"
+    "uniqueName": "mudpaw-cane",
+    "speed": 2.4,
+    "dps": 4.4
   },
   {
     "itemId": 61690,
@@ -13236,7 +13826,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:61690::::::::::0|h[Cleric's Bent Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "clerics-bent-staff"
+    "uniqueName": "clerics-bent-staff",
+    "speed": 2.9,
+    "dps": 23.1
   },
   {
     "itemId": 80107,
@@ -13282,7 +13874,9 @@
     },
     "itemLink": "|cffffffff|Hitem:80107::::::::::0|h[Smooth Wooden Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "smooth-wooden-staff"
+    "uniqueName": "smooth-wooden-staff",
+    "speed": 3.2,
+    "dps": 3.1
   },
   {
     "itemId": 1411,
@@ -13318,7 +13912,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1411::::::::::0|h[Withered Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "withered-staff"
+    "uniqueName": "withered-staff",
+    "speed": 3,
+    "dps": 3.3
   },
   {
     "itemId": 1515,
@@ -13354,7 +13950,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1515::::::::::0|h[Rough Wooden Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rough-wooden-staff"
+    "uniqueName": "rough-wooden-staff",
+    "speed": 3.3,
+    "dps": 5
   },
   {
     "itemId": 1831,
@@ -13390,7 +13988,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1831::::::::::0|h[Oaken War Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "oaken-war-staff"
+    "uniqueName": "oaken-war-staff",
+    "speed": 3.7,
+    "dps": 11.4
   },
   {
     "itemId": 2176,
@@ -13423,7 +14023,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2176::::::::::0|h[Monster - Staff, Ornate Priest Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-ornate-priest-staff"
+    "uniqueName": "monster-staff-ornate-priest-staff",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 2177,
@@ -13456,7 +14058,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2177::::::::::0|h[Monster - Staff, Ornate Mage Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-ornate-mage-staff"
+    "uniqueName": "monster-staff-ornate-mage-staff",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 2559,
@@ -13489,7 +14093,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2559::::::::::0|h[Monster - Staff, Ornate Warlock Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-ornate-warlock-staff"
+    "uniqueName": "monster-staff-ornate-warlock-staff",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 5277,
@@ -13522,7 +14128,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5277::::::::::0|h[Monster - Staff, Metal /w Spike Crystal]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-metal-w-spike-crystal"
+    "uniqueName": "monster-staff-metal-w-spike-crystal",
+    "speed": 3,
+    "dps": 1
   },
   {
     "itemId": 5304,
@@ -13555,7 +14163,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5304::::::::::0|h[Monster - Staff, Large Metal Shaft]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-large-metal-shaft"
+    "uniqueName": "monster-staff-large-metal-shaft",
+    "speed": 2.4,
+    "dps": 0.8
   },
   {
     "itemId": 7826,
@@ -13588,7 +14198,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:7826::::::::::0|h[Monster - Staff, Special NPC (Whitemane)]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-special-npc-whitemane"
+    "uniqueName": "monster-staff-special-npc-whitemane",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 11343,
@@ -13621,7 +14233,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:11343::::::::::0|h[Monster - Staff, Jeweled Red Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-jeweled-red-staff"
+    "uniqueName": "monster-staff-jeweled-red-staff",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 11542,
@@ -13657,7 +14271,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:11542::::::::::0|h[Monster - Staff, Red Feathered]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-red-feathered"
+    "uniqueName": "monster-staff-red-feathered",
+    "speed": 3.4,
+    "dps": 0.9
   },
   {
     "itemId": 11588,
@@ -13690,7 +14306,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:11588::::::::::0|h[Monster - Staff, Jeweled D01 Green]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-jeweled-d01-green"
+    "uniqueName": "monster-staff-jeweled-d01-green",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 12322,
@@ -13726,7 +14344,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12322::::::::::0|h[Monster - Staff, Green Feathered]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-green-feathered"
+    "uniqueName": "monster-staff-green-feathered",
+    "speed": 3.4,
+    "dps": 0.9
   },
   {
     "itemId": 12421,
@@ -13759,7 +14379,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12421::::::::::0|h[Monster - Staff, White Jeweled]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-white-jeweled"
+    "uniqueName": "monster-staff-white-jeweled",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 12591,
@@ -13792,7 +14414,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12591::::::::::0|h[Monster - Staff, Holy Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-holy-staff"
+    "uniqueName": "monster-staff-holy-staff",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 12959,
@@ -13825,7 +14449,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12959::::::::::0|h[Monster - Staff, Demon Skull Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-demon-skull-staff"
+    "uniqueName": "monster-staff-demon-skull-staff",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13050,
@@ -13858,7 +14484,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13050::::::::::0|h[Monster - Staff, Ornate Jeweled Staff - Red]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-ornate-jeweled-staff-red"
+    "uniqueName": "monster-staff-ornate-jeweled-staff-red",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13061,
@@ -13891,7 +14519,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13061::::::::::0|h[Monster - Staff, Green Crystal Sphere]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-green-crystal-sphere"
+    "uniqueName": "monster-staff-green-crystal-sphere",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13078,
@@ -13924,7 +14554,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13078::::::::::0|h[Monster - Staff, Pointed Red Crystal]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-pointed-red-crystal"
+    "uniqueName": "monster-staff-pointed-red-crystal",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13336,
@@ -13960,7 +14592,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13336::::::::::0|h[Monster - Staff, Feathered Black]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-feathered-black"
+    "uniqueName": "monster-staff-feathered-black",
+    "speed": 3.4,
+    "dps": 0.9
   },
   {
     "itemId": 13337,
@@ -13996,7 +14630,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13337::::::::::0|h[Monster - Staff, Feathered Gold]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-feathered-gold"
+    "uniqueName": "monster-staff-feathered-gold",
+    "speed": 3.4,
+    "dps": 0.9
   },
   {
     "itemId": 13338,
@@ -14032,7 +14668,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13338::::::::::0|h[Monster - Staff, Feathered Invert]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-feathered-invert"
+    "uniqueName": "monster-staff-feathered-invert",
+    "speed": 3.4,
+    "dps": 0.9
   },
   {
     "itemId": 13339,
@@ -14068,7 +14706,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13339::::::::::0|h[Monster - Staff, Feathered Silver]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-feathered-silver"
+    "uniqueName": "monster-staff-feathered-silver",
+    "speed": 3.4,
+    "dps": 0.9
   },
   {
     "itemId": 13698,
@@ -14101,7 +14741,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13698::::::::::0|h[Monster - Staff, Ornate Warlock Staff Black Glow Low]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-ornate-warlock-staff-black-glow-low"
+    "uniqueName": "monster-staff-ornate-warlock-staff-black-glow-low",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13705,
@@ -14134,7 +14776,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13705::::::::::0|h[Monster - Staff, Yellow Jeweled with Low Purple Glow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-yellow-jeweled-with-low-purple-glow"
+    "uniqueName": "monster-staff-yellow-jeweled-with-low-purple-glow",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13720,
@@ -14170,7 +14814,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13720::::::::::0|h[Monster - Staff, Feathered Invert - Glow Black High]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-feathered-invert-glow-black-high"
+    "uniqueName": "monster-staff-feathered-invert-glow-black-high",
+    "speed": 3.4,
+    "dps": 0.9
   },
   {
     "itemId": 13722,
@@ -14203,7 +14849,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13722::::::::::0|h[Monster - Staff, Demon Skull Staff Low Purple Flame]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-demon-skull-staff-low-purple-flame"
+    "uniqueName": "monster-staff-demon-skull-staff-low-purple-flame",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13750,
@@ -14236,7 +14884,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13750::::::::::0|h[Monster - Staff, Jeweled Blue Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-jeweled-blue-staff"
+    "uniqueName": "monster-staff-jeweled-blue-staff",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13751,
@@ -14269,7 +14919,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13751::::::::::0|h[Monster - Staff, Jeweled Yellow Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-jeweled-yellow-staff"
+    "uniqueName": "monster-staff-jeweled-yellow-staff",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13753,
@@ -14302,7 +14954,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13753::::::::::0|h[Monster - Staff, Jeweled Green Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-jeweled-green-staff"
+    "uniqueName": "monster-staff-jeweled-green-staff",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13823,
@@ -14338,7 +14992,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13823::::::::::0|h[Stout War Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stout-war-staff"
+    "uniqueName": "stout-war-staff",
+    "speed": 3.1,
+    "dps": 23.9
   },
   {
     "itemId": 14092,
@@ -14371,7 +15027,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:14092::::::::::0|h[Monster - Staff, Holy Staff Archbishop Benedictus]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-holy-staff-archbishop-benedictus"
+    "uniqueName": "monster-staff-holy-staff-archbishop-benedictus",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 14618,
@@ -14404,7 +15062,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:14618::::::::::0|h[Monster - Staff, Jeweled Red Staff Low Red Flame]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-jeweled-red-staff-low-red-flame"
+    "uniqueName": "monster-staff-jeweled-red-staff-low-red-flame",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 14836,
@@ -14437,7 +15097,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:14836::::::::::0|h[Monster - Staff, Ornate Jeweled Staff - Purple]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-ornate-jeweled-staff-purple"
+    "uniqueName": "monster-staff-ornate-jeweled-staff-purple",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 14837,
@@ -14470,7 +15132,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:14837::::::::::0|h[Monster - Staff, Ornate Jeweled Staff - Purple Low Purple Glow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-ornate-jeweled-staff-purple-low-purple-glow"
+    "uniqueName": "monster-staff-ornate-jeweled-staff-purple-low-purple-glow",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 14873,
@@ -14503,7 +15167,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:14873::::::::::0|h[Monster - Staff, Ornate Jeweled Staff - Blue]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-ornate-jeweled-staff-blue"
+    "uniqueName": "monster-staff-ornate-jeweled-staff-blue",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 18122,
@@ -14536,7 +15202,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:18122::::::::::0|h[Monster - Staff, Ornate Jeweled Staff - Blue High Blue Glow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-ornate-jeweled-staff-blue-high-blue-glow"
+    "uniqueName": "monster-staff-ornate-jeweled-staff-blue-high-blue-glow",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 18123,
@@ -14572,7 +15240,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:18123::::::::::0|h[Monster - Staff, Feathered Silver Glow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-feathered-silver-glow"
+    "uniqueName": "monster-staff-feathered-silver-glow",
+    "speed": 3.4,
+    "dps": 0.9
   },
   {
     "itemId": 18644,
@@ -14605,7 +15275,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:18644::::::::::0|h[Monster - Staff, Ornate Jeweled Staff - Red Low Red Flame]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-ornate-jeweled-staff-red-low-red-flame"
+    "uniqueName": "monster-staff-ornate-jeweled-staff-red-low-red-flame",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 20718,
@@ -14638,7 +15310,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:20718::::::::::0|h[Monster - Staff, Jeweled Yellow Staff w/Low Purple Glow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-jeweled-yellow-staff-w-low-purple-glow"
+    "uniqueName": "monster-staff-jeweled-yellow-staff-w-low-purple-glow",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 20719,
@@ -14671,6 +15345,8 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:20719::::::::::0|h[Monster - Staff, Jeweled D01/B02 Yellow w/Low Red Flame]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-jeweled-d01-b02-yellow-w-low-red-flame"
+    "uniqueName": "monster-staff-jeweled-d01-b02-yellow-w-low-red-flame",
+    "speed": 2,
+    "dps": 0.8
   }
 ]

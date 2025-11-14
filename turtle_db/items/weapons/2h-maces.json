@@ -36,7 +36,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:2915::::::::::0|h[Taran Icebreaker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "taran-icebreaker"
+    "uniqueName": "taran-icebreaker",
+    "speed": 2.3,
+    "dps": 49.6
   },
   {
     "itemId": 3194,
@@ -75,7 +77,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:3194::::::::::0|h[Black Malice]|h|r",
     "contentPhase": 1,
-    "uniqueName": "black-malice"
+    "uniqueName": "black-malice",
+    "speed": 3.3,
+    "dps": 19.4
   },
   {
     "itemId": 3203,
@@ -120,7 +124,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:3203::::::::::0|h[Dense Triangle Mace]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dense-triangle-mace"
+    "uniqueName": "dense-triangle-mace",
+    "speed": 2.4,
+    "dps": 22.9
   },
   {
     "itemId": 7730,
@@ -159,7 +165,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:7730::::::::::0|h[Cobalt Crusher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cobalt-crusher"
+    "uniqueName": "cobalt-crusher",
+    "speed": 3.2,
+    "dps": 30.5
   },
   {
     "itemId": 11608,
@@ -198,7 +206,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:11608::::::::::0|h[Dark Iron Pulverizer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dark-iron-pulverizer"
+    "uniqueName": "dark-iron-pulverizer",
+    "speed": 3.7,
+    "dps": 47.4
   },
   {
     "itemId": 11803,
@@ -240,7 +250,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:11803::::::::::0|h[Force of Magma]|h|r",
     "contentPhase": 1,
-    "uniqueName": "force-of-magma"
+    "uniqueName": "force-of-magma",
+    "speed": 3.2,
+    "dps": 48.1
   },
   {
     "itemId": 12776,
@@ -282,7 +294,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12776::::::::::0|h[Enchanted Battlehammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "enchanted-battlehammer"
+    "uniqueName": "enchanted-battlehammer",
+    "speed": 2.6,
+    "dps": 48.1
   },
   {
     "itemId": 13046,
@@ -330,7 +344,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13046::::::::::0|h[Blanchard's Stout]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blanchards-stout"
+    "uniqueName": "blanchards-stout",
+    "speed": 3.1,
+    "dps": 43.4
   },
   {
     "itemId": 13167,
@@ -375,7 +391,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13167::::::::::0|h[Fist of Omokk]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fist-of-omokk"
+    "uniqueName": "fist-of-omokk",
+    "speed": 3.3,
+    "dps": 51.4
   },
   {
     "itemId": 14531,
@@ -414,7 +432,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:14531::::::::::0|h[Frightskull Shaft]|h|r",
     "contentPhase": 1,
-    "uniqueName": "frightskull-shaft"
+    "uniqueName": "frightskull-shaft",
+    "speed": 3.4,
+    "dps": 50.4
   },
   {
     "itemId": 17073,
@@ -456,7 +476,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:17073::::::::::0|h[Earthshaker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "earthshaker"
+    "uniqueName": "earthshaker",
+    "speed": 3.5,
+    "dps": 62.6
   },
   {
     "itemId": 17182,
@@ -504,7 +526,9 @@
     ],
     "itemLink": "|cffff8000|Hitem:17182::::::::::0|h[Sulfuras, Hand of Ragnaros]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sulfuras-hand-of-ragnaros"
+    "uniqueName": "sulfuras-hand-of-ragnaros",
+    "speed": 3.7,
+    "dps": 80.4
   },
   {
     "itemId": 17193,
@@ -543,7 +567,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:17193::::::::::0|h[Sulfuron Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sulfuron-hammer"
+    "uniqueName": "sulfuron-hammer",
+    "speed": 3.7,
+    "dps": 63.6
   },
   {
     "itemId": 18420,
@@ -602,7 +628,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:18420::::::::::0|h[Bonecrusher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bonecrusher"
+    "uniqueName": "bonecrusher",
+    "speed": 3,
+    "dps": 53.8
   },
   {
     "itemId": 18717,
@@ -650,7 +678,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18717::::::::::0|h[Hammer of the Grand Crusader]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hammer-of-the-grand-crusader"
+    "uniqueName": "hammer-of-the-grand-crusader",
+    "speed": 2.7,
+    "dps": 53.9
   },
   {
     "itemId": 18803,
@@ -701,7 +731,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18803::::::::::0|h[Finkle's Lava Dredger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "finkles-lava-dredger"
+    "uniqueName": "finkles-lava-dredger",
+    "speed": 2.9,
+    "dps": 59.3
   },
   {
     "itemId": 18867,
@@ -746,7 +778,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18867::::::::::0|h[Grand Marshal's Battle Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "grand-marshals-battle-hammer"
+    "uniqueName": "grand-marshals-battle-hammer",
+    "speed": 3.8,
+    "dps": 84.5
   },
   {
     "itemId": 18868,
@@ -791,7 +825,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18868::::::::::0|h[High Warlord's Pulverizer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "high-warlords-pulverizer"
+    "uniqueName": "high-warlords-pulverizer",
+    "speed": 3.8,
+    "dps": 84.5
   },
   {
     "itemId": 19323,
@@ -836,7 +872,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19323::::::::::0|h[The Unstoppable Force]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-unstoppable-force"
+    "uniqueName": "the-unstoppable-force",
+    "speed": 3.8,
+    "dps": 61.4
   },
   {
     "itemId": 19357,
@@ -890,7 +928,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19357::::::::::0|h[Herald of Woe]|h|r",
     "contentPhase": 1,
-    "uniqueName": "herald-of-woe"
+    "uniqueName": "herald-of-woe",
+    "speed": 3.4,
+    "dps": 73.4
   },
   {
     "itemId": 19358,
@@ -938,7 +978,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19358::::::::::0|h[Draconic Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "draconic-maul"
+    "uniqueName": "draconic-maul",
+    "speed": 3.5,
+    "dps": 67
   },
   {
     "itemId": 19918,
@@ -977,7 +1019,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19918::::::::::0|h[Jeklik's Crusher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "jekliks-crusher"
+    "uniqueName": "jekliks-crusher",
+    "speed": 3.6,
+    "dps": 56.5
   },
   {
     "itemId": 20696,
@@ -1022,7 +1066,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:20696::::::::::0|h[Crystal Spiked Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "crystal-spiked-maul"
+    "uniqueName": "crystal-spiked-maul",
+    "speed": 3.9,
+    "dps": 53.8
   },
   {
     "itemId": 21188,
@@ -1068,7 +1114,9 @@
     },
     "itemLink": "|cffa335ee|Hitem:21188::::::::::0|h[Fist of Cenarius]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fist-of-cenarius"
+    "uniqueName": "fist-of-cenarius",
+    "speed": 3.5,
+    "dps": 62.6
   },
   {
     "itemId": 21703,
@@ -1116,7 +1164,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:21703::::::::::0|h[Hammer of Ji'zhi]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hammer-of-jizhi"
+    "uniqueName": "hammer-of-jizhi",
+    "speed": 3.5,
+    "dps": 70.7
   },
   {
     "itemId": 21806,
@@ -1164,7 +1214,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:21806::::::::::0|h[Gavel of Qiraji Authority]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gavel-of-qiraji-authority"
+    "uniqueName": "gavel-of-qiraji-authority",
+    "speed": 2.2,
+    "dps": 61.4
   },
   {
     "itemId": 22333,
@@ -1209,7 +1261,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:22333::::::::::0|h[Hammer of Divine Might]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hammer-of-divine-might"
+    "uniqueName": "hammer-of-divine-might",
+    "speed": 2.1,
+    "dps": 53.1
   },
   {
     "itemId": 22348,
@@ -1264,7 +1318,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:22348::::::::::0|h[Doomulus Prime]|h|r",
     "contentPhase": 1,
-    "uniqueName": "doomulus-prime"
+    "uniqueName": "doomulus-prime",
+    "speed": 3.8,
+    "dps": 55.7
   },
   {
     "itemId": 22798,
@@ -1312,7 +1368,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:22798::::::::::0|h[Might of Menethil]|h|r",
     "contentPhase": 1,
-    "uniqueName": "might-of-menethil"
+    "uniqueName": "might-of-menethil",
+    "speed": 3.8,
+    "dps": 95.3
   },
   {
     "itemId": 22809,
@@ -1357,7 +1415,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:22809::::::::::0|h[Maul of the Redeemed Crusader]|h|r",
     "contentPhase": 1,
-    "uniqueName": "maul-of-the-redeemed-crusader"
+    "uniqueName": "maul-of-the-redeemed-crusader",
+    "speed": 3.6,
+    "dps": 90
   },
   {
     "itemId": 23455,
@@ -1402,7 +1462,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:23455::::::::::0|h[Grand Marshal's Demolisher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "grand-marshals-demolisher"
+    "uniqueName": "grand-marshals-demolisher",
+    "speed": 3.8,
+    "dps": 84.5
   },
   {
     "itemId": 23465,
@@ -1447,7 +1509,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:23465::::::::::0|h[High Warlord's Destroyer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "high-warlords-destroyer"
+    "uniqueName": "high-warlords-destroyer",
+    "speed": 3.8,
+    "dps": 84.5
   },
   {
     "itemId": 41076,
@@ -1489,7 +1553,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:41076::::::::::0|h[Aspect of Seradane]|h|r",
     "contentPhase": 1,
-    "uniqueName": "aspect-of-seradane"
+    "uniqueName": "aspect-of-seradane",
+    "speed": 3.3,
+    "dps": 78.2
   },
   {
     "itemId": 55021,
@@ -1534,7 +1600,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:55021::::::::::0|h[Alvelo's Reinforced Bludgeon]|h|r",
     "contentPhase": 1,
-    "uniqueName": "alvelos-reinforced-bludgeon"
+    "uniqueName": "alvelos-reinforced-bludgeon",
+    "speed": 3.4,
+    "dps": 35.6
   },
   {
     "itemId": 55100,
@@ -1579,7 +1647,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:55100::::::::::0|h[Checkmate]|h|r",
     "contentPhase": 1,
-    "uniqueName": "checkmate"
+    "uniqueName": "checkmate",
+    "speed": 3.7,
+    "dps": 93.5
   },
   {
     "itemId": 55504,
@@ -1624,7 +1694,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:55504::::::::::0|h[Anchor of the Wavecutter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "anchor-of-the-wavecutter"
+    "uniqueName": "anchor-of-the-wavecutter",
+    "speed": 3.6,
+    "dps": 62.6
   },
   {
     "itemId": 60010,
@@ -1663,7 +1735,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:60010::::::::::0|h[Towerforge Demolisher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "towerforge-demolisher"
+    "uniqueName": "towerforge-demolisher",
+    "speed": 3.7,
+    "dps": 62.7
   },
   {
     "itemId": 60099,
@@ -1708,7 +1782,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:60099::::::::::0|h[Battery-Powered Crowd Pummeler]|h|r",
     "contentPhase": 1,
-    "uniqueName": "battery-powered-crowd-pummeler"
+    "uniqueName": "battery-powered-crowd-pummeler",
+    "speed": 2.9,
+    "dps": 43.1
   },
   {
     "itemId": 61044,
@@ -1759,7 +1835,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:61044::::::::::0|h[Gavel of the Northwind]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gavel-of-the-northwind"
+    "uniqueName": "gavel-of-the-northwind",
+    "speed": 2.5,
+    "dps": 56
   },
   {
     "itemId": 61185,
@@ -1807,7 +1885,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:61185::::::::::0|h[Dawnstone Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dawnstone-hammer"
+    "uniqueName": "dawnstone-hammer",
+    "speed": 2.9,
+    "dps": 61
   },
   {
     "itemId": 61277,
@@ -1852,7 +1932,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:61277::::::::::0|h[Fist of the Forgotten Order]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fist-of-the-forgotten-order"
+    "uniqueName": "fist-of-the-forgotten-order",
+    "speed": 3.6,
+    "dps": 67.1
   },
   {
     "itemId": 61532,
@@ -1891,7 +1973,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:61532::::::::::0|h[Grand Slammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "grand-slammer"
+    "uniqueName": "grand-slammer",
+    "speed": 3.8,
+    "dps": 48.9
   },
   {
     "itemId": 80781,
@@ -1975,7 +2059,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:81199::::::::::0|h[Ancestral War Totem]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ancestral-war-totem"
+    "uniqueName": "ancestral-war-totem",
+    "speed": 3.7,
+    "dps": 43.5
   },
   {
     "itemId": 83060,
@@ -2023,7 +2109,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83060::::::::::0|h[Carved Ragetotem]|h|r",
     "contentPhase": 1,
-    "uniqueName": "carved-ragetotem"
+    "uniqueName": "carved-ragetotem",
+    "speed": 3.3,
+    "dps": 52.3
   },
   {
     "itemId": 83061,
@@ -2071,7 +2159,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83061::::::::::0|h[Carved Grimtotem]|h|r",
     "contentPhase": 1,
-    "uniqueName": "carved-grimtotem"
+    "uniqueName": "carved-grimtotem",
+    "speed": 3.1,
+    "dps": 55.2
   },
   {
     "itemId": 83062,
@@ -2119,7 +2209,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83062::::::::::0|h[Carved Runetotem]|h|r",
     "contentPhase": 1,
-    "uniqueName": "carved-runetotem"
+    "uniqueName": "carved-runetotem",
+    "speed": 3.2,
+    "dps": 52.5
   },
   {
     "itemId": 83063,
@@ -2167,7 +2259,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83063::::::::::0|h[Bloodhoof Totem]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bloodhoof-totem"
+    "uniqueName": "bloodhoof-totem",
+    "speed": 3.4,
+    "dps": 50.1
   },
   {
     "itemId": 83440,
@@ -2212,7 +2306,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83440::::::::::0|h[Boneshatter Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "boneshatter-maul"
+    "uniqueName": "boneshatter-maul",
+    "speed": 3.7,
+    "dps": 54.9
   },
   {
     "itemId": 83496,
@@ -2254,7 +2350,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83496::::::::::0|h[Enforcer's Blackjack]|h|r",
     "contentPhase": 1,
-    "uniqueName": "enforcers-blackjack"
+    "uniqueName": "enforcers-blackjack",
+    "speed": 2.8,
+    "dps": 41.3
   },
   {
     "itemId": 1722,
@@ -2299,7 +2397,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:1722::::::::::0|h[Thornstone Sledgehammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thornstone-sledgehammer"
+    "uniqueName": "thornstone-sledgehammer",
+    "speed": 3.2,
+    "dps": 37.2
   },
   {
     "itemId": 1976,
@@ -2344,7 +2444,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:1976::::::::::0|h[Slaghammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "slaghammer"
+    "uniqueName": "slaghammer",
+    "speed": 2.8,
+    "dps": 23.8
   },
   {
     "itemId": 1990,
@@ -2383,7 +2485,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1990::::::::::0|h[Ballast Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ballast-maul"
+    "uniqueName": "ballast-maul",
+    "speed": 3.4,
+    "dps": 24.7
   },
   {
     "itemId": 3103,
@@ -2436,7 +2540,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:3103::::::::::0|h[Coldridge Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "coldridge-hammer"
+    "uniqueName": "coldridge-hammer",
+    "speed": 2.7,
+    "dps": 8.3
   },
   {
     "itemId": 3198,
@@ -2475,7 +2581,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:3198::::::::::0|h[Battering Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "battering-hammer"
+    "uniqueName": "battering-hammer",
+    "speed": 3.1,
+    "dps": 15.2
   },
   {
     "itemId": 3208,
@@ -2514,7 +2622,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:3208::::::::::0|h[Conk Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "conk-hammer"
+    "uniqueName": "conk-hammer",
+    "speed": 3.5,
+    "dps": 37.3
   },
   {
     "itemId": 3440,
@@ -2563,7 +2673,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:3440::::::::::0|h[Bonecracker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bonecracker"
+    "uniqueName": "bonecracker",
+    "speed": 3.2,
+    "dps": 9.1
   },
   {
     "itemId": 4570,
@@ -2602,7 +2714,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:4570::::::::::0|h[Birchwood Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "birchwood-maul"
+    "uniqueName": "birchwood-maul",
+    "speed": 3.3,
+    "dps": 10
   },
   {
     "itemId": 5322,
@@ -2651,7 +2765,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5322::::::::::0|h[Demolition Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "demolition-hammer"
+    "uniqueName": "demolition-hammer",
+    "speed": 2.3,
+    "dps": 17.6
   },
   {
     "itemId": 6205,
@@ -2693,7 +2809,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:6205::::::::::0|h[Burrowing Shovel]|h|r",
     "contentPhase": 1,
-    "uniqueName": "burrowing-shovel"
+    "uniqueName": "burrowing-shovel",
+    "speed": 2.3,
+    "dps": 10
   },
   {
     "itemId": 6327,
@@ -2738,7 +2856,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:6327::::::::::0|h[The Pacifier]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-pacifier"
+    "uniqueName": "the-pacifier",
+    "speed": 4,
+    "dps": 32.5
   },
   {
     "itemId": 6953,
@@ -2793,7 +2913,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:6953::::::::::0|h[Verigan's Fist]|h|r",
     "contentPhase": 1,
-    "uniqueName": "verigans-fist"
+    "uniqueName": "verigans-fist",
+    "speed": 3.2,
+    "dps": 25.6
   },
   {
     "itemId": 6976,
@@ -2842,7 +2964,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:6976::::::::::0|h[Whirlwind Warhammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "whirlwind-warhammer"
+    "uniqueName": "whirlwind-warhammer",
+    "speed": 3.4,
+    "dps": 35.7
   },
   {
     "itemId": 7230,
@@ -2887,7 +3011,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:7230::::::::::0|h[Smite's Mighty Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "smites-mighty-hammer"
+    "uniqueName": "smites-mighty-hammer",
+    "speed": 3.5,
+    "dps": 19.7
   },
   {
     "itemId": 7723,
@@ -2932,7 +3058,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:7723::::::::::0|h[Mograine's Might]|h|r",
     "contentPhase": 1,
-    "uniqueName": "mograines-might"
+    "uniqueName": "mograines-might",
+    "speed": 2.8,
+    "dps": 38.9
   },
   {
     "itemId": 9391,
@@ -2977,7 +3105,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9391::::::::::0|h[The Shoveler]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-shoveler"
+    "uniqueName": "the-shoveler",
+    "speed": 3.4,
+    "dps": 32.5
   },
   {
     "itemId": 9413,
@@ -3019,7 +3149,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9413::::::::::0|h[The Rockpounder]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-rockpounder"
+    "uniqueName": "the-rockpounder",
+    "speed": 3.7,
+    "dps": 42.7
   },
   {
     "itemId": 9423,
@@ -3058,7 +3190,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9423::::::::::0|h[The Jackhammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-jackhammer"
+    "uniqueName": "the-jackhammer",
+    "speed": 2.5,
+    "dps": 39.6
   },
   {
     "itemId": 9449,
@@ -3103,7 +3237,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9449::::::::::0|h[Manual Crowd Pummeler]|h|r",
     "contentPhase": 1,
-    "uniqueName": "manual-crowd-pummeler"
+    "uniqueName": "manual-crowd-pummeler",
+    "speed": 2.9,
+    "dps": 29
   },
   {
     "itemId": 10626,
@@ -3142,7 +3278,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:10626::::::::::0|h[Ragehammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ragehammer"
+    "uniqueName": "ragehammer",
+    "speed": 3.7,
+    "dps": 43.4
   },
   {
     "itemId": 11265,
@@ -3191,7 +3329,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:11265::::::::::0|h[Cragwood Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cragwood-maul"
+    "uniqueName": "cragwood-maul",
+    "speed": 2.8,
+    "dps": 31.3
   },
   {
     "itemId": 11921,
@@ -3233,7 +3373,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:11921::::::::::0|h[Impervious Giant]|h|r",
     "contentPhase": 1,
-    "uniqueName": "impervious-giant"
+    "uniqueName": "impervious-giant",
+    "speed": 2.7,
+    "dps": 48.9
   },
   {
     "itemId": 12528,
@@ -3272,7 +3414,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12528::::::::::0|h[The Judge's Gavel]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-judges-gavel"
+    "uniqueName": "the-judges-gavel",
+    "speed": 3.4,
+    "dps": 45
   },
   {
     "itemId": 12796,
@@ -3314,7 +3458,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12796::::::::::0|h[Hammer of the Titans]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hammer-of-the-titans"
+    "uniqueName": "hammer-of-the-titans",
+    "speed": 3.8,
+    "dps": 53.8
   },
   {
     "itemId": 12969,
@@ -3401,7 +3547,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12983::::::::::0|h[Rakzur Club]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rakzur-club"
+    "uniqueName": "rakzur-club",
+    "speed": 2.6,
+    "dps": 18.3
   },
   {
     "itemId": 13045,
@@ -3449,7 +3597,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13045::::::::::0|h[Viscous Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "viscous-hammer"
+    "uniqueName": "viscous-hammer",
+    "speed": 2.9,
+    "dps": 30.2
   },
   {
     "itemId": 13047,
@@ -3497,7 +3647,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13047::::::::::0|h[Twig of the World Tree]|h|r",
     "contentPhase": 1,
-    "uniqueName": "twig-of-the-world-tree"
+    "uniqueName": "twig-of-the-world-tree",
+    "speed": 3.7,
+    "dps": 49.7
   },
   {
     "itemId": 13393,
@@ -3536,7 +3688,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13393::::::::::0|h[Malown's Slam]|h|r",
     "contentPhase": 1,
-    "uniqueName": "malowns-slam"
+    "uniqueName": "malowns-slam",
+    "speed": 3.8,
+    "dps": 52.1
   },
   {
     "itemId": 15266,
@@ -3575,7 +3729,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15266::::::::::0|h[Fierce Mauler]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fierce-mauler"
+    "uniqueName": "fierce-mauler",
+    "speed": 3.3,
+    "dps": 47.4
   },
   {
     "itemId": 15267,
@@ -3614,7 +3770,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15267::::::::::0|h[Brutehammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "brutehammer"
+    "uniqueName": "brutehammer",
+    "speed": 3.4,
+    "dps": 49
   },
   {
     "itemId": 15418,
@@ -3661,7 +3819,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:15418::::::::::0|h[Shimmering Platinum Warhammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "shimmering-platinum-warhammer"
+    "uniqueName": "shimmering-platinum-warhammer",
+    "speed": 3.1,
+    "dps": 53.9
   },
   {
     "itemId": 15464,
@@ -3716,7 +3876,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:15464::::::::::0|h[Brute Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "brute-hammer"
+    "uniqueName": "brute-hammer",
+    "speed": 3.3,
+    "dps": 19.1
   },
   {
     "itemId": 17766,
@@ -3755,7 +3917,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:17766::::::::::0|h[Princess Theradras' Scepter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "princess-theradras-scepter"
+    "uniqueName": "princess-theradras-scepter",
+    "speed": 3.4,
+    "dps": 46.5
   },
   {
     "itemId": 18531,
@@ -3803,7 +3967,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18531::::::::::0|h[Unyielding Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "unyielding-maul"
+    "uniqueName": "unyielding-maul",
+    "speed": 3.2,
+    "dps": 53
   },
   {
     "itemId": 22208,
@@ -3851,7 +4017,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:22208::::::::::0|h[Lavastone Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lavastone-hammer"
+    "uniqueName": "lavastone-hammer",
+    "speed": 3.4,
+    "dps": 49.7
   },
   {
     "itemId": 41135,
@@ -3900,7 +4068,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:41135::::::::::0|h[Blackstone Basher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blackstone-basher"
+    "uniqueName": "blackstone-basher",
+    "speed": 3.1,
+    "dps": 9.8
   },
   {
     "itemId": 50186,
@@ -3939,7 +4109,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:50186::::::::::0|h[Demoralization Club]|h|r",
     "contentPhase": 1,
-    "uniqueName": "demoralization-club"
+    "uniqueName": "demoralization-club",
+    "speed": 2.6,
+    "dps": 5.2
   },
   {
     "itemId": 51834,
@@ -3982,7 +4154,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:51834::::::::::0|h[Scarlet Pillar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "scarlet-pillar"
+    "uniqueName": "scarlet-pillar",
+    "speed": 3.8,
+    "dps": 27.4
   },
   {
     "itemId": 58270,
@@ -4034,7 +4208,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:58270::::::::::0|h[Totem of An'she]|h|r",
     "contentPhase": 1,
-    "uniqueName": "totem-of-anshe"
+    "uniqueName": "totem-of-anshe",
+    "speed": 3.4,
+    "dps": 32.5
   },
   {
     "itemId": 60560,
@@ -4073,7 +4249,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:60560::::::::::0|h[Steamrigged Servohammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "steamrigged-servohammer"
+    "uniqueName": "steamrigged-servohammer",
+    "speed": 3.5,
+    "dps": 48.9
   },
   {
     "itemId": 61074,
@@ -4122,7 +4300,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:61074::::::::::0|h[Enforcer's Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "enforcers-maul"
+    "uniqueName": "enforcers-maul",
+    "speed": 3.4,
+    "dps": 49
   },
   {
     "itemId": 61087,
@@ -4175,7 +4355,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:61087::::::::::0|h[Winter Veil Branch]|h|r",
     "contentPhase": 1,
-    "uniqueName": "winter-veil-branch"
+    "uniqueName": "winter-veil-branch",
+    "speed": 3.1,
+    "dps": 52.6
   },
   {
     "itemId": 80531,
@@ -4223,7 +4405,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80531::::::::::0|h[Quel'dorei Guardian's Warhammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "queldorei-guardians-warhammer"
+    "uniqueName": "queldorei-guardians-warhammer",
+    "speed": 3.4,
+    "dps": 55.7
   },
   {
     "itemId": 80631,
@@ -4271,7 +4455,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80631::::::::::0|h[Revantusk Watcher's Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "revantusk-watchers-maul"
+    "uniqueName": "revantusk-watchers-maul",
+    "speed": 3.4,
+    "dps": 55.7
   },
   {
     "itemId": 80751,
@@ -4316,7 +4502,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80751::::::::::0|h[Thornclad Warhammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thornclad-warhammer"
+    "uniqueName": "thornclad-warhammer",
+    "speed": 3.2,
+    "dps": 43.3
   },
   {
     "itemId": 81305,
@@ -4358,7 +4546,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:81305::::::::::0|h[Rusty Coghammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rusty-coghammer"
+    "uniqueName": "rusty-coghammer",
+    "speed": 2.9,
+    "dps": 30.2
   },
   {
     "itemId": 83221,
@@ -4406,7 +4596,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83221::::::::::0|h[Thornroot Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thornroot-maul"
+    "uniqueName": "thornroot-maul",
+    "speed": 3.7,
+    "dps": 35.8
   },
   {
     "itemId": 911,
@@ -4451,7 +4643,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:911::::::::::0|h[Ironwood Treebranch]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ironwood-treebranch"
+    "uniqueName": "ironwood-treebranch",
+    "speed": 3.4,
+    "dps": 16.8
   },
   {
     "itemId": 1195,
@@ -4487,7 +4681,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:1195::::::::::0|h[Kobold Mining Shovel]|h|r",
     "contentPhase": 1,
-    "uniqueName": "kobold-mining-shovel"
+    "uniqueName": "kobold-mining-shovel",
+    "speed": 2.7,
+    "dps": 3
   },
   {
     "itemId": 1197,
@@ -4523,7 +4719,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:1197::::::::::0|h[Giant Mace]|h|r",
     "contentPhase": 1,
-    "uniqueName": "giant-mace"
+    "uniqueName": "giant-mace",
+    "speed": 3.5,
+    "dps": 9
   },
   {
     "itemId": 1218,
@@ -4565,7 +4763,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1218::::::::::0|h[Heavy Gnoll War Club]|h|r",
     "contentPhase": 1,
-    "uniqueName": "heavy-gnoll-war-club"
+    "uniqueName": "heavy-gnoll-war-club",
+    "speed": 3.7,
+    "dps": 13.6
   },
   {
     "itemId": 1458,
@@ -4610,7 +4810,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1458::::::::::0|h[Shadowhide Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "shadowhide-maul"
+    "uniqueName": "shadowhide-maul",
+    "speed": 3,
+    "dps": 15.2
   },
   {
     "itemId": 1523,
@@ -4652,7 +4854,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1523::::::::::0|h[Huge Stone Club]|h|r",
     "contentPhase": 1,
-    "uniqueName": "huge-stone-club"
+    "uniqueName": "huge-stone-club",
+    "speed": 3.6,
+    "dps": 24.7
   },
   {
     "itemId": 1679,
@@ -4697,7 +4901,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1679::::::::::0|h[Korg Bat]|h|r",
     "contentPhase": 1,
-    "uniqueName": "korg-bat"
+    "uniqueName": "korg-bat",
+    "speed": 3.1,
+    "dps": 24.7
   },
   {
     "itemId": 1991,
@@ -4742,7 +4948,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1991::::::::::0|h[Goblin Power Shovel]|h|r",
     "contentPhase": 1,
-    "uniqueName": "goblin-power-shovel"
+    "uniqueName": "goblin-power-shovel",
+    "speed": 3.3,
+    "dps": 22.9
   },
   {
     "itemId": 2058,
@@ -4787,7 +4995,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:2058::::::::::0|h[Kazon's Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "kazons-maul"
+    "uniqueName": "kazons-maul",
+    "speed": 3.4,
+    "dps": 18.2
   },
   {
     "itemId": 2254,
@@ -4829,7 +5039,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:2254::::::::::0|h[Icepane Warhammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "icepane-warhammer"
+    "uniqueName": "icepane-warhammer",
+    "speed": 3.3,
+    "dps": 8.5
   },
   {
     "itemId": 2361,
@@ -4862,7 +5074,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2361::::::::::0|h[Battleworn Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "battleworn-hammer"
+    "uniqueName": "battleworn-hammer",
+    "speed": 2.9,
+    "dps": 1.4
   },
   {
     "itemId": 2480,
@@ -4895,7 +5109,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2480::::::::::0|h[Large Club]|h|r",
     "contentPhase": 1,
-    "uniqueName": "large-club"
+    "uniqueName": "large-club",
+    "speed": 3.2,
+    "dps": 1.6
   },
   {
     "itemId": 3190,
@@ -4931,7 +5147,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:3190::::::::::0|h[Beatstick]|h|r",
     "contentPhase": 1,
-    "uniqueName": "beatstick"
+    "uniqueName": "beatstick",
+    "speed": 2.6,
+    "dps": 4.4
   },
   {
     "itemId": 3193,
@@ -4970,7 +5188,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:3193::::::::::0|h[Oak Mallet]|h|r",
     "contentPhase": 1,
-    "uniqueName": "oak-mallet"
+    "uniqueName": "oak-mallet",
+    "speed": 3.5,
+    "dps": 13.7
   },
   {
     "itemId": 3334,
@@ -5006,7 +5226,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:3334::::::::::0|h[Farmer's Shovel]|h|r",
     "contentPhase": 1,
-    "uniqueName": "farmers-shovel"
+    "uniqueName": "farmers-shovel",
+    "speed": 3.7,
+    "dps": 3.8
   },
   {
     "itemId": 3571,
@@ -5048,7 +5270,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:3571::::::::::0|h[Trogg Beater]|h|r",
     "contentPhase": 1,
-    "uniqueName": "trogg-beater"
+    "uniqueName": "trogg-beater",
+    "speed": 3.6,
+    "dps": 13.8
   },
   {
     "itemId": 3851,
@@ -5100,7 +5324,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:3851::::::::::0|h[Solid Iron Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "solid-iron-maul"
+    "uniqueName": "solid-iron-maul",
+    "speed": 3.5,
+    "dps": 21.1
   },
   {
     "itemId": 3852,
@@ -5145,7 +5371,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:3852::::::::::0|h[Golden Iron Destroyer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "golden-iron-destroyer"
+    "uniqueName": "golden-iron-destroyer",
+    "speed": 2.75,
+    "dps": 22.9
   },
   {
     "itemId": 4128,
@@ -5197,7 +5425,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:4128::::::::::0|h[Silver Spade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "silver-spade"
+    "uniqueName": "silver-spade",
+    "speed": 3.7,
+    "dps": 30.1
   },
   {
     "itemId": 4548,
@@ -5243,7 +5473,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:4548::::::::::0|h[Servomechanic Sledgehammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "servomechanic-sledgehammer"
+    "uniqueName": "servomechanic-sledgehammer",
+    "speed": 2.2,
+    "dps": 30.2
   },
   {
     "itemId": 4564,
@@ -5282,7 +5514,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:4564::::::::::0|h[Spiked Club]|h|r",
     "contentPhase": 1,
-    "uniqueName": "spiked-club"
+    "uniqueName": "spiked-club",
+    "speed": 3.1,
+    "dps": 9
   },
   {
     "itemId": 4777,
@@ -5324,7 +5558,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:4777::::::::::0|h[Ironwood Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ironwood-maul"
+    "uniqueName": "ironwood-maul",
+    "speed": 2.8,
+    "dps": 11.8
   },
   {
     "itemId": 4778,
@@ -5366,7 +5602,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:4778::::::::::0|h[Heavy Spiked Mace]|h|r",
     "contentPhase": 1,
-    "uniqueName": "heavy-spiked-mace"
+    "uniqueName": "heavy-spiked-mace",
+    "speed": 3.4,
+    "dps": 12.5
   },
   {
     "itemId": 4964,
@@ -5415,7 +5653,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:4964::::::::::0|h[Goblin Smasher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "goblin-smasher"
+    "uniqueName": "goblin-smasher",
+    "speed": 3.1,
+    "dps": 8.2
   },
   {
     "itemId": 4983,
@@ -5464,7 +5704,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:4983::::::::::0|h[Rock Pulverizer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rock-pulverizer"
+    "uniqueName": "rock-pulverizer",
+    "speed": 3.7,
+    "dps": 31.2
   },
   {
     "itemId": 5187,
@@ -5506,7 +5748,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:5187::::::::::0|h[Rhahk'Zor's Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rhahkzors-hammer"
+    "uniqueName": "rhahkzors-hammer",
+    "speed": 3.2,
+    "dps": 13.8
   },
   {
     "itemId": 5345,
@@ -5555,7 +5799,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5345::::::::::0|h[Stonewood Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stonewood-hammer"
+    "uniqueName": "stonewood-hammer",
+    "speed": 3.2,
+    "dps": 9.5
   },
   {
     "itemId": 5761,
@@ -5601,7 +5847,9 @@
     },
     "itemLink": "|cffffffff|Hitem:5761::::::::::0|h[Anvilmar Sledge]|h|r",
     "contentPhase": 1,
-    "uniqueName": "anvilmar-sledge"
+    "uniqueName": "anvilmar-sledge",
+    "speed": 3.1,
+    "dps": 2.6
   },
   {
     "itemId": 5815,
@@ -5647,7 +5895,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5815::::::::::0|h[Glacial Stone]|h|r",
     "contentPhase": 1,
-    "uniqueName": "glacial-stone"
+    "uniqueName": "glacial-stone",
+    "speed": 3.6,
+    "dps": 21
   },
   {
     "itemId": 6093,
@@ -5699,7 +5949,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:6093::::::::::0|h[Orc Crusher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "orc-crusher"
+    "uniqueName": "orc-crusher",
+    "speed": 3.6,
+    "dps": 18.2
   },
   {
     "itemId": 6214,
@@ -5750,7 +6002,9 @@
     },
     "itemLink": "|cffffffff|Hitem:6214::::::::::0|h[Heavy Copper Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "heavy-copper-maul"
+    "uniqueName": "heavy-copper-maul",
+    "speed": 2.8,
+    "dps": 9.5
   },
   {
     "itemId": 7956,
@@ -5796,7 +6050,9 @@
     },
     "itemLink": "|cffffffff|Hitem:7956::::::::::0|h[Bronze Warhammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bronze-warhammer"
+    "uniqueName": "bronze-warhammer",
+    "speed": 3.1,
+    "dps": 15.2
   },
   {
     "itemId": 9604,
@@ -5848,7 +6104,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:9604::::::::::0|h[Mechanic's Pipehammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "mechanics-pipehammer"
+    "uniqueName": "mechanics-pipehammer",
+    "speed": 2.8,
+    "dps": 20.4
   },
   {
     "itemId": 9678,
@@ -5897,7 +6155,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:9678::::::::::0|h[Tok'kar's Murloc Basher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "tokkars-murloc-basher"
+    "uniqueName": "tokkars-murloc-basher",
+    "speed": 2.8,
+    "dps": 32.3
   },
   {
     "itemId": 12772,
@@ -5939,7 +6199,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:12772::::::::::0|h[Inlaid Thorium Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "inlaid-thorium-hammer"
+    "uniqueName": "inlaid-thorium-hammer",
+    "speed": 3,
+    "dps": 41.8
   },
   {
     "itemId": 15259,
@@ -5978,7 +6240,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15259::::::::::0|h[Hefty Battlehammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hefty-battlehammer"
+    "uniqueName": "hefty-battlehammer",
+    "speed": 3.2,
+    "dps": 16.9
   },
   {
     "itemId": 15260,
@@ -6017,7 +6281,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15260::::::::::0|h[Stone Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stone-hammer"
+    "uniqueName": "stone-hammer",
+    "speed": 3,
+    "dps": 26.7
   },
   {
     "itemId": 15261,
@@ -6056,7 +6322,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15261::::::::::0|h[Sequoia Branch]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sequoia-branch"
+    "uniqueName": "sequoia-branch",
+    "speed": 3.8,
+    "dps": 28.9
   },
   {
     "itemId": 15262,
@@ -6095,7 +6363,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15262::::::::::0|h[Greater Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "greater-maul"
+    "uniqueName": "greater-maul",
+    "speed": 3.4,
+    "dps": 35.7
   },
   {
     "itemId": 15263,
@@ -6134,7 +6404,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15263::::::::::0|h[Royal Mallet]|h|r",
     "contentPhase": 1,
-    "uniqueName": "royal-mallet"
+    "uniqueName": "royal-mallet",
+    "speed": 2.7,
+    "dps": 38.7
   },
   {
     "itemId": 15265,
@@ -6173,7 +6445,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15265::::::::::0|h[Painbringer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "painbringer"
+    "uniqueName": "painbringer",
+    "speed": 2.8,
+    "dps": 44.8
   },
   {
     "itemId": 18481,
@@ -6218,7 +6492,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:18481::::::::::0|h[Skullcracking Mace]|h|r",
     "contentPhase": 1,
-    "uniqueName": "skullcracking-mace"
+    "uniqueName": "skullcracking-mace",
+    "speed": 3.2,
+    "dps": 46.6
   },
   {
     "itemId": 41026,
@@ -6264,7 +6540,9 @@
     },
     "itemLink": "|cffffffff|Hitem:41026::::::::::0|h[Deckman's Cudgel]|h|r",
     "contentPhase": 1,
-    "uniqueName": "deckmans-cudgel"
+    "uniqueName": "deckmans-cudgel",
+    "speed": 3.1,
+    "dps": 2.6
   },
   {
     "itemId": 58007,
@@ -6309,7 +6587,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:58007::::::::::0|h[Obedient Whacker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "obedient-whacker"
+    "uniqueName": "obedient-whacker",
+    "speed": 3.2,
+    "dps": 26.9
   },
   {
     "itemId": 58019,
@@ -6355,7 +6635,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:58019::::::::::0|h[Mace of Devotion]|h|r",
     "contentPhase": 1,
-    "uniqueName": "mace-of-devotion"
+    "uniqueName": "mace-of-devotion",
+    "speed": 3.4,
+    "dps": 25.7
   },
   {
     "itemId": 60629,
@@ -6404,7 +6686,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:60629::::::::::0|h[The Skull Smasher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-skull-smasher"
+    "uniqueName": "the-skull-smasher",
+    "speed": 3.2,
+    "dps": 45
   },
   {
     "itemId": 60686,
@@ -6456,7 +6740,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:60686::::::::::0|h[Harvest Golem Arm]|h|r",
     "contentPhase": 1,
-    "uniqueName": "harvest-golem-arm"
+    "uniqueName": "harvest-golem-arm",
+    "speed": 3.4,
+    "dps": 13.1
   },
   {
     "itemId": 61391,
@@ -6511,7 +6797,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:61391::::::::::0|h[Servocharged Wrench]|h|r",
     "contentPhase": 1,
-    "uniqueName": "servocharged-wrench"
+    "uniqueName": "servocharged-wrench",
+    "speed": 3.4,
+    "dps": 35.3
   },
   {
     "itemId": 80105,
@@ -6557,7 +6845,9 @@
     },
     "itemLink": "|cffffffff|Hitem:80105::::::::::0|h[Bruiser Club]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bruiser-club"
+    "uniqueName": "bruiser-club",
+    "speed": 3.5,
+    "dps": 3
   },
   {
     "itemId": 924,
@@ -6593,7 +6883,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:924::::::::::0|h[Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "maul"
+    "uniqueName": "maul",
+    "speed": 2.9,
+    "dps": 16
   },
   {
     "itemId": 1414,
@@ -6629,7 +6921,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1414::::::::::0|h[Cracked Sledge]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cracked-sledge"
+    "uniqueName": "cracked-sledge",
+    "speed": 3.3,
+    "dps": 3.8
   },
   {
     "itemId": 1514,
@@ -6665,7 +6959,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1514::::::::::0|h[Rusty Warhammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rusty-warhammer"
+    "uniqueName": "rusty-warhammer",
+    "speed": 3,
+    "dps": 5.7
   },
   {
     "itemId": 1814,
@@ -6701,7 +6997,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1814::::::::::0|h[Battered Mallet]|h|r",
     "contentPhase": 1,
-    "uniqueName": "battered-mallet"
+    "uniqueName": "battered-mallet",
+    "speed": 2.9,
+    "dps": 7.4
   },
   {
     "itemId": 1820,
@@ -6737,7 +7035,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1820::::::::::0|h[Wooden Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wooden-maul"
+    "uniqueName": "wooden-maul",
+    "speed": 2.9,
+    "dps": 8.6
   },
   {
     "itemId": 1826,
@@ -6773,7 +7073,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1826::::::::::0|h[Rock Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rock-maul"
+    "uniqueName": "rock-maul",
+    "speed": 2.9,
+    "dps": 10.9
   },
   {
     "itemId": 2026,
@@ -6809,7 +7111,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2026::::::::::0|h[Rock Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rock-hammer"
+    "uniqueName": "rock-hammer",
+    "speed": 3.7,
+    "dps": 12.6
   },
   {
     "itemId": 2486,
@@ -6842,7 +7146,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2486::::::::::0|h[Large Stone Mace]|h|r",
     "contentPhase": 1,
-    "uniqueName": "large-stone-mace"
+    "uniqueName": "large-stone-mace",
+    "speed": 3.2,
+    "dps": 1.6
   },
   {
     "itemId": 2493,
@@ -6878,7 +7184,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2493::::::::::0|h[Wooden Mallet]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wooden-mallet"
+    "uniqueName": "wooden-mallet",
+    "speed": 2.6,
+    "dps": 5
   },
   {
     "itemId": 2501,
@@ -6914,7 +7222,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2501::::::::::0|h[Wooden Warhammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wooden-warhammer"
+    "uniqueName": "wooden-warhammer",
+    "speed": 3,
+    "dps": 5
   },
   {
     "itemId": 2525,
@@ -6950,7 +7260,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2525::::::::::0|h[War Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "war-hammer"
+    "uniqueName": "war-hammer",
+    "speed": 3.5,
+    "dps": 22.3
   },
   {
     "itemId": 2533,
@@ -6986,7 +7298,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2533::::::::::0|h[War Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "war-maul"
+    "uniqueName": "war-maul",
+    "speed": 3.3,
+    "dps": 32.4
   },
   {
     "itemId": 2557,
@@ -7019,7 +7333,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2557::::::::::0|h[Monster - Mace2H, Ornate Metal Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-mace2h-ornate-metal-hammer"
+    "uniqueName": "monster-mace2h-ornate-metal-hammer",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 3326,
@@ -7052,7 +7368,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:3326::::::::::0|h[Monster - Mace2H, Basic Stone Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-mace2h-basic-stone-hammer"
+    "uniqueName": "monster-mace2h-basic-stone-hammer",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 3782,
@@ -7088,7 +7406,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:3782::::::::::0|h[Large War Club]|h|r",
     "contentPhase": 1,
-    "uniqueName": "large-war-club"
+    "uniqueName": "large-war-club",
+    "speed": 3.1,
+    "dps": 14.2
   },
   {
     "itemId": 4022,
@@ -7124,7 +7444,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:4022::::::::::0|h[Crushing Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "crushing-maul"
+    "uniqueName": "crushing-maul",
+    "speed": 3.3,
+    "dps": 23.2
   },
   {
     "itemId": 5292,
@@ -7157,7 +7479,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5292::::::::::0|h[Monster - Mace2H, Basic Wooden Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-mace2h-basic-wooden-hammer"
+    "uniqueName": "monster-mace2h-basic-wooden-hammer",
+    "speed": 2.9,
+    "dps": 0.9
   },
   {
     "itemId": 5301,
@@ -7190,7 +7514,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5301::::::::::0|h[Monster - Mace2H, Huge Wooden Maul]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-mace2h-huge-wooden-maul"
+    "uniqueName": "monster-mace2h-huge-wooden-maul",
+    "speed": 3,
+    "dps": 1
   },
   {
     "itemId": 5491,
@@ -7223,7 +7549,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5491::::::::::0|h[Monster - Mace2H, Large Metal]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-mace2h-large-metal"
+    "uniqueName": "monster-mace2h-large-metal",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 5579,
@@ -7269,7 +7597,9 @@
     },
     "itemLink": "|cffffffff|Hitem:5579::::::::::0|h[Militia Warhammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "militia-warhammer"
+    "uniqueName": "militia-warhammer",
+    "speed": 2.9,
+    "dps": 2.6
   },
   {
     "itemId": 5595,
@@ -7315,7 +7645,9 @@
     },
     "itemLink": "|cffffffff|Hitem:5595::::::::::0|h[Thicket Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thicket-hammer"
+    "uniqueName": "thicket-hammer",
+    "speed": 3.1,
+    "dps": 6.5
   },
   {
     "itemId": 10568,

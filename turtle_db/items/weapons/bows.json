@@ -36,7 +36,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:2824::::::::::0|h[Hurricane]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hurricane"
+    "uniqueName": "hurricane",
+    "speed": 1.6,
+    "dps": 30.3
   },
   {
     "itemId": 2825,
@@ -75,7 +77,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:2825::::::::::0|h[Bow of Searing Arrows]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bow-of-searing-arrows"
+    "uniqueName": "bow-of-searing-arrows",
+    "speed": 2.7,
+    "dps": 25
   },
   {
     "itemId": 3021,
@@ -117,7 +121,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:3021::::::::::0|h[Ranger Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ranger-bow"
+    "uniqueName": "ranger-bow",
+    "speed": 2.7,
+    "dps": 12.6
   },
   {
     "itemId": 6696,
@@ -159,7 +165,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:6696::::::::::0|h[Nightstalker Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "nightstalker-bow"
+    "uniqueName": "nightstalker-bow",
+    "speed": 1.7,
+    "dps": 16.2
   },
   {
     "itemId": 9426,
@@ -204,7 +212,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9426::::::::::0|h[Monolithic Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monolithic-bow"
+    "uniqueName": "monolithic-bow",
+    "speed": 2.7,
+    "dps": 21.9
   },
   {
     "itemId": 10567,
@@ -243,7 +253,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:10567::::::::::0|h[Quillshooter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "quillshooter"
+    "uniqueName": "quillshooter",
+    "speed": 2.8,
+    "dps": 15.9
   },
   {
     "itemId": 11628,
@@ -285,7 +297,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:11628::::::::::0|h[Houndmaster's Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "houndmasters-bow"
+    "uniqueName": "houndmasters-bow",
+    "speed": 1.8,
+    "dps": 27.2
   },
   {
     "itemId": 12653,
@@ -327,7 +341,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12653::::::::::0|h[Riphook]|h|r",
     "contentPhase": 1,
-    "uniqueName": "riphook"
+    "uniqueName": "riphook",
+    "speed": 2.2,
+    "dps": 30.2
   },
   {
     "itemId": 13019,
@@ -366,7 +382,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13019::::::::::0|h[Harpyclaw Short Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "harpyclaw-short-bow"
+    "uniqueName": "harpyclaw-short-bow",
+    "speed": 1.8,
+    "dps": 16.1
   },
   {
     "itemId": 13021,
@@ -411,7 +429,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13021::::::::::0|h[Needle Threader]|h|r",
     "contentPhase": 1,
-    "uniqueName": "needle-threader"
+    "uniqueName": "needle-threader",
+    "speed": 2,
+    "dps": 24.5
   },
   {
     "itemId": 13022,
@@ -456,7 +476,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13022::::::::::0|h[Gryphonwing Long Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gryphonwing-long-bow"
+    "uniqueName": "gryphonwing-long-bow",
+    "speed": 2.7,
+    "dps": 28.3
   },
   {
     "itemId": 13023,
@@ -501,7 +523,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13023::::::::::0|h[Eaglehorn Long Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "eaglehorn-long-bow"
+    "uniqueName": "eaglehorn-long-bow",
+    "speed": 1.8,
+    "dps": 32.2
   },
   {
     "itemId": 16996,
@@ -561,7 +585,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:16996::::::::::0|h[Gorewood Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gorewood-bow"
+    "uniqueName": "gorewood-bow",
+    "speed": 2.5,
+    "dps": 31.8
   },
   {
     "itemId": 17069,
@@ -603,7 +629,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:17069::::::::::0|h[Striker's Mark]|h|r",
     "contentPhase": 1,
-    "uniqueName": "strikers-mark"
+    "uniqueName": "strikers-mark",
+    "speed": 2.5,
+    "dps": 39.6
   },
   {
     "itemId": 18680,
@@ -645,7 +673,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18680::::::::::0|h[Ancient Bone Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ancient-bone-bow"
+    "uniqueName": "ancient-bone-bow",
+    "speed": 2.8,
+    "dps": 31.3
   },
   {
     "itemId": 18713,
@@ -687,7 +717,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18713::::::::::0|h[Rhok'delar, Longbow of the Ancient Keepers]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rhokdelar-longbow-of-the-ancient-keepers"
+    "uniqueName": "rhokdelar-longbow-of-the-ancient-keepers",
+    "speed": 2.9,
+    "dps": 44
   },
   {
     "itemId": 18833,
@@ -732,7 +764,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18833::::::::::0|h[Grand Marshal's Bullseye]|h|r",
     "contentPhase": 1,
-    "uniqueName": "grand-marshals-bullseye"
+    "uniqueName": "grand-marshals-bullseye",
+    "speed": 1.8,
+    "dps": 50.8
   },
   {
     "itemId": 18835,
@@ -777,7 +811,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18835::::::::::0|h[High Warlord's Recurve]|h|r",
     "contentPhase": 1,
-    "uniqueName": "high-warlords-recurve"
+    "uniqueName": "high-warlords-recurve",
+    "speed": 1.8,
+    "dps": 50.8
   },
   {
     "itemId": 19350,
@@ -822,7 +858,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19350::::::::::0|h[Heartstriker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "heartstriker"
+    "uniqueName": "heartstriker",
+    "speed": 2.6,
+    "dps": 44
   },
   {
     "itemId": 19558,
@@ -867,7 +905,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19558::::::::::0|h[Outrider's Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "outriders-bow"
+    "uniqueName": "outriders-bow",
+    "speed": 2.4,
+    "dps": 36.7
   },
   {
     "itemId": 19559,
@@ -912,7 +952,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19559::::::::::0|h[Outrider's Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "outriders-bow"
+    "uniqueName": "outriders-bow",
+    "speed": 2.4,
+    "dps": 27.5
   },
   {
     "itemId": 19560,
@@ -957,7 +999,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19560::::::::::0|h[Outrider's Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "outriders-bow"
+    "uniqueName": "outriders-bow",
+    "speed": 2.4,
+    "dps": 22.7
   },
   {
     "itemId": 19561,
@@ -996,7 +1040,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19561::::::::::0|h[Outrider's Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "outriders-bow"
+    "uniqueName": "outriders-bow",
+    "speed": 2.4,
+    "dps": 16.7
   },
   {
     "itemId": 19562,
@@ -1041,7 +1087,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19562::::::::::0|h[Outrunner's Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "outrunners-bow"
+    "uniqueName": "outrunners-bow",
+    "speed": 2.4,
+    "dps": 36.7
   },
   {
     "itemId": 19563,
@@ -1086,7 +1134,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19563::::::::::0|h[Outrunner's Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "outrunners-bow"
+    "uniqueName": "outrunners-bow",
+    "speed": 2.4,
+    "dps": 27.5
   },
   {
     "itemId": 19564,
@@ -1131,7 +1181,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19564::::::::::0|h[Outrunner's Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "outrunners-bow"
+    "uniqueName": "outrunners-bow",
+    "speed": 2.4,
+    "dps": 22.7
   },
   {
     "itemId": 19565,
@@ -1170,7 +1222,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19565::::::::::0|h[Outrunner's Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "outrunners-bow"
+    "uniqueName": "outrunners-bow",
+    "speed": 2.4,
+    "dps": 16.7
   },
   {
     "itemId": 19993,
@@ -1215,7 +1269,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19993::::::::::0|h[Hoodoo Hunting Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hoodoo-hunting-bow"
+    "uniqueName": "hoodoo-hunting-bow",
+    "speed": 2.8,
+    "dps": 35
   },
   {
     "itemId": 20038,
@@ -1260,7 +1316,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:20038::::::::::0|h[Mandokir's Sting]|h|r",
     "contentPhase": 1,
-    "uniqueName": "mandokirs-sting"
+    "uniqueName": "mandokirs-sting",
+    "speed": 2.6,
+    "dps": 37.5
   },
   {
     "itemId": 20368,
@@ -1299,7 +1357,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:20368::::::::::0|h[Bland Bow of Steadiness]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bland-bow-of-steadiness"
+    "uniqueName": "bland-bow-of-steadiness",
+    "speed": 1.5,
+    "dps": 30.7
   },
   {
     "itemId": 20437,
@@ -1338,7 +1398,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:20437::::::::::0|h[Outrider's Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "outriders-bow"
+    "uniqueName": "outriders-bow",
+    "speed": 2.4,
+    "dps": 11.7
   },
   {
     "itemId": 20438,
@@ -1377,7 +1439,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:20438::::::::::0|h[Outrunner's Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "outrunners-bow"
+    "uniqueName": "outrunners-bow",
+    "speed": 2.4,
+    "dps": 11.7
   },
   {
     "itemId": 20488,
@@ -1419,7 +1483,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:20488::::::::::0|h[Rhok'delar, Longbow of the Ancient Keepers DEP]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rhokdelar-longbow-of-the-ancient-keepers-dep"
+    "uniqueName": "rhokdelar-longbow-of-the-ancient-keepers-dep",
+    "speed": 2.9,
+    "dps": 44
   },
   {
     "itemId": 20663,
@@ -1467,7 +1533,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:20663::::::::::0|h[Deep Strike Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "deep-strike-bow"
+    "uniqueName": "deep-strike-bow",
+    "speed": 2.7,
+    "dps": 30.7
   },
   {
     "itemId": 21478,
@@ -1512,7 +1580,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:21478::::::::::0|h[Bow of Taut Sinew]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bow-of-taut-sinew"
+    "uniqueName": "bow-of-taut-sinew",
+    "speed": 2.2,
+    "dps": 38.6
   },
   {
     "itemId": 21616,
@@ -1554,7 +1624,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:21616::::::::::0|h[Huhuran's Stinger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "huhurans-stinger"
+    "uniqueName": "huhurans-stinger",
+    "speed": 2.7,
+    "dps": 46.3
   },
   {
     "itemId": 22318,
@@ -1599,7 +1671,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:22318::::::::::0|h[Malgen's Long Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "malgens-long-bow"
+    "uniqueName": "malgens-long-bow",
+    "speed": 2.9,
+    "dps": 31.2
   },
   {
     "itemId": 22811,
@@ -1644,7 +1718,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:22811::::::::::0|h[Soulstring]|h|r",
     "contentPhase": 1,
-    "uniqueName": "soulstring"
+    "uniqueName": "soulstring",
+    "speed": 2.9,
+    "dps": 54.1
   },
   {
     "itemId": 41725,
@@ -1686,7 +1762,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:41725::::::::::0|h[Dragonmaw Battle Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dragonmaw-battle-bow"
+    "uniqueName": "dragonmaw-battle-bow",
+    "speed": 2.4,
+    "dps": 16.7
   },
   {
     "itemId": 55346,
@@ -1731,7 +1809,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:55346::::::::::0|h[Rain of Spiders]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rain-of-spiders"
+    "uniqueName": "rain-of-spiders",
+    "speed": 3.1,
+    "dps": 64.4
   },
   {
     "itemId": 58193,
@@ -1773,7 +1853,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:58193::::::::::0|h[Demon Hair Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "demon-hair-bow"
+    "uniqueName": "demon-hair-bow",
+    "speed": 3.1,
+    "dps": 21.3
   },
   {
     "itemId": 60440,
@@ -1815,7 +1897,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:60440::::::::::0|h[Bloodscalp Longbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bloodscalp-longbow"
+    "uniqueName": "bloodscalp-longbow",
+    "speed": 3,
+    "dps": 27.3
   },
   {
     "itemId": 60882,
@@ -1860,7 +1944,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:60882::::::::::0|h[Magram Windstriker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "magram-windstriker"
+    "uniqueName": "magram-windstriker",
+    "speed": 2.9,
+    "dps": 30.2
   },
   {
     "itemId": 60953,
@@ -1909,7 +1995,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:60953::::::::::0|h[Brackenwall Longbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "brackenwall-longbow"
+    "uniqueName": "brackenwall-longbow",
+    "speed": 2.9,
+    "dps": 24
   },
   {
     "itemId": 61525,
@@ -1951,7 +2039,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:61525::::::::::0|h[Nature's Call]|h|r",
     "contentPhase": 1,
-    "uniqueName": "natures-call"
+    "uniqueName": "natures-call",
+    "speed": 3,
+    "dps": 49
   },
   {
     "itemId": 80223,
@@ -1990,7 +2080,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80223::::::::::0|h[Farstrider Lodge Protector's Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "farstrider-lodge-protectors-bow"
+    "uniqueName": "farstrider-lodge-protectors-bow",
+    "speed": 2.4,
+    "dps": 11.7
   },
   {
     "itemId": 80546,
@@ -2035,7 +2127,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80546::::::::::0|h[Quel'dorei Ranger's Longbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "queldorei-rangers-longbow"
+    "uniqueName": "queldorei-rangers-longbow",
+    "speed": 2.9,
+    "dps": 33.3
   },
   {
     "itemId": 80646,
@@ -2080,7 +2174,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80646::::::::::0|h[Revantusk Shadow Hunter's Longbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "revantusk-shadow-hunters-longbow"
+    "uniqueName": "revantusk-shadow-hunters-longbow",
+    "speed": 2.9,
+    "dps": 33.3
   },
   {
     "itemId": 80825,
@@ -2116,7 +2212,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80825::::::::::0|h[Flamestring Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "flamestring-bow"
+    "uniqueName": "flamestring-bow",
+    "speed": 2.6,
+    "dps": 26.3
   },
   {
     "itemId": 83225,
@@ -2158,7 +2256,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83225::::::::::0|h[Bow of the Grove]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bow-of-the-grove"
+    "uniqueName": "bow-of-the-grove",
+    "speed": 2.6,
+    "dps": 21.3
   },
   {
     "itemId": 2903,
@@ -2204,7 +2304,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:2903::::::::::0|h[Daryl's Hunting Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "daryls-hunting-bow"
+    "uniqueName": "daryls-hunting-bow",
+    "speed": 2.3,
+    "dps": 5.9
   },
   {
     "itemId": 3036,
@@ -2243,7 +2345,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:3036::::::::::0|h[Heavy Shortbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "heavy-shortbow"
+    "uniqueName": "heavy-shortbow",
+    "speed": 2.5,
+    "dps": 6
   },
   {
     "itemId": 3039,
@@ -2282,7 +2386,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:3039::::::::::0|h[Short Ash Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "short-ash-bow"
+    "uniqueName": "short-ash-bow",
+    "speed": 1.9,
+    "dps": 9.2
   },
   {
     "itemId": 3078,
@@ -2321,7 +2427,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:3078::::::::::0|h[Naga Heartpiercer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "naga-heartpiercer"
+    "uniqueName": "naga-heartpiercer",
+    "speed": 1.8,
+    "dps": 10.6
   },
   {
     "itemId": 3493,
@@ -2367,7 +2475,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:3493::::::::::0|h[Raptor's End]|h|r",
     "contentPhase": 1,
-    "uniqueName": "raptors-end"
+    "uniqueName": "raptors-end",
+    "speed": 2.9,
+    "dps": 12.1
   },
   {
     "itemId": 3742,
@@ -2414,7 +2524,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:3742::::::::::0|h[Bow of Plunder]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bow-of-plunder"
+    "uniqueName": "bow-of-plunder",
+    "speed": 2.6,
+    "dps": 11.3
   },
   {
     "itemId": 4110,
@@ -2450,7 +2562,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:4110::::::::::0|h[Master Hunter's Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "master-hunters-bow"
+    "uniqueName": "master-hunters-bow",
+    "speed": 2.4,
+    "dps": 20.8
   },
   {
     "itemId": 4474,
@@ -2489,7 +2603,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:4474::::::::::0|h[Ravenwood Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ravenwood-bow"
+    "uniqueName": "ravenwood-bow",
+    "speed": 1.9,
+    "dps": 12.9
   },
   {
     "itemId": 4576,
@@ -2528,7 +2644,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:4576::::::::::0|h[Light Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "light-bow"
+    "uniqueName": "light-bow",
+    "speed": 1.7,
+    "dps": 7.9
   },
   {
     "itemId": 4763,
@@ -2567,7 +2685,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:4763::::::::::0|h[Blackwood Recurve Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blackwood-recurve-bow"
+    "uniqueName": "blackwood-recurve-bow",
+    "speed": 2.7,
+    "dps": 3.9
   },
   {
     "itemId": 5346,
@@ -2613,7 +2733,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5346::::::::::0|h[Orcish Battle Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "orcish-battle-bow"
+    "uniqueName": "orcish-battle-bow",
+    "speed": 1.9,
+    "dps": 5.5
   },
   {
     "itemId": 5748,
@@ -2652,7 +2774,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:5748::::::::::0|h[Centaur Longbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "centaur-longbow"
+    "uniqueName": "centaur-longbow",
+    "speed": 2.2,
+    "dps": 6.1
   },
   {
     "itemId": 5817,
@@ -2698,7 +2822,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5817::::::::::0|h[Lunaris Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lunaris-bow"
+    "uniqueName": "lunaris-bow",
+    "speed": 2.7,
+    "dps": 12.2
   },
   {
     "itemId": 6469,
@@ -2737,7 +2863,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:6469::::::::::0|h[Venomstrike]|h|r",
     "contentPhase": 1,
-    "uniqueName": "venomstrike"
+    "uniqueName": "venomstrike",
+    "speed": 2.4,
+    "dps": 9.6
   },
   {
     "itemId": 6739,
@@ -2783,7 +2911,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:6739::::::::::0|h[Cliffrunner's Aim]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cliffrunners-aim"
+    "uniqueName": "cliffrunners-aim",
+    "speed": 2.3,
+    "dps": 12
   },
   {
     "itemId": 8180,
@@ -2822,7 +2952,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:8180::::::::::0|h[Hunting Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hunting-bow"
+    "uniqueName": "hunting-bow",
+    "speed": 2.6,
+    "dps": 4.6
   },
   {
     "itemId": 8183,
@@ -2861,7 +2993,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:8183::::::::::0|h[Precision Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "precision-bow"
+    "uniqueName": "precision-bow",
+    "speed": 2.6,
+    "dps": 11
   },
   {
     "itemId": 10624,
@@ -2906,7 +3040,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:10624::::::::::0|h[Stinging Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stinging-bow"
+    "uniqueName": "stinging-bow",
+    "speed": 2.1,
+    "dps": 24.5
   },
   {
     "itemId": 11303,
@@ -2945,7 +3081,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:11303::::::::::0|h[Fine Shortbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fine-shortbow"
+    "uniqueName": "fine-shortbow",
+    "speed": 1.7,
+    "dps": 6.2
   },
   {
     "itemId": 11304,
@@ -2984,7 +3122,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:11304::::::::::0|h[Fine Longbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fine-longbow"
+    "uniqueName": "fine-longbow",
+    "speed": 2.7,
+    "dps": 7.4
   },
   {
     "itemId": 11305,
@@ -3023,7 +3163,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:11305::::::::::0|h[Dense Shortbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dense-shortbow"
+    "uniqueName": "dense-shortbow",
+    "speed": 1.9,
+    "dps": 14.2
   },
   {
     "itemId": 11307,
@@ -3062,7 +3204,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:11307::::::::::0|h[Massive Longbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "massive-longbow"
+    "uniqueName": "massive-longbow",
+    "speed": 2.8,
+    "dps": 22
   },
   {
     "itemId": 13020,
@@ -3101,7 +3245,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13020::::::::::0|h[Skystriker Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "skystriker-bow"
+    "uniqueName": "skystriker-bow",
+    "speed": 2.1,
+    "dps": 20.7
   },
   {
     "itemId": 15284,
@@ -3140,7 +3286,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15284::::::::::0|h[Long Battle Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "long-battle-bow"
+    "uniqueName": "long-battle-bow",
+    "speed": 2.2,
+    "dps": 11.8
   },
   {
     "itemId": 15285,
@@ -3179,7 +3327,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15285::::::::::0|h[Archer's Longbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "archers-longbow"
+    "uniqueName": "archers-longbow",
+    "speed": 2.6,
+    "dps": 12.9
   },
   {
     "itemId": 15286,
@@ -3218,7 +3368,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15286::::::::::0|h[Long Redwood Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "long-redwood-bow"
+    "uniqueName": "long-redwood-bow",
+    "speed": 2.8,
+    "dps": 14.3
   },
   {
     "itemId": 15287,
@@ -3257,7 +3409,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15287::::::::::0|h[Crusader Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "crusader-bow"
+    "uniqueName": "crusader-bow",
+    "speed": 2.2,
+    "dps": 20.9
   },
   {
     "itemId": 15288,
@@ -3296,7 +3450,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15288::::::::::0|h[Blasthorn Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blasthorn-bow"
+    "uniqueName": "blasthorn-bow",
+    "speed": 2.6,
+    "dps": 28.3
   },
   {
     "itemId": 15289,
@@ -3335,7 +3491,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15289::::::::::0|h[Archstrike Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "archstrike-bow"
+    "uniqueName": "archstrike-bow",
+    "speed": 2.3,
+    "dps": 30.2
   },
   {
     "itemId": 15291,
@@ -3374,7 +3532,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15291::::::::::0|h[Harpy Needler]|h|r",
     "contentPhase": 1,
-    "uniqueName": "harpy-needler"
+    "uniqueName": "harpy-needler",
+    "speed": 2.7,
+    "dps": 23.7
   },
   {
     "itemId": 15295,
@@ -3413,7 +3573,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15295::::::::::0|h[Quillfire Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "quillfire-bow"
+    "uniqueName": "quillfire-bow",
+    "speed": 2.3,
+    "dps": 25.7
   },
   {
     "itemId": 15296,
@@ -3452,7 +3614,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15296::::::::::0|h[Hawkeye Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hawkeye-bow"
+    "uniqueName": "hawkeye-bow",
+    "speed": 1.7,
+    "dps": 29.4
   },
   {
     "itemId": 17686,
@@ -3498,7 +3662,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:17686::::::::::0|h[Master Hunter's Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "master-hunters-bow"
+    "uniqueName": "master-hunters-bow",
+    "speed": 2.4,
+    "dps": 19.4
   },
   {
     "itemId": 17753,
@@ -3549,7 +3715,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:17753::::::::::0|h[Verdant Keeper's Aim]|h|r",
     "contentPhase": 1,
-    "uniqueName": "verdant-keepers-aim"
+    "uniqueName": "verdant-keepers-aim",
+    "speed": 2.8,
+    "dps": 27.3
   },
   {
     "itemId": 18323,
@@ -3591,7 +3759,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18323::::::::::0|h[Satyr's Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "satyrs-bow"
+    "uniqueName": "satyrs-bow",
+    "speed": 2.4,
+    "dps": 29.8
   },
   {
     "itemId": 18482,
@@ -3636,7 +3806,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:18482::::::::::0|h[Ogre Toothpick Shooter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ogre-toothpick-shooter"
+    "uniqueName": "ogre-toothpick-shooter",
+    "speed": 2.2,
+    "dps": 28
   },
   {
     "itemId": 18729,
@@ -3681,7 +3853,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18729::::::::::0|h[Screeching Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "screeching-bow"
+    "uniqueName": "screeching-bow",
+    "speed": 2.3,
+    "dps": 30.7
   },
   {
     "itemId": 19114,
@@ -3733,7 +3907,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:19114::::::::::0|h[Highland Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "highland-bow"
+    "uniqueName": "highland-bow",
+    "speed": 2.5,
+    "dps": 23.6
   },
   {
     "itemId": 20299,
@@ -3778,7 +3954,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:20299::::::::::0|h[90 Green Rogue Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "90-green-rogue-bow"
+    "uniqueName": "90-green-rogue-bow",
+    "speed": 2.5,
+    "dps": 46.4
   },
   {
     "itemId": 20313,
@@ -3823,7 +4001,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:20313::::::::::0|h[63 Green Rogue Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "63-green-rogue-bow"
+    "uniqueName": "63-green-rogue-bow",
+    "speed": 2.5,
+    "dps": 29.4
   },
   {
     "itemId": 20646,
@@ -3872,7 +4052,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:20646::::::::::0|h[Sandstrider's Mark]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sandstriders-mark"
+    "uniqueName": "sandstriders-mark",
+    "speed": 2.3,
+    "dps": 27.4
   },
   {
     "itemId": 41190,
@@ -3922,7 +4104,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:41190::::::::::0|h[Bow of Alah'Thalas]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bow-of-alahthalas"
+    "uniqueName": "bow-of-alahthalas",
+    "speed": 2.5,
+    "dps": 5.4
   },
   {
     "itemId": 51768,
@@ -3974,7 +4158,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:51768::::::::::0|h[Bow of Quel'Danil]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bow-of-queldanil"
+    "uniqueName": "bow-of-queldanil",
+    "speed": 2.1,
+    "dps": 21.7
   },
   {
     "itemId": 58016,
@@ -4023,7 +4209,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:58016::::::::::0|h[Ashwood Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ashwood-bow"
+    "uniqueName": "ashwood-bow",
+    "speed": 2.3,
+    "dps": 17.2
   },
   {
     "itemId": 60309,
@@ -4072,7 +4260,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:60309::::::::::0|h['Jadewood' Longbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "jadewood-longbow"
+    "uniqueName": "jadewood-longbow",
+    "speed": 1.9,
+    "dps": 17.9
   },
   {
     "itemId": 60339,
@@ -4118,7 +4308,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:60339::::::::::0|h[High Elven Rotten Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "high-elven-rotten-bow"
+    "uniqueName": "high-elven-rotten-bow",
+    "speed": 2.3,
+    "dps": 5.9
   },
   {
     "itemId": 61165,
@@ -4172,7 +4364,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:61165::::::::::0|h[Bow of the Night Huntress]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bow-of-the-night-huntress"
+    "uniqueName": "bow-of-the-night-huntress",
+    "speed": 2.2,
+    "dps": 14.3
   },
   {
     "itemId": 61569,
@@ -4211,7 +4405,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:61569::::::::::0|h[Time Frozen Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "time-frozen-bow"
+    "uniqueName": "time-frozen-bow",
+    "speed": 3.5,
+    "dps": 32.7
   },
   {
     "itemId": 80820,
@@ -4250,7 +4446,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:80820::::::::::0|h[Quilflinger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "quilflinger"
+    "uniqueName": "quilflinger",
+    "speed": 2.1,
+    "dps": 5.5
   },
   {
     "itemId": 83452,
@@ -4295,7 +4493,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83452::::::::::0|h[Windbreaker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "windbreaker"
+    "uniqueName": "windbreaker",
+    "speed": 2.3,
+    "dps": 35
   },
   {
     "itemId": 2504,
@@ -4328,7 +4528,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2504::::::::::0|h[Worn Shortbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "worn-shortbow"
+    "uniqueName": "worn-shortbow",
+    "speed": 2.3,
+    "dps": 1.5
   },
   {
     "itemId": 2505,
@@ -4361,7 +4563,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2505::::::::::0|h[Polished Shortbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "polished-shortbow"
+    "uniqueName": "polished-shortbow",
+    "speed": 2,
+    "dps": 1.8
   },
   {
     "itemId": 2506,
@@ -4397,7 +4601,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2506::::::::::0|h[Hornwood Recurve Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hornwood-recurve-bow"
+    "uniqueName": "hornwood-recurve-bow",
+    "speed": 2.1,
+    "dps": 2.4
   },
   {
     "itemId": 2507,
@@ -4433,7 +4639,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2507::::::::::0|h[Laminated Recurve Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "laminated-recurve-bow"
+    "uniqueName": "laminated-recurve-bow",
+    "speed": 2.6,
+    "dps": 5.8
   },
   {
     "itemId": 2550,
@@ -4466,7 +4674,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2550::::::::::0|h[Monster - Bow, Short]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bow-short"
+    "uniqueName": "monster-bow-short",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 2773,
@@ -4502,7 +4712,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2773::::::::::0|h[Cracked Shortbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cracked-shortbow"
+    "uniqueName": "cracked-shortbow",
+    "speed": 2.3,
+    "dps": 2
   },
   {
     "itemId": 2777,
@@ -4538,7 +4750,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2777::::::::::0|h[Feeble Shortbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "feeble-shortbow"
+    "uniqueName": "feeble-shortbow",
+    "speed": 1.8,
+    "dps": 3.3
   },
   {
     "itemId": 2780,
@@ -4574,7 +4788,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2780::::::::::0|h[Light Hunting Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "light-hunting-bow"
+    "uniqueName": "light-hunting-bow",
+    "speed": 1.7,
+    "dps": 4.4
   },
   {
     "itemId": 2782,
@@ -4610,7 +4826,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2782::::::::::0|h[Mishandled Recurve Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "mishandled-recurve-bow"
+    "uniqueName": "mishandled-recurve-bow",
+    "speed": 2.4,
+    "dps": 5.6
   },
   {
     "itemId": 2785,
@@ -4646,7 +4864,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2785::::::::::0|h[Stiff Recurve Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stiff-recurve-bow"
+    "uniqueName": "stiff-recurve-bow",
+    "speed": 2.8,
+    "dps": 6.8
   },
   {
     "itemId": 3026,
@@ -4682,7 +4902,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:3026::::::::::0|h[Reinforced Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "reinforced-bow"
+    "uniqueName": "reinforced-bow",
+    "speed": 2.2,
+    "dps": 7.5
   },
   {
     "itemId": 3027,
@@ -4718,7 +4940,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:3027::::::::::0|h[Heavy Recurve Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "heavy-recurve-bow"
+    "uniqueName": "heavy-recurve-bow",
+    "speed": 2.4,
+    "dps": 9.2
   },
   {
     "itemId": 3028,
@@ -4754,7 +4978,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:3028::::::::::0|h[Longbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "longbow"
+    "uniqueName": "longbow",
+    "speed": 2.3,
+    "dps": 13
   },
   {
     "itemId": 3037,
@@ -4793,7 +5019,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:3037::::::::::0|h[Whipwood Recurve Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "whipwood-recurve-bow"
+    "uniqueName": "whipwood-recurve-bow",
+    "speed": 1.8,
+    "dps": 13.6
   },
   {
     "itemId": 3778,
@@ -4829,7 +5057,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:3778::::::::::0|h[Taut Compound Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "taut-compound-bow"
+    "uniqueName": "taut-compound-bow",
+    "speed": 2.5,
+    "dps": 7.6
   },
   {
     "itemId": 4025,
@@ -4865,7 +5095,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:4025::::::::::0|h[Balanced Long Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "balanced-long-bow"
+    "uniqueName": "balanced-long-bow",
+    "speed": 1.8,
+    "dps": 12.2
   },
   {
     "itemId": 4087,
@@ -4904,7 +5136,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:4087::::::::::0|h[Trueshot Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "trueshot-bow"
+    "uniqueName": "trueshot-bow",
+    "speed": 1.9,
+    "dps": 18.2
   },
   {
     "itemId": 4931,
@@ -4950,7 +5184,9 @@
     },
     "itemLink": "|cffffffff|Hitem:4931::::::::::0|h[Hickory Shortbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hickory-shortbow"
+    "uniqueName": "hickory-shortbow",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 5258,
@@ -4983,7 +5219,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5258::::::::::0|h[Monster - Bow, Black]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bow-black"
+    "uniqueName": "monster-bow-black",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 5259,
@@ -5016,7 +5254,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5259::::::::::0|h[Monster - Bow, Red]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bow-red"
+    "uniqueName": "monster-bow-red",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 5260,
@@ -5049,7 +5289,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5260::::::::::0|h[Monster - Bow, Brown]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bow-brown"
+    "uniqueName": "monster-bow-brown",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 5261,
@@ -5082,7 +5324,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5261::::::::::0|h[Monster - Bow, Gray]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bow-gray"
+    "uniqueName": "monster-bow-gray",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 5262,
@@ -5115,7 +5359,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5262::::::::::0|h[Monster - Bow, Dark Brown]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bow-dark-brown"
+    "uniqueName": "monster-bow-dark-brown",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 5596,
@@ -5161,7 +5407,9 @@
     },
     "itemLink": "|cffffffff|Hitem:5596::::::::::0|h[Ashwood Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ashwood-bow"
+    "uniqueName": "ashwood-bow",
+    "speed": 2.1,
+    "dps": 3.8
   },
   {
     "itemId": 8179,
@@ -5194,7 +5442,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:8179::::::::::0|h[Cadet's Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cadets-bow"
+    "uniqueName": "cadets-bow",
+    "speed": 2,
+    "dps": 2.3
   },
   {
     "itemId": 9400,
@@ -5236,7 +5486,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:9400::::::::::0|h[Baelog's Shortbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "baelogs-shortbow"
+    "uniqueName": "baelogs-shortbow",
+    "speed": 2.3,
+    "dps": 18.3
   },
   {
     "itemId": 11306,
@@ -5275,7 +5527,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:11306::::::::::0|h[Sturdy Recurve]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sturdy-recurve"
+    "uniqueName": "sturdy-recurve",
+    "speed": 2.2,
+    "dps": 13
   },
   {
     "itemId": 11308,
@@ -5314,7 +5568,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:11308::::::::::0|h[Sylvan Shortbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sylvan-shortbow"
+    "uniqueName": "sylvan-shortbow",
+    "speed": 2,
+    "dps": 22.8
   },
   {
     "itemId": 12447,
@@ -5350,7 +5606,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:12447::::::::::0|h[Thistlewood Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thistlewood-bow"
+    "uniqueName": "thistlewood-bow",
+    "speed": 2.3,
+    "dps": 2.2
   },
   {
     "itemId": 12449,
@@ -5386,7 +5644,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:12449::::::::::0|h[Primitive Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "primitive-bow"
+    "uniqueName": "primitive-bow",
+    "speed": 2.7,
+    "dps": 2.2
   },
   {
     "itemId": 13147,
@@ -5419,7 +5679,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13147::::::::::0|h[Monster - Bow, White]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bow-white"
+    "uniqueName": "monster-bow-white",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13175,
@@ -5458,7 +5720,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:13175::::::::::0|h[Voone's Twitchbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "voones-twitchbow"
+    "uniqueName": "voones-twitchbow",
+    "speed": 1.6,
+    "dps": 27.8
   },
   {
     "itemId": 13824,
@@ -5494,7 +5758,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13824::::::::::0|h[Recurve Long Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "recurve-long-bow"
+    "uniqueName": "recurve-long-bow",
+    "speed": 2.5,
+    "dps": 15.2
   },
   {
     "itemId": 14105,
@@ -5527,7 +5793,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:14105::::::::::0|h[Monster - Bow, C01/B02 White]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bow-c01-b02-white"
+    "uniqueName": "monster-bow-c01-b02-white",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 14118,
@@ -5560,7 +5828,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:14118::::::::::0|h[Monster - Bow, C02/B02 Black]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bow-c02-b02-black"
+    "uniqueName": "monster-bow-c02-b02-black",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 14394,
@@ -5593,7 +5863,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:14394::::::::::0|h[Durability Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "durability-bow"
+    "uniqueName": "durability-bow",
+    "speed": 1.8,
+    "dps": 1.1
   },
   {
     "itemId": 15294,
@@ -5632,7 +5904,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15294::::::::::0|h[Siege Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "siege-bow"
+    "uniqueName": "siege-bow",
+    "speed": 2.8,
+    "dps": 24.6
   },
   {
     "itemId": 16622,
@@ -5679,7 +5953,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:16622::::::::::0|h[Thornflinger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thornflinger"
+    "uniqueName": "thornflinger",
+    "speed": 2.8,
+    "dps": 26.6
   },
   {
     "itemId": 21550,
@@ -5712,7 +5988,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:21550::::::::::0|h[Monster - Bow, Kaldorei]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bow-kaldorei"
+    "uniqueName": "monster-bow-kaldorei",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 80207,
@@ -5758,7 +6036,9 @@
     },
     "itemLink": "|cffffffff|Hitem:80207::::::::::0|h[Worn Wooden Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "worn-wooden-bow"
+    "uniqueName": "worn-wooden-bow",
+    "speed": 2.8,
+    "dps": 2.5
   },
   {
     "itemId": 80503,
@@ -5797,7 +6077,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:80503::::::::::0|h[Well-balanced Short Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "well-balanced-short-bow"
+    "uniqueName": "well-balanced-short-bow",
+    "speed": 1.7,
+    "dps": 6.8
   },
   {
     "itemId": 80603,
@@ -5836,7 +6118,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:80603::::::::::0|h[Sturdy Short Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sturdy-short-bow"
+    "uniqueName": "sturdy-short-bow",
+    "speed": 1.7,
+    "dps": 6.2
   },
   {
     "itemId": 80876,
@@ -5869,6 +6153,8 @@
     ],
     "itemLink": "|cffffffff|Hitem:80876::::::::::0|h[Silvermoon Bow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "silvermoon-bow"
+    "uniqueName": "silvermoon-bow",
+    "speed": 2.3,
+    "dps": 1.5
   }
 ]

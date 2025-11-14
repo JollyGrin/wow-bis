@@ -30,7 +30,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2551::::::::::0|h[Monster - Crossbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-crossbow"
+    "uniqueName": "monster-crossbow",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 6315,
@@ -69,7 +71,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:6315::::::::::0|h[Steelarrow Crossbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "steelarrow-crossbow"
+    "uniqueName": "steelarrow-crossbow",
+    "speed": 3.4,
+    "dps": 10.9
   },
   {
     "itemId": 12651,
@@ -111,7 +115,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12651::::::::::0|h[Blackcrow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blackcrow"
+    "uniqueName": "blackcrow",
+    "speed": 3.2,
+    "dps": 30.3
   },
   {
     "itemId": 13037,
@@ -150,7 +156,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13037::::::::::0|h[Crystalpine Stinger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "crystalpine-stinger"
+    "uniqueName": "crystalpine-stinger",
+    "speed": 2.8,
+    "dps": 15.9
   },
   {
     "itemId": 13038,
@@ -192,7 +200,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13038::::::::::0|h[Swiftwind]|h|r",
     "contentPhase": 1,
-    "uniqueName": "swiftwind"
+    "uniqueName": "swiftwind",
+    "speed": 2,
+    "dps": 21.3
   },
   {
     "itemId": 13039,
@@ -237,7 +247,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13039::::::::::0|h[Skull Splitting Crossbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "skull-splitting-crossbow"
+    "uniqueName": "skull-splitting-crossbow",
+    "speed": 2.6,
+    "dps": 25.2
   },
   {
     "itemId": 13040,
@@ -282,7 +294,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13040::::::::::0|h[Heartseeking Crossbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "heartseeking-crossbow"
+    "uniqueName": "heartseeking-crossbow",
+    "speed": 3.1,
+    "dps": 28.9
   },
   {
     "itemId": 15807,
@@ -318,7 +332,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:15807::::::::::0|h[Light Crossbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "light-crossbow"
+    "uniqueName": "light-crossbow",
+    "speed": 2.5,
+    "dps": 2.6
   },
   {
     "itemId": 15808,
@@ -354,7 +370,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:15808::::::::::0|h[Fine Light Crossbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fine-light-crossbow"
+    "uniqueName": "fine-light-crossbow",
+    "speed": 2.7,
+    "dps": 7.4
   },
   {
     "itemId": 15809,
@@ -390,7 +408,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:15809::::::::::0|h[Heavy Crossbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "heavy-crossbow"
+    "uniqueName": "heavy-crossbow",
+    "speed": 2.8,
+    "dps": 13
   },
   {
     "itemId": 18388,
@@ -429,7 +449,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18388::::::::::0|h[Stoneshatter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stoneshatter"
+    "uniqueName": "stoneshatter",
+    "speed": 2.9,
+    "dps": 31.7
   },
   {
     "itemId": 18738,
@@ -474,7 +496,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18738::::::::::0|h[Carapace Spine Crossbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "carapace-spine-crossbow"
+    "uniqueName": "carapace-spine-crossbow",
+    "speed": 3.3,
+    "dps": 31.2
   },
   {
     "itemId": 18836,
@@ -519,7 +543,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18836::::::::::0|h[Grand Marshal's Repeater]|h|r",
     "contentPhase": 1,
-    "uniqueName": "grand-marshals-repeater"
+    "uniqueName": "grand-marshals-repeater",
+    "speed": 2.9,
+    "dps": 50.9
   },
   {
     "itemId": 18837,
@@ -564,7 +590,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18837::::::::::0|h[High Warlord's Crossbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "high-warlords-crossbow"
+    "uniqueName": "high-warlords-crossbow",
+    "speed": 2.9,
+    "dps": 50.9
   },
   {
     "itemId": 19107,
@@ -631,7 +659,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:19107::::::::::0|h[Bloodseeker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bloodseeker"
+    "uniqueName": "bloodseeker",
+    "speed": 3.3,
+    "dps": 32.3
   },
   {
     "itemId": 19361,
@@ -676,7 +706,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19361::::::::::0|h[Ashjre'thul, Crossbow of Smiting]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ashjrethul-crossbow-of-smiting"
+    "uniqueName": "ashjrethul-crossbow-of-smiting",
+    "speed": 3.4,
+    "dps": 45.6
   },
   {
     "itemId": 20599,
@@ -724,7 +756,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:20599::::::::::0|h[Polished Ironwood Crossbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "polished-ironwood-crossbow"
+    "uniqueName": "polished-ironwood-crossbow",
+    "speed": 3.1,
+    "dps": 44.8
   },
   {
     "itemId": 21459,
@@ -772,7 +806,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:21459::::::::::0|h[Crossbow of Imminent Doom]|h|r",
     "contentPhase": 1,
-    "uniqueName": "crossbow-of-imminent-doom"
+    "uniqueName": "crossbow-of-imminent-doom",
+    "speed": 3.1,
+    "dps": 41.6
   },
   {
     "itemId": 22347,
@@ -821,7 +857,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:22347::::::::::0|h[Fahrad's Reloading Repeater]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fahrads-reloading-repeater"
+    "uniqueName": "fahrads-reloading-repeater",
+    "speed": 3.2,
+    "dps": 33.3
   },
   {
     "itemId": 22812,
@@ -863,7 +901,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:22812::::::::::0|h[Nerubian Slavemaker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "nerubian-slavemaker"
+    "uniqueName": "nerubian-slavemaker",
+    "speed": 3.2,
+    "dps": 57.2
   },
   {
     "itemId": 51844,
@@ -906,7 +946,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:51844::::::::::0|h[Stunning Crossbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stunning-crossbow"
+    "uniqueName": "stunning-crossbow",
+    "speed": 3.4,
+    "dps": 16.6
   },
   {
     "itemId": 55028,
@@ -948,7 +990,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:55028::::::::::0|h[Kavdan's Patient Watch]|h|r",
     "contentPhase": 1,
-    "uniqueName": "kavdans-patient-watch"
+    "uniqueName": "kavdans-patient-watch",
+    "speed": 3.1,
+    "dps": 37.4
   },
   {
     "itemId": 55096,
@@ -990,7 +1034,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:55096::::::::::0|h[Phase-shifting Crossbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "phase-shifting-crossbow"
+    "uniqueName": "phase-shifting-crossbow",
+    "speed": 2.8,
+    "dps": 56.1
   },
   {
     "itemId": 60338,
@@ -1036,7 +1082,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:60338::::::::::0|h[Lordaeron Rusty Crossbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lordaeron-rusty-crossbow"
+    "uniqueName": "lordaeron-rusty-crossbow",
+    "speed": 3,
+    "dps": 5.8
   },
   {
     "itemId": 60506,
@@ -1081,7 +1129,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:60506::::::::::0|h[Vigilance]|h|r",
     "contentPhase": 1,
-    "uniqueName": "vigilance"
+    "uniqueName": "vigilance",
+    "speed": 2.8,
+    "dps": 33.2
   },
   {
     "itemId": 60821,
@@ -1130,7 +1180,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:60821::::::::::0|h[Theramore Arbalest]|h|r",
     "contentPhase": 1,
-    "uniqueName": "theramore-arbalest"
+    "uniqueName": "theramore-arbalest",
+    "speed": 3.4,
+    "dps": 24
   },
   {
     "itemId": 61683,
@@ -1166,7 +1218,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:61683::::::::::0|h[Battered Arbalest]|h|r",
     "contentPhase": 1,
-    "uniqueName": "battered-arbalest"
+    "uniqueName": "battered-arbalest",
+    "speed": 2.2,
+    "dps": 12.3
   },
   {
     "itemId": 70049,
@@ -1199,7 +1253,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:70049::::::::::0|h[Worn Crossbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "worn-crossbow"
+    "uniqueName": "worn-crossbow",
+    "speed": 3,
+    "dps": 1.5
   },
   {
     "itemId": 80745,
@@ -1244,7 +1300,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80745::::::::::0|h[Abomination Crossbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "abomination-crossbow"
+    "uniqueName": "abomination-crossbow",
+    "speed": 3,
+    "dps": 22.3
   },
   {
     "itemId": 83517,
@@ -1280,6 +1338,8 @@
     ],
     "itemLink": "|cffffffff|Hitem:83517::::::::::0|h[Balanced Light Crossbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "balanced-light-crossbow"
+    "uniqueName": "balanced-light-crossbow",
+    "speed": 2.9,
+    "dps": 5.7
   }
 ]

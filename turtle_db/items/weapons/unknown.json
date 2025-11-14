@@ -36,7 +36,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:7729::::::::::0|h[Chesterfall Musket]|h|r",
     "contentPhase": 1,
-    "uniqueName": "chesterfall-musket"
+    "uniqueName": "chesterfall-musket",
+    "speed": 2.3,
+    "dps": 16.5
   },
   {
     "itemId": 4379,
@@ -75,7 +77,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:4379::::::::::0|h[Silver-plated Shotgun]|h|r",
     "contentPhase": 1,
-    "uniqueName": "silver-plated-shotgun"
+    "uniqueName": "silver-plated-shotgun",
+    "speed": 2.7,
+    "dps": 10.4
   },
   {
     "itemId": 60757,
@@ -124,7 +128,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:60757::::::::::0|h[Dawnshield Mace]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dawnshield-mace"
+    "uniqueName": "dawnshield-mace",
+    "speed": 2.4,
+    "dps": 7.5
   },
   {
     "itemId": 6946,
@@ -157,7 +163,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:6946::::::::::0|h[Monster - Gun, Club]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-gun-club"
+    "uniqueName": "monster-gun-club",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 83262,
@@ -205,7 +213,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83262::::::::::0|h[Scarlet Wanderer's Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "scarlet-wanderers-hammer"
+    "uniqueName": "scarlet-wanderers-hammer",
+    "speed": 3.7,
+    "dps": 54.5
   },
   {
     "itemId": 84017,
@@ -238,7 +248,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:84017::::::::::0|h[Monster - Fist Weapon, Zul'jin]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-fist-weapon-zuljin"
+    "uniqueName": "monster-fist-weapon-zuljin",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 1726,
@@ -277,7 +289,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:1726::::::::::0|h[Poison-tipped Bone Spear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "poison-tipped-bone-spear"
+    "uniqueName": "poison-tipped-bone-spear",
+    "speed": 2.3,
+    "dps": 31.3
   },
   {
     "itemId": 10799,
@@ -322,7 +336,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:10799::::::::::0|h[Headspike]|h|r",
     "contentPhase": 1,
-    "uniqueName": "headspike"
+    "uniqueName": "headspike",
+    "speed": 3,
+    "dps": 44.2
   },
   {
     "itemId": 12802,
@@ -361,7 +377,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12802::::::::::0|h[Darkspear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "darkspear"
+    "uniqueName": "darkspear",
+    "speed": 3.2,
+    "dps": 51.3
   },
   {
     "itemId": 19106,
@@ -434,7 +452,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:19106::::::::::0|h[Ice Barbed Spear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ice-barbed-spear"
+    "uniqueName": "ice-barbed-spear",
+    "speed": 3.6,
+    "dps": 53.9
   },
   {
     "itemId": 20083,
@@ -483,7 +503,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:20083::::::::::0|h[Hunting Spear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hunting-spear"
+    "uniqueName": "hunting-spear",
+    "speed": 3.1,
+    "dps": 45
   },
   {
     "itemId": 55026,
@@ -528,7 +550,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:55026::::::::::0|h[Alteraci Hunting Spear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "alteraci-hunting-spear"
+    "uniqueName": "alteraci-hunting-spear",
+    "speed": 2.7,
+    "dps": 43.7
   },
   {
     "itemId": 55116,
@@ -576,7 +600,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:55116::::::::::0|h[Raka'shishi, Spear of the Adrift Hunt]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rakashishi-spear-of-the-adrift-hunt"
+    "uniqueName": "rakashishi-spear-of-the-adrift-hunt",
+    "speed": 3.5,
+    "dps": 100
   },
   {
     "itemId": 80538,
@@ -624,7 +650,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80538::::::::::0|h[Quel'dorei Ranger's Spear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "queldorei-rangers-spear"
+    "uniqueName": "queldorei-rangers-spear",
+    "speed": 3.4,
+    "dps": 55.7
   },
   {
     "itemId": 80811,
@@ -663,7 +691,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80811::::::::::0|h[Energized Spear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "energized-spear"
+    "uniqueName": "energized-spear",
+    "speed": 2.3,
+    "dps": 18.1
   },
   {
     "itemId": 1406,
@@ -708,7 +738,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1406::::::::::0|h[Pearl-encrusted Spear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "pearl-encrusted-spear"
+    "uniqueName": "pearl-encrusted-spear",
+    "speed": 3.2,
+    "dps": 13.8
   },
   {
     "itemId": 1522,
@@ -753,7 +785,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:1522::::::::::0|h[Headhunting Spear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "headhunting-spear"
+    "uniqueName": "headhunting-spear",
+    "speed": 3.2,
+    "dps": 24.7
   },
   {
     "itemId": 2023,
@@ -786,7 +820,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2023::::::::::0|h[Monster - Spear, Rusty]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-spear-rusty"
+    "uniqueName": "monster-spear-rusty",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 3433,
@@ -819,7 +855,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:3433::::::::::0|h[Monster - Spear, Badass]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-spear-badass"
+    "uniqueName": "monster-spear-badass",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 5597,
@@ -852,7 +890,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5597::::::::::0|h[Monster - Glaive - 2 Blade Red]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-glaive-2-blade-red"
+    "uniqueName": "monster-glaive-2-blade-red",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 6680,
@@ -885,7 +925,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:6680::::::::::0|h[Monster - Spear, Sharp Thin]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-spear-sharp-thin"
+    "uniqueName": "monster-spear-sharp-thin",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 11864,
@@ -937,7 +979,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:11864::::::::::0|h[White Bone Spear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "white-bone-spear"
+    "uniqueName": "white-bone-spear",
+    "speed": 2.7,
+    "dps": 40.4
   },
   {
     "itemId": 13631,
@@ -970,7 +1014,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13631::::::::::0|h[Monster - Spear, Badass Red]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-spear-badass-red"
+    "uniqueName": "monster-spear-badass-red",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 13632,
@@ -1003,7 +1049,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13632::::::::::0|h[Monster - Spear, Badass Blue]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-spear-badass-blue"
+    "uniqueName": "monster-spear-badass-blue",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 14535,
@@ -1036,7 +1084,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:14535::::::::::0|h[Monster - Spear, Cool Blue]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-spear-cool-blue"
+    "uniqueName": "monster-spear-cool-blue",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 15810,
@@ -1072,7 +1122,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:15810::::::::::0|h[Short Spear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "short-spear"
+    "uniqueName": "short-spear",
+    "speed": 3.3,
+    "dps": 15.2
   },
   {
     "itemId": 15811,
@@ -1108,7 +1160,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:15811::::::::::0|h[Heavy Spear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "heavy-spear"
+    "uniqueName": "heavy-spear",
+    "speed": 3.8,
+    "dps": 22.4
   },
   {
     "itemId": 50429,
@@ -1153,7 +1207,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:50429::::::::::0|h[Spear of the Endless Hunt]|h|r",
     "contentPhase": 1,
-    "uniqueName": "spear-of-the-endless-hunt"
+    "uniqueName": "spear-of-the-endless-hunt",
+    "speed": 3.7,
+    "dps": 53.1
   },
   {
     "itemId": 61154,
@@ -1208,7 +1264,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:61154::::::::::0|h[Savage Spear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "savage-spear"
+    "uniqueName": "savage-spear",
+    "speed": 2.6,
+    "dps": 21.2
   },
   {
     "itemId": 80728,
@@ -1253,7 +1311,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:80728::::::::::0|h[Stormwind Guard Spear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stormwind-guard-spear"
+    "uniqueName": "stormwind-guard-spear",
+    "speed": 2.8,
+    "dps": 19.5
   },
   {
     "itemId": 80813,
@@ -1295,7 +1355,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:80813::::::::::0|h[Piercing Spear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "piercing-spear"
+    "uniqueName": "piercing-spear",
+    "speed": 2.7,
+    "dps": 7
   },
   {
     "itemId": 80814,
@@ -1331,7 +1393,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:80814::::::::::0|h[Rusty Spear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rusty-spear"
+    "uniqueName": "rusty-spear",
+    "speed": 2.8,
+    "dps": 3.8
   },
   {
     "itemId": 83009,
@@ -1406,7 +1470,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:13937::::::::::0|h[Headmaster's Charge]|h|r",
     "contentPhase": 1,
-    "uniqueName": "headmasters-charge"
+    "uniqueName": "headmasters-charge",
+    "speed": 2.9,
+    "dps": 58.4
   },
   {
     "itemId": 55239,
@@ -1451,7 +1517,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:55239::::::::::0|h[Jeweled Magiwand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "jeweled-magiwand"
+    "uniqueName": "jeweled-magiwand",
+    "speed": 2.8,
+    "dps": 23.6
   },
   {
     "itemId": 58126,
@@ -1503,7 +1571,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:58126::::::::::0|h[Snow Wanderer's Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "snow-wanderers-staff"
+    "uniqueName": "snow-wanderers-staff",
+    "speed": 2.8,
+    "dps": 9.5
   },
   {
     "itemId": 5303,
@@ -1536,7 +1606,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5303::::::::::0|h[Monster - Staff, Wooden Handle Rounded Head]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-wooden-handle-rounded-head"
+    "uniqueName": "monster-staff-wooden-handle-rounded-head",
+    "speed": 3.4,
+    "dps": 0.9
   },
   {
     "itemId": 11424,
@@ -1569,7 +1641,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:11424::::::::::0|h[Monster - Staff, Wooden Handle Spiral Head]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-wooden-handle-spiral-head"
+    "uniqueName": "monster-staff-wooden-handle-spiral-head",
+    "speed": 3.4,
+    "dps": 0.9
   },
   {
     "itemId": 13721,
@@ -1602,7 +1676,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13721::::::::::0|h[Monster - Staff, Wooden Handle Spiral Head White]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-wooden-handle-spiral-head-white"
+    "uniqueName": "monster-staff-wooden-handle-spiral-head-white",
+    "speed": 3.4,
+    "dps": 0.9
   },
   {
     "itemId": 13723,
@@ -1635,7 +1711,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13723::::::::::0|h[Monster - Staff, Wood w/ Spiral Head White Low Purple Glow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-wood-w-spiral-head-white-low-purple-glow"
+    "uniqueName": "monster-staff-wood-w-spiral-head-white-low-purple-glow",
+    "speed": 3.4,
+    "dps": 0.9
   },
   {
     "itemId": 14845,
@@ -1668,7 +1746,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:14845::::::::::0|h[Monster - Staff, Wooden Handle Rounded Head Low Yellow Glow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-wooden-handle-rounded-head-low-yellow-glow"
+    "uniqueName": "monster-staff-wooden-handle-rounded-head-low-yellow-glow",
+    "speed": 3.4,
+    "dps": 0.9
   },
   {
     "itemId": 19214,
@@ -1701,7 +1781,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:19214::::::::::0|h[Monster - Staff, Wooden Handle Spiral Head Dark]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-staff-wooden-handle-spiral-head-dark"
+    "uniqueName": "monster-staff-wooden-handle-spiral-head-dark",
+    "speed": 3.4,
+    "dps": 0.9
   },
   {
     "itemId": 13399,
@@ -1740,7 +1822,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13399::::::::::0|h[Gargoyle Shredder Talons]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gargoyle-shredder-talons"
+    "uniqueName": "gargoyle-shredder-talons",
+    "speed": 1.8,
+    "dps": 38.9
   },
   {
     "itemId": 17738,
@@ -1779,7 +1863,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:17738::::::::::0|h[Claw of Celebras]|h|r",
     "contentPhase": 1,
-    "uniqueName": "claw-of-celebras"
+    "uniqueName": "claw-of-celebras",
+    "speed": 1.8,
+    "dps": 34.4
   },
   {
     "itemId": 18202,
@@ -1821,7 +1907,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18202::::::::::0|h[Eskhandar's Left Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "eskhandars-left-claw"
+    "uniqueName": "eskhandars-left-claw",
+    "speed": 1.5,
+    "dps": 48
   },
   {
     "itemId": 18847,
@@ -1866,7 +1954,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18847::::::::::0|h[Grand Marshal's Left Hand Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "grand-marshals-left-hand-blade"
+    "uniqueName": "grand-marshals-left-hand-blade",
+    "speed": 2.9,
+    "dps": 65.5
   },
   {
     "itemId": 18848,
@@ -1911,7 +2001,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18848::::::::::0|h[High Warlord's Left Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "high-warlords-left-claw"
+    "uniqueName": "high-warlords-left-claw",
+    "speed": 2.9,
+    "dps": 65.5
   },
   {
     "itemId": 19910,
@@ -1950,7 +2042,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19910::::::::::0|h[Arlokk's Grasp]|h|r",
     "contentPhase": 1,
-    "uniqueName": "arlokks-grasp"
+    "uniqueName": "arlokks-grasp",
+    "speed": 1.5,
+    "dps": 45
   },
   {
     "itemId": 20005,
@@ -1989,7 +2083,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:20005::::::::::0|h[Devilsaur Claws]|h|r",
     "contentPhase": 1,
-    "uniqueName": "devilsaur-claws"
+    "uniqueName": "devilsaur-claws",
+    "speed": 2,
+    "dps": 34.5
   },
   {
     "itemId": 21673,
@@ -2031,7 +2127,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:21673::::::::::0|h[Silithid Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "silithid-claw"
+    "uniqueName": "silithid-claw",
+    "speed": 1.6,
+    "dps": 57.5
   },
   {
     "itemId": 22404,
@@ -2076,7 +2174,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:22404::::::::::0|h[Willey's Back Scratcher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "willeys-back-scratcher"
+    "uniqueName": "willeys-back-scratcher",
+    "speed": 2.6,
+    "dps": 40.2
   },
   {
     "itemId": 23242,
@@ -2121,7 +2221,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:23242::::::::::0|h[Claw of the Frost Wyrm]|h|r",
     "contentPhase": 1,
-    "uniqueName": "claw-of-the-frost-wyrm"
+    "uniqueName": "claw-of-the-frost-wyrm",
+    "speed": 1.5,
+    "dps": 71.7
   },
   {
     "itemId": 55133,
@@ -2176,7 +2278,9 @@
     },
     "itemLink": "|cffa335ee|Hitem:55133::::::::::0|h[Claw of the Mageweaver]|h|r",
     "contentPhase": 1,
-    "uniqueName": "claw-of-the-mageweaver"
+    "uniqueName": "claw-of-the-mageweaver",
+    "speed": 1.6,
+    "dps": 65.6
   },
   {
     "itemId": 58207,
@@ -2218,7 +2322,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:58207::::::::::0|h[Fist of the Flamewaker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fist-of-the-flamewaker"
+    "uniqueName": "fist-of-the-flamewaker",
+    "speed": 1.5,
+    "dps": 48
   },
   {
     "itemId": 58268,
@@ -2270,7 +2376,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:58268::::::::::0|h[Left]|h|r",
     "contentPhase": 1,
-    "uniqueName": "left"
+    "uniqueName": "left",
+    "speed": 1.9,
+    "dps": 25
   },
   {
     "itemId": 61755,
@@ -2325,7 +2433,9 @@
     },
     "itemLink": "|cffa335ee|Hitem:61755::::::::::0|h[Stagwood Grasp]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stagwood-grasp"
+    "uniqueName": "stagwood-grasp",
+    "speed": 1.7,
+    "dps": 46.2
   },
   {
     "itemId": 65013,
@@ -2364,7 +2474,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:65013::::::::::0|h[Frostbound Slasher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "frostbound-slasher"
+    "uniqueName": "frostbound-slasher",
+    "speed": 1.9,
+    "dps": 24.2
   },
   {
     "itemId": 11505,
@@ -2397,7 +2509,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:11505::::::::::0|h[Monster - Claw - Bear Offhand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-claw-bear-offhand"
+    "uniqueName": "monster-claw-bear-offhand",
+    "speed": 1.5,
+    "dps": 0.7
   },
   {
     "itemId": 11506,
@@ -2430,7 +2544,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:11506::::::::::0|h[Monster - Claw Offhand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-claw-offhand"
+    "uniqueName": "monster-claw-offhand",
+    "speed": 1.5,
+    "dps": 0.7
   },
   {
     "itemId": 11863,
@@ -2482,7 +2598,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:11863::::::::::0|h[White Bone Shredder]|h|r",
     "contentPhase": 1,
-    "uniqueName": "white-bone-shredder"
+    "uniqueName": "white-bone-shredder",
+    "speed": 1.4,
+    "dps": 31.1
   },
   {
     "itemId": 15906,
@@ -2518,7 +2636,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:15906::::::::::0|h[Left-Handed Brass Knuckles]|h|r",
     "contentPhase": 1,
-    "uniqueName": "left-handed-brass-knuckles"
+    "uniqueName": "left-handed-brass-knuckles",
+    "speed": 1.4,
+    "dps": 6.8
   },
   {
     "itemId": 15907,
@@ -2554,7 +2674,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:15907::::::::::0|h[Left-Handed Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "left-handed-claw"
+    "uniqueName": "left-handed-claw",
+    "speed": 1.5,
+    "dps": 11.7
   },
   {
     "itemId": 15909,
@@ -2590,7 +2712,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:15909::::::::::0|h[Left-Handed Blades]|h|r",
     "contentPhase": 1,
-    "uniqueName": "left-handed-blades"
+    "uniqueName": "left-handed-blades",
+    "speed": 1.5,
+    "dps": 17.3
   },
   {
     "itemId": 22211,
@@ -2623,7 +2747,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:22211::::::::::0|h[Monster - Knuckle, B01 Red Offhand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-knuckle-b01-red-offhand"
+    "uniqueName": "monster-knuckle-b01-red-offhand",
+    "speed": 1.5,
+    "dps": 0.7
   },
   {
     "itemId": 2706,
@@ -2649,7 +2775,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2706::::::::::0|h[Monster, Flower - Red]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-flower-red"
+    "uniqueName": "monster-flower-red",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 2708,
@@ -2675,7 +2803,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2708::::::::::0|h[Monster, Bouquet - White & Purple]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bouquet-white-purple"
+    "uniqueName": "monster-bouquet-white-purple",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 2709,
@@ -2701,7 +2831,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2709::::::::::0|h[Monster, Flower - Rose]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-flower-rose"
+    "uniqueName": "monster-flower-rose",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 2710,
@@ -2727,7 +2859,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2710::::::::::0|h[Monster, Bouquet - Roses]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bouquet-roses"
+    "uniqueName": "monster-bouquet-roses",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 2716,
@@ -2753,7 +2887,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2716::::::::::0|h[Monster, Bottle - Green]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bottle-green"
+    "uniqueName": "monster-bottle-green",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 2717,
@@ -2779,7 +2915,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2717::::::::::0|h[Monster, Bottle - Black]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bottle-black"
+    "uniqueName": "monster-bottle-black",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 2808,
@@ -2808,7 +2946,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2808::::::::::0|h[Torch of Flame]|h|r",
     "contentPhase": 1,
-    "uniqueName": "torch-of-flame"
+    "uniqueName": "torch-of-flame",
+    "speed": 2.9,
+    "dps": 14.7
   },
   {
     "itemId": 2901,
@@ -2834,7 +2974,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2901::::::::::0|h[Mining Pick]|h|r",
     "contentPhase": 1,
-    "uniqueName": "mining-pick"
+    "uniqueName": "mining-pick",
+    "speed": 2,
+    "dps": 1.5
   },
   {
     "itemId": 3362,
@@ -2886,7 +3028,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:4616::::::::::0|h[Ryedol's Lucky Pick]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ryedols-lucky-pick"
+    "uniqueName": "ryedols-lucky-pick",
+    "speed": 1.5,
+    "dps": 1
   },
   {
     "itemId": 4704,
@@ -2915,7 +3059,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:4704::::::::::0|h[OLDCeremonial Club]|h|r",
     "contentPhase": 1,
-    "uniqueName": "oldceremonial-club"
+    "uniqueName": "oldceremonial-club",
+    "speed": 2.2,
+    "dps": 0.7
   },
   {
     "itemId": 5410,
@@ -2941,7 +3087,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:5410::::::::::0|h[OLDCeremonial Club]|h|r",
     "contentPhase": 1,
-    "uniqueName": "oldceremonial-club"
+    "uniqueName": "oldceremonial-club",
+    "speed": 2.2,
+    "dps": 0.7
   },
   {
     "itemId": 5532,
@@ -2990,7 +3138,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:5956::::::::::0|h[Blacksmith Hammer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blacksmith-hammer"
+    "uniqueName": "blacksmith-hammer",
+    "speed": 2,
+    "dps": 1.3
   },
   {
     "itemId": 6219,
@@ -3016,7 +3166,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:6219::::::::::0|h[Arclight Spanner]|h|r",
     "contentPhase": 1,
-    "uniqueName": "arclight-spanner"
+    "uniqueName": "arclight-spanner",
+    "speed": 2.4,
+    "dps": 2.7
   },
   {
     "itemId": 6225,
@@ -3042,7 +3194,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:6225::::::::::0|h[Monster, Fish - Blue]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-fish-blue"
+    "uniqueName": "monster-fish-blue",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 6227,
@@ -3068,7 +3222,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:6227::::::::::0|h[Monster, Fish - Green]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-fish-green"
+    "uniqueName": "monster-fish-green",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 6228,
@@ -3094,7 +3250,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:6228::::::::::0|h[Monster, Fish - Orange]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-fish-orange"
+    "uniqueName": "monster-fish-orange",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 6229,
@@ -3120,7 +3278,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:6229::::::::::0|h[Monster, Fish - Purple]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-fish-purple"
+    "uniqueName": "monster-fish-purple",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 6234,
@@ -3146,7 +3306,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:6234::::::::::0|h[Monster, Flower - Long Blue]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-flower-long-blue"
+    "uniqueName": "monster-flower-long-blue",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 6235,
@@ -3172,7 +3334,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:6235::::::::::0|h[Monster, Flower - Rose (Black)]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-flower-rose-black"
+    "uniqueName": "monster-flower-rose-black",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 7005,
@@ -3198,7 +3362,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:7005::::::::::0|h[Skinning Knife]|h|r",
     "contentPhase": 1,
-    "uniqueName": "skinning-knife"
+    "uniqueName": "skinning-knife",
+    "speed": 1.6,
+    "dps": 2.2
   },
   {
     "itemId": 7009,
@@ -3224,7 +3390,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:7009::::::::::0|h[Survivalist's Skinning Knife]|h|r",
     "contentPhase": 1,
-    "uniqueName": "survivalists-skinning-knife"
+    "uniqueName": "survivalists-skinning-knife",
+    "speed": 1.6,
+    "dps": 2.2
   },
   {
     "itemId": 10515,
@@ -3273,7 +3441,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12742::::::::::0|h[Monster, Book - Brown]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-book-brown"
+    "uniqueName": "monster-book-brown",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 12744,
@@ -3299,7 +3469,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12744::::::::::0|h[Monster, Bag - Brown]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bag-brown"
+    "uniqueName": "monster-bag-brown",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 12750,
@@ -3325,7 +3497,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12750::::::::::0|h[Monster, Book - Black Skull Glowing]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-book-black-skull-glowing"
+    "uniqueName": "monster-book-black-skull-glowing",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 12751,
@@ -3351,7 +3525,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12751::::::::::0|h[Monster, Book - Blue]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-book-blue"
+    "uniqueName": "monster-book-blue",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 12801,
@@ -3403,7 +3579,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12850::::::::::0|h[Monster, Bag - Black]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bag-black"
+    "uniqueName": "monster-bag-black",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 12852,
@@ -3429,7 +3607,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12852::::::::::0|h[Monster, Bag - Gray]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bag-gray"
+    "uniqueName": "monster-bag-gray",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 12854,
@@ -3455,7 +3635,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12854::::::::::0|h[Monster, Bag - Green]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bag-green"
+    "uniqueName": "monster-bag-green",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 12856,
@@ -3481,7 +3663,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12856::::::::::0|h[Monster, Bag - Red]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bag-red"
+    "uniqueName": "monster-bag-red",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 12858,
@@ -3507,7 +3691,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12858::::::::::0|h[Monster, Bag - White]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-bag-white"
+    "uniqueName": "monster-bag-white",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 12864,
@@ -3533,7 +3719,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12864::::::::::0|h[Monster, Book - B01 Black Glowing]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-book-b01-black-glowing"
+    "uniqueName": "monster-book-b01-black-glowing",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 12866,
@@ -3559,7 +3747,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12866::::::::::0|h[Monster, Book - B02 Black Glowing]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-book-b02-black-glowing"
+    "uniqueName": "monster-book-b02-black-glowing",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 12868,
@@ -3585,7 +3775,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12868::::::::::0|h[Monster, Book - B02 Blue Glowing]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-book-b02-blue-glowing"
+    "uniqueName": "monster-book-b02-blue-glowing",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 13607,
@@ -3663,7 +3855,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:19485::::::::::0|h[Monster, Fish - Blue Offhand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-fish-blue-offhand"
+    "uniqueName": "monster-fish-blue-offhand",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 19486,
@@ -3689,7 +3883,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:19486::::::::::0|h[Monster, Fish - Green Offhand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-fish-green-offhand"
+    "uniqueName": "monster-fish-green-offhand",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 19487,
@@ -3715,7 +3911,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:19487::::::::::0|h[Monster, Fish - Orange Offhand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-fish-orange-offhand"
+    "uniqueName": "monster-fish-orange-offhand",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 19488,
@@ -3741,7 +3939,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:19488::::::::::0|h[Monster, Fish - Purple Offhand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-fish-purple-offhand"
+    "uniqueName": "monster-fish-purple-offhand",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 21121,
@@ -3767,7 +3967,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:21121::::::::::0|h[Monster, Flower - Purple]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-flower-purple"
+    "uniqueName": "monster-flower-purple",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 21796,
@@ -3793,7 +3995,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:21796::::::::::0|h[Monster, Ahn'Qiraj Held Scepter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-ahnqiraj-held-scepter"
+    "uniqueName": "monster-ahnqiraj-held-scepter",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 41464,
@@ -3855,7 +4059,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:50062::::::::::0|h[Half-Eaten Mutton Chop]|h|r",
     "contentPhase": 1,
-    "uniqueName": "half-eaten-mutton-chop"
+    "uniqueName": "half-eaten-mutton-chop",
+    "speed": 1.8,
+    "dps": 3.6
   },
   {
     "itemId": 50374,
@@ -3936,7 +4142,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:67004::::::::::0|h[Decorative Flail]|h|r",
     "contentPhase": 1,
-    "uniqueName": "decorative-flail"
+    "uniqueName": "decorative-flail",
+    "speed": 1.5,
+    "dps": 1
   },
   {
     "itemId": 2198,
@@ -3962,7 +4170,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2198::::::::::0|h[Monster, Potion Blue]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-potion-blue"
+    "uniqueName": "monster-potion-blue",
+    "speed": 2,
+    "dps": 2.8
   },
   {
     "itemId": 2199,
@@ -3988,7 +4198,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2199::::::::::0|h[Monster, Vial Purple]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-vial-purple"
+    "uniqueName": "monster-vial-purple",
+    "speed": 2,
+    "dps": 2.8
   },
   {
     "itemId": 2200,
@@ -4014,7 +4226,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2200::::::::::0|h[Monster, Potion Green]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-potion-green"
+    "uniqueName": "monster-potion-green",
+    "speed": 2,
+    "dps": 2.8
   },
   {
     "itemId": 2201,
@@ -4040,7 +4254,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2201::::::::::0|h[Monster, Vial Black]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-vial-black"
+    "uniqueName": "monster-vial-black",
+    "speed": 2,
+    "dps": 2.8
   },
   {
     "itemId": 2703,
@@ -4066,7 +4282,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2703::::::::::0|h[Monster, Tankard Wooden]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-tankard-wooden"
+    "uniqueName": "monster-tankard-wooden",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 2704,
@@ -4092,7 +4310,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2704::::::::::0|h[Monster, Tankard Dirty]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-tankard-dirty"
+    "uniqueName": "monster-tankard-dirty",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 2705,
@@ -4118,7 +4338,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2705::::::::::0|h[Monster, Tankard Metal]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-tankard-metal"
+    "uniqueName": "monster-tankard-metal",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 2707,
@@ -4144,7 +4366,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2707::::::::::0|h[Monster, Flower - Yellow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-flower-yellow"
+    "uniqueName": "monster-flower-yellow",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 2715,
@@ -4170,7 +4394,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2715::::::::::0|h[Monster, Lantern - Round]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-lantern-round"
+    "uniqueName": "monster-lantern-round",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 2718,
@@ -4196,7 +4422,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:2718::::::::::0|h[Monster, Glass - Clear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-glass-clear"
+    "uniqueName": "monster-glass-clear",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 3351,
@@ -4320,7 +4548,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:4994::::::::::0|h[Monster, Gizmo]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-gizmo"
+    "uniqueName": "monster-gizmo",
+    "speed": 2,
+    "dps": 2.8
   },
   {
     "itemId": 6232,
@@ -4346,7 +4576,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:6232::::::::::0|h[Monster, Flowers  - Boquet Roses]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-flowers-boquet-roses"
+    "uniqueName": "monster-flowers-boquet-roses",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 6233,
@@ -4372,7 +4604,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:6233::::::::::0|h[Monster, Flowers  - Boquet Wildflowers]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-flowers-boquet-wildflowers"
+    "uniqueName": "monster-flowers-boquet-wildflowers",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 6236,
@@ -4398,7 +4632,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:6236::::::::::0|h[Monster, Flower - Rose (White)]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-flower-rose-white"
+    "uniqueName": "monster-flower-rose-white",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 6237,
@@ -4424,7 +4660,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:6237::::::::::0|h[Monster, Flowers  - Boquet Roses (Black)]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-flowers-boquet-roses-black"
+    "uniqueName": "monster-flowers-boquet-roses-black",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 9700,
@@ -4528,7 +4766,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12746::::::::::0|h[Monster, Orb - Lava]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-orb-lava"
+    "uniqueName": "monster-orb-lava",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 12747,
@@ -4554,7 +4794,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12747::::::::::0|h[Monster, Orb - Lava Offhand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-orb-lava-offhand"
+    "uniqueName": "monster-orb-lava-offhand",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 12748,
@@ -4580,7 +4822,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12748::::::::::0|h[Monster, Scepter - Gold]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-scepter-gold"
+    "uniqueName": "monster-scepter-gold",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 13612,
@@ -4606,7 +4850,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13612::::::::::0|h[Monster, Glass - Purple Wine]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-glass-purple-wine"
+    "uniqueName": "monster-glass-purple-wine",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 13861,
@@ -4632,7 +4878,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13861::::::::::0|h[Monster, Tankard Gold]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-tankard-gold"
+    "uniqueName": "monster-tankard-gold",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 19053,
@@ -4658,7 +4906,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:19053::::::::::0|h[Monster, Orb - A01 Blue]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-orb-a01-blue"
+    "uniqueName": "monster-orb-a01-blue",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 20468,
@@ -4684,7 +4934,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:20468::::::::::0|h[Monster, Orb - A01 Green]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-orb-a01-green"
+    "uniqueName": "monster-orb-a01-green",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 21123,
@@ -4710,7 +4962,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:21123::::::::::0|h[Monster, Flower - White]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-flower-white"
+    "uniqueName": "monster-flower-white",
+    "speed": 2,
+    "dps": 3.8
   },
   {
     "itemId": 12686,
@@ -4749,7 +5003,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12686::::::::::0|h[Einhorn's Skinner]|h|r",
     "contentPhase": 1,
-    "uniqueName": "einhorns-skinner"
+    "uniqueName": "einhorns-skinner",
+    "speed": 1.5,
+    "dps": 35
   },
   {
     "itemId": 18392,
@@ -4788,7 +5044,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18392::::::::::0|h[Distracting Dagger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "distracting-dagger"
+    "uniqueName": "distracting-dagger",
+    "speed": 1.3,
+    "dps": 40.8
   },
   {
     "itemId": 61571,
@@ -4830,7 +5088,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:61571::::::::::0|h[Leeching Fang]|h|r",
     "contentPhase": 1,
-    "uniqueName": "leeching-fang"
+    "uniqueName": "leeching-fang",
+    "speed": 1.5,
+    "dps": 42
   },
   {
     "itemId": 60613,
@@ -4872,7 +5132,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:60613::::::::::0|h[The Backup]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-backup"
+    "uniqueName": "the-backup",
+    "speed": 1.4,
+    "dps": 35.7
   },
   {
     "itemId": 5627,
@@ -4921,7 +5183,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5627::::::::::0|h[Relic Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "relic-blade"
+    "uniqueName": "relic-blade",
+    "speed": 1.8,
+    "dps": 10
   },
   {
     "itemId": 5093,
@@ -4960,7 +5224,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:5093::::::::::0|h[Razormane Backstabber]|h|r",
     "contentPhase": 1,
-    "uniqueName": "razormane-backstabber"
+    "uniqueName": "razormane-backstabber",
+    "speed": 1.7,
+    "dps": 9.4
   },
   {
     "itemId": 2946,
@@ -4996,7 +5262,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2946::::::::::0|h[Balanced Throwing Dagger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "balanced-throwing-dagger"
+    "uniqueName": "balanced-throwing-dagger",
+    "speed": 2.2,
+    "dps": 3
   },
   {
     "itemId": 2947,
@@ -5029,7 +5297,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:2947::::::::::0|h[Small Throwing Knife]|h|r",
     "contentPhase": 1,
-    "uniqueName": "small-throwing-knife"
+    "uniqueName": "small-throwing-knife",
+    "speed": 2,
+    "dps": 1
   },
   {
     "itemId": 3107,
@@ -5065,7 +5335,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:3107::::::::::0|h[Keen Throwing Knife]|h|r",
     "contentPhase": 1,
-    "uniqueName": "keen-throwing-knife"
+    "uniqueName": "keen-throwing-knife",
+    "speed": 1.9,
+    "dps": 6.3
   },
   {
     "itemId": 3108,
@@ -5101,7 +5373,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:3108::::::::::0|h[Heavy Throwing Dagger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "heavy-throwing-dagger"
+    "uniqueName": "heavy-throwing-dagger",
+    "speed": 2.1,
+    "dps": 11.7
   },
   {
     "itemId": 3463,
@@ -5150,7 +5424,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:3463::::::::::0|h[Silver Star]|h|r",
     "contentPhase": 1,
-    "uniqueName": "silver-star"
+    "uniqueName": "silver-star",
+    "speed": 2.3,
+    "dps": 17.6
   },
   {
     "itemId": 4959,
@@ -5183,7 +5459,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:4959::::::::::0|h[Throwing Tomahawk]|h|r",
     "contentPhase": 1,
-    "uniqueName": "throwing-tomahawk"
+    "uniqueName": "throwing-tomahawk",
+    "speed": 2,
+    "dps": 2.5
   },
   {
     "itemId": 5379,
@@ -5219,7 +5497,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5379::::::::::0|h[Boot Knife]|h|r",
     "contentPhase": 1,
-    "uniqueName": "boot-knife"
+    "uniqueName": "boot-knife",
+    "speed": 1.7,
+    "dps": 2.1
   },
   {
     "itemId": 5870,
@@ -5252,7 +5532,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5870::::::::::0|h[Monster - Throwing Spear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-throwing-spear"
+    "uniqueName": "monster-throwing-spear",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 6886,
@@ -5285,7 +5567,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:6886::::::::::0|h[Monster - Throwing Knife]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-throwing-knife"
+    "uniqueName": "monster-throwing-knife",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 15327,
@@ -5321,7 +5605,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:15327::::::::::0|h[Wicked Throwing Dagger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wicked-throwing-dagger"
+    "uniqueName": "wicked-throwing-dagger",
+    "speed": 1.8,
+    "dps": 18.3
   },
   {
     "itemId": 20086,
@@ -5370,7 +5656,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:20086::::::::::0|h[Dusksteel Throwing Knife]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dusksteel-throwing-knife"
+    "uniqueName": "dusksteel-throwing-knife",
+    "speed": 1.8,
+    "dps": 30
   },
   {
     "itemId": 20814,
@@ -5406,7 +5694,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:20814::::::::::0|h[Master's Throwing Dagger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "masters-throwing-dagger"
+    "uniqueName": "masters-throwing-dagger",
+    "speed": 2.2,
+    "dps": 33.9
   },
   {
     "itemId": 55072,
@@ -5451,7 +5741,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:55072::::::::::0|h[Fahrad's Silent Nails]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fahrads-silent-nails"
+    "uniqueName": "fahrads-silent-nails",
+    "speed": 3,
+    "dps": 37.7
   },
   {
     "itemId": 55474,
@@ -5493,7 +5785,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:55474::::::::::0|h[Balanced Razor Shivs]|h|r",
     "contentPhase": 1,
-    "uniqueName": "balanced-razor-shivs"
+    "uniqueName": "balanced-razor-shivs",
+    "speed": 2.1,
+    "dps": 23.8
   },
   {
     "itemId": 55510,
@@ -5535,7 +5829,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:55510::::::::::0|h[Fragments of Aldrach]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fragments-of-aldrach"
+    "uniqueName": "fragments-of-aldrach",
+    "speed": 1.9,
+    "dps": 81.8
   },
   {
     "itemId": 58239,
@@ -5574,7 +5870,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:58239::::::::::0|h[Overheated Skyrazors]|h|r",
     "contentPhase": 1,
-    "uniqueName": "overheated-skyrazors"
+    "uniqueName": "overheated-skyrazors",
+    "speed": 1.6,
+    "dps": 37.8
   },
   {
     "itemId": 58281,
@@ -5623,7 +5921,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:58281::::::::::0|h[Trusty Goblin Shiv]|h|r",
     "contentPhase": 1,
-    "uniqueName": "trusty-goblin-shiv"
+    "uniqueName": "trusty-goblin-shiv",
+    "speed": 2.3,
+    "dps": 17.6
   },
   {
     "itemId": 58302,
@@ -5662,7 +5962,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:58302::::::::::0|h[Deflecting Poniards]|h|r",
     "contentPhase": 1,
-    "uniqueName": "deflecting-poniards"
+    "uniqueName": "deflecting-poniards",
+    "speed": 1.8,
+    "dps": 32.8
   },
   {
     "itemId": 12986,
@@ -5695,7 +5997,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12986::::::::::0|h[Monster - Spear, Broad Notched]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-spear-broad-notched"
+    "uniqueName": "monster-spear-broad-notched",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 51812,
@@ -5740,7 +6044,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:51812::::::::::0|h[Ashwood Spear]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ashwood-spear"
+    "uniqueName": "ashwood-spear",
+    "speed": 2.5,
+    "dps": 11.4
   },
   {
     "itemId": 60624,
@@ -5800,7 +6106,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:60624::::::::::0|h[Goldplated Royal Crossbow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "goldplated-royal-crossbow"
+    "uniqueName": "goldplated-royal-crossbow",
+    "speed": 3.3,
+    "dps": 32.9
   },
   {
     "itemId": 5198,
@@ -5839,7 +6147,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:5198::::::::::0|h[Cookie's Stirring Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cookies-stirring-rod"
+    "uniqueName": "cookies-stirring-rod",
+    "speed": 1.3,
+    "dps": 22.3
   },
   {
     "itemId": 5243,
@@ -5878,7 +6188,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:5243::::::::::0|h[Firebelcher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "firebelcher"
+    "uniqueName": "firebelcher",
+    "speed": 1.7,
+    "dps": 20.3
   },
   {
     "itemId": 6806,
@@ -5924,7 +6236,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:6806::::::::::0|h[Dancing Flame]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dancing-flame"
+    "uniqueName": "dancing-flame",
+    "speed": 1.4,
+    "dps": 37.1
   },
   {
     "itemId": 7001,
@@ -5981,7 +6295,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:7001::::::::::0|h[Gravestone Scepter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gravestone-scepter"
+    "uniqueName": "gravestone-scepter",
+    "speed": 1.5,
+    "dps": 29
   },
   {
     "itemId": 7513,
@@ -6030,7 +6346,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:7513::::::::::0|h[Ragefire Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ragefire-wand"
+    "uniqueName": "ragefire-wand",
+    "speed": 1.4,
+    "dps": 37.1
   },
   {
     "itemId": 7514,
@@ -6079,7 +6397,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:7514::::::::::0|h[Icefury Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "icefury-wand"
+    "uniqueName": "icefury-wand",
+    "speed": 1.6,
+    "dps": 37.2
   },
   {
     "itemId": 7708,
@@ -6118,7 +6438,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:7708::::::::::0|h[Necrotic Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "necrotic-wand"
+    "uniqueName": "necrotic-wand",
+    "speed": 1.4,
+    "dps": 33.2
   },
   {
     "itemId": 9381,
@@ -6157,7 +6479,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9381::::::::::0|h[Earthen Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "earthen-rod"
+    "uniqueName": "earthen-rod",
+    "speed": 1.7,
+    "dps": 35.6
   },
   {
     "itemId": 9483,
@@ -6199,7 +6523,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9483::::::::::0|h[Flaming Incinerator]|h|r",
     "contentPhase": 1,
-    "uniqueName": "flaming-incinerator"
+    "uniqueName": "flaming-incinerator",
+    "speed": 1.8,
+    "dps": 47.2
   },
   {
     "itemId": 10572,
@@ -6238,7 +6564,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:10572::::::::::0|h[Freezing Shard]|h|r",
     "contentPhase": 1,
-    "uniqueName": "freezing-shard"
+    "uniqueName": "freezing-shard",
+    "speed": 1.3,
+    "dps": 35.8
   },
   {
     "itemId": 10766,
@@ -6277,7 +6605,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:10766::::::::::0|h[Plaguerot Sprig]|h|r",
     "contentPhase": 1,
-    "uniqueName": "plaguerot-sprig"
+    "uniqueName": "plaguerot-sprig",
+    "speed": 1.6,
+    "dps": 37.2
   },
   {
     "itemId": 11263,
@@ -6326,7 +6656,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:11263::::::::::0|h[Nether Force Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "nether-force-wand"
+    "uniqueName": "nether-force-wand",
+    "speed": 1.5,
+    "dps": 37.3
   },
   {
     "itemId": 11748,
@@ -6365,7 +6697,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:11748::::::::::0|h[Pyric Caduceus]|h|r",
     "contentPhase": 1,
-    "uniqueName": "pyric-caduceus"
+    "uniqueName": "pyric-caduceus",
+    "speed": 1.8,
+    "dps": 52.5
   },
   {
     "itemId": 13064,
@@ -6410,7 +6744,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13064::::::::::0|h[Jaina's Firestarter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "jainas-firestarter"
+    "uniqueName": "jainas-firestarter",
+    "speed": 1.6,
+    "dps": 39.4
   },
   {
     "itemId": 13534,
@@ -6452,7 +6788,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13534::::::::::0|h[Banshee Finger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "banshee-finger"
+    "uniqueName": "banshee-finger",
+    "speed": 1.9,
+    "dps": 59.7
   },
   {
     "itemId": 13938,
@@ -6494,7 +6832,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13938::::::::::0|h[Bonecreeper Stylus]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bonecreeper-stylus"
+    "uniqueName": "bonecreeper-stylus",
+    "speed": 1.9,
+    "dps": 62.6
   },
   {
     "itemId": 17077,
@@ -6539,7 +6879,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:17077::::::::::0|h[Crimson Shocker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "crimson-shocker"
+    "uniqueName": "crimson-shocker",
+    "speed": 2,
+    "dps": 77.8
   },
   {
     "itemId": 17745,
@@ -6584,7 +6926,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:17745::::::::::0|h[Noxious Shooter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "noxious-shooter"
+    "uniqueName": "noxious-shooter",
+    "speed": 1.6,
+    "dps": 50
   },
   {
     "itemId": 18483,
@@ -6623,7 +6967,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18483::::::::::0|h[Mana Channeling Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "mana-channeling-wand"
+    "uniqueName": "mana-channeling-wand",
+    "speed": 1.6,
+    "dps": 60.9
   },
   {
     "itemId": 18761,
@@ -6665,7 +7011,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18761::::::::::0|h[Oblivion's Touch]|h|r",
     "contentPhase": 1,
-    "uniqueName": "oblivions-touch"
+    "uniqueName": "oblivions-touch",
+    "speed": 1.8,
+    "dps": 62.5
   },
   {
     "itemId": 19130,
@@ -6707,7 +7055,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19130::::::::::0|h[Cold Snap]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cold-snap"
+    "uniqueName": "cold-snap",
+    "speed": 1.7,
+    "dps": 85.3
   },
   {
     "itemId": 19367,
@@ -6752,7 +7102,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19367::::::::::0|h[Dragon's Touch]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dragons-touch"
+    "uniqueName": "dragons-touch",
+    "speed": 1.6,
+    "dps": 95.6
   },
   {
     "itemId": 19435,
@@ -6797,7 +7149,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19435::::::::::0|h[Essence Gatherer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "essence-gatherer"
+    "uniqueName": "essence-gatherer",
+    "speed": 1.4,
+    "dps": 85.4
   },
   {
     "itemId": 19861,
@@ -6836,7 +7190,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19861::::::::::0|h[Touch of Chaos]|h|r",
     "contentPhase": 1,
-    "uniqueName": "touch-of-chaos"
+    "uniqueName": "touch-of-chaos",
+    "speed": 1.5,
+    "dps": 82
   },
   {
     "itemId": 19927,
@@ -6884,7 +7240,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19927::::::::::0|h[Mar'li's Touch]|h|r",
     "contentPhase": 1,
-    "uniqueName": "marlis-touch"
+    "uniqueName": "marlis-touch",
+    "speed": 1.7,
+    "dps": 76.8
   },
   {
     "itemId": 21603,
@@ -6926,7 +7284,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:21603::::::::::0|h[Wand of Qiraji Nobility]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wand-of-qiraji-nobility"
+    "uniqueName": "wand-of-qiraji-nobility",
+    "speed": 1.6,
+    "dps": 102.2
   },
   {
     "itemId": 21801,
@@ -6968,7 +7328,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:21801::::::::::0|h[Antenna of Invigoration]|h|r",
     "contentPhase": 1,
-    "uniqueName": "antenna-of-invigoration"
+    "uniqueName": "antenna-of-invigoration",
+    "speed": 1.6,
+    "dps": 71.6
   },
   {
     "itemId": 22820,
@@ -7013,7 +7375,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:22820::::::::::0|h[Wand of Fates]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wand-of-fates"
+    "uniqueName": "wand-of-fates",
+    "speed": 1.5,
+    "dps": 113.7
   },
   {
     "itemId": 22821,
@@ -7052,7 +7416,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:22821::::::::::0|h[Doomfinger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "doomfinger"
+    "uniqueName": "doomfinger",
+    "speed": 1.5,
+    "dps": 139
   },
   {
     "itemId": 23009,
@@ -7097,7 +7463,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:23009::::::::::0|h[Wand of the Whispering Dead]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wand-of-the-whispering-dead"
+    "uniqueName": "wand-of-the-whispering-dead",
+    "speed": 1.5,
+    "dps": 113.7
   },
   {
     "itemId": 23177,
@@ -7136,7 +7504,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:23177::::::::::0|h[Lady Falther'ess' Finger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lady-faltheress-finger"
+    "uniqueName": "lady-faltheress-finger",
+    "speed": 1.3,
+    "dps": 38.1
   },
   {
     "itemId": 51735,
@@ -7175,7 +7545,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:51735::::::::::0|h[Scourgelord's Fang]|h|r",
     "contentPhase": 1,
-    "uniqueName": "scourgelords-fang"
+    "uniqueName": "scourgelords-fang",
+    "speed": 1.6,
+    "dps": 95.9
   },
   {
     "itemId": 55134,
@@ -7227,7 +7599,9 @@
     },
     "itemLink": "|cffa335ee|Hitem:55134::::::::::0|h[Rod of Permafrost]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rod-of-permafrost"
+    "uniqueName": "rod-of-permafrost",
+    "speed": 1.5,
+    "dps": 113.7
   },
   {
     "itemId": 55511,
@@ -7272,7 +7646,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:55511::::::::::0|h[Hellflame]|h|r",
     "contentPhase": 1,
-    "uniqueName": "hellflame"
+    "uniqueName": "hellflame",
+    "speed": 1.6,
+    "dps": 139.1
   },
   {
     "itemId": 58047,
@@ -7314,7 +7690,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:58047::::::::::0|h[Grasp of Ancestors]|h|r",
     "contentPhase": 1,
-    "uniqueName": "grasp-of-ancestors"
+    "uniqueName": "grasp-of-ancestors",
+    "speed": 1.5,
+    "dps": 33
   },
   {
     "itemId": 58137,
@@ -7356,7 +7734,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:58137::::::::::0|h[Netherbranch]|h|r",
     "contentPhase": 1,
-    "uniqueName": "netherbranch"
+    "uniqueName": "netherbranch",
+    "speed": 1.5,
+    "dps": 34
   },
   {
     "itemId": 58205,
@@ -7398,7 +7778,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:58205::::::::::0|h[Primal Flameslinger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "primal-flameslinger"
+    "uniqueName": "primal-flameslinger",
+    "speed": 1.5,
+    "dps": 77.7
   },
   {
     "itemId": 58253,
@@ -7437,7 +7819,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:58253::::::::::0|h[Lector's Baton]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lectors-baton"
+    "uniqueName": "lectors-baton",
+    "speed": 1.6,
+    "dps": 60.9
   },
   {
     "itemId": 60805,
@@ -7482,7 +7866,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:60805::::::::::0|h[Clutch of the Damned]|h|r",
     "contentPhase": 1,
-    "uniqueName": "clutch-of-the-damned"
+    "uniqueName": "clutch-of-the-damned",
+    "speed": 1.5,
+    "dps": 66.7
   },
   {
     "itemId": 61020,
@@ -7524,7 +7910,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:61020::::::::::0|h[Lodestone]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lodestone"
+    "uniqueName": "lodestone",
+    "speed": 1.5,
+    "dps": 77.7
   },
   {
     "itemId": 61286,
@@ -7563,7 +7951,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:61286::::::::::0|h[Bloodfang Effigy]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bloodfang-effigy"
+    "uniqueName": "bloodfang-effigy",
+    "speed": 1.8,
+    "dps": 71.7
   },
   {
     "itemId": 80544,
@@ -7608,7 +7998,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80544::::::::::0|h[Quel'dorei Magister's Spellflinger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "queldorei-magisters-spellflinger"
+    "uniqueName": "queldorei-magisters-spellflinger",
+    "speed": 1.3,
+    "dps": 66.2
   },
   {
     "itemId": 80545,
@@ -7647,7 +8039,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80545::::::::::0|h[Quel'dorei Cleric's Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "queldorei-clerics-wand"
+    "uniqueName": "queldorei-clerics-wand",
+    "speed": 1.3,
+    "dps": 66.2
   },
   {
     "itemId": 80748,
@@ -7689,7 +8083,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80748::::::::::0|h[Corrupter's Focus]|h|r",
     "contentPhase": 1,
-    "uniqueName": "corrupters-focus"
+    "uniqueName": "corrupters-focus",
+    "speed": 2.1,
+    "dps": 51.4
   },
   {
     "itemId": 80829,
@@ -7728,7 +8124,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80829::::::::::0|h[Moonbeam]|h|r",
     "contentPhase": 1,
-    "uniqueName": "moonbeam"
+    "uniqueName": "moonbeam",
+    "speed": 1.3,
+    "dps": 32.7
   },
   {
     "itemId": 81290,
@@ -7774,7 +8172,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:81290::::::::::0|h[Diathorus' Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "diathorus-claw"
+    "uniqueName": "diathorus-claw",
+    "speed": 1.9,
+    "dps": 32.6
   },
   {
     "itemId": 81320,
@@ -7820,7 +8220,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:81320::::::::::0|h[Crackling Zapper]|h|r",
     "contentPhase": 1,
-    "uniqueName": "crackling-zapper"
+    "uniqueName": "crackling-zapper",
+    "speed": 1.7,
+    "dps": 34.1
   },
   {
     "itemId": 83215,
@@ -7859,7 +8261,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83215::::::::::0|h[Blackflame Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blackflame-wand"
+    "uniqueName": "blackflame-wand",
+    "speed": 1.3,
+    "dps": 35.4
   },
   {
     "itemId": 83467,
@@ -7904,7 +8308,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83467::::::::::0|h[Cryptwatcher's Call]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cryptwatchers-call"
+    "uniqueName": "cryptwatchers-call",
+    "speed": 1.4,
+    "dps": 65.4
   },
   {
     "itemId": 84602,
@@ -7943,7 +8349,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:84602::::::::::0|h[Consecrated Caduceus]|h|r",
     "contentPhase": 1,
-    "uniqueName": "consecrated-caduceus"
+    "uniqueName": "consecrated-caduceus",
+    "speed": 1.6,
+    "dps": 71.6
   },
   {
     "itemId": 5069,
@@ -7982,7 +8390,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:5069::::::::::0|h[Fire Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fire-wand"
+    "uniqueName": "fire-wand",
+    "speed": 1.5,
+    "dps": 8.7
   },
   {
     "itemId": 5212,
@@ -8021,7 +8431,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:5212::::::::::0|h[Blazing Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blazing-wand"
+    "uniqueName": "blazing-wand",
+    "speed": 1.5,
+    "dps": 12.7
   },
   {
     "itemId": 5215,
@@ -8060,7 +8472,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:5215::::::::::0|h[Ember Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ember-wand"
+    "uniqueName": "ember-wand",
+    "speed": 1.5,
+    "dps": 33.7
   },
   {
     "itemId": 5241,
@@ -8106,7 +8520,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5241::::::::::0|h[Dwarven Flamestick]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dwarven-flamestick"
+    "uniqueName": "dwarven-flamestick",
+    "speed": 1.8,
+    "dps": 13.6
   },
   {
     "itemId": 5242,
@@ -8152,7 +8568,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5242::::::::::0|h[Cinder Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cinder-wand"
+    "uniqueName": "cinder-wand",
+    "speed": 1.4,
+    "dps": 11.8
   },
   {
     "itemId": 5244,
@@ -8198,7 +8616,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5244::::::::::0|h[Consecrated Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "consecrated-wand"
+    "uniqueName": "consecrated-wand",
+    "speed": 1.2,
+    "dps": 24.2
   },
   {
     "itemId": 5246,
@@ -8244,7 +8664,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5246::::::::::0|h[Excavation Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "excavation-rod"
+    "uniqueName": "excavation-rod",
+    "speed": 1.9,
+    "dps": 24.2
   },
   {
     "itemId": 5248,
@@ -8290,7 +8712,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5248::::::::::0|h[Flash Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "flash-wand"
+    "uniqueName": "flash-wand",
+    "speed": 1.3,
+    "dps": 30.4
   },
   {
     "itemId": 5249,
@@ -8336,7 +8760,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5249::::::::::0|h[Burning Sliver]|h|r",
     "contentPhase": 1,
-    "uniqueName": "burning-sliver"
+    "uniqueName": "burning-sliver",
+    "speed": 1.3,
+    "dps": 32.7
   },
   {
     "itemId": 5250,
@@ -8382,7 +8808,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5250::::::::::0|h[Charred Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "charred-wand"
+    "uniqueName": "charred-wand",
+    "speed": 1.8,
+    "dps": 22.2
   },
   {
     "itemId": 5326,
@@ -8428,7 +8856,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5326::::::::::0|h[Flaring Baton]|h|r",
     "contentPhase": 1,
-    "uniqueName": "flaring-baton"
+    "uniqueName": "flaring-baton",
+    "speed": 1.9,
+    "dps": 13.7
   },
   {
     "itemId": 5356,
@@ -8474,7 +8904,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5356::::::::::0|h[Branding Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "branding-rod"
+    "uniqueName": "branding-rod",
+    "speed": 1.6,
+    "dps": 21.6
   },
   {
     "itemId": 5604,
@@ -8520,7 +8952,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5604::::::::::0|h[Elven Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "elven-wand"
+    "uniqueName": "elven-wand",
+    "speed": 1.6,
+    "dps": 9.4
   },
   {
     "itemId": 6729,
@@ -8566,7 +9000,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:6729::::::::::0|h[Fizzle's Zippy Lighter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fizzles-zippy-lighter"
+    "uniqueName": "fizzles-zippy-lighter",
+    "speed": 1.5,
+    "dps": 31
   },
   {
     "itemId": 6797,
@@ -8612,7 +9048,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:6797::::::::::0|h[Eyepoker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "eyepoker"
+    "uniqueName": "eyepoker",
+    "speed": 1.7,
+    "dps": 30.6
   },
   {
     "itemId": 8184,
@@ -8651,7 +9089,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:8184::::::::::0|h[Firestarter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "firestarter"
+    "uniqueName": "firestarter",
+    "speed": 1.5,
+    "dps": 23.3
   },
   {
     "itemId": 8186,
@@ -8690,7 +9130,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:8186::::::::::0|h[Dire Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dire-wand"
+    "uniqueName": "dire-wand",
+    "speed": 1.7,
+    "dps": 20.3
   },
   {
     "itemId": 9654,
@@ -8736,7 +9178,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:9654::::::::::0|h[Cairnstone Sliver]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cairnstone-sliver"
+    "uniqueName": "cairnstone-sliver",
+    "speed": 1.8,
+    "dps": 41.4
   },
   {
     "itemId": 10704,
@@ -8782,7 +9226,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:10704::::::::::0|h[Chillnail Splinter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "chillnail-splinter"
+    "uniqueName": "chillnail-splinter",
+    "speed": 1.4,
+    "dps": 37.1
   },
   {
     "itemId": 10836,
@@ -8824,7 +9270,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:10836::::::::::0|h[Rod of Corrosion]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rod-of-corrosion"
+    "uniqueName": "rod-of-corrosion",
+    "speed": 1.3,
+    "dps": 55
   },
   {
     "itemId": 11860,
@@ -8870,7 +9318,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:11860::::::::::0|h[Charged Lightning Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "charged-lightning-rod"
+    "uniqueName": "charged-lightning-rod",
+    "speed": 1.5,
+    "dps": 37.3
   },
   {
     "itemId": 12605,
@@ -8912,7 +9362,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12605::::::::::0|h[Serpentine Skuller]|h|r",
     "contentPhase": 1,
-    "uniqueName": "serpentine-skuller"
+    "uniqueName": "serpentine-skuller",
+    "speed": 1.4,
+    "dps": 54.6
   },
   {
     "itemId": 12984,
@@ -8951,7 +9403,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12984::::::::::0|h[Skycaller]|h|r",
     "contentPhase": 1,
-    "uniqueName": "skycaller"
+    "uniqueName": "skycaller",
+    "speed": 1.6,
+    "dps": 21.6
   },
   {
     "itemId": 13004,
@@ -8993,7 +9447,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13004::::::::::0|h[Torch of Austen]|h|r",
     "contentPhase": 1,
-    "uniqueName": "torch-of-austen"
+    "uniqueName": "torch-of-austen",
+    "speed": 1.4,
+    "dps": 56.8
   },
   {
     "itemId": 13062,
@@ -9032,7 +9488,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13062::::::::::0|h[Thunderwood]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thunderwood"
+    "uniqueName": "thunderwood",
+    "speed": 1.9,
+    "dps": 27.1
   },
   {
     "itemId": 13063,
@@ -9071,7 +9529,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13063::::::::::0|h[Starfaller]|h|r",
     "contentPhase": 1,
-    "uniqueName": "starfaller"
+    "uniqueName": "starfaller",
+    "speed": 1.4,
+    "dps": 32.9
   },
   {
     "itemId": 13065,
@@ -9113,7 +9573,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13065::::::::::0|h[Wand of Allistarj]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wand-of-allistarj"
+    "uniqueName": "wand-of-allistarj",
+    "speed": 1.9,
+    "dps": 48.4
   },
   {
     "itemId": 13396,
@@ -9152,7 +9614,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13396::::::::::0|h[Skul's Ghastly Touch]|h|r",
     "contentPhase": 1,
-    "uniqueName": "skuls-ghastly-touch"
+    "uniqueName": "skuls-ghastly-touch",
+    "speed": 1.8,
+    "dps": 55.8
   },
   {
     "itemId": 15281,
@@ -9191,7 +9655,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15281::::::::::0|h[Glowstar Rod]|h|r",
     "contentPhase": 1,
-    "uniqueName": "glowstar-rod"
+    "uniqueName": "glowstar-rod",
+    "speed": 1.5,
+    "dps": 50
   },
   {
     "itemId": 15282,
@@ -9230,7 +9696,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15282::::::::::0|h[Dragon Finger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dragon-finger"
+    "uniqueName": "dragon-finger",
+    "speed": 1.4,
+    "dps": 53.2
   },
   {
     "itemId": 16789,
@@ -9276,7 +9744,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:16789::::::::::0|h[Captain Rackmore's Tiller]|h|r",
     "contentPhase": 1,
-    "uniqueName": "captain-rackmores-tiller"
+    "uniqueName": "captain-rackmores-tiller",
+    "speed": 1.5,
+    "dps": 29.7
   },
   {
     "itemId": 16997,
@@ -9333,7 +9803,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:16997::::::::::0|h[Stormrager]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stormrager"
+    "uniqueName": "stormrager",
+    "speed": 1.3,
+    "dps": 62.7
   },
   {
     "itemId": 18338,
@@ -9372,7 +9844,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18338::::::::::0|h[Wand of Arcane Potency]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wand-of-arcane-potency"
+    "uniqueName": "wand-of-arcane-potency",
+    "speed": 1.6,
+    "dps": 58.4
   },
   {
     "itemId": 19108,
@@ -9433,7 +9907,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:19108::::::::::0|h[Wand of Biting Cold]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wand-of-biting-cold"
+    "uniqueName": "wand-of-biting-cold",
+    "speed": 1.5,
+    "dps": 64
   },
   {
     "itemId": 19967,
@@ -9472,7 +9948,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19967::::::::::0|h[Thoughtblighter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thoughtblighter"
+    "uniqueName": "thoughtblighter",
+    "speed": 1.8,
+    "dps": 71.7
   },
   {
     "itemId": 20082,
@@ -9521,7 +9999,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:20082::::::::::0|h[Woestave]|h|r",
     "contentPhase": 1,
-    "uniqueName": "woestave"
+    "uniqueName": "woestave",
+    "speed": 1.9,
+    "dps": 51.3
   },
   {
     "itemId": 20350,
@@ -9563,7 +10043,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:20350::::::::::0|h[90 Green Frost Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "90-green-frost-wand"
+    "uniqueName": "90-green-frost-wand",
+    "speed": 1.3,
+    "dps": 101.9
   },
   {
     "itemId": 20672,
@@ -9605,7 +10087,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:20672::::::::::0|h[Sparkling Crystal Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sparkling-crystal-wand"
+    "uniqueName": "sparkling-crystal-wand",
+    "speed": 1.5,
+    "dps": 62.3
   },
   {
     "itemId": 22254,
@@ -9647,7 +10131,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:22254::::::::::0|h[Wand of Eternal Light]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wand-of-eternal-light"
+    "uniqueName": "wand-of-eternal-light",
+    "speed": 1.5,
+    "dps": 55.7
   },
   {
     "itemId": 22408,
@@ -9689,7 +10175,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:22408::::::::::0|h[Ritssyn's Wand of Bad Mojo]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ritssyns-wand-of-bad-mojo"
+    "uniqueName": "ritssyns-wand-of-bad-mojo",
+    "speed": 1.3,
+    "dps": 63.8
   },
   {
     "itemId": 50529,
@@ -9728,7 +10216,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:50529::::::::::0|h[Rod of Charring]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rod-of-charring"
+    "uniqueName": "rod-of-charring",
+    "speed": 1.8,
+    "dps": 33.1
   },
   {
     "itemId": 58089,
@@ -9770,7 +10260,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:58089::::::::::0|h[Thornlash Branch]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thornlash-branch"
+    "uniqueName": "thornlash-branch",
+    "speed": 1.5,
+    "dps": 33
   },
   {
     "itemId": 60427,
@@ -9812,7 +10304,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:60427::::::::::0|h[Skullrattler]|h|r",
     "contentPhase": 1,
-    "uniqueName": "skullrattler"
+    "uniqueName": "skullrattler",
+    "speed": 2.1,
+    "dps": 63.6
   },
   {
     "itemId": 61019,
@@ -9854,7 +10348,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:61019::::::::::0|h[Wand of the Eclipse]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wand-of-the-eclipse"
+    "uniqueName": "wand-of-the-eclipse",
+    "speed": 1.7,
+    "dps": 65.6
   },
   {
     "itemId": 61615,
@@ -9893,7 +10389,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:61615::::::::::0|h[Burning Torch]|h|r",
     "contentPhase": 1,
-    "uniqueName": "burning-torch"
+    "uniqueName": "burning-torch",
+    "speed": 1.6,
+    "dps": 50.6
   },
   {
     "itemId": 80644,
@@ -9938,7 +10436,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80644::::::::::0|h[Revantusk Mystic's Mojobender]|h|r",
     "contentPhase": 1,
-    "uniqueName": "revantusk-mystics-mojobender"
+    "uniqueName": "revantusk-mystics-mojobender",
+    "speed": 1.3,
+    "dps": 66.2
   },
   {
     "itemId": 80645,
@@ -9977,7 +10477,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80645::::::::::0|h[Revantusk Mender's Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "revantusk-menders-wand"
+    "uniqueName": "revantusk-menders-wand",
+    "speed": 1.3,
+    "dps": 66.2
   },
   {
     "itemId": 80772,
@@ -10019,7 +10521,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80772::::::::::0|h[Twisted Draenei Rib]|h|r",
     "contentPhase": 1,
-    "uniqueName": "twisted-draenei-rib"
+    "uniqueName": "twisted-draenei-rib",
+    "speed": 2.1,
+    "dps": 63.3
   },
   {
     "itemId": 80799,
@@ -10058,7 +10562,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80799::::::::::0|h[Wand of Divine Justice]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wand-of-divine-justice"
+    "uniqueName": "wand-of-divine-justice",
+    "speed": 1.9,
+    "dps": 37.1
   },
   {
     "itemId": 4547,
@@ -10104,7 +10610,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:4547::::::::::0|h[Gnomish Zapper]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gnomish-zapper"
+    "uniqueName": "gnomish-zapper",
+    "speed": 1.3,
+    "dps": 32.7
   },
   {
     "itemId": 5071,
@@ -10143,7 +10651,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:5071::::::::::0|h[Shadow Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "shadow-wand"
+    "uniqueName": "shadow-wand",
+    "speed": 1.4,
+    "dps": 10.4
   },
   {
     "itemId": 5092,
@@ -10182,7 +10692,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:5092::::::::::0|h[Charred Razormane Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "charred-razormane-wand"
+    "uniqueName": "charred-razormane-wand",
+    "speed": 1.5,
+    "dps": 15.7
   },
   {
     "itemId": 5207,
@@ -10221,7 +10733,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:5207::::::::::0|h[Opaque Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "opaque-wand"
+    "uniqueName": "opaque-wand",
+    "speed": 1.4,
+    "dps": 15
   },
   {
     "itemId": 5208,
@@ -10257,7 +10771,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:5208::::::::::0|h[Smoldering Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "smoldering-wand"
+    "uniqueName": "smoldering-wand",
+    "speed": 1.6,
+    "dps": 13.4
   },
   {
     "itemId": 5209,
@@ -10293,7 +10809,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:5209::::::::::0|h[Gloom Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gloom-wand"
+    "uniqueName": "gloom-wand",
+    "speed": 1.8,
+    "dps": 14.4
   },
   {
     "itemId": 5210,
@@ -10329,7 +10847,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:5210::::::::::0|h[Burning Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "burning-wand"
+    "uniqueName": "burning-wand",
+    "speed": 1.4,
+    "dps": 17.5
   },
   {
     "itemId": 5211,
@@ -10365,7 +10885,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:5211::::::::::0|h[Dusk Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "dusk-wand"
+    "uniqueName": "dusk-wand",
+    "speed": 1.7,
+    "dps": 17.6
   },
   {
     "itemId": 5213,
@@ -10404,7 +10926,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:5213::::::::::0|h[Scorching Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "scorching-wand"
+    "uniqueName": "scorching-wand",
+    "speed": 1.3,
+    "dps": 28.8
   },
   {
     "itemId": 5214,
@@ -10443,7 +10967,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:5214::::::::::0|h[Wand of Eventide]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wand-of-eventide"
+    "uniqueName": "wand-of-eventide",
+    "speed": 1.3,
+    "dps": 25.8
   },
   {
     "itemId": 5216,
@@ -10482,7 +11008,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:5216::::::::::0|h[Umbral Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "umbral-wand"
+    "uniqueName": "umbral-wand",
+    "speed": 1.5,
+    "dps": 35.7
   },
   {
     "itemId": 5235,
@@ -10518,7 +11046,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:5235::::::::::0|h[Cultist's Firestick]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cultists-firestick"
+    "uniqueName": "cultists-firestick",
+    "speed": 1.8,
+    "dps": 4.4
   },
   {
     "itemId": 5236,
@@ -10554,7 +11084,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:5236::::::::::0|h[Combustible Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "combustible-wand"
+    "uniqueName": "combustible-wand",
+    "speed": 1.6,
+    "dps": 25.9
   },
   {
     "itemId": 5238,
@@ -10590,7 +11122,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:5238::::::::::0|h[Pitchwood Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "pitchwood-wand"
+    "uniqueName": "pitchwood-wand",
+    "speed": 1.7,
+    "dps": 34.7
   },
   {
     "itemId": 5239,
@@ -10626,7 +11160,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:5239::::::::::0|h[Blackbone Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blackbone-wand"
+    "uniqueName": "blackbone-wand",
+    "speed": 1.6,
+    "dps": 35.3
   },
   {
     "itemId": 5240,
@@ -10672,7 +11208,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5240::::::::::0|h[Torchlight Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "torchlight-wand"
+    "uniqueName": "torchlight-wand",
+    "speed": 1.3,
+    "dps": 15.8
   },
   {
     "itemId": 5245,
@@ -10711,7 +11249,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:5245::::::::::0|h[Summoner's Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "summoners-wand"
+    "uniqueName": "summoners-wand",
+    "speed": 1.8,
+    "dps": 28.1
   },
   {
     "itemId": 5247,
@@ -10757,7 +11297,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5247::::::::::0|h[Rod of Sorrow]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rod-of-sorrow"
+    "uniqueName": "rod-of-sorrow",
+    "speed": 1.9,
+    "dps": 31.8
   },
   {
     "itemId": 5252,
@@ -10803,7 +11345,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5252::::::::::0|h[Wand of Decay]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wand-of-decay"
+    "uniqueName": "wand-of-decay",
+    "speed": 1.5,
+    "dps": 15.7
   },
   {
     "itemId": 5253,
@@ -10849,7 +11393,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5253::::::::::0|h[Goblin Igniter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "goblin-igniter"
+    "uniqueName": "goblin-igniter",
+    "speed": 2,
+    "dps": 32.8
   },
   {
     "itemId": 5347,
@@ -10885,7 +11431,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:5347::::::::::0|h[Pestilent Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "pestilent-wand"
+    "uniqueName": "pestilent-wand",
+    "speed": 1.5,
+    "dps": 27
   },
   {
     "itemId": 5818,
@@ -10931,7 +11479,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:5818::::::::::0|h[Moonbeam Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "moonbeam-wand"
+    "uniqueName": "moonbeam-wand",
+    "speed": 1.8,
+    "dps": 24.2
   },
   {
     "itemId": 6230,
@@ -10964,7 +11514,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:6230::::::::::0|h[Monster - Wand, Basic]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-wand-basic"
+    "uniqueName": "monster-wand-basic",
+    "speed": 2,
+    "dps": 1
   },
   {
     "itemId": 6677,
@@ -11010,7 +11562,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:6677::::::::::0|h[Spellcrafter Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "spellcrafter-wand"
+    "uniqueName": "spellcrafter-wand",
+    "speed": 1.7,
+    "dps": 20.3
   },
   {
     "itemId": 7607,
@@ -11056,7 +11610,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:7607::::::::::0|h[Sable Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sable-wand"
+    "uniqueName": "sable-wand",
+    "speed": 1.8,
+    "dps": 16.9
   },
   {
     "itemId": 8071,
@@ -11102,7 +11658,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:8071::::::::::0|h[Sizzle Stick]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sizzle-stick"
+    "uniqueName": "sizzle-stick",
+    "speed": 1.7,
+    "dps": 17.6
   },
   {
     "itemId": 9489,
@@ -11144,7 +11702,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:9489::::::::::0|h[Gyromatic Icemaker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gyromatic-icemaker"
+    "uniqueName": "gyromatic-icemaker",
+    "speed": 1.4,
+    "dps": 25
   },
   {
     "itemId": 11287,
@@ -11183,7 +11743,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:11287::::::::::0|h[Lesser Magic Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lesser-magic-wand"
+    "uniqueName": "lesser-magic-wand",
+    "speed": 1.5,
+    "dps": 11.3
   },
   {
     "itemId": 11288,
@@ -11222,7 +11784,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:11288::::::::::0|h[Greater Magic Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "greater-magic-wand"
+    "uniqueName": "greater-magic-wand",
+    "speed": 1.8,
+    "dps": 17.5
   },
   {
     "itemId": 11289,
@@ -11261,7 +11825,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:11289::::::::::0|h[Lesser Mystic Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lesser-mystic-wand"
+    "uniqueName": "lesser-mystic-wand",
+    "speed": 1.3,
+    "dps": 25.4
   },
   {
     "itemId": 11290,
@@ -11300,7 +11866,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:11290::::::::::0|h[Greater Mystic Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "greater-mystic-wand"
+    "uniqueName": "greater-mystic-wand",
+    "speed": 2,
+    "dps": 29
   },
   {
     "itemId": 12296,
@@ -11346,7 +11914,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:12296::::::::::0|h[Spark of the People's Militia]|h|r",
     "contentPhase": 1,
-    "uniqueName": "spark-of-the-peoples-militia"
+    "uniqueName": "spark-of-the-peoples-militia",
+    "speed": 1.8,
+    "dps": 12.8
   },
   {
     "itemId": 12468,
@@ -11382,7 +11952,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12468::::::::::0|h[Chilton Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "chilton-wand"
+    "uniqueName": "chilton-wand",
+    "speed": 1.5,
+    "dps": 37.3
   },
   {
     "itemId": 13293,
@@ -11415,7 +11987,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13293::::::::::0|h[Monster - Wand, Horde Dark Skull]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-wand-horde-dark-skull"
+    "uniqueName": "monster-wand-horde-dark-skull",
+    "speed": 2,
+    "dps": 1
   },
   {
     "itemId": 15204,
@@ -11461,7 +12035,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:15204::::::::::0|h[Moonstone Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "moonstone-wand"
+    "uniqueName": "moonstone-wand",
+    "speed": 1.8,
+    "dps": 13.6
   },
   {
     "itemId": 15279,
@@ -11500,7 +12076,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15279::::::::::0|h[Ivory Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ivory-wand"
+    "uniqueName": "ivory-wand",
+    "speed": 1.4,
+    "dps": 42.1
   },
   {
     "itemId": 15280,
@@ -11539,7 +12117,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15280::::::::::0|h[Wizard's Hand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wizards-hand"
+    "uniqueName": "wizards-hand",
+    "speed": 1.8,
+    "dps": 44.4
   },
   {
     "itemId": 15283,
@@ -11578,7 +12158,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:15283::::::::::0|h[Lunar Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lunar-wand"
+    "uniqueName": "lunar-wand",
+    "speed": 1.7,
+    "dps": 56.8
   },
   {
     "itemId": 15465,
@@ -11624,7 +12206,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:15465::::::::::0|h[Stingshot Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stingshot-wand"
+    "uniqueName": "stingshot-wand",
+    "speed": 1.8,
+    "dps": 22.2
   },
   {
     "itemId": 15692,
@@ -11670,7 +12254,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:15692::::::::::0|h[Kodo Brander]|h|r",
     "contentPhase": 1,
-    "uniqueName": "kodo-brander"
+    "uniqueName": "kodo-brander",
+    "speed": 1.9,
+    "dps": 31.1
   },
   {
     "itemId": 16993,
@@ -11716,7 +12302,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:16993::::::::::0|h[Smokey's Fireshooter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "smokeys-fireshooter"
+    "uniqueName": "smokeys-fireshooter",
+    "speed": 1.9,
+    "dps": 53.2
   },
   {
     "itemId": 18301,
@@ -11755,7 +12343,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:18301::::::::::0|h[Lethtendris's Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lethtendriss-wand"
+    "uniqueName": "lethtendriss-wand",
+    "speed": 1.7,
+    "dps": 50.9
   },
   {
     "itemId": 19118,
@@ -11807,7 +12397,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:19118::::::::::0|h[Nature's Breath]|h|r",
     "contentPhase": 1,
-    "uniqueName": "natures-breath"
+    "uniqueName": "natures-breath",
+    "speed": 1.4,
+    "dps": 41.1
   },
   {
     "itemId": 41117,
@@ -11853,7 +12445,9 @@
     },
     "itemLink": "|cffffffff|Hitem:41117::::::::::0|h[Withered Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "withered-wand"
+    "uniqueName": "withered-wand",
+    "speed": 1.8,
+    "dps": 6.7
   },
   {
     "itemId": 51816,
@@ -11899,7 +12493,9 @@
     },
     "itemLink": "|cffffffff|Hitem:51816::::::::::0|h[Webwood Branch]|h|r",
     "contentPhase": 1,
-    "uniqueName": "webwood-branch"
+    "uniqueName": "webwood-branch",
+    "speed": 1.6,
+    "dps": 6.6
   },
   {
     "itemId": 51820,
@@ -11945,7 +12541,9 @@
     },
     "itemLink": "|cffffffff|Hitem:51820::::::::::0|h[Bhartec's Lost Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bhartecs-lost-wand"
+    "uniqueName": "bhartecs-lost-wand",
+    "speed": 1.7,
+    "dps": 6.5
   },
   {
     "itemId": 58009,
@@ -11984,7 +12582,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:58009::::::::::0|h[Quistis' Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "quistis-wand"
+    "uniqueName": "quistis-wand",
+    "speed": 1.5,
+    "dps": 31.3
   },
   {
     "itemId": 58026,
@@ -12036,7 +12636,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:58026::::::::::0|h[Rod of Stromgarde]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rod-of-stromgarde"
+    "uniqueName": "rod-of-stromgarde",
+    "speed": 2.1,
+    "dps": 26.9
   },
   {
     "itemId": 58277,
@@ -12088,7 +12690,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:58277::::::::::0|h[Lady Winter's Touch]|h|r",
     "contentPhase": 1,
-    "uniqueName": "lady-winters-touch"
+    "uniqueName": "lady-winters-touch",
+    "speed": 1.5,
+    "dps": 32.3
   },
   {
     "itemId": 61374,
@@ -12127,7 +12731,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:61374::::::::::0|h[Grungy Firestick]|h|r",
     "contentPhase": 1,
-    "uniqueName": "grungy-firestick"
+    "uniqueName": "grungy-firestick",
+    "speed": 1.8,
+    "dps": 7.8
   },
   {
     "itemId": 6231,
@@ -12160,7 +12766,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:6231::::::::::0|h[Monster - Wand, Jeweled - Green]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-wand-jeweled-green"
+    "uniqueName": "monster-wand-jeweled-green",
+    "speed": 2,
+    "dps": 1
   },
   {
     "itemId": 12941,
@@ -12193,7 +12801,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12941::::::::::0|h[Monster - Wand, Jeweled - B02 Red]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-wand-jeweled-b02-red"
+    "uniqueName": "monster-wand-jeweled-b02-red",
+    "speed": 2,
+    "dps": 1
   },
   {
     "itemId": 13290,
@@ -12226,7 +12836,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13290::::::::::0|h[Monster - Wand, Horde Purple Orb]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-wand-horde-purple-orb"
+    "uniqueName": "monster-wand-horde-purple-orb",
+    "speed": 2,
+    "dps": 1
   },
   {
     "itemId": 13291,
@@ -12259,7 +12871,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13291::::::::::0|h[Monster - Wand, Horde Red Feathered]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-wand-horde-red-feathered"
+    "uniqueName": "monster-wand-horde-red-feathered",
+    "speed": 2,
+    "dps": 1
   },
   {
     "itemId": 13292,
@@ -12292,7 +12906,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:13292::::::::::0|h[Monster - Wand, Horde Demon Skull]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-wand-horde-demon-skull"
+    "uniqueName": "monster-wand-horde-demon-skull",
+    "speed": 2,
+    "dps": 1
   },
   {
     "itemId": 16582,
@@ -12325,7 +12941,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:16582::::::::::0|h[Monster - Wand, Horde Green Feathered]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-wand-horde-green-feathered"
+    "uniqueName": "monster-wand-horde-green-feathered",
+    "speed": 2,
+    "dps": 1
   },
   {
     "itemId": 19983,
@@ -12358,7 +12976,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:19983::::::::::0|h[Monster - Wand, Horde Demon Skull Red]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-wand-horde-demon-skull-red"
+    "uniqueName": "monster-wand-horde-demon-skull-red",
+    "speed": 2,
+    "dps": 1
   },
   {
     "itemId": 6256,
@@ -12387,7 +13007,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:6256::::::::::0|h[Fishing Pole]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fishing-pole"
+    "uniqueName": "fishing-pole",
+    "speed": 3,
+    "dps": 1
   },
   {
     "itemId": 6365,
@@ -12419,7 +13041,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:6365::::::::::0|h[Strong Fishing Pole]|h|r",
     "contentPhase": 1,
-    "uniqueName": "strong-fishing-pole"
+    "uniqueName": "strong-fishing-pole",
+    "speed": 3,
+    "dps": 5.7
   },
   {
     "itemId": 6366,
@@ -12451,7 +13075,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:6366::::::::::0|h[Darkwood Fishing Pole]|h|r",
     "contentPhase": 1,
-    "uniqueName": "darkwood-fishing-pole"
+    "uniqueName": "darkwood-fishing-pole",
+    "speed": 3,
+    "dps": 11.8
   },
   {
     "itemId": 6367,
@@ -12483,7 +13109,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:6367::::::::::0|h[Big Iron Fishing Pole]|h|r",
     "contentPhase": 1,
-    "uniqueName": "big-iron-fishing-pole"
+    "uniqueName": "big-iron-fishing-pole",
+    "speed": 3,
+    "dps": 19
   },
   {
     "itemId": 7010,
@@ -12512,7 +13140,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:7010::::::::::0|h[Driftwood Fishing Pole]|h|r",
     "contentPhase": 1,
-    "uniqueName": "driftwood-fishing-pole"
+    "uniqueName": "driftwood-fishing-pole",
+    "speed": 3,
+    "dps": 1
   },
   {
     "itemId": 12225,
@@ -12554,7 +13184,9 @@
     },
     "itemLink": "|cffffffff|Hitem:12225::::::::::0|h[Blump Family Fishing Pole]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blump-family-fishing-pole"
+    "uniqueName": "blump-family-fishing-pole",
+    "speed": 3,
+    "dps": 5.7
   },
   {
     "itemId": 19022,
@@ -12596,7 +13228,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:19022::::::::::0|h[Nat Pagle's Extreme Angler FC-5000]|h|r",
     "contentPhase": 1,
-    "uniqueName": "nat-pagles-extreme-angler-fc-5000"
+    "uniqueName": "nat-pagles-extreme-angler-fc-5000",
+    "speed": 3,
+    "dps": 38.8
   },
   {
     "itemId": 19970,
@@ -12638,7 +13272,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:19970::::::::::0|h[Arcanite Fishing Pole]|h|r",
     "contentPhase": 1,
-    "uniqueName": "arcanite-fishing-pole"
+    "uniqueName": "arcanite-fishing-pole",
+    "speed": 3,
+    "dps": 17.5
   },
   {
     "itemId": 84507,
@@ -12673,7 +13309,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:84507::::::::::0|h[Barkskin Fisher]|h|r",
     "contentPhase": 1,
-    "uniqueName": "barkskin-fisher"
+    "uniqueName": "barkskin-fisher",
+    "speed": 2.5,
+    "dps": 45.8
   },
   {
     "itemId": 60864,
@@ -12722,7 +13360,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:60864::::::::::0|h[Half-O-Staff]|h|r",
     "contentPhase": 1,
-    "uniqueName": "half-o-staff"
+    "uniqueName": "half-o-staff",
+    "speed": 1.6,
+    "dps": 13.1
   },
   {
     "itemId": 20363,
@@ -12764,7 +13404,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:20363::::::::::0|h[63 Green Frost Wand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "63-green-frost-wand"
+    "uniqueName": "63-green-frost-wand",
+    "speed": 1.3,
+    "dps": 55.8
   },
   {
     "itemId": 58023,

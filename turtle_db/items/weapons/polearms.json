@@ -42,7 +42,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:7758::::::::::0|h[Ruthless Shiv]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ruthless-shiv"
+    "uniqueName": "ruthless-shiv",
+    "speed": 2.7,
+    "dps": 34.8
   },
   {
     "itemId": 7959,
@@ -81,7 +83,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:7959::::::::::0|h[Blight]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blight"
+    "uniqueName": "blight",
+    "speed": 2.7,
+    "dps": 43.3
   },
   {
     "itemId": 9416,
@@ -129,7 +133,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9416::::::::::0|h[Grimlok's Charge]|h|r",
     "contentPhase": 1,
-    "uniqueName": "grimloks-charge"
+    "uniqueName": "grimloks-charge",
+    "speed": 2.7,
+    "dps": 40.9
   },
   {
     "itemId": 9475,
@@ -168,7 +174,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9475::::::::::0|h[Diabolic Skiver]|h|r",
     "contentPhase": 1,
-    "uniqueName": "diabolic-skiver"
+    "uniqueName": "diabolic-skiver",
+    "speed": 2.9,
+    "dps": 42.8
   },
   {
     "itemId": 9480,
@@ -213,7 +221,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:9480::::::::::0|h[Eyegouger]|h|r",
     "contentPhase": 1,
-    "uniqueName": "eyegouger"
+    "uniqueName": "eyegouger",
+    "speed": 3,
+    "dps": 41.8
   },
   {
     "itemId": 11809,
@@ -252,7 +262,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:11809::::::::::0|h[Flame Wrath]|h|r",
     "contentPhase": 1,
-    "uniqueName": "flame-wrath"
+    "uniqueName": "flame-wrath",
+    "speed": 3.3,
+    "dps": 48.2
   },
   {
     "itemId": 12583,
@@ -291,7 +303,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12583::::::::::0|h[Blackhand Doomsaw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blackhand-doomsaw"
+    "uniqueName": "blackhand-doomsaw",
+    "speed": 3.5,
+    "dps": 54
   },
   {
     "itemId": 12989,
@@ -336,7 +350,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12989::::::::::0|h[Gargoyle's Bite]|h|r",
     "contentPhase": 1,
-    "uniqueName": "gargoyles-bite"
+    "uniqueName": "gargoyles-bite",
+    "speed": 2.9,
+    "dps": 19
   },
   {
     "itemId": 13054,
@@ -375,7 +391,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13054::::::::::0|h[Grim Reaper]|h|r",
     "contentPhase": 1,
-    "uniqueName": "grim-reaper"
+    "uniqueName": "grim-reaper",
+    "speed": 3.1,
+    "dps": 35.6
   },
   {
     "itemId": 13055,
@@ -420,7 +438,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13055::::::::::0|h[Bonechewer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bonechewer"
+    "uniqueName": "bonechewer",
+    "speed": 2.8,
+    "dps": 42
   },
   {
     "itemId": 13056,
@@ -459,7 +479,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13056::::::::::0|h[Frenzied Striker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "frenzied-striker"
+    "uniqueName": "frenzied-striker",
+    "speed": 2.8,
+    "dps": 48.2
   },
   {
     "itemId": 13057,
@@ -498,7 +520,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13057::::::::::0|h[Bloodpike]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bloodpike"
+    "uniqueName": "bloodpike",
+    "speed": 3.2,
+    "dps": 23.1
   },
   {
     "itemId": 13058,
@@ -543,7 +567,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13058::::::::::0|h[Khoo's Point]|h|r",
     "contentPhase": 1,
-    "uniqueName": "khoos-point"
+    "uniqueName": "khoos-point",
+    "speed": 2.5,
+    "dps": 38.8
   },
   {
     "itemId": 13148,
@@ -582,7 +608,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13148::::::::::0|h[Chillpike]|h|r",
     "contentPhase": 1,
-    "uniqueName": "chillpike"
+    "uniqueName": "chillpike",
+    "speed": 2.8,
+    "dps": 52.3
   },
   {
     "itemId": 17074,
@@ -621,7 +649,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:17074::::::::::0|h[Shadowstrike]|h|r",
     "contentPhase": 1,
-    "uniqueName": "shadowstrike"
+    "uniqueName": "shadowstrike",
+    "speed": 3.1,
+    "dps": 66.1
   },
   {
     "itemId": 17223,
@@ -660,7 +690,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:17223::::::::::0|h[Thunderstrike]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thunderstrike"
+    "uniqueName": "thunderstrike",
+    "speed": 3.1,
+    "dps": 66.1
   },
   {
     "itemId": 18502,
@@ -702,7 +734,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18502::::::::::0|h[Monstrous Glaive]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monstrous-glaive"
+    "uniqueName": "monstrous-glaive",
+    "speed": 2.9,
+    "dps": 53.1
   },
   {
     "itemId": 18725,
@@ -744,7 +778,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:18725::::::::::0|h[Peacemaker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "peacemaker"
+    "uniqueName": "peacemaker",
+    "speed": 3.4,
+    "dps": 50.4
   },
   {
     "itemId": 18869,
@@ -792,7 +828,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18869::::::::::0|h[Grand Marshal's Glaive]|h|r",
     "contentPhase": 1,
-    "uniqueName": "grand-marshals-glaive"
+    "uniqueName": "grand-marshals-glaive",
+    "speed": 3.8,
+    "dps": 84.5
   },
   {
     "itemId": 18871,
@@ -840,7 +878,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:18871::::::::::0|h[High Warlord's Pig Sticker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "high-warlords-pig-sticker"
+    "uniqueName": "high-warlords-pig-sticker",
+    "speed": 3.8,
+    "dps": 84.5
   },
   {
     "itemId": 19167,
@@ -891,7 +931,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19167::::::::::0|h[Blackfury]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blackfury"
+    "uniqueName": "blackfury",
+    "speed": 3.3,
+    "dps": 59.5
   },
   {
     "itemId": 19874,
@@ -930,7 +972,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:19874::::::::::0|h[Halberd of Smiting]|h|r",
     "contentPhase": 1,
-    "uniqueName": "halberd-of-smiting"
+    "uniqueName": "halberd-of-smiting",
+    "speed": 3.5,
+    "dps": 62.6
   },
   {
     "itemId": 19963,
@@ -972,7 +1016,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19963::::::::::0|h[Pitchfork of Madness]|h|r",
     "contentPhase": 1,
-    "uniqueName": "pitchfork-of-madness"
+    "uniqueName": "pitchfork-of-madness",
+    "speed": 3.5,
+    "dps": 58.4
   },
   {
     "itemId": 21635,
@@ -1020,7 +1066,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:21635::::::::::0|h[Barb of the Sand Reaver]|h|r",
     "contentPhase": 1,
-    "uniqueName": "barb-of-the-sand-reaver"
+    "uniqueName": "barb-of-the-sand-reaver",
+    "speed": 3.7,
+    "dps": 76.1
   },
   {
     "itemId": 22314,
@@ -1065,7 +1113,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:22314::::::::::0|h[Huntsman's Harpoon]|h|r",
     "contentPhase": 1,
-    "uniqueName": "huntsmans-harpoon"
+    "uniqueName": "huntsmans-harpoon",
+    "speed": 3.6,
+    "dps": 52.2
   },
   {
     "itemId": 23039,
@@ -1113,7 +1163,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:23039::::::::::0|h[The Eye of Nerub]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-eye-of-nerub"
+    "uniqueName": "the-eye-of-nerub",
+    "speed": 3.7,
+    "dps": 85
   },
   {
     "itemId": 41562,
@@ -1161,7 +1213,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:41562::::::::::0|h[Flamescale Pike]|h|r",
     "contentPhase": 1,
-    "uniqueName": "flamescale-pike"
+    "uniqueName": "flamescale-pike",
+    "speed": 3.1,
+    "dps": 29.2
   },
   {
     "itemId": 55381,
@@ -1200,7 +1254,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:55381::::::::::0|h[Phytolance]|h|r",
     "contentPhase": 1,
-    "uniqueName": "phytolance"
+    "uniqueName": "phytolance",
+    "speed": 3,
+    "dps": 19.5
   },
   {
     "itemId": 55495,
@@ -1245,7 +1301,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:55495::::::::::0|h[Zandalar Predator's Glaive]|h|r",
     "contentPhase": 1,
-    "uniqueName": "zandalar-predators-glaive"
+    "uniqueName": "zandalar-predators-glaive",
+    "speed": 3.5,
+    "dps": 62.6
   },
   {
     "itemId": 58058,
@@ -1290,7 +1348,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:58058::::::::::0|h[Harpoon of Ahab]|h|r",
     "contentPhase": 1,
-    "uniqueName": "harpoon-of-ahab"
+    "uniqueName": "harpoon-of-ahab",
+    "speed": 3.2,
+    "dps": 36.9
   },
   {
     "itemId": 60498,
@@ -1349,7 +1409,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:60498::::::::::0|h[Halberd of the Bronze Defender]|h|r",
     "contentPhase": 1,
-    "uniqueName": "halberd-of-the-bronze-defender"
+    "uniqueName": "halberd-of-the-bronze-defender",
+    "speed": 3.6,
+    "dps": 58.3
   },
   {
     "itemId": 60787,
@@ -1391,7 +1453,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:60787::::::::::0|h[Scythe of the Harvest]|h|r",
     "contentPhase": 1,
-    "uniqueName": "scythe-of-the-harvest"
+    "uniqueName": "scythe-of-the-harvest",
+    "speed": 2.7,
+    "dps": 45.4
   },
   {
     "itemId": 60818,
@@ -1440,7 +1504,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:60818::::::::::0|h[Garran's Pike]|h|r",
     "contentPhase": 1,
-    "uniqueName": "garrans-pike"
+    "uniqueName": "garrans-pike",
+    "speed": 3,
+    "dps": 40
   },
   {
     "itemId": 60951,
@@ -1492,7 +1558,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:60951::::::::::0|h[Krog's Pike]|h|r",
     "contentPhase": 1,
-    "uniqueName": "krogs-pike"
+    "uniqueName": "krogs-pike",
+    "speed": 3.2,
+    "dps": 40.2
   },
   {
     "itemId": 61534,
@@ -1537,7 +1605,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:61534::::::::::0|h[Fisher's Harpoon]|h|r",
     "contentPhase": 1,
-    "uniqueName": "fishers-harpoon"
+    "uniqueName": "fishers-harpoon",
+    "speed": 3.5,
+    "dps": 49.1
   },
   {
     "itemId": 61596,
@@ -1582,7 +1652,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:61596::::::::::0|h[Defender's Glaive]|h|r",
     "contentPhase": 1,
-    "uniqueName": "defenders-glaive"
+    "uniqueName": "defenders-glaive",
+    "speed": 2.5,
+    "dps": 41.2
   },
   {
     "itemId": 61650,
@@ -1640,7 +1712,9 @@
     },
     "itemLink": "|cffa335ee|Hitem:61650::::::::::0|h[Jadestone Skewer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "jadestone-skewer"
+    "uniqueName": "jadestone-skewer",
+    "speed": 3.1,
+    "dps": 72.9
   },
   {
     "itemId": 80638,
@@ -1688,7 +1762,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:80638::::::::::0|h[Revantusk Shadow Hunter's Striker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "revantusk-shadow-hunters-striker"
+    "uniqueName": "revantusk-shadow-hunters-striker",
+    "speed": 3.4,
+    "dps": 55.7
   },
   {
     "itemId": 81369,
@@ -1739,7 +1815,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:81369::::::::::0|h[Blade of the Blademaster]|h|r",
     "contentPhase": 1,
-    "uniqueName": "blade-of-the-blademaster"
+    "uniqueName": "blade-of-the-blademaster",
+    "speed": 2.9,
+    "dps": 60.2
   },
   {
     "itemId": 83461,
@@ -1787,7 +1865,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:83461::::::::::0|h[Cryptkeeper's Pike]|h|r",
     "contentPhase": 1,
-    "uniqueName": "cryptkeepers-pike"
+    "uniqueName": "cryptkeepers-pike",
+    "speed": 3.7,
+    "dps": 54.7
   },
   {
     "itemId": 83562,
@@ -1826,7 +1906,9 @@
     ],
     "itemLink": "|cffa335ee|Hitem:83562::::::::::0|h[Skaldrenox's Rage]|h|r",
     "contentPhase": 1,
-    "uniqueName": "skaldrenoxs-rage"
+    "uniqueName": "skaldrenoxs-rage",
+    "speed": 3.8,
+    "dps": 64.6
   },
   {
     "itemId": 1485,
@@ -1862,7 +1944,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:1485::::::::::0|h[Pitchfork]|h|r",
     "contentPhase": 1,
-    "uniqueName": "pitchfork"
+    "uniqueName": "pitchfork",
+    "speed": 3.7,
+    "dps": 10
   },
   {
     "itemId": 3346,
@@ -1925,7 +2009,9 @@
     ],
     "itemLink": "|cffffffff|Hitem:3367::::::::::0|h[Farmer's Pitchfork]|h|r",
     "contentPhase": 1,
-    "uniqueName": "farmers-pitchfork"
+    "uniqueName": "farmers-pitchfork",
+    "speed": 1.7,
+    "dps": 3.5
   },
   {
     "itemId": 3432,
@@ -1958,7 +2044,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:3432::::::::::0|h[Monster - Glaive - 1 Blade Basic]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-glaive-1-blade-basic"
+    "uniqueName": "monster-glaive-1-blade-basic",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 5200,
@@ -2000,7 +2088,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:5200::::::::::0|h[Impaling Harpoon]|h|r",
     "contentPhase": 1,
-    "uniqueName": "impaling-harpoon"
+    "uniqueName": "impaling-harpoon",
+    "speed": 2.4,
+    "dps": 14.4
   },
   {
     "itemId": 5745,
@@ -2033,7 +2123,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5745::::::::::0|h[Monster - Trident, Wood Handle]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-trident-wood-handle"
+    "uniqueName": "monster-trident-wood-handle",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 5746,
@@ -2066,7 +2158,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5746::::::::::0|h[Monster - Trident, Copper]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-trident-copper"
+    "uniqueName": "monster-trident-copper",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 5747,
@@ -2099,7 +2193,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:5747::::::::::0|h[Monster - Trident, Ornate]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-trident-ornate"
+    "uniqueName": "monster-trident-ornate",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 6679,
@@ -2141,7 +2237,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:6679::::::::::0|h[Armor Piercer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "armor-piercer"
+    "uniqueName": "armor-piercer",
+    "speed": 2.6,
+    "dps": 19.8
   },
   {
     "itemId": 11838,
@@ -2174,7 +2272,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:11838::::::::::0|h[Monster - Trident, Flame Wrath]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-trident-flame-wrath"
+    "uniqueName": "monster-trident-flame-wrath",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 12063,
@@ -2210,7 +2310,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12063::::::::::0|h[Monster - Trident, Wicked]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-trident-wicked"
+    "uniqueName": "monster-trident-wicked",
+    "speed": 3,
+    "dps": 1
   },
   {
     "itemId": 12243,
@@ -2252,7 +2354,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:12243::::::::::0|h[Smoldering Claw]|h|r",
     "contentPhase": 1,
-    "uniqueName": "smoldering-claw"
+    "uniqueName": "smoldering-claw",
+    "speed": 2.9,
+    "dps": 46.6
   },
   {
     "itemId": 12338,
@@ -2285,7 +2389,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12338::::::::::0|h[Monster - Polearm, Rend Blackhand]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-polearm-rend-blackhand"
+    "uniqueName": "monster-polearm-rend-blackhand",
+    "speed": 1.7,
+    "dps": 0.9
   },
   {
     "itemId": 12403,
@@ -2318,7 +2424,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:12403::::::::::0|h[Monster - Polearm, Black]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-polearm-black"
+    "uniqueName": "monster-polearm-black",
+    "speed": 1.7,
+    "dps": 0.9
   },
   {
     "itemId": 13059,
@@ -2369,7 +2477,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13059::::::::::0|h[Stoneraven]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stoneraven"
+    "uniqueName": "stoneraven",
+    "speed": 3.3,
+    "dps": 44.8
   },
   {
     "itemId": 13060,
@@ -2408,7 +2518,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:13060::::::::::0|h[The Needler]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-needler"
+    "uniqueName": "the-needler",
+    "speed": 2.2,
+    "dps": 51.4
   },
   {
     "itemId": 14879,
@@ -2441,7 +2553,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:14879::::::::::0|h[Monster - Polearm, Blademaster]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-polearm-blademaster"
+    "uniqueName": "monster-polearm-blademaster",
+    "speed": 1.7,
+    "dps": 0.9
   },
   {
     "itemId": 15910,
@@ -2474,7 +2588,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:15910::::::::::0|h[Monster - Trident, Dark Ornate]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-trident-dark-ornate"
+    "uniqueName": "monster-trident-dark-ornate",
+    "speed": 2,
+    "dps": 0.8
   },
   {
     "itemId": 19946,
@@ -2522,7 +2638,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:19946::::::::::0|h[Tigule's Harpoon]|h|r",
     "contentPhase": 1,
-    "uniqueName": "tigules-harpoon"
+    "uniqueName": "tigules-harpoon",
+    "speed": 3.3,
+    "dps": 58.5
   },
   {
     "itemId": 20412,
@@ -2555,7 +2673,9 @@
     ],
     "itemLink": "|cff9d9d9d|Hitem:20412::::::::::0|h[Monster - Polearm, PVPAlliance_A01]|h|r",
     "contentPhase": 1,
-    "uniqueName": "monster-polearm-pvpalliance-a01"
+    "uniqueName": "monster-polearm-pvpalliance-a01",
+    "speed": 1.7,
+    "dps": 0.9
   },
   {
     "itemId": 20660,
@@ -2600,7 +2720,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:20660::::::::::0|h[Stonecutting Glaive]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stonecutting-glaive"
+    "uniqueName": "stonecutting-glaive",
+    "speed": 3.7,
+    "dps": 51.4
   },
   {
     "itemId": 40080,
@@ -2649,7 +2771,9 @@
     },
     "itemLink": "|cff0070dd|Hitem:40080::::::::::0|h[Thunderforge Lance]|h|r",
     "contentPhase": 1,
-    "uniqueName": "thunderforge-lance"
+    "uniqueName": "thunderforge-lance",
+    "speed": 3.5,
+    "dps": 47
   },
   {
     "itemId": 51790,
@@ -2688,7 +2812,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:51790::::::::::0|h[Stormpike]|h|r",
     "contentPhase": 1,
-    "uniqueName": "stormpike"
+    "uniqueName": "stormpike",
+    "speed": 3.2,
+    "dps": 21.3
   },
   {
     "itemId": 58037,
@@ -2747,7 +2873,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:58037::::::::::0|h[Ozuk's Piercer]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ozuks-piercer"
+    "uniqueName": "ozuks-piercer",
+    "speed": 3.1,
+    "dps": 24.7
   },
   {
     "itemId": 58098,
@@ -2792,7 +2920,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:58098::::::::::0|h[The Chainsplitter]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-chainsplitter"
+    "uniqueName": "the-chainsplitter",
+    "speed": 3.6,
+    "dps": 29
   },
   {
     "itemId": 58263,
@@ -2845,7 +2975,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:58263::::::::::0|h[Wolfbrother]|h|r",
     "contentPhase": 1,
-    "uniqueName": "wolfbrother"
+    "uniqueName": "wolfbrother",
+    "speed": 2.8,
+    "dps": 22.3
   },
   {
     "itemId": 60138,
@@ -2897,7 +3029,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:60138::::::::::0|h[Rethress Myrmidon Trident]|h|r",
     "contentPhase": 1,
-    "uniqueName": "rethress-myrmidon-trident"
+    "uniqueName": "rethress-myrmidon-trident",
+    "speed": 3.2,
+    "dps": 46.6
   },
   {
     "itemId": 60413,
@@ -2939,7 +3073,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:60413::::::::::0|h[The Cruel Blade]|h|r",
     "contentPhase": 1,
-    "uniqueName": "the-cruel-blade"
+    "uniqueName": "the-cruel-blade",
+    "speed": 2.6,
+    "dps": 55.6
   },
   {
     "itemId": 60475,
@@ -2991,7 +3127,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:60475::::::::::0|h[Bronze Naga Trident]|h|r",
     "contentPhase": 1,
-    "uniqueName": "bronze-naga-trident"
+    "uniqueName": "bronze-naga-trident",
+    "speed": 3.2,
+    "dps": 30.3
   },
   {
     "itemId": 60656,
@@ -3043,7 +3181,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:60656::::::::::0|h[Livingstone Pitchfork]|h|r",
     "contentPhase": 1,
-    "uniqueName": "livingstone-pitchfork"
+    "uniqueName": "livingstone-pitchfork",
+    "speed": 2.9,
+    "dps": 25.5
   },
   {
     "itemId": 61595,
@@ -3088,7 +3228,9 @@
     ],
     "itemLink": "|cff0070dd|Hitem:61595::::::::::0|h[Sharpened Iron Bar]|h|r",
     "contentPhase": 1,
-    "uniqueName": "sharpened-iron-bar"
+    "uniqueName": "sharpened-iron-bar",
+    "speed": 3.6,
+    "dps": 53.9
   },
   {
     "itemId": 61610,
@@ -3133,7 +3275,9 @@
     ],
     "itemLink": "|cff1eff00|Hitem:61610::::::::::0|h[Old Farmer's Pitchfork]|h|r",
     "contentPhase": 1,
-    "uniqueName": "old-farmers-pitchfork"
+    "uniqueName": "old-farmers-pitchfork",
+    "speed": 3.7,
+    "dps": 36.4
   },
   {
     "itemId": 61621,
@@ -3188,7 +3332,9 @@
     },
     "itemLink": "|cff1eff00|Hitem:61621::::::::::0|h[Ceremonial Gilnean Pike]|h|r",
     "contentPhase": 1,
-    "uniqueName": "ceremonial-gilnean-pike"
+    "uniqueName": "ceremonial-gilnean-pike",
+    "speed": 2.8,
+    "dps": 38.6
   },
   {
     "itemId": 80705,
@@ -3230,6 +3376,8 @@
     ],
     "itemLink": "|cff1eff00|Hitem:80705::::::::::0|h[Satyr Poker]|h|r",
     "contentPhase": 1,
-    "uniqueName": "satyr-poker"
+    "uniqueName": "satyr-poker",
+    "speed": 3.1,
+    "dps": 11.3
   }
 ]
