@@ -1,0 +1,20 @@
+{
+  "subcategories": {
+    "2.0": {
+      "processed_count": 6,
+      "failed_count": 5,
+      "last_processed_id": 7786,
+      "complete": false,
+      "total_items": 214
+    }
+  },
+  "start_time": "2025-11-21T02:11:00.205Z",
+  "last_updated": "2025-11-21T02:48:37.083Z",
+  "failed_items": [
+    1481,
+    2807,
+    2815,
+    2878,
+    6692
+  ]
+}

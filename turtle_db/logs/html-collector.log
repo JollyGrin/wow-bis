@@ -1,0 +1,93 @@
+[2025-11-21T02:10:59.365Z] 🚀 Initializing browser with anti-detection...
+[2025-11-21T02:11:00.204Z] ✅ Browser initialized with stealth mode
+[2025-11-21T02:11:00.204Z] 
+🚀 Starting HTML Collection
+
+[2025-11-21T02:11:00.204Z] 📋 Processing 55 subcategories
+[2025-11-21T02:11:00.205Z] 📁 Loaded 214 IDs from turtle_db/items-2.0.json
+[2025-11-21T02:11:00.205Z] 
+🎯 Processing 1h-axes (2.0)
+[2025-11-21T02:11:00.205Z] 📊 Total IDs to process: 214
+[2025-11-21T02:11:00.205Z] 📦 Already collected: 0
+[2025-11-21T02:11:00.205Z] ⏳ Remaining to process: 214
+[2025-11-21T02:11:00.205Z] 🔍 Processing 1h-axes item 811 (1/214)
+[2025-11-21T02:11:03.193Z] ✅ Collected HTML for item 811
+[2025-11-21T02:11:05.195Z] 🔍 Processing 1h-axes item 871 (2/214)
+[2025-11-21T02:11:08.289Z] ✅ Collected HTML for item 871
+[2025-11-21T02:11:16.284Z] 🚀 Initializing browser with anti-detection...
+[2025-11-21T02:11:16.592Z] ✅ Browser initialized with stealth mode
+[2025-11-21T02:11:16.592Z] 
+🚀 Starting HTML Collection
+
+[2025-11-21T02:11:16.593Z] 📋 Processing 55 subcategories
+[2025-11-21T02:11:16.593Z] 📁 Loaded 214 IDs from turtle_db/items-2.0.json
+[2025-11-21T02:11:16.593Z] 
+🎯 Processing 1h-axes (2.0)
+[2025-11-21T02:11:16.593Z] 📊 Total IDs to process: 214
+[2025-11-21T02:11:16.593Z] 📦 Already collected: 2
+[2025-11-21T02:11:16.593Z] ⏳ Remaining to process: 212
+[2025-11-21T02:11:16.593Z] 🔍 Processing 1h-axes item 1292 (3/214)
+[2025-11-21T02:11:19.589Z] ✅ Collected HTML for item 1292
+[2025-11-21T02:11:21.591Z] 🔍 Processing 1h-axes item 1454 (4/214)
+[2025-11-21T02:11:25.432Z] ⏳ Cloudflare protection detected for item 1454, waiting...
+[2025-11-21T02:18:16.848Z] 🚀 Initializing browser with anti-detection...
+[2025-11-21T02:18:17.249Z] ✅ Browser initialized with stealth mode
+[2025-11-21T02:18:17.249Z] 
+🚀 Starting HTML Collection
+
+[2025-11-21T02:18:17.249Z] 📋 Processing 55 subcategories
+[2025-11-21T02:18:17.250Z] 📁 Loaded 214 IDs from turtle_db/items-2.0.json
+[2025-11-21T02:18:17.250Z] 
+🎯 Processing 1h-axes (2.0)
+[2025-11-21T02:18:17.250Z] 📊 Total IDs to process: 214
+[2025-11-21T02:18:17.250Z] 📦 Already collected: 3
+[2025-11-21T02:18:17.250Z] ⏳ Remaining to process: 211
+[2025-11-21T02:18:17.250Z] 🔍 Processing 1h-axes item 1454 (4/214)
+[2025-11-21T02:18:21.901Z] ✅ Collected HTML for item 1454
+[2025-11-21T02:18:23.903Z] 🔍 Processing 1h-axes item 1481 (5/214)
+[2025-11-21T02:18:28.656Z] ⏳ Cloudflare protection detected for item 1481, waiting...
+[2025-11-21T02:18:58.660Z] ❌ Cloudflare timeout for item 1481
+[2025-11-21T02:19:00.664Z] 🔍 Processing 1h-axes item 2044 (6/214)
+[2025-11-21T02:19:05.322Z] ⏳ Cloudflare protection detected for item 2044, waiting...
+[2025-11-21T02:21:11.317Z] 🚀 Initializing browser with anti-detection...
+[2025-11-21T02:21:11.723Z] ✅ Browser initialized with stealth mode
+[2025-11-21T02:21:11.724Z] 
+🚀 Starting HTML Collection
+
+[2025-11-21T02:21:11.724Z] 📋 Processing 55 subcategories
+[2025-11-21T02:21:11.724Z] 📁 Loaded 214 IDs from turtle_db/items-2.0.json
+[2025-11-21T02:21:11.724Z] 
+🎯 Processing 1h-axes (2.0)
+[2025-11-21T02:21:11.724Z] 📊 Total IDs to process: 214
+[2025-11-21T02:21:11.724Z] 📦 Already collected: 4
+[2025-11-21T02:21:11.724Z] ⏳ Remaining to process: 209
+[2025-11-21T02:21:11.724Z] 🔍 Processing 1h-axes item 2044 (5/214)
+[2025-11-21T02:21:15.721Z] ✅ Collected HTML for item 2044
+[2025-11-21T02:21:17.722Z] 🔍 Processing 1h-axes item 2807 (6/214)
+[2025-11-21T02:21:22.477Z] ⏳ Cloudflare protection detected for item 2807, waiting...
+[2025-11-21T02:21:32.480Z] ⚠️ No main-contents found for item 2807
+[2025-11-21T02:21:34.483Z] 🔍 Processing 1h-axes item 2815 (7/214)
+[2025-11-21T02:21:39.190Z] ⏳ Cloudflare protection detected for item 2815, waiting...
+[2025-11-21T02:21:49.194Z] ⚠️ No main-contents found for item 2815
+[2025-11-21T02:21:51.195Z] 🔍 Processing 1h-axes item 2878 (8/214)
+[2025-11-21T02:21:55.848Z] ⏳ Cloudflare protection detected for item 2878, waiting...
+[2025-11-21T02:22:05.851Z] ⚠️ No main-contents found for item 2878
+[2025-11-21T02:22:07.853Z] 🔍 Processing 1h-axes item 6692 (9/214)
+[2025-11-21T02:22:12.524Z] ⏳ Cloudflare protection detected for item 6692, waiting...
+[2025-11-21T02:22:22.528Z] ⚠️ No main-contents found for item 6692
+[2025-11-21T02:48:32.706Z] 🚀 Initializing browser with anti-detection...
+[2025-11-21T02:48:33.080Z] ✅ Browser initialized with stealth mode
+[2025-11-21T02:48:33.081Z] 
+🚀 Starting HTML Collection
+
+[2025-11-21T02:48:33.081Z] 📋 Processing 55 subcategories
+[2025-11-21T02:48:33.081Z] 📁 Loaded 214 IDs from turtle_db/items-2.0.json
+[2025-11-21T02:48:33.081Z] 
+🎯 Processing 1h-axes (2.0)
+[2025-11-21T02:48:33.081Z] 📊 Total IDs to process: 214
+[2025-11-21T02:48:33.082Z] 📦 Already collected: 5
+[2025-11-21T02:48:33.082Z] ⏳ Remaining to process: 204
+[2025-11-21T02:48:33.082Z] 🔍 Processing 1h-axes item 7786 (6/214)
+[2025-11-21T02:48:37.082Z] ✅ Collected HTML for item 7786
+[2025-11-21T02:48:38.572Z] 🔍 Processing 1h-axes item 9465 (7/214)
+[2025-11-21T02:48:43.353Z] ⏳ Cloudflare protection detected for item 9465, waiting...
