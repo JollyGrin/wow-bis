@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2025-10-21T21:53:32.425Z",
+  "extraction_date": "2025-11-21T03:19:46.527Z",
   "weapons": {
     "subcategories": 18,
     "total_ids": 2850
@@ -224,176 +224,176 @@
       "subcategory_id": "4.1.10",
       "name": "cloth-hands",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 320
     },
     {
       "subcategory_id": "4.2.1",
       "name": "leather-head",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 195
     },
     {
       "subcategory_id": "4.2.3",
       "name": "leather-shoulder",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 202
     },
     {
       "subcategory_id": "4.2.5",
       "name": "leather-chest",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 292
     },
     {
       "subcategory_id": "4.2.6",
       "name": "leather-waist",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 272
     },
     {
       "subcategory_id": "4.2.7",
       "name": "leather-legs",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 270
     },
     {
       "subcategory_id": "4.2.8",
       "name": "leather-feet",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 297
     },
     {
       "subcategory_id": "4.2.9",
       "name": "leather-wrist",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 229
     },
     {
       "subcategory_id": "4.2.10",
       "name": "leather-hands",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 290
     },
     {
       "subcategory_id": "4.3.1",
       "name": "mail-head",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 158
     },
     {
       "subcategory_id": "4.3.3",
       "name": "mail-shoulder",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 181
     },
     {
       "subcategory_id": "4.3.5",
       "name": "mail-chest",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 270
     },
     {
       "subcategory_id": "4.3.6",
       "name": "mail-waist",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 224
     },
     {
       "subcategory_id": "4.3.7",
       "name": "mail-legs",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 235
     },
     {
       "subcategory_id": "4.3.8",
       "name": "mail-feet",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 237
     },
     {
       "subcategory_id": "4.3.9",
       "name": "mail-wrist",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 208
     },
     {
       "subcategory_id": "4.3.10",
       "name": "mail-hands",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 233
     },
     {
       "subcategory_id": "4.4.1",
       "name": "plate-head",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 141
     },
     {
       "subcategory_id": "4.4.3",
       "name": "plate-shoulder",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 146
     },
     {
       "subcategory_id": "4.4.5",
       "name": "plate-chest",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 132
     },
     {
       "subcategory_id": "4.4.6",
       "name": "plate-waist",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 129
     },
     {
       "subcategory_id": "4.4.7",
       "name": "plate-legs",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 147
     },
     {
       "subcategory_id": "4.4.8",
       "name": "plate-feet",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 155
     },
     {
       "subcategory_id": "4.4.9",
       "name": "plate-wrist",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 118
     },
     {
       "subcategory_id": "4.4.10",
       "name": "plate-hands",
       "type": "armor",
-      "complete": false,
-      "total_ids": 0
+      "complete": true,
+      "total_ids": 135
     }
   ]
 }

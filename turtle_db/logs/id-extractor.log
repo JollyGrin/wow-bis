@@ -3008,3 +3008,129 @@
 [2025-10-21T21:53:32.425Z]    Total: 12576 IDs
 [2025-10-21T21:53:32.425Z] 📋 Summary saved to turtle_db/extraction-summary.json
 [2025-10-21T21:53:32.496Z] 🔒 Browser closed
+[2025-11-21T03:19:46.149Z] 🚀 Initializing browser with anti-detection...
+[2025-11-21T03:19:46.523Z] ✅ Browser initialized with stealth mode
+[2025-11-21T03:19:46.523Z] 
+🚀 Starting Item ID Extraction
+
+[2025-11-21T03:19:46.524Z] 📋 Processing 55 subcategories:
+[2025-11-21T03:19:46.524Z]    ✅ 1h-axes (2.0)
+[2025-11-21T03:19:46.524Z]    ✅ 2h-axes (2.1)
+[2025-11-21T03:19:46.524Z]    ✅ bows (2.2)
+[2025-11-21T03:19:46.524Z]    ✅ guns (2.3)
+[2025-11-21T03:19:46.524Z]    ✅ 1h-maces (2.4)
+[2025-11-21T03:19:46.524Z]    ✅ 2h-maces (2.5)
+[2025-11-21T03:19:46.524Z]    ✅ polearms (2.6)
+[2025-11-21T03:19:46.524Z]    ✅ 1h-swords (2.7)
+[2025-11-21T03:19:46.524Z]    ✅ 2h-swords (2.8)
+[2025-11-21T03:19:46.524Z]    ✅ staves (2.10)
+[2025-11-21T03:19:46.524Z]    ✅ fist (2.13)
+[2025-11-21T03:19:46.524Z]    ✅ miscellaneous (2.14)
+[2025-11-21T03:19:46.524Z]    ✅ daggers (2.15)
+[2025-11-21T03:19:46.524Z]    ✅ thrown (2.16)
+[2025-11-21T03:19:46.524Z]    ✅ spears (2.17)
+[2025-11-21T03:19:46.524Z]    ✅ crossbows (2.18)
+[2025-11-21T03:19:46.524Z]    ✅ wands (2.19)
+[2025-11-21T03:19:46.524Z]    ✅ fishing-poles (2.20)
+[2025-11-21T03:19:46.524Z]    ✅ amulets (4.0.2)
+[2025-11-21T03:19:46.524Z]    ✅ rings (4.0.11)
+[2025-11-21T03:19:46.524Z]    ✅ trinkets (4.0.12)
+[2025-11-21T03:19:46.524Z]    ✅ cloaks (4.1.16)
+[2025-11-21T03:19:46.524Z]    ✅ shields (4.6.14)
+[2025-11-21T03:19:46.524Z]    ✅ cloth-head (4.1.1)
+[2025-11-21T03:19:46.524Z]    ✅ cloth-shoulder (4.1.3)
+[2025-11-21T03:19:46.524Z]    ✅ cloth-chest (4.1.5)
+[2025-11-21T03:19:46.524Z]    ✅ cloth-waist (4.1.6)
+[2025-11-21T03:19:46.524Z]    ✅ cloth-legs (4.1.7)
+[2025-11-21T03:19:46.524Z]    ✅ cloth-feet (4.1.8)
+[2025-11-21T03:19:46.525Z]    ✅ cloth-wrist (4.1.9)
+[2025-11-21T03:19:46.525Z]    ✅ cloth-hands (4.1.10)
+[2025-11-21T03:19:46.525Z]    ✅ leather-head (4.2.1)
+[2025-11-21T03:19:46.525Z]    ✅ leather-shoulder (4.2.3)
+[2025-11-21T03:19:46.525Z]    ✅ leather-chest (4.2.5)
+[2025-11-21T03:19:46.525Z]    ✅ leather-waist (4.2.6)
+[2025-11-21T03:19:46.525Z]    ✅ leather-legs (4.2.7)
+[2025-11-21T03:19:46.525Z]    ✅ leather-feet (4.2.8)
+[2025-11-21T03:19:46.525Z]    ✅ leather-wrist (4.2.9)
+[2025-11-21T03:19:46.525Z]    ✅ leather-hands (4.2.10)
+[2025-11-21T03:19:46.525Z]    ✅ mail-head (4.3.1)
+[2025-11-21T03:19:46.525Z]    ✅ mail-shoulder (4.3.3)
+[2025-11-21T03:19:46.525Z]    ✅ mail-chest (4.3.5)
+[2025-11-21T03:19:46.525Z]    ✅ mail-waist (4.3.6)
+[2025-11-21T03:19:46.525Z]    ✅ mail-legs (4.3.7)
+[2025-11-21T03:19:46.525Z]    ✅ mail-feet (4.3.8)
+[2025-11-21T03:19:46.525Z]    ✅ mail-wrist (4.3.9)
+[2025-11-21T03:19:46.525Z]    ✅ mail-hands (4.3.10)
+[2025-11-21T03:19:46.525Z]    ✅ plate-head (4.4.1)
+[2025-11-21T03:19:46.525Z]    ✅ plate-shoulder (4.4.3)
+[2025-11-21T03:19:46.525Z]    ✅ plate-chest (4.4.5)
+[2025-11-21T03:19:46.525Z]    ✅ plate-waist (4.4.6)
+[2025-11-21T03:19:46.525Z]    ✅ plate-legs (4.4.7)
+[2025-11-21T03:19:46.525Z]    ✅ plate-feet (4.4.8)
+[2025-11-21T03:19:46.525Z]    ✅ plate-wrist (4.4.9)
+[2025-11-21T03:19:46.525Z]    ✅ plate-hands (4.4.10)
+[2025-11-21T03:19:46.525Z] 
+📊 Summary: Weapons 18/18, Armor 37/37
+[2025-11-21T03:19:46.525Z] ✅ 1h-axes (2.0) already complete: 214 IDs
+[2025-11-21T03:19:46.525Z] ✅ 2h-axes (2.1) already complete: 168 IDs
+[2025-11-21T03:19:46.525Z] ✅ bows (2.2) already complete: 143 IDs
+[2025-11-21T03:19:46.526Z] ✅ guns (2.3) already complete: 122 IDs
+[2025-11-21T03:19:46.526Z] ✅ 1h-maces (2.4) already complete: 314 IDs
+[2025-11-21T03:19:46.526Z] ✅ 2h-maces (2.5) already complete: 203 IDs
+[2025-11-21T03:19:46.526Z] ✅ polearms (2.6) already complete: 101 IDs
+[2025-11-21T03:19:46.526Z] ✅ 1h-swords (2.7) already complete: 340 IDs
+[2025-11-21T03:19:46.526Z] ✅ 2h-swords (2.8) already complete: 196 IDs
+[2025-11-21T03:19:46.526Z] ✅ staves (2.10) already complete: 347 IDs
+[2025-11-21T03:19:46.526Z] ✅ fist (2.13) already complete: 74 IDs
+[2025-11-21T03:19:46.526Z] ✅ miscellaneous (2.14) already complete: 82 IDs
+[2025-11-21T03:19:46.526Z] ✅ daggers (2.15) already complete: 318 IDs
+[2025-11-21T03:19:46.526Z] ✅ thrown (2.16) already complete: 28 IDs
+[2025-11-21T03:19:46.526Z] ✅ spears (2.17) already complete: 2 IDs
+[2025-11-21T03:19:46.526Z] ✅ crossbows (2.18) already complete: 32 IDs
+[2025-11-21T03:19:46.526Z] ✅ wands (2.19) already complete: 157 IDs
+[2025-11-21T03:19:46.526Z] ✅ fishing-poles (2.20) already complete: 9 IDs
+[2025-11-21T03:19:46.526Z] ✅ amulets (4.0.2) already complete: 402 IDs
+[2025-11-21T03:19:46.526Z] ✅ rings (4.0.11) already complete: 500 IDs
+[2025-11-21T03:19:46.526Z] ✅ trinkets (4.0.12) already complete: 357 IDs
+[2025-11-21T03:19:46.526Z] ✅ cloaks (4.1.16) already complete: 498 IDs
+[2025-11-21T03:19:46.526Z] ✅ shields (4.6.14) already complete: 426 IDs
+[2025-11-21T03:19:46.526Z] ✅ cloth-head (4.1.1) already complete: 364 IDs
+[2025-11-21T03:19:46.526Z] ✅ cloth-shoulder (4.1.3) already complete: 258 IDs
+[2025-11-21T03:19:46.526Z] ✅ cloth-chest (4.1.5) already complete: 417 IDs
+[2025-11-21T03:19:46.526Z] ✅ cloth-waist (4.1.6) already complete: 284 IDs
+[2025-11-21T03:19:46.526Z] ✅ cloth-legs (4.1.7) already complete: 377 IDs
+[2025-11-21T03:19:46.526Z] ✅ cloth-feet (4.1.8) already complete: 362 IDs
+[2025-11-21T03:19:46.526Z] ✅ cloth-wrist (4.1.9) already complete: 265 IDs
+[2025-11-21T03:19:46.526Z] ✅ cloth-hands (4.1.10) already complete: 320 IDs
+[2025-11-21T03:19:46.526Z] ✅ leather-head (4.2.1) already complete: 195 IDs
+[2025-11-21T03:19:46.526Z] ✅ leather-shoulder (4.2.3) already complete: 202 IDs
+[2025-11-21T03:19:46.526Z] ✅ leather-chest (4.2.5) already complete: 292 IDs
+[2025-11-21T03:19:46.526Z] ✅ leather-waist (4.2.6) already complete: 272 IDs
+[2025-11-21T03:19:46.526Z] ✅ leather-legs (4.2.7) already complete: 270 IDs
+[2025-11-21T03:19:46.526Z] ✅ leather-feet (4.2.8) already complete: 297 IDs
+[2025-11-21T03:19:46.526Z] ✅ leather-wrist (4.2.9) already complete: 229 IDs
+[2025-11-21T03:19:46.526Z] ✅ leather-hands (4.2.10) already complete: 290 IDs
+[2025-11-21T03:19:46.527Z] ✅ mail-head (4.3.1) already complete: 158 IDs
+[2025-11-21T03:19:46.527Z] ✅ mail-shoulder (4.3.3) already complete: 181 IDs
+[2025-11-21T03:19:46.527Z] ✅ mail-chest (4.3.5) already complete: 270 IDs
+[2025-11-21T03:19:46.527Z] ✅ mail-waist (4.3.6) already complete: 224 IDs
+[2025-11-21T03:19:46.527Z] ✅ mail-legs (4.3.7) already complete: 235 IDs
+[2025-11-21T03:19:46.527Z] ✅ mail-feet (4.3.8) already complete: 237 IDs
+[2025-11-21T03:19:46.527Z] ✅ mail-wrist (4.3.9) already complete: 208 IDs
+[2025-11-21T03:19:46.527Z] ✅ mail-hands (4.3.10) already complete: 233 IDs
+[2025-11-21T03:19:46.527Z] ✅ plate-head (4.4.1) already complete: 141 IDs
+[2025-11-21T03:19:46.527Z] ✅ plate-shoulder (4.4.3) already complete: 146 IDs
+[2025-11-21T03:19:46.527Z] ✅ plate-chest (4.4.5) already complete: 132 IDs
+[2025-11-21T03:19:46.527Z] ✅ plate-waist (4.4.6) already complete: 129 IDs
+[2025-11-21T03:19:46.527Z] ✅ plate-legs (4.4.7) already complete: 147 IDs
+[2025-11-21T03:19:46.527Z] ✅ plate-feet (4.4.8) already complete: 155 IDs
+[2025-11-21T03:19:46.527Z] ✅ plate-wrist (4.4.9) already complete: 118 IDs
+[2025-11-21T03:19:46.527Z] ✅ plate-hands (4.4.10) already complete: 135 IDs
+[2025-11-21T03:19:46.527Z] 
+🎉 ID extraction complete!
+[2025-11-21T03:19:46.527Z] 📊 Final counts:
+[2025-11-21T03:19:46.527Z]    Weapons: 2850 IDs (18/18 subcategories)
+[2025-11-21T03:19:46.527Z]    Armor: 9726 IDs (37/37 subcategories)
+[2025-11-21T03:19:46.527Z]    Total: 12576 IDs
+[2025-11-21T03:19:46.527Z] 📋 Summary saved to turtle_db/extraction-summary.json
+[2025-11-21T03:19:46.581Z] 🔒 Browser closed

@@ -152,7 +152,7 @@ class HtmlCollector {
       Object.defineProperty(navigator, 'languages', {
         get: () => ['en-US', 'en'],
       });
-      window.chrome = { runtime: {} };
+      (window as any).chrome = { runtime: {} };
     });
   }
 
@@ -176,6 +176,58 @@ class HtmlCollector {
     }
     this.page = await this.browser!.newPage();
     await this.setupStealth(this.page);
+    
+    // Strategy 2: Session warming - visit safe pages first
+    await this.warmupSession();
+    
+    // Extra delay after page creation to avoid rapid requests
+    await this.delayWithJitter(3000, 1000);
+  }
+
+  async warmupSession() {
+    this.log('🔥 Warming up session with safe navigation...');
+    try {
+      // Visit main site first
+      await this.page!.goto(this.baseUrl, { 
+        waitUntil: 'networkidle2', 
+        timeout: 30000 
+      });
+      
+      await this.delayWithJitter(2000, 300);
+      
+      // Simulate human behavior - scroll a bit
+      await this.page!.evaluate(() => {
+        window.scrollTo(0, Math.floor(Math.random() * 300));
+      });
+      
+      await this.delayWithJitter(1500, 200);
+      
+      this.log('✅ Session warmed up');
+    } catch (error) {
+      this.log(`⚠️ Session warmup failed: ${error}`);
+    }
+  }
+
+  async simulateHumanBehavior() {
+    try {
+      // Random mouse movement and scrolling
+      await this.page!.evaluate(() => {
+        // Simulate mouse movement
+        const event = new MouseEvent('mousemove', {
+          clientX: Math.random() * window.innerWidth,
+          clientY: Math.random() * window.innerHeight,
+        });
+        document.dispatchEvent(event);
+        
+        // Random scroll
+        const scrollAmount = Math.floor(Math.random() * 200);
+        window.scrollTo(0, scrollAmount);
+      });
+      
+      await this.delayWithJitter(500, 200);
+    } catch (error) {
+      // Silent fail for human behavior simulation
+    }
   }
 
   private log(message: string) {
@@ -268,7 +320,7 @@ class HtmlCollector {
         const files = require('fs').readdirSync(dir);
         files.forEach((file: string) => {
           const match = file.match(/^(\d+)\.html$/);
-          if (match) {
+          if (match && match[1]) {
             existing.add(parseInt(match[1]));
           }
         });
@@ -290,8 +342,11 @@ class HtmlCollector {
     return this.delay(totalDelay);
   }
 
-  async collectItemHtml(itemId: number, subcategoryId: string, retryCount = 0): Promise<boolean> {
+  async collectItemHtml(itemId: number, subcategoryId: string, retryCount = 0, useNewPage = false): Promise<boolean> {
     try {
+      // Don't create fresh pages - they trigger Cloudflare
+      // Keep using same page instance like working quest script
+      
       const url = `${this.baseUrl}/?item=${itemId}`;
       
       await this.page!.goto(url, { 
@@ -348,7 +403,7 @@ class HtmlCollector {
         const waitTime = Math.min(5000 + (retryCount * 2000), 15000);
         this.log(`🔄 Retrying item ${itemId} in ${waitTime/1000} seconds...`);
         await this.delay(waitTime);
-        return this.collectItemHtml(itemId, subcategoryId, retryCount + 1);
+        return this.collectItemHtml(itemId, subcategoryId, retryCount + 1, true);
       }
       
       return false;
@@ -385,7 +440,7 @@ class HtmlCollector {
       !existingFiles.has(id) && !progress.failed_items.includes(id)
     );
     
-    this.log(`📦 Already collected: ${existingFiles.size}`);
+    this.log(`📦 Already collected: ${existingFiles?.size || 0}`);
     this.log(`⏳ Remaining to process: ${remainingIds.length}`);
     
     if (remainingIds.length === 0) {
@@ -397,24 +452,21 @@ class HtmlCollector {
     }
     
     for (let i = 0; i < remainingIds.length; i++) {
-      const itemId = remainingIds[i];
-      const overallProgress = existingFiles.size + i + 1;
+      const itemId = remainingIds[i]!;
+      const overallProgress = (existingFiles?.size || 0) + i + 1;
       
-      // Restart browser every 50 items for better stealth
-      if ((i + 1) % 50 === 0) {
+      // Restart browser after every item to avoid Cloudflare detection
+      if (i > 0) {
         await this.restartBrowser();
-      }
-      // Create fresh page every 10 items for anti-detection
-      else if ((i + 1) % 10 === 0) {
-        await this.createFreshPage();
       }
       
       this.log(`🔍 Processing ${config.name} item ${itemId} (${overallProgress}/${allIds.length})`);
       
-      const success = await this.collectItemHtml(itemId, subcategoryId);
+      // Don't use fresh pages - they trigger Cloudflare immediately
+      const success = await this.collectItemHtml(itemId, subcategoryId, 0, false);
       if (success) {
-        progress.subcategories[subcategoryId].processed_count = overallProgress;
-        progress.subcategories[subcategoryId].last_processed_id = itemId;
+        progress.subcategories[subcategoryId]!.processed_count = overallProgress;
+        progress.subcategories[subcategoryId]!.last_processed_id = itemId;
         
         this.log(`✅ Collected HTML for item ${itemId}`);
         
@@ -422,7 +474,7 @@ class HtmlCollector {
         this.saveProgress(progress);
         
       } else {
-        progress.subcategories[subcategoryId].failed_count++;
+        progress.subcategories[subcategoryId]!.failed_count++;
         progress.failed_items.push(itemId);
         this.logError(`Failed to collect HTML for item ${itemId} after 4 attempts`);
         
@@ -430,8 +482,8 @@ class HtmlCollector {
         this.saveProgress(progress);
       }
       
-      // Rate limiting with stealth protection and jitter
-      await this.delayWithJitter(1500, 500);
+      // Match quest script timing
+      await this.delay(2000);
     }
     
     progress.subcategories[subcategoryId].complete = true;

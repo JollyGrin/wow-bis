@@ -8,3 +8,519 @@
 ---
 [2025-11-21T02:22:22.529Z] ERROR: Failed to collect HTML for item 6692 after 4 attempts
 ---
+[2025-11-21T03:10:07.667Z] ERROR: Failed to collect HTML for item 10772 after 4 attempts
+---
+[2025-11-21T03:10:23.570Z] ERROR: Failed to collect HTML for item 11702 after 4 attempts
+---
+[2025-11-21T03:10:39.621Z] ERROR: Failed to collect HTML for item 12527 after 4 attempts
+---
+[2025-11-21T03:10:56.264Z] ERROR: Failed to collect HTML for item 12621 after 4 attempts
+---
+[2025-11-21T03:11:12.198Z] ERROR: Failed to collect HTML for item 12774 after 4 attempts
+---
+[2025-11-21T03:11:28.303Z] ERROR: Failed to collect HTML for item 12798 after 4 attempts
+---
+[2025-11-21T03:12:28.217Z] ERROR: Failed to collect HTML for item 13014 after 4 attempts
+---
+[2025-11-21T03:12:49.338Z] ERROR: Failed to collect HTML for item 13015 after 4 attempts
+---
+[2025-11-21T03:13:10.812Z] ERROR: Failed to collect HTML for item 13286 after 4 attempts
+---
+[2025-11-21T03:13:31.733Z] ERROR: Failed to collect HTML for item 13952 after 4 attempts
+---
+[2025-11-21T03:13:53.172Z] ERROR: Failed to collect HTML for item 17016 after 4 attempts
+---
+[2025-11-21T03:15:00.520Z] ERROR: Failed to collect HTML for item 18498 after 4 attempts
+---
+[2025-11-21T03:15:22.746Z] ERROR: Failed to collect HTML for item 18737 after 4 attempts
+---
+[2025-11-21T03:15:44.928Z] ERROR: Failed to collect HTML for item 18827 after 4 attempts
+---
+[2025-11-21T03:16:07.068Z] ERROR: Failed to collect HTML for item 18828 after 4 attempts
+---
+[2025-11-21T03:16:29.363Z] ERROR: Failed to collect HTML for item 19103 after 4 attempts
+---
+[2025-11-21T03:17:08.967Z] ERROR: Failed to collect HTML for item 19362 after 4 attempts
+---
+[2025-11-21T03:17:35.151Z] ERROR: Failed to collect HTML for item 19363 after 4 attempts
+---
+[2025-11-21T03:18:05.216Z] ERROR: Failed to collect HTML for item 19852 after 4 attempts
+---
+[2025-11-21T03:18:34.241Z] ERROR: Failed to collect HTML for item 21242 after 4 attempts
+---
+[2025-11-21T03:24:38.443Z] ERROR: Failed to collect HTML for item 21401 after 4 attempts
+---
+[2025-11-21T03:24:55.035Z] ERROR: Failed to collect HTML for item 22816 after 4 attempts
+---
+[2025-11-21T03:25:11.586Z] ERROR: Failed to collect HTML for item 51832 after 4 attempts
+---
+[2025-11-21T03:25:28.169Z] ERROR: Failed to collect HTML for item 55080 after 4 attempts
+---
+[2025-11-21T03:25:44.980Z] ERROR: Error collecting item 58194 (attempt 1)
+Message: Attempted to use detached Frame '4D0E0262F2879DC303C37E7847123FF9'.
+Stack: Error: Attempted to use detached Frame '4D0E0262F2879DC303C37E7847123FF9'.
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/decorators.js:99:27)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:814:43)
+    at evaluate (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:812:24)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:373:47)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: Attempted to use detached Frame '4D0E0262F2879DC303C37E7847123FF9'.
+Full Error: {}
+---
+[2025-11-21T03:25:49.993Z] ERROR: Error collecting item 58194 (attempt 2)
+Message: Attempted to use detached Frame '4D0E0262F2879DC303C37E7847123FF9'.
+Stack: Error: Attempted to use detached Frame '4D0E0262F2879DC303C37E7847123FF9'.
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/decorators.js:99:27)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:568:43)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:567:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:352:24)
+    at collectItemHtml (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:345:25)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: Attempted to use detached Frame '4D0E0262F2879DC303C37E7847123FF9'.
+Full Error: {}
+---
+[2025-11-21T03:36:29.080Z] ERROR: Error collecting item 58194 (attempt 3)
+Message: Attempted to use detached Frame '4D0E0262F2879DC303C37E7847123FF9'.
+Stack: Error: Attempted to use detached Frame '4D0E0262F2879DC303C37E7847123FF9'.
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/decorators.js:99:27)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:568:43)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:567:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:352:24)
+    at collectItemHtml (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:345:25)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: Attempted to use detached Frame '4D0E0262F2879DC303C37E7847123FF9'.
+Full Error: {}
+---
+[2025-11-21T10:31:17.668Z] ERROR: Failed to collect HTML for item 870 after 4 attempts
+---
+[2025-11-21T10:49:31.510Z] ERROR: Failed to collect HTML for item 2824 after 4 attempts
+---
+[2025-11-21T11:05:37.325Z] ERROR: Failed to collect HTML for item 2098 after 4 attempts
+---
+[2025-11-21T11:19:28.145Z] ERROR: Failed to collect HTML for item 810 after 4 attempts
+---
+[2025-11-21T11:53:49.911Z] ERROR: Failed to collect HTML for item 2915 after 4 attempts
+---
+[2025-11-21T12:16:35.425Z] ERROR: Failed to collect HTML for item 1726 after 4 attempts
+---
+[2025-11-21T12:27:33.383Z] ERROR: Failed to collect HTML for item 809 after 4 attempts
+---
+[2025-11-21T13:20:50.596Z] ERROR: Error collecting item 15216 (attempt 1)
+Message: Navigation timeout of 30000 ms exceeded
+Stack: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new PuppeteerError (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/common/Errors.js:16:9)
+    at new TimeoutError (unknown)
+    at new Deferred (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/Deferred.js:57:38)
+    at create (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/Deferred.js:18:20)
+    at new LifecycleWatcher (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/LifecycleWatcher.js:70:46)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:145:33)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:142:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:568:43)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:567:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:352:24)
+Error String: TimeoutError: Navigation timeout of 30000 ms exceeded
+Full Error: {
+  "name": "TimeoutError"
+}
+---
+[2025-11-21T13:49:11.871Z] ERROR: Error collecting item 1821 (attempt 1)
+Message: Navigation timeout of 30000 ms exceeded
+Stack: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new PuppeteerError (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/common/Errors.js:16:9)
+    at new TimeoutError (unknown)
+    at new Deferred (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/Deferred.js:57:38)
+    at create (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/Deferred.js:18:20)
+    at new LifecycleWatcher (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/LifecycleWatcher.js:70:46)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:145:33)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:142:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:568:43)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:567:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:352:24)
+Error String: TimeoutError: Navigation timeout of 30000 ms exceeded
+Full Error: {
+  "name": "TimeoutError"
+}
+---
+[2025-11-21T14:08:03.409Z] ERROR: Error collecting item 10878 (attempt 1)
+Message: Attempted to use detached Frame '197037C5AFF5F5B974D2CC9DBA18E7C7'.
+Stack: Error: Attempted to use detached Frame '197037C5AFF5F5B974D2CC9DBA18E7C7'.
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/decorators.js:99:27)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:814:43)
+    at evaluate (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:812:24)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:360:45)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: Attempted to use detached Frame '197037C5AFF5F5B974D2CC9DBA18E7C7'.
+Full Error: {}
+---
+[2025-11-21T14:08:08.412Z] ERROR: Error collecting item 10878 (attempt 2)
+Message: Attempted to use detached Frame '197037C5AFF5F5B974D2CC9DBA18E7C7'.
+Stack: Error: Attempted to use detached Frame '197037C5AFF5F5B974D2CC9DBA18E7C7'.
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/decorators.js:99:27)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:568:43)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:567:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:352:24)
+    at collectItemHtml (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:345:25)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: Attempted to use detached Frame '197037C5AFF5F5B974D2CC9DBA18E7C7'.
+Full Error: {}
+---
+[2025-11-21T14:08:34.265Z] ERROR: Error collecting item 10878 (attempt 3)
+Message: Attempted to use detached Frame '197037C5AFF5F5B974D2CC9DBA18E7C7'.
+Stack: Error: Attempted to use detached Frame '197037C5AFF5F5B974D2CC9DBA18E7C7'.
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/decorators.js:99:27)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:568:43)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:567:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:352:24)
+    at collectItemHtml (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:345:25)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: Attempted to use detached Frame '197037C5AFF5F5B974D2CC9DBA18E7C7'.
+Full Error: {}
+---
+[2025-11-21T14:08:43.264Z] ERROR: Error collecting item 10878 (attempt 4)
+Message: Attempted to use detached Frame '197037C5AFF5F5B974D2CC9DBA18E7C7'.
+Stack: Error: Attempted to use detached Frame '197037C5AFF5F5B974D2CC9DBA18E7C7'.
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/decorators.js:99:27)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:568:43)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:567:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:352:24)
+    at collectItemHtml (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:345:25)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: Attempted to use detached Frame '197037C5AFF5F5B974D2CC9DBA18E7C7'.
+Full Error: {}
+---
+[2025-11-21T14:08:43.265Z] ERROR: Failed to collect HTML for item 10878 after 4 attempts
+---
+[2025-11-21T14:52:19.046Z] ERROR: Error collecting item 12892 (attempt 1)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=12892
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=12892
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=12892
+Full Error: {}
+---
+[2025-11-21T14:52:24.082Z] ERROR: Error collecting item 12892 (attempt 2)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=12892
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=12892
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=12892
+Full Error: {}
+---
+[2025-11-21T15:07:49.863Z] ERROR: Error collecting item 12892 (attempt 3)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=12892
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=12892
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=12892
+Full Error: {}
+---
+[2025-11-21T15:23:04.861Z] ERROR: Error collecting item 12892 (attempt 4)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=12892
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=12892
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=12892
+Full Error: {}
+---
+[2025-11-21T15:23:04.965Z] ERROR: Failed to collect HTML for item 12892 after 4 attempts
+---
+[2025-11-21T15:23:07.385Z] ERROR: Error collecting item 13165 (attempt 1)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13165
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13165
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13165
+Full Error: {}
+---
+[2025-11-21T15:38:16.613Z] ERROR: Error collecting item 13165 (attempt 2)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13165
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13165
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13165
+Full Error: {}
+---
+[2025-11-21T15:55:57.164Z] ERROR: Error collecting item 13165 (attempt 3)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13165
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13165
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13165
+Full Error: {}
+---
+[2025-11-21T16:09:07.869Z] ERROR: Error collecting item 13165 (attempt 4)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13165
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13165
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13165
+Full Error: {}
+---
+[2025-11-21T16:09:07.969Z] ERROR: Failed to collect HTML for item 13165 after 4 attempts
+---
+[2025-11-21T16:09:10.338Z] ERROR: Error collecting item 13627 (attempt 1)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13627
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13627
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13627
+Full Error: {}
+---
+[2025-11-21T16:09:15.371Z] ERROR: Error collecting item 13627 (attempt 2)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13627
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13627
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13627
+Full Error: {}
+---
+[2025-11-21T16:25:51.878Z] ERROR: Error collecting item 13627 (attempt 3)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13627
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13627
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13627
+Full Error: {}
+---
+[2025-11-21T16:41:29.870Z] ERROR: Error collecting item 13627 (attempt 4)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13627
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13627
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13627
+Full Error: {}
+---
+[2025-11-21T16:41:29.971Z] ERROR: Failed to collect HTML for item 13627 after 4 attempts
+---
+[2025-11-21T16:41:32.383Z] ERROR: Error collecting item 13707 (attempt 1)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13707
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13707
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13707
+Full Error: {}
+---
+[2025-11-21T16:44:53.604Z] ERROR: Error collecting item 13707 (attempt 2)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13707
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13707
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13707
+Full Error: {}
+---
+[2025-11-21T17:26:11.741Z] ERROR: Error collecting item 14524 (attempt 1)
+Message: Navigation timeout of 30000 ms exceeded
+Stack: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new PuppeteerError (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/common/Errors.js:16:9)
+    at new TimeoutError (unknown)
+    at new Deferred (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/Deferred.js:57:38)
+    at create (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/Deferred.js:18:20)
+    at new LifecycleWatcher (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/LifecycleWatcher.js:70:46)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:145:33)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:142:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:568:43)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:567:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:352:24)
+Error String: TimeoutError: Navigation timeout of 30000 ms exceeded
+Full Error: {
+  "name": "TimeoutError"
+}
+---
+[2025-11-21T17:43:48.748Z] ERROR: Error collecting item 14524 (attempt 2)
+Message: Navigation timeout of 30000 ms exceeded
+Stack: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new PuppeteerError (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/common/Errors.js:16:9)
+    at new TimeoutError (unknown)
+    at new Deferred (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/Deferred.js:57:38)
+    at create (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/Deferred.js:18:20)
+    at new LifecycleWatcher (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/LifecycleWatcher.js:70:46)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:145:33)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:142:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:568:43)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:567:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:352:24)
+Error String: TimeoutError: Navigation timeout of 30000 ms exceeded
+Full Error: {
+  "name": "TimeoutError"
+}
+---
+[2025-11-21T18:45:41.092Z] ERROR: Error collecting item 647 (attempt 1)
+Message: Navigation timeout of 30000 ms exceeded
+Stack: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new PuppeteerError (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/common/Errors.js:16:9)
+    at new TimeoutError (unknown)
+    at new Deferred (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/Deferred.js:57:38)
+    at create (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/Deferred.js:18:20)
+    at new LifecycleWatcher (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/LifecycleWatcher.js:70:46)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:145:33)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:142:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:568:43)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:567:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:352:24)
+Error String: TimeoutError: Navigation timeout of 30000 ms exceeded
+Full Error: {
+  "name": "TimeoutError"
+}
+---
+[2025-11-21T19:12:08.848Z] ERROR: Failed to collect HTML for item 647 after 4 attempts
+---
+[2025-11-21T21:59:00.560Z] ERROR: Error collecting item 13043 (attempt 1)
+Message: Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+Stack: ProtocolError: Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+    at new PuppeteerError (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/common/Errors.js:16:9)
+    at new ProtocolError (unknown)
+    at new Callback (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/common/CallbackRegistry.js:102:17)
+    at create (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/common/CallbackRegistry.js:21:30)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:360:50)
+    at #evaluate (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:328:21)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:274:27)
+    at evaluate (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:273:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/IsolatedWorld.js:97:30)
+    at evaluate (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/IsolatedWorld.js:88:20)
+Error String: ProtocolError: Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+Full Error: {
+  "name": "ProtocolError",
+  "message": "Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed."
+}
+---
+[2025-11-21T21:59:05.719Z] ERROR: Error collecting item 13043 (attempt 2)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13043
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13043
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13043
+Full Error: {}
+---
+[2025-11-21T21:59:12.740Z] ERROR: Error collecting item 13043 (attempt 3)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13043
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13043
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13043
+Full Error: {}
+---
+[2025-11-21T22:12:23.070Z] ERROR: Error collecting item 13043 (attempt 4)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13043
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13043
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13043
+Full Error: {}
+---
+[2025-11-21T22:12:23.070Z] ERROR: Failed to collect HTML for item 13043 after 4 attempts
+---
+[2025-11-21T22:12:25.516Z] ERROR: Error collecting item 13044 (attempt 1)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13044
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13044
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13044
+Full Error: {}
+---
+[2025-11-21T22:12:30.554Z] ERROR: Error collecting item 13044 (attempt 2)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13044
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13044
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13044
+Full Error: {}
+---
+[2025-11-21T22:12:37.592Z] ERROR: Error collecting item 13044 (attempt 3)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13044
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13044
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13044
+Full Error: {}
+---
+[2025-11-21T22:15:08.702Z] ERROR: Error collecting item 13044 (attempt 4)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13044
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13044
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13044
+Full Error: {}
+---
+[2025-11-21T22:15:08.801Z] ERROR: Failed to collect HTML for item 13044 after 4 attempts
+---
+[2025-11-21T22:15:11.176Z] ERROR: Error collecting item 13049 (attempt 1)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13049
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13049
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13049
+Full Error: {}
+---
+[2025-11-21T22:15:16.216Z] ERROR: Error collecting item 13049 (attempt 2)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13049
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13049
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13049
+Full Error: {}
+---
+[2025-11-21T22:16:47.253Z] ERROR: Error collecting item 13049 (attempt 3)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13049
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13049
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13049
+Full Error: {}
+---
+[2025-11-21T22:27:58.802Z] ERROR: Error collecting item 13053 (attempt 1)
+Message: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13053
+Stack: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13053
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:180:31)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: net::ERR_INTERNET_DISCONNECTED at https://database.turtle-wow.org/?item=13053
+Full Error: {}
+---
+[2025-11-21T23:44:03.251Z] ERROR: Error collecting item 18520 (attempt 1)
+Message: Attempted to use detached Frame 'DB1C41ADD9856FDB5F4F696F1A607F39'.
+Stack: Error: Attempted to use detached Frame 'DB1C41ADD9856FDB5F4F696F1A607F39'.
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/decorators.js:99:27)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:814:43)
+    at evaluate (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:812:24)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:360:45)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: Attempted to use detached Frame 'DB1C41ADD9856FDB5F4F696F1A607F39'.
+Full Error: {}
+---
+[2025-11-21T23:44:08.253Z] ERROR: Error collecting item 18520 (attempt 2)
+Message: Attempted to use detached Frame 'DB1C41ADD9856FDB5F4F696F1A607F39'.
+Stack: Error: Attempted to use detached Frame 'DB1C41ADD9856FDB5F4F696F1A607F39'.
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/decorators.js:99:27)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:568:43)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:567:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:352:24)
+    at collectItemHtml (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:345:25)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: Attempted to use detached Frame 'DB1C41ADD9856FDB5F4F696F1A607F39'.
+Full Error: {}
+---
+[2025-11-21T23:44:15.257Z] ERROR: Error collecting item 18520 (attempt 3)
+Message: Attempted to use detached Frame 'DB1C41ADD9856FDB5F4F696F1A607F39'.
+Stack: Error: Attempted to use detached Frame 'DB1C41ADD9856FDB5F4F696F1A607F39'.
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/decorators.js:99:27)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:568:43)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:567:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:352:24)
+    at collectItemHtml (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:345:25)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: Attempted to use detached Frame 'DB1C41ADD9856FDB5F4F696F1A607F39'.
+Full Error: {}
+---
+[2025-11-21T23:44:24.260Z] ERROR: Error collecting item 18520 (attempt 4)
+Message: Attempted to use detached Frame 'DB1C41ADD9856FDB5F4F696F1A607F39'.
+Stack: Error: Attempted to use detached Frame 'DB1C41ADD9856FDB5F4F696F1A607F39'.
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/util/decorators.js:99:27)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:568:43)
+    at goto (/Users/grins/git/warcraft/wow-bis/node_modules/.pnpm/puppeteer-core@24.25.0/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:567:20)
+    at <anonymous> (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:352:24)
+    at collectItemHtml (/Users/grins/git/warcraft/wow-bis/scripts/collect-html-data.ts:345:25)
+    at processTicksAndRejections (native:7:39)
+Error String: Error: Attempted to use detached Frame 'DB1C41ADD9856FDB5F4F696F1A607F39'.
+Full Error: {}
+---
+[2025-11-21T23:44:24.261Z] ERROR: Failed to collect HTML for item 18520 after 4 attempts
+---

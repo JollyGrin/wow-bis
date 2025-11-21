@@ -1,20 +1,115 @@
 {
   "subcategories": {
     "2.0": {
-      "processed_count": 6,
-      "failed_count": 5,
-      "last_processed_id": 7786,
-      "complete": false,
+      "processed_count": 185,
+      "failed_count": 29,
+      "last_processed_id": 23582,
+      "complete": true,
       "total_items": 214
+    },
+    "2.1": {
+      "processed_count": 353,
+      "failed_count": 1,
+      "last_processed_id": 21286,
+      "complete": true,
+      "total_items": 168
+    },
+    "2.2": {
+      "processed_count": 495,
+      "failed_count": 1,
+      "last_processed_id": 80876,
+      "complete": true,
+      "total_items": 143
+    },
+    "2.3": {
+      "processed_count": 616,
+      "failed_count": 1,
+      "last_processed_id": 58086,
+      "complete": true,
+      "total_items": 122
+    },
+    "2.4": {
+      "processed_count": 929,
+      "failed_count": 1,
+      "last_processed_id": 23583,
+      "complete": true,
+      "total_items": 314
+    },
+    "2.5": {
+      "processed_count": 1131,
+      "failed_count": 1,
+      "last_processed_id": 36013,
+      "complete": true,
+      "total_items": 203
+    },
+    "2.6": {
+      "processed_count": 1231,
+      "failed_count": 1,
+      "last_processed_id": 80814,
+      "complete": true,
+      "total_items": 101
+    },
+    "2.7": {
+      "processed_count": 1570,
+      "failed_count": 5,
+      "last_processed_id": 50433,
+      "complete": true,
+      "total_items": 340
+    },
+    "2.8": {
+      "processed_count": 1672,
+      "failed_count": 4,
+      "last_processed_id": 2024,
+      "complete": false,
+      "total_items": 196
     }
   },
   "start_time": "2025-11-21T02:11:00.205Z",
-  "last_updated": "2025-11-21T02:48:37.083Z",
+  "last_updated": "2025-11-21T23:53:06.181Z",
   "failed_items": [
     1481,
     2807,
     2815,
     2878,
-    6692
+    6692,
+    10772,
+    11702,
+    12527,
+    12621,
+    12774,
+    12798,
+    13014,
+    13015,
+    13286,
+    13952,
+    17016,
+    18498,
+    18737,
+    18827,
+    18828,
+    19103,
+    19362,
+    19363,
+    19852,
+    21242,
+    21401,
+    22816,
+    51832,
+    55080,
+    870,
+    2824,
+    2098,
+    810,
+    2915,
+    1726,
+    809,
+    10878,
+    12892,
+    13165,
+    13627,
+    647,
+    13043,
+    13044,
+    18520
   ]
 }
